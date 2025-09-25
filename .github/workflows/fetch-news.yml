@@ -19,7 +19,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4
+          pip install requests beautifulsoup4 lxml
 
       - name: Run fetch_news.py
         run: python fetch_news.py
