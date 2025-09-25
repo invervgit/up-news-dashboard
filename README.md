@@ -3,7 +3,7 @@
 This repository contains a self‑hosted dashboard that aggregates political and governance news about Uttar Pradesh from multiple RSS feeds.  The dashboard renders a list of unique articles summarised from the feeds and allows the user to filter by date range and category or view the top fifty stories published today.  It is designed to run without proprietary dependencies and can be hosted for free using static site hosts such as GitHub Pages or Netlify.
 
 ## Features
-
+  
 - **Multiple sources:** The back‑end script fetches RSS feeds from Dainik Bhaskar (English edition), Yugmarg and Live Hindustan【739932574703620†L29-L31】【960192868319618†L55-L73】.
 - **Hourly updates:** By running the fetch script on a schedule (e.g. via GitHub Actions) the dashboard stays fresh between 07:00 and 22:00 local time.  The script deduplicates stories and writes the latest 60–100 items to `data/news.json`.
 - **Summarised content:** Instead of showing raw links, the script extracts descriptions from the feeds and produces concise summaries so visitors get the gist without leaving the page.
