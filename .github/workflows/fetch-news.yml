@@ -18,7 +18,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser sumy newspaper3k beautifulsoup4 requests
+          pip install feedparser newspaper3k requests
 
       - name: Run fetch_news.py
         run: python fetch_news.py
