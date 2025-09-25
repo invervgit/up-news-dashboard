@@ -10,8 +10,7 @@ steps:
    `requests` library and `BeautifulSoup` from `bs4` for XML parsing.
 2. Extracts key fields such as title, link, publication date and a
    short description from each feed item.  If the feed provides no
-   description the script falls back to a truncated portion of the
-   article's HTML body.
+   description the script falls back to a truncated portion of the article's HTML body.
 3. Generates a very simple summary by taking the first two sentences or
    roughly the first 40 words from the description.  This lightweight
    summarisation avoids heavy NLP dependencies while still conveying
@@ -47,14 +46,26 @@ from bs4 import BeautifulSoup
 # provided they produce valid RSS 2.0 or Atom XML.  The keys are used
 # to record the source of each article.
 FEEDS: Dict[str, str] = {
-    # English language feed from Dainik Bhaskar covering local UP news【739932574703620†L29-L31】.
     "BhaskarEnglish": "https://www.bhaskarenglish.in/rss-v1--category-16346.xml",
-    # Hindi language feed from Yugmarg specifically for Uttar Pradesh【960192868319618†L55-L73】.
     "Yugmarg": "https://www.yugmarg.com/rssfeed/uttarpradesh-rss.xml",
-    # Hindi language feed from Live Hindustan for Uttar Pradesh【437299901418450†L1111-L1113】.
     "LiveHindustan": "https://api.livehindustan.com/feeds/rss/uttar-pradesh/rssfeed.xml",
+    "AmarUjala": "https://www.amarujala.com/uttar-pradesh",
+    "AmarUjala_Gorakhpur": "https://www.amarujala.com/uttar-pradesh/gorakhpur",
+    "AmarUjala_Lucknow": "https://www.amarujala.com/uttar-pradesh/lucknow",
+    "AmarUjala_Aligarh": "https://www.amarujala.com/uttar-pradesh/aligarh",
+    "AmarUjala_Agra": "https://www.amarujala.com/uttar-pradesh/agra",
+    "AmarUjala_Azamgarh": "https://www.amarujala.com/uttar-pradesh/azamgarh",
+    "AmarUjala_Faizabad": "https://www.amarujala.com/uttar-pradesh/faizabad",
+    "AmarUjala_Mathura": "https://www.amarujala.com/uttar-pradesh/mathura",
+    "NavbharatTimes_UttarPradesh": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/articlelist/21236867.cms",
+    "NavbharatTimes_Meerut": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/meerut/articlelist/11364157.cms",
+    "NavbharatTimes_Gorakhpur": "https://navbharattimes.indiatimes.com/state/uttar-pradesh/gorakhpur/articlelist/61483701.cms",
+    "Patrika_UttarPradesh": "https://www.patrika.com/uttar-pradesh-news",
+    "Patrika_Agra": "https://www.patrika.com/agra-news",
+    "Patrika_Firozabad": "https://www.patrika.com/firozabad-news",
+    "Patrika_Moradabad": "https://www.patrika.com/moradabad-news",
+    "Patrika_Bareilly": "https://www.patrika.com/bareilly-news",
 }
-
 
 # Keyword lists used for naive text classification.  Each list should
 # contain case‑insensitive tokens that, when present in a story, hint
@@ -63,9 +74,7 @@ FEEDS: Dict[str, str] = {
 # below.  Stories with no keyword matches are labelled "Uncategorised".
 CATEGORY_KEYWORDS: Dict[str, List[str]] = {
     "Opposition Activity": [
-        # Parties
         "samajwadi", "sp", "congress", "inc", "aazad samaj", "bsp", "aimim", "ad(k)",
-        # Opposition leaders
         "akhilesh", "mayawati", "azad", "azad samaj", "asaduddin", "owaisi",
         "azad khan", "azam khan", "rahul gandhi",
     ],
