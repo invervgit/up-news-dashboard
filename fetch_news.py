@@ -55,7 +55,6 @@ FEEDS: List[str] = [
     # any entries that do not contain valid RSS items.
     
 "https://www.bhaskarenglish.in/rss-v1--category-16346.xml",
-"https://www.yugmarg.com/rssfeed/uttarpradesh-rss.xml",
 "https://api.livehindustan.com/feeds/rss/uttar-pradesh/rssfeed.xml",
 "https://www.bhaskar.com/rss-v1--category-2052.xml",
 "https://www.amarujala.com/rss/uttar-pradesh.xml",
@@ -64,7 +63,7 @@ FEEDS: List[str] = [
 "https://www.amarujala.com/rss/amroha.xml",
 "https://www.amarujala.com/rss/amethi.xml",
 "https://www.amarujala.com/rss/ambedkar-nagar.xml",
-"https://www.amarujala.com/rss/faizabad.xml",
+"https://www.amarujala.com/rss/ayodhya.xml",
 "https://www.amarujala.com/rss/aligarh.xml",
 "https://www.amarujala.com/rss/agra.xml",
 "https://www.amarujala.com/rss/azamgarh.xml",
@@ -126,7 +125,7 @@ FEEDS: List[str] = [
 "https://www.amarujala.com/rss/siddharthnagar.xml",
 "https://www.amarujala.com/rss/sitapur.xml",
 "https://www.amarujala.com/rss/sultanpur.xml",
-"https://www.amarujala.com/rss/sonbhadra.xml",
+"https://www.amarujala.com/rss/sonebhadra.xml",
 "https://www.amarujala.com/rss/hamirpur.xml",
 "https://www.amarujala.com/rss/hardoi.xml",
 "https://www.amarujala.com/rss/hathras.xml",
