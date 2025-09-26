@@ -1,6 +1,10 @@
 /*
- * Minimal styling for the Uttar Pradesh news dashboard. The design aims
- * to be responsive and legible on both desktop and mobile screens.
+ * Enhanced styling for the Uttar Pradesh news dashboard.  The design
+ * improves visual hierarchy, adds coloured badges for categories and
+ * adopts a responsive grid layout for the news cards on wider
+ * screens.  Colours have been chosen to provide contrast without
+ * overwhelming the reader.  Feel free to tweak the palette to match
+ * your organisation’s branding.
  */
 
 body {
@@ -12,14 +16,14 @@ body {
 }
 
 .container {
-  max-width: 1000px;
+  max-width: 1100px;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1.5rem;
 }
 
-header h1 {
+.masthead h1 {
   margin-top: 0;
-  font-size: 2rem; /* Increased font size for header */
+  font-size: 2.2rem;
   font-weight: 600;
   text-align: center;
 }
@@ -27,8 +31,8 @@ header h1 {
 .subtitle {
   color: #555;
   font-size: 1rem;
-  margin-top: 0.2rem;
-  margin-bottom: 1rem;
+  margin-top: 0.3rem;
+  margin-bottom: 1.5rem;
   text-align: center;
 }
 
@@ -47,12 +51,12 @@ header h1 {
 .filter-item {
   display: flex;
   flex-direction: column;
-  font-size: 1rem;
-  margin-bottom: 1rem;
+  font-size: 0.95rem;
+  margin-bottom: 0.5rem;
 }
 
 .filter-item label {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.4rem;
   font-weight: 500;
 }
 
@@ -91,9 +95,25 @@ header h1 {
   background-color: #d5d5d5;
 }
 
+/* Form controls */
+.filters select,
+.filters input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  width: 100%;
+  max-width: 230px;
+}
+
+.filters input[type="date"] {
+  padding: 0.5rem 0.75rem;
+}
+
+/* News cards */
 .news-container {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr;
   gap: 1.5rem;
 }
 
@@ -103,17 +123,18 @@ header h1 {
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.3s ease, transform 0.3s ease;
+  position: relative;
 }
 
 .news-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .news-card h3 {
   margin-top: 0;
   margin-bottom: 0.6rem;
-  font-size: 1.2rem;
+  font-size: 1.25rem;
 }
 
 .news-card h3 a {
@@ -127,31 +148,49 @@ header h1 {
 }
 
 .meta {
-  font-size: 0.9rem;
+  font-size: 0.85rem;
   color: #777;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.6rem;
 }
 
-.footnote {
-  font-size: 0.9rem;
-  color: #777;
-  margin-top: 2rem;
-  text-align: center;
-  line-height: 1.4;
+/* Category badges */
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  font-size: 0.75rem;
+  border-radius: 4px;
+  margin-bottom: 0.6rem;
+  color: #fff;
 }
 
-.filters select,
-.filters input {
-  padding: 0.5rem;
-  font-size: 1rem;
-  border: 1px solid #ccc;
-  border-radius: 6px;
-  width: 100%;
-  max-width: 250px;
+.badge-opposition-activity {
+  background-color: #e53935;
 }
 
-.filters input[type="date"] {
-  padding: 0.5rem 0.75rem;
+.badge-nda-activity {
+  background-color: #fb8c00;
+}
+
+.badge-governance-issues {
+  background-color: #1e88e5;
+}
+
+.badge-judicial-cases {
+  background-color: #8e24aa;
+}
+
+.badge-uncategorised {
+  background-color: #607d8b;
+}
+
+/* Read more link styling */
+.news-card p:last-child a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.news-card p:last-child a:hover {
+  text-decoration: underline;
 }
 
 /* Pagination styles */
@@ -183,30 +222,41 @@ header h1 {
   border-color: #005bb5;
 }
 
-/* Responsive Design */
+/* Footer */
+.footnote {
+  font-size: 0.85rem;
+  color: #777;
+  margin-top: 2rem;
+  text-align: center;
+  line-height: 1.4;
+}
+
+/* Responsive design */
+@media (min-width: 700px) {
+  .news-container {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
 @media (max-width: 768px) {
   .filters {
     flex-direction: column;
     align-items: flex-start;
   }
-
   .filter-actions {
     flex-direction: column;
     gap: 0.5rem;
+    margin-left: 0;
   }
-
   .container {
-    padding: 0.5rem;
-  }
-
-  .news-card {
     padding: 1rem;
   }
-
-  .news-card h3 {
-    font-size: 1rem;
+  .news-card {
+    padding: 1.25rem;
   }
-
+  .news-card h3 {
+    font-size: 1.1rem;
+  }
   .btn {
     font-size: 0.9rem;
   }
