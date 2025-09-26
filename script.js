@@ -1,8 +1,12 @@
 /*
- * Client-side logic for the Uttar Pradesh news dashboard. This script
- * fetches the pre-compiled JSON data file produced by fetch_news.py and
- * renders it into a list of cards. Users can filter by date range,
- * category, or view the top 50 stories published today.
+ * Client‑side logic for the enhanced Uttar Pradesh news dashboard.
+ *
+ * This script fetches the pre‑compiled JSON data file produced by
+ * fetch_news.py and renders it into a responsive grid of cards.  Users
+ * can filter by date range, category or district, change the number of
+ * items per page, and view the top 50 stories published today.  The
+ * cards display a coloured badge indicating the category and a
+ * multi‑sentence summary so readers do not need to leave the page.
  */
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -117,6 +121,10 @@ document.addEventListener('DOMContentLoaded', () => {
     renderPage(currentPage);
   }
 
+  function categoryToSlug(cat) {
+    return cat.toLowerCase().replace(/\s+/g, '-');
+  }
+
   function render(list) {
     const container = document.getElementById('news-container');
     container.innerHTML = '';
@@ -129,16 +137,17 @@ document.addEventListener('DOMContentLoaded', () => {
     list.forEach(item => {
       const card = document.createElement('div');
       card.className = 'news-card';
-      
       const dateObj = new Date(item.pubDate);
       const localDateString = dateObj.toLocaleString(undefined, {
         year: 'numeric', month: 'short', day: 'numeric',
         hour: '2-digit', minute: '2-digit'
       });
-      
+      const catSlug = categoryToSlug(item.category || 'Uncategorised');
+      const badgeClass = `badge-${catSlug}`;
       card.innerHTML = `
         <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
-        <div class="meta">${localDateString} • ${item.category} • ${item.source} • ${item.district}</div>
+        <div class="meta">${localDateString} • ${item.source} • ${item.district}</div>
+        <span class="badge ${badgeClass}">${item.category}</span>
         <p>${item.summary}</p>
         <p><a href="${item.link}" target="_blank" rel="noopener noreferrer">Read more</a></p>
       `;
@@ -158,11 +167,9 @@ document.addEventListener('DOMContentLoaded', () => {
     const pagination = document.getElementById('pagination');
     pagination.innerHTML = '';
     const totalPages = Math.ceil(filteredStories.length / itemsPerPage);
-    
     if (totalPages <= 1) {
       return;
     }
-
     for (let i = 1; i <= totalPages; i++) {
       const btn = document.createElement('button');
       btn.className = 'page-link';
