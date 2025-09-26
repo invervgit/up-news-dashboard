@@ -1,85 +1,90 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Uttar Pradesh News Dashboard</title>
-  <!-- Simple stylesheet for a clean layout -->
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <div class="container">
-    <header>
-      <h1>Uttar Pradesh Political &amp; Governance News Dashboard</h1>
-      <p class="subtitle">Latest stories from selected RSS feeds covering politics, governance, and judicial matters in Uttar Pradesh. Use the filters below to narrow the list. Select the “Top 50 Today” button to see the most recent stories.</p>
-    </header>
-    
-    <!-- Filters Section -->
-    <section class="filters">
-      <!-- Start Date Filter -->
-      <div class="filter-item">
-        <label for="start-date">Start date:</label>
-        <input type="date" id="start-date">
-      </div>
-      
-      <!-- End Date Filter -->
-      <div class="filter-item">
-        <label for="end-date">End date:</label>
-        <input type="date" id="end-date">
-      </div>
-      
-      <!-- Category Filter -->
-      <div class="filter-item">
-        <label for="category">Category:</label>
-        <select id="category">
-          <option value="All">All categories</option>
-          <option value="Opposition Activity">Opposition Activity</option>
-          <option value="NDA Activity">NDA Activity</option>
-          <option value="Governance issues">Governance issues</option>
-          <option value="Judicial cases">Judicial cases</option>
-        </select>
-      </div>
-      
-      <!-- District Filter -->
-      <div class="filter-item">
-        <label for="district">District:</label>
-        <select id="district">
-          <option value="All">All districts</option>
-        </select>
-      </div>
-      
-      <!-- Entries Per Page Filter -->
-      <div class="filter-item">
-        <label for="items-per-page">Entries per page:</label>
-        <select id="items-per-page">
-          <option value="50">50</option>
-          <option value="100">100</option>
-        </select>
-      </div>
-      
-      <!-- Filter Actions -->
-      <div class="filter-actions">
-        <button id="today-btn" class="btn">Top 50 Today</button>
-        <button id="reset-btn" class="btn btn-secondary">Reset</button>
-      </div>
-    </section>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Uttar Pradesh News Dashboard</title>
+    <!-- Enhanced stylesheet for a cleaner, more modern layout -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header class="masthead">
+        <h1>Uttar Pradesh Political &amp; Governance News Dashboard</h1>
+        <p class="subtitle">
+          Latest stories from selected RSS feeds covering politics, governance, and
+          judicial matters in Uttar Pradesh. Use the filters below to narrow
+          the list. Select the “Top 50 Today” button to see the most recent
+          stories.
+        </p>
+      </header>
 
-    <!-- News Container -->
-    <main>
-      <div id="news-container" class="news-container">
-        <!-- News cards will be dynamically injected here by script.js -->
-      </div>
-      
-      <!-- Pagination Controls will be injected here -->
-      <div id="pagination" class="pagination"></div>
-    </main>
+      <!-- Filters Section -->
+      <section class="filters">
+        <!-- Start Date Filter -->
+        <div class="filter-item">
+          <label for="start-date">Start date:</label>
+          <input type="date" id="start-date" />
+        </div>
+        <!-- End Date Filter -->
+        <div class="filter-item">
+          <label for="end-date">End date:</label>
+          <input type="date" id="end-date" />
+        </div>
+        <!-- Category Filter -->
+        <div class="filter-item">
+          <label for="category">Category:</label>
+          <select id="category">
+            <option value="All">All categories</option>
+            <option value="Opposition Activity">Opposition Activity</option>
+            <option value="NDA Activity">NDA Activity</option>
+            <option value="Governance issues">Governance issues</option>
+            <option value="Judicial cases">Judicial cases</option>
+            <option value="Uncategorised">Uncategorised</option>
+          </select>
+        </div>
+        <!-- District Filter -->
+        <div class="filter-item">
+          <label for="district">District:</label>
+          <select id="district">
+            <option value="All">All districts</option>
+          </select>
+        </div>
+        <!-- Entries Per Page Filter -->
+        <div class="filter-item">
+          <label for="items-per-page">Entries per page:</label>
+          <select id="items-per-page">
+            <option value="25">25</option>
+            <option value="50" selected>50</option>
+            <option value="100">100</option>
+          </select>
+        </div>
+        <!-- Filter Actions -->
+        <div class="filter-actions">
+          <button id="today-btn" class="btn">Top 50 Today</button>
+          <button id="reset-btn" class="btn btn-secondary">Reset</button>
+        </div>
+      </section>
 
-    <!-- Footer Section -->
-    <footer>
-      <p class="footnote">Data updated hourly. Sources: Dainik Bhaskar (English), Yugmarg, and Live Hindustan RSS feeds. This dashboard is generated automatically; news summaries are for informational purposes only.</p>
-    </footer>
-  </div>
-  
-  <script src="script.js"></script>
-</body>
+      <!-- News Container -->
+      <main>
+        <div id="news-container" class="news-container">
+          <!-- News cards will be dynamically injected here by script.js -->
+        </div>
+        <!-- Pagination Controls will be injected here -->
+        <div id="pagination" class="pagination"></div>
+      </main>
+
+      <!-- Footer Section -->
+      <footer>
+        <p class="footnote">
+          Data updated regularly. Sources: Amar Ujala, Live Hindustan, Patrika,
+          Bhaskar and other verified RSS feeds. This dashboard is generated
+          automatically; news summaries are for informational purposes only.
+        </p>
+      </footer>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
 </html>
