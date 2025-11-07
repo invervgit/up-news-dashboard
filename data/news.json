@@ -1,39 +1,309 @@
 [
   {
-    "title": "एसआईआर कार्य में लापरवाही, तीन शिक्षक निलंबित, दो शिक्षामित्रों का रोका गया मानदेय",
-    "link": "https://www.patrika.com/unnao-news/negligence-in-sir-work-three-teachers-suspended-honorarium-of-two-shikshamitras-withheld-20083526",
-    "pubDate": "2025-11-07T09:47:14+00:00",
-    "summary": "Negligence in SIR work, three teachers suspended उन्नाव में एसआईआर (SIR) में लापरवाही बरतने के आरोप में बेसिक शिक्षा अधिकारी ने तीन शिक्षकों को निलंबित कर दिया, जबकि दो शिक्षामित्र के मानदेय पर अग्रिम आदेश तक रोक लगा दी गई है इसके साथ ही सभी शिक्षकों को हिदायत दी गई है कि निर्वाचन कार्य में किसी प्रकार की लापरवाही ना बरती जाए क्योंकि यह कार्य शासन की प्राथमिकता में है",
-    "category": "Opposition Activity",
-    "source": "Patrika",
-    "district": "Uttar Pradesh"
-  },
-  {
-    "title": "लखनऊ आईजीपी में गूंजेगी शहनाई:कैंसिल हुए 41 विवाह समारोह किए गए बहाल, इन्वेस्ट यूपी की बुकिंग हुई निरस्त",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/shehnai-will-resonate-in-lucknow-igp-136358287.html",
-    "pubDate": "2025-11-07T09:34:50+00:00",
-    "summary": "लखनऊ में गोमती नगर स्थित इंदिरा गांधी प्रतिष्ठान (आईजीपी) में शादी समारोह की बुकिंग अब निरस्त नहीं होंगी सीएम के निर्देश पर लखनऊ विकास प्राधिकरण ने 21 से 30 नवम्बर के मध्य आईजीपी की उन सभी बुकिंग को बहाल कर दिया है, जिन्हें पूर्व में इन्वेस्ट यूपी के कहने पर ग्राउंड ब्रेकिंग सेरेमनी के आयोजन हेतु निरस्त किया गया था 10 दिनों के लिए इन्वेस्ट यूपी के लिए हुआ था बुक इन्वेस्ट यूपी द्वारा 3 नवम्बर, 2025 को लखनऊ विकास...",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "गोंडा में सामूहिक रूप से गाया राष्ट्रीय गीत:जिला पंचायत सभागार और थानों में पुलिसकर्मियों ने लिया हिस्सा, 150 साल पूरे होने पर हुआ आयोजन",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/gonda/news/national-anthem-sung-collectively-in-gonda-136358280.html",
-    "pubDate": "2025-11-07T09:33:41+00:00",
-    "summary": "राष्ट्रीय गीत वंदे मातरम् के 150 वर्ष पूरे होने के उपलक्ष्य में गोंडा सहित पूरे भारत में विभिन्न कार्यक्रम आयोजित किए जा रहे हैं इसी कड़ी में गोंडा जिले के जिला पंचायत सभागार में एक विशेष कार्यक्रम का आयोजन किया गया था जहां इस कार्यक्रम में जिलाधिकारी प्रियंका निरंजन, मुख्य विकास अधिकारी अंकिता जैन और अपर जिलाधिकारी आलोक कुमार सहित अन्य अधिकारियों, कर्मचारियों और आम लोगों ने सामूहिक रूप से राष्ट्रीय गीत वंदे मातरम् का गायन किया है",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "‘खेसारी लाल यादव हैं मानसिक रोगी’, कठमुल्ला और मूर्ख…. संत समाज ने क्या-क्या कहा?",
-    "link": "https://www.patrika.com/ayodhya-news/saint-community-is-outraged-at-khesari-lal-yadav-calling-him-mentally-ill-up-politics-ayodhya-news-20083129",
-    "pubDate": "2025-11-07T09:31:19+00:00",
-    "summary": "Khesari Lal Yadav: बिहार चुनाव में छपरा सीट से RJD उम्मीदवार खेसारी लाल यादव राम मंदिर को लेकर दिए अपने बयान को लेकर सुर्खियों में हैं उनके बयान पर संतों ने प्रतिक्रिया दी है",
+    "title": "बाहुबली जदयू विधायक पप्पू पांडेय के भतीजे मुकेश को ब्रेन स्ट्रोक, हायर सेंटर रेफर",
+    "link": "https://www.livehindustan.com/bihar/bahubali-jdu-mla-pappu-pandey-nephew-mukesh-suffers-brain-stroke-referred-to-higher-center-201762511767046.html",
+    "pubDate": "2025-11-07T10:49:45+00:00",
+    "summary": "बिहार के बाहुबली विधायक पप्पू पांडेय के भतीजे मुकेश पांडेय को ब्रेन स्ट्रोक हुआ है उन्हें गोरखपुर के सिटी हॉस्पिटल में भर्ती किया गया जहां उनकी हालत नाजुक बनीं रही",
     "category": "Uncategorised",
-    "source": "Patrika",
-    "district": "Uttar Pradesh"
+    "source": "Livehindustan",
+    "district": "Rssfeed"
+  },
+  {
+    "title": "राष्ट्रगीत 'वंदे मातरम्' के 150 वर्ष पूर्ण:मैनपुरी कलेक्ट्रेट में अधिकारियों-कर्मचारियों ने किया सामूहिक गायन",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/mainpuri/news/national-song-vande-mataram-completes-150-years-136358757.html",
+    "pubDate": "2025-11-07T10:41:34+00:00",
+    "summary": "मैनपुरी कलेक्ट्रेट सभागार में राष्ट्रगीत 'वंदे मातरम्' के 150 वर्ष पूरे होने के उपलक्ष्य में एक सामूहिक गायन कार्यक्रम आयोजित किया गया यह राष्ट्रगीत बंकिमचंद्र चट्टोपाध्याय द्वारा वर्ष 1875 में रचा गया था इस अवसर पर जिलाधिकारी मैनपुरी और पुलिस अधीक्षक मैनपुरी सहित कई प्रशासनिक अधिकारी, कर्मचारी और गणमान्य नागरिक उपस्थित रहे",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "मस्जिद में नमाज पढ़कर घर आ रहे युवक को खंभे से बांधकर पीटा, फिर पेट्रोल डालकर लगाई आग",
+    "link": "https://www.livehindustan.com/uttar-pradesh/young-man-returning-home-after-offering-namaz-was-tied-to-pole-beaten-and-then-doused-with-petrol-and-set-on-fire-201762511893822.html",
+    "pubDate": "2025-11-07T10:41:15+00:00",
+    "summary": "बदायूं में नमाज़ पढ़ने की जगह को लेकर हुए विवाद के बाद दिनदहाड़े कुछ युवकों ने एक युवक को पकड़कर रस्सी से खंभे से बांध दिया और उस पर पेट्रोल डालकर ज़िंदा जलाने का प्रयास किया",
+    "category": "Uncategorised",
+    "source": "Livehindustan",
+    "district": "Rssfeed"
+  },
+  {
+    "title": "महिला की संदिग्ध मौत, ससुराल पर हत्या का आरोप:भाई का दावा- मरने से पहले फोन पर रो रही थी, बोली-पति परेशान कर रहा है",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/shahjahanpur/news/woman-dies-in-suspicious-condition-in-laws-accused-of-murder-136358750.html",
+    "pubDate": "2025-11-07T10:40:22+00:00",
+    "summary": "शाहजहांपुर में 26 वर्षीय महिला पूनम की संदिग्ध परिस्थितियों में मौत हो गई बरेली से पहुंचे मायके पक्ष ने पति और ससुराल वालों पर हत्या का आरोप लगाया है पुलिस ने शव को पोस्टमॉर्टम के लिए भेज दिया है और मामले की जांच शुरू कर दी है",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "राज्य महिला आयोग सदस्य ने सीएचसी का निरीक्षण किया:मीनाक्षी भराला बोलीं- सीएचसी में सभी मशीनें खराब, हटा देनी चाहिए",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/baghpat/news/state-women-commission-member-inspected-chc-136358747.html",
+    "pubDate": "2025-11-07T10:40:09+00:00",
+    "summary": "बागपत में राज्य महिला आयोग की सदस्य मीनाक्षी भराला ने सीएचसी का निरीक्षण किया इस दौरान उन्होंने प्रदेश की सभी सीएचसी में खराब पड़ी मशीनों को हटाने की बात कही मीनाक्षी भराला बागपत में महिला सुनवाई के लिए पहुंची थीं",
+    "category": "Governance issues",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "सोनभद्र में ट्रेलर की टक्कर से बाइक सवार की मौत:मप्र के युवक की मौत, हादसे के बाद चालक फरार",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/sonbhadra/news/bike-rider-dies-after-being-hit-by-a-trailer-in-sonbhadra-136358741.html",
+    "pubDate": "2025-11-07T10:39:26+00:00",
+    "summary": "सोनभद्र के अनपरा थाना क्षेत्र में गुरुवार की देर रात एक सड़क हादसे में बाइक सवार युवक की मौके पर ही मौत हो गई यह घटना अनपरा सिंगरौली राष्ट्रीय राजमार्ग पर औडी मोड़ के समीप हुई मृतक की पहचान मोरवा, सिंगरौली (मध्य प्रदेश) निवासी 27 वर्षीय श्याम कुमार झा पुत्र वीरेंद्र कुमार झा के रूप में हुई है",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "क्रिकेट प्रतियोगिता में प्रतापगढ़ जीता:प्रयागराज में डीएम-एसपी ने गुब्बारे उड़ाकर किया शुभारंभ, अभिषेक को मिला मैन ऑफ द मैच",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/news/pratapgarh-won-the-cricket-competition-136358735.html",
+    "pubDate": "2025-11-07T10:38:08+00:00",
+    "summary": "प्रयागराज जोन की 26वीं अंतर जनपदीय चार दिवसीय क्रिकेट प्रतियोगिता पुलिस लाइन में शुरू हुई डीएम शिवसहाय अवस्थी और एसपी दीपक भूकर ने रंग-बिरंगे गुब्बारे उड़ाकर इसका शुभारंभ किया प्रतियोगिता के पहले दिन फतेहपुर और प्रतापगढ़ की टीमों ने अपने-अपने मैच जीते",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "अचानक हुआ था 30 फीट गहरा गड्ढा, टला बड़ा हादसा:1 फीट की दूरी पर थी दुकान, 60 से 70 ट्रक डाला जा चुका मलबा",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/agra/news/suddenly-a-30-feet-deep-pit-appeared-a-major-accident-was-averted-136358728.html",
+    "pubDate": "2025-11-07T10:37:25+00:00",
+    "summary": "आगरा के आवास विकास कॉलोनी के सेक्टर-4 में बुधवार दोपहर करीब तीन बजे बड़ा हादसा टल गया, जब पुलिस चौकी के पास अचानक जमीन धंस गई और करीब तीस फुट गहरा गड्ढा बन गया गनीमत रही कि हादसे के वक्त वहां कोई मौजूद नहीं था, वरना बड़ा नुकसान हो सकता था स्थानीय दुकानदार ने बताया कि हादसा ठीक उसकी दुकान के पास हुआ",
+    "category": "Opposition Activity",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "वंदे मातरम् के 150 वर्ष पूरे:बहराइच में पुलिसकर्मियों ने किया सामूहिक गायन, पुलिस बल में दिखा देशभक्ति का रंग",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/bahraich/news/150-years-of-vande-mataram-136358714.html",
+    "pubDate": "2025-11-07T10:35:37+00:00",
+    "summary": "बंकिम चंद्र चट्टोपाध्याय द्वारा रचित वंदे मातरम् गीत के 150 वर्ष पूरे होने के उपलक्ष्य में बहराइच जिले में कई कार्यक्रम आयोजित किए गए इस दौरान जिले के पुलिस कार्यालयों, क्षेत्राधिकारी कार्यालयों, थानों और शाखाओं पर विशेष समारोहों का आयोजन किया गया इन आयोजनों में पुलिसकर्मियों ने सामूहिक रूप से वंदे मातरम् का गायन किया",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "गोरखपुर में 150 बच्चों ने एक साथ गाया वंदे मातरम:राष्ट्रीय गीत को हुए 150 साल पूरे, सरस्वती विद्या मंदिर में हुआ आयोजन",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/150-children-sang-vande-mataram-together-in-gorakhpur-136358684.html",
+    "pubDate": "2025-11-07T10:31:54+00:00",
+    "summary": "गोरखपुर के सरस्वती विद्या मंदिर स्कूल में राष्ट्रीय गीत ‘वंदे मातरम्’ के 150 वर्ष पूरे होने के अवसर पर भव्य समूह गायन कार्यक्रम आयोजित किया गया कार्यक्रम बच्चों, शिक्षकों और स्थानीय गणमान्य व्यक्तियों की उपस्थिति में संपन्न हुआ स्कूल का हॉल बच्चों की ऊर्जा और उत्साह से गूंज उठा, जिससे पूरे वातावरण में देशभक्ति की भावना स्पष्ट झलक रही थी",
+    "category": "NDA Activity",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "चंदौली में शिक्षामित्र की छत से गिरकर मौत:महुरा गांव में पूजा के दौरान हुआ हादसा, परिजनों ने पोस्टमार्टम से इनकार किया",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/chandauli/khajhra/news/shiksha-mitra-dies-after-falling-from-roof-in-chandauli-136358683.html",
+    "pubDate": "2025-11-07T10:31:52+00:00",
+    "summary": "धीना थाना क्षेत्र के महुरा गांव में शुक्रवार सुबह एक शिक्षामित्र की छत से गिरकर मौत हो गई प्राथमिक विद्यालय बरहन में कार्यरत 43 वर्षीय मंजू देवी अपने घर की छत पर पूजा कर रही थीं, तभी यह हादसा हुआ जानकारी के अनुसार, मंजू देवी प्रतिदिन की तरह सुबह लगभग 7 बजे तुलसी पूजा और सूर्य को अर्घ्य देने के लिए छत पर गई थीं",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "किन्नर के घर 61 लाख की चोरी का आरोपी गिरफ्तार:सामान बरामद, खाना बनाने वाले नौकर ने की थी चोरी",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/shamli/news/accused-arrested-for-stealing-rs-61-lakh-from-a-transgenders-house-136358671.html",
+    "pubDate": "2025-11-07T10:29:45+00:00",
+    "summary": "शामली में एक किन्नर के घर हुई 61 लाख रुपए की चोरी का पुलिस ने खुलासा कर आरोपी को गिरफ्तार कर लिया है पुलिस ने इस मामले में एक आरोपी को गिरफ्तार किया है जो किन्नर के यहां खाना बनाने का काम करता था",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "क्रिकेट के मैदान में छक्का-चौका लगाते दिखे दिव्यांग:क्रिकेटर आकाश चोपड़ा भी पहुंचे, वाराणसी जिला की टीम हुई विजेता",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/varanasi/news/disabled-man-seen-hitting-sixes-and-fours-on-the-cricket-field-136358665.html",
+    "pubDate": "2025-11-07T10:29:04+00:00",
+    "summary": "वाराणसी महानगर और वाराणसी जिला दिव्यांग क्रिकेट टीमों के बीच मुकाबला खेला गया टॉस वाराणसी महानगर टीम के कप्तान सुबोध राय ने जीता और पहले गेंदबाजी करने का निर्णय लिया पहले बल्लेबाजी करते हुए वाराणसी जिला टीम ने निर्धारित 15 ओवरों में 6 विकेट के नुकसान पर 117 रन का सम्मानजनक स्कोर खड़ा किया",
+    "category": "NDA Activity",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "लखनऊ विवि में कैंसर जागरूकता कार्यक्रम:'मिशन शक्ति 2025' के तहत स्त्री वेलफेयर फाउंडेशन का सहयोग",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/cancer-awareness-program-at-lucknow-university-136358660.html",
+    "pubDate": "2025-11-07T10:28:17+00:00",
+    "summary": "लखनऊ विश्वविद्यालय के जैव रसायन विभाग ने आज स्त्री वेलफेयर फाउंडेशन के सहयोग से 'मिशन शक्ति 2025' के अंतर्गत एक कैंसर जागरूकता कार्यक्रम का आयोजन किया इस पहल का उद्देश्य छात्रों और समाज को कैंसर की रोकथाम और स्वस्थ जीवनशैली के प्रति जागरूक करना था विभागाध्यक्ष प्रो",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "सहारनपुर के युवक की रुड़की में चाकू से गोदकर हत्या:भांजे के अंतिम संस्कार में गया था, मृतक के बहनोई के भाई ने मारा",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/saharanpur/news/saharanpur-youth-stabbed-to-death-in-roorkee-136358652.html",
+    "pubDate": "2025-11-07T10:26:54+00:00",
+    "summary": "उत्तराखंड के रुड़की में गुरुवार रात सहारनपुर के एक युवक की चाकू से गोदकर हत्या कर दी गई युवक अपने भांजे के अंतिम संस्कार में शामिल होने गया था, जहां भांजे के चाचा ने इस वारदात को अंजाम दिया यह घटना सिविल लाइन कोतवाली क्षेत्र के रघुनाथ प्लांट के पास हुई",
+    "category": "Governance issues",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "महिला आयोग की अध्यक्ष ने जिला अस्पताल का निरीक्षण किया:अस्पताल में अव्यवस्था देखकर अधिकारियों को कार्यशैली में सुधार के निर्देश दिए",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/balrampur/news/the-chairperson-of-the-womens-commission-inspected-the-district-hospital-136358638.html",
+    "pubDate": "2025-11-07T10:24:57+00:00",
+    "summary": "बलरामपुर में उत्तर प्रदेश राज्य महिला आयोग की अध्यक्ष डॉ बबीता सिंह चौहान ने शुक्रवार को महिला सुरक्षा और स्वास्थ्य सेवाओं की हकीकत परखने के लिए निरीक्षण किया उन्होंने संयुक्त जिला अस्पताल और वन स्टॉप सेंटर का दौरा किया",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "लारेंस की फोटो लगाकर कथा वाचक को दी धमकी:चैट में सांसद और विधायक के फोटो को किया क्रॉस, जांच शुरू",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/threatened-the-narrator-by-putting-lawrences-photo-136358630.html",
+    "pubDate": "2025-11-07T10:24:16+00:00",
+    "summary": "गोरखपुर में सांसद रवि किशन के बाद कथा वाचक प्रवीण शास्त्री को 4 नवंबर की रात फोन आता है फोन करने वाले ने खुद को लॉरेंस गैंग का बताया है बिहार का रहने वाला बताकर उनको और सांसद रवि किशन को जान से मारने की धमकी देने लगता है",
+    "category": "NDA Activity",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "देवरिया में 400 सफाईकर्मियों को सम्मानित किया:डीएम ने कहा- वे शहर की रीढ़ हैं, त्योहारों पर भी जिम्मेदारी निभाई",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/deoria/news/400-sanitation-workers-honored-in-deoria-136358624.html",
+    "pubDate": "2025-11-07T10:24:06+00:00",
+    "summary": "देवरिया नगर पालिका में शुक्रवार को एक विशेष कार्यक्रम आयोजित किया गया इसमें जिलाधिकारी दिव्या मित्तल, नगर पालिका अध्यक्ष अलका सिंह और अधिशासी अधिकारी (ईओ) ने लगभग 400 सफाई कर्मियों को प्रशस्ति पत्र और प्रतीक चिन्ह देकर सम्मानित किया यह सम्मान स्वच्छता के प्रति उनके समर्पण के लिए दिया गया",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "किसान मजदूर मोर्चा ने फतेहपुर में किया प्रदर्शन:आयोग का हुआ गठन, आय दोगुनी करने समेत 13 सूत्री ज्ञापन सौंपा",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/fatehpur/news/kisan-mazdoor-morcha-demonstrated-in-fatehpur-136358611.html",
+    "pubDate": "2025-11-07T10:22:44+00:00",
+    "summary": "उत्तर प्रदेश के फतेहपुर शहर के नहर कॉलोनी परिसर में शुक्रवार को किसान मजदूर मोर्चा (अराजनैतिक संगठन) ने धरना-प्रदर्शन किया इस दौरान किसानों और मजदूरों की विभिन्न समस्याओं को उठाया गया प्रदर्शन के बाद संगठन के पदाधिकारियों ने जिलाधिकारी के माध्यम से प्रधानमंत्री नरेंद्र मोदी और मुख्यमंत्री योगी आदित्यनाथ को संबोधित 13 सूत्री ज्ञापन सौंपा",
+    "category": "NDA Activity",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "अग्निवीर; सेना के रणबांकुरे स्टेडियम में तैयारी पूरी:कल से 18 हजार अभ्यर्थी लगाएंगे देश सेवा के लिए दौड़, भर्ती निदेशक बोले- 12 जिलों से आएंगे",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/varanasi/news/agniveer-preparations-complete-at-army-ranbankure-stadium-varanasi-136358607.html",
+    "pubDate": "2025-11-07T10:22:05+00:00",
+    "summary": "वाराणसी सेना भर्ती कार्यालय के रणबांकुरे स्टेडियम में अग्निवीर भर्ती के तहत शनिवार से सेना भर्ती दौड़ का आयोजन किया गया है 8 नवंबर से शुरू होकर यह भर्ती प्रक्रिया 22 नवंबर तक चलेगी इसमें सेना भर्ती कार्यालय से अटैच पूर्वांचल के 12 जिलों के अभ्यर्थी हिस्सा लेंगे",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "उन्नाव में रंजिश के चलते वृद्ध की हुई हत्या:पुलिस निगरानी में हुआ अंतिम संस्कार, 6 आरोपी हिरासत में",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/unnao/news/elderly-man-murdered-in-unnao-due-to-feud-136358602.html",
+    "pubDate": "2025-11-07T10:21:42+00:00",
+    "summary": "उन्नाव के गंगाघाट कोतवाली क्षेत्र के गगनी खेड़ा गांव में पुरानी रंजिश के चलते एक 80 वर्षीय वृद्ध की गोली मारकर हत्या कर दी गई यह घटना तीन माह पहले हुए एक किशोर की हत्या से जुड़ी है पुलिस ने मृतक की पत्नी की तहरीर पर नौ लोगों के खिलाफ हत्या का मुकदमा दर्ज किया है और छह आरोपियों को हिरासत में लिया है",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "भांजे संग भागी पत्नी, पति ने फांसी लगाकर की आत्महत्या:साड़ी के फंदे से लटका मिला शव, दिल्ली में करता नौकरी",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/mahoba/news/wife-eloped-with-nephew-husband-committed-suicide-by-hanging-136358594.html",
+    "pubDate": "2025-11-07T10:20:32+00:00",
+    "summary": "महोबा में एक व्यक्ति ने पत्नी के भांजे के साथ भाग जाने से आहत होकर फांसी लगाकर आत्महत्या कर ली युवक ने अपनी पत्नी की साड़ी से फांसी लगाकर जान दी इस घटना से मृतक के परिवार में मातम पसरा हुआ है",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "झांसी में सब्जी विक्रेता ने किया सुसाइड:मंडी से माल खरीदने निकला था, जहर खाकर घर पहुंचा, पुलिस जांच में जुटी",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/jhansi/news/vegetable-vendor-commits-suicide-in-jhansi-136358587.html",
+    "pubDate": "2025-11-07T10:19:41+00:00",
+    "summary": "झांसी में एक सब्जी विक्रेता ने सुसाइड कर लिया वह घर से माल खरीदने मंडी के लिए निकला था मगर माल खरीदने की बजाय वह जहर खाकर घर पहुंच गया",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "पीलीभीत में पत्नी की हत्या:पति ने लकड़ी के पटले से किया वार, पुलिस जांच में जुटी",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/pilibhit/puranpur/news/wife-murdered-in-pilibhit-136358580.html",
+    "pubDate": "2025-11-07T10:18:22+00:00",
+    "summary": "पीलीभीत जिले के पूरनपुर कोतवाली क्षेत्र के कढेर चौरा गांव में शुक्रवार को एक पति ने मामूली विवाद के बाद अपनी पत्नी की हत्या कर दी पुलिस ने शव को कब्जे में लेकर पोस्टमार्टम के लिए भेज दिया है और मामले की जांच शुरू कर दी है जानकारी के अनुसार, गांव निवासी अनीता देवी (32 वर्ष) पत्नी रामबहादुर का शुक्रवार दोपहर करीब 12 बजे अपने पति से किसी बात को लेकर विवाद हो गया",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "बुलंदशहर में बाइक चोर गिरोह के 2 सदस्य गिरफ्तार:चोरी की बाइकें बरामद, एक बाल अपचारी भी हिरासत में",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/bulandshahar/news/two-members-of-a-bike-theft-gang-arrested-in-bulandshahr-136358575.html",
+    "pubDate": "2025-11-07T10:17:40+00:00",
+    "summary": "बुलंदशहर पुलिस ने बाइक चोर गिरोह के दो सदस्यों को गिरफ्तार किया है इनके पास से चोरी की एक बाइक बरामद हुई है गिरफ्तार आरोपियों की पहचान विभु और अजय (दोनों नोएडा निवासी) के रूप में हुई है",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "प्रतापगढ़ में लूट के दो आरोपी गिरफ्तार:लूटा गया ओप्पो फोन और 750 रुपए बरामद, मोटरसाइकिल रोककर वारदात को दिया था अंजाम",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/news/two-accused-of-robbery-arrested-in-pratapgarh-136358574.html",
+    "pubDate": "2025-11-07T10:17:39+00:00",
+    "summary": "प्रतापगढ़ पुलिस ने लूट के दो आरोपियों को गिरफ्तार किया है इनके पास से लूटा गया एक ओप्पो एंड्रॉयड फोन और 750 रुपए नकद बरामद किए गए हैं यह गिरफ्तारी बाघराय थाना क्षेत्र में हुई",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "अलीगढ़ में मंदिर निर्माण रुका, गांव में पुलिस अलर्ट:ग्रामीण चंदे से बनवा रहे थे मंदिर, कोर्ट के आदेश निर्माण बंद हुआ",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/aligarh/news/force-on-alert-after-temple-construction-dispute-136358550.html",
+    "pubDate": "2025-11-07T10:13:40+00:00",
+    "summary": "अलीगढ़ के गांव कुंवरपुर में मंदिर का निर्माण काम रुकने के बाद तनावपूर्ण माहौल बना हुआ है गांव के माहौल को देखते हुए इलाके में पुलिस फोर्स अलर्ट है लगातार इलाके पर नजर रखी जा रही है, जिससे कि गांव के माहौल को शांत रखा जा सके",
+    "category": "Judicial cases",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "यति बोले- सतयुग में जो राक्षस कलयुग में वह मुसलमान:दूसरों की बहन बेटियों को लूटकर बलात्कार करके मंडी लगाना मुसलमानों का लक्ष्य",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/ghaziabad/news/the-sage-said-the-demon-in-satyayuga-is-a-muslim-in-kaliyuga-136358519.html",
+    "pubDate": "2025-11-07T10:09:46+00:00",
+    "summary": "शिवशक्ति धाम डासना के पीठाधीश्वर और श्री पंचदशनाम जूना अखाड़े के महामंडलेश्वर यति नरसिंहानंद ने आज शुक्रवार को फिर विवादित बयान दिया है उन्होंने कहा कि हिंदू राष्ट्र में एक भी मुसलमान नहीं होना चाहिए, वहीं हिंदुओं के नेता को धर्म का गद्दार घोषित किया यह बात आज गाजियाबाद से सटे भगवान पुरी हापुड़ में मां वैष्णो देवी मंदिर के निर्माण हेतु भूमि पूजन के समय कहीं",
+    "category": "NDA Activity",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "लखनऊ में एक और हत्या कर फेंका गया महिला का शव, इलाके में सनसनी",
+    "link": "https://www.livehindustan.com/uttar-pradesh/another-woman-body-found-murdered-in-lucknow-creating-a-sensation-in-the-area-201762509658140.html",
+    "pubDate": "2025-11-07T10:08:53+00:00",
+    "summary": "यूपी की राजधानी लखनऊ में एक और महिला का हत्या कर फेंका गया शव बरामद कर लिया गया है पुलिस में शव को कब्जे में ले लिया है मामले की छानबीन कर ली",
+    "category": "Uncategorised",
+    "source": "Livehindustan",
+    "district": "Rssfeed"
+  },
+  {
+    "title": "मऊ में हिस्ट्रीशीटर राजेश सिंह हत्याकांड का खुलासा:पुलिस ने तीन आरोपियों को किया गिरफ्तार, बदमाशों ने मारी थीं गोलियां",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/mau/news/history-sheeter-rajesh-singh-murder-case-solved-in-mau-136358509.html",
+    "pubDate": "2025-11-07T10:08:49+00:00",
+    "summary": "मऊ जिले के रानीपुर थाना क्षेत्र में 26 अक्टूबर को हिस्ट्रीशीटर राजेश सिंह उर्फ मंटू सिंह (40) की दिनदहाड़े गोली मारकर हत्या कर दी गई थी पुलिस ने इस हत्याकांड का खुलासा करते हुए तीन आरोपियों को गिरफ्तार किया है राजेश सिंह रानीपुर थाना क्षेत्र के पुरूआ गांव के निवासी थे",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "गोरखपुर में वैशाली एक्सप्रेस से पकड़े गए 99.9 लाख रुपए:युवक बैग में ले जा रहा था रुपए, बिहार चुनाव में इस्तेमाल की आशंका",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/gorakhpur/news/999-lakh-rupees-seized-at-gorakhpur-railway-station-gorakhpur-police-rail-police-uppolice-crime-news-breaking-news-136358488.html",
+    "pubDate": "2025-11-07T10:05:45+00:00",
+    "summary": "गोरखपुर रेलवे स्टेशन पर चेकिंग के दौरान जीआरपी को एक यात्री के बैग से 99 9 लाख रुपए नकद मिले इतनी बड़ी रकम देखकर पुलिस हैरान रह गई",
+    "category": "Governance issues",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "भाभी जोड़ी जम नहीं रही, सोशल मीडिया पर कमेंट:जिस पति को दौलत बताया, उसी की प्रेमी से कराई हत्या",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/meerut/news/the-husband-who-was-called-wealth-was-murdered-136358431.html",
+    "pubDate": "2025-11-07T09:58:09+00:00",
+    "summary": "मेरठ की अंजली ने प्रेमी अजय के साथ मिलकर अपने पति राहुल की हत्या कराई उसी पति को वो समाज के सामने देवता की तरह पूजती थी सोशल मीडिया पर अंजली अक्सर पति राहुल के साथ फोटो, वीडियो शेयर करती",
+    "category": "Opposition Activity",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "लखनऊ में सड़क हादसे में छात्र की मौत:तेज रफ्तार कार ने बाइक में मारी टक्कर, इलाज के दौरान तोड़ा दम",
+    "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/student-dies-in-road-accident-in-lko-136358414.html",
+    "pubDate": "2025-11-07T09:55:48+00:00",
+    "summary": "लखनऊ के हुसैनगंज इलाके में पुल के पास हुए भीषण सड़क हादसे में एक छात्र की मौत हो गई तेज रफ्तार कार ने बाइक सवार को जोरदार टक्कर मार दी, जिससे छात्र सड़क पर गिरकर गंभीर रूप से घायल हो गया हादसे के बाद कार चालक मौके से फरार हो गया",
+    "category": "Uncategorised",
+    "source": "Bhaskar",
+    "district": "Rss V1  Category 2052"
+  },
+  {
+    "title": "Yogi Adityanath attacks RJD-Congress at Bihar rally:Says, 'Mahagathbandhan deceived poor, looted farmers and spread lawlessness'; urges voters to stop return of Jungle Raj",
+    "link": "https://www.bhaskarenglish.in/bihar-election/news/yogi-adityanath-attacks-rjd-congress-in-bihar-rally-says-mahagathbandhan-looted-farmers-and-deceived-poor-voters-136358290.html",
+    "pubDate": "2025-11-07T09:35:13+00:00",
+    "summary": "Uttar Pradesh Chief Minister Yogi Adityanath held a rally in Raxaul, East Champaran, urging Bihar’s youth not to be 'misled' by opposition parties In a fiery address, he accused the Mahagathbandhan, the RJD-Congress alliance, of deceiving the poor and plundering state resources 'I would tell the youth that there is no need to be misled by anyone,' Yogi said",
+    "category": "Opposition Activity",
+    "source": "Bhaskarenglish",
+    "district": "Rss V1  Category 16346"
   },
   {
     "title": "वैशाली ट्रेन से बिहार भेजा जा रहा 99 लाख रुपए बरामद, विधानसभा चुनाव में बांटने की थी तैयारी",
@@ -45,123 +315,6 @@
     "district": "Rssfeed"
   },
   {
-    "title": "अयोध्या एयरपोर्ट पर गूंजा ‘वंदे मातरम्' गीत:150 वर्ष पूरे होने पर भव्य आयोजन, परिसर हुआ राष्ट्रप्रेम की भावना में सराबोर",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/ayodhya/news/vande-mataram-song-resonates-at-ayodhya-airport-136358239.html",
-    "pubDate": "2025-11-07T09:26:55+00:00",
-    "summary": "‘वंदे मातरम्’ के 150 वर्ष पूरे होने के पावन अवसर पर शुक्रवार को अयोध्या एयरपोर्ट पर भव्य और भावनात्मक कार्यक्रम का आयोजन किया गया इस मौके पर पूरे जोश और उमंग के साथ अधिकारियों व कर्मचारियों ने सामूहिक रूप से ‘वंदे मातरम्’ का गायन किया देशभक्ति से ओतप्रोत इस सामूहिक गान ने पूरे एयरपोर्ट परिसर को राष्ट्रप्रेम की भावना से सराबोर कर दिया",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "सहारनपुर में युवक से ऑनलाइन साइबर फ्रॉड:टेलीग्राम और फर्जी वेबसाइट से की 4.60 की ठगी, पैसा जमा होने के ब्लॉक कर दी साइट",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/saharanpur/news/online-cyber-fraud-with-youth-in-saharanpur-136358225.html",
-    "pubDate": "2025-11-07T09:24:05+00:00",
-    "summary": "सहारनपुर में एक युवक से 4 60 लाख की टेलीग्राम और फर्जी वेबसाइट के जरिए ऑनलाइन साइबर फ्रॉड का मामला सामने आया है पीड़ित का आरोप है कि साइबर ठगों ने ऑनलाइन जॉब ऑफर और ई-कॉमर्स वेबसाइट के नाम पर ठगी की है",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "क्रिकेटर मोहम्मद शमी को सुप्रीम कोर्ट ने भेजा नोटिस:पत्नी हसीन जहां की याचिका पर मांगा जवाब, अदालत ने कहा- दोनों पक्षों को सुनना जरूरी",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/amroha/news/supreme-court-issues-notice-to-cricketer-mohammed-shami-136358215.html",
-    "pubDate": "2025-11-07T09:22:01+00:00",
-    "summary": "भारतीय क्रिकेटर मोहम्मद शमी और पश्चिम बंगाल सरकार से सुप्रीम कोर्ट ने जवाब मांगा है यह नोटिस शमी की अलग रह रही पत्नी हसीन जहां की उस याचिका पर जारी किया गया है, जिसमें उन्होंने गुजारा भत्ता बढ़ाने की मांग की है हसीन जहां ने कोर्ट से कहा है कि वर्तमान गुजारा भत्ता राशि उनके और बेटी के खर्चों के लिए अपर्याप्त है",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "बागपत में भारतीय किसान यूनियन का युवाओं से आह्वान:कहा-देश की रीढ़ हैं युवा, किसानों की समस्याओं पर भी की चर्चा",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/baghpat/news/bharatiya-kisan-union-appeals-to-the-youth-in-baghpat-136358206.html",
-    "pubDate": "2025-11-07T09:20:59+00:00",
-    "summary": "भारतीय किसान यूनियन (भाकियू) के राष्ट्रीय अध्यक्ष चौधरी नरेश टिकैत ने बागपत के टटीरी स्थित भाकियू कार्यालय में युवाओं और किसानों से संवाद किया उन्होंने युवाओं को नशे से दूर रहकर देश के विकास में योगदान देने का आह्वान किया और किसानों की समस्याओं पर भी सरकार को घेरा टिकैत ने युवाओं में बढ़ती नशे की प्रवृत्ति पर गहरी चिंता व्यक्त की",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "बांदा में रिक्शा चालक से सरेआम मारपीट,VIDEO:कचहरी चौराहे पर खाना खाते समय किया हमला, लोग वीडियो बनाते रहे",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/banda/news/rickshaw-driver-beaten-up-in-public-in-banda-136358205.html",
-    "pubDate": "2025-11-07T09:20:45+00:00",
-    "summary": "उत्तर प्रदेश के बांदा जिले में एक रिक्शा चालक को सरेआम पीटा गया यह घटना कोतवाली नगर के कचहरी चौराहे पर हुई, जहां कई लोगों ने मिलकर उसे लहूलुहान कर दिया पीड़ित रिक्शा चालक ने बताया कि वह अपना रिक्शा सड़क किनारे खड़ा कर खाना खा रहा था",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "Mau Crime: हिस्ट्रीशीटर मंटू सिंह हत्याकांड में  बड़ा खुलासा, तीन गिरफ्तार",
-    "link": "https://www.patrika.com/mau-news/mau-20083431",
-    "pubDate": "2025-11-07T09:18:44+00:00",
-    "summary": "Mau Murder News: मऊ जनपद की रानीपुर थाना क्षेत्र के पिरुआ गांव निवासी मंटू सिंह हत्याकांड में पुलिस ने तीन अभियुक्त को गिरफ्तार किया है राजेश उर्फ मंटू सिंह की हत्या उसे वक्त हुई जब वह काज बाजार से छठ पूजा का प्रसाद लेकर के अपने घर आ रहे थे इसी बीच फिर वह और काज गांव के बॉर्डर पर मंटू सिंह की गोली मार करके हत्या कर दी गई थी",
-    "category": "Uncategorised",
-    "source": "Patrika",
-    "district": "Uttar Pradesh"
-  },
-  {
-    "title": "वंदे मातरम्' के 150 वर्ष:भाजपा मना रही उत्सव, मथुरा के विकास बाजार में हुआ कार्यक्रम",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/mathura/news/150-years-of-vande-mataram-136358167.html",
-    "pubDate": "2025-11-07T09:16:37+00:00",
-    "summary": "राष्ट्रगीत ‘वंदे मातरम्’ के 150 वर्ष पूरे होने के उपलक्ष्य में भारतीय जनता पार्टी द्वारा प्रदेश भर में उत्सव और जन अभियान की चला रही है इसी क्रम में भाजपा मथुरा महानगर द्वारा शुक्रवार को महानगर के विकास बाजार में कार्यक्रम का आयोजन किया गया पार्टी के जिला प्रभारी अशोक कटारिया के नेतृत्व में हुए कार्यक्रम में भाजपा नेताओं के अलावा स्काउट गाइड से जुड़े लोग और महिला भी शामिल हुई",
-    "category": "NDA Activity",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "करोड़ों की ठगी में वांटेड पटाखा कारोबारी का सरेंडर:प्रयागराज में रकम दोगुनी करने का झांसा देकर ठगी करने का इल्जाम, 25 हजार का इनामी",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/firecracker-dealer-wanted-in-multi-crore-fraud-case-surrenders-136358102.html",
-    "pubDate": "2025-11-07T09:08:31+00:00",
-    "summary": "प्रयागराज में ‘प्री चार्ज पे’ कंपनी बनाकर रकम दोगुनी करने के नाम पर लाखों की ठगी करने वाले शहर के चर्चित पटाखा कारोबारी कादरी ने आखिरकार शुक्रवार को कोर्ट में सरेंडर कर दिया लंबे समय से फरार चल रहे कादरी पर शाहगंज थाने में दर्ज जालसाजी के मुकदमे में 25 हजार रुपए का इनाम घोषित था कादिर के साथ उसके दो भतीजे मोहम्मद काशिफ उर्फ सनी और मोहम्मद आसिफ भी ठगी के इस खेल में शामिल बताए गए हैं",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "मिर्गी के दौरे से चूल्हे में गिरी महिला, मौत:सोनभद्र में खाना बनाने के दौरान हुआ हादसा, लेखपाल ने जांच कर मदद का आश्वासन दिया",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/sonbhadra/obra/news/a-woman-fell-into-a-stove-after-suffering-an-epileptic-seizure-and-died-136358101.html",
-    "pubDate": "2025-11-07T09:08:28+00:00",
-    "summary": "सोनभद्र के चोपन थाना क्षेत्र के डाला चौकी अंतर्गत बाड़ी गांव में एक महिला की खाना बनाते समय मिर्गी का दौरा पड़ने से चूल्हे में गिरकर मौत हो गई यह घटना शुक्रवार सुबह करीब छह बजे हुई मृतका की पहचान 45 वर्षीय सविता, पत्नी कृष्णा प्रसाद के रूप में हुई है, जो कोलान बस्ती की निवासी थीं",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "भारतीय वायु सेवा के जवान से किया फर्जी बैनामा:प्रॉपर्टी डीलर ने ट्रस्ट की जमीन बेची, जवान छुट्टी पर आया तो पता चला",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/meerut/news/fake-deed-made-from-indian-air-service-soldier-136358070.html",
-    "pubDate": "2025-11-07T09:03:26+00:00",
-    "summary": "मेरठ में भारतीय वायु सेना के जवान से प्लॉट दिलाने के नाम पर 13 लाख रुपए की धोखाधड़ी की गई आरोप एक प्रॉपर्टी डीलर समेत दो लोगों पर लगे हैं, जिन्होंने ट्रस्ट की जमीन दिखाकर उसका बैनामा करा दिया जवान छुट्टी पर घर आया तो धोखाधड़ी का पता चला",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "यमुनानगर पुलिस ने 1 करोड़ की हेरोइन पकड़ी:बरेली के रहने वाले, काले रंग के बैग में छिपाकर रखी थी",
-    "link": "https://www.bhaskar.com/local/haryana/yamunanagar/news/yamunanagar-police-seize-crore-heroin-bareilly-up-136358068.html",
-    "pubDate": "2025-11-07T09:02:40+00:00",
-    "summary": "यमुनानगर जिले में स्पेशल एंटी बर्गलरी स्टाफ ने एक करोड़ रुपए कीमत की हेरोइन बरामद कर दो आरोपियों काे गिरफ्तार किया है पुलिस का दावा है कि यमुनानगर में यह अब तक की सबसे बड़ी खेप पकड़ी गई है आरोपियों की पहचान सरताज निवासी गांव पीपलिया रामदयाल और नहीम हसन शाह निवासी मोहल्ला भूरे खां गोटिया, फरीदपुर दोनों जिला बरेली उत्तरप्रदेश के रूप में हुई है",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "बिहार चुनाव के बीच यूपी से बिहार ट्रेन में लाई जा रही थी अंग्रेजी शराब, शराब तस्करों की चालाकी देख उड़े पुलिस के होश",
-    "link": "https://www.patrika.com/kushinagar-news/during-the-bihar-elections-foreign-liquor-was-being-transported-from-up-to-bihar-by-train-the-police-were-stunned-by-the-ingenuity-of-the-liquor-smugglers-20083344",
-    "pubDate": "2025-11-07T09:01:37+00:00",
-    "summary": "बिहार में चल रहे विधानसभा चुनाव को देखते हुए बार्डर पर अत्यधिक सतर्कता बरती जा रही है, इसके बावजूद शराब तस्कर बिहार में शराब की खेप पहुंचाने के लिए हैरतअंगेज तरीके अपना रहे हैं अंग्रेजी शराब की तस्करी भी चल रही है",
-    "category": "Uncategorised",
-    "source": "Patrika",
-    "district": "Uttar Pradesh"
-  },
-  {
-    "title": "सपा विधायक ने डीएम से की मुलाकात:यूरिया खाद की उपलब्धता और वितरण प्रक्रिया की जानकारी मांगी",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/bhadohi/news/sp-mla-met-the-dm-136358061.html",
-    "pubDate": "2025-11-07T09:01:03+00:00",
-    "summary": "समाजवादी पार्टी के भदोही विधानसभा क्षेत्र से विधायक जाहिद बेग ने मंगलवार को कलेक्ट्रेट पहुंचकर जिलाधिकारी से मुलाकात की उन्होंने जिले में यूरिया खाद की उपलब्धता और उसके वितरण से संबंधित प्रक्रियाओं की जानकारी के लिए एक ज्ञापन सौंपा ज्ञापन में विधायक जाहिद बेग ने बताया कि उन्हें जानकारी मिली है कि रेलवे के माध्यम से डीएपी उर्वरक जिले में पहुंच गया है",
-    "category": "Opposition Activity",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
     "title": "भारी फोर्स के बीच अवैध दुकानों और मकानों पर चले बुलडोजर, ध्वस्त किए गए निर्माण",
     "link": "https://www.livehindustan.com/uttar-pradesh/bulldozers-demolish-illegal-shops-and-houses-in-lucknow-amidst-heavy-police-presence-201762505017509.html",
     "pubDate": "2025-11-07T08:57:44+00:00",
@@ -171,60 +324,6 @@
     "district": "Rssfeed"
   },
   {
-    "title": "चंदौली में होटल संचालक पर मुकदमा दर्ज:बिल भुगतान विवाद में दो युवकों को पीटा था, दोनों गंभीर घायल",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/chandauli/news/case-filed-against-hotel-operator-in-chandauli-136358037.html",
-    "pubDate": "2025-11-07T08:55:13+00:00",
-    "summary": "चंदौली जिला मुख्यालय स्थित राज रसोई रेस्टोरेंट के संचालक धर्मेंद्र सिंह और उनके बेटे के खिलाफ सदर कोतवाली में गंभीर धाराओं में मुकदमा दर्ज किया गया है उन पर आरोप है कि रेस्टोरेंट में खाना खाने के बाद बिल भुगतान को लेकर हुए विवाद में उन्होंने दो युवकों, बजहा निवासी प्रिंस सिंह और आलोक सिंह की पिटाई की इस घटना में दोनों युवक गंभीर रूप से घायल हो गए, जिनका वाराणसी के ट्रामा सेंटर में इलाज चल रहा है",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "अतीक के वकील विजय, बहनोई अखलाक की जमानत खारिज:जस्टिस शेखर यादव की सिंगल बेंच ने सुनाया फैसला",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/atiqs-lawyer-vijay-mishra-decision-on-brother-in-law-akhlaq-136358034.html",
-    "pubDate": "2025-11-07T08:54:20+00:00",
-    "summary": "इलाहाबाद हाईकोर्ट ने माफिया अतीक अहमद के बहनोई अखलाक अहमद, अतीक के वकील विजय मिश्रा, ड्राइवर मोहम्मद कैश और नौकर नियाज की जमानत अर्जी की खारिज कर दी कोर्ट ने चारों की जमानत अर्जियों पर सुनवाई के बाद 29 अक्टूबर कसे फैसला सुरक्षित कर लिया था शुक्रवार को जस्टिस शेखर कुमार यादव की सिंगल बेंच ने फैसला सुनाया",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "सपा महासचिव बोले- वंदेभारत अभियान BJP का ढोंग:इटावा में कहा- चुनाव आयोग कमजोर तो ऐसे जनता को गुमराह करते, बिहार में दोनों सीटें हारेंगे",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/etawah/news/if-the-election-commission-is-weak-campaigns-like-vande-mataram-are-run-136358032.html",
-    "pubDate": "2025-11-07T08:53:45+00:00",
-    "summary": "समाजवादी पार्टी (सपा) के राष्ट्रीय महासचिव और राज्यसभा सांसद प्रो रामगोपाल यादव शुक्रवार को पटेल जयंती समारोह कार्यक्रम में शामिल होने इटावा पहुंचे इस दौरान उन्होंने बिहार चुनाव, भाजपा और कांग्रेस के खिलाफ खुलकर बात की",
-    "category": "Opposition Activity",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "बनारस-खजुराहो वंदे भारत एक्सप्रेस 8 नवंबर से:प्रयागराज का छिवकी स्टेशन रहेगा स्टापेज, आठ घंटे में तय होगा खजुराहों का सफर",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/banaras-khajuraho-vande-bharat-express-from-november-8-136358025.html",
-    "pubDate": "2025-11-07T08:52:58+00:00",
-    "summary": "उत्तर मध्य रेलवे ने बनारस से खजुराहो के बीच नई वंदे भारत एक्सप्रेस ट्रेन शुरू करने की घोषणा की है रेलवे प्रशासन के मुताबिक इसका संचालन शनिवार को किया जाएगा इस मौके पर यह ट्रेन उद्घाटन विशेष के रूप में गाड़ी संख्या 02582 बनारस–खजुराहो वंदे भारत एक्सप्रेस के नाम से चलाई जाएगी",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "घोसी नव निर्माण मंच का कलेक्ट्रेट में प्रदर्शन:किसानों के लिए बेमौसम बारिश से बर्बाद हुई फसलों के लिए मुआवजे की मांग",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/mau/news/ghosi-nav-nirman-manchs-demonstration-at-the-collectorate-136358002.html",
-    "pubDate": "2025-11-07T08:48:40+00:00",
-    "summary": "मऊ जिले के कलेक्ट्रेट परिसर में घोसी नव निर्माण मंच के सदस्यों ने बेमौसम बारिश से बर्बाद हुई फसलों के मुआवजे की मांग को लेकर प्रदर्शन किया उन्होंने जिलाधिकारी प्रवीण मिश्र के माध्यम से मुख्यमंत्री को तीन सूत्रीय मांगों वाला एक ज्ञापन सौंपा मंच के प्रवक्ता शैलेंद्र सिंह चंदेल ने बताया कि बेमौसम बारिश से किसानों की फसलें बुरी तरह क्षतिग्रस्त हुई हैं",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "एटा में वंदे मातरम् की 150वीं वर्षगांठ मनी:पुलिस लाइन में विशेष आयोजन, SSP सहित अधिकारियों ने किया सामूहिक गायन",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/etah/news/150th-anniversary-of-vande-mataram-celebrated-in-etah-136358001.html",
-    "pubDate": "2025-11-07T08:48:38+00:00",
-    "summary": "राष्ट्रगीत 'वंदे मातरम्' के 150 वर्ष पूरे होने के उपलक्ष्य में एटा पुलिस लाइन में एक सामूहिक गायन कार्यक्रम आयोजित किया गया इस अवसर पर वरिष्ठ पुलिस अधीक्षक (एसएसपी) एटा श्याम नारायण सिंह ने अपने अधीनस्थ अधिकारियों और कर्मचारियों के साथ राष्ट्रगीत का गायन किया कार्यक्रम के दौरान, पुलिस लाइन स्थित बहुउद्देशीय कक्ष में प्रधानमंत्री श्री नरेंद्र मोदी के संबोधन का सजीव प्रसारण भी देखा गया",
-    "category": "Opposition Activity",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
     "title": "वंदे मातरम के 150 वर्ष, देशभक्ति के रंग में रंगा बरेली, गांधी उद्यान में गूंजे जयकारे, एलईडी पर सुना पीएम का संदेश",
     "link": "https://www.patrika.com/bareilly-news/150-years-of-vande-mataram-bareilly-painted-in-patriotic-colours-cheers-echoed-in-gandhi-garden-pms-message-heard-on-led-20083053",
     "pubDate": "2025-11-07T08:47:05+00:00",
@@ -232,42 +331,6 @@
     "category": "NDA Activity",
     "source": "Patrika",
     "district": "Uttar Pradesh"
-  },
-  {
-    "title": "बागपत में विकास कार्यों की जांच:बसौद गांव पहुंची टीम, ग्राम प्रधान के कार्यों में नहीं मिली कोई गड़बड़ी, दी क्लीन चिट",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/baghpat/news/investigation-of-development-works-in-baghpat-136357991.html",
-    "pubDate": "2025-11-07T08:47:00+00:00",
-    "summary": "बागपत के बसौद गांव में ग्राम प्रधान द्वारा कराए गए विकास कार्यों की जांच के लिए पहुंची टीम को कोई गड़बड़ी नहीं मिली है टीम ने शिकायत में बताए गए सभी बिंदुओं पर गहनता से जांच की जल निगम के सहायक अभियंता दीपक कुमार के नेतृत्व में यह जांच की गई",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "सिद्धार्थनगर में वंदे मातरम् की 150वीं वर्षगांठ मनी:सांसद, जनप्रतिनिधि, अधिकारी और छात्र पीएम लाइव से जुड़े, किया सामूहिक गान",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/siddharthnagar/news/150th-anniversary-of-vande-mataram-celebrated-in-siddharthnagar-136357984.html",
-    "pubDate": "2025-11-07T08:45:17+00:00",
-    "summary": "राष्ट्रीय गीत 'वंदे मातरम्' की 150वीं वर्षगांठ शुक्रवार को देशभर में विशेष कार्यक्रमों के साथ मनाई गई प्रधानमंत्री नरेंद्र मोदी ने नई दिल्ली से और मुख्यमंत्री योगी आदित्यनाथ ने लखनऊ से लाइव कार्यक्रम को संबोधित किया सिद्धार्थनगर में इस अवसर पर अम्बेडकर सभागार में सीधा प्रसारण किया गया, जिसमें सांसद डुमरियागंज जगदम्बिका पाल, भाजपा जिलाध्यक्ष कन्हैया पासवान, जिलाधिकारी शिवशरणप्पा जीएन, मुख्य विकास अधिकारी बलराम सिंह सहित बड़ी संख्या में जनप्रतिनिधि, प्रशासनिक अधिकारी और छात्र-छात्राएं उपस्थित रहे",
-    "category": "NDA Activity",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "प्रतापगढ़ में वंदे मातरम् की 150वीं वर्षगांठ मनी:पुलिस, प्रशासन और छात्रों ने किया सामूहिक गायन, जगह-जगह हुए कार्यक्रम",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/pratapgarh/news/150th-anniversary-of-vande-mataram-celebrated-in-pratapgarh-136357978.html",
-    "pubDate": "2025-11-07T08:44:28+00:00",
-    "summary": "प्रतापगढ़ पुलिस द्वारा आज राष्ट्रीय गीत \"वंदे मातरम्\" के 150 वर्ष पूरे होने के उपलक्ष्य में एक भव्य सामूहिक गायन कार्यक्रम आयोजित किया गया यह आयोजन पुलिस लाइन, प्रतापगढ़ में हुआ, जिसमें बड़ी संख्या में अधिकारी, कर्मचारी और छात्र शामिल हुए जिलाधिकारी शिव सहाय अवस्थी की अध्यक्षता में कलेक्ट्रेट सभागार में भी \"वंदे मातरम्\" का सामूहिक गायन किया गया",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "जौनपुर में महिला की जमीन पर अवैध कब्जा:दबंगों ने निर्माण शुरू किया, पुलिस पर कार्रवाई न करने का आरोप",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/jaunpur/news/illegal-occupation-of-womans-land-in-jaunpur-136357954.html",
-    "pubDate": "2025-11-07T08:41:40+00:00",
-    "summary": "जौनपुर के केराकत तहसील क्षेत्र के उपामचंदपुर पराना गांव में शांति देवी नामक महिला ने कुछ व्यक्तियों पर अपनी आबादी भूमि पर जबरन कब्जा करने और निर्माण शुरू करने का आरोप लगाया है शांति देवी के अनुसार, आरोपियों ने उनकी जमीन पर ईंट रखकर निर्माण कार्य शुरू कर दिया जब शांति देवी ने इसका विरोध किया, तो राजनाथ, विकास, बबूर, आकाश, समला देवी, चंपा देवी और शब्बो नामक व्यक्तियों ने कथित तौर पर गाली-गलौज की और लाठी-डंडों से हमला किया",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
   },
   {
     "title": "बरेली नगर निगम में बवाल, एबीवीपी पदाधिकारियों और अधिकारियों में हाथापाई, डेढ़ घंटे तक हंगामा",
@@ -288,24 +351,6 @@
     "district": "Rssfeed"
   },
   {
-    "title": "रामनगर में बेकाबू होकर पलटा सवारियों से भरा टेंपो:5 घायल, उत्तरप्रदेश से राइस मिल में ड्यूटी करने निकले थे; स्थानीय लोगों ने पहुंचाया अस्पताल",
-    "link": "https://www.bhaskar.com/local/uttarakhand/nainital/news/tempo-overturned-ramnagar-kashipur-highway-accident-136357922.html",
-    "pubDate": "2025-11-07T08:37:39+00:00",
-    "summary": "रामनगर में काशीपुर-रामनगर मार्ग पर नेशनल हाईवे 309 पर शुक्रवार सुबह 13-14 मजदूरों से भरा एक टेंपो बेकाबू होकर सड़क पर ही पलट गया, जिससे मौके पर अफरा-तफरी मच गई हादसे में 5 मजदूर घायल हो गए श्रमिक उत्तर प्रदेश के मुरादाबाद जिले के रहने वाले हैं और रोज की तरह रामनगर के चिलकिया क्षेत्र स्थित राइस मिल में काम करने आ रहे थे",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "बरेली में नगर आयुक्त और एबीवीपी कार्यकर्ता भिड़े:वार्ता करने आए थे, नगर आयुक्त पर स्टाफ से पिटाई कराने का आरोप",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/bareilly/news/abvp-workers-beaten-up-in-bareilly-136357872.html",
-    "pubDate": "2025-11-07T08:29:18+00:00",
-    "summary": "बरेली नगर निगम परिसर में गुरुवार को एबीवीपी के कार्यकर्ता और नगर आयुक्त आपस में भिड़ गए दोनों के बीच जमकर कहासुनी हुई एबीवीपी के कार्यकर्ताओं का आरोप है नगर आयुक्त ने कमरे में बंद कर कर्मचारियों से उनकी पिटवाया है",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
     "title": "मथुरा-आगरा हाईवे पर इजराइली युवक की रोड एक्सीडेंट में मौत:दोस्त के साथ बाइक से आगरा घूमने जा रहे थे, दूसरे साथी को भी आईं चोटें",
     "link": "https://www.bhaskar.com/local/uttar-pradesh/mathura/news/accident-on-mathura-agra-national-highway-136357864.html",
     "pubDate": "2025-11-07T08:28:01+00:00",
@@ -324,19 +369,19 @@
     "district": "Rssfeed"
   },
   {
-    "title": "योगी को देखकर बुलडोजर बाबा के नारे लगे:बिहार में टेंट, दीवार और छत पर चढ़े लोग, सीएम बोले- मैं आपको देख रहा हूं",
+    "title": "योगी को देखकर बुलडोजर बाबा के नारे लगे, VIDEO:बिहार में टेंट, दीवार और छत पर चढ़े लोग, सीएम बोले- मैं आपको देख रहा हूं",
     "link": "https://www.bhaskar.com/local/uttar-pradesh/news/yogi-adityanath-bihar-elections-rjd-congress-jungle-raj-136357774.html",
     "pubDate": "2025-11-07T08:08:15+00:00",
-    "summary": "सीएम योगी बिहार में धुआंधार रैलियां कर रहे हैं शुक्रवार को उन्होंने पूर्वी और पश्चिमी चंपारण में रैली को संबोधित किया यहां योगी को देखने के लिए भीड़ उमड़ पड़ी",
+    "summary": "सीएम योगी ने शुक्रवार को बिहार के पूर्वी और पश्चिमी चंपारण में 3 चुनावी रैली की यहां योगी को देखने के लिए भीड़ उमड़ पड़ी समर्थक दीवारों, टेंट, पेड़ और स्कूल की छत पर बैठ गए",
     "category": "Opposition Activity",
     "source": "Bhaskar",
     "district": "Rss V1  Category 2052"
   },
   {
-    "title": "गंगा बैराज पर स्टंटबाजों की टक्कर से छात्रा की मौत:इंस्टाग्राम पर लिखा–जिंदा हो या निपट गए, लड़कियों को तो मार दिया…",
+    "title": "गंगा बैराज पर स्टंटबाजों की टक्कर से छात्रा की मौत:दांत निकल कर बाहर गिरे, इंस्टाग्राम पर लिखा–जिंदा हो या निपट गए...लड़कियों को मार दिया",
     "link": "https://www.bhaskar.com/local/uttar-pradesh/kanpur/news/student-dies-after-being-hit-by-stuntmen-at-ganga-barrage-136357700.html",
     "pubDate": "2025-11-07T07:56:12+00:00",
-    "summary": "कानपुर में स्टंटबाजों ने स्कूटी सवार बीए की छात्रा की जान ले ली गंगा बैराज पर तेज रफ्तार स्पोर्ट्स बाइक से 110 की स्पीड में स्टंटबाजी कर रहे युवकों ने छात्रा व उसकी सहेली को टक्कर मार दी उसके बाद 50 मीटर तक घसीटते ले गए",
+    "summary": "'एक्सीडेंट हुआ है गंगा बैराज में जिंदा हो या निपट गए… लड़कियों को तो मार दिया तुमने, वहीं एक साथी ने रिप्लाई दिया कि यही बृजेश निषाद ने उड़ाया है अपनी बाइक से' यह कमेंट इंस्टाग्राम की एक पोस्ट पर लिखा हुआ है जिसमें बताया गया है कि कानपुर के गंगा बैराज पर एक हादसा हुआ है",
     "category": "Opposition Activity",
     "source": "Bhaskar",
     "district": "Rss V1  Category 2052"
@@ -401,15 +446,6 @@
     "pubDate": "2025-11-07T07:39:31+00:00",
     "summary": "बरेली में गुरुवार को पॉक्सो एक्ट के मामले में फरार चल रहे रिटायर्ड फौजी ने सुभाषनगर थाने में हंगामा मचा दिया पुलिस गिरफ्त में होने के बावजूद वह फोन पर बात कर रहा था जब दरोगा ने उससे मोबाइल जमा करने को कहा, तो वह भड़क गया और दरोगा का गिरेबान पकड़ लिया",
     "category": "Opposition Activity",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "इंडिया हॉकी के 100 साल पूरे:आगरा के एकलव्य स्पोर्टस स्टेडियम में खिलाड़ियों ने जश्न मनाया हॉकी के इतिहास पर चर्चा की",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/agra/news/india-hockey-completes-100-years-136357581.html",
-    "pubDate": "2025-11-07T07:38:06+00:00",
-    "summary": "इंडिया हॉकी के 100 साल पूरे हो गए है इसे लेकर देश भर में कार्यक्रम आयोजित किए जा रहे है आगरा में शुक्रवार को एकलव्य स्पोर्टस स्टेडियम में इंडिया हॉकी के 100 साल पूरे होने पर जश्न मनाया गया",
-    "category": "Governance issues",
     "source": "Bhaskar",
     "district": "Rss V1  Category 2052"
   },
@@ -2151,15 +2187,6 @@
     "district": "Siddharthnagar"
   },
   {
-    "title": "शाहजहांपुर में विवाहिता की मौत:ससुराल में फंदे पर लाश मिली, परिजनों ने नहीं उतरने दिया शव, सड़क जाम कर प्रदर्शन",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/shahjahanpur/news/dead-body-of-a-married-woman-found-hanging-in-shahjahanpur-136357331.html",
-    "pubDate": "2025-11-07T06:50:52+00:00",
-    "summary": "शाहजहांपुर में एक महिला का शव मकान के अंदर फंदे पर लटका मिला मायके पक्ष ने पति और ससुराल वालों पर हत्या कर शव को लटकाने का आरोप लगाया है सूचना मिलने पर पुलिस और फोरेंसिक टीम मौके पर पहुंची लेकिन परिवार वालों ने विरोध कर दिया",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
     "title": "Azamgarh News: कमजोर आंखों से किताबें पढ़ रहे 1021 नौनिहाल",
     "link": "https://www.amarujala.com/uttar-pradesh/azamgarh/1021-young-children-are-reading-books-with-weak-eyesight-azamgarh-news-c-258-1-svns1001-140257-2025-11-07",
     "pubDate": "2025-11-07T06:50:42+00:00",
@@ -2248,15 +2275,6 @@
     "category": "Uncategorised",
     "source": "Amarujala",
     "district": "Kanpur"
-  },
-  {
-    "title": "KGMU मरीजों के नंबर पर भेजेगा डॉक्टर्स अपडेट:OPD बंद रहने पर जाएगा नोटिफिकेशन, मरीजों को मिलेगी सुविधा",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/lucknow-kgmu-will-send-opd-updates-to-patients-through-their-registered-mobile-numbers-136357317.html",
-    "pubDate": "2025-11-07T06:48:39+00:00",
-    "summary": "यूपी के सबसे बड़े चिकित्सा विश्वविद्यालय ने OPD में इलाज के लिए आने वाले मरीजों को बड़ी राहत दी है मरीजों की सुविधा के लिए KGMU प्रशासन नई पहल शुरू करने जा रहा है इसके तहत OPD बंद होगी तो इसकी जानकारी मरीज के रजिस्टर्ड मोबाइल नंबर पर मैसेज के जरिए पहुंच जाएगी",
-    "category": "Uncategorised",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
   },
   {
     "title": "Sitapur News: 28 नवंबर को होगी सांसद केेस की सुनवाई",
@@ -2910,7 +2928,7 @@
     "title": "आगरा में रिश्वत में जूते मांगने वाले 2 सिपाही सस्पेंड:रुपए नहीं देने पर दुकानदार से लिए; 9 के खिलाफ जांच के आदेश",
     "link": "https://www.bhaskar.com/local/uttar-pradesh/agra/news/agra-police-constable-bribed-shoes-suspended-by-police-commissioner-after-complaint-helpline-receives-100-complaints-daily-136357225.html",
     "pubDate": "2025-11-07T06:32:13+00:00",
-    "summary": "आगरा पुलिस के सिपाहियों का अजीब कारनामा सामने आया है रिश्वत में रुपए नहीं मिलने दुकानदार से 4 जोड़ी जूते ले गए वहीं शिकायत के बाद पुलिस कमिश्नर दीपक कुमार ने 2 को सस्पेंड कर दिया है",
+    "summary": "आगरा में रिश्वत में 4 जोड़ी जूते लेने वाले 2 सिपाहियों को सस्पेंड कर दिया गया है सिपाहियों ने एक केस से नाम हटाने के लिए दुकानदार से रिश्वत की डिमांड की दुकानदार ने कहा कि उसके पास रुपए नहीं हैं",
     "category": "Opposition Activity",
     "source": "Bhaskar",
     "district": "Rss V1  Category 2052"
@@ -3147,7 +3165,7 @@
     "summary": "PM Modi Varanasi Visit: देश के प्रधानमंत्री नरेंद्र मोदी 8 नवंबर को अपने संसदीय क्षेत्र वाराणसी के 53वें दौरे पर आ रहे हैं यह किसी भी प्रधानमंत्री द्वारा अपने संसदीय क्षेत्र में सबसे ज्यादा दौरे का रिकॉर्ड है हर बार PM मोदी बनारस को नई सौगात देते हैं",
     "category": "NDA Activity",
     "source": "Patrika",
-    "district": "Varanasi"
+    "district": "Uttar Pradesh"
   },
   {
     "title": "यूपी पुलिस ने हाफ एनकाउंटर में पैर में गोली मार पकड़ा इनामी गो तस्कर, तीन फरार",
@@ -3498,7 +3516,7 @@
     "summary": "Mahak pari hafiz threat video social media: संभल के गांव शहबाजपुर कला की सगी बहनें महक और परी एक बार फिर सोशल मीडिया पर विवादों में आ गई हैं इनका एक वीडियो वायरल हो रहा है, जिसमें वे हाफिज को धमका रही हैं और कह रही हैं कि उसका काम मस्जिद में नमाज पढ़ाना है, इंस्टाग्राम चलाना नहीं",
     "category": "Uncategorised",
     "source": "Patrika",
-    "district": "Sambhal"
+    "district": "Uttar Pradesh"
   },
   {
     "title": "Lucknow: जानकीपुरम में सड़क किनारे पड़ा मिला महिला का शव, पहचान मिटाने के लिए तेजाब से जलाया गया चेहरा",
@@ -3579,7 +3597,7 @@
     "summary": "Police encounter in kaushambi UP: उत्तर प्रदेश के कौशांबी जिले में लव जिहाद और दुष्कर्म का सनसनीखेज मामला सामने आया है मंझनपुर कोतवाली क्षेत्र में 18 वर्षीय दलित युवती को गांव के ही युवक शाहनूर आलम ने अपने झूठे प्यार के जाल में फंसाया और उसके साथ कई बार दुष्कर्म किया पीड़िता ने बताया कि आरोपी उसका स्कूल जाते समय पीछा करता था",
     "category": "Uncategorised",
     "source": "Patrika",
-    "district": "Kaushambi"
+    "district": "Uttar Pradesh"
   },
   {
     "title": "Jhansi: पांच माह बाद भी फाइलों से बाहर नहीं आ सका बस अड्डे का निर्माण, कोछाभांवर में है स्वीकृत",
@@ -3597,7 +3615,7 @@
     "summary": "UP Government Warns: उत्तर प्रदेश सरकार ने सरकारी अस्पतालों में अव्यवस्था और मरीजों के शोषण पर कड़ा रुख अपनाया है राज्य के स्वास्थ्य विभाग ने साफ निर्देश जारी किए हैं कि अब किसी भी सरकारी डॉक्टर को बाहर की महंगी दवा सादी पर्ची पर लिखते हुए पाया गया, तो उसके खिलाफ सीधी कार्रवाई होगी और वह निलंबन तक भी पहुंच सकती है साथ ही, ओपीडी समय में डॉक्टरों की अनुपस्थिति पर चिकित्सा अधीक्षक (CMS) और मुख्य चिकित्सा अधीक्षक (CMO) भी...",
     "category": "Governance issues",
     "source": "Patrika",
-    "district": "Lucknow"
+    "district": "Uttar Pradesh"
   },
   {
     "title": "एक प्रेमिका के लिए बीच सड़क पर भिड़े दो प्रेमी;VIDEO:जालौन में सड़क पर चले लात-घूंसे, एक के साथ शादी करने जा रही थी, दूसरे ने पकड़ा",
@@ -3618,7 +3636,7 @@
     "district": "Agra"
   },
   {
-    "title": "अयोध्या में रेशम के धागों से तैयार हुआ ध्वज:22 फीट का ध्वज 25 नवंबर को राम मंदिर के शिखर पर फहराएगा",
+    "title": "अयोध्या में रेशम के धागों से तैयार होगा ध्वज:22 फीट का ध्वज 25 नवंबर को राम मंदिर के शिखर पर फहराएगा",
     "link": "https://www.bhaskar.com/local/uttar-pradesh/ayodhya/news/five-day-vedic-preparations-begin-in-ayodhya-136356678.html",
     "pubDate": "2025-11-07T04:23:15+00:00",
     "summary": "रामनगरी अयोध्या एक ऐतिहासिक क्षण की ओर बढ़ रही है श्रीराम जन्मभूमि मंदिर के शिखर पर 25 नवंबर को भव्य ध्वजारोहण समारोह आयोजित किया जाएगा प्रधानमंत्री नरेंद्र मोदी स्वयं मुख्य मंदिर के शिखर पर ध्वज फहराएंगे",
@@ -3777,7 +3795,7 @@
     "summary": "आगरा-लखनऊ एक्सप्रेसवे पर दुर्घटनाग्रस्त बस से सफर कर रहे आधे यात्री नींद में थे लोडर से टकराने के बाद यात्री जब तक कुछ समझ पाते बस खंती में चली गई",
     "category": "Uncategorised",
     "source": "Amarujala",
-    "district": "Uttar Pradesh"
+    "district": "Lucknow"
   },
   {
     "title": "UP: आगरा की नई टाउनशिप में सबसे सस्ते प्लॉट...फिर भी बड़े भूखंडों के लिए नहीं मिल रहे खरीदार, ये है हालत",
@@ -3840,7 +3858,7 @@
     "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
     "category": "Opposition Activity",
     "source": "Amarujala",
-    "district": "Uttar Pradesh"
+    "district": "Agra"
   },
   {
     "title": "Srinagar police arrest MBBS doctor in Saharanpur:Accused of putting up terror group Jaish-e-Mohammed's posters on streets",
@@ -3861,11 +3879,11 @@
     "district": "Rssfeed"
   },
   {
-    "title": "यूपी की बड़ी खबरें:अतीक के वकील विजय मिश्रा, बहनोई अखलाक की जमानत खारिज; जस्टिस शेखर यादव ने सुनाया फैसला",
+    "title": "यूपी की बड़ी खबरें:मथुरा-आगरा हाईवे पर इजराइली युवक की रोड एक्सीडेंट में मौत, दोस्त के साथ बाइक से आगरा घूमने जा रहे थे",
     "link": "https://www.bhaskar.com/local/uttar-pradesh/news/uttar-pradesh-big-breaking-news-updates-7-november-2025-today-live-agra-lucknow-kanpur-varanasi-prayagraj-meerut-ayodhya-136356385.html",
     "pubDate": "2025-11-07T03:24:28+00:00",
-    "summary": "इलाहाबाद हाईकोर्ट ने माफिया अतीक अहमद के बहनोई अखलाक अहमद, अतीक के वकील विजय मिश्रा, ड्राइवर मोहम्मद कैश और नौकर नियाज की जमानत अर्जी की खारिज कर दी कोर्ट ने चारों की जमानत अर्जियों पर सुनवाई के बाद 31 अक्टूबर कसे फैसला सुरक्षित कर लिया था शुक्रवार को जस्टिस शेखर कुमार यादव की सिंगल बेंच ने फैसला सुनाया",
-    "category": "Judicial cases",
+    "summary": "इजराइल से भारत घूमने आए एक युवक की शुक्रवार को आगरा नेशनल हाईवे पर सड़क हादसे में मौत हो गई युवक अपने दोस्त की बाइक से आगरा जा रहा था कीठम के पास बाइक अचानक बेकाबू होकर डिवाइडर पर चढ़ गई, जिससे वह गंभीर रूप से घायल हो गया",
+    "category": "Governance issues",
     "source": "Bhaskar",
     "district": "Rss V1  Category 2052"
   },
@@ -3876,7 +3894,7 @@
     "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
     "category": "Opposition Activity",
     "source": "Amarujala",
-    "district": "Uttar Pradesh"
+    "district": "Agra"
   },
   {
     "title": "TTZ: 200 से अधिक उद्योगों को मिल सकती है संजीवनी, सुप्रीम कोर्ट में 11 नवंबर को अहम सुनवाई",
@@ -3903,7 +3921,7 @@
     "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
     "category": "Opposition Activity",
     "source": "Amarujala",
-    "district": "Uttar Pradesh"
+    "district": "Agra"
   },
   {
     "title": "दूल्हे की शादी से 6 दिन पहले मौत, कुछ देर में लौट आऊंगा मां…मोहित के आखिरी शब्द",
@@ -3921,7 +3939,7 @@
     "summary": "यूपी के सरकारी अस्पतालों में सादी पर्ची पर बाहर की ब्रांडेड दवा लिखने वाले डॉक्टर निलंबित होंगे इसके अलावा निर्धारित समय पर ओपीडी कक्ष में डॉक्टर के न होने पर संबंधित डॉक्टर के साथ चिकित्सा अधीक्षक व मुख्य चिकित्सा अधीक्षक भी जिम्मेदार होंगे",
     "category": "Governance issues",
     "source": "Amarujala",
-    "district": "Uttar Pradesh"
+    "district": "Lucknow"
   },
   {
     "title": "झांसी: भ्रष्टाचार में फंसे रिटायर्ड प्रशासनिक अफसर के मामले की विवेचना शुरू, 55 लाख की अघोषित आय की छानबीन",
@@ -3938,15 +3956,6 @@
     "pubDate": "2025-11-07T03:04:47+00:00",
     "summary": "आजमगढ़ में 50 हजार के इनामी गो-तस्कर वाकिब उर्फ वाकिफ को एनकाउंटर में मार गिराया गया शुक्रवार तड़के लूट के सुराग जुटाने के लिए पुलिस टीम गश्त कर रही थी तभी STF को सूचना मिली कि वाकिफ और उसके तीन साथी थाना रौनापार क्षेत्र की ओर भाग रहे हैं",
     "category": "Opposition Activity",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "लखनऊ के लालबाग में हवा की क्वालिटी सबसे खराब:सड़कों पर धूल से हवा हो रही जहरीली, हवा चलने से तापमान में कमी",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/lucknow/news/air-quality-in-lalbagh-is-poorhazardus-situation-lucknow-pollution-air-136356265.html",
-    "pubDate": "2025-11-07T03:04:12+00:00",
-    "summary": "लखनऊ में सुबह के समय हल्की धुंध रही इसके बाद मौसम साफ है दिन का अधिकतम तापमान 29 डिग्री और न्यूनतम तापमान 17 डिग्री रहने की संभावना है",
-    "category": "Uncategorised",
     "source": "Bhaskar",
     "district": "Rss V1  Category 2052"
   },
@@ -3984,7 +3993,7 @@
     "summary": "देश के अलग अलग राज्यों की आधार कार्ड बनाने वाली सरकारी साइटों को हैककर आधार कार्ड सहित अन्य फर्जी प्रमाण पत्र बनाने वाले गिरोह का एसटीएफ ने भंडाफोड़ किया है",
     "category": "Governance issues",
     "source": "Amarujala",
-    "district": "Uttar Pradesh"
+    "district": "Aligarh"
   },
   {
     "title": "ईरानी महिला ने खोला राज, बोली, मेरी सास के पास मेरे प्राइवेट फोटो-वीडियो, कर रही ब्लैकमेल",
@@ -4071,7 +4080,7 @@
     "title": "काशी में आज PM मोदी...2 दिन रहेंगे:एयरपोर्ट से बरेका तक मिनी रोड शो करेंगे, वंदे भारत को हरी झंडी दिखाएंगे",
     "link": "https://www.bhaskar.com/local/uttar-pradesh/varanasi/news/pm-narendra-modi-varanasi-visit-live-update-yogi-adityanath-vande-bharat-train-136355942.html",
     "pubDate": "2025-11-07T01:47:36+00:00",
-    "summary": "PM मोदी शुक्रवार को वाराणसी पहुंच रहे हैं वह 2 दिन यहां रहेंगे इस दौरान वह 4 वंदे भारत ट्रेनों को हरी झंडी दिखाएंगे",
+    "summary": "PM मोदी शुक्रवार को वाराणसी पहुंच रहे हैं यह उनका इस साल का 5वां और वाराणसी सांसद रहते 53वां दौरा है मोदी शाम करीब 5 बजे वाराणसी आएंगे",
     "category": "Opposition Activity",
     "source": "Bhaskar",
     "district": "Rss V1  Category 2052"
@@ -4302,6 +4311,42 @@
     "district": "Varanasi"
   },
   {
+    "title": "'वंदेमातरम के 150 वर्ष': मुरादनगर के एक स्कूल में वंदे मातरम के 150 वर्षगांठ पर सामूहिक गायन",
+    "link": "https://www.amarujala.com/video/delhi-ncr/ghaziabad/video-150-years-of-vande-mataram-mass-singing-of-vande-mataram-at-school-in-muradnagar-to-mark-its-150th-anniversary-2025-11-07",
+    "pubDate": "2025-11-06T22:54:42+00:00",
+    "summary": "मेरा शहर Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Next Article Please wait Please wait Delete All Cookies Followed",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Ghaziabad"
+  },
+  {
+    "title": "Saharanpur: बड़गांव पुलिस की बड़ी कार्रवाई: 350 ग्राम स्मैक सहित दो तस्कर गिरफ्तार, कीमत करीब 60 लाख",
+    "link": "https://www.amarujala.com/uttar-pradesh/saharanpur/saharanpur-major-action-by-bargaon-police-two-smugglers-arrested-with-350-grams-of-smack-worth-around-60-la-2025-11-07",
+    "pubDate": "2025-11-06T22:44:49+00:00",
+    "summary": "मेरा शहर बड़गांव पुलिस ने चेकिंग के दौरान 350 ग्राम स्मैक और हरियाणा नंबर की बाइक सहित दो युवकों को पकड़ा बरामद स्मैक की बाजार कीमत करीब 60 लाख रुपये बताई जा रही है दोनों आरोपियों पर एनडीपीएस एक्ट के तहत केस दर्ज किया गया है",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Saharanpur"
+  },
+  {
+    "title": "Ayodhya: श्रीराम  को मनाने के लिए अयोध्या से चित्रकूट निकले भरत, 52 वर्षों से निकल रही ये यात्रा",
+    "link": "https://www.amarujala.com/lucknow/ayodhya-bharat-left-ayodhya-for-chitrakoot-to-persuade-shri-ram-a-journey-that-has-been-going-on-for-52-year-2025-11-07",
+    "pubDate": "2025-11-06T22:42:24+00:00",
+    "summary": "मणिरामदास की छावनी से निकलने वाली परंपरागत भरत यात्रा शुक्रवार को चित्रकूट के लिए रवाना हुई श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट के अध्यक्ष महंत नृत्य गोपाल दास ने यात्रा को अपना आशीर्वाद दिया",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Lucknow"
+  },
+  {
+    "title": "Baghpat: ट्रक चालान के विरोध में मेरठ-करनाल हाईवे जाम, सरधना चर्च जा रहे अनुयायियों ने किया प्रदर्शन",
+    "link": "https://www.amarujala.com/uttar-pradesh/baghpat/baghpat-meerut-karnal-highway-blocked-in-protest-against-truck-challan-devotees-going-to-sardhana-church-dem-2025-11-07",
+    "pubDate": "2025-11-06T22:40:40+00:00",
+    "summary": "मेरा शहर अमृतसर से सरधना चर्च जा रहे ट्रक सवारों ने एआरटीओ द्वारा 38 हजार का चालान काटे जाने पर मेरठ–करनाल हाईवे पर जाम लगा दिया सूचना पर पहुंची पुलिस ने समझा-बुझाकर जाम खुलवाया और यातायात सामान्य कराया Link Copied शामली जनपद के झिंझाना में अमृतसर से ट्रक में सवार होकर मेरठ के सरधना चर्च में प्रार्थना के लिए जा रहे लोगों ने शुक्रवार सुबह मेरठ–करनाल हाईवे पर जाम लगाकर प्रदर्शन किया",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Baghpat"
+  },
+  {
     "title": "Baghpat: दोबारा दुल्हन बनने से पहले पकड़ी गईं 69 युवतियां, सरकारी पैसा और सामान झटकने के लिए किया फर्जीवाड़ा",
     "link": "https://www.amarujala.com/uttar-pradesh/baghpat/baghpat-69-women-caught-before-they-could-become-brides-again-2025-11-07",
     "pubDate": "2025-11-06T22:38:23+00:00",
@@ -4309,6 +4354,87 @@
     "category": "Governance issues",
     "source": "Amarujala",
     "district": "Baghpat"
+  },
+  {
+    "title": "UP: शामली में बिना पंजीकरण चल रहा था ‘नामदेव क्लीनिक’, झोलाछाप के खिलाफ एसीएमओ ने दर्ज कराई रिपोर्ट",
+    "link": "https://www.amarujala.com/uttar-pradesh/shamli/illegal-namdev-clinic-running-without-registration-in-shamli-acmo-files-complaint-2025-11-07",
+    "pubDate": "2025-11-06T22:34:16+00:00",
+    "summary": "मेरा शहर शामली में बुढ़ाना रोड स्थित नामदेव क्लीनिक बिना पंजीकरण के अवैध रूप से चल रहा था एसीएमओ डॉ अश्वनी कुमार शर्मा ने संचालक राजेश के खिलाफ राष्ट्रीय चिकित्सा आयोग अधिनियम के तहत शहर कोतवाली में रिपोर्ट दर्ज कराई है",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Shamli"
+  },
+  {
+    "title": "बचपन के दोस्त को खोने का गम: 15 साल से थी दोस्ती, खेलते-खेलते चंद मिनटों में काल के गाल में समा गया था रविंद्र",
+    "link": "https://www.amarujala.com/uttar-pradesh/jhansi/the-grief-of-losing-a-childhood-friend-they-were-friends-for-15-years-but-he-died-while-playing-2025-11-07",
+    "pubDate": "2025-11-06T22:33:45+00:00",
+    "summary": "अभिषेक आर्या ने बताया कि वह पहले सीपरी बाजार थाने के पास रहते थे 15 साल पहले नालगंज में रहने वाले रविंद्र की उनसे दोस्ती हुई और दोनों के बीच खासा याराना हो गया वह मिलने, घूमने, खेलने के लिए अधिकतर साथ ही जाते थे",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Jhansi"
+  },
+  {
+    "title": "UP News Today Live: उत्तर प्रदेश  ब्रेकिंग न्यूज़, पढ़ें 7 नवम्बर के मुख्य और ताजा समाचार",
+    "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2025-11-07",
+    "pubDate": "2025-11-06T22:31:41+00:00",
+    "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Uttar Pradesh"
+  },
+  {
+    "title": "Meerut News Today Live: मेरठ और आसपास की ताजा और अहम खबरें, पढ़ें 7 नवम्बर को आपके शहर में क्या हुआ",
+    "link": "https://www.amarujala.com/live/uttar-pradesh/meerut/meerut-news-today-live-latest-and-breaking-crime-shiksha-politics-meerut-samachar-in-hindi-2025-11-07",
+    "pubDate": "2025-11-06T22:31:33+00:00",
+    "summary": "Meerut Breaking News Today Live - Read latest and breaking news today in hindi at Amarujala यहां पढ़ें, मेरठ की ताजा खबरें, क्राइम, राजनीति, खेल, मनोरंजन, धर्म, और शिक्षा की खबरों का लाइव अपडेशन",
+    "category": "Opposition Activity",
+    "source": "Amarujala",
+    "district": "Baghpat"
+  },
+  {
+    "title": "बरेली नगर निगम में एबीवीपी का बवाल: नगर आयुक्त से धक्का-मुक्की, कर्मचारियों ने गेट पर खड़े किए बुलडोजर",
+    "link": "https://www.amarujala.com/uttar-pradesh/bareilly/commotion-in-municipal-corporation-office-premises-of-bareilly-on-friday-afternoon-2025-11-07",
+    "pubDate": "2025-11-06T22:29:32+00:00",
+    "summary": "मेरा शहर Link Copied एबीवीपी के विभाग संगठन मंत्री अवनी यादव ने बताया कि हॉस्टल संबंधी व सफाई व्यवस्था की मांग लेकर नगर निगम गए थे आरोप है कि वहां कर्मचारियों ने उनसे धक्कामुक्की कर अभद्रता की विभाग सह संयोजक श्रेयांश बाजपेई ने आरोप लगाया कि कर्मचारियों ने छात्रों को घेरकर पीटा",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Bareilly"
+  },
+  {
+    "title": "Lucknow: 9000 रुपये का ट्रॉली बैग टूटा, एयरलाइन ने कहा-1500 ले लो",
+    "link": "https://www.amarujala.com/lucknow/lucknow-trolley-bag-worth-rs-9000-broke-airline-said-take-rs-1500-2025-11-07",
+    "pubDate": "2025-11-06T22:25:28+00:00",
+    "summary": "इंडिगो की फ्लाइट 6ई-264 से मुंबई से लखनऊ पहुंचे आलोक सिंह का चेकइन ट्रॉली बैग कन्वेयर बेल्ट पर टूटा मिला आलोक का दावा है कि उनका बैग 9000 रुपये का था",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Uttar Pradesh"
+  },
+  {
+    "title": "Bulandshahr: इवनिंग वॉक पर निकले पीटी टीचर को तेज रफ्तार कार ने मारी जोरदार टक्कर, इलाज के दौरान मौत",
+    "link": "https://www.amarujala.com/uttar-pradesh/bulandshahr/pt-teacher-out-for-evening-walk-hit-by-speeding-car-dies-during-treatment-in-bulandshahr-2025-11-07",
+    "pubDate": "2025-11-06T22:25:10+00:00",
+    "summary": "बुलन्दशहर में इवनिंग वॉक पर निकले पीटी टीचर को तेज रफ्तार कार ने जोरदार टक्कर मार दी टक्कर लगने के बाद कार सवार ने गंभीर रूप से घायल टीचर को अस्पताल पहुँचाया लेकिन इलाज के दौरान डॉक्टरों ने उन्हें मृत घोषित कर दिया",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Bulandshahr"
+  },
+  {
+    "title": "Meerut: शादी का निमंत्रण भेजकर चौकी इंचार्ज का फोन हैक! रिठानी में साइबर ठगों की चाल से मचा हड़कंप",
+    "link": "https://www.amarujala.com/uttar-pradesh/meerut/rithani-police-outpost-incharge-s-phone-hacked-fraudsters-sent-fake-wedding-invitation-link-2025-11-07",
+    "pubDate": "2025-11-06T22:24:52+00:00",
+    "summary": "मेरा शहर मेरठ में रिठानी चौकी इंचार्ज नीरज बघेल का फोन साइबर अपराधियों ने हैक कर लिया ठगों ने उनके व्हाट्सएप से दर्जनों लोगों को शादी का इनविटेशन और लिंक भेजकर पैसों की मांग की मामला साइबर सेल की जांच में है",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Meerut"
+  },
+  {
+    "title": "हमीरपुर: तेज रफ्तार ट्रक ने बाइक सवार तीन मजदूरों को रौंदा, गुस्साई भीड़ ने किया रोड जाम",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/hamirpur/video-hamarapara-taja-rafatara-taraka-na-bika-savara-tana-majathara-ka-ratha-gasasaii-bhaugdha-na-kaya-rada-jama-2025-11-07",
+    "pubDate": "2025-11-06T22:24:00+00:00",
+    "summary": "मेरा शहर Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Next Article Please wait Please wait Delete All Cookies Followed",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Hamirpur"
   },
   {
     "title": "Varanasi: पीएम मोदी आज पहुंचेंगे काशी, कल चार वंदे भारत ट्रेनों को दिखाएंगे हरी झंडी; सीएम योगी रहेंगे साथ",
@@ -4320,6 +4446,150 @@
     "district": "Varanasi"
   },
   {
+    "title": "VIDEO: जानकीपुरम में मिली महिला की लाश, पुलिस ने सीसीटीवी फुटेज खंगाले",
+    "link": "https://www.amarujala.com/video/lucknow/video-video-janakaparama-ma-mal-mahal-ka-lsha-palsa-na-sasatava-fataja-khagal-2025-11-07",
+    "pubDate": "2025-11-06T22:15:57+00:00",
+    "summary": "मेरा शहर Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Next Article Please wait Please wait Delete All Cookies Followed",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Lucknow"
+  },
+  {
+    "title": "Prayagraj : थरवई में कपड़े की दुकान में लगी भीषण आग, लाखों का माल जलकर राख, फायर ब्रिगेड पहुंची",
+    "link": "https://www.amarujala.com/uttar-pradesh/allahabad/massive-fire-broke-out-in-a-clothing-store-in-tharwai-goods-worth-lakhs-were-burnt-to-ashes-2025-11-07",
+    "pubDate": "2025-11-06T22:15:47+00:00",
+    "summary": "थरवई थाना क्षेत्र के पांडेश्वर धाम पड़िला में शिवजी केसरवानी के कपड़े की दुकान में आग लग गई देखते ही देखते आग ने भयावह रूप धारण कर लिया सूचना पाकर पहुंची फायर ब्रिगेड की टीम ने काफी मशक्कत के बाद आग पर काबू पाया",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Allahabad"
+  },
+  {
+    "title": "बुलंदशहर में प्राइवेट हॉस्पिटल में इलाज के दौरान महिला की मौत, परिजनों का आरोप- डॉक्टर ने गलत इंजेक्शन लगाया",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/bulandshahr/video-a-woman-died-during-treatment-at-private-hospital-in-bulandshahr-family-alleges-doctor-2025-11-07",
+    "pubDate": "2025-11-06T22:15:31+00:00",
+    "summary": "मेरा शहर Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Next Article Please wait Please wait Delete All Cookies Followed",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Bulandshahr"
+  },
+  {
+    "title": "Aligarh Exhibition: 16 जनवरी से 10 फरवरी तक लगेगी नुमाइश, इस बार होगी कुछ खास",
+    "link": "https://www.amarujala.com/uttar-pradesh/aligarh/aligarh-exhibition-from-january-16-to-february-10-2025-11-07",
+    "pubDate": "2025-11-06T22:15:16+00:00",
+    "summary": "मेरा शहर Link Copied इस वर्ष अलीगढ़ में नुमाइश का आयोजन 16 जनवरी से 10 फरवरी तक किया जाएगा नुमाइश में बागवानी, औद्योगिक एवं कृषि संबंधी कार्यक्रमों का सजीव प्रसारण किया जाएगा Trending Videos यह वीडियो/विज्ञापन हटाएं नुमाइश कमेटी की बैठक जिलाधिकारी संजीव रंजन की अध्यक्षता में कलेक्ट्रेट सभागार में की गई",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Uttar Pradesh"
+  },
+  {
+    "title": "PM Modi Visit: पीएम मोदी आ रहे हैं काशी, कल चार वंदे भारत ट्रेनों को दिखाएंगे हरी झंडी",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/pm-modi-varanasi-visit-today-and-launch-four-vande-bharat-trains-tomorrow-2025-11-07",
+    "pubDate": "2025-11-06T22:14:34+00:00",
+    "summary": "मेरा शहर Link Copied प्रधानमंत्री नरेंद्र मोदी शुक्रवार की शाम करीब 5 बजे बाबतपुर एयरपोर्ट पहुंचेंगे यहां से वाया रोड बरेका पहुंचेंगे यहां वह शाम को छह बजे से सात बजे तक भाजपा कार्यकर्ताओं के साथ बैठक करेंगे",
+    "category": "NDA Activity",
+    "source": "Amarujala",
+    "district": "Uttar Pradesh"
+  },
+  {
+    "title": "Lucknow News : उन्नाव के पांच बिजली इंजीनियरों पर कार्रवाई, जेई,एसडीओ निलंबित",
+    "link": "https://www.amarujala.com/lucknow/lucknow-city-news-lucknow-news-c-13-1-lko1105-1460564-2025-11-07",
+    "pubDate": "2025-11-06T22:13:14+00:00",
+    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
+    "category": "Opposition Activity",
+    "source": "Amarujala",
+    "district": "Lucknow"
+  },
+  {
+    "title": "Hamirpur Accident: तेज रफ्तार ट्रक ने बाइक सवारों को रौंदा, तीन मजदूरों की मौत...ग्रामीणों ने रोड किया जाम",
+    "link": "https://www.amarujala.com/uttar-pradesh/kanpur/hamirpur-accident-speeding-truck-crushes-bike-riders-three-laborers-killed-villagers-block-road-2025-11-07",
+    "pubDate": "2025-11-06T22:10:59+00:00",
+    "summary": "हमीरपुर जिले में राठ कोतवाली क्षेत्र के बसेला इलाके में एक भीषण सड़क हादसे में बाइक सवार तीन युवकों की मौके पर ही दर्दनाक मौत हो गई बताया जा रहा है कि तीनों युवक मजदूरी कर अपने घर लौट रहे थे, तभी एक तेज रफ्तार ट्रक ने उन्हें रौंद दिया",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Uttar Pradesh"
+  },
+  {
+    "title": "Etawah: भरथना के पारंपरिक दंगल में दिखा रोमांच का चरम, आठवीं कुश्ती में नगला हीरे के पहलवान रजत ने मारी बाजी",
+    "link": "https://www.amarujala.com/uttar-pradesh/kanpur/etawah-the-traditional-wrestling-competition-in-bharthana-was-at-its-peak-rajat-winning-the-eighth-bout-2025-11-07",
+    "pubDate": "2025-11-06T22:06:24+00:00",
+    "summary": "इटावा जिले में भरथना कस्बे में बाहरपुर-लहरोई गांव के पास स्थित नहर पुल किनारे कार्तिक पूर्णिमा के उपलक्ष्य में आयोजित प्राचीन मेले में इस वर्ष भी पारंपरिक दंगल का रोमांच चरम पर रहा",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Etawah"
+  },
+  {
+    "title": "कार्तिक पूर्णिमा मेला: इटावा के भरथना में हुआ दंगल, पहलवान राधे और रजत के बीच हुआ जोरदार मुकाबला",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/kanpur/video-karataka-paranaema-mal-itava-ka-bharathana-ma-haaa-thagal-pahalvana-rathha-oura-rajata-ka-bca-haaa-jarathara-makabl-2025-11-07",
+    "pubDate": "2025-11-06T22:05:35+00:00",
+    "summary": "मेरा शहर Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Next Article Please wait Please wait Delete All Cookies Followed",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Kanpur"
+  },
+  {
+    "title": "UP: 'सुबह एजेंट का सामना कैसे करूंगी...' कर्ज तले दबी महिला ने दी जान; गिरवी जमीन छुड़ाने के लिए लिया कर्जा",
+    "link": "https://www.amarujala.com/gorakhpur/a-woman-troubled-by-debt-committed-suicide-in-basti-2025-11-07",
+    "pubDate": "2025-11-06T22:04:36+00:00",
+    "summary": "बस्ती के सोनहा थाना क्षेत्र के नरखोरिया गांव की 47 वर्षीय मनिता देवी ने बृहस्पतिवार सुबह घर में फंदे से लटककर खुदकुशी कर ली पति बसंत सोनी के अनुसार, उन्होंने चार समूहों से करीब चार लाख रुपये का कर्ज लिया था पर वह उसकी किस्त नहीं चुका पा रहे थे",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Gorakhpur"
+  },
+  {
+    "title": "Rain in Varanasi: अक्तूबर में अगस्त जैसी बारिश, कोटे से 645% ज्यादा; ऐसा रहा बनारस में बारिश का रिकॉर्ड",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-weather-update-banaras-rainfall-record-in-month-of-october-2025-11-07",
+    "pubDate": "2025-11-06T22:03:39+00:00",
+    "summary": "मेरा शहर Link Copied बनारस में अक्तूबर महीने में 645 प्रतिशत ज्यादा बारिश हुई इस साल अक्तूबर में 210 मिलीमीटर तक बारिश हुई है जबकि सामान्य औसत 28 मिमी बारिश का है",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Uttar Pradesh"
+  },
+  {
+    "title": "VIDEO: लखनऊ के अजीज नगर जामा मस्जिद के पास टूटे नाले से स्थानीय लोग परेशान",
+    "link": "https://www.amarujala.com/video-shots/short-videos/video-video-lkhanauu-ka-ajaja-nagara-jama-masajatha-ka-pasa-tata-nal-sa-sathanaya-lga-parashana-2025-11-07",
+    "pubDate": "2025-11-06T22:01:02+00:00",
+    "summary": "VIDEO: लखनऊ के अजीज नगर जामा मस्जिद के पास टूटे नाले से स्थानीय लोग परेशान",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Lucknow"
+  },
+  {
+    "title": "झांसी: नाबालिग बहनों से छेड़खानी करने वाले को तीन साल की कैद, दस हजार रुपये का जुर्माना भी लगाया",
+    "link": "https://www.amarujala.com/uttar-pradesh/jhansi/jhansi-man-who-molested-minor-sisters-gets-three-years-imprisonment-2025-11-07",
+    "pubDate": "2025-11-06T21:53:24+00:00",
+    "summary": "विशेष लोक अभियोजक ने बताया कि 19 सितंबर 2018 को कोतवाली थाना क्षेत्र के मेवाती मोहल्ला निवासी शाहरुख पठान ने दो नाबालिग बहनों को अपने साथी सोनू के घर पर बुलाया मौका पाकर दोनों बहनों से अश्लील हरकत की",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Jhansi"
+  },
+  {
+    "title": "UP: 'अंग्रेजी में गालियां देती है बहू...पीटती भी है', यूट्यूबर की विदेशी पत्नी पर सास के बड़े आरोप; पूरी कहानी",
+    "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/up-news-iranian-wife-of-youtuber-accused-by-mother-in-law-of-abuse-and-blackmail-full-story-2025-11-07",
+    "pubDate": "2025-11-06T21:51:23+00:00",
+    "summary": "मुरादाबाद शहर के यूट्यूबर पंकज कुमार दिवाकर से प्रेम विवाह करने वाली ईरानी युवती फैजा सास और ननद के उत्पीड़न से तंग आकर अपने देश लौटेगी फैजा ने बृहस्पतिवार को पहले महिला थाने फिर एसपी सिटी कार्यालय में अपना दर्द बयां किया",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Moradabad"
+  },
+  {
+    "title": "UPSSSC: स्टेनोग्राफर, ड्राफ्ट्समैन और कार्टोग्राफर परीक्षा के लिए शहर सूचना पर्ची जारी, जानें कब होगा एग्जाम",
+    "link": "https://www.amarujala.com/education/upsssc-releases-exam-city-slip-for-stenographer-draftsman-and-cartographer-exams-check-exam-date-2025-11-07",
+    "pubDate": "2025-11-06T21:51:10+00:00",
+    "summary": "UPSSSC Exam City Slip 2025: यूपीएसएसएससी ने स्टेनोग्राफर, ड्राफ्ट्समैन और कार्टोग्राफर परीक्षा के लिए एग्जाम सिटी स्लिप जारी कर दी है उम्मीदवार अपनी परीक्षा तिथि और केंद्र की जानकारी आधिकारिक वेबसाइट पर देख सकते हैं",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Uttar Pradesh"
+  },
+  {
+    "title": "UP Politics: Azam Khan ने की Akhilesh Yadav से मुलाकात...सुनिए क्या बोले",
+    "link": "https://www.amarujala.com/video/lucknow/up-politics-azam-khan-met-akhilesh-yadav-listen-to-what-he-said-2025-11-07",
+    "pubDate": "2025-11-06T21:51:07+00:00",
+    "summary": "मेरा शहर Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Next Article Please wait Please wait Delete All Cookies Followed",
+    "category": "Opposition Activity",
+    "source": "Amarujala",
+    "district": "Lucknow"
+  },
+  {
     "title": "JNU: बनारस की रहने वाली हैं जेएनयू में अध्यक्ष बनीं अदिति, बीएचयू से किया था राजनीति विज्ञान से बीए",
     "link": "https://www.amarujala.com/uttar-pradesh/varanasi/jnu-president-aditi-mishra-studied-politics-at-bhu-in-varanasi-2025-11-07",
     "pubDate": "2025-11-06T21:47:58+00:00",
@@ -4327,6 +4597,15 @@
     "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Varanasi"
+  },
+  {
+    "title": "झांसी: 193 इकाइयों से शुरू हुआ उत्पादन, समीक्षा बैठक में कमिश्नर ने लंबित आवेदनों के निस्तारण के दिए निर्देश",
+    "link": "https://www.amarujala.com/uttar-pradesh/jhansi/jhansi-production-started-from-193-units-commissioner-gave-instructions-in-review-2025-11-07",
+    "pubDate": "2025-11-06T21:46:38+00:00",
+    "summary": "मंडलायुक्त बिमल कुमार दुबे ने बृहस्पतिवार को मंडलीय उद्योग बंधु की बैठक में एमओयू की समीक्षा की इकाइयां स्थापित होने में आ रही समस्याओं को जानकर अधिकारियों को निस्तारण के निर्देश दिए",
+    "category": "Uncategorised",
+    "source": "Amarujala",
+    "district": "Jhansi"
   },
   {
     "title": "बदायूं में 25 हजार रुपये का इनामी गौकश पुलिस मुठभेड़ में गिरफ्तार",
@@ -4372,24 +4651,6 @@
     "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Lucknow"
-  },
-  {
-    "title": "UP News Today Live: उत्तर प्रदेश  ब्रेकिंग न्यूज़, पढ़ें 7 नवम्बर के मुख्य और ताजा समाचार",
-    "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2025-11-07",
-    "pubDate": "2025-11-06T21:31:00+00:00",
-    "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Uttar Pradesh"
-  },
-  {
-    "title": "Meerut News Today Live: मेरठ और आसपास की ताजा और अहम खबरें, पढ़ें 7 नवम्बर को आपके शहर में क्या हुआ",
-    "link": "https://www.amarujala.com/live/uttar-pradesh/meerut/meerut-news-today-live-latest-and-breaking-crime-shiksha-politics-meerut-samachar-in-hindi-2025-11-07",
-    "pubDate": "2025-11-06T21:30:52+00:00",
-    "summary": "Meerut Breaking News Today Live - Read latest and breaking news today in hindi at Amarujala यहां पढ़ें, मेरठ की ताजा खबरें, क्राइम, राजनीति, खेल, मनोरंजन, धर्म, और शिक्षा की खबरों का लाइव अपडेशन",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Baghpat"
   },
   {
     "title": "Siddharthnagar News: विजेता खिलाड़ियों को किया गया सम्मानित",
@@ -5067,15 +5328,6 @@
     "district": "Bareilly"
   },
   {
-    "title": "Lucknow News: सिटी में आज",
-    "link": "https://www.amarujala.com/lucknow/in-the-city-today-lucknow-news-c-13-knp1002-1460385-2025-11-07",
-    "pubDate": "2025-11-06T21:18:55+00:00",
-    "summary": "अमर उजाला अपराजिता मुहिम के तहत क्वीन मेरी अस्पताल की डॉ सुजाता देव की ओर से कैंसर जागरूकता कार्यशाला डालीबाग के नैमिषारण्य वीवीआईपी गेस्ट हाउस के पास दोपहर 12:30 बजे",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Lucknow"
-  },
-  {
     "title": "वीरेन डंगवाल को पढ़ते हुए मिलती है सांस्कृतिक समझ : शिविर मौर्य",
     "link": "https://www.amarujala.com/uttar-pradesh/bareilly/cultural-understanding-is-gained-by-reading-virendra-dangwal-shivir-maurya-bareilly-news-c-4-vns1074-761215-2025-11-07",
     "pubDate": "2025-11-06T21:18:47+00:00",
@@ -5110,15 +5362,6 @@
     "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Maharajganj"
-  },
-  {
-    "title": "Lucknow News: सोमवार पांच लाख आबादी को होगी पानी की किल्लत",
-    "link": "https://www.amarujala.com/lucknow/five-lakh-people-will-face-water-shortage-on-monday-lucknow-news-c-13-1-vns1028-1460548-2025-11-07",
-    "pubDate": "2025-11-06T21:17:57+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Lucknow"
   },
   {
     "title": "Bareilly News: स्वरोजगार की राह में शर्तों की अड़चन, बैंक के चक्कर काट रहे युवा",
@@ -5175,15 +5418,6 @@
     "district": "Meerut"
   },
   {
-    "title": "Lucknow News: मरीजों के मोबाइल पर पहुंचेगा ओपीडी बंद रहने का मेसेज",
-    "link": "https://www.amarujala.com/lucknow/a-message-regarding-the-closure-of-opd-will-be-sent-to-the-patients-mobile-phones-lucknow-news-c-13-1-vns1028-1460547-2025-11-07",
-    "pubDate": "2025-11-06T21:17:06+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Lucknow"
-  },
-  {
     "title": "Maharajganj News: महिला और उसकी बेटी को मारने-पीटने का आरोप",
     "link": "https://www.amarujala.com/uttar-pradesh/maharajganj/accused-of-beating-a-woman-and-her-daughter-maharajganj-news-c-206-1-mhg1007-163421-2025-11-07",
     "pubDate": "2025-11-06T21:16:59+00:00",
@@ -5191,15 +5425,6 @@
     "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Maharajganj"
-  },
-  {
-    "title": "Lucknow News: वरिष्ठ पत्रकार मनोज तिवारी का निधन",
-    "link": "https://www.amarujala.com/lucknow/senior-journalist-manoj-tiwari-passes-away-lucknow-news-c-13-knp1002-1460454-2025-11-07",
-    "pubDate": "2025-11-06T21:16:52+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Lucknow"
   },
   {
     "title": "Meerut News: डेंगू के पांच और लेप्टोस्पाइरोसिस के दो मरीज मिले",
@@ -5220,15 +5445,6 @@
     "district": "Maharajganj"
   },
   {
-    "title": "Lucknow News: जालसाजों का मददगार...बैंक का डिप्टी मैनेजर गिरफ्तार",
-    "link": "https://www.amarujala.com/lucknow/helper-of-fraudstersbank-deputy-manager-arrested-lucknow-news-c-13-knp1002-1459536-2025-11-07",
-    "pubDate": "2025-11-06T21:16:22+00:00",
-    "summary": "मेरा शहर Link Copied पुलिस की गिरफ्त में आरोपी पुलिस की गिरफ्त में आरोपी रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Lucknow"
-  },
-  {
     "title": "सीसीएसयू : 12 शोध छात्रों को मिली पीएचडी उपाधि",
     "link": "https://www.amarujala.com/uttar-pradesh/meerut/ccsu-12-research-students-received-phd-degrees-meerut-news-c-72-1-mct1014-143418-2025-11-06",
     "pubDate": "2025-11-06T21:16:06+00:00",
@@ -5245,15 +5461,6 @@
     "category": "Uncategorised",
     "source": "Amarujala",
     "district": "Meerut"
-  },
-  {
-    "title": "Lucknow News: नगर निगम का संपूर्ण समाधान दिवस आज",
-    "link": "https://www.amarujala.com/lucknow/today-is-the-complete-solution-day-of-the-municipal-corporation-lucknow-news-c-13-1-vns1028-1460546-2025-11-07",
-    "pubDate": "2025-11-06T21:15:53+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Lucknow"
   },
   {
     "title": "Maharajganj News: आठ सूत्री मांग को लेकर आशा कार्यकर्ताओं ने दिया धरना, जताया आक्रोश",
@@ -5479,15 +5686,6 @@
     "category": "Uncategorised",
     "source": "Amarujala",
     "district": "Meerut"
-  },
-  {
-    "title": "UP: 'अंग्रेजी में गालियां देती है बहू...पीटती भी है', यूट्यूबर की विदेशी पत्नी पर सास के बड़े आरोप; पूरी कहानी",
-    "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/up-news-iranian-wife-of-youtuber-accused-by-mother-in-law-of-abuse-and-blackmail-full-story-2025-11-07",
-    "pubDate": "2025-11-06T21:08:23+00:00",
-    "summary": "मुरादाबाद शहर के यूट्यूबर पंकज कुमार दिवाकर से प्रेम विवाह करने वाली ईरानी युवती फैजा सास और ननद के उत्पीड़न से तंग आकर अपने देश लौटेगी फैजा ने बृहस्पतिवार को पहले महिला थाने फिर एसपी सिटी कार्यालय में अपना दर्द बयां किया",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Moradabad"
   },
   {
     "title": "Agra News: पश्चिमपुरी मार्ग से अतिक्रमण हटाने पर दुकानदारों का हंगामा",
@@ -6264,38 +6462,11 @@
     "district": "Kanpur"
   },
   {
-    "title": "Kanpur News: सपाइयों का आरोप, नए मतदाताओं को नहीं दिए जा रहे फार्म-6",
-    "link": "https://www.amarujala.com/uttar-pradesh/kanpur/sp-alleges-form-6-is-not-being-given-to-new-voters-kanpur-news-c-12-1-knp1001-1319904-2025-11-07",
-    "pubDate": "2025-11-06T20:50:20+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Kanpur"
-  },
-  {
     "title": "Mahoba: संत रविदास की मूर्ति खंडित करने से तनाव, कार्रवाई की को लेकर धरना…कई थानों की फोर्स तैनात",
     "link": "https://www.amarujala.com/uttar-pradesh/kanpur/mahoba-tension-due-to-desecration-of-saint-ravidas-statue-protest-demanding-action-2025-11-07",
     "pubDate": "2025-11-06T20:49:47+00:00",
     "summary": "महोबा जिले में कबरई ब्लॉक के सिजहरी गांव में संत रविदास की मूर्ति खंडित करने और साइन बोर्ड उखाड़कर फेंक दिए जाने से लोग भड़क गए तनाव को देखते हुए गांव में कई थानों की फोर्स तैनात की गई है",
     "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Kanpur"
-  },
-  {
-    "title": "Kanpur News: जयपुरिया पुल पर लगेंगे रिफ्लेक्टिव टेप, संकेतक, बोर्ड",
-    "link": "https://www.amarujala.com/uttar-pradesh/kanpur/reflective-tape-indicators-and-boards-will-be-installed-on-jaipuria-bridge-kanpur-news-c-12-1-knp1063-1320582-2025-11-07",
-    "pubDate": "2025-11-06T20:49:44+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Kanpur"
-  },
-  {
-    "title": "Kanpur News: दो दिन में 25 हजार घरों तक पहुंचा गणना पत्रक",
-    "link": "https://www.amarujala.com/uttar-pradesh/kanpur/calculation-sheet-reached-25-thousand-houses-in-two-days-kanpur-news-c-12-1-knp1052-1320249-2025-11-07",
-    "pubDate": "2025-11-06T20:49:29+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Kanpur"
   },
@@ -9288,15 +9459,6 @@
     "district": "Rss V1  Category 2052"
   },
   {
-    "title": "एससीएसटी एक्ट का दुरुपयोग, बयान से पलटी पीड़िता:हाईकोर्ट ने सरकारी मुआवजा साढ़े चार लाख वापस करने का दिया निर्देश",
-    "link": "https://www.bhaskar.com/local/uttar-pradesh/prayagraj/news/scst-act-misused-victim-retracts-statement-136353166.html",
-    "pubDate": "2025-11-06T18:44:57+00:00",
-    "summary": "इलाहाबाद हाई कोर्ट ने एससी/एसटी एक्ट का पीड़िता द्वारा दुरुपयोग कर सरकारी मुआवजा लेने पर सख्त रुख अपनाया है कोर्ट ने पीड़िता राम कली और उनकी दो बहुओं कविता और सविता को सरकार से झूठे केस कर लिया गया 4 5 लाख रुपए सरकारी मुआवजा तत्काल वापस लौटाने का आदेश दिया है",
-    "category": "Governance issues",
-    "source": "Bhaskar",
-    "district": "Rss V1  Category 2052"
-  },
-  {
     "title": "वर्दी में रहते हुए विवादास्पद वीडियो, फोटो या बयान साझा करने से बचें…SP ने रिक्रूट्स को दी सोशल मीडिया पॉलिसी की विस्तृत जानकारी",
     "link": "https://www.patrika.com/deoria-news/avoid-sharing-controversial-videos-photos-or-statements-while-in-uniform-sp-gives-detailed-information-about-social-media-policy-to-recruits-20082051",
     "pubDate": "2025-11-06T18:35:39+00:00",
@@ -9745,15 +9907,6 @@
     "category": "Opposition Activity",
     "source": "Bhaskar",
     "district": "Rss V1  Category 2052"
-  },
-  {
-    "title": "कई महिलाओं से पति का अवैध संबंध, विरोध पर पत्नी को दीं यातनाएं; करंट लगाकर पीटा और..",
-    "link": "https://www.livehindustan.com/uttar-pradesh/husband-had-illicit-relations-with-multiple-women-tortured-his-wife-when-she-protested-and-beat-her-with-electric-shock-201762432675262.html",
-    "pubDate": "2025-11-06T12:52:05+00:00",
-    "summary": "यूपी के लखनऊ में एक पति का कई महिलाओं से अवैध संबंध था इसका विरोध करने पर पति ने पत्नी को यातनाएं दीं करंट लगाकर उसके साथ मारपीट की",
-    "category": "Uncategorised",
-    "source": "Livehindustan",
-    "district": "Rssfeed"
   },
   {
     "title": "कानपुर में हिस्ट्रीशीटर के खिलाफ लिखना युवक को पड़ा भारी, कपड़े उतारे, जमीन पर गिराया, पैर रख की पिटाई",
@@ -13491,15 +13644,6 @@
     "district": "Rssfeed"
   },
   {
-    "title": "Meerut News: पत्नी पर प्रेमी संग मिलकर पति के अपहरण का आरोप, मामला दर्ज",
-    "link": "https://www.amarujala.com/uttar-pradesh/meerut/wife-accused-of-kidnapping-husband-with-the-help-of-lover-case-registered-meerut-news-c-14-1-mrt1051-1021674-2025-11-06",
-    "pubDate": "2025-11-06T05:55:04+00:00",
-    "summary": "गांव रोहटा में 12 दिन पहले मजदूरी के लिए घर से निकला युवक अनिल (45) संदिग्ध परिस्थितियों में गायब हो गया था पहले उनके भाई राजू ने उसकी गुमशुदगी दर्ज कराई थी लेकिन अब मामले में नया मोड़ आ गया है",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Meerut"
-  },
-  {
     "title": "राहुल गांधी दो बार लगा चुके हैं वोट चोरी का आरोप : नंदी",
     "link": "https://www.amarujala.com/uttar-pradesh/sultanpur/rahul-gandhi-has-accused-him-of-vote-theft-twice-nandi-sultanpur-news-c-103-1-slko1044-143960-2025-11-06",
     "pubDate": "2025-11-06T05:54:56+00:00",
@@ -15210,15 +15354,6 @@
     "district": "Varanasi"
   },
   {
-    "title": "Bareilly News: चकबंदी विभाग का पेशकार 15 हजार रुपये की रिश्वत लेते गिरफ्तार, एंटी करप्शन टीम ने की कार्रवाई",
-    "link": "https://www.amarujala.com/uttar-pradesh/bareilly/personnel-of-the-consolidation-office-arrested-for-taking-a-bribe-in-bareilly-2025-11-06",
-    "pubDate": "2025-11-06T01:09:23+00:00",
-    "summary": "मेरा शहर Link Copied बरेली में फरीदपुर चकबंदी कार्यालय का पेशकार रजत चौधरी 15 हजार रुपये घूस लेते हुए रंगे हाथ गिरफ्तार कर लिया गया पेशकार के खिलाफ कोतवाली में भ्रष्टाचार निवारण अधिनियम के तहत रिपोर्ट दर्ज कराई गई है रजत चौधरी मूल रूप से मुरादाबाद जिले के ठाकुरद्वारा थाना क्षेत्र के गांव रूपपुर टंडौला का निवासी है",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Bareilly"
-  },
-  {
     "title": "Budaun News: बिसौली में पुलिस ने होटल किया सील, संदिग्ध गतिविधियां होने की शिकायत पर कार्रवाई",
     "link": "https://www.amarujala.com/video/uttar-pradesh/budaun/video-police-seal-hotel-in-bisauli-following-complaints-of-suspicious-activities-2025-11-06",
     "pubDate": "2025-11-06T01:08:07+00:00",
@@ -16009,15 +16144,6 @@
     "category": "Uncategorised",
     "source": "Amarujala",
     "district": "Moradabad"
-  },
-  {
-    "title": "दालमंडी चौड़ीकरण योजना का चंदौली के सपा सांसद ने किया विरोध, VIDEO",
-    "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-police-stopped-mp-virendra-singh-and-former-minister-surendra-patel-for-protest-against-dal-mandi-widening-project-2025-11-06",
-    "pubDate": "2025-11-05T21:39:45+00:00",
-    "summary": "मेरा शहर Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Next Article Please wait Please wait Delete All Cookies Followed",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Varanasi"
   },
   {
     "title": "Gorakhpur News: CM पर हमें पूरा भरोसा...हटाएंगे तो बसाएंगे भी, आश्वासन के बाद बदला व्यापारियों का मिजाज",
@@ -16918,15 +17044,6 @@
     "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Mirzapur"
-  },
-  {
-    "title": "Basti News: झूठा आरोप लगाकर मारपीट, तीन पर केस",
-    "link": "https://www.amarujala.com/uttar-pradesh/basti/three-people-were-assaulted-on-false-charges-and-a-case-was-filed-against-them-basti-news-c-207-1-sgkp1006-147079-2025-11-06",
-    "pubDate": "2025-11-05T19:57:52+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Basti"
   },
   {
     "title": "Raebareli News: आस्था का सैलाब, 10 लाख श्रद्धालुओं ने लगाई डुबकी",
@@ -18654,7 +18771,7 @@
     "summary": "संगम की रेती पर गंगा किनारे मंगलवार को आयोजित गंगा सेवा संकल्प अभियान के मंच से साध्वी उमा भारती ने नई सियासी पारी शुरू करने के संकेत दिए गंगा के बहाने पीएम मोदी और महाकुंभ आयोजन के लिए सीएम योगी की शान में कसीदे पढ़े",
     "category": "NDA Activity",
     "source": "Amarujala",
-    "district": "Jhansi"
+    "district": "Allahabad"
   },
   {
     "title": "Saharanpur News: एसआईआर शुरू, 26.41 लाख वोटरों तक पहुंचेंगे 2718 बीएलओ",
@@ -18700,24 +18817,6 @@
     "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Sitapur"
-  },
-  {
-    "title": "Saharanpur News: सड़क हादसों में तीन लोगों की मौत",
-    "link": "https://www.amarujala.com/uttar-pradesh/saharanpur/three-people-died-in-road-accidents-saharanpur-news-c-30-1-smrt1014-162286-2025-11-05",
-    "pubDate": "2025-11-05T07:26:20+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Saharanpur"
-  },
-  {
-    "title": "Baghpat: छह माह में लव मैरिज में से 'लव' खत्म, पत्नी पर ये काम करने का दबाव डाल रहा पति, रोते हुए बताई दास्तान",
-    "link": "https://www.amarujala.com/uttar-pradesh/baghpat/baghpat-love-vanished-in-love-marriage-within-six-months-husband-said-this-2025-11-05",
-    "pubDate": "2025-11-05T07:23:45+00:00",
-    "summary": "बड़ौत कोतवाली की एक महिला ने अप्रैल माह में एक युवक से शादी की थी अब युवक तलाक की धमकी दे रहा है पुलिस ने पति समेत तीन के खिलाफ रिपोर्ट दर्ज की है",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Baghpat"
   },
   {
     "title": "VIDEO: रेलवे ट्रैक पर अचानक आई ट्रेन, बाइक से कूद कर युवक ने बचाई जान, बाइक के परखच्चे उड़े",
@@ -20608,15 +20707,6 @@
     "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Chitrakoot"
-  },
-  {
-    "title": "Jhansi: क्रिकेट खेलते समय आई मौत, अचानक जमीन पर गिरे 25 वर्षीय एलआईसी कर्मी ने ताेड़ा दम, हार्ट अटैक की आशंका",
-    "link": "https://www.amarujala.com/uttar-pradesh/jhansi/jhansi-lic-employee-dies-while-playing-cricket-suspected-to-be-from-a-heart-attack-2025-11-05",
-    "pubDate": "2025-11-05T06:01:05+00:00",
-    "summary": "क्रिकेट खेलने के दौरान युवक अचानक जमीन पर गिर गया और उसकी मौत हो गई हादसे के बाद से परिवार के लोगों का रो-रो कर बुरा हाल है पोस्ट मॉर्टम के लिए शव को भेज दिया गया है",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Jhansi"
   },
   {
     "title": "Banda News: कालिंजर किले के ऊपर से गिरी 35 किलो की चट्टान, सात घायल, एक गंभीर",
@@ -22626,15 +22716,6 @@
     "district": "Allahabad"
   },
   {
-    "title": "शांतिनिकेतन वर्ल्ड स्कूल के बच्चों ने जाना कैसे छपता है अखबार, अलीगढ़ अमर उजाला यूनिट पर की प्रेस विजिट",
-    "link": "https://www.amarujala.com/video/uttar-pradesh/aligarh/video-shatanakatana-varalda-sakal-ka-bcaca-na-jana-kasa-chhapata-ha-akhabra-algaugdhha-amara-ujal-yanata-para-ka-parasa-vajata-2025-11-05",
-    "pubDate": "2025-11-05T01:49:53+00:00",
-    "summary": "मेरा शहर Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Next Article Please wait Please wait Delete All Cookies Followed",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Aligarh"
-  },
-  {
     "title": "कार्तिक पूर्णिमा पर कोसी नदी के तट पर बिखरी अनोखी छटा, घाटों पर दीपदान",
     "link": "https://www.amarujala.com/video/uttar-pradesh/rampur/video-kartik-purnima-the-banks-of-the-kosi-river-were-illuminated-with-unique-splendor-2025-11-05",
     "pubDate": "2025-11-05T01:49:18+00:00",
@@ -23391,15 +23472,6 @@
     "district": "Firozabad"
   },
   {
-    "title": "Prayagraj News: एसडीएम को ज्ञापन सौंप मंडियों के निजीकरण पर रोक लगाने की मांग",
-    "link": "https://www.amarujala.com/uttar-pradesh/allahabad/memorandum-submitted-to-sdm-demanding-ban-on-privatization-of-markets-allahabad-news-c-3-1-ald1030-751114-2025-11-05",
-    "pubDate": "2025-11-04T20:45:38+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Allahabad"
-  },
-  {
     "title": "Firozabad News: दूल्हा-दुल्हन की लगेगी बायोमेट्रिक हाजिरी",
     "link": "https://www.amarujala.com/uttar-pradesh/firozabad/biometric-attendance-of-bride-and-groom-firozabad-news-c-169-1-sagr1022-160010-2025-11-05",
     "pubDate": "2025-11-04T20:45:31+00:00",
@@ -23607,15 +23679,6 @@
     "district": "Allahabad"
   },
   {
-    "title": "Gorakhpur News: प्रेमी युगल मेडिकल कालेज से डिस्चार्ज, घर लौटे",
-    "link": "https://www.amarujala.com/gorakhpur/gorakhpur-news-lover-couple-discharged-from-medical-college-returned-home-gorakhpur-news-c-7-gkp1038-1124369-2025-11-05",
-    "pubDate": "2025-11-04T20:32:25+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Gorakhpur"
-  },
-  {
     "title": "Gonda News: आरपीएफ की अभिरक्षा में युवक की मौत, परिवार का आरोप..RPF की सफाई",
     "link": "https://www.amarujala.com/video/uttar-pradesh/gonda/gonda-news-youth-dies-in-rpf-custody-family-alleges-rpf-clarifies-2025-11-05",
     "pubDate": "2025-11-04T20:32:25+00:00",
@@ -23650,15 +23713,6 @@
     "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Muzaffarnagar"
-  },
-  {
-    "title": "Video: ट्रेन के अंदर वेंडर ने यात्री पर बरसाये ताबड़तोड़ बेल्ट",
-    "link": "https://www.amarujala.com/video-shots/short-videos/video-video-vendor-hits-passenger-with-belt-inside-train-2025-11-05",
-    "pubDate": "2025-11-04T20:22:30+00:00",
-    "summary": "Link Copied Link Copied Link Copied Please wait Please wait Delete All Cookies Followed",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Jhansi"
   },
   {
     "title": "Shravasti News: मेरा जीवन बच गया, पर जीने का सहारा चला गया...",
@@ -25110,15 +25164,6 @@
     "district": "Moradabad"
   },
   {
-    "title": "Hamirpur News: सड़क हादसे में घायल एसआई की हेलमेट से बची जान",
-    "link": "https://www.amarujala.com/uttar-pradesh/hamirpur/helmet-saves-life-of-si-injured-in-road-accident-hamirpur-news-c-223-1-hmp1002-132090-2025-11-04",
-    "pubDate": "2025-11-04T06:44:17+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Hamirpur"
-  },
-  {
     "title": "Mahoba News: खतौनी में अंशों की गलत फीडिंग सही न करने से अधिवक्ता नाराज",
     "link": "https://www.amarujala.com/uttar-pradesh/mahoba/the-lawyer-is-angry-over-the-incorrect-feeding-of-shares-in-the-khatauni-and-not-correcting-it-mahoba-news-c-225-1-sknp1045-119449-2025-11-04",
     "pubDate": "2025-11-04T06:42:48+00:00",
@@ -25153,15 +25198,6 @@
     "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Mahoba"
-  },
-  {
-    "title": "Hamirpur News: हाईवे पर लगा भीषण जाम, तीन घंटे रेंगते रहे वाहन",
-    "link": "https://www.amarujala.com/uttar-pradesh/hamirpur/there-was-a-huge-traffic-jam-on-the-highway-vehicles-kept-crawling-for-three-hours-hamirpur-news-c-223-1-hmp1028-132103-2025-11-04",
-    "pubDate": "2025-11-04T06:35:49+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Hamirpur"
   },
   {
     "title": "Banda News: सिटी में आज",
@@ -25659,15 +25695,6 @@
     "district": "Mahoba"
   },
   {
-    "title": "Meerut News Today Live: मेरठ और आसपास की ताजा और अहम खबरें, पढ़ें 4 नवम्बर को आपके शहर में क्या हुआ",
-    "link": "https://www.amarujala.com/live/uttar-pradesh/meerut/meerut-news-today-live-latest-and-breaking-crime-shiksha-politics-meerut-samachar-in-hindi-2025-11-04",
-    "pubDate": "2025-11-04T06:00:20+00:00",
-    "summary": "Meerut Breaking News Today Live - Read latest and breaking news today in hindi at Amarujala यहां पढ़ें, मेरठ की ताजा खबरें, क्राइम, राजनीति, खेल, मनोरंजन, धर्म, और शिक्षा की खबरों का लाइव अपडेशन",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Shamli"
-  },
-  {
     "title": "Banda: मारपीट के दोषी इंटर्नशिप कर रहे चार डॉक्टर 15 दिन के लिए निष्कासित, दोनों तरफ से रिपोर्ट दर्ज",
     "link": "https://www.amarujala.com/uttar-pradesh/kanpur/banda-four-internship-doctors-convicted-of-assault-expelled-for-15-days-reports-filed-from-both-sides-2025-11-04",
     "pubDate": "2025-11-04T05:59:45+00:00",
@@ -26154,24 +26181,6 @@
     "district": "Bulandshahr"
   },
   {
-    "title": "Bulandshahar News: पूर्व ग्राम प्रधान का पेड़ पर फंदे से लटका मिला शव, चार घंटे हंगामा",
-    "link": "https://www.amarujala.com/uttar-pradesh/bulandshahr/former-village-heads-body-found-hanging-from-a-tree-four-hours-of-uproar-bulandshahr-news-c-133-1-bul1001-143075-2025-11-04",
-    "pubDate": "2025-11-04T04:52:52+00:00",
-    "summary": "मेरा शहर Link Copied अहमदगढ़ से मृतक मुकेश कुमार पूर्व प्रधान फाइल फोटो रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Bulandshahr"
-  },
-  {
-    "title": "Bulandshahar News: सरावा में आज चार घंटे विद्युत आपूर्ति रहेगी बाधित",
-    "link": "https://www.amarujala.com/uttar-pradesh/bulandshahr/electricity-supply-will-be-disrupted-for-four-hours-in-sarawa-today-bulandshahr-news-c-133-1-bul1004-143093-2025-11-04",
-    "pubDate": "2025-11-04T04:50:02+00:00",
-    "summary": "मेरा शहर Link Copied रहें हर खबर से अपडेट, डाउनलोड करें Android Hindi News App , iOS Hindi News App और Amarujala Hindi News APP अपने मोबाइल पे| Get all India News in Hindi related to live update of politics, sports, entertainment, technology and education etc Stay updated with us for all breaking news from India News and more news in Hindi Next Article Please wait",
-    "category": "Opposition Activity",
-    "source": "Amarujala",
-    "district": "Bulandshahr"
-  },
-  {
     "title": "Hathras News: बेकरी में शॉर्ट सर्किट से लगी आग, मची अफरा-तफरी, घर से बाहर निकल आए लोग",
     "link": "https://www.amarujala.com/uttar-pradesh/hathras/fire-broke-out-in-bakery-due-to-short-circuit-2025-11-04",
     "pubDate": "2025-11-04T04:38:06+00:00",
@@ -26278,15 +26287,6 @@
     "category": "NDA Activity",
     "source": "Livehindustan",
     "district": "Rssfeed"
-  },
-  {
-    "title": "गाजियाबाद: ओम सन पब्लिक स्कूल में कबड्डी लीग का रोमांच, कक्षा 12वीं की टीम ने दर्ज की जीत",
-    "link": "https://www.amarujala.com/delhi-ncr/ghaziabad/inauguration-of-kabaddi-league-match-in-sun-public-school-at-ghaziabad-2025-11-04",
-    "pubDate": "2025-11-04T01:07:06+00:00",
-    "summary": "मेरा शहर Link Copied गाजियाबाद में ओम सन पब्लिक स्कूल की स्पोर्ट्स अकादमी क्रीडास्थल पर अंतर्हाउस कबड्डी लीग मैच का शुभारंभ हुआ कक्षा 12 के रेडर रितेश मान, अर्पण और आर्यन डागर ने शानदार प्रदर्शन करते हुए मैच के दूसरे हाफ में 14-21 के अंतर से जीत दर्ज की Trending Videos यह वीडियो/विज्ञापन हटाएं इस आयोजन पर स्कूल निदेशक अनुराग गुप्ता और प्रधानाचार्या डॉ",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Ghaziabad"
   },
   {
     "title": "Video : रायबरेली में सियार के हमले में बुजुर्ग समेत तीन घायल, ग्रामीणों में दहशत",
@@ -27619,15 +27619,6 @@
     "category": "Opposition Activity",
     "source": "Amarujala",
     "district": "Rampur"
-  },
-  {
-    "title": "बिहार प्रचार से पहले जनता दर्शन; एक-एक फरियादी से मिले सीएम योगी, अफसरों को यह निर्देश",
-    "link": "https://www.livehindustan.com/uttar-pradesh/before-the-bihar-campaign-cm-yogi-met-with-each-complainant-and-directed-officers-to-attend-public-meetings-201762148966581.html",
-    "pubDate": "2025-11-03T06:02:55+00:00",
-    "summary": "मुख्यमंत्री योगी आदित्यनाथ ने बिहार में विधानसभा चुनाव प्रचार पर जाने से पहले सोमवार को लखनऊ में जनता दर्शन का आयोजन किया और एक-एक 60 फरियादियों सो मुलाकात की उनकी समस्याओं को सुना और अफसरों को समस्याओं का समयबद्ध निस्तारण और फीडबैक लेने का निर्देश दिया",
-    "category": "NDA Activity",
-    "source": "Livehindustan",
-    "district": "Rssfeed"
   },
   {
     "title": "Auraiya News: निगेटिव ग्रुप का ब्लड मिलना मुश्किल, जिले में सिर्फ 10 इच्छुक डोनर",
@@ -31995,6 +31986,15 @@
     "district": "Varanasi"
   },
   {
+    "title": "Chhath Puja: छठ पूजा को लेकर पुलिस और नगर पालिका सक्रिय",
+    "link": "https://www.patrika.com/mau-news/chhath-20053115",
+    "pubDate": "2025-10-28T05:33:54+00:00",
+    "summary": "Mau News: मऊ में महापर्व छठ पूजा को लेकर नगर पालिका परिषद अलर्ट मोड पर है नपा के चेयरमैन और अधिकारी लगातार क्षेत्र में भ्रमण कर तैयारियों का जायजा ले रहे हैं नगर पालिका क्षेत्र अंतर्गत 90 स्थानों पर छठ पूजा का आयोजन किया जाता है, इसको लेकर सभी तैयारियां अपने अंतिम चरण में चल रही है",
+    "category": "Uncategorised",
+    "source": "Patrika",
+    "district": "Mau"
+  },
+  {
     "title": "पावर स्टार पवन सिंह पर ज्योति सिंह का बड़ा खुलासा, हलफनामे में नाम न लिखने की बताई वजह",
     "link": "https://www.patrika.com/ballia-news/jyoti-singh-not-mention-pawan-singh-name-in-her-election-affidavit-giving-reason-20054739",
     "pubDate": "2025-10-28T04:42:24+00:00",
@@ -32821,6 +32821,15 @@
     "category": "Opposition Activity",
     "source": "Patrika",
     "district": "Meerut"
+  },
+  {
+    "title": "थाना प्रभारी पर गिरी गाज, एसपी बोले-शातिर अपराधियों को करें चिन्हित, करें एनएसए, गैंगस्टर की कार्रवाई",
+    "link": "https://www.patrika.com/unnao-news/sho-punished-sp-said-identify-notorious-criminals-take-action-20051500",
+    "pubDate": "2025-10-26T11:52:31+00:00",
+    "summary": "SP punished SHO उन्नाव के पुलिस लाइन सभागार में आयोजित मासिक अपराध गोष्टी में सभी थानाध्यक्षों की क्लास ली गई इस मौके पर पुलिस अधीक्षक ने कहा कि शातिर अभ्यस्त अपराधियों को चिन्हित कर उनके खिलाफ कड़ी कार्रवाई करें हिस्ट्रीशीट खोलने, गुंडा एक्ट, जिला बदर की कार्रवाई करें",
+    "category": "Opposition Activity",
+    "source": "Patrika",
+    "district": "Unnao"
   },
   {
     "title": "तुमसे मिलना चाहती हूं...रात को प्रेमिका के घर पहुंचे प्रेमी की पीट-पीटकर हत्या, पेड़ से लटकी मिली लाश",
@@ -35800,6 +35809,15 @@
     "category": "Uncategorised",
     "source": "Patrika",
     "district": "Meerut"
+  },
+  {
+    "title": "अयोध्या दीपोत्सव 2025: सीएम योगी ने खींचा रथ, उतारी आरती, जय श्रीराम से गूंजा रामकथा पार्क",
+    "link": "https://www.patrika.com/ayodhya-news/ayodhya-deepotsav-2025-cm-yogi-pulls-chariot-performs-aarti-ramkatha-park-resonates-with-jai-shri-ram-20037527",
+    "pubDate": "2025-10-19T13:39:46+00:00",
+    "summary": "अयोध्या : अयोध्या में दीपोत्सव के भव्य आयोजन के बीच मुख्यमंत्री योगी आदित्यनाथ ने श्रीराम के राज्याभिषेक समारोह में रथ खींचा, आरती उतारी और भगवान श्रीराम, लक्ष्मण, भरत, शत्रुघ्न व गुरु वशिष्ठ का तिलक किया",
+    "category": "NDA Activity",
+    "source": "Patrika",
+    "district": "Ayodhya"
   },
   {
     "title": "जहां पहले गोलियां चलती थीं, अब दीये जलाए जा रहे, अयोध्या से विपक्ष पर बरसे CM योगी",
@@ -39281,15 +39299,6 @@
     "pubDate": "2025-10-10T16:18:50+00:00",
     "summary": "मुरादाबाद में महिला से रेप के बाद धर्मांतरण कराने का मामला सामने आया है फेसबुक पर अजहर ने लक्की नाम से आईडी बनाकर मझोला क्षेत्र निवासी भजन गायक की पत्नी से दोस्ती कर ली इसके बाद आरोपी ने महिला को नशीला पदार्थ खिलाकर रेप किया और मोबाइल से अश्लील फोटो भी खींच लिए",
     "category": "Uncategorised",
-    "source": "Livehindustan",
-    "district": "Rssfeed"
-  },
-  {
-    "title": "स्वदेशी की बात करें और घड़ी विदेशी पहने; योगी ने मजाकिया अंदाज़ में ली रवि किशन की चुटकी",
-    "link": "https://www.livehindustan.com/uttar-pradesh/yogi-said-ravi-kishan-talks-about-swadeshi-and-wears-a-foreign-watch-201760111956983.html",
-    "pubDate": "2025-10-10T16:04:48+00:00",
-    "summary": "गोरखपुर में स्वदेशी मेले के शुभारंभ के दौरान मुख्यमंत्री योगी आदित्यनाथ का हल्का-फुल्का अंदाज़ देखने को मिला लोगों से स्वदेशी वस्तुएं अपनाने की अपील करते हुए सीएम ने मजाकिया लहजे में कहा कि ऐसा नहीं होना चाहिए कि रवि किशन स्वदेशी की बात करें और घड़ी विदेशी पहनें",
-    "category": "NDA Activity",
     "source": "Livehindustan",
     "district": "Rssfeed"
   },
@@ -43470,15 +43479,6 @@
     "district": "Rssfeed"
   },
   {
-    "title": "इटावा में ओवरलोड ऑटो खड़े डंपर से टकराया, सास-बहू की मौत और छह घायल",
-    "link": "https://www.amarujala.com/video/uttar-pradesh/etawah/video-itava-ma-ovaralda-oita-khaugdha-dapara-sa-takaraya-sasa-bha-ka-mata-oura-chhaha-ghayal-2025-09-25",
-    "pubDate": "2025-09-24T23:28:18+00:00",
-    "summary": "मेरा शहर Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Link Copied Next Article Please wait Please wait Delete All Cookies Followed",
-    "category": "Uncategorised",
-    "source": "Amarujala",
-    "district": "Etawah"
-  },
-  {
     "title": "GST में छूट एमएसपी की तरह झुनझुना, कोई बताए जनता को मिला क्या? टिकैत ने सरकार पर साधा निशाना",
     "link": "https://www.livehindustan.com/uttar-pradesh/rakesh-tikait-targets-the-government-and-said-gst-exemption-is-like-msp-201758734297216.html",
     "pubDate": "2025-09-24T17:31:24+00:00",
@@ -43990,6 +43990,15 @@
     "category": "Uncategorised",
     "source": "Patrika",
     "district": "Sant Kabir Nagar"
+  },
+  {
+    "title": "ADG के निर्देश पर जारी है पशु तस्करों से संबंध रखने वाले पुलिसकर्मियों पर कारवाई, 33 पुलिसकर्मी लाइन हाजिर…भेजा गया बाहर",
+    "link": "https://www.patrika.com/kushinagar-news/following-the-adgs-instructions-action-is-underway-against-police-officers-suspected-of-having-links-with-animal-smugglers-33-policemen-have-been-placed-on-the-line-and-sent-19967661",
+    "pubDate": "2025-09-23T04:43:14+00:00",
+    "summary": "कुशीनगर में पशु तस्करों से सम्बन्ध रखने वाले पुलिस कर्मियों पर कारवाई लगातार जारी है, मालूम हो कि सोमवार 15 सितंबर गौ तस्करों द्वारा छात्र की हत्या के बाद उग्र भीड़ ने जमकर तांडव मचाया मामला सीएम के संज्ञान में आया इसके बाद अधिकारियों ने ताबड़तोड़ करवाई शुरू की इसी क्रम में ADG जोन मुथा अशोक जैन ने कुशीनगर जिले के हाइवे पर लगी चौकियों और थानों का निरीक्षण किए",
+    "category": "Opposition Activity",
+    "source": "Patrika",
+    "district": "Kushinagar"
   },
   {
     "title": "100 की स्पीड में टक्कर के बाद कार और कैंटर में तेज धमाका, 4 लोग जिंदा जले, शव बने कंकाल",
@@ -51278,15 +51287,6 @@
     "pubDate": "2025-08-11T09:46:16+00:00",
     "summary": "श्रावस्ती में बाइक सवार एक ही परिवार के छह लोगों को ट्रैक्टर ने कुचल दिया जिससे चार की घटनास्थल पर मौत हो गई एक को अस्पताल मृत घोषित कर दिया गया",
     "category": "Opposition Activity",
-    "source": "Livehindustan",
-    "district": "Rssfeed"
-  },
-  {
-    "title": "बदायूं में पुजारी को बंधक बनाकर खाटू श्याम मंदिर में चोरी, भगवान भी ले गये चोर",
-    "link": "https://www.livehindustan.com/uttar-pradesh/up-badaun-khatu-shyam-temple-priest-hostage-by-10-gang-members-stolen-jewelry-cash-idols-201754891513879.html",
-    "pubDate": "2025-08-11T06:15:14+00:00",
-    "summary": "यूपी के बदायूं में पुजारी को बंधक बनाकर चोरी की गई चोर भगवान की मूर्ति भी उठा ले गए चोरी दातागंज कोतवाली के पापड़ गांव के बाहर बने खाटू श्याम मंदिर में हुई",
-    "category": "Uncategorised",
     "source": "Livehindustan",
     "district": "Rssfeed"
   },
