@@ -1,16 +1,151 @@
-body { font-family: sans-serif; background: #f4f4f9; color: #333; margin: 0; padding: 20px; }
-.container { max-width: 1200px; margin: 0 auto; }
-.news-card { background: white; padding: 15px; margin-bottom: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-.news-card h3 { margin-top: 5px; }
-.news-card a { text-decoration: none; color: #0056b3; }
-.meta-info { font-size: 0.9em; color: #666; margin-bottom: 10px; }
-.source-tag, .district-tag { background: #eee; padding: 2px 8px; border-radius: 4px; font-size: 0.8em; margin-right: 5px; }
-.badge { padding: 3px 8px; border-radius: 4px; color: white; font-size: 0.8em; }
-.badge-opposition-activity { background: #d9534f; }
-.badge-nda-activity { background: #f0ad4e; }
-.badge-governance-issues { background: #5bc0de; }
-.badge-judicial-cases { background: #0275d8; }
-.loading, .error, .no-results { text-align: center; padding: 20px; font-size: 1.2em; color: #666; }
-.pagination { display: flex; gap: 5px; justify-content: center; margin-top: 20px; }
-.pagination button { padding: 5px 10px; cursor: pointer; }
-.pagination button.active { background: #0056b3; color: white; border: none; }
+:root {
+    --primary: #2c3e50;
+    --accent: #3498db;
+    --bg: #f8f9fa;
+    --card-bg: #ffffff;
+    --text: #333333;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: var(--bg);
+    color: var(--text);
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+.navbar {
+    background: white;
+    padding: 1rem 2rem;
+    border-bottom: 1px solid #e0e0e0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo { font-weight: 700; font-size: 1.2rem; color: var(--primary); }
+.logo span { color: var(--accent); }
+#last-updated { font-size: 0.8rem; color: #7f8c8d; }
+
+/* Hero Section */
+.hero {
+    text-align: center;
+    padding: 3rem 1rem;
+    background: var(--primary);
+    color: white;
+}
+
+.hero h1 { margin: 0 0 0.5rem 0; font-size: 2rem; }
+.hero p { opacity: 0.8; font-size: 0.9rem; max-width: 600px; margin: 0 auto 2rem auto; }
+
+/* Mode Switcher Buttons */
+.mode-switcher {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.mode-btn {
+    padding: 10px 24px;
+    border: 2px solid rgba(255,255,255,0.3);
+    background: transparent;
+    color: white;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.mode-btn.active, .mode-btn:hover {
+    background: white;
+    color: var(--primary);
+    border-color: white;
+}
+
+/* Filters */
+.controls {
+    padding: 1rem 2rem;
+    background: white;
+    border-bottom: 1px solid #eee;
+    display: none; /* Hidden by default, shown for UP mode */
+    justify-content: center;
+}
+
+select {
+    padding: 8px 16px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin: 0 5px;
+    font-family: inherit;
+}
+
+/* Grid */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 20px;
+    padding: 2rem;
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+/* News Card */
+.news-card {
+    background: var(--card-bg);
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    padding: 1.5rem;
+    transition: transform 0.2s;
+    border-left: 4px solid transparent;
+}
+
+.news-card:hover { transform: translateY(-3px); }
+
+/* Category Border Colors */
+.cat-judicial { border-left-color: #9b59b6; }
+.cat-governance-dev { border-left-color: #2ecc71; }
+.cat-opposition-political { border-left-color: #e74c3c; }
+.cat-government-nda { border-left-color: #f39c12; }
+
+.meta {
+    font-size: 0.75rem;
+    color: #7f8c8d;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 0.5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+h3 {
+    margin: 0 0 1rem 0;
+    font-size: 1.1rem;
+    line-height: 1.4;
+}
+
+h3 a { color: var(--primary); text-decoration: none; }
+h3 a:hover { text-decoration: underline; }
+
+.summary {
+    font-size: 0.9rem;
+    color: #555;
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.tag {
+    display: inline-block;
+    padding: 4px 8px;
+    background: #f0f0f0;
+    border-radius: 4px;
+    font-size: 0.75rem;
+    color: #555;
+    margin-right: 5px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .grid-container { grid-template-columns: 1fr; padding: 1rem; }
+    .mode-switcher { flex-direction: column; padding: 0 20px; }
+}
