@@ -1,187 +1,182 @@
-/*
- * Client‑side logic for the enhanced Uttar Pradesh news dashboard.
- *
- * This script fetches the pre‑compiled JSON data file produced by
- * fetch_news.py and renders it into a responsive grid of cards.  Users
- * can filter by date range, category or district, change the number of
- * items per page, and view the top 50 stories published today.  The
- * cards display a coloured badge indicating the category and a
- * multi‑sentence summary so readers do not need to leave the page.
- */
-
 document.addEventListener('DOMContentLoaded', () => {
-  let stories = [];
-  let filteredStories = [];
-  let currentPage = 1;
-  let itemsPerPage = 50;
-
-  // Load the JSON data file
-  fetch('data/news.json')
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('Failed to load news data');
-      }
-      return response.json();
-    })
-    .then(data => {
-      stories = data;
-      initialiseFilters();
-      // Apply default filters and render the first page
-      applyFilters();
-    })
-    .catch(err => {
-      const container = document.getElementById('news-container');
-      container.innerHTML = `<p>Error loading news: ${err.message}</p>`;
-    });
-
-  function initialiseFilters() {
+    let stories = [];
+    let filteredStories = [];
+    let currentPage = 1;
+    let itemsPerPage = 50;
+  
+    const container = document.getElementById('news-container');
+    const pagination = document.getElementById('pagination');
+    
+    // UI Elements
+    const districtSelect = document.getElementById('district');
+    const categorySelect = document.getElementById('category');
     const startInput = document.getElementById('start-date');
     const endInput = document.getElementById('end-date');
-    const categorySelect = document.getElementById('category');
-    const districtSelect = document.getElementById('district');
     const itemsSelect = document.getElementById('items-per-page');
     const todayBtn = document.getElementById('today-btn');
     const resetBtn = document.getElementById('reset-btn');
-
-    // Populate the district dropdown with unique values from the data
-    const districts = Array.from(new Set(stories.map(s => s.district).filter(d => !!d))).sort();
-    districts.forEach(d => {
-      const opt = document.createElement('option');
-      opt.value = d;
-      opt.textContent = d;
-      districtSelect.appendChild(opt);
-    });
-
-    // Set default items per page
-    itemsSelect.value = '50';
-
-    // Event listeners for filter changes
-    startInput.addEventListener('change', applyFilters);
-    endInput.addEventListener('change', applyFilters);
-    categorySelect.addEventListener('change', applyFilters);
-    districtSelect.addEventListener('change', applyFilters);
-    itemsSelect.addEventListener('change', () => {
-      itemsPerPage = parseInt(itemsSelect.value, 10) || 50;
-      currentPage = 1;
-      applyFilters();
-    });
-
-    // Event listeners for filter actions
-    todayBtn.addEventListener('click', () => {
-      const todayStr = new Date().toISOString().split('T')[0];
-      const todayStories = stories.filter(s => s.pubDate.startsWith(todayStr));
-      filteredStories = todayStories.slice(0, 50);
-      itemsPerPage = 50;
+  
+    // Show Loading State
+    container.innerHTML = '<div class="loading">Loading latest news...</div>';
+  
+    fetch('data/news.json')
+      .then(response => {
+        if (!response.ok) throw new Error("File not found");
+        return response.json();
+      })
+      .then(data => {
+        stories = data;
+        if (stories.length === 0) {
+            container.innerHTML = '<p>No news data found. Please check back later.</p>';
+            return;
+        }
+        populateFilters();
+        applyFilters(); // Render initial data
+      })
+      .catch(err => {
+        console.error(err);
+        container.innerHTML = `<div class="error">
+          <h3>Failed to load news</h3>
+          <p>This might be because the data is being updated. Please try refreshing in a few minutes.</p>
+        </div>`;
+      });
+  
+    function populateFilters() {
+      // Extract unique districts and sort alphabetically
+      const districts = [...new Set(stories.map(s => s.district).filter(d => d))].sort();
+      
+      // Clear existing options except "All"
+      districtSelect.innerHTML = '<option value="All">All districts</option>';
+      
+      districts.forEach(d => {
+        const opt = document.createElement('option');
+        opt.value = d;
+        opt.textContent = d;
+        districtSelect.appendChild(opt);
+      });
+    }
+  
+    function applyFilters() {
+      const startDate = startInput.value;
+      const endDate = endInput.value;
+      const category = categorySelect.value;
+      const district = districtSelect.value;
+      itemsPerPage = parseInt(itemsSelect.value) || 50;
+  
+      filteredStories = stories.filter(s => {
+        const sDate = s.pubDate.split('T')[0]; // YYYY-MM-DD
+        
+        let matchesDate = true;
+        if (startDate) matchesDate = matchesDate && (sDate >= startDate);
+        if (endDate) matchesDate = matchesDate && (sDate <= endDate);
+        
+        let matchesCat = (category === 'All') || (s.category === category);
+        let matchesDist = (district === 'All') || (s.district === district);
+        
+        return matchesDate && matchesCat && matchesDist;
+      });
+  
       currentPage = 1;
       renderPage(currentPage);
-    });
-
-    resetBtn.addEventListener('click', () => {
-      startInput.value = '';
-      endInput.value = '';
-      categorySelect.value = 'All';
-      districtSelect.value = 'All';
-      itemsSelect.value = '50';
-      itemsPerPage = 50;
-      currentPage = 1;
-      applyFilters();
-    });
-  }
-
-  function applyFilters() {
-    const startDate = document.getElementById('start-date').value;
-    const endDate = document.getElementById('end-date').value;
-    const category = document.getElementById('category').value;
-    const district = document.getElementById('district').value;
-
-    // Filter the stories based on selected filters
-    let filtered = stories;
-
-    if (startDate) {
-      filtered = filtered.filter(s => s.pubDate >= startDate);
     }
-
-    if (endDate) {
-      const end = new Date(endDate);
-      end.setDate(end.getDate() + 1);
-      const isoNext = end.toISOString().split('T')[0];
-      filtered = filtered.filter(s => s.pubDate < isoNext);
-    }
-
-    if (category && category !== 'All') {
-      filtered = filtered.filter(s => s.category === category);
-    }
-
-    if (district && district !== 'All') {
-      filtered = filtered.filter(s => s.district === district);
-    }
-
-    filteredStories = filtered;
-    currentPage = 1;
-    renderPage(currentPage);
-  }
-
-  function categoryToSlug(cat) {
-    return cat.toLowerCase().replace(/\s+/g, '-');
-  }
-
-  function render(list) {
-    const container = document.getElementById('news-container');
-    container.innerHTML = '';
-
-    if (list.length === 0) {
-      container.innerHTML = '<p>No news articles match the selected filters.</p>';
-      return;
-    }
-
-    list.forEach(item => {
-      const card = document.createElement('div');
-      card.className = 'news-card';
-      const dateObj = new Date(item.pubDate);
-      const localDateString = dateObj.toLocaleString(undefined, {
-        year: 'numeric', month: 'short', day: 'numeric',
-        hour: '2-digit', minute: '2-digit'
-      });
-      const catSlug = categoryToSlug(item.category || 'Uncategorised');
-      const badgeClass = `badge-${catSlug}`;
-      card.innerHTML = `
-        <h3><a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a></h3>
-        <div class="meta">${localDateString} • ${item.source} • ${item.district}</div>
-        <span class="badge ${badgeClass}">${item.category}</span>
-        <p>${item.summary}</p>
-        <p><a href="${item.link}" target="_blank" rel="noopener noreferrer">Read more</a></p>
-      `;
-      container.appendChild(card);
-    });
-  }
-
-  function renderPage(page) {
-    const startIndex = (page - 1) * itemsPerPage;
-    const endIndex = startIndex + itemsPerPage;
-    const pageItems = filteredStories.slice(startIndex, endIndex);
-    render(pageItems);
-    renderPagination();
-  }
-
-  function renderPagination() {
-    const pagination = document.getElementById('pagination');
-    pagination.innerHTML = '';
-    const totalPages = Math.ceil(filteredStories.length / itemsPerPage);
-    if (totalPages <= 1) {
-      return;
-    }
-    for (let i = 1; i <= totalPages; i++) {
-      const btn = document.createElement('button');
-      btn.className = 'page-link';
-      btn.textContent = i;
-      if (i === currentPage) {
-        btn.classList.add('active');
+  
+    function renderPage(page) {
+      container.innerHTML = '';
+      
+      if (filteredStories.length === 0) {
+        container.innerHTML = '<p class="no-results">No stories match your filters.</p>';
+        pagination.innerHTML = '';
+        return;
       }
-      btn.addEventListener('click', () => {
-        currentPage = i;
-        renderPage(currentPage);
+  
+      const start = (page - 1) * itemsPerPage;
+      const end = start + itemsPerPage;
+      const pageItems = filteredStories.slice(start, end);
+  
+      pageItems.forEach(item => {
+        const card = document.createElement('div');
+        card.className = 'news-card';
+        
+        const date = new Date(item.pubDate).toLocaleDateString('en-IN', {
+            day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit'
+        });
+        
+        // Safety check for summary
+        let cleanSummary = item.summary || "No summary available.";
+        // Ensure no "Link Copied" remains
+        cleanSummary = cleanSummary.replace(/Link Copied/gi, "").replace(/मेरा शहर/g, "");
+  
+        card.innerHTML = `
+          <div class="card-header">
+            <span class="source-tag">${item.source}</span>
+            <span class="district-tag">${item.district}</span>
+          </div>
+          <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
+          <div class="meta-info">
+             <span class="date">${date}</span>
+             <span class="badge ${item.category.replace(/\s+/g, '-').toLowerCase()}">${item.category}</span>
+          </div>
+          <p class="summary">${cleanSummary}</p>
+        `;
+        container.appendChild(card);
       });
-      pagination.appendChild(btn);
+  
+      renderPagination();
     }
-  }
+  
+    function renderPagination() {
+        pagination.innerHTML = '';
+        const totalPages = Math.ceil(filteredStories.length / itemsPerPage);
+        
+        if (totalPages <= 1) return;
+  
+        const createBtn = (page, text) => {
+            const btn = document.createElement('button');
+            btn.textContent = text || page;
+            btn.className = page === currentPage ? 'active' : '';
+            btn.onclick = () => {
+                currentPage = page;
+                renderPage(currentPage);
+                window.scrollTo(0, 0);
+            };
+            return btn;
+        };
+  
+        // Prev
+        if (currentPage > 1) pagination.appendChild(createBtn(currentPage - 1, '«'));
+  
+        // Simple pagination logic (show current, prev, next)
+        let startPage = Math.max(1, currentPage - 2);
+        let endPage = Math.min(totalPages, currentPage + 2);
+  
+        for (let i = startPage; i <= endPage; i++) {
+            pagination.appendChild(createBtn(i));
+        }
+  
+        // Next
+        if (currentPage < totalPages) pagination.appendChild(createBtn(currentPage + 1, '»'));
+    }
+  
+    // Event Listeners
+    [startInput, endInput, categorySelect, districtSelect, itemsSelect].forEach(el => {
+        el.addEventListener('change', applyFilters);
+    });
+  
+    todayBtn.addEventListener('click', () => {
+        const today = new Date().toISOString().split('T')[0];
+        startInput.value = today;
+        endInput.value = today;
+        categorySelect.value = 'All';
+        districtSelect.value = 'All';
+        applyFilters();
+    });
+  
+    resetBtn.addEventListener('click', () => {
+        startInput.value = '';
+        endInput.value = '';
+        categorySelect.value = 'All';
+        districtSelect.value = 'All';
+        itemsSelect.value = '50';
+        applyFilters();
+    });
 });
