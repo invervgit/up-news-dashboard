@@ -1,90 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Uttar Pradesh News Dashboard</title>
-    <!-- Enhanced stylesheet for a cleaner, more modern layout -->
-    <link rel="stylesheet" href="style.css" />
-  </head>  
-  <body>
-    <div class="container">
-      <header class="masthead">
-        <h1>Uttar Pradesh Political &amp; Governance News Dashboard</h1>
-        <p class="subtitle">
-          Latest stories from selected RSS feeds covering politics, governance, and
-          judicial matters in Uttar Pradesh. Use the filters below to narrow
-          the list. Select the “Top 50 Today” button to see the most recent
-          stories.
-        </p>
-      </header>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UP Political Intelligence Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
 
-      <!-- Filters Section -->
-      <section class="filters">
-        <!-- Start Date Filter -->
-        <div class="filter-item">
-          <label for="start-date">Start date:</label>
-          <input type="date" id="start-date" />
+    <nav class="navbar">
+        <div class="logo">Political<span>Intel</span></div>
+        <div class="nav-links">
+            <span id="last-updated">Updating...</span>
         </div>
-        <!-- End Date Filter -->
-        <div class="filter-item">
-          <label for="end-date">End date:</label>
-          <input type="date" id="end-date" />
-        </div>
-        <!-- Category Filter -->
-        <div class="filter-item">
-          <label for="category">Category:</label>
-          <select id="category">
-            <option value="All">All categories</option>
-            <option value="Opposition Activity">Opposition Activity</option>
-            <option value="NDA Activity">NDA Activity</option>
-            <option value="Governance issues">Governance issues</option>
-            <option value="Judicial cases">Judicial cases</option>
-            <option value="Uncategorised">Uncategorised</option>
-          </select>
-        </div>
-        <!-- District Filter -->
-        <div class="filter-item">
-          <label for="district">District:</label>
-          <select id="district">
-            <option value="All">All districts</option>
-          </select>
-        </div>
-        <!-- Entries Per Page Filter -->
-        <div class="filter-item">
-          <label for="items-per-page">Entries per page:</label>
-          <select id="items-per-page">
-            <option value="25">25</option>
-            <option value="50" selected>50</option>
-            <option value="100">100</option>
-          </select>
-        </div>
-        <!-- Filter Actions -->
-        <div class="filter-actions">
-          <button id="today-btn" class="btn">Top 50 Today</button>
-          <button id="reset-btn" class="btn btn-secondary">Reset</button>
-        </div>
-      </section>
+    </nav>
 
-      <!-- News Container -->
-      <main>
-        <div id="news-container" class="news-container">
-          <!-- News cards will be dynamically injected here by script.js -->
+    <header class="hero">
+        <h1>Uttar Pradesh Governance & Political Tracker</h1>
+        <p>Curated intelligence on policies, judicial rulings, and political movements. No clutter.</p>
+        
+        <div class="mode-switcher">
+            <button class="mode-btn active" onclick="switchMode('national')">🇮🇳 India (National)</button>
+            <button class="mode-btn" onclick="switchMode('state')">🏛️ UP Focus (Top 50)</button>
         </div>
-        <!-- Pagination Controls will be injected here -->
-        <div id="pagination" class="pagination"></div>
-      </main>
+    </header>
 
-      <!-- Footer Section -->
-      <footer>
-        <p class="footnote">
-          Data updated regularly. Sources: Amar Ujala, Live Hindustan, Patrika,
-          Bhaskar and other verified RSS feeds. This dashboard is generated
-          automatically; news summaries are for informational purposes only.
-        </p>
-      </footer>
-    </div>
+    <section class="controls" id="filter-bar">
+        <div class="filter-group">
+            <select id="district-filter">
+                <option value="All">All Districts</option>
+            </select>
+            <select id="category-filter">
+                <option value="All">All Categories</option>
+                <option value="Governance & Dev">Governance & Development</option>
+                <option value="Judicial">Judicial / Legal</option>
+                <option value="Opposition/Political">Opposition Activity</option>
+                <option value="Government/NDA">Government Announcements</option>
+            </select>
+        </div>
+    </section>
+
+    <main id="news-grid" class="grid-container">
+        <div class="loader">Loading Intelligence...</div>
+    </main>
 
     <script src="script.js"></script>
-  </body>
+</body>
 </html>
