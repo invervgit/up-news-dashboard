@@ -1,0 +1,36 @@
+name: Update UP News Data
+
+on:
+  schedule:
+    # Runs at 00:00, 06:00, 12:00, 18:00 UTC
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Allows manual run from GitHub Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml
+
+    - name: Fetch and process news
+      run: python fetch_news.py
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add data/news.json
+        # Only commit if data/news.json has changed
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update news data" && git push)
