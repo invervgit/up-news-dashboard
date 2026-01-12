@@ -1,54 +1,24 @@
 #!/usr/bin/env python3
 """
-Enhanced news fetcher for the Uttar Pradesh News Dashboard.
-
-This script downloads a list of RSS feeds covering politics, governance
-and judicial matters in Uttar Pradesh.  It extracts basic fields from
-each feed and attempts to fetch additional content from the linked
-article when the RSS description is too terse.  A simple keyword‑based
-classifier assigns each story to one of four categories defined by the
-user.  A robust district mapping derived from the feed URL ensures
-that every story can be filtered by district on the front‑end.  The
-aggregated stories are deduplicated by URL and written to
-`data/news.json`.
-
-Key improvements over the original script:
-
-* **Richer summaries:** When an RSS item contains only a one‑line
-  description, the script fetches the article page and extracts the
-  first few paragraphs.  This produces a paragraph‑length summary
-  rather than a single sentence.
-* **Stronger classification:** The category keywords have been
-  expanded to reflect the user’s requested party mappings for
-  opposition, NDA, governance and judicial cases.
-* **Explicit district mapping:** A deterministic function derives a
-  human‑readable district name from each feed URL.  This ensures
-  consistency between the district filter and the feed list.
-
-The script remains dependency‑free beyond `requests` and
-`beautifulsoup4`, both of which are available in the default Python
-environment.
+Enhanced news fetcher for the Uttar Pradesh News Dashboard.
+Features:
+- Robust cleanup of boilerplate text (Link Copied, Ads).
+- Browser-like headers to avoid 403 errors.
+- Automatic Github Actions integration ready.
 """
 
 import json
 import re
 from datetime import datetime, timezone
-from typing import Dict, List
+from typing import Dict, List, Optional
 from urllib.parse import urlparse
-
 import requests
 from bs4 import BeautifulSoup
-
 
 ######################################################################
 # Configuration
 ######################################################################
 
-#: A complete list of RSS feeds to ingest.  Each entry in this list
-#  corresponds to a news source or district feed that has been
-#  validated to return a working RSS document.  If you add or remove
-#  feeds, remember to update the FEED_DISTRICT_MAP function accordingly
-#  so that districts are reported accurately.
 FEEDS: List[str] = [
     "https://www.bhaskarenglish.in/rss-v1--category-16346.xml",
     "https://www.yugmarg.com/rssfeed/uttarpradesh-rss.xml",
@@ -281,262 +251,230 @@ FEEDS: List[str] = [
     "https://www.amarujala.com/rss/ghaziabad.xml",
 ]
 
-#: Mapping from feed URL to a human‑friendly district name.  The
-#  function below attempts to infer the district name automatically.
-#  However if you wish to override the inference for a particular feed,
-#  add an entry here: FEED_DISTRICT_MAP[feed_url] = "District Name".
 FEED_DISTRICT_MAP: Dict[str, str] = {
-    # Examples:
+  "https://www.bhaskar.com/rss-v1--category-2052.xml": "Uttar Pradesh",  
+  # Examples:
     # "https://www.bhaskar.com/rss-v1--category-2052.xml": "Uttar Pradesh",
 }
 
-
-######################################################################
-# Classification configuration
-######################################################################
-
-# Keyword lists used for naive text classification.  Each list should
-# contain case‑insensitive tokens that, when present in a story, hint
-# towards a particular category.  The script stops at the first match
-# encountered when evaluating categories in the order they are defined
-# below.  Stories with no keyword matches are labelled "Uncategorised".
 CATEGORY_KEYWORDS: Dict[str, List[str]] = {
     "Opposition Activity": [
-        # Parties and leaders commonly associated with the opposition
         "samajwadi", "sp", "congress", "inc", "aazad samaj", "bsp", "aimim",
         "ad(k)", "akhilesh", "mayawati", "azad", "owaisi", "rahul", "gandhi",
-        "priyanka", "chalisa", "aazad samaj party", "azad samaj", "sp chief",
-        "inc leader", "up congress", " विपक्ष", "विपक्ष", "सपा", "बसपा",
-    ],
+        "priyanka", "chalisa", "sp chief", "inc leader", "up congress", 
+        "विपक्ष", "सपा", "बसपा", "अखिलेश", "मायावती", "कांग्रेस",],
     "NDA Activity": [
         "bjp", "nda", "sbsp", "ad(s)", "rld", "nishad", "modi", "yogi",
-        "pm modi", "amit shah", "jp nadda", "apna dal", "nath", "भाजपा", "योगी",
-        "मोदी", "आदित्यनाथ",
-    ],
+        "pm modi", "amit shah", "jp nadda", "apna dal", "nath", "rajnath",
+        "भाजपा", "योगी", "मोदी", "आदित्यनाथ", "एनडीए",],
     "Governance issues": [
         "development", "infrastructure", "scheme", "mission", "project",
-        "programme", "program", "road", "bridge", "hospital", "demand",
-        "protest", "demonstration", "struggle", "complaint", "scheme",
-        "health", "education", "school", "college", "budget", "fund",
-        "electricity", "water", "environment", "administration", "government",
-        "policy", "minister", "district magistrate", "commissioner",
-        "मुख्यमंत्री", "सरकार", "विकास", "योजना",
-    ],
+        "programme", "road", "bridge", "hospital", "demand", "protest", 
+        "complaint", "health", "education", "school", "college", "budget", 
+        "fund", "electricity", "water", "admin", "dm", "police",
+        "मुख्यमंत्री", "सरकार", "विकास", "योजना", "परियोजना", "सड़क", 
+        "अस्पताल", "शिक्षा", "बिजली", "पानी", "प्रशासन",],
     "Judicial cases": [
         "court", "high court", "supreme court", "verdict", "judgment", "judge",
-        "petition", "litigation", "lawsuit", "legal", "case", "mp mla court",
-        "decision", "hearings", "bench", "arrest", "bail", "अदालत", "न्यायालय",
-    ],
-}
+        "petition", "litigation", "bail", "arrest", "cbi", "ed", "fir",
+        "अदालत", "न्यायालय", "कोर्ट", "जज", "याचिका", "फैसला", "मुकदमा",], ],}
 
 
 ######################################################################
 # Utility functions
 ######################################################################
-
-def clean_text(text: str) -> str:
-    """Normalize whitespace and remove HTML tags."""
-    soup = BeautifulSoup(text, "html.parser")
-    return re.sub(r"\s+", " ", soup.get_text(separator=" ")).strip()
-
-
-def summarise(description: str, link: str, max_sentences: int = 3, max_words: int = 80) -> str:
+def clean_boilerplate(text: str) -> str:
     """
-    Generate a summary for an article.  If the RSS description is
-    unusually short, attempt to fetch the article page and extract the
-    first few paragraphs.  The result is trimmed to a fixed number of
-    sentences and words.  Any HTML tags are stripped.
-
-    Args:
-        description: The description text from the RSS feed.
-        link: The URL of the full article.
-        max_sentences: Maximum number of sentences to include in the summary.
-        max_words: Maximum number of words to include in the summary.
-
-    Returns:
-        A cleaned, truncated summary string.
+    Removes common boilerplate phrases found in Hindi news sites.
     """
-    cleaned = clean_text(description or "")
-    # If the description is very short (one or two sentences), fetch the article
-    if len(cleaned.split()) < 30 and link:
-        try:
-            resp = requests.get(link, timeout=10)
-            resp.raise_for_status()
-            page = BeautifulSoup(resp.content, "html.parser")
-            paragraphs = page.find_all('p')
-            article_text = " ".join(p.get_text(separator=" ", strip=True) for p in paragraphs)
-            article_text = clean_text(article_text)
-            # If we found meaningful text, use it instead of the short description
-            if len(article_text.split()) > len(cleaned.split()):
-                cleaned = article_text
-        except Exception:
-            # Fall back to the original cleaned description
-            pass
-    # Split into sentences using punctuation (including Hindi danda)
-    sentences = re.split(r"[\.\!\?\u0964\u0965]+\s*", cleaned)
-    sentences = [s.strip() for s in sentences if s.strip()]
-    selected = sentences[:max_sentences]
-    summary = " ".join(selected)
-    words = summary.split()
-    summary_trimmed = " ".join(words[:max_words])
+    junk_phrases = [
+        "Link Copied", "Link copied", "Follow Us", "Follow us", 
+        "Read More", "Read more", "विज्ञापन", "विस्तार", 
+        "Click here", "Subscribe", "Allow Notifications", 
+        "मेरा शहर", "My City", "What's App", "WhatsApp Channel",
+        "Reactions", "सांकेतिक तस्वीर", "फाइल फोटो"
+    ]
+    
+    lines = text.split('\n')
+    cleaned_lines = []
+    
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+        
+        # Skip lines that are just junk phrases
+        is_junk = False
+        for junk in junk_phrases:
+            if junk.lower() in line.lower() and len(line) < 50:
+                is_junk = True
+                break
+        
+        if not is_junk:
+            cleaned_lines.append(line)
+            
+    return " ".join(cleaned_lines)
+def fetch_article_content(url: str) -> Optional[str]:
+    """
+    Fetches article content with proper headers to mimic a browser.
+    """
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+    try:
+        resp = requests.get(url, headers=headers, timeout=10)
+        resp.raise_for_status()
+        soup = BeautifulSoup(resp.content, "html.parser")
+        
+        # Remove unwanted elements before extracting text
+        for tag in soup(["script", "style", "nav", "footer", "header", "aside"]):
+            tag.decompose()
+            
+        # Try to find the main article body based on common classes
+        article_body = soup.find('div', class_=re.compile(r'(article|story|content|body)', re.I))
+        
+        if not article_body:
+            article_body = soup  # Fallback to full body if specific container not found
+            
+        paragraphs = article_body.find_all('p')
+        text_content = []
+        for p in paragraphs:
+            text = p.get_text(strip=True)
+            # Filter out very short lines which are usually metadata/links
+            if len(text) > 40: 
+                text_content.append(text)
+                
+        full_text = "\n".join(text_content)
+        return clean_boilerplate(full_text)
+        
+    except Exception as e:
+        print(f"Error fetching {url}: {e}") # Uncomment for debugging
+        return None
+
+def summarise(description: str, link: str, max_words: int = 80) -> str:
+    """
+    Smart summarizer that prefers fetched content over RSS description
+    if the RSS description is too short.
+    """
+    clean_desc = BeautifulSoup(description, "html.parser").get_text(separator=" ", strip=True)
+    clean_desc = clean_boilerplate(clean_desc)
+    
+    final_text = clean_desc
+    
+    # If RSS description is short (< 200 chars), try to fetch the real article
+    if len(clean_desc) < 200 and link:
+        fetched_text = fetch_article_content(link)
+        if fetched_text and len(fetched_text) > len(clean_desc):
+            final_text = fetched_text
+
+    # Truncate logic
+    words = final_text.split()
     if len(words) > max_words:
-        summary_trimmed += "..."
-    return summary_trimmed
-
+        return " ".join(words[:max_words]) + "..."
+    return final_text
 
 def parse_pubdate(pubdate: str) -> str:
-    """Parse publication date into ISO‑8601 format (UTC)."""
     for fmt in ["%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M %z", "%d %b %Y %H:%M:%S %z"]:
         try:
             dt = datetime.strptime(pubdate, fmt)
             return dt.astimezone(timezone.utc).isoformat()
         except Exception:
             continue
-    return datetime.utcnow().replace(tzinfo=timezone.utc).isoformat()
-
+    return datetime.now(timezone.utc).isoformat()
 
 def classify(text: str) -> str:
-    """Classify the article into one of the predefined categories."""
     lower_text = text.lower()
     for category, keywords in CATEGORY_KEYWORDS.items():
-        if any(kw.lower() in lower_text for kw in keywords):
+        if any(kw in lower_text for kw in keywords):
             return category
     return "Uncategorised"
 
-
 def infer_district_from_feed(url: str) -> str:
-    """
-    Deduce a human‑friendly district name from an RSS feed URL.
-
-    This helper examines the path of the feed URL to extract a slug
-    representing the district.  Hyphens are replaced with spaces and the
-    result is title‑cased.  If no sensible district can be found the
-    function falls back to "Uttar Pradesh".
-
-    Args:
-        url: The RSS feed URL.
-
-    Returns:
-        A district name suitable for display in the UI.
-    """
-    # Check explicit overrides first
     if url in FEED_DISTRICT_MAP:
         return FEED_DISTRICT_MAP[url]
-
     try:
-        parsed = urlparse(url)
-        path = parsed.path
+        path = urlparse(url).path
         segments = [seg for seg in path.split('/') if seg]
-        # Patterns to ignore when guessing the district
-        ignore = set(["rssfeed.xml", "rss", "feed", "feeds", "news", "uttar-pradesh", "uttar pradesh"])
-        # Look for a segment that ends in '-news' (Patrika)
+        
+        # Logic for Amar Ujala / Live Hindustan
         for seg in segments:
-            if seg.endswith('-news'):
-                district_slug = seg.rsplit('-', 1)[0]
-                return district_slug.replace('-', ' ').title()
-        # For Amar Ujala RSS: last segment before .xml is the district
-        if segments and segments[-1].endswith('.xml'):
-            district_slug = segments[-1].split('.')[0]
-            if district_slug not in ignore:
-                return district_slug.replace('-', ' ').title()
-        # For Live Hindustan: segment after 'uttar-pradesh'
-        if 'uttar-pradesh' in segments:
-            idx = segments.index('uttar-pradesh')
-            if idx + 1 < len(segments):
-                slug = segments[idx + 1]
-                if slug not in ignore:
-                    return slug.replace('-', ' ').title()
-    except Exception:
+            if seg.endswith('.xml'):
+                seg = seg.replace('.xml', '')
+            if seg in ["rss", "feed", "rssfeed", "uttar-pradesh", "news"]:
+                continue
+            # Return the first meaningful segment as district
+            return seg.replace('-', ' ').title()
+    except:
         pass
-    # Default
     return "Uttar Pradesh"
 
-
-def extract_domain(url: str) -> str:
-    """Extract domain name from a URL."""
+def extract_source(url: str) -> str:
     try:
-        return urlparse(url).netloc
-    except Exception:
+        domain = urlparse(url).netloc
+        return domain.replace("www.", "").split(".")[0].title()
+    except:
         return "Unknown"
 
-
-def extract_source(domain: str) -> str:
-    """Derive human‑friendly source name from the domain."""
-    if not domain:
-        return "Unknown"
-    domain = domain.lower().replace("www.", "").split(".")[-2].replace("-", " ").title()
-    return domain
-
-
-def parse_feed(url: str) -> List[Dict[str, str]]:
-    """Parse an RSS feed into a list of article dictionaries."""
-    try:
-        response = requests.get(url, timeout=30)
-        response.raise_for_status()
-    except Exception as e:
-        print(f"Failed to fetch feed {url}: {e}")
-        return []
-
-    soup = BeautifulSoup(response.content, "xml")
-    items = soup.find_all("item")
-    domain = extract_domain(url)
-    source = extract_source(domain)
-    district = infer_district_from_feed(url)
-
-    stories: List[Dict[str, str]] = []
-    for item in items:
-        try:
-            title = item.find("title").get_text(strip=True)
-            link = item.find("link").get_text(strip=True)
-            description_tag = item.find("description")
-            description = description_tag.get_text(strip=True) if description_tag else ""
-            pubdate_tag = item.find("pubDate")
-            pubdate = pubdate_tag.get_text(strip=True) if pubdate_tag else ""
-            summary = summarise(description, link)
-            category = classify(f"{title} {description} {summary}")
-            iso_date = parse_pubdate(pubdate)
-            stories.append({
-                "title": title,
-                "link": link,
-                "pubDate": iso_date,
-                "summary": summary,
-                "category": category,
-                "source": source,
-                "district": district,
-            })
-        except Exception:
-            # Skip malformed items gracefully
-            continue
-    return stories
-
-
-def aggregate_feeds() -> List[Dict[str, str]]:
-    """Aggregate and deduplicate articles from all RSS feeds."""
+def main():
+    all_stories = []
     seen_links = set()
-    aggregated: List[Dict[str, str]] = []
+    
+    print(f"Fetching {len(FEEDS)} feeds...")
+    
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+    }
+
     for feed_url in FEEDS:
-        stories = parse_feed(feed_url)
-        for story in stories:
-            link = story.get("link")
-            if link and link not in seen_links:
+        try:
+            resp = requests.get(feed_url, headers=headers, timeout=15)
+            if resp.status_code != 200:
+                continue
+            
+            soup = BeautifulSoup(resp.content, "xml")
+            items = soup.find_all("item")
+            
+            district = infer_district_from_feed(feed_url)
+            source = extract_source(feed_url)
+            
+            for item in items:
+                link = item.find("link").get_text(strip=True)
+                if link in seen_links:
+                    continue
                 seen_links.add(link)
-                aggregated.append(story)
-    # Sort by publication date descending
-    aggregated.sort(key=lambda s: s.get("pubDate", ""), reverse=True)
-    return aggregated
+                
+                title = item.find("title").get_text(strip=True)
+                desc = item.find("description").get_text(strip=True) if item.find("description") else ""
+                pubdate = item.find("pubDate").get_text(strip=True) if item.find("pubDate") else ""
+                
+                summary = summarise(desc, link)
+                category = classify(f"{title} {summary}")
+                
+                all_stories.append({
+                    "title": title,
+                    "link": link,
+                    "pubDate": parse_pubdate(pubdate),
+                    "summary": summary,
+                    "category": category,
+                    "source": source,
+                    "district": district
+                })
+                
+        except Exception as e:
+            print(f"Failed to process feed {feed_url}: {e}")
 
-
-def main() -> None:
-    """Main function to aggregate feeds and save data to JSON."""
-    stories = aggregate_feeds()
-    from pathlib import Path
-    data_dir = Path(__file__).parent / "data"
-    data_dir.mkdir(parents=True, exist_ok=True)
-    output_path = data_dir / "news.json"
-    with output_path.open("w", encoding="utf-8") as f:
-        json.dump(stories, f, ensure_ascii=False, indent=2)
-    print(f"Wrote {len(stories)} stories to {output_path}")
-
+    # Sort by date (newest first)
+    all_stories.sort(key=lambda x: x['pubDate'], reverse=True)
+    
+    # Save
+    import pathlib
+    data_dir = pathlib.Path(__file__).parent / "data"
+    data_dir.mkdir(exist_ok=True)
+    
+    with open(data_dir / "news.json", "w", encoding="utf-8") as f:
+        json.dump(all_stories, f, ensure_ascii=False, indent=2)
+        
+    print(f"Successfully scraped {len(all_stories)} stories.")
 
 if __name__ == "__main__":
     main()
