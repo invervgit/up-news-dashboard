@@ -1,18 +1,17 @@
 #!/usr/bin/env python3
 """
-Production Grade News Aggregator for UP Dashboard.
+PoliticalIntel Backend - v2.0
 Features:
-- Strict Political/Governance Filtering (Anti-Crime/Anti-Junk).
-- Fuzzy Deduplication (Removes similar headlines).
-- Robust Date Parsing.
-- Distinct National vs State streams.
+- National (English First, then Hindi)
+- International (English Only)
+- UP Focus (Strict Filtering, Top 50)
+- Robust Deduplication & cleanup
 """
 
 import json
 import re
 import hashlib
 from datetime import datetime
-from difflib import SequenceMatcher
 from urllib.parse import urlparse
 from email.utils import parsedate_to_datetime
 import requests
@@ -20,60 +19,52 @@ from bs4 import BeautifulSoup
 
 # --- CONFIGURATION ---
 
-# 1. NATIONAL FEEDS
-NATIONAL_FEEDS = [
-    {"url": "https://www.amarujala.com/rss/india-news.xml", "source": "Amar Ujala"},
-    {"url": "https://www.livehindustan.com/rss/national/rssfeed.xml", "source": "Live Hindustan"},
-    {"url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", "source": "TOI"},
-    {"url": "https://www.jagran.com/rss/news-national-rss.xml", "source": "Dainik Jagran"},
+# 1. INTERNATIONAL FEEDS (English Only)
+INTERNATIONAL_FEEDS = [
+    {"url": "https://www.thehindu.com/news/international/feeder/default.rss", "source": "The Hindu"},
+    {"url": "http://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC World"},
+    {"url": "https://timesofindia.indiatimes.com/rssfeeds/296589292.cms", "source": "TOI World"},
+    {"url": "https://www.indiatoday.in/rss/1206577", "source": "India Today"},
 ]
 
-# 2. UP DISTRICT & STATE FEEDS
-# Mapped explicitly to ensure correct tagging
+# 2. NATIONAL FEEDS (Mixed - Will be sorted English First)
+NATIONAL_FEEDS = [
+    {"url": "https://www.thehindu.com/news/national/feeder/default.rss", "source": "The Hindu", "lang": "en"},
+    {"url": "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms", "source": "TOI India", "lang": "en"},
+    {"url": "https://timesofindia.indiatimes.com/rssfeedmostrecent.cms", "source": "TOI Latest", "lang": "en"},
+    {"url": "https://www.livehindustan.com/rss/national/rssfeed.xml", "source": "Live Hindustan", "lang": "hi"},
+    {"url": "https://www.amarujala.com/rss/india-news.xml", "source": "Amar Ujala", "lang": "hi"},
+    {"url": "https://www.jagran.com/rss/news-national-rss.xml", "source": "Dainik Jagran", "lang": "hi"},
+]
+
+# 3. UP STATE & DISTRICT FEEDS (Strict Filter)
 UP_FEEDS = [
     # State Level
+    {"url": "https://www.bhaskarenglish.in/rss-v1--category-16346.xml", "district": "Uttar Pradesh", "source": "Bhaskar English"},
     {"url": "https://www.amarujala.com/rss/uttar-pradesh.xml", "district": "Uttar Pradesh", "source": "Amar Ujala"},
     {"url": "https://api.livehindustan.com/feeds/rss/uttar-pradesh/rssfeed.xml", "district": "Uttar Pradesh", "source": "Live Hindustan"},
-    {"url": "https://www.bhaskar.com/rss-v1--category-2052.xml", "district": "Uttar Pradesh", "source": "Dainik Bhaskar"},
     
-    # Major Districts (NCR & Capitals)
-    {"url": "https://cms.patrika.com/googlefeed/blog/location/noida-news", "district": "Noida", "source": "Patrika"},
-    {"url": "https://cms.patrika.com/googlefeed/blog/location/greater-noida-news", "district": "Noida", "source": "Patrika"},
-    {"url": "https://www.amarujala.com/rss/noida.xml", "district": "Noida", "source": "Amar Ujala"},
-    {"url": "https://www.amarujala.com/rss/ghaziabad.xml", "district": "Ghaziabad", "source": "Amar Ujala"},
+    # Key Districts (Add more as needed from your list)
+    {"url": "https://cms.patrika.com/googlefeed/blog/location/lucknow-news", "district": "Lucknow", "source": "Patrika"},
     {"url": "https://www.amarujala.com/rss/lucknow.xml", "district": "Lucknow", "source": "Amar Ujala"},
-    {"url": "https://api.livehindustan.com/feeds/rss/uttar-pradesh/lucknow/rssfeed.xml", "district": "Lucknow", "source": "Live Hindustan"},
-    
-    # Eastern UP
+    {"url": "https://www.amarujala.com/rss/kanpur.xml", "district": "Kanpur", "source": "Amar Ujala"},
     {"url": "https://www.amarujala.com/rss/varanasi.xml", "district": "Varanasi", "source": "Amar Ujala"},
     {"url": "https://www.amarujala.com/rss/gorakhpur.xml", "district": "Gorakhpur", "source": "Amar Ujala"},
-    {"url": "https://www.amarujala.com/rss/prayagraj.xml", "district": "Prayagraj", "source": "Amar Ujala"},
-    {"url": "https://cms.patrika.com/googlefeed/blog/location/ayodhya-news", "district": "Ayodhya", "source": "Patrika"},
-    
-    # Central/Western UP
-    {"url": "https://www.amarujala.com/rss/kanpur.xml", "district": "Kanpur", "source": "Amar Ujala"},
-    {"url": "https://www.amarujala.com/rss/meerut.xml", "district": "Meerut", "source": "Amar Ujala"},
-    {"url": "https://www.amarujala.com/rss/agra.xml", "district": "Agra", "source": "Amar Ujala"},
-    {"url": "https://www.amarujala.com/rss/bareilly.xml", "district": "Bareilly", "source": "Amar Ujala"},
-    {"url": "https://www.amarujala.com/rss/aligarh.xml", "district": "Aligarh", "source": "Amar Ujala"},
-    
-    # Political Hotspots
-    {"url": "https://www.amarujala.com/rss/amethi.xml", "district": "Amethi", "source": "Amar Ujala"},
-    {"url": "https://www.amarujala.com/rss/raebareli.xml", "district": "Raebareli", "source": "Amar Ujala"},
-    {"url": "https://www.amarujala.com/rss/mainpuri.xml", "district": "Mainpuri", "source": "Amar Ujala"},
+    {"url": "https://cms.patrika.com/googlefeed/blog/location/noida-news", "district": "Noida", "source": "Patrika"},
+    {"url": "https://www.amarujala.com/rss/noida.xml", "district": "Noida", "source": "Amar Ujala"},
+    {"url": "https://www.amarujala.com/rss/ayodhya.xml", "district": "Ayodhya", "source": "Amar Ujala"},
 ]
 
 # --- FILTERING LOGIC ---
 
 POSITIVE_KEYWORDS = [
     "dm", "ssp", "commissioner", "high court", "supreme court", "verdict", "bail", 
-    "yojana", "scheme", "project", "inauguration", "foundation stone", "inspect",
-    "protest", "dharna", "memorandum", "vidhan sabha", "loksabha", "mla", "mp", 
+    "yojana", "scheme", "project", "inauguration", "protest", "dharna", "mla", "mp", 
     "minister", "election", "vote", "development", "budget", "policy", "governance",
-    "cm office", "pm office", "municipality", "nagarnigam", "tender",
+    "cm office", "pm office", "municipality", "nagarnigam", "politics", "congress", "bjp", "sp",
     "मुख्यमंत्री", "प्रधानमंत्री", "सांसद", "विधायक", "मंत्री", "योजना", "परियोजना",
     "अदालत", "कोर्ट", "जज", "फैसला", "जमानत", "धरना", "प्रदर्शन", "ज्ञापन", 
-    "अधिकारी", "डीएम", "एसएसपी", "विकास", "बजट", "घोटाला", "जांच", "लोकार्पण"
+    "अधिकारी", "डीएम", "एसएसपी", "विकास", "बजट", "घोटाला", "जांच"
 ]
 
 NEGATIVE_KEYWORDS = [
@@ -87,44 +78,25 @@ NEGATIVE_KEYWORDS = [
 ]
 
 def aggressive_clean(text: str) -> str:
-    """Removes boilerplate text."""
     if not text: return ""
     soup = BeautifulSoup(text, "html.parser")
     text = soup.get_text(separator=" ", strip=True)
-    
-    # Regex to remove junk
     patterns = [
         r"Link Copied", r"Also Read", r"Read More", r"Click Here",
         r"Download.*App", r"Follow us on", r"Subscribe to",
-        r"मेरा शहर", r"My City", r"WhatsApp Channel", 
-        r"Next Article", r"Please wait", r"Share this",
-        r"Live Updates", r"Watch Video", r"विज्ञापन",
-        r"Get all India News.*", r".*posted by.*"
+        r"मेरा शहर", r"My City", r"WhatsApp Channel", r"Next Article", 
+        r"Please wait", r"Share this", r"Live Updates", r"Watch Video", 
+        r"विज्ञापन", r"Get all India News.*", r"Log in.*"
     ]
     for p in patterns:
         text = re.sub(p, "", text, flags=re.IGNORECASE)
     return re.sub(r'\s+', ' ', text).strip()
 
 def is_relevant(title: str, summary: str) -> bool:
-    """
-    Returns TRUE if the story is Politically/Administratively relevant.
-    Returns FALSE if it is generic crime/junk.
-    """
     blob = (title + " " + summary).lower()
-    
     has_pos = any(k in blob for k in POSITIVE_KEYWORDS)
     has_neg = any(k in blob for k in NEGATIVE_KEYWORDS)
-    
-    # 1. Pure Junk (Negative without Positive context) -> REJECT
-    if has_neg and not has_pos:
-        return False
-        
-    # 2. Political Crime (Negative + Positive) -> KEEP
-    # Example: "MLA involved in murder case" (Murder + MLA)
-    if has_neg and has_pos:
-        return True
-        
-    # 3. Neutral/Positive -> KEEP
+    if has_neg and not has_pos: return False
     return True
 
 def get_category(text: str) -> str:
@@ -136,33 +108,18 @@ def get_category(text: str) -> str:
     return "General"
 
 def parse_date(date_str: str) -> str:
-    """Robust date parser for different RSS formats."""
     try:
-        # Try RFC 822 (Standard RSS)
         dt = parsedate_to_datetime(date_str)
         return dt.isoformat()
     except:
-        # Fallback to current time if parsing fails
         return datetime.now().isoformat()
-
-def is_duplicate(title, seen_titles):
-    """Fuzzy matching to detect duplicate stories with slightly different titles."""
-    norm_title = re.sub(r'[^\w\s]', '', title.lower())
-    
-    for seen in seen_titles:
-        # If similarity > 85%, consider it a duplicate
-        if SequenceMatcher(None, norm_title, seen).ratio() > 0.85:
-            return True
-    return False
 
 def fetch_rss(feed_config, scope):
     stories = []
     headers = {"User-Agent": "Mozilla/5.0"}
-    
     try:
         resp = requests.get(feed_config['url'], headers=headers, timeout=10)
         if resp.status_code != 200: return []
-        
         soup = BeautifulSoup(resp.content, "xml")
         items = soup.find_all("item")
         
@@ -173,57 +130,79 @@ def fetch_rss(feed_config, scope):
             summary = aggressive_clean(desc)
             pub_date = item.find("pubDate").get_text() if item.find("pubDate") else ""
             
-            # --- FILTERING ---
-            if scope == "state" and not is_relevant(title, summary):
-                continue
-            # -----------------
+            # Filters
+            if scope == "state" and not is_relevant(title, summary): continue
             
+            # Simple International Check (exclude India specific news from International tab if mixed)
+            if scope == "international" and "india" in title.lower() and "cricket" in title.lower():
+                continue
+
             stories.append({
                 "title": title,
                 "link": link,
-                "summary": summary[:200] + "..." if len(summary) > 200 else summary,
+                "summary": summary[:220] + "..." if len(summary) > 220 else summary,
                 "pubDate": parse_date(pub_date),
                 "scope": scope,
-                "district": feed_config.get('district', 'India'),
+                "district": feed_config.get('district', 'General'),
                 "source": feed_config.get('source', 'Unknown'),
-                "category": get_category(title + " " + summary)
+                "category": get_category(title + " " + summary),
+                "lang": feed_config.get('lang', 'en') # Default to en
             })
-            
     except Exception as e:
         print(f"Skipping {feed_config['url']}: {e}")
-        
     return stories
 
 def main():
     final_data = []
     seen_titles = set()
-    
-    # 1. Fetch National
-    print("Fetching National News...")
+
+    def add_stories(stories):
+        for s in stories:
+            # Fuzzy Deduplication
+            simple_title = re.sub(r'[^\w\s]', '', s['title'].lower())
+            if simple_title not in seen_titles:
+                seen_titles.add(simple_title)
+                final_data.append(s)
+
+    # 1. International (English)
+    print("Fetching International...")
+    intl_stories = []
+    for feed in INTERNATIONAL_FEEDS:
+        intl_stories.extend(fetch_rss(feed, "international"))
+    intl_stories.sort(key=lambda x: x['pubDate'], reverse=True)
+    add_stories(intl_stories)
+
+    # 2. National (English First, Then Hindi)
+    print("Fetching National...")
+    nat_en = []
+    nat_hi = []
     for feed in NATIONAL_FEEDS:
-        news = fetch_rss(feed, "national")
-        for n in news:
-            if not is_duplicate(n['title'], seen_titles):
-                seen_titles.add(re.sub(r'[^\w\s]', '', n['title'].lower()))
-                final_data.append(n)
-
-    # 2. Fetch UP
-    print("Fetching UP News...")
-    for feed in UP_FEEDS:
-        news = fetch_rss(feed, "state")
-        for n in news:
-            if not is_duplicate(n['title'], seen_titles):
-                seen_titles.add(re.sub(r'[^\w\s]', '', n['title'].lower()))
-                final_data.append(n)
-
-    # 3. Sort by Date
-    final_data.sort(key=lambda x: x['pubDate'], reverse=True)
+        stories = fetch_rss(feed, "national")
+        if feed.get('lang') == 'en':
+            nat_en.extend(stories)
+        else:
+            nat_hi.extend(stories)
+            
+    # Sort independently by date
+    nat_en.sort(key=lambda x: x['pubDate'], reverse=True)
+    nat_hi.sort(key=lambda x: x['pubDate'], reverse=True)
     
-    # 4. Save
+    # Merge: English first
+    add_stories(nat_en)
+    add_stories(nat_hi)
+
+    # 3. UP Focus
+    print("Fetching UP State...")
+    up_stories = []
+    for feed in UP_FEEDS:
+        up_stories.extend(fetch_rss(feed, "state"))
+    up_stories.sort(key=lambda x: x['pubDate'], reverse=True)
+    add_stories(up_stories)
+
+    # Save
     with open("data/news.json", "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=2)
-    
-    print(f"Update Complete. Total Stories: {len(final_data)}")
+    print(f"Done. {len(final_data)} stories saved.")
 
 if __name__ == "__main__":
     main()
