@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-PoliticalIntel Backend v3.0 - Executive Briefing Edition
+PoliticalIntel Backend v3.1 - Robust History & Executive Briefing
 Features:
-- 7-Day History Retention (Append Mode).
-- Advanced NLP-based Categorization (Govt vs Opposition vs Judicial).
-- Report-Ready Data Structure.
+- Fixes KeyError on legacy data.
+- 7-Day History Retention.
+- Advanced Categorization.
 """
 
 import json
@@ -51,17 +51,15 @@ UP_FEEDS = [
 # --- INTELLIGENT TAGGING ---
 
 def get_report_category(title: str, summary: str) -> str:
-    """
-    Classifies National news into specific Report Sections.
-    """
+    """Classifies National news into specific Report Sections."""
     blob = (title + " " + summary).lower()
     
-    # 1. JUDICIAL (Highest Priority)
+    # 1. JUDICIAL
     judicial_kw = ["supreme court", "high court", "bench", "verdict", "hearing", "cji", "chandrachud", "bail", "petition", "court", "sc", "hc", "अदालत", "कोर्ट", "फैसला", "याचिका", "सुप्रीम कोर्ट"]
     if any(k in blob for k in judicial_kw):
         return "National_Judicial"
         
-    # 2. GOVERNMENT / POLICY (Medium Priority)
+    # 2. GOVERNMENT / POLICY
     govt_kw = [
         "cabinet", "modi", "pm", "minister", "bill", "act", "parliament", "scheme", "yojana", "mandate", 
         "govt", "government", "center", "centre", "inaugurate", "launch", "policy", "project", "highway",
@@ -71,7 +69,7 @@ def get_report_category(title: str, summary: str) -> str:
     if any(k in blob for k in govt_kw):
         return "National_Govt"
         
-    # 3. OPPOSITION (Specific Context)
+    # 3. OPPOSITION
     opp_kw = [
         "congress", "rahul", "gandhi", "kharge", "protest", "allegation", "slam", "attack", "sp", "samajwadi", 
         "akhilesh", "yatra", "demand", "resignation", "tmc", "mamata", "aadmi party", "kejriwal", "opposition", 
@@ -80,7 +78,6 @@ def get_report_category(title: str, summary: str) -> str:
     if any(k in blob for k in opp_kw):
         return "National_Opposition"
     
-    # Default fallback
     return "National_General"
 
 def aggressive_clean(text: str) -> str:
@@ -100,7 +97,6 @@ def aggressive_clean(text: str) -> str:
 def parse_date(date_str: str) -> str:
     try:
         dt = parsedate_to_datetime(date_str)
-        # Convert to local simplified ISO date (YYYY-MM-DD) for filtering
         return dt.strftime('%Y-%m-%d')
     except:
         return datetime.now().strftime('%Y-%m-%d')
@@ -121,7 +117,6 @@ def fetch_rss(feed_config, section):
             summary = aggressive_clean(desc)
             pub_date_raw = item.find("pubDate").get_text() if item.find("pubDate") else ""
             
-            # Categorize
             category = "General"
             if section == "National":
                 category = get_report_category(title, summary)
@@ -131,12 +126,12 @@ def fetch_rss(feed_config, section):
                 category = "UP_Focus"
 
             stories.append({
-                "id": hashlib.md5(link.encode()).hexdigest(), # Unique ID
+                "id": hashlib.md5(link.encode()).hexdigest(),
                 "title": title,
                 "link": link,
-                "summary": summary[:300] + "..." if len(summary) > 300 else summary, # Slightly longer for report
-                "date": parse_date(pub_date_raw), # YYYY-MM-DD for filtering
-                "timestamp": pub_date_raw, # Full string for display
+                "summary": summary[:300] + "..." if len(summary) > 300 else summary,
+                "date": parse_date(pub_date_raw),
+                "timestamp": pub_date_raw,
                 "section": section,
                 "report_category": category,
                 "source": feed_config.get('source', 'Unknown'),
@@ -151,7 +146,7 @@ def main():
     data_file = "data/news.json"
     existing_data = []
     
-    # 1. Load History (if exists)
+    # 1. Load History (Safely)
     import pathlib
     pathlib.Path("data").mkdir(exist_ok=True)
     
@@ -164,21 +159,23 @@ def main():
             
     # 2. Fetch New Data
     new_data = []
-    
     print("Fetching International...")
-    for feed in INTERNATIONAL_FEEDS:
-        new_data.extend(fetch_rss(feed, "International"))
-        
+    for feed in INTERNATIONAL_FEEDS: new_data.extend(fetch_rss(feed, "International"))
     print("Fetching National...")
-    for feed in NATIONAL_FEEDS:
-        new_data.extend(fetch_rss(feed, "National"))
-        
+    for feed in NATIONAL_FEEDS: new_data.extend(fetch_rss(feed, "National"))
     print("Fetching UP Focus...")
-    for feed in UP_FEEDS:
-        new_data.extend(fetch_rss(feed, "UP_Focus"))
+    for feed in UP_FEEDS: new_data.extend(fetch_rss(feed, "UP_Focus"))
         
-    # 3. Merge & Deduplicate
-    combined_map = {item['id']: item for item in existing_data}
+    # 3. Merge & Deduplicate (Robust Fix for KeyError)
+    combined_map = {}
+    
+    # Process existing data first
+    for item in existing_data:
+        # ONLY add if it has an ID (ignores old/legacy data)
+        if isinstance(item, dict) and 'id' in item:
+            combined_map[item['id']] = item
+            
+    # Add/Overwrite with new data
     for item in new_data:
         combined_map[item['id']] = item 
         
@@ -186,9 +183,9 @@ def main():
     
     # 4. Prune Old Data (> 7 Days)
     cutoff_date = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
-    final_list = [x for x in final_list if x['date'] >= cutoff_date]
+    final_list = [x for x in final_list if x.get('date', '') >= cutoff_date]
     
-    # 5. Sort by Date (Newest First)
+    # 5. Sort
     final_list.sort(key=lambda x: x.get('timestamp', ''), reverse=True)
     
     with open(data_file, "w", encoding="utf-8") as f:
