@@ -3,51 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>India & UP News Dashboard</title>
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <title>PoliticalIntel: Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <header class="app-header">
-        <div class="header-content">
-            <h1>News<span>Dashboard</span></h1>
-            <p id="last-updated">Updating...</p>
+    <nav class="navbar">
+        <div class="logo">Political<span>Intel</span></div>
+        <div class="nav-links">
+            <span id="last-updated">Updating...</span>
         </div>
+    </nav>
+
+    <header class="hero">
+        <h1>Intelligence Dashboard</h1>
+        <p>Real-time tracking of National developments, Global events, and Uttar Pradesh governance.</p>
         
-        <div class="view-switcher">
-            <button id="btn-national" class="switch-btn active" onclick="setView('national')">
-                🇮🇳 India (National)
-            </button>
-            <button id="btn-state" class="switch-btn" onclick="setView('state')">
-                🏛️ UP Focus (Top 50)
-            </button>
+        <div class="mode-switcher">
+            <button class="mode-btn active" onclick="switchMode('national')">🇮🇳 India (National)</button>
+            <button class="mode-btn" onclick="switchMode('international')">🌍 International</button>
+            <button class="mode-btn" onclick="switchMode('state')">🏛️ UP Focus (Top 50)</button>
         </div>
     </header>
 
-    <section id="filter-section" class="filters hidden">
-        <div class="filter-wrapper">
-            <label>Filter District:</label>
-            <select id="district-select">
+    <section class="controls" id="filter-bar">
+        <div class="filter-group">
+            <label>District:</label>
+            <select id="district-filter">
                 <option value="All">All Districts</option>
-                </select>
+            </select>
         </div>
-        <div class="filter-wrapper">
-            <label>Category:</label>
-            <select id="category-select">
-                <option value="All">All Categories</option>
-                <option value="Governance">Governance & Dev</option>
-                <option value="Opposition">Opposition Activity</option>
-                <option value="Government">Govt Decisions</option>
-                <option value="Judicial">Courts & Legal</option>
+        <div class="filter-group">
+            <label>Topic:</label>
+            <select id="category-filter">
+                <option value="All">All Topics</option>
+                <option value="Governance">Governance</option>
+                <option value="Judicial">Judicial</option>
+                <option value="Opposition">Opposition</option>
+                <option value="Government">Government</option>
             </select>
         </div>
     </section>
 
-    <main class="container">
-        <div id="news-grid" class="grid">
-            <div class="loader">Fetching latest news...</div>
-        </div>
+    <main id="news-grid" class="grid-container">
+        <div class="loader">Loading Intelligence...</div>
     </main>
 
     <script src="script.js"></script>
