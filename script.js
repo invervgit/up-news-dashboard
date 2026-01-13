@@ -1,139 +1,130 @@
-let allNews = [];
-let currentView = 'national'; // 'national' or 'state'
+let allStories = [];
+let currentMode = 'national';
 
 document.addEventListener('DOMContentLoaded', () => {
-    loadNews();
-
-    // Event Listeners for Filters
-    document.getElementById('district-select').addEventListener('change', renderNews);
-    document.getElementById('category-select').addEventListener('change', renderNews);
+    fetchData();
+    document.getElementById('district-filter').addEventListener('change', renderStories);
+    document.getElementById('category-filter').addEventListener('change', renderStories);
 });
 
-async function loadNews() {
+async function fetchData() {
     try {
         const response = await fetch('data/news.json');
-        if (!response.ok) throw new Error("Failed to load data");
+        if (!response.ok) throw new Error("Data not found");
+        allStories = await response.json();
         
-        allNews = await response.json();
-        
-        // Update Timestamp from the first story
-        if (allNews.length > 0) {
-            const latest = new Date(allNews[0].pubDate);
-            document.getElementById('last-updated').innerText = 
-                `Last Updated: ${latest.toLocaleDateString('en-IN')} ${latest.toLocaleTimeString('en-IN')}`;
+        if(allStories.length > 0) {
+            // Simply use the date string as provided by Python
+            const dateStr = new Date(allStories[0].pubDate).toLocaleString();
+            document.getElementById('last-updated').textContent = `Updated: ${dateStr}`;
         }
-
-        // Initial Render
-        setView('national');
-
+        
+        switchMode('national');
+        
     } catch (error) {
+        document.getElementById('news-grid').innerHTML = `<p style="text-align:center">Error loading data. Please wait for the next update cycle.</p>`;
         console.error(error);
-        document.getElementById('news-grid').innerHTML = 
-            `<div class="error">Data not found. Please ensure the GitHub Action has run successfully.</div>`;
     }
 }
 
-function setView(view) {
-    currentView = view;
+function switchMode(mode) {
+    currentMode = mode;
     
-    // Toggle Button Styles
-    document.getElementById('btn-national').classList.toggle('active', view === 'national');
-    document.getElementById('btn-state').classList.toggle('active', view === 'state');
-    
-    // Toggle Filter Visibility
-    const filterSection = document.getElementById('filter-section');
-    if (view === 'state') {
-        filterSection.classList.remove('hidden');
+    // Update Buttons
+    document.querySelectorAll('.mode-btn').forEach(btn => btn.classList.remove('active'));
+    // Find button with specific onclick text to add active class
+    const buttons = document.querySelectorAll('.mode-btn');
+    if(mode === 'national') buttons[0].classList.add('active');
+    if(mode === 'international') buttons[1].classList.add('active');
+    if(mode === 'state') buttons[2].classList.add('active');
+
+    // Toggle Filters Visibility
+    const filterBar = document.getElementById('filter-bar');
+    if (mode === 'state') {
+        filterBar.style.display = 'flex';
         populateDistricts();
     } else {
-        filterSection.classList.add('hidden');
+        filterBar.style.display = 'none';
     }
 
-    renderNews();
+    renderStories();
 }
 
 function populateDistricts() {
-    const select = document.getElementById('district-select');
-    select.innerHTML = '<option value="All">All Districts</option>';
+    const districtSelect = document.getElementById('district-filter');
+    districtSelect.innerHTML = '<option value="All">All Districts</option>';
     
-    // Get unique districts from State news only
-    const districts = [...new Set(
-        allNews.filter(n => n.scope === 'state').map(n => n.district)
-    )].sort();
+    const stateStories = allStories.filter(s => s.scope === 'state');
+    const districts = [...new Set(stateStories.map(s => s.district))].sort();
     
     districts.forEach(d => {
-        if (d && d !== 'Uttar Pradesh') {
+        if (d && d !== 'Uttar Pradesh' && d !== 'General') {
             const opt = document.createElement('option');
             opt.value = d;
             opt.textContent = d;
-            select.appendChild(opt);
+            districtSelect.appendChild(opt);
         }
     });
 }
 
-function renderNews() {
+function renderStories() {
     const grid = document.getElementById('news-grid');
     grid.innerHTML = '';
 
-    // 1. Filter by Scope (National vs State)
-    let filtered = allNews.filter(n => n.scope === currentView);
+    // 1. Filter by Mode
+    let filtered = allStories.filter(s => s.scope === currentMode);
 
-    // 2. Apply Filters (Only for State view)
-    if (currentView === 'state') {
-        const distFilter = document.getElementById('district-select').value;
-        const catFilter = document.getElementById('category-select').value;
+    // 2. Apply UP Specific Filters
+    if (currentMode === 'state') {
+        const distFilter = document.getElementById('district-filter').value;
+        const catFilter = document.getElementById('category-filter').value;
 
         if (distFilter !== 'All') {
-            filtered = filtered.filter(n => n.district === distFilter);
+            filtered = filtered.filter(s => s.district === distFilter);
         }
         if (catFilter !== 'All') {
-            filtered = filtered.filter(n => n.category === catFilter);
+            filtered = filtered.filter(s => s.category.includes(catFilter));
         }
         
-        // Limit to Top 50 as requested
-        filtered = filtered.slice(0, 50);
+        filtered = filtered.slice(0, 50); // Top 50 Limit
     } else {
-        // Limit National to Top 30
-        filtered = filtered.slice(0, 30);
+        // Limit for National/International to keep page light
+        filtered = filtered.slice(0, 40);
     }
 
     if (filtered.length === 0) {
-        grid.innerHTML = '<div class="empty">No news found for this selection.</div>';
+        grid.innerHTML = '<p style="text-align:center; grid-column: 1/-1;">No stories found.</p>';
         return;
     }
 
-    // Render Cards
     filtered.forEach(item => {
-        const dateStr = new Date(item.pubDate).toLocaleTimeString('en-IN', {
-            hour: '2-digit', minute: '2-digit'
-        });
-        
-        // Define color borders based on category
-        let borderColor = '#ccc';
-        if(item.category === 'Government') borderColor = '#f39c12';
-        if(item.category === 'Opposition') borderColor = '#e74c3c';
-        if(item.category === 'Governance') borderColor = '#2ecc71';
-        if(item.category === 'Judicial') borderColor = '#3498db';
+        const dateObj = new Date(item.pubDate);
+        const timeStr = dateObj.toLocaleTimeString('en-IN', {hour: '2-digit', minute:'2-digit'});
+        const catClass = `cat-${item.category.toLowerCase().split(' ')[0]}`;
 
         const card = document.createElement('div');
-        card.className = 'card';
-        card.style.borderLeft = `5px solid ${borderColor}`;
+        card.className = `news-card ${catClass}`;
         
+        // Tags Logic
+        let tagsHtml = `<span class="tag">${item.category}</span>`;
+        if (currentMode === 'state') {
+            tagsHtml += `<span class="tag">${item.district}</span>`;
+        }
+
         card.innerHTML = `
-            <div class="card-meta">
-                <span class="source">${item.source}</span>
-                <span class="time">${dateStr}</span>
+            <div class="meta">
+                <span>${item.source}</span>
+                <span>${timeStr}</span>
             </div>
             <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
-            <p>${item.summary}</p>
-            <div class="card-tags">
-                ${currentView === 'state' ? `<span class="tag district">${item.district}</span>` : ''}
-                <span class="tag cat">${item.category}</span>
+            <p class="summary">${item.summary}</p>
+            <div class="footer">
+                ${tagsHtml}
             </div>
         `;
         grid.appendChild(card);
     });
 }
 
-// Global scope for onclick handlers
-window.setView = setView;
+// Global Hook
+window.switchMode = switchMode;
