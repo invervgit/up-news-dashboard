@@ -1,226 +1,142 @@
+/* Base Styles */
 :root {
     --primary: #2c3e50;
     --accent: #e74c3c;
     --bg: #f5f7fa;
-    --card-bg: #ffffff;
-    --text-head: #2c3e50;
-    --text-body: #4a4a4a;
+    --text-body: #333;
 }
 
-body {
-    font-family: 'Inter', sans-serif; /* UI Font */
-    background-color: var(--bg);
-    color: var(--text-body);
-    margin: 0;
-    padding: 0;
-}
+body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text-body); margin: 0; padding: 0; }
 
-/* Navbar */
-.navbar {
-    background: white;
-    padding: 1rem 2rem;
-    border-bottom: 1px solid #e0e0e0;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.logo { font-weight: 800; font-size: 1.4rem; color: var(--primary); letter-spacing: -0.5px; }
+/* Navbar & Hero */
+.navbar { background: white; padding: 1rem 2rem; border-bottom: 1px solid #ddd; display: flex; justify-content: space-between; align-items: center; }
+.logo { font-weight: 800; font-size: 1.4rem; color: var(--primary); }
 .logo span { color: var(--accent); }
-#last-updated { font-size: 0.8rem; color: #7f8c8d; font-weight: 600; }
+#last-updated { font-size: 0.8rem; color: #777; font-weight: 600; }
 
-/* Hero Section */
-.hero {
-    text-align: center;
-    padding: 3rem 1rem;
-    background: var(--primary);
-    color: white;
-    background-image: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
-}
-.hero h1 { margin: 0 0 0.5rem 0; font-size: 2.2rem; font-family: 'Merriweather', serif; }
-.hero p { opacity: 0.8; font-size: 1rem; max-width: 600px; margin: 0 auto 2rem auto; font-family: 'Inter', sans-serif; }
+.hero { text-align: center; padding: 2rem 1rem; background: var(--primary); color: white; }
+.hero h1 { margin: 0; font-size: 2rem; }
+.hero p { opacity: 0.8; font-size: 0.9rem; margin-bottom: 1.5rem; }
 
-/* Mode Switcher */
-.mode-switcher { display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; }
+/* Buttons */
+.mode-switcher { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
 .mode-btn {
-    padding: 10px 24px;
-    border: 1px solid rgba(255,255,255,0.2);
+    padding: 8px 20px;
+    border: 1px solid rgba(255,255,255,0.3);
     background: rgba(255,255,255,0.1);
     color: white;
-    border-radius: 6px;
+    border-radius: 5px;
     cursor: pointer;
     font-weight: 600;
-    font-size: 0.95rem;
-    transition: all 0.2s ease;
     font-family: 'Inter', sans-serif;
+    transition: all 0.2s;
 }
 .mode-btn:hover { background: rgba(255,255,255,0.2); }
-.mode-btn.active { background: white; color: var(--primary); border-color: white; box-shadow: 0 4px 12px rgba(0,0,0,0.2); }
+.mode-btn.active { background: white; color: var(--primary); border-color: white; }
 
-/* Filters */
-.controls {
-    padding: 1rem 2rem;
-    background: white;
-    border-bottom: 1px solid #eee;
-    display: none; /* Hidden by default */
-    justify-content: center;
-    gap: 20px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.02);
-}
-.filter-group { display: flex; align-items: center; gap: 8px; font-size: 0.9rem; font-weight: 600; color: #555; }
-select { padding: 8px 12px; border: 1px solid #ddd; border-radius: 4px; font-family: 'Inter', sans-serif; color: #333; }
+/* Filters & Controls */
+.controls { background: white; padding: 10px 2rem; border-bottom: 1px solid #eee; display: flex; justify-content: center; gap: 20px; }
+.dashboard-controls { justify-content: space-between; align-items: center; }
+select { padding: 5px 10px; border-radius: 4px; border: 1px solid #ccc; }
+.pdf-btn { background: #e74c3c; color: white; border: none; padding: 8px 16px; border-radius: 4px; font-weight: 600; cursor: pointer; }
 
-/* Grid */
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
-    gap: 25px;
-    padding: 2rem;
-    max-width: 1400px;
-    margin: 0 auto;
-}
+/* Grid View (Standard) */
+.grid-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; padding: 20px; max-width: 1200px; margin: 0 auto; }
+.news-card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-left: 4px solid #ccc; }
+.news-card h3 { margin: 5px 0 10px 0; font-size: 1.1rem; }
+.news-card a { color: #2c3e50; text-decoration: none; }
+.cat-Judicial { border-color: #9b59b6; }
+.cat-Govt { border-color: #27ae60; }
+.cat-Opposition { border-color: #c0392b; }
+.meta { font-size: 0.75rem; color: #999; display: flex; justify-content: space-between; margin-bottom: 5px; }
 
-/* News Card */
-.news-card {
-    background: var(--card-bg);
-    border-radius: 8px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
-    padding: 1.5rem;
-    transition: transform 0.2s, box-shadow 0.2s;
-    border-left: 4px solid transparent;
-    display: flex;
-    flex-direction: column;
-}
-.news-card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(0,0,0,0.12); }
-
-/* Category Colors */
-.cat-judicial { border-left-color: #9b59b6; }
-.cat-governance { border-left-color: #2ecc71; }
-.cat-opposition { border-left-color: #e74c3c; }
-.cat-government { border-left-color: #f39c12; }
-.cat-general { border-left-color: #95a5a6; }
-
-.meta {
-    font-size: 0.75rem;
-    color: #95a5a6;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    margin-bottom: 0.8rem;
-    font-weight: 600;
-    display: flex;
-    justify-content: space-between;
-}
-
-h3 { margin: 0 0 0.8rem 0; font-size: 1.15rem; line-height: 1.5; font-family: 'Merriweather', serif; }
-h3 a { color: var(--text-head); text-decoration: none; transition: color 0.2s; }
-h3 a:hover { color: var(--accent); }
-
-.summary {
-    font-size: 0.95rem;
-    color: #555;
-    line-height: 1.6;
-    margin-bottom: 1rem;
-    flex-grow: 1;
-    font-family: 'Merriweather', serif; /* Better reading font */
-}
-
-.footer { margin-top: auto; padding-top: 1rem; border-top: 1px solid #f0f0f0; display: flex; gap: 8px; }
-.tag {
-    display: inline-block;
-    padding: 3px 8px;
-    background: #f4f6f8;
-    border-radius: 4px;
-    font-size: 0.75rem;
-    color: #666;
-    font-weight: 500;
-    border: 1px solid #ebebeb;
-}
-
-/* Existing styles remain... ADD THESE NEW STYLES */
-
-/* Special Dashboard Button */
-.special-dash-btn {
-    background-color: #2c3e50;
-    border-color: #f1c40f;
-    color: #f1c40f;
-    font-weight: 700;
-}
-.special-dash-btn.active {
-    background-color: #f1c40f;
-    color: #2c3e50;
-}
-
-/* Dashboard Controls */
-.dashboard-controls {
-    display: flex;
-    justify-content: space-between;
-    background: #fff;
-    padding: 15px 30px;
-    border-bottom: 1px solid #ddd;
-    align-items: center;
-}
-
-.pdf-btn {
-    background: #e74c3c;
-    color: white;
-    border: none;
-    padding: 10px 20px;
-    border-radius: 5px;
-    font-weight: 600;
-    cursor: pointer;
-    font-family: 'Inter', sans-serif;
-}
-.pdf-btn:hover { background: #c0392b; }
-
-/* REPORT CONTAINER (The Paper Look) */
+/* --- EXECUTIVE REPORT STYLES (PDF Targeted) --- */
 .report-container {
     background: white;
-    max-width: 850px; /* A4 width approx */
-    margin: 30px auto;
-    padding: 40px;
+    width: 210mm; /* A4 Width */
+    min-height: 297mm; /* A4 Height */
+    margin: 20px auto;
+    padding: 10mm; /* Visual padding for web view */
     box-shadow: 0 0 15px rgba(0,0,0,0.1);
-    min-height: 800px;
+    position: relative;
+    font-family: 'Karma', serif; /* Requested Font */
 }
 
-.report-header { text-align: center; margin-bottom: 30px; }
-.report-header h2 { font-family: 'Merriweather', serif; color: #2c3e50; font-size: 24px; margin-bottom: 5px; }
-.report-header p { color: #7f8c8d; font-size: 14px; }
-
-/* Report Tables */
-.pdf-section { margin-bottom: 30px; page-break-inside: avoid; }
-.pdf-section h3 { 
-    background: #f4f6f8; 
-    padding: 8px 15px; 
-    border-left: 5px solid #2c3e50; 
-    color: #2c3e50; 
-    font-family: 'Inter', sans-serif;
-    font-size: 16px;
-    margin-bottom: 10px;
+/* Watermark (Internal Use Only) */
+.pdf-watermark {
+    position: absolute;
+    top: 5mm;
+    right: 10mm;
+    font-style: italic;
+    font-size: 10px;
+    color: #555;
+    /* CSS hack to repeat on pages for print is tricky, 
+       html2pdf handles this better by taking a snapshot */
 }
 
+.report-header { text-align: center; margin-bottom: 20px; }
+.report-header h2 { font-size: 24px; font-weight: 700; margin: 0; color: #000; }
+.report-header p { font-size: 14px; margin: 5px 0 0 0; color: #555; }
+
+/* Section Headers */
+.pdf-section { 
+    margin-bottom: 25px; 
+    page-break-inside: avoid; /* Keeps headers with at least some content */
+}
+.pdf-section h3 {
+    font-size: 16px; /* User Request */
+    font-weight: 700;
+    color: #fff;
+    background-color: #2c3e50; /* Distinct Header BG */
+    padding: 6px 12px;
+    margin: 0 0 15px 0;
+    border-radius: 4px;
+    -webkit-print-color-adjust: exact; /* Force print bg color */
+}
+
+/* Table Style Report */
 .report-table { width: 100%; border-collapse: collapse; }
+.report-table tr { break-inside: avoid; }
 .report-table td { 
-    padding: 10px 5px; 
-    border-bottom: 1px solid #eee; 
-    vertical-align: top; 
-}
-.col-text { width: 85%; }
-.col-link { width: 15%; text-align: right; font-size: 12px; }
-
-.col-text strong { color: #333; font-size: 14px; display: block; margin-bottom: 3px; }
-.pdf-summary { font-size: 13px; color: #555; line-height: 1.5; font-family: 'Merriweather', serif; display: block; }
-.col-link a { color: #3498db; text-decoration: none; font-weight: 600; }
-
-.report-footer { 
-    margin-top: 50px; 
-    text-align: center; 
-    font-size: 11px; 
-    color: #aaa; 
-    border-top: 1px solid #eee; 
-    padding-top: 10px; 
+    padding: 8px 0; 
+    border-bottom: none; /* No separator lines requested */
+    vertical-align: top;
 }
 
-/* Print specific fixes for PDF generation */
+/* Typography per request */
+.news-title {
+    font-size: 14px; /* User Request */
+    font-weight: 700;
+    color: #000;
+    display: block;
+    margin-bottom: 4px;
+}
+.news-summary {
+    font-size: 12px; /* User Request */
+    color: #333;
+    font-weight: 400;
+    line-height: 1.4;
+    display: block;
+}
+.source-link a {
+    font-size: 11px;
+    color: #e74c3c;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.report-footer {
+    margin-top: 30px;
+    text-align: center;
+    font-size: 10px;
+    color: #777;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+}
+
+/* Print/PDF Tweaks */
 @media print {
-    .report-container { box-shadow: none; margin: 0; }
-    .pdf-section { page-break-inside: avoid; }
+    body { background: white; }
+    .navbar, .hero, .controls { display: none; }
+    .report-container { box-shadow: none; margin: 0; padding: 0; width: 100%; }
 }
