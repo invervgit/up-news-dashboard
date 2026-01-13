@@ -134,3 +134,93 @@ h3 a:hover { color: var(--accent); }
     font-weight: 500;
     border: 1px solid #ebebeb;
 }
+
+/* Existing styles remain... ADD THESE NEW STYLES */
+
+/* Special Dashboard Button */
+.special-dash-btn {
+    background-color: #2c3e50;
+    border-color: #f1c40f;
+    color: #f1c40f;
+    font-weight: 700;
+}
+.special-dash-btn.active {
+    background-color: #f1c40f;
+    color: #2c3e50;
+}
+
+/* Dashboard Controls */
+.dashboard-controls {
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    padding: 15px 30px;
+    border-bottom: 1px solid #ddd;
+    align-items: center;
+}
+
+.pdf-btn {
+    background: #e74c3c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: 'Inter', sans-serif;
+}
+.pdf-btn:hover { background: #c0392b; }
+
+/* REPORT CONTAINER (The Paper Look) */
+.report-container {
+    background: white;
+    max-width: 850px; /* A4 width approx */
+    margin: 30px auto;
+    padding: 40px;
+    box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    min-height: 800px;
+}
+
+.report-header { text-align: center; margin-bottom: 30px; }
+.report-header h2 { font-family: 'Merriweather', serif; color: #2c3e50; font-size: 24px; margin-bottom: 5px; }
+.report-header p { color: #7f8c8d; font-size: 14px; }
+
+/* Report Tables */
+.pdf-section { margin-bottom: 30px; page-break-inside: avoid; }
+.pdf-section h3 { 
+    background: #f4f6f8; 
+    padding: 8px 15px; 
+    border-left: 5px solid #2c3e50; 
+    color: #2c3e50; 
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.report-table { width: 100%; border-collapse: collapse; }
+.report-table td { 
+    padding: 10px 5px; 
+    border-bottom: 1px solid #eee; 
+    vertical-align: top; 
+}
+.col-text { width: 85%; }
+.col-link { width: 15%; text-align: right; font-size: 12px; }
+
+.col-text strong { color: #333; font-size: 14px; display: block; margin-bottom: 3px; }
+.pdf-summary { font-size: 13px; color: #555; line-height: 1.5; font-family: 'Merriweather', serif; display: block; }
+.col-link a { color: #3498db; text-decoration: none; font-weight: 600; }
+
+.report-footer { 
+    margin-top: 50px; 
+    text-align: center; 
+    font-size: 11px; 
+    color: #aaa; 
+    border-top: 1px solid #eee; 
+    padding-top: 10px; 
+}
+
+/* Print specific fixes for PDF generation */
+@media print {
+    .report-container { box-shadow: none; margin: 0; }
+    .pdf-section { page-break-inside: avoid; }
+}
