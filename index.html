@@ -3,51 +3,49 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PoliticalIntel: Dashboard</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
+    <title>Executive Intelligence Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@300;400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <nav class="navbar">
-        <div class="logo">Political<span>Intel</span></div>
-        <div class="nav-links">
+        <div class="logo">Political<span>Intel</span> <span class="badge-exec">Executive View</span></div>
+        <div class="nav-actions">
             <span id="last-updated">Updating...</span>
         </div>
     </nav>
 
-    <header class="hero">
-        <h1>Intelligence Dashboard</h1>
-        <p>Real-time tracking of National developments, Global events, and Uttar Pradesh governance.</p>
+    <div class="tab-container">
+        <button class="tab-btn active" onclick="switchTab('dashboard')">📊 Dashboard</button>
+        <button class="tab-btn" onclick="switchTab('international')">🌍 International</button>
+        <button class="tab-btn" onclick="switchTab('national')">🇮🇳 National</button>
+        <button class="tab-btn" onclick="switchTab('up-focus')">🏛️ UP Focus</button>
+    </div>
+
+    <div id="date-control-panel" class="date-panel">
+        <label>Report Date:</label>
+        <select id="report-date-select" onchange="renderDashboard()">
+            </select>
+        <span class="hint">(Showing last 7 days history)</span>
+    </div>
+
+    <main class="content-wrapper">
         
-        <div class="mode-switcher">
-            <button class="mode-btn active" onclick="switchMode('national')">🇮🇳 India (National)</button>
-            <button class="mode-btn" onclick="switchMode('international')">🌍 International</button>
-            <button class="mode-btn" onclick="switchMode('state')">🏛️ UP Focus (Top 50)</button>
+        <div id="view-dashboard" class="view-section">
+            <div id="report-container">
+                <div class="loader">Generating Daily Briefing...</div>
+            </div>
         </div>
-    </header>
 
-    <section class="controls" id="filter-bar">
-        <div class="filter-group">
-            <label>District:</label>
-            <select id="district-filter">
-                <option value="All">All Districts</option>
-            </select>
+        <div id="view-grid" class="view-section hidden">
+            <div id="grid-filters" class="controls hidden">
+                <select id="district-filter"><option value="All">All Districts</option></select>
+            </div>
+            <div id="news-grid" class="grid-container">
+                </div>
         </div>
-        <div class="filter-group">
-            <label>Topic:</label>
-            <select id="category-filter">
-                <option value="All">All Topics</option>
-                <option value="Governance">Governance</option>
-                <option value="Judicial">Judicial</option>
-                <option value="Opposition">Opposition</option>
-                <option value="Government">Government</option>
-            </select>
-        </div>
-    </section>
 
-    <main id="news-grid" class="grid-container">
-        <div class="loader">Loading Intelligence...</div>
     </main>
 
     <script src="script.js"></script>
