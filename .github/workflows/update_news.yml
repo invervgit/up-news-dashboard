@@ -5,6 +5,11 @@ on:
     - cron: '30 */4 * * *' # Run every 4 hours
   workflow_dispatch:      # Allow manual run
 
+# --- NEW: Fix for "In Progress" Error ---
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 permissions:
   contents: write
   pages: write
@@ -39,7 +44,6 @@ jobs:
         # Only commit if data/news.json has changed
         git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update news data" && git push)
 
-    # --- FIX FOR TIMEOUT ERROR ---
     - name: Prepare Deployment Artifact
       run: |
         mkdir -p _site
@@ -47,8 +51,9 @@ jobs:
         cp style.css _site/
         cp script.js _site/
         cp -r data _site/
-        # This file tells GitHub Pages NOT to run Jekyll, fixing the timeout
-        touch _site/.nojekyll 
+        # Favicon logic (if present)
+        # Fix for Timeout Error
+        touch _site/.nojekyll
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
