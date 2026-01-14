@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
-PoliticalIntel Backend v3.2 - Clean & Report Optimized
+PoliticalIntel Backend v3.4 - Full Summaries & Clean Logic
 Features:
-- Filters out 'Watch:', 'Quiz:', 'Viral' news.
+- Filters out 'Watch:', 'Quiz:', 'Viral' junk.
+- Retains FULL summaries (No character truncation).
 - 7-Day History.
-- Report Categorization.
 """
 
 import json
@@ -48,20 +48,19 @@ UP_FEEDS = [
 # --- LOGIC ---
 
 def is_junk_title(title: str) -> bool:
-    """Returns True if title contains unwanted prefixes/topics."""
     junk_triggers = [
         "watch:", "video:", "daily quiz", "quiz:", "horoscope", "web story", 
-        "web stories", "reels", "viral video", "must watch", "check list"
+        "web stories", "reels", "viral video", "must watch", "check list", 
+        "morning briefing", "top news"
     ]
     t_lower = title.lower()
     for trigger in junk_triggers:
-        if trigger in t_lower:
-            return True
+        if trigger in t_lower: return True
     return False
 
 def get_report_category(title: str, summary: str) -> str:
     blob = (title + " " + summary).lower()
-    judicial_kw = ["supreme court", "high court", "bench", "verdict", "hearing", "cji", "chandrachud", "bail", "petition", "court", "sc", "hc", "अदालत", "कोर्ट", "फैसला", "याचिका", "सुप्रीम कोर्ट"]
+    judicial_kw = ["supreme court", "high court", "bench", "verdict", "hearing", "cji", "chandrachud", "bail", "petition", "court", "sc", "hc", "अदालत", "कोर्ट", "फैसला", "याचिका"]
     if any(k in blob for k in judicial_kw): return "National_Judicial"
         
     govt_kw = ["cabinet", "modi", "pm", "minister", "bill", "act", "parliament", "scheme", "yojana", "mandate", "govt", "government", "center", "centre", "inaugurate", "launch", "policy", "project", "highway", "railway", "vande bharat", "budget", "finance", "defense", "isro", "drdo", "president", "प्रधानमंत्री", "मोदी", "योगी", "सरकार", "योजना", "परियोजना", "बिल", "संसद", "कैबिनेट"]
@@ -99,11 +98,7 @@ def fetch_rss(feed_config, section):
         
         for item in items:
             title = aggressive_clean(item.find("title").get_text())
-            
-            # --- JUNK FILTER ---
-            if is_junk_title(title):
-                continue
-            # -------------------
+            if is_junk_title(title): continue # SKIP JUNK
 
             link = item.find("link").get_text()
             desc = item.find("description").get_text() if item.find("description") else ""
@@ -115,11 +110,14 @@ def fetch_rss(feed_config, section):
             elif section == "International": category = "International"
             elif section == "UP_Focus": category = "UP_Focus"
 
+            # FULL SUMMARY (No Truncation)
+            full_summary = summary
+
             stories.append({
                 "id": hashlib.md5(link.encode()).hexdigest(),
                 "title": title,
                 "link": link,
-                "summary": summary[:300] + "..." if len(summary) > 300 else summary,
+                "summary": full_summary,
                 "date": parse_date(pub_date_raw),
                 "timestamp": pub_date_raw,
                 "section": section,
@@ -135,10 +133,8 @@ def fetch_rss(feed_config, section):
 def main():
     data_file = "data/news.json"
     existing_data = []
-    
     import pathlib
     pathlib.Path("data").mkdir(exist_ok=True)
-    
     if os.path.exists(data_file):
         try:
             with open(data_file, "r", encoding="utf-8") as f:
@@ -152,8 +148,7 @@ def main():
         
     combined_map = {}
     for item in existing_data:
-        if isinstance(item, dict) and 'id' in item:
-            combined_map[item['id']] = item
+        if isinstance(item, dict) and 'id' in item: combined_map[item['id']] = item
     for item in new_data:
         combined_map[item['id']] = item 
         
