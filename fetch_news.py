@@ -1,11 +1,16 @@
 #!/usr/bin/env python3
 """
-PoliticalIntel Backend v3.6 - Clean Syntax & Logic
+PoliticalIntel Backend v3.7 - High Success Rate
+Features:
+- Real Browser User-Agent (Fixes 403 Forbidden).
+- Dual Parser Strategy (XML + HTML Fallback).
+- Detailed Error Logging.
 """
 
 import json
 import hashlib
 import os
+import time
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 import requests
@@ -43,11 +48,7 @@ UP_FEEDS = [
 # --- LOGIC ---
 
 def is_junk_title(title: str) -> bool:
-    junk_triggers = [
-        "watch:", "video:", "daily quiz", "quiz:", "horoscope", "web story", 
-        "web stories", "reels", "viral video", "must watch", "check list", 
-        "morning briefing", "top news"
-    ]
+    junk_triggers = ["watch:", "video:", "daily quiz", "quiz:", "horoscope", "web story", "reels", "viral", "check list"]
     t_lower = title.lower()
     for trigger in junk_triggers:
         if trigger in t_lower: return True
@@ -55,24 +56,17 @@ def is_junk_title(title: str) -> bool:
 
 def get_report_category(title: str, summary: str) -> str:
     blob = (title + " " + summary).lower()
-    judicial_kw = ["supreme court", "high court", "bench", "verdict", "hearing", "cji", "chandrachud", "bail", "petition", "court", "sc", "hc", "अदालत", "कोर्ट", "फैसला", "याचिका"]
-    if any(k in blob for k in judicial_kw): return "National_Judicial"
-        
-    govt_kw = ["cabinet", "modi", "pm", "minister", "bill", "act", "parliament", "scheme", "yojana", "mandate", "govt", "government", "center", "centre", "inaugurate", "launch", "policy", "project", "highway", "railway", "vande bharat", "budget", "finance", "defense", "isro", "drdo", "president", "प्रधानमंत्री", "मोदी", "योगी", "सरकार", "योजना", "परियोजना", "बिल", "संसद", "कैबिनेट"]
-    if any(k in blob for k in govt_kw): return "National_Govt"
-        
-    opp_kw = ["congress", "rahul", "gandhi", "kharge", "protest", "allegation", "slam", "attack", "sp", "samajwadi", "akhilesh", "yatra", "demand", "resignation", "tmc", "mamata", "aadmi party", "kejriwal", "opposition", "walkout", "dharna", "विपक्ष", "कांग्रेस", "राहुल", "सपा", "अखिलेश", "प्रदर्शन", "आरोप"]
-    if any(k in blob for k in opp_kw): return "National_Opposition"
-    
+    if any(k in blob for k in ["supreme court", "high court", "verdict", "hearing", "bail", "court", "sc", "hc", "अदालत", "फैसला"]): return "National_Judicial"
+    if any(k in blob for k in ["cabinet", "modi", "pm", "minister", "bill", "scheme", "yojana", "govt", "government", "policy", "project", "budget", "drdo", "isro", "प्रधानमंत्री", "सरकार", "योजना"]): return "National_Govt"
+    if any(k in blob for k in ["congress", "rahul", "protest", "allegation", "slam", "sp", "akhilesh", "demand", "opposition", "dharna", "विपक्ष", "आरोप"]): return "National_Opposition"
     return "National_General"
 
 def aggressive_clean(text: str) -> str:
     if not text: return ""
     soup = BeautifulSoup(text, "html.parser")
     text = soup.get_text(separator=" ", strip=True)
-    patterns = [r"Link Copied", r"Also Read", r"Read More", r"Click Here", r"Follow us.*", r"Subscribe.*", r"Watch Video", r"Live Updates", r"Details inside", r"Check here", r"Posted by.*", r"Updated:.*", r"My City", r"Advertisement", r"Get all India News.*"]
-    for p in patterns:
-        text = re.sub(p, "", text, flags=re.IGNORECASE)
+    patterns = [r"Link Copied", r"Also Read", r"Read More", r"Click Here", r"Follow us.*", r"Subscribe.*", r"Watch Video", r"Details inside", r"Updated:.*", r"Advertisement"]
+    for p in patterns: text = re.sub(p, "", text, flags=re.IGNORECASE)
     return re.sub(r'\s+', ' ', text).strip()
 
 def parse_date(date_str: str) -> str:
@@ -84,35 +78,65 @@ def parse_date(date_str: str) -> str:
 
 def fetch_rss(feed_config, section):
     stories = []
-    headers = {"User-Agent": "Mozilla/5.0"}
+    # Real Browser User-Agent to avoid 403 Forbidden
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.5",
+        "Connection": "keep-alive"
+    }
+    
     try:
-        resp = requests.get(feed_config['url'], headers=headers, timeout=10)
-        if resp.status_code != 200: return []
-        soup = BeautifulSoup(resp.content, "xml")
-        items = soup.find_all("item")
+        # 1. Fetch
+        resp = requests.get(feed_config['url'], headers=headers, timeout=15)
+        
+        # 2. Check Status
+        if resp.status_code != 200:
+            print(f"❌ Failed {resp.status_code}: {feed_config['url']}")
+            return []
+            
+        # 3. Parse (Try XML first, then HTML fallback)
+        try:
+            soup = BeautifulSoup(resp.content, "xml")
+            items = soup.find_all("item")
+        except:
+            soup = BeautifulSoup(resp.content, "html.parser")
+            items = soup.find_all("item")
+
+        if not items:
+            print(f"⚠️ No items found in: {feed_config['url']}")
+            return []
+
+        print(f"✅ Success: {len(items)} items from {feed_config['source']}")
         
         for item in items:
-            title = aggressive_clean(item.find("title").get_text())
+            title_tag = item.find("title")
+            link_tag = item.find("link")
+            
+            if not title_tag or not link_tag: continue
+            
+            title = aggressive_clean(title_tag.get_text())
             if is_junk_title(title): continue 
 
-            link = item.find("link").get_text()
-            desc = item.find("description").get_text() if item.find("description") else ""
+            link = link_tag.get_text()
+            
+            desc_tag = item.find("description")
+            desc = desc_tag.get_text() if desc_tag else ""
             summary = aggressive_clean(desc)
-            pub_date_raw = item.find("pubDate").get_text() if item.find("pubDate") else ""
+            
+            pub_date_tag = item.find("pubDate")
+            pub_date_raw = pub_date_tag.get_text() if pub_date_tag else ""
             
             category = "General"
             if section == "National": category = get_report_category(title, summary)
             elif section == "International": category = "International"
             elif section == "UP_Focus": category = "UP_Focus"
 
-            # FULL SUMMARY KEPT
-            full_summary = summary
-
             stories.append({
                 "id": hashlib.md5(link.encode()).hexdigest(),
                 "title": title,
                 "link": link,
-                "summary": full_summary,
+                "summary": summary, # Full summary kept
                 "date": parse_date(pub_date_raw),
                 "timestamp": pub_date_raw,
                 "section": section,
@@ -122,14 +146,19 @@ def fetch_rss(feed_config, section):
                 "lang": feed_config.get('lang', 'en')
             })
     except Exception as e:
-        print(f"Error {feed_config['url']}: {e}")
+        print(f"🔥 Error processing {feed_config['url']}: {e}")
+    
+    # Polite delay
+    time.sleep(1) 
     return stories
 
 def main():
     data_file = "data/news.json"
     existing_data = []
+    
     import pathlib
     pathlib.Path("data").mkdir(exist_ok=True)
+    
     if os.path.exists(data_file):
         try:
             with open(data_file, "r", encoding="utf-8") as f:
@@ -137,28 +166,37 @@ def main():
         except: existing_data = []
             
     new_data = []
-    print("Fetching International...")
+    print("\n--- Starting Fetch ---")
     for feed in INTERNATIONAL_FEEDS: new_data.extend(fetch_rss(feed, "International"))
-    print("Fetching National...")
     for feed in NATIONAL_FEEDS: new_data.extend(fetch_rss(feed, "National"))
-    print("Fetching UP Focus...")
     for feed in UP_FEEDS: new_data.extend(fetch_rss(feed, "UP_Focus"))
+    print("--- Fetch Complete ---\n")
         
     combined_map = {}
-    # Robust logic to handle old/missing ID data
+    
+    # 1. Load Existing Data (Handle corrupted/old data safely)
     for item in existing_data:
-        if isinstance(item, dict) and 'id' in item: combined_map[item['id']] = item
+        if isinstance(item, dict) and 'id' in item:
+            combined_map[item['id']] = item
+            
+    # 2. Add New Data
     for item in new_data:
         combined_map[item['id']] = item 
         
     final_list = list(combined_map.values())
+    
+    # 3. Clean up old data (> 7 days)
     cutoff_date = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
     final_list = [x for x in final_list if x.get('date', '') >= cutoff_date]
+    
+    # 4. Sort
     final_list.sort(key=lambda x: x.get('timestamp', ''), reverse=True)
     
+    # 5. Save
     with open(data_file, "w", encoding="utf-8") as f:
         json.dump(final_list, f, ensure_ascii=False, indent=2)
-    print(f"Updated. Total: {len(final_list)}")
+        
+    print(f"🎉 Database Updated. Total Stories: {len(final_list)}")
 
 if __name__ == "__main__":
     main()
