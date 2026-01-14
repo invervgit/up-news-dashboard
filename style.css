@@ -1,4 +1,3 @@
-/* Base Styles */
 :root {
     --primary: #2c3e50;
     --accent: #e74c3c;
@@ -34,7 +33,7 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--tex
 .mode-btn:hover { background: rgba(255,255,255,0.2); }
 .mode-btn.active { background: white; color: var(--primary); border-color: white; }
 
-/* Filters & Controls */
+/* Filters */
 .controls { background: white; padding: 10px 2rem; border-bottom: 1px solid #eee; display: flex; justify-content: center; gap: 20px; }
 .dashboard-controls { justify-content: space-between; align-items: center; }
 select { padding: 5px 10px; border-radius: 4px; border: 1px solid #ccc; }
@@ -50,20 +49,18 @@ select { padding: 5px 10px; border-radius: 4px; border: 1px solid #ccc; }
 .cat-Opposition { border-color: #c0392b; }
 .meta { font-size: 0.75rem; color: #999; display: flex; justify-content: space-between; margin-bottom: 5px; }
 
-/* --- EXECUTIVE REPORT STYLES (Fixed Width for PDF) --- */
+/* --- REPORT STYLES (Fixed Width for PDF) --- */
 .report-container {
     background: white;
-    /* A4 Width minus padding approx */
-    width: 210mm; 
-    box-sizing: border-box;
+    width: 100%;
+    max-width: 800px; /* Limits width on screen to match PDF look */
     margin: 20px auto;
-    padding: 10mm 15mm; 
+    padding: 30px;
     box-shadow: 0 0 15px rgba(0,0,0,0.1);
     font-family: 'Karma', serif; 
-    text-align: left; /* Ensure default is left */
+    text-align: left;
 }
 
-/* Centered Header with strict margin auto */
 .report-header { 
     text-align: center; 
     margin: 0 auto 30px auto; 
@@ -72,7 +69,6 @@ select { padding: 5px 10px; border-radius: 4px; border: 1px solid #ccc; }
 .report-header h2 { font-size: 24px; font-weight: 700; margin: 0; color: #000; }
 .report-header p { font-size: 14px; margin: 5px 0 0 0; color: #555; }
 
-/* Section Headers */
 .pdf-section { 
     margin-bottom: 25px; 
     page-break-inside: avoid; 
@@ -88,7 +84,6 @@ select { padding: 5px 10px; border-radius: 4px; border: 1px solid #ccc; }
     -webkit-print-color-adjust: exact; 
 }
 
-/* Table Style Report */
 .report-table { width: 100%; border-collapse: collapse; }
 .report-table tr { break-inside: avoid; }
 .report-table td { 
@@ -97,42 +92,14 @@ select { padding: 5px 10px; border-radius: 4px; border: 1px solid #ccc; }
     vertical-align: top;
 }
 
-/* Content Formatting */
-.news-title {
-    font-size: 14px; 
-    font-weight: 700;
-    color: #000;
-    display: block;
-    margin-bottom: 4px;
-}
-.news-summary {
-    font-size: 12px; 
-    color: #333;
-    font-weight: 400;
-    line-height: 1.4;
-    display: block;
-}
-.source-link a {
-    font-size: 11px;
-    color: #e74c3c;
-    text-decoration: underline; /* Make it clear it's a link */
-    font-weight: 600;
-    cursor: pointer;
-}
+.news-title { font-size: 14px; font-weight: 700; color: #000; display: block; margin-bottom: 4px; }
+.news-summary { font-size: 12px; color: #333; font-weight: 400; line-height: 1.4; display: block; }
+.source-link a { font-size: 11px; color: #e74c3c; text-decoration: underline; font-weight: 600; cursor: pointer; }
 
-.report-footer {
-    margin-top: 30px;
-    text-align: center;
-    font-size: 10px;
-    color: #777;
-    border-top: 1px solid #eee;
-    padding-top: 10px;
-    width: 100%;
-}
+.report-footer { margin-top: 30px; text-align: center; font-size: 10px; color: #777; border-top: 1px solid #eee; padding-top: 10px; width: 100%; }
 
-/* Hides visual clutter when generating PDF */
 @media print {
     body { background: white; }
     .navbar, .hero, .controls { display: none; }
-    .report-container { box-shadow: none; margin: 0; padding: 0; width: 100%; }
+    .report-container { box-shadow: none; margin: 0; padding: 0; width: 100%; max-width: none; }
 }
