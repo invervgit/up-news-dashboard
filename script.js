@@ -1,5 +1,5 @@
 let allStories = [];
-let currentMode = 'national';
+let currentMode = 'international'; // Updated default
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchData();
@@ -19,7 +19,7 @@ async function fetchData() {
             const dateStr = new Date(allStories[0].timestamp).toLocaleDateString();
             document.getElementById('last-updated').textContent = `Updated: ${dateStr}`;
         }
-        switchMode('national');
+        switchMode('international'); // Default View
     } catch (error) {
         console.error(error);
     }
@@ -41,10 +41,10 @@ function switchMode(mode) {
     currentMode = mode;
     document.querySelectorAll('.mode-btn').forEach(btn => btn.classList.remove('active'));
     
-    // Simple index mapping based on HTML order
+    // REORDERED LOGIC
     const btns = document.querySelectorAll('.mode-btn');
-    if(mode === 'national') btns[0].classList.add('active');
-    if(mode === 'international') btns[1].classList.add('active');
+    if(mode === 'international') btns[0].classList.add('active');
+    if(mode === 'national') btns[1].classList.add('active');
     if(mode === 'state') btns[2].classList.add('active');
     if(mode === 'dashboard') btns[3].classList.add('active');
 
@@ -117,10 +117,11 @@ function renderDashboardReport() {
     const dailyNews = allStories.filter(s => s.date === selectedDate);
     if(dailyNews.length === 0) { content.innerHTML = "<p>No data.</p>"; return; }
 
-    const intl = dailyNews.filter(s => s.section === 'International').slice(0, 8);
-    const natGov = dailyNews.filter(s => s.report_category === 'National_Govt').slice(0, 25);
-    const opp = dailyNews.filter(s => s.report_category === 'National_Opposition').slice(0, 10);
-    const jud = dailyNews.filter(s => s.report_category === 'National_Judicial').slice(0, 7);
+    // REDUCED LIMITS for Conciseness (Max ~3 pages)
+    const intl = dailyNews.filter(s => s.section === 'International').slice(0, 5); // Reduced from 8
+    const natGov = dailyNews.filter(s => s.report_category === 'National_Govt').slice(0, 15); // Reduced from 25
+    const opp = dailyNews.filter(s => s.report_category === 'National_Opposition').slice(0, 5); // Reduced from 10
+    const jud = dailyNews.filter(s => s.report_category === 'National_Judicial').slice(0, 5); // Reduced from 7
 
     const generateSection = (title, items) => {
         if(items.length === 0) return '';
@@ -152,18 +153,31 @@ function renderDashboardReport() {
 
 function downloadPDF() {
     const element = document.getElementById('executive-report');
+    const filename = `Daily_Digest_${document.getElementById('report-date').value}.pdf`;
     
-    // User Settings applied here
     const opt = {
-        margin:       [0.25, 0.5, 0.25, 0.5], // Top, Left, Bottom, Right (in inches)
-        filename:     `Daily_Digest_${document.getElementById('report-date').value}.pdf`,
+        margin:       [0.25, 0.5, 0.25, 0.5], 
+        filename:     filename,
         image:        { type: 'jpeg', quality: 0.98 },
-        html2canvas:  { scale: 2 },
+        html2canvas:  { scale: 2, useCORS: true }, 
         jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' },
         pagebreak:    { mode: ['css', 'legacy'] }
     };
     
-    html2pdf().set(opt).from(element).save();
+    // PDF Generation with Header Callback
+    html2pdf().from(element).set(opt).toPdf().get('pdf').then(function(pdf) {
+        var totalPages = pdf.internal.getNumberOfPages();
+        for (i = 1; i <= totalPages; i++) {
+            pdf.setPage(i);
+            pdf.setFontSize(10);
+            pdf.setFont("helvetica", "italic");
+            pdf.setTextColor(100);
+            // Coordinates: (Right edge - margin, Top edge + margin)
+            // A4 width is approx 8.27in. 
+            // We place it at x=7.5in, y=0.3in approx
+            pdf.text('Internal Use Only', 7.0, 0.35); 
+        }
+    }).save();
 }
 
 window.switchMode = switchMode;
