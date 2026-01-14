@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "id": "system_alert",
+    "title": "⚠️ System Alert: Data Fetching Issue",
+    "link": "#",
+    "summary": "Unable to fetch news from external sources. Please check GitHub Actions logs for 403 errors.",
+    "date": "2026-01-14",
+    "timestamp": "Wed, 14 Jan 2026 14:19:13 +0000",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "System",
+    "district": "",
+    "lang": "en"
+  }
+]
