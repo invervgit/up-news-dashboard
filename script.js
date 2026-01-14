@@ -13,6 +13,7 @@ async function fetchData() {
         const response = await fetch('data/news.json');
         if (!response.ok) throw new Error("Data not found");
         allStories = await response.json();
+        
         if(allStories.length > 0) {
             populateDateDropdown();
             document.getElementById('last-updated').textContent = `Updated: ${new Date(allStories[0].timestamp).toLocaleDateString()}`;
@@ -98,7 +99,7 @@ function renderDashboardReport() {
     const dailyNews = allStories.filter(s => s.date === selectedDate);
     if(dailyNews.length === 0) { content.innerHTML = "<p>No data.</p>"; return; }
 
-    // LIMITS FOR CONCISE REPORT (Keeping full summary content)
+    // Concise Counts (5, 15, 5, 5) to fit ~3 pages
     const intl = dailyNews.filter(s => s.section === 'International').slice(0, 5);
     const natGov = dailyNews.filter(s => s.report_category === 'National_Govt').slice(0, 15);
     const opp = dailyNews.filter(s => s.report_category === 'National_Opposition').slice(0, 5);
@@ -139,7 +140,8 @@ function downloadPDF() {
             pdf.setFontSize(10);
             pdf.setFont("helvetica", "italic");
             pdf.setTextColor(100);
-            pdf.text('Internal Use Only', 7.0, 0.35); 
+            // Right Aligned Header
+            pdf.text('Internal Use Only', 6.5, 0.35); 
         }
     }).save();
 }
