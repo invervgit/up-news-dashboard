@@ -1,5 +1,5 @@
 let allStories = [];
-let currentMode = 'international'; // Updated default
+let currentMode = 'international';
 
 document.addEventListener('DOMContentLoaded', () => {
     fetchData();
@@ -13,16 +13,12 @@ async function fetchData() {
         const response = await fetch('data/news.json');
         if (!response.ok) throw new Error("Data not found");
         allStories = await response.json();
-        
         if(allStories.length > 0) {
             populateDateDropdown();
-            const dateStr = new Date(allStories[0].timestamp).toLocaleDateString();
-            document.getElementById('last-updated').textContent = `Updated: ${dateStr}`;
+            document.getElementById('last-updated').textContent = `Updated: ${new Date(allStories[0].timestamp).toLocaleDateString()}`;
         }
-        switchMode('international'); // Default View
-    } catch (error) {
-        console.error(error);
-    }
+        switchMode('international');
+    } catch (error) { console.error(error); }
 }
 
 function populateDateDropdown() {
@@ -40,13 +36,11 @@ function populateDateDropdown() {
 function switchMode(mode) {
     currentMode = mode;
     document.querySelectorAll('.mode-btn').forEach(btn => btn.classList.remove('active'));
-    
-    // REORDERED LOGIC
     const btns = document.querySelectorAll('.mode-btn');
-    if(mode === 'international') btns[0].classList.add('active');
-    if(mode === 'national') btns[1].classList.add('active');
-    if(mode === 'state') btns[2].classList.add('active');
-    if(mode === 'dashboard') btns[3].classList.add('active');
+    if(mode==='international') btns[0].classList.add('active');
+    if(mode==='national') btns[1].classList.add('active');
+    if(mode==='state') btns[2].classList.add('active');
+    if(mode==='dashboard') btns[3].classList.add('active');
 
     const filterBar = document.getElementById('filter-bar');
     const dashboardBar = document.getElementById('dashboard-bar');
@@ -54,15 +48,10 @@ function switchMode(mode) {
     const reportContainer = document.getElementById('executive-report');
 
     if (mode === 'dashboard') {
-        filterBar.style.display = 'none';
-        dashboardBar.style.display = 'flex';
-        newsGrid.style.display = 'none';
-        reportContainer.style.display = 'block';
+        filterBar.style.display = 'none'; dashboardBar.style.display = 'flex'; newsGrid.style.display = 'none'; reportContainer.style.display = 'block';
         renderDashboardReport();
     } else {
-        dashboardBar.style.display = 'none';
-        reportContainer.style.display = 'none';
-        newsGrid.style.display = 'grid';
+        dashboardBar.style.display = 'none'; reportContainer.style.display = 'none'; newsGrid.style.display = 'grid';
         filterBar.style.display = (mode === 'state') ? 'flex' : 'none';
         if(mode === 'state') populateDistricts();
         renderStories();
@@ -81,9 +70,7 @@ function renderStories() {
         if(dist !== 'All') filtered = filtered.filter(s => s.district === dist);
         if(cat !== 'All') filtered = filtered.filter(s => s.report_category.includes(cat));
         filtered = filtered.slice(0, 50);
-    } else {
-        filtered = filtered.slice(0, 40);
-    }
+    } else { filtered = filtered.slice(0, 40); }
 
     if(filtered.length === 0) { grid.innerHTML = '<p>No stories found.</p>'; return; }
 
@@ -91,11 +78,7 @@ function renderStories() {
         const time = new Date(item.timestamp).toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
         const card = document.createElement('div');
         card.className = `news-card cat-${item.report_category.split('_')[1] || 'General'}`;
-        card.innerHTML = `
-            <div class="meta"><span>${item.source}</span><span>${time}</span></div>
-            <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
-            <p>${item.summary}</p>
-        `;
+        card.innerHTML = `<div class="meta"><span>${item.source}</span><span>${time}</span></div><h3><a href="${item.link}" target="_blank">${item.title}</a></h3><p>${item.summary}</p>`;
         grid.appendChild(card);
     });
 }
@@ -107,8 +90,6 @@ function populateDistricts() {
     dists.forEach(d => { if(d) { const o = document.createElement('option'); o.value=d; o.textContent=d; select.appendChild(o); }});
 }
 
-// --- REPORT & PDF ---
-
 function renderDashboardReport() {
     const selectedDate = document.getElementById('report-date').value;
     const content = document.getElementById('report-content');
@@ -117,26 +98,17 @@ function renderDashboardReport() {
     const dailyNews = allStories.filter(s => s.date === selectedDate);
     if(dailyNews.length === 0) { content.innerHTML = "<p>No data.</p>"; return; }
 
-    // REDUCED LIMITS for Conciseness (Max ~3 pages)
-    const intl = dailyNews.filter(s => s.section === 'International').slice(0, 5); // Reduced from 8
-    const natGov = dailyNews.filter(s => s.report_category === 'National_Govt').slice(0, 15); // Reduced from 25
-    const opp = dailyNews.filter(s => s.report_category === 'National_Opposition').slice(0, 5); // Reduced from 10
-    const jud = dailyNews.filter(s => s.report_category === 'National_Judicial').slice(0, 5); // Reduced from 7
+    // LIMITS FOR CONCISE REPORT (Keeping full summary content)
+    const intl = dailyNews.filter(s => s.section === 'International').slice(0, 5);
+    const natGov = dailyNews.filter(s => s.report_category === 'National_Govt').slice(0, 15);
+    const opp = dailyNews.filter(s => s.report_category === 'National_Opposition').slice(0, 5);
+    const jud = dailyNews.filter(s => s.report_category === 'National_Judicial').slice(0, 5);
 
     const generateSection = (title, items) => {
         if(items.length === 0) return '';
         let html = `<div class="pdf-section"><h3>${title}</h3><table class="report-table">`;
         items.forEach(item => {
-            html += `
-            <tr>
-                <td style="width: 85%;">
-                    <span class="news-title">● ${item.title}</span>
-                    <span class="news-summary">${item.summary}</span>
-                </td>
-                <td style="width: 15%; text-align: right; vertical-align: top;">
-                    <span class="source-link"><a href="${item.link}" target="_blank">Source</a></span>
-                </td>
-            </tr>`;
+            html += `<tr><td style="width: 85%;"><span class="news-title">● ${item.title}</span><span class="news-summary">${item.summary}</span></td><td style="width: 15%; text-align: right; vertical-align: top;"><span class="source-link"><a href="${item.link}" target="_blank">Source</a></span></td></tr>`;
         });
         html += `</table></div>`;
         return html;
@@ -147,24 +119,19 @@ function renderDashboardReport() {
     html += generateSection("2. National: Government Policies & Mandates", natGov);
     html += generateSection("3. Opposition Activity", opp);
     html += generateSection("4. Judicial & Supreme Court Verdicts", jud);
-    
     content.innerHTML = html || "<p>No specific categorized news found.</p>";
 }
 
 function downloadPDF() {
     const element = document.getElementById('executive-report');
-    const filename = `Daily_Digest_${document.getElementById('report-date').value}.pdf`;
-    
     const opt = {
-        margin:       [0.25, 0.5, 0.25, 0.5], 
-        filename:     filename,
-        image:        { type: 'jpeg', quality: 0.98 },
-        html2canvas:  { scale: 2, useCORS: true }, 
-        jsPDF:        { unit: 'in', format: 'a4', orientation: 'portrait' },
-        pagebreak:    { mode: ['css', 'legacy'] }
+        margin: [0.25, 0.5, 0.25, 0.5],
+        filename: `Daily_Digest_${document.getElementById('report-date').value}.pdf`,
+        image: { type: 'jpeg', quality: 0.98 },
+        html2canvas: { scale: 2, useCORS: true },
+        jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' },
+        pagebreak: { mode: ['css', 'legacy'] }
     };
-    
-    // PDF Generation with Header Callback
     html2pdf().from(element).set(opt).toPdf().get('pdf').then(function(pdf) {
         var totalPages = pdf.internal.getNumberOfPages();
         for (i = 1; i <= totalPages; i++) {
@@ -172,9 +139,6 @@ function downloadPDF() {
             pdf.setFontSize(10);
             pdf.setFont("helvetica", "italic");
             pdf.setTextColor(100);
-            // Coordinates: (Right edge - margin, Top edge + margin)
-            // A4 width is approx 8.27in. 
-            // We place it at x=7.5in, y=0.3in approx
             pdf.text('Internal Use Only', 7.0, 0.35); 
         }
     }).save();
