@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """
-PoliticalIntel Backend v4.0 - Anti-Bot Edition
+PoliticalIntel Backend v4.1 - Fixed Imports
 Features:
-- Rotates User-Agents to bypass 403/429 blocks.
-- Extensive Error Logging (Check Actions Logs!).
-- Generates a 'System Alert' if fetching fails completely.
+- Fixed 'name re is not defined' error.
+- Rotates User-Agents to bypass 403 blocks.
+- Robust parsing with LXML.
 """
 
 import json
+import re  # <--- This was missing!
 import hashlib
 import os
 import time
@@ -24,7 +25,6 @@ INTERNATIONAL_FEEDS = [
     {"url": "https://www.thehindu.com/news/international/feeder/default.rss", "source": "The Hindu"},
     {"url": "http://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC World"},
     {"url": "https://www.aljazeera.com/xml/rss/all.xml", "source": "Al Jazeera"},
-    # Fallback safe feed
     {"url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "source": "NYT World"}, 
 ]
 
@@ -34,7 +34,6 @@ NATIONAL_FEEDS = [
     {"url": "https://www.livehindustan.com/rss/national/rssfeed.xml", "source": "Live Hindustan", "lang": "hi"},
     {"url": "https://www.amarujala.com/rss/india-news.xml", "source": "Amar Ujala", "lang": "hi"},
     {"url": "https://www.jagran.com/rss/news-national-rss.xml", "source": "Dainik Jagran", "lang": "hi"},
-    # Fallback safe feed
     {"url": "https://feeds.feedburner.com/ndtvnews-india-news", "source": "NDTV India", "lang": "en"},
 ]
 
@@ -52,12 +51,17 @@ UP_FEEDS = [
 
 # --- LOGIC ---
 
-ua = UserAgent()
+# Initialize UserAgent
+try:
+    ua = UserAgent()
+except:
+    ua = None
 
 def get_headers():
     """Generates random headers to mimic a real browser."""
+    user_agent = ua.random if ua else "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
     return {
-        "User-Agent": ua.random,
+        "User-Agent": user_agent,
         "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
         "Accept-Language": "en-US,en;q=0.9",
         "Referer": "https://www.google.com/",
@@ -67,7 +71,10 @@ def get_headers():
 
 def is_junk_title(title: str) -> bool:
     junk_triggers = ["watch:", "video:", "daily quiz", "quiz:", "horoscope", "web story", "reels", "viral", "check list"]
-    return any(trigger in title.lower() for trigger in junk_triggers)
+    t_lower = title.lower()
+    for trigger in junk_triggers:
+        if trigger in t_lower: return True
+    return False
 
 def get_report_category(title: str, summary: str) -> str:
     blob = (title + " " + summary).lower()
@@ -81,7 +88,10 @@ def aggressive_clean(text: str) -> str:
     soup = BeautifulSoup(text, "html.parser")
     text = soup.get_text(separator=" ", strip=True)
     patterns = [r"Link Copied", r"Also Read", r"Read More", r"Click Here", r"Follow us.*", r"Subscribe.*", r"Watch Video", r"Details inside", r"Updated:.*", r"Advertisement"]
-    for p in patterns: text = re.sub(p, "", text, flags=re.IGNORECASE)
+    
+    # Needs 're' module here
+    for p in patterns: 
+        text = re.sub(p, "", text, flags=re.IGNORECASE)
     return re.sub(r'\s+', ' ', text).strip()
 
 def parse_date(date_str: str) -> str:
@@ -101,11 +111,10 @@ def fetch_rss(feed_config, section):
             resp = requests.get(url, headers=get_headers(), timeout=20)
             
             if resp.status_code == 200:
-                # Success! Break retry loop
                 break
             elif resp.status_code == 403:
                 print(f"🚫 Blocked (403) on attempt {attempt+1}: {url}")
-                time.sleep(2) # Wait before retry
+                time.sleep(2)
             else:
                 print(f"⚠️ Error {resp.status_code} on attempt {attempt+1}: {url}")
                 
@@ -113,23 +122,20 @@ def fetch_rss(feed_config, section):
             print(f"🔥 Exception on {url}: {e}")
             time.sleep(2)
     else:
-        # Loop finished without success
         print(f"❌ FAILED to fetch: {url}")
         return []
 
     # Parse Content
     try:
-        # Explicitly use LXML for robustness
         soup = BeautifulSoup(resp.content, "xml")
         items = soup.find_all("item")
         
-        # Fallback to HTML parser if XML fails
         if not items:
             soup = BeautifulSoup(resp.content, "html.parser")
             items = soup.find_all("item")
 
         if not items:
-            print(f"⚠️ Empty Feed (Parsed but no items): {url}")
+            print(f"⚠️ Empty Feed: {url}")
             return []
 
         print(f"✅ Extracted {len(items)} items from: {url}")
@@ -144,9 +150,15 @@ def fetch_rss(feed_config, section):
             if is_junk_title(title): continue 
 
             link = link_tag.get_text()
-            desc = item.find("description").get_text() if item.find("description") else ""
+            desc_tag = item.find("description")
+            desc = desc_tag.get_text() if desc_tag else ""
             summary = aggressive_clean(desc)
-            pub_date = item.find("pubDate").get_text() if item.find("pubDate") else ""
+            
+            # FULL SUMMARY KEPT
+            full_summary = summary
+            
+            pub_date_tag = item.find("pubDate")
+            pub_date_raw = pub_date_tag.get_text() if pub_date_tag else ""
             
             category = "General"
             if section == "National": category = get_report_category(title, summary)
@@ -157,9 +169,9 @@ def fetch_rss(feed_config, section):
                 "id": hashlib.md5(link.encode()).hexdigest(),
                 "title": title,
                 "link": link,
-                "summary": summary,
-                "date": parse_date(pub_date),
-                "timestamp": pub_date,
+                "summary": full_summary,
+                "date": parse_date(pub_date_raw),
+                "timestamp": pub_date_raw,
                 "section": section,
                 "report_category": category,
                 "source": feed_config.get('source', 'Unknown'),
@@ -173,7 +185,6 @@ def fetch_rss(feed_config, section):
     return stories
 
 def create_system_alert(message):
-    """Creates a fake news item to alert the user on the dashboard."""
     return {
         "id": "system_alert",
         "title": "⚠️ System Alert: Data Fetching Issue",
@@ -195,7 +206,6 @@ def main():
     import pathlib
     pathlib.Path("data").mkdir(exist_ok=True)
     
-    # Load existing data carefully
     if os.path.exists(data_file):
         try:
             with open(data_file, "r", encoding="utf-8") as f:
@@ -203,7 +213,7 @@ def main():
                 if content:
                     existing_data = json.loads(content)
         except Exception as e:
-            print(f"Old data corrupted, starting fresh: {e}")
+            print(f"Old data corrupted: {e}")
             existing_data = []
             
     new_data = []
@@ -213,16 +223,11 @@ def main():
     for feed in UP_FEEDS: new_data.extend(fetch_rss(feed, "UP_Focus"))
     print("--- 🏁 FETCH COMPLETE ---\n")
         
-    # If fetch failed completely, protect the file or add alert
     if not new_data:
-        print("🚨 CRITICAL: No new data fetched! Adding System Alert.")
-        # If we have old data, keep it. If totally empty, add alert.
+        print("🚨 CRITICAL: No new data fetched!")
         if not existing_data:
-            new_data.append(create_system_alert("Unable to fetch news from external sources. Please check GitHub Actions logs for 403 errors."))
-        else:
-            print("Keeping old data intact.")
+            new_data.append(create_system_alert("Unable to fetch news. Check logs."))
     
-    # Merge Logic
     combined_map = {}
     for item in existing_data:
         if isinstance(item, dict) and 'id' in item: combined_map[item['id']] = item
@@ -230,15 +235,10 @@ def main():
         combined_map[item['id']] = item 
         
     final_list = list(combined_map.values())
-    
-    # Prune old
     cutoff_date = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
     final_list = [x for x in final_list if x.get('date', '') >= cutoff_date]
-    
-    # Sort
     final_list.sort(key=lambda x: x.get('timestamp', ''), reverse=True)
     
-    # Write
     with open(data_file, "w", encoding="utf-8") as f:
         json.dump(final_list, f, ensure_ascii=False, indent=2)
         
