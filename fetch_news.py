@@ -1,20 +1,17 @@
 #!/usr/bin/env python3
 """
-PoliticalIntel Backend v3.5
-Features:
-- Full Summaries (NO truncation).
-- Junk Filter active.
-- 7-Day History.
+PoliticalIntel Backend v3.6 - Clean Syntax & Logic
 """
 
 import json
-import re
 import hashlib
 import os
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
 import requests
 from bs4 import BeautifulSoup
+
+# --- CONFIGURATION ---
 
 INTERNATIONAL_FEEDS = [
     {"url": "https://www.thehindu.com/news/international/feeder/default.rss", "source": "The Hindu"},
@@ -43,8 +40,14 @@ UP_FEEDS = [
     {"url": "https://www.amarujala.com/rss/ayodhya.xml", "district": "Ayodhya", "source": "Amar Ujala"},
 ]
 
+# --- LOGIC ---
+
 def is_junk_title(title: str) -> bool:
-    junk_triggers = ["watch:", "video:", "daily quiz", "quiz:", "horoscope", "web story", "reels", "viral", "check list"]
+    junk_triggers = [
+        "watch:", "video:", "daily quiz", "quiz:", "horoscope", "web story", 
+        "web stories", "reels", "viral video", "must watch", "check list", 
+        "morning briefing", "top news"
+    ]
     t_lower = title.lower()
     for trigger in junk_triggers:
         if trigger in t_lower: return True
@@ -52,17 +55,24 @@ def is_junk_title(title: str) -> bool:
 
 def get_report_category(title: str, summary: str) -> str:
     blob = (title + " " + summary).lower()
-    if any(k in blob for k in ["supreme court", "high court", "verdict", "hearing", "bail", "court", "sc", "hc", "अदालत", "फैसला"]): return "National_Judicial"
-    if any(k in blob for k in ["cabinet", "modi", "pm", "minister", "bill", "scheme", "yojana", "govt", "government", "policy", "project", "budget", "drdo", "isro", "प्रधानमंत्री", "सरकार", "योजना"]): return "National_Govt"
-    if any(k in blob for k in ["congress", "rahul", "protest", "allegation", "slam", "sp", "akhilesh", "demand", "opposition", "dharna", "विपक्ष", "आरोप"]): return "National_Opposition"
+    judicial_kw = ["supreme court", "high court", "bench", "verdict", "hearing", "cji", "chandrachud", "bail", "petition", "court", "sc", "hc", "अदालत", "कोर्ट", "फैसला", "याचिका"]
+    if any(k in blob for k in judicial_kw): return "National_Judicial"
+        
+    govt_kw = ["cabinet", "modi", "pm", "minister", "bill", "act", "parliament", "scheme", "yojana", "mandate", "govt", "government", "center", "centre", "inaugurate", "launch", "policy", "project", "highway", "railway", "vande bharat", "budget", "finance", "defense", "isro", "drdo", "president", "प्रधानमंत्री", "मोदी", "योगी", "सरकार", "योजना", "परियोजना", "बिल", "संसद", "कैबिनेट"]
+    if any(k in blob for k in govt_kw): return "National_Govt"
+        
+    opp_kw = ["congress", "rahul", "gandhi", "kharge", "protest", "allegation", "slam", "attack", "sp", "samajwadi", "akhilesh", "yatra", "demand", "resignation", "tmc", "mamata", "aadmi party", "kejriwal", "opposition", "walkout", "dharna", "विपक्ष", "कांग्रेस", "राहुल", "सपा", "अखिलेश", "प्रदर्शन", "आरोप"]
+    if any(k in blob for k in opp_kw): return "National_Opposition"
+    
     return "National_General"
 
 def aggressive_clean(text: str) -> str:
     if not text: return ""
     soup = BeautifulSoup(text, "html.parser")
     text = soup.get_text(separator=" ", strip=True)
-    patterns = [r"Link Copied", r"Also Read", r"Read More", r"Click Here", r"Follow us.*", r"Subscribe.*", r"Watch Video", r"Details inside", r"Updated:.*", r"Advertisement"]
-    for p in patterns: text = re.sub(p, "", text, flags=re.IGNORECASE)
+    patterns = [r"Link Copied", r"Also Read", r"Read More", r"Click Here", r"Follow us.*", r"Subscribe.*", r"Watch Video", r"Live Updates", r"Details inside", r"Check here", r"Posted by.*", r"Updated:.*", r"My City", r"Advertisement", r"Get all India News.*"]
+    for p in patterns:
+        text = re.sub(p, "", text, flags=re.IGNORECASE)
     return re.sub(r'\s+', ' ', text).strip()
 
 def parse_date(date_str: str) -> str:
@@ -95,7 +105,7 @@ def fetch_rss(feed_config, section):
             elif section == "International": category = "International"
             elif section == "UP_Focus": category = "UP_Focus"
 
-            # STRICTLY FULL SUMMARY
+            # FULL SUMMARY KEPT
             full_summary = summary
 
             stories.append({
@@ -120,7 +130,6 @@ def main():
     existing_data = []
     import pathlib
     pathlib.Path("data").mkdir(exist_ok=True)
-    
     if os.path.exists(data_file):
         try:
             with open(data_file, "r", encoding="utf-8") as f:
@@ -128,12 +137,15 @@ def main():
         except: existing_data = []
             
     new_data = []
+    print("Fetching International...")
     for feed in INTERNATIONAL_FEEDS: new_data.extend(fetch_rss(feed, "International"))
+    print("Fetching National...")
     for feed in NATIONAL_FEEDS: new_data.extend(fetch_rss(feed, "National"))
+    print("Fetching UP Focus...")
     for feed in UP_FEEDS: new_data.extend(fetch_rss(feed, "UP_Focus"))
         
     combined_map = {}
-    # Robust merge
+    # Robust logic to handle old/missing ID data
     for item in existing_data:
         if isinstance(item, dict) and 'id' in item: combined_map[item['id']] = item
     for item in new_data:
