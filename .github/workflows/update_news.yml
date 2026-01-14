@@ -5,7 +5,7 @@ on:
     - cron: '30 */4 * * *' # Run every 4 hours
   workflow_dispatch:      # Allow manual run
 
-# --- NEW: Fix for "In Progress" Error ---
+# Fix for "In Progress" Error
 concurrency:
   group: "pages"
   cancel-in-progress: true
@@ -17,6 +17,11 @@ permissions:
 
 jobs:
   build-and-deploy:
+    # --- FIX FOR MISSING ENVIRONMENT ERROR ---
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    
     runs-on: ubuntu-latest
     
     steps:
@@ -51,7 +56,6 @@ jobs:
         cp style.css _site/
         cp script.js _site/
         cp -r data _site/
-        # Favicon logic (if present)
         # Fix for Timeout Error
         touch _site/.nojekyll
 
@@ -64,4 +68,5 @@ jobs:
         path: '_site'
 
     - name: Deploy to GitHub Pages
+      id: deployment  # Added ID to reference in environment URL
       uses: actions/deploy-pages@v4
