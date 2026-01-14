@@ -2,12 +2,16 @@ name: Update UP News Data
 
 on:
   schedule:
-    # Runs at 00:00, 06:00, 12:00, 18:00 UTC
-    - cron: '0 */6 * * *'
-  workflow_dispatch: # Allows manual run from GitHub Actions tab
+    - cron: '30 */4 * * *' # Run every 4 hours
+  workflow_dispatch:      # Allow manual run
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     
     steps:
@@ -34,3 +38,24 @@ jobs:
         git add data/news.json
         # Only commit if data/news.json has changed
         git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update news data" && git push)
+
+    # --- FIX FOR TIMEOUT ERROR ---
+    - name: Prepare Deployment Artifact
+      run: |
+        mkdir _site
+        cp index.html _site/
+        cp style.css _site/
+        cp script.js _site/
+        cp -r data _site/
+        # Favicon fix if you have an image, otherwise html handles it
+
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
+
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: '_site' # Only uploading the clean folder
+
+    - name: Deploy to GitHub Pages
+      uses: actions/deploy-pages@v2
