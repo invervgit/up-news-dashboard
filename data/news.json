@@ -287,7 +287,7 @@
   },
   {
     "id": "bfb2c60583d48f6429f4ca23245c7a73",
-    "title": "29 Maharashtra civic bodies go to polls on January 15; Mumbai is big prize",
+    "title": "29 Maharashtra civic bodies go to polls; Mumbai is big prize",
     "link": "https://www.thehindu.com/news/national/maharashtra/29-maharashtra-civic-bodies-go-to-polls-mumbai-is-big-prize/article70510908.ece",
     "summary": "More than 3.48 crore voters will cast their votes to choose 2,869 corporators from among 15,908 candidates; Votes will be counted on January 16",
     "date": "2026-01-14",
@@ -308,6 +308,19 @@
     "section": "National",
     "report_category": "National_Judicial",
     "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "5a3b888a1175cd15c8da9858e8882317",
+    "title": "From behind bars, Aung San Suu Kyi casts a long shadow over Myanmar",
+    "link": "https://www.bbc.com/news/articles/c3r197we875o?at_medium=RSS&at_campaign=rss",
+    "summary": "The democracy campaigner has spent 20 years in total in detention, five of them since being overthrown by a coup.",
+    "date": "2026-01-14",
+    "timestamp": "Wed, 14 Jan 2026 23:01:28 GMT",
+    "section": "International",
+    "report_category": "International",
+    "source": "BBC World",
     "district": "",
     "lang": "en"
   },
@@ -2951,19 +2964,6 @@
     "lang": "en"
   },
   {
-    "id": "053f870e5fbc42fcf515d87b385f9b81",
-    "title": "Trump’s Threats to Greenland Raise Serious Questions for NATO",
-    "link": "https://www.nytimes.com/2026/01/14/world/europe/trump-greenland-nato.html",
-    "summary": "The treaty that created NATO did not contemplate an attack by one ally on another. A seizure of Greenland by President Trump would test the endurance of the mutual-defense pact.",
-    "date": "2026-01-14",
-    "timestamp": "Wed, 14 Jan 2026 16:48:51 +0000",
-    "section": "International",
-    "report_category": "International",
-    "source": "NYT World",
-    "district": "",
-    "lang": "en"
-  },
-  {
     "id": "b8c0ecc823bb9a2e81915ededc7bb989",
     "title": "Jaishankar speaks to Iranian Foreign Minister amid unrest; India reiterates travel advisory",
     "link": "https://www.thehindu.com/news/national/centre-issues-advisory-for-citizens-against-travel-to-iran/article70509268.ece",
@@ -3689,19 +3689,6 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Gorakhpur",
-    "lang": "en"
-  },
-  {
-    "id": "b8914952a8593af8a36d3bf61a54f8cb",
-    "title": "Venezuela Envoy to Visit U.S. for First Official Trip in Years",
-    "link": "https://www.nytimes.com/2026/01/14/world/americas/venezuela-diplomat-us-visit-washington.html",
-    "summary": "Félix Plasencia, an envoy of the interim government, will travel to the United States on the day the opposition leader María Corina Machado is to meet President Trump.",
-    "date": "2026-01-14",
-    "timestamp": "Wed, 14 Jan 2026 12:51:21 +0000",
-    "section": "International",
-    "report_category": "International",
-    "source": "NYT World",
-    "district": "",
     "lang": "en"
   },
   {
@@ -7670,19 +7657,6 @@
     "lang": "en"
   },
   {
-    "id": "3c46478324d7f42f868257f9f2f5ec54",
-    "title": "Reza Pahlavi, Son of Deposed Shah of Iran, Seeks Center Stage Amid Protests",
-    "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protests-shah-son-pahlavi.html",
-    "summary": "Reza Pahlavi, living in exile in the United States, has long marketed himself as a future leader of Iran. His father’s repressive legacy casts a long shadow.",
-    "date": "2026-01-14",
-    "timestamp": "Wed, 14 Jan 2026 03:41:50 +0000",
-    "section": "International",
-    "report_category": "International",
-    "source": "NYT World",
-    "district": "",
-    "lang": "en"
-  },
-  {
     "id": "2091813814ecb547f4247931fde4044f",
     "title": "Prosecutors Seek Death Penalty for Former South Korea President",
     "link": "https://www.nytimes.com/2026/01/13/world/asia/south-korea-yoon-death-penalty.html",
@@ -9490,14 +9464,599 @@
     "lang": "en"
   },
   {
+    "id": "32292345c4fd175be0d446721671f162",
+    "title": "J&K Government names nodal officer for safety of students in Iran",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-government-names-nodal-officer-for-safety-of-students-in-iran/article70512680.ece",
+    "summary": "The Jammu and Kashmir Students Association (JKSA) claimed that the first batch of students is likely to return to India on Friday (January 16, 2026)",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:33:42 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "d7cefe72b58e1175a92ea3f8154478bc",
+    "title": "डिंपल यादव मना रहीं 48वां जन्मदिन, अपनी सादगी के लिए जानी जाती हैं मुलायम की बड़ी बहू",
+    "link": "https://www.livehindustan.com/uttar-pradesh/mp-dimple-yadav-celebrating-her-48th-birthday-mulayam-singh-yadav-elder-daughter-in-law-known-for-her-simplicity-201768481577945.html",
+    "summary": "मैनपुरी से सांसद और पूर्व सीएम अखिलेश यादव की पत्नी डिंपल यादव अपनी सादगी के लिए चर्चा में रहती हैं। साड़ी हो या फिर सलवार। उनका देसी लुक और उनकी सुंदरता के सभी मुरीद हो जाते हैं।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:31:14 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "dbe4f2e19231a74ad026dcdeaf035992",
+    "title": "वौ सैनिक है, वही भारत की शान है",
+    "link": "https://www.livehindustan.com/uttar-pradesh/aligarh/he-is-a-soldier-and-he-is-the-pride-of-india-201768479903775.html",
+    "summary": "कोहरे में लिपटे शहर के मैदानों में जब सुबह चार बजे युवाओं के कदम दौड़ते हैं, तो वह सिर्फ शारीरिक अभ्यास नहीं होता। वह देश के लिए कुछ कर गुजरने की तैयारी होती है। आज के अलीगढ़ के उस युवा की, जो अग्निवीर बनकर भारतीय सेना का हिस्सा बनना चाहता है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:28:40 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "4e6d6df9cc21ad12544d324f89db785b",
+    "title": "Hit By Kite String, Couple, Daughter Fall 70 Feet Off Surat Flyover, Killed",
+    "link": "https://www.ndtv.com/india-news/hit-by-kite-string-couple-daughter-fall-70-feet-off-surat-flyover-killed-10757304#publisher=newsstand",
+    "summary": "The woman fell on top of an autorickshaw that was parked below teh flyover.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:24:28 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "02842521c3983a52294250c3280bc16e",
+    "title": "BMC Exit Poll Live Updates: Who Has The Winning Edge In Mumbai Civic Election?",
+    "link": "https://www.ndtv.com/india-news/maharashtra-elections-2026-voting-live-updates-civic-body-polls-bmc-elections-pune-thane-municipal-corporation-29-civic-bodies-to-vote-today-10752722#publisher=newsstand",
+    "summary": "Maharashtra Elections 2026 Live Updates",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:17:45 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "93e218e1ed5028d372e9ba119a0f2b4a",
+    "title": "52 Maoists surrender in Chhattisgarh’s Bijapur",
+    "link": "https://www.thehindu.com/news/national/chhattisgarh/52-maoists-surrender-in-chhattisgarhs-bijapur/article70512670.ece",
+    "summary": "They turned themselves in under the “Poona” Margem (from rehabilitation to social reintegration) initiative, the police said",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:16:37 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "a6afc177852993463b9f5427b2defda7",
+    "title": "यूपी में दलित-ब्राह्मण गठजोड़ से सियासी धमाल मचाने की तैयारी में मायावती, भाजपा के लिए कितनी टेंशन?",
+    "link": "https://www.livehindustan.com/explainer/explainer-mayawati-bsp-eyes-on-brahmin-dalit-votes-tension-for-bjp-in-up-election-2027-201768480664393.html",
+    "summary": "ब्राह्मणों का वोट भाजपा को बंपर मिलता रहा है। हालांकि, विपक्ष की ओर से दावा किया जाता रहा है कि यूपी सरकार में ब्राह्मणों की लगातार उपेक्षा हो रही है। अब मायावती की नजर ब्राह्मण वोटाें पर है। अगर यह दांव चल गया तो भाजपा के लिए टेंशन हो सकती है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:15:20 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "638595ac36d3cc2efd47b58ae4b73e47",
+    "title": "कब खुल जाएंगे सभी स्कूल? यूपी में सर्दी के बीच आया अपडेट",
+    "link": "https://www.livehindustan.com/uttar-pradesh/when-will-all-schools-reopen-an-update-comes-amid-the-cold-in-uttar-pradesh-201768479982772.html",
+    "summary": "यूपी में सर्दी के बीच कल शुक्रवार को सभी प्राइमरी स्कूल खुल जाएंगे। प्राइमरी स्कूलों में शीतकालीन अवकाश खत्म हो गया है। शुक्रवार से स्कूल फिर गुलजार होंगे। वहीं प्रयागराज में 20 जनवरी तक अवकाश दिया गया है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:14:09 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "b6c2b4b0c4f1bfcb791549558b5ce5b6",
+    "title": "Deal with U.S. ‘very near’, teams are engaging virtually on pending issues: Commerce Secretary",
+    "link": "https://www.thehindu.com/news/national/deal-with-us-very-near-teams-are-engaging-virtually-on-pending-issues-commerce-secretary/article70512646.ece",
+    "summary": "The latest trade data, released on January 15, 2026, showed that India’s merchandise exports to the U.S. stood at a five-month high of $7.01 billion in December 2025, up from $6.89 in December 2024",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:07:40 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "eee5b727a932c114cf6227d1abc62a5c",
+    "title": "Bengal SIR: Election Commission declines proposal to accept Class 10 admit card as valid document",
+    "link": "https://www.thehindu.com/news/national/west-bengal/bengal-sir-election-commission-declines-proposal-to-accept-class-10-admit-card-as-valid-document/article70512656.ece",
+    "summary": "The ECI noted that in accordance with the instructions issued on October 27, 2025, the madhyamik admit card is not recognised as a valid document for verification purposes",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:06:37 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "90bcc5f254b77541fcbbb5ef7f759b6b",
+    "title": "What Led To Air India Engine Sucking In Cargo Container At Delhi Airport",
+    "link": "https://www.ndtv.com/india-news/air-india-flight-engine-sucks-in-cargo-container-what-led-to-the-incident-10756162#publisher=newsstand",
+    "summary": "India's aviation watchdog has launched a probe into the damage suffered by an Air India aircraft after a baggage container was sucked into one of its engines earlier this morning.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:04:51 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "50ee66bc78832a52f39cfcca2534e018",
+    "title": "Air India Delhi-New York Flight Engine Sucks In Baggage Container, Damaged",
+    "link": "https://www.ndtv.com/india-news/air-india-delhi-new-york-flight-engine-sucks-in-baggage-container-damaged-10755109#publisher=newsstand",
+    "summary": "The aircraft has been grounded for a thorough investigation",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:03:54 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "5269a09393650bad143322cabc9c1876",
+    "title": "\"Shattered Most Sacred Relation\": Delhi Man Gets Life Term For Raping Daughter",
+    "link": "https://www.ndtv.com/india-news/shattered-most-sacred-relation-delhi-man-gets-life-term-for-raping-daughter-10756763#publisher=newsstand",
+    "summary": "(Representational Image)",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 18:03:11 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "355b558bc6c49884bbd3048d06657690",
+    "title": "How SIR Led To Mother-Son Reunion, Notorious Criminal's Arrest",
+    "link": "https://www.ndtv.com/india-news/how-sir-led-to-mother-son-reunion-notorious-criminals-arrest-10756476#publisher=newsstand",
+    "summary": "Madhya Pradesh SIR led to a family reunion and a criminal's arrest.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 17:52:13 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "04f71edb72ba416e0043224a6395053d",
+    "title": "Navi Mumbai Airport Crosses 1-Lakh Passenger Mark In 19 Days Of Commercial Operations",
+    "link": "https://www.ndtv.com/india-news/navi-mumbai-airport-crosses-1-lakh-passenger-mark-in-19-days-of-commercial-operations-10756347#publisher=newsstand",
+    "summary": "The airport has already handled 22.21 tonnes of cargo (File)",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 17:46:56 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "88aeaf59803962be08dee13b709f4983",
+    "title": "‘Serious indictment’ of Mamata: BJP over Supreme Court observation on ED plea in I-PAC raid caseami",
+    "link": "https://www.thehindu.com/news/national/west-bengal/serious-indictment-of-mamata-bjp-over-supreme-court-observation-on-ed-plea-in-i-pac-raid-caseami/article70512625.ece",
+    "summary": "Supreme court stayed the FIR filed in West Bengal against ED officials who raided the I-PAC office and the residence of its director, Pratik Jain, on January 8, 2026 and directed the State police to protect the CCTV footage of the raids.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 17:43:17 +0530",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "84db37770a7570ae7a967bb70b7a5a13",
+    "title": "UP Man Rapes Woman Repeatedly, Posts Her Videos On Facebook, Arrested: Cops",
+    "link": "https://www.ndtv.com/india-news/up-man-rapes-woman-repeatedly-posts-her-videos-on-facebook-arrested-cops-10755968#publisher=newsstand",
+    "summary": "The accused has been remanded to judicial custody. (Representational)",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 17:27:09 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "79e09249a6de979fb4659372610f6eae",
+    "title": "लखनऊ-सुल्तानपुर हाईवे टोल प्लाजा पर वकीलों का हंगामा, सभी बैरियर तोड़े; भाग खड़े हुए कर्मचारी",
+    "link": "https://www.livehindustan.com/uttar-pradesh/angry-lawyers-created-a-ruckus-at-the-lucknow-sultanpur-highway-toll-plaza-breaking-all-barriers-201768477241011.html",
+    "summary": "यूपी के बाराबंकी जिले में लखनऊ-सुल्तानपुर हाईवे टोल प्लाजा पर आक्रोशित वकीलों ने जमकर हंगामा किया। साथी अधिवक्ता की पिटाई से नाराज वकीलों ने सभी बूम बेरियर तोड़ डाले।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 17:26:10 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "3bcec18e3b04a287bf61bdf78b01011c",
+    "title": "India And US \"Very Close\" To Signing Trade Deal: Commerce Secretary",
+    "link": "https://www.ndtv.com/india-news/india-and-us-very-close-to-signing-trade-deal-says-commerce-secretary-10755913#publisher=newsstand",
+    "summary": "There were apprehensions India's exports to the US would dwindle due to the steep tariffs",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 17:19:57 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "a07f3a5362191f8344bb818006bf08dc",
+    "title": "Maharashtra civic polls: EVM errors in Pune; officials say machines replaced swiftly",
+    "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-civic-polls-evm-errors-in-pune-officials-say-machines-replaced-swiftly/article70512612.ece",
+    "summary": "An average 23% voter turnout was recorded till 1.30 p.m. in the PMC polls",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 17:19:19 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "ad3c3272e7a06061521c978243de9d31",
+    "title": "Lashkar Commander's Admission On Op Sindoor's Success, Pak's Terror Policy",
+    "link": "https://www.ndtv.com/india-news/lashkar-commander-hafiz-abdul-rauf-lifts-lid-on-operation-sindoor-success-pakistan-terror-policy-10755373#publisher=newsstand",
+    "summary": "Hafiz Abdul Rauf is the commander of Pakistan-based terror group Lashkar-e-Taiba (LeT)",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:55:52 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "39ec7edadbdee7739de624e9591dcaa3",
+    "title": "SpaceX capsule with four ISS astronauts splashes down on Earth safely after first-ever medical evacuation",
+    "link": "https://www.thehindu.com/sci-tech/four-iss-astronauts-splash-down-on-earth-after-first-ever-medical-evacuation/article70512555.ece",
+    "summary": "The Crew-11 quartet arrived at the ISS in early August and had been scheduled to stay onboard the space station until they were rotated out in mid-February with the arrival of the next crew",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:55:31 +0530",
+    "section": "International",
+    "report_category": "International",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "4ff705b73ea6da175a97ab26c78b00ed",
+    "title": "तुमको क्या चाहिए? बच्चे ने सीएम के कान में दिया जवाब, सुनते ही हंस पड़े योगी और सुरक्षा कर्मी",
+    "link": "https://www.livehindustan.com/uttar-pradesh/tumko-kya-chahiye-child-whispered-answer-into-cm-ear-and-upon-hearing-it-yogi-and-security-personnel-burst-into-laughter-201768475621884.html",
+    "summary": "महायोगी गुरु गोरखनाथ को खिचड़ी चढ़ाने के बाद मुख्यमंत्री योगी आदित्यनाथ ने सभी नागरिकों, संतों और श्रद्धालुओं को मकर संक्रांति की हार्दिक बधाई और शुभकामनाएं दी।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:53:07 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "8c4083d05eb141ce369b1959f8b45c2c",
+    "title": "Singapore Prime Minister Wong removes Indian-origin LoP Pritam Singh",
+    "link": "https://www.thehindu.com/news/international/singapore-prime-minister-wong-removes-indian-origin-lop-pritam-singh/article70512564.ece",
+    "summary": "Pritam Singh was convicted in February last year for lying to a parliamentary committee over the case of former MP Raeesah Khan",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:48:44 +0530",
+    "section": "International",
+    "report_category": "International",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "931f6654adaefbc20bafb23938f72e80",
+    "title": "Rajasthan RSSB Grade 4 Exam 2025: Result Likely To Be Out Today, Download Link Here",
+    "link": "https://www.ndtv.com/education/rajasthan-grade-4-exam-2025-result-to-be-out-today-download-link-here-10755061#publisher=newsstand",
+    "summary": "RSSB Grade 4 Result: The exam witnessed 24.71 lakh registrations this year",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:48:20 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "7bcf3cd68d2632fc2db9a87ecbcd36ad",
+    "title": "Kannada Actor Karunya Ram Files Harassment Complaint Against Sister",
+    "link": "https://www.ndtv.com/india-news/kannada-actor-karunya-ram-files-harassment-complaint-against-sister-10755629#publisher=newsstand",
+    "summary": "The actor alleged that when questioned about the missing money and valuables, Samruddhi left the house.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:43:18 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "8a86f2289e3009292ac0372ca5a2add2",
+    "title": "सलमान नहीं, शाहरुख हैं देशद्रोही; UP के मंत्री ने कहा- गलती से लिया था भाईजान का नाम",
+    "link": "https://www.livehindustan.com/uttar-pradesh/shahrukh-not-salman-is-the-traitor-up-minister-thakur-raghuraj-singh-said-he-mistakenly-mentioned-bhaijaan-name-201768473961715.html",
+    "summary": "यूपी के मंत्री रघुराज सिंह का बयान सामने आया जिसमें उन्होंने सलामन खान को देशद्रोही बता दिया। इसके बाद बयान वायरल हुआ तो मंत्री ने बयान पलटते हुए कहा कि मैं शाहरुख खान के बारे में बोल रहा था गलती सलमान का नाम निकल गया।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:41:36 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "b59063570c068dc3f3e7399f6cf388ab",
+    "title": "\"Hindi? This Is Maharashtra\": Aamir Khan Wades Into Language Row On Poll Day",
+    "link": "https://www.ndtv.com/india-news/aamir-khan-bmc-polls-hindi-this-is-maharashtra-aamir-khan-wades-in-language-row-on-poll-day-10755263#publisher=newsstand",
+    "summary": "Aamir Khan cast his vote in the BMC election today",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:35:43 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "b9258f3aadab586a781ca2c91ce6382d",
+    "title": "We are preparing for future wars; indigenisation key for self-reliance: Army Chief",
+    "link": "https://www.thehindu.com/news/national/we-are-preparing-for-future-wars-indigenisation-key-for-self-reliance-army-chief/article70512561.ece",
+    "summary": "General Dwivedi said that special emphasis is being placed on resources that are useful for both military and civilian purposes, contributing to the overall development of the country",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:29:36 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "11f0fac16b57f0c5c41b3ef83afb14aa",
+    "title": "In Probe Agency vs Trinamool, ED Shares Screenshot On High Court Chaos",
+    "link": "https://www.ndtv.com/india-news/i-pac-raids-trinamool-congress-mamata-banerjee-tmc-in-probe-agency-vs-trinamool-ed-shares-screenshot-on-high-court-chaos-10755490#publisher=newsstand",
+    "summary": "The screenshot purportedly shows people being asked to assemble in the courtroom.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:24:52 +0530",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "3f927ee6b689ba31d78b351e8e5134ab",
+    "title": "Opinion: Opinion | Air Bases To Ships, This Is How Iran May Really Respond If Trump Strikes",
+    "link": "https://www.ndtv.com/opinion/air-bases-to-ships-this-is-how-iran-may-really-respond-if-trump-strikes-10755196#publisher=newsstand",
+    "summary": "To understand why the Gulf is so nervous, it is worth spelling out what Iran is pointing at. The US maintains a dense military presence across the region. That is what may come under Iranian fire.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:02:37 +0530",
+    "section": "National",
+    "report_category": "National_Opposition",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "240303a65a1498f1b5917cb23658880b",
+    "title": "Exports rise 1.87% to $38.5 billion in December: Commerce Secretary",
+    "link": "https://www.thehindu.com/business/Economy/exports-rise-187-to-385-billion-in-december/article70512532.ece",
+    "summary": "Despite global uncertainties, India's exports are recording positive growth, Commerce Secretary Rajesh Agrawal says",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 16:01:10 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "806238be79026e49b1613205865994b1",
+    "title": "Medical Seat Paradox: Why NEET PG Cut-Offs Are Being Reduced While Seats Still Remain Empty",
+    "link": "https://www.ndtv.com/education/medical-seat-paradox-why-neet-pg-cut-offs-are-being-reduced-while-seats-still-remain-empty-10755338#publisher=newsstand",
+    "summary": "spent two years preparing seriously and missed the earlier cut-off by a small margin",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 15:59:58 +0530",
+    "section": "National",
+    "report_category": "National_Opposition",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "d1b24d900b8104f6dda2121a23ce257e",
+    "title": "Air India aircraft grounded after engine ingests container",
+    "link": "https://www.thehindu.com/news/national/air-india-aircraft-grounded-after-engine-ingests-container/article70512544.ece",
+    "summary": "The aircraft was operating a New Delhi–New York flight and returned to Delhi shortly after departure due to Iranian airspace restrictions",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 15:55:36 +0530",
+    "section": "National",
+    "report_category": "National_Opposition",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "ae590823a203692440d34471a5c4ac8e",
+    "title": "यूपी के इस जिले में बनाने जा रहा बाईपास, लोगों को जाम से मिलेगी राहत",
+    "link": "https://www.livehindustan.com/uttar-pradesh/a-bypass-is-being-built-in-gonda-up-providing-relief-from-traffic-jams-201768471375177.html",
+    "summary": "यूपी के गोंडा जिले में पीडब्ल्यूडी ने परसपुर कस्बे में बाईपास बनाने के लिए 13 करोड़ रुपये का प्रावधान किया है। इस बाईपास के निर्माण के लिए मंगलवार को टेंडर प्रक्रिया शुरू कर दी गई है। लोगों को जाम राहत मिलेगी।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 15:42:48 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "29d52a64815b914eddf1857a500cc917",
+    "title": "'Lawlessness If...': Supreme Court Jolt To Mamata Banerjee In ED Raid Case",
+    "link": "https://www.ndtv.com/india-news/supreme-court-jolt-to-mamata-banerjee-in-probe-agency-ed-raid-case-fir-stayed-10754882#publisher=newsstand",
+    "summary": "Supreme Court Jolt To Mamata Banerjee In Probe Agency ED Raid Case, FIR Stayed",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 15:16:49 +0530",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "28a413ccbc39b771ee539ba08d50e7bb",
+    "title": "फोन करके बुलाया फिर गला दबाकर कर दी युवक की हत्या, पेड़ से लटका मिला प्रेमी का शव",
+    "link": "https://www.livehindustan.com/uttar-pradesh/young-man-was-called-over-phone-and-then-murdered-by-strangulation-his-body-was-found-hanging-from-tree-201768470149639.html",
+    "summary": "बदायूं में नीम के पेड़ पर फंदे से लटका युवक का शव मिलने के बाद परिजनों ने प्रेम-प्रसंग के चलते गला दबाकर हत्या करने का आरोप लगाया है। आरोप है कि युवक को उसकी बुआ के घर से फोन कर बुलाया गया।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 15:15:41 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "1f15efcbdeab0e799020396e57b22385",
+    "title": "Uddhav Thackeray claims irregularities in Maharashtra civic polls, calls it 'murder' of democracy",
+    "link": "https://www.thehindu.com/news/national/maharashtra/uddhav-thackeray-claims-irregularities-in-maharashtra-civic-polls-calls-it-murder-of-democracy/article70512479.ece",
+    "summary": "The former Chief Minister also demanded the suspension of the State Election Commissioner over alleged irregularities in the municipal corporation polls",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 15:12:56 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "4838516dbd8b6ac19c8e879cf5f0c68f",
+    "title": "Russia says concerned by NATO deployments in Greenland",
+    "link": "https://www.thehindu.com/news/international/russia-says-concerned-by-nato-deployments-in-greenland/article70512490.ece",
+    "summary": "\"The situation unfolding in the high latitudes is of serious concern to us,\" the Russian embassy in Belgium, where NATO is headquartered, Russian Embassy in Belgium said in a statement",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 15:11:13 +0530",
+    "section": "International",
+    "report_category": "International",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "69edabc91a6de9050638dd0ac15e65ab",
+    "title": "78th Army Day Parade: BrahMos Missiles, Bhishma Tanks Roll Through Jaipur",
+    "link": "https://www.ndtv.com/india-news/78th-army-day-parade-brahmos-missiles-bhishma-tanks-roll-through-jaipur-10754462#publisher=newsstand",
+    "summary": "The 78th Army Day Parade kicked off with the Army showcasing its discipline, strength, valour.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 15:04:16 +0530",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "84e38d2618fc49c743de7bebf9b0a0d4",
+    "title": "यूपी पंचायत चुनाव से पहले इन ग्राम पंचायतों में सामने आया लाखों का खेल, प्रधान और अधिकारी भी शामिल",
+    "link": "https://www.livehindustan.com/uttar-pradesh/before-up-panchayat-elections-a-scam-lakhs-of-rupees-in-these-gram-panchayats-in-barabanki-201768468611662.html",
+    "summary": "यूपी पंचायत चुनाव से पहले बाराबंकी जिले की इन ग्राम पंचायतों में लाखों का खेल सामने आया है। इन दोनों पंचायतों में हुए लाखों रुपये के वारे न्यारे में सचिव, प्रधान समेत ब्लॉक के अधिकारियों की संलिप्तता रही। इस संबंध में सीडीओ ने दोबारा जांच कराने के निर्देश दिए हैं।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 14:59:35 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "264c0056d1bbe9365f085b7d4cf596c5",
+    "title": "घना कोहरा, जानलेवा ठंड; 16 जनवरी को दिल्ली NCR में क्या खुलेंगे स्कूल? यूपी का क्या हाल",
+    "link": "https://www.livehindustan.com/career/dense-fog-extreme-cold-school-holiday-updates-delhi-noida-chandigarh-january-16-up-weather-school-updates-201768468448140.html",
+    "summary": "school holiday updates: उत्तर भारत में कड़ाके की ठंड और घने कोहरे के बीच स्कूलों को लेकर अभिभावकों और छात्रों की बेचैनी बढ़ी, मौसम विभाग की चेतावनी और प्रशासन का ताजा रुख जानिए।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 14:48:20 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "38e1ff0007b7916e784b3c83cbeb9d18",
+    "title": "मायावती ने कांग्रेस के लिए खोला बसपा का गेट, कहा- गठबंधन ना यूपी में करेंगे, ना कहीं और, लेकिन...",
+    "link": "https://www.livehindustan.com/uttar-pradesh/mayawati-opens-bsp-s-doors-for-congress-says-we-wont-form-an-alliance-in-up-nor-anywhere-else-but-201768467586042.html",
+    "summary": "बसपा प्रमुख मायावती ने गुरुवार को अपने जन्मदिन के मौके पर चुनावी रणनीति का खुलासा करते हुए गठबंधन की राजनीति का एक संकेत दिया है। एकला चलो की राह अपनाने वाली मायावती ने एक शर्त के साथ गठबंधन में जाने की बात भी कह दी है। उन्होंने किसी का नाम नहीं लिया लेकिन इसे कांग्रेस को इशारा माना जा रहा है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 14:43:25 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Live Hindustan",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "6bd5dfd8486383850f19582e70260f70",
+    "title": "Omar speaks to Jaishankar on J&K students caught in Iran turmoil",
+    "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-speaks-to-jaishankar-on-jk-students-caught-in-iran-turmoil/article70512460.ece",
+    "summary": "The parents of Kashmiri students studying in Iran have appealed to the Centre to bring their children back amid the ongoing tensions",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 14:30:50 +0530",
+    "section": "National",
+    "report_category": "National_Opposition",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "70289a42dea2e9f8e07b5b7ebc60ed16",
-    "title": "Supreme Court reserves verdict on a plea to withdraw life-sustaining treatment for Harish Rana",
+    "title": "Supreme Court reserves verdict on plea to withdraw life-sustaining treatment for Harish Rana",
     "link": "https://www.thehindu.com/news/national/supreme-court-reserves-verdict-on-a-plea-to-withdraw-life-sustaining-treatment-for-harish-rana/article70512419.ece",
     "summary": "The hearing highlighted the importance of the family taking a “consistent and well-considered” decision",
     "date": "2026-01-15",
     "timestamp": "Thu, 15 Jan 2026 14:14:23 +0530",
     "section": "National",
     "report_category": "National_Judicial",
+    "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "cfa0bc03bf3bb0a022cdfa7fd880e44f",
+    "title": "CBI conducts searches in various parts of Kolkata in bank fraud case",
+    "link": "https://www.thehindu.com/news/cities/kolkata/cbi-conducts-searches-in-various-parts-of-kolkata-in-bank-fraud-case/article70512437.ece",
+    "summary": "The searches were being conducted at the residence of a businessman in the city's New Alipore area, and in New Town near the city, among other places, they said",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 14:09:46 +0530",
+    "section": "National",
+    "report_category": "National_General",
     "source": "The Hindu",
     "district": "",
     "lang": "en"
@@ -9660,7 +10219,7 @@
   },
   {
     "id": "c3f97fe59050353026cffe946018446e",
-    "title": "Very serious matter, will examine issue: Supreme Court on ED’s Kolkata raids facing ‘obstruction’",
+    "title": "Supreme Court stays Kolkata Police probe into ED officers, says ‘lawlessness’ may creep into other States",
     "link": "https://www.thehindu.com/news/national/i-pac-raids-row-incident-reflects-very-shocking-pattern-ed-tells-supreme-court/article70512386.ece",
     "summary": "A Bench of Justices Prashant Kumar Mishra and Vipul Pancholi said they intend to issue notice and examine the matter. “This is a very serious matter; we will issue a notice. We have to examine it,” it remarked orally.",
     "date": "2026-01-15",
@@ -9668,6 +10227,19 @@
     "section": "National",
     "report_category": "National_Judicial",
     "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "c34767e091587c3d66cb133c113d6dae",
+    "title": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
+    "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
+    "summary": "The agent was acting in self-defence after being attacked with a shovel, said the Department of Homeland Security.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 13:18:23 GMT",
+    "section": "International",
+    "report_category": "International",
+    "source": "BBC World",
     "district": "",
     "lang": "en"
   },
@@ -9695,6 +10267,32 @@
     "report_category": "UP_Focus",
     "source": "Patrika",
     "district": "Lucknow",
+    "lang": "en"
+  },
+  {
+    "id": "730ebcc938dfb3c1b4ce4ff6f456a1cc",
+    "title": "Iran Says It Will Not Execute Protester Amid International Outcry",
+    "link": "https://www.nytimes.com/2026/01/15/world/middleeast/iran-protests-erfan-soltani-execution.html",
+    "summary": "The judiciary said that Erfan Soltani was not sentenced to death, Iranian state media reported. His case has drawn attention to the fate of the arrested demonstrators.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 13:07:49 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "38138ea37843b066d7a0c99fdf77febd",
+    "title": "Thailand Has 2nd Deadly Accident Involving a Crane in 2 Days",
+    "link": "https://www.nytimes.com/2026/01/15/world/asia/thailand-crane-expressway-rama2.html",
+    "summary": "The crane’s collapse, which killed at least two people outside Bangkok, came a day after another crane fell on a train in the northeast, leaving at least 32 people dead.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 13:01:47 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
     "lang": "en"
   },
   {
@@ -9763,6 +10361,19 @@
     "lang": "en"
   },
   {
+    "id": "34604277ddced12b3fd9f56e7df1e381",
+    "title": "After an Inconclusive Meeting, Greenlanders Ask: Now What?",
+    "link": "https://www.nytimes.com/2026/01/15/world/europe/trump-greenland-denmark-meeting.html",
+    "summary": "A high-powered meeting in Washington on Wednesday ended in an impasse, leaving Greenlanders fearful of what comes next.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:57:01 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "ee395805db9f19bf92781836e7454a83",
     "title": "Millions In Tamil Nadu Celebrate Pongal With Fervour, PM Extends Greetings",
     "link": "https://www.ndtv.com/tamil-nadu-news/millions-in-tamil-nadu-celebrate-pongal-with-fervour-pm-extends-greetings-10753409#publisher=newsstand",
@@ -9812,6 +10423,19 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Gorakhpur",
+    "lang": "en"
+  },
+  {
+    "id": "b45d005a03603fe23bf5e6fba88103d3",
+    "title": "Widespread delays hit Uganda election amid internet shutdown",
+    "link": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
+    "summary": "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:51:52 GMT",
+    "section": "International",
+    "report_category": "International",
+    "source": "BBC World",
+    "district": "",
     "lang": "en"
   },
   {
@@ -9984,6 +10608,19 @@
     "lang": "en"
   },
   {
+    "id": "30cdf9fdf5bc173d038b3b4936061d34",
+    "title": "European military personnel arrive in Greenland as Trump says US needs island",
+    "link": "https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss",
+    "summary": "France says a 15-strong French military contingent has arrived and more forces will be there in the coming days.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:41:25 GMT",
+    "section": "International",
+    "report_category": "International",
+    "source": "BBC World",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "41694f94e7ecd49a801fa79514135f40",
     "title": "नमो घाट पर गंगा स्नान के लिए उमड़े श्रद्धालु, VIDEO",
     "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-devotees-thronged-to-namo-ghat-for-a-dip-in-the-ganges-2026-01-15",
@@ -9997,6 +10634,32 @@
     "lang": "en"
   },
   {
+    "id": "e74bfe85dea912a648df9a40d55af3cf",
+    "title": "‘Frustration & despair’ in Gaza as US announces ceasefire phase 2",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/frustration-despair-in-gaza-as-us-announces-ceasefire-phase-2?traffic_source=rss",
+    "summary": "Hind Khoudary says there is ‘frustration and despair’ in Gaza over the US announcement of phase 2 of a ceasefire plan.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:38:49 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "b55ad7dcc688db3f575b42eae6fe8a28",
+    "title": "The U.S. Is Pressing Mexico to Allow U.S. Forces to Fight Cartels",
+    "link": "https://www.nytimes.com/2026/01/15/world/americas/us-mexico-cartels.html",
+    "summary": "The United States is escalating pressure on the Mexican government to permit the U.S. military to target fentanyl labs, according to American officials.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:38:23 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "bd5768ca3afcd809a1abb64343d29713",
     "title": "UP News: स्टॉक मार्केट में निवेश के नाम पर ठगी करने का आरोपी डॉक्टर गिरफ्तार, लालच में आकर जुड़ा था गिरोह से",
     "link": "https://www.amarujala.com/uttar-pradesh/shahjahanpur/doctor-arrested-for-cheating-in-the-name-of-investment-shahjahanpur-news-c-122-1-sbly1036-163013-2026-01-15",
@@ -10007,19 +10670,6 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Uttar Pradesh",
-    "lang": "en"
-  },
-  {
-    "id": "07dc9ac2ae9f1b2078aba6f09e279103",
-    "title": "मायावती का 70वां जन्मदिन: कहा- ब्राह्मणों को चोखा-बाटी नहीं सम्मान चाहिए, शॉर्ट सर्किट के कारण पीसी रोकी",
-    "link": "https://www.amarujala.com/lucknow/up-mayawati-celebrates-70th-birthday-says-brahmins-shouldn-t-eat-anyone-s-chokha-baati-we-will-give-them-re-2026-01-15",
-    "summary": "Mayawati birthday: बसपा सुप्रीमो मायावती ने अपना 70वां जन्मदिन लखनऊ में मनाया। इस मौके पर पत्रकार वार्ता में उन्होंने भाजपा सहित बाकी पार्टियों पर हमला किया।",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 12:36:40 +0530",
-    "section": "UP_Focus",
-    "report_category": "UP_Focus",
-    "source": "Amar Ujala",
-    "district": "Lucknow",
     "lang": "en"
   },
   {
@@ -10062,6 +10712,19 @@
     "lang": "hi"
   },
   {
+    "id": "9a3b002a7b74408adbea68d37ff8e7d0",
+    "title": "She's offered to share her Nobel with Trump. But what might Machado ask for in return?",
+    "link": "https://www.bbc.com/news/articles/c801p8jppv5o?at_medium=RSS&at_campaign=rss",
+    "summary": "Venezuela's opposition leader will meet with US President Donald Trump at the White House on Thursday.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:32:12 GMT",
+    "section": "International",
+    "report_category": "International",
+    "source": "BBC World",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "31492d7364fccbb5523b8885653b1da9",
     "title": "'मौत की डोर' पर एक्शन: वाराणसी में 28 किग्रा चीनी मांझा पकड़ा, चार आरोपियों को किया गया गिरफ्तार",
     "link": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-police-four-accused-arrested-28-kg-of-chinese-kite-string-seized-2026-01-15",
@@ -10072,6 +10735,19 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "156b107ab1fe7895595d89c589ad7acb",
+    "title": "Gaza’s ceasefire moves to next phase, but is it working?",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/gazas-ceasefire-moves-to-next-phase-but-is-it-working?traffic_source=rss",
+    "summary": "The US has announced the Gaza ceasefire is moving to phase two, but did Israel and Hamas abide by phase one?",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:26:24 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
     "lang": "en"
   },
   {
@@ -10089,7 +10765,7 @@
   },
   {
     "id": "473e224c295d84b264b6f4a4c67306c3",
-    "title": "BMC Polls: “राज ठाकरे ने बीएमसी चुनावों में अपनी हार स्वीकार कर ली”, भाजपा नेता शेलार का दावा",
+    "title": "BMC Polls: 'राज ठाकरे ने बीएमसी चुनावों में अपनी हार स्वीकार कर ली', भाजपा नेता शेलार का दावा",
     "link": "https://www.amarujala.com/india-news/raj-thackeray-has-accepted-his-defeat-in-the-bmc-elections-claims-bjp-leader-shelar-2026-01-15",
     "summary": "BMC Polls: “राज ठाकरे ने बीएमसी चुनावों में अपनी हार स्वीकार कर ली”, भाजपा नेता शेलार का दावा। \"Raj Thackeray has accepted his defeat in the BMC elections,\" claims BJP leader Shelar",
     "date": "2026-01-15",
@@ -10127,6 +10803,19 @@
     "lang": "hi"
   },
   {
+    "id": "a7bc83f3f5bbdfbe62624593b3802c60",
+    "title": "‘Squished Between Chairs’ on a Train: How Some Passengers Survived a Crane Collapse",
+    "link": "https://www.nytimes.com/2026/01/15/world/asia/thailand-train-crane-survivors.html",
+    "summary": "Some travelers were able to squeeze out of mangled cars and others were rescued by residents, after the accident in northeastern Thailand. Dozens did not survive.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:20:13 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "ec0a92a7936e9d1e1a98608cb8222a60",
     "title": "Captain's Relative Summoned In AI-171 Probe, Pilots' Body Alleges \"Narrative\"",
     "link": "https://www.ndtv.com/india-news/ai-171-crash-captain-sumit-sabharwal-air-india-plane-crash-captain-relative-summoned-in-ai-171-probe-pilots-body-alleges-narrative-10753910#publisher=newsstand",
@@ -10154,9 +10843,9 @@
   },
   {
     "id": "62110d4a7564b1722b1fa485ea4deb1e",
-    "title": "I-PAC Raid Case: ईडी और ममता सरकार आमने-सामने, सुप्रीम कोर्ट ने कहा– हम नोटिस जारी करेंगे; जानिए क्या-क्या हुआ",
+    "title": "I-PAC Raids: ईडी अफसरों पर नहीं होगी FIR, अगली सुनवाई तीन फरवरी को; सुप्रीम कोर्ट से ममता सरकार को नोटिस जारी",
     "link": "https://www.amarujala.com/india-news/supreme-court-i-pac-raids-in-kolkata-ed-solicitor-general-tushar-mehta-hearing-updates-hindi-2026-01-15",
-    "summary": "I-PAC Raid Case: ईडी और ममता सरकार आमने-सामने, सुप्रीम कोर्ट ने कहा– हम नोटिस जारी करेंगे; जानिए क्या-क्या हुआ---Supreme Court: I-PAC raids in Kolkata ED Solicitor General Tushar Mehta hearing Updates hindi",
+    "summary": "I-PAC Raids: ईडी अफसरों पर नहीं होगी FIR, अगली सुनवाई तीन फरवरी को; सुप्रीम कोर्ट से ममता सरकार को नोटिस जारी---Supreme Court: I-PAC raids in Kolkata ED Solicitor General Tushar Mehta hearing Updates hindi",
     "date": "2026-01-15",
     "timestamp": "Thu, 15 Jan 2026 12:17:52 +0530",
     "section": "National",
@@ -10205,6 +10894,19 @@
     "lang": "en"
   },
   {
+    "id": "2cc44213c0385d460a806cf2f8515342",
+    "title": "'I don’t want an impotent man,' says wife:Kanpur man ends life after consuming poison at in-laws’ doorstep; married 2.5 years ago",
+    "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/kanpur-man-suicide-in-laws-doorstep-wife-refuses-entry-136952852.html",
+    "summary": "In Kanpur, a young man died by suicide after consuming poison outside his in-laws’ house in the Chakeri police station area. He had gone to persuade his wife, but she shut the door on him and did not respond despite repeated knocking. At around 3:40 pm on Wednesday, he made a final call to his wife, which went unanswered. After this, the man consumed poison in his auto and returned home, where his condition worsened. He was taken to Kanshiram Hospital and later referred to Hallett Hospital, where doctors declared him dead late Wednesday night. According to the police, the couple had been in a relationship for 8 years. Two and a half years ago, they got married in a temple. Four months ago, after an argument with her husband, the wife had gone to her parental home. The WhatsApp chat between the husband and wife has come to light. In it, the wife wrote to her husband, I don't want a coward, a cheater like you. I hate... you, your name, your hypocritical actions. Is this the first time you're eating outside food because of me? Complete story of love, marriage, and suicide, read in 4 points 1. Married without family’s consent: Vikram Kewat (25), an auto driver from Anand Vihar under Hanumant Vihar police station area, was the only son of Jai Kumar, who lives with his wife Isha and four daughters, Chinchhi, Pooja, Sanno and Shalu. Vikram had been in a relationship with Riya, a resident of Ramadevi’s Delhi Pulia, for eight years. About two-and-a-half years ago, they married in a temple without informing the family, and later lived in a rented house in Damodar Nagar. The father alleged Riya never allowed the family to meet Vikram. 2. Contact cut off after marriage: Jai Kumar said Riya blocked the family’s numbers on Vikram’s phone. After marriage, domestic disputes arose, and about four months ago Riya left Vikram and went to her parental home. Despite repeated attempts, Vikram was unable to persuade her to return. 3. Repeated suicide attempts alleged: According to the father, Vikram, distressed by marital issues, had attempted suicide four to five times earlier. About 15 days ago, Riya allegedly came to their Damodar Nagar house, took jewellery and Rs 1 lakh in cash, and returned to her maternal home. Vikram later found his number blocked again. 4. Poison consumed after call unanswered: Jai Kumar said that on Wednesday, around 3 pm, Vikram went by auto to Riya’s house to convince her, but she did not open the door. At 3:40 pm, he called her again, but the call went unanswered. Vikram then consumed poison in his parked auto. Around 4:15 pm, he returned home, where his condition worsened. He was taken to Kanshiram Hospital and later referred to Hallett Hospital, where he died late at night. Husband and wife argued on WhatsApp After Vikram's death, his family checked his mobile. They found some WhatsApp messages showing an argument between Vikram and Riya. Chakeri Police Station in-charge Ajay Prakash Mishra said, The body has been sent for post-mortem. The family has not yet filed a complaint.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:09:48 +0000",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Bhaskar English",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
     "id": "e793a52117be7c3c7f5cae047290c98b",
     "title": "Tension In Hyderabad Over Temple Vandalism; Asaduddin Owaisi Visits Spot",
     "link": "https://www.ndtv.com/india-news/tension-in-hyderabad-over-temple-vandalism-asaduddin-owaisi-visits-spot-10753956#publisher=newsstand",
@@ -10214,6 +10916,19 @@
     "section": "National",
     "report_category": "National_Opposition",
     "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "883dd091e6dc9172da17689cf9322f4f",
+    "title": "Trump on the future of Gaza: In his own words",
+    "link": "https://www.aljazeera.com/video/2026/1/15/trump-on-the-future-of-gaza-in-his-own-words?traffic_source=rss",
+    "summary": "A compilation of what Trump envisions for the future of the Gaza Strip.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:08:02 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
     "district": "",
     "lang": "en"
   },
@@ -10228,6 +10943,19 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "dc1076c02571432e38d362a081c7f304",
+    "title": "Astronauts splash down to Earth after medical evacuation from space station",
+    "link": "https://www.bbc.com/news/articles/c205r8n0276o?at_medium=RSS&at_campaign=rss",
+    "summary": "The four members of Crew-11 beamed as they stepped out of their spacecraft after a safe landing.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:06:47 GMT",
+    "section": "International",
+    "report_category": "International",
+    "source": "BBC World",
+    "district": "",
     "lang": "en"
   },
   {
@@ -10257,6 +10985,19 @@
     "lang": "en"
   },
   {
+    "id": "f8d6f6f54ec32d698e654e1903b718d4",
+    "title": "Israel carries out raids and demolitions, arrests dozens across West Bank",
+    "link": "https://www.aljazeera.com/news/2026/1/15/israel-carries-out-raids-and-demolitions-arrests-dozens-across-west-bank?traffic_source=rss",
+    "summary": "One Palestinian man is shot and wounded, and at least 80 people are detained in mass overnight raids.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 12:00:57 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "41c6cdc090266e99a8b8a70243a92592",
     "title": "वाराणसी में मुठभेड़: पशु तस्कर को लगी गोली...घायल, साथी भाग निकला; तीन जिले के थानों में दर्ज हैं पांच मामले",
     "link": "https://www.amarujala.com/uttar-pradesh/varanasi/encounter-in-varanasi-animal-smuggler-shot-and-injured-accomplice-escaped-five-cases-registered-2026-01-15",
@@ -10267,6 +11008,19 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "4ec5e851340a8caaba808cfceb77aa56",
+    "title": "Israel uses Somaliland to make it “seen as a regional power”",
+    "link": "https://www.aljazeera.com/video/quotable/2026/1/15/israel-uses-somaliland-to-make-it-seen-as-a-regional?traffic_source=rss",
+    "summary": "“The new connection between Israel and Somaliland is part of this idea that Israel has to be seen once more ...\"",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 11:59:00 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
     "lang": "en"
   },
   {
@@ -10284,7 +11038,7 @@
   },
   {
     "id": "d9b2bebf2a128705abc33f734e824dcc",
-    "title": "Supreme Court refuses to entertain Jana Nayagan producer, who says he is ‘ruined’",
+    "title": "Supreme Court refuses to entertain Jana Nayagan producer’s plea, who says he is ‘ruined’",
     "link": "https://www.thehindu.com/news/national/supreme-court-refuses-to-entertain-jana-nayagan-producer-who-says-he-is-ruined/article70512283.ece",
     "summary": "Supreme Court asks the Madras High Court Division Bench to pass a direction on January 20",
     "date": "2026-01-15",
@@ -10310,7 +11064,7 @@
   },
   {
     "id": "51aa003c24aff390884941d6ebec72a0",
-    "title": "Trump set to meet Venezuelan opposition leader after cozying up to Maduro’s successor",
+    "title": "Trump set to meet Venezuelan Opposition leader after cozying up to Maduro’s successor",
     "link": "https://www.thehindu.com/news/international/trump-set-to-meet-venezuelan-opposition-leader-after-cozying-up-to-maduros-successor/article70512245.ece",
     "summary": "The meeting comes as Mr. Trump and his top advisers have signaled their willingness to work with acting President Delcy Rodríguez",
     "date": "2026-01-15",
@@ -10504,6 +11258,19 @@
     "lang": "en"
   },
   {
+    "id": "ec5fa7f62ef7c3ced208b17ce65a5449",
+    "title": "Nearly 5 Million Accounts Removed Under Australia’s New Social Media Ban",
+    "link": "https://www.nytimes.com/2026/01/15/world/australia/social-media-ban-australia.html",
+    "summary": "Governments around the world are watching the rollout of the landmark law, which made it illegal for those under 16 to have accounts.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 11:31:05 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "da91fdfe529b143dd711c998d3473446",
     "title": "मकर संक्रांति पर निःशुल्क चाय का किया गया वितरण, VIDEO",
     "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-free-tea-was-distributed-at-assi-ghat-on-the-occasion-of-makar-sankranti-2026-01-15",
@@ -10660,6 +11427,19 @@
     "lang": "en"
   },
   {
+    "id": "b157b0a12ee4b40dd4e015d7bb96a1f5",
+    "title": "ICE officer shoots Venezuelan immigrant in Minneapolis: What we know",
+    "link": "https://www.aljazeera.com/news/2026/1/15/ice-officer-shoots-venezuelan-immigrant-in-minneapolis-what-we-know?traffic_source=rss",
+    "summary": "ICE-related shooting in Minnesota occurred one week after Renee Nicole Good was shot dead by federal officer.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 11:06:02 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "67bcf85336a3952677c5c27209236a78",
     "title": "PM Modi At 28th CSPOC: 42 देशों के संसदीय पदाधिकारियों के सम्मेलन में बोले पीएम- हमारे लोकतंत्र की बुनियाद ठोस",
     "link": "https://www.amarujala.com/india-news/pm-modi-at-28th-cspoc-parliamentary-officials-of-over-40-countries-in-india-prime-minister-address-hindi-news-2026-01-15",
@@ -10699,6 +11479,19 @@
     "lang": "en"
   },
   {
+    "id": "bcef2eabf2bd945b7459443f4f77fbae",
+    "title": "Who is Nickolay Mladenov, the diplomat tasked with ‘disarming Gaza’?",
+    "link": "https://www.aljazeera.com/features/2026/1/15/who-is-nickolay-mladenov-the-diplomat-tasked-with-disarming-gaza?traffic_source=rss",
+    "summary": "Ex-UN envoy to lead the Israeli-decimated Palestinian enclave's \"Board of Peace\" as phase two talks begin.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 11:01:00 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "89f072e6245c0b59720a62eb05d5c482",
     "title": "कांशीराम का वह वादा जिसने मायावती की बदली जिंदगी, अब अस्तित्व बचाने की चुनौती",
     "link": "https://www.livehindustan.com/uttar-pradesh/kanshi-ram-s-promise-that-changed-mayawati-s-life-bsp-now-facing-the-challenge-of-survival-201768454351182.html",
@@ -10709,6 +11502,45 @@
     "report_category": "UP_Focus",
     "source": "Live Hindustan",
     "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "3c46478324d7f42f868257f9f2f5ec54",
+    "title": "Reza Pahlavi, Son of Deposed Shah of Iran, Seeks Center Stage Amid Protests",
+    "link": "https://www.nytimes.com/2026/01/13/world/middleeast/iran-protests-shah-son-pahlavi.html",
+    "summary": "Reza Pahlavi, living in exile in the United States, has long marketed himself as a future leader of Iran. His father’s repressive legacy casts a long shadow.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 10:55:06 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "055a3f4e3c13e692b053592a89605cce",
+    "title": "Russia Knocks Out the Heat in Ukraine",
+    "link": "https://www.nytimes.com/2026/01/15/world/europe/ukraine-kyiv-winter-heating-power-outages.html",
+    "summary": "The Kremlin has tried for years to freeze Ukraine into submission. This winter, its attacks have been the most devastating ever.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 10:52:49 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "c28fa4d239517c2ec215c37b69343dde",
+    "title": "Lebanese fear US has given green light for Israeli escalation",
+    "link": "https://www.aljazeera.com/features/2026/1/15/lebanese-fear-us-has-given-green-light-for-israeli-escalation?traffic_source=rss",
+    "summary": "Israel has attacked south Lebanon dozens of times recently, as locals fear a renewed military escalation.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 10:46:18 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
     "lang": "en"
   },
   {
@@ -10747,6 +11579,19 @@
     "section": "International",
     "report_category": "International",
     "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "95bc5e19a3b9c21ab197d8340b88220f",
+    "title": "Zelensky declares energy emergency as biting cold persists",
+    "link": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
+    "summary": "The move comes as US President Donald Trump said Ukraine is \"less ready\" than the Russian president to make a peace deal.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 10:41:04 GMT",
+    "section": "International",
+    "report_category": "International",
+    "source": "BBC World",
     "district": "",
     "lang": "en"
   },
@@ -10790,6 +11635,19 @@
     "lang": "en"
   },
   {
+    "id": "ab79c85f1123a6c2d28d6cdaf950816b",
+    "title": "EU-Latin America trade deal: Who wins?",
+    "link": "https://www.aljazeera.com/video/counting-the-cost/2026/1/15/eu-latin-america-trade-deal-who-wins-2?traffic_source=rss",
+    "summary": "The EU and the Mercosur trading bloc of five Latin American nations seal a sweeping trade pact.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 10:35:51 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "9ebb1c1dde976f5386f2d35977a19e00",
     "title": "UP News: बरेली के इन तीन गांवों की बदलेगी तस्वीर, नगर निगम की सीमा में होंगे शामिल; शासन को भेजा गया प्रस्ताव",
     "link": "https://www.amarujala.com/uttar-pradesh/bareilly/municipal-corporations-border-expansion-will-soon-include-three-villages-adjacent-to-the-city-bareilly-news-c-4-vns1074-806883-2026-01-15",
@@ -10803,6 +11661,19 @@
     "lang": "en"
   },
   {
+    "id": "cd61d8d05d3a020c5df815c7558f421a",
+    "title": "Quebec Premier François Legault Resigns Ahead of Elections",
+    "link": "https://www.nytimes.com/2026/01/14/world/americas/quebec-leader-resignation.html",
+    "summary": "Premier François Legault became Canada’s most popular provincial leader during the pandemic thanks to his reassuring, avuncular persona. But missteps sank his hopes for a third term.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 10:35:39 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "2b4b1edc9de9a606667fb3e6a28b8cf0",
     "title": "Azamgarh News: भाई के चालीसवें में शामिल होने आजमगढ़ आएगा गैंगस्टर अबू सलेम, बांबे हाईकोर्ट से मिली पैरोल",
     "link": "https://www.amarujala.com/uttar-pradesh/mirzapur/gangster-abu-salem-will-come-to-azamgarh-to-attend-his-brothers-40th-day-ceremony-granted-parole-mirzapur-news-c-258-1-svns1001-143901-2026-01-15",
@@ -10813,6 +11684,19 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "a665d4107dbdfa621c57a583a9e78ec7",
+    "title": "Was Nicolas Maduro ‘flooding’ the US with fentanyl, as White House claims?",
+    "link": "https://www.aljazeera.com/features/2026/1/15/was-nicolas-maduro-flooding-the-us-with-fentanyl-as-white-house-claims?traffic_source=rss",
+    "summary": "Trump administration's claim that abducted Venezuelan leader is behind gangs sending drugs to US do not stack up.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 10:27:53 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
     "lang": "en"
   },
   {
@@ -10933,6 +11817,19 @@
     "lang": "en"
   },
   {
+    "id": "1b8b0b5b362f5336ac1a187ee7df4b26",
+    "title": "Nobel Committee Takes Heat at Home as Machado Courts Trump in D.C.",
+    "link": "https://www.nytimes.com/2026/01/15/world/americas/machado-trump-meeting-nobel-peace-prize.html",
+    "summary": "The Venezuelan opposition leader’s attempts to share her award with the U.S. president have shaken some Norwegians’ faith in their signature soft-power tool.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 10:03:49 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "ab76a2b54110dd2d9dd67b715033fc68",
     "title": "Etah: घने कोहरे की चादर से जनजीवन अस्त-व्यस्त, हाईवे पर थमी रफ्तार; देखें वीडियो",
     "link": "https://www.amarujala.com/uttar-pradesh/etah/dense-fog-disrupts-life-in-etah-highway-traffic-comes-to-a-standstill-2026-01-15",
@@ -10943,6 +11840,19 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "b8cbc9ebb0bedaab15665dad5e7ed4ea",
+    "title": "Venezuela Strongman and Maduro Ally, Diosdado Cabello, Faces an Uneasy Transition",
+    "link": "https://www.nytimes.com/2026/01/15/world/americas/venezuela-diosdado-cabello-maduro.html",
+    "summary": "Diosdado Cabello, Venezuela’s interior minister, is accused by U.S. prosecutors of drug trafficking and is linked to repression at home, yet remains a powerful figure.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 10:00:51 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
     "lang": "en"
   },
   {
@@ -10998,6 +11908,32 @@
     "lang": "en"
   },
   {
+    "id": "32292bafda955987892cd7e8dcb43773",
+    "title": "ASP Anuj Chaudhary arrives in Gorakhpur, offers prayers at temple:Yogi presents khichdi, smiles as child asks for chips",
+    "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/yogi-gorakhnath-temple-khichdi-makar-sankranti-gorakhpur-136951860.html",
+    "summary": "CM Yogi offered khichdi at the Gorakhnath Temple in Gorakhpur on Thursday morning, marking the occasion of Makar Sankranti. Gorakshapitheshwar Yogi Adityanath entered the sanctum sanctorum at around 3:40 a.m. and, following the Nath tradition, performed special worship and rituals in honour of Guru Gorakhnath. He blew the traditional whistle hanging around his neck and bowed in reverence. After the rituals, khichdi was offered to Guru Gorakhnath, including the sacred offering sent by the Nepal Royal Family. CM tours temple premises Following the worship, the Chief Minister toured the temple premises and extended Makar Sankranti greetings to devotees. Soon after, the ritual of common devotees offering khichdi formally began. Temple echoes with sounds of drums On the festival day, lakhs of devotees from Nepal, Uttar Pradesh and Bihar thronged the Gorakhnath Temple. The entire temple complex echoed with the sound of drums and devotional chants. By 8 am, around three lakh devotees had already offered khichdi. Long queues were seen outside the temple, with devotees getting darshan after waiting for nearly an hour. See the pictures... Devotees offer khichdi Due to the massive crowd, many devotees were offering khichdi from outside the sanctum sanctorum. With hundreds of people offering rice, lentils, sesame seeds and other ingredients simultaneously, it appeared as though grains were raining across the temple premises. Devotees from Nepal to participate Thousands of devotees arrived from Nepal to participate in the ritual. They said offering khichdi at Gorakhnath Temple on Makar Sankranti is an age-old tradition in their country, as Baba Gorakhnath is regarded as their revered deity. To manage the crowd and ensure smooth arrangements, temple volunteers along with police and administrative personnel were deployed at various points across the premises.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 09:51:34 +0000",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Bhaskar English",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "470d4c146eba04c0b33bf5544a54227e",
+    "title": "Protests after man shot during US federal raid in Minneapolis",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/protests-after-man-shot-during-us-federal-raid-in-minneapolis?traffic_source=rss",
+    "summary": "Protests erupted in Minneapolis after a federal immigration agent shot a Venezuelan man in the leg after a traffic stop.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 09:46:10 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "b6904e2012afce3bf73b05a6b895359c",
     "title": "AI in Engineering: एआई इंजीनियर बनने का शानदार मौका...2.20 लाख फीस, चार साल का कोर्स; ऐसे करें आवेदन",
     "link": "https://www.amarujala.com/uttar-pradesh/agra/agra-college-to-launch-ai-based-engineering-courses-from-may-at-affordable-fees-2026-01-15",
@@ -11047,6 +11983,19 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "c9735eb2fdb22e2f6e94e5d54f806128",
+    "title": "Construction firm in spotlight after deadly Thailand crane collapses",
+    "link": "https://www.aljazeera.com/video/newsfeed/2026/1/15/construction-firm-in-spotlight-after-deadly-thailand-crane-collapses?traffic_source=rss",
+    "summary": "Dashcam video captured the moment a crane collapsed in Thailand, killing two people.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 09:33:30 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
     "lang": "en"
   },
   {
@@ -11154,6 +12103,19 @@
     "lang": "en"
   },
   {
+    "id": "aaf6772fa3bb61160b53ec3f31c370d5",
+    "title": "Japan, Philippines sign new defence pacts amid surging China tensions",
+    "link": "https://www.aljazeera.com/news/2026/1/15/japan-philippines-sign-new-defence-pacts-amid-surging-china-tensions?traffic_source=rss",
+    "summary": "One deal allows the tax-free provision of ammunition, fuel and other supplies when their forces stage joint training.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 09:18:07 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "6fdb921be00521e10308e249fccb939c",
     "title": "BMC Polls 2026: मुंबई में नगर निगम चुनाव के लिए सुरक्षा बंदोबस्त चाक-चौबंद; 28 हजार से ज्यादा पुलिसकर्मी तैनात",
     "link": "https://www.amarujala.com/india-news/bmc-polls-2026-heavy-security-in-mumbai-as-civic-body-polls-begin-over-28000-police-deployed-2026-01-15",
@@ -11167,6 +12129,19 @@
     "lang": "hi"
   },
   {
+    "id": "76e4ac2e2ee2c2f325af5d45eda7844d",
+    "title": "Russia unlikely to risk ‘reputation failure’ by intervening in Iran unrest",
+    "link": "https://www.aljazeera.com/news/2026/1/15/why-rattle-sabers-russias-response-to-iran-protests?traffic_source=rss",
+    "summary": "A former Russian diplomat and analysts decode Moscow's muted response to protests and political tension.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 09:12:30 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "a47ff5877c069fc81a71a5a9e310866f",
     "title": "हनुमान जी के बाद अब मां दुर्गा की मूर्ति की परिक्रमा कर रहा कुत्ता, पशु डॉक्टर के साथ टीम पहुंची",
     "link": "https://www.livehindustan.com/uttar-pradesh/after-hanuman-dog-is-now-seen-circling-the-idol-of-goddess-durga-a-team-including-a-veterinary-doctor-has-arrived-201768447952182.html",
@@ -11176,19 +12151,6 @@
     "section": "UP_Focus",
     "report_category": "UP_Focus",
     "source": "Live Hindustan",
-    "district": "Uttar Pradesh",
-    "lang": "en"
-  },
-  {
-    "id": "a935e5a3586dffe614f6fd5be602ac2b",
-    "title": "राणा सांगा: 30 जनवरी को पुण्यतिथि, अभी तक नहीं लगी प्रतिमा; समर्थकों में बढ़ी नाराजगी",
-    "link": "https://www.amarujala.com/uttar-pradesh/agra/rana-sanga-s-statue-still-awaited-as-death-anniversary-approaches-on-30-january-2026-01-15",
-    "summary": "सांसद राजकुमार चाहर ने की थी आगरा गेट के सामने प्रतिमा लगाने की घोषणा।",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 09:10:59 +0530",
-    "section": "UP_Focus",
-    "report_category": "UP_Focus",
-    "source": "Amar Ujala",
     "district": "Uttar Pradesh",
     "lang": "en"
   },
@@ -11219,6 +12181,45 @@
     "lang": "en"
   },
   {
+    "id": "fcb46f25a6347878e95be4b446678fbc",
+    "title": "Singapore's opposition leader stripped of title after conviction for lying",
+    "link": "https://www.bbc.com/news/articles/cp80217r1kpo?at_medium=RSS&at_campaign=rss",
+    "summary": "Singh, who was convicted for lying to MPs, has always maintained his innocence.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 08:59:23 GMT",
+    "section": "International",
+    "report_category": "International",
+    "source": "BBC World",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "b8914952a8593af8a36d3bf61a54f8cb",
+    "title": "Venezuela Envoy to Visit U.S. for First Official Trip in Years",
+    "link": "https://www.nytimes.com/2026/01/14/world/americas/venezuela-diplomat-us-visit-washington.html",
+    "summary": "Félix Plasencia, an envoy of the interim government, will travel to the United States on the day the opposition leader María Corina Machado is to meet President Trump.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 08:56:05 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "053f870e5fbc42fcf515d87b385f9b81",
+    "title": "If U.S. Were to Invade Greenland, ‘NATO Would Be Stuck’",
+    "link": "https://www.nytimes.com/2026/01/14/world/europe/trump-greenland-nato.html",
+    "summary": "The treaty that created NATO did not contemplate an attack by one ally on another. A seizure of Greenland by President Trump would test the endurance of the mutual-defense pact.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 08:53:54 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "NYT World",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "e92ff3333ce3388af4da26d2b6b57ff6",
     "title": "Indian Army Day: प्रधानमंत्री बोले- भारतीय सेना के जवान निस्वार्थ सेवा-राष्ट्र रक्षा के प्रतीक, सैनिकों को नमन",
     "link": "https://www.amarujala.com/india-news/indian-army-day-prez-droupadi-murmu-pm-modi-defence-minister-rajnath-and-others-pay-tributes-to-military-men-2026-01-15",
@@ -11245,19 +12246,6 @@
     "lang": "en"
   },
   {
-    "id": "02842521c3983a52294250c3280bc16e",
-    "title": "Live Updates: Maharashtra Votes In Civic Body Polls, High-Stakes Battle In Mumbai, Pune",
-    "link": "https://www.ndtv.com/india-news/maharashtra-elections-2026-voting-live-updates-civic-body-polls-bmc-elections-pune-thane-municipal-corporation-29-civic-bodies-to-vote-today-10752722#publisher=newsstand",
-    "summary": "Maharashtra Elections 2026 Live Updates",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 08:51:04 +0530",
-    "section": "National",
-    "report_category": "National_General",
-    "source": "NDTV India",
-    "district": "",
-    "lang": "en"
-  },
-  {
     "id": "2a97f625d5df9f2e8bfcee69839b1d49",
     "title": "Thackerays vs BJP-Sena vs NCP As Mumbai Votes In 1st Civic Polls Since 2017",
     "link": "https://www.ndtv.com/india-news/maharashtra-civic-polls-2026-bmc-elections-thackerays-vs-bjp-sena-vs-ncp-as-mumbai-votes-in-1st-civic-polls-since-2017-10752674#publisher=newsstand",
@@ -11267,6 +12255,32 @@
     "section": "National",
     "report_category": "National_General",
     "source": "NDTV India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "0ff6928e1021c308e67259ade2a18130",
+    "title": "Bangladesh’s Muhammad Yunus Era",
+    "link": "https://www.aljazeera.com/video/the-india-report/2026/1/15/bangladeshs-muhammad-yunus-era?traffic_source=rss",
+    "summary": "How Bangladesh’s interim government has fared in steering the country to this point?",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 08:49:29 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "26b28438ec7b2dabb121a860c961727c",
+    "title": "Trump suspends immigrant visas for 75 countries: Who’s affected?",
+    "link": "https://www.aljazeera.com/news/2026/1/15/trump-suspends-immigrant-visas-for-75-countries-whos-affected?traffic_source=rss",
+    "summary": "The suspension will take effect on January 21 but does not apply to visitors or short-term visa holders.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 08:49:17 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
     "district": "",
     "lang": "en"
   },
@@ -11297,6 +12311,19 @@
     "lang": "en"
   },
   {
+    "id": "ba33742dbd6e1d2d149e6de8e3d583d3",
+    "title": "Musk’s Grok to bar users from generating sexual images of real people",
+    "link": "https://www.aljazeera.com/news/2026/1/15/musks-grok-to-bar-users-from-generating-sexual-images-of-real-people?traffic_source=rss",
+    "summary": "The billionaire's platform has been inundated with Grok-produced sexualised images, including of children.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 08:47:40 +0000",
+    "section": "International",
+    "report_category": "International",
+    "source": "Al Jazeera",
+    "district": "",
+    "lang": "en"
+  },
+  {
     "id": "3d8f8211cccde38c15d9bb1d40af15cf",
     "title": "X to stop Grok AI from undressing images of real people after backlash",
     "link": "https://www.bbc.com/news/articles/ce8gz8g2qnlo?at_medium=RSS&at_campaign=rss",
@@ -11323,19 +12350,6 @@
     "lang": "en"
   },
   {
-    "id": "fcb46f25a6347878e95be4b446678fbc",
-    "title": "Singapore's opposition leader stripped of title after conviction for lying",
-    "link": "https://www.bbc.com/news/articles/cp80217r1kpo?at_medium=RSS&at_campaign=rss",
-    "summary": "Singh, who was convicted for lying to MPs, has always maintained his innocence.",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 08:43:24 GMT",
-    "section": "International",
-    "report_category": "International",
-    "source": "BBC World",
-    "district": "",
-    "lang": "en"
-  },
-  {
     "id": "fe81417c74ac3fc8b2241c82c3746d31",
     "title": "Voting underway for high-stakes civic polls in Maharashtra; all eyes on big battle for Mumbai",
     "link": "https://www.thehindu.com/news/national/maharashtra/voting-underway-for-high-stakes-civic-polls-in-maharashtra-all-eyes-on-big-battle-for-mumbai/article70512089.ece",
@@ -11359,19 +12373,6 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Uttar Pradesh",
-    "lang": "en"
-  },
-  {
-    "id": "b45d005a03603fe23bf5e6fba88103d3",
-    "title": "Widespread delays hit Uganda election amid internet shutdown",
-    "link": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
-    "summary": "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years.",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 08:32:42 GMT",
-    "section": "International",
-    "report_category": "International",
-    "source": "BBC World",
-    "district": "",
     "lang": "en"
   },
   {
@@ -11506,7 +12507,7 @@
   },
   {
     "id": "9690228bdfc1fb887ccf1fb4c0242b8e",
-    "title": "Iran protests LIVE: Iran extends order closing its airspace to commercial aircraft",
+    "title": "Iran protests LIVE: U.S. lowers security alert at Qatar air base, sources say",
     "link": "https://www.thehindu.com/news/international/iran-protests-death-toll-trump-us-live-updates-january-15-2026/article70512073.ece",
     "summary": "U.S. President Donald Trump said that he’s been told “on good authority” that plans for executions in Iran have stopped, even as Tehran has indicated fast trials and executions ahead in its crackdown on protesters",
     "date": "2026-01-15",
@@ -11544,21 +12545,8 @@
     "lang": "en"
   },
   {
-    "id": "c34767e091587c3d66cb133c113d6dae",
-    "title": "ICE agent shoots Minneapolis man in leg after alleged attack, officials say",
-    "link": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
-    "summary": "The City of Minneapolis confirmed a man was shot and taken to hospital for non-life threatening injuries.",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 07:30:47 GMT",
-    "section": "International",
-    "report_category": "International",
-    "source": "BBC World",
-    "district": "",
-    "lang": "en"
-  },
-  {
     "id": "d2e8403a9bf40417a4e34b3fe9299a93",
-    "title": "Astronauts depart International Space Station after medical emergency",
+    "title": "Astronauts splash down on Earth after first-ever ISS medical evacuation",
     "link": "https://www.aljazeera.com/news/2026/1/15/astronauts-depart-international-space-station-after-medical-emergency?traffic_source=rss",
     "summary": "Four astronauts end their mission early so that a crew member can receive medical treatment.",
     "date": "2026-01-15",
@@ -11625,7 +12613,7 @@
     "id": "950e65a79c6a0613b3bb9c95a580329a",
     "title": "Gaza plan phase two: US to discuss Hamas disarmament, Israeli withdrawal",
     "link": "https://www.aljazeera.com/news/2026/1/15/gaza-plan-phase-two-us-to-discuss-hamas-disarmament-israeli-withdrawal?traffic_source=rss",
-    "summary": "The second phase of the ceasefire deal includes naming a panel of Palestinian technocrats to lead post-war Gaza.",
+    "summary": "Hamas says the formation of the Palestinian technocratic committee 'is a step in the right direction'.",
     "date": "2026-01-15",
     "timestamp": "Thu, 15 Jan 2026 07:18:28 +0000",
     "section": "International",
@@ -11727,7 +12715,7 @@
   },
   {
     "id": "4831911afef5e085604e851c636ca03d",
-    "title": "Husband-wife found running sex racket in house in Kashi:Hubby flee during police raid, spouse nabbed; boys and girls were nude in room",
+    "title": "Husband, wife found running sex racket from Varanasi house:Man flees during police raid, spouse arrested; boys, girls found unclothed",
     "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/varanasi/news/kashi-sex-racket-spa-owner-arrested-husband-flees-police-raid-boys-and-girls-were-nude-136950758.html",
     "summary": "A husband and wife were allegedly operating a sex racket from their residence in Varanasi, using a spa centre as a cover. The operation was busted after police conducted a raid on Wednesday. During the raid, several young men and women were found without clothes. Two young men and a young woman were caught in objectionable circumstances, and multiple objectionable items were recovered from one of the rooms. Police forced open the doors of two rooms and arrested the spa centre owner along with two women and two men. Investigations revealed that the spa was being run jointly by the woman and her husband. However, the accused husband managed to escape from the spot during the police action. The spa centre was operating from Maqbool Alam Road in the Cantonment area. Despite being located close to the police officers’ residential colony, its activities had gone unnoticed. Acting on information provided by local residents, ACP Cantt Nitin Taneja led the raid with a police team, which exposed the illegal operation. Know about the entire matter in sequential order... Now know how it was exposed ACP Cantt Nitin Taneja said - Neighbors informed about running a sex racket in the house. The police team conducted a raid. As soon as the raid happened, Sameer Siddiqui fled from the spot. His wife Tarannum was caught by us. One boy and two girls were found in objectionable condition in one room. Then police started searching other rooms. Two rooms were locked. When police broke the locks, liquor bottles and objectionable items were found inside. Suspects are being interrogated According to police, currently the accused woman Tarannum and the arrested young man and woman are being interrogated. Their previous criminal records are also being investigated. ACP Cantt Nitin Taneja said- Police is constantly monitoring such activities. No one will be allowed to be above the law.",
     "date": "2026-01-15",
@@ -11765,6 +12753,32 @@
     "lang": "en"
   },
   {
+    "id": "98520b6b31882b0bae8acb39da7f74ab",
+    "title": "Noida News: ओडिशा से गांजा लाकर एनसीआर के छात्रों में करते थे सप्लाई, तीन धरे",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/they-were-supplying-cannabis-to-students-in-the-ncr-after-bringing-it-from-odisha-three-have-been-arrested-grnoida-news-c-23-1-lko1064-85292-2026-01-15",
+    "summary": "They were supplying cannabis to students in the NCR after bringing it from Odisha; three have been arrested.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:49:11 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "ceb293d564f140cf5be05075de25c97c",
+    "title": "Raebareli: बेकाबू ट्रक ने भाई-बहन को रौंदा, बहन को परीक्षा दिलाकर बाइक से लौट रहा था अंकित",
+    "link": "https://www.amarujala.com/lucknow/raebareli-a-truck-hits-a-brother-and-sister-on-a-bike-while-they-were-returning-after-taking-a-pg-exam-2026-01-15",
+    "summary": "परास्नातक प्रथम पाली में आयोजित भूगोल विषय की परीक्षा देकर अपने भाई के साथ मोटरसाइकिल से घर वापस जाते समय पीछे से आ रहे तेज रफ्तार अनियंत्रित ट्रक की जोरदार टक्कर लगने से दोनों भाई-बहन गंभीर रूप से घायल हो गए।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:47:48 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
+    "lang": "en"
+  },
+  {
     "id": "770128f82bd2015575720340960e47dd",
     "title": "'It was terrifying': Residents describe carnage after Thai train crash kills 32",
     "link": "https://www.bbc.com/news/articles/cm2yvnen1qyo?at_medium=RSS&at_campaign=rss",
@@ -11791,6 +12805,32 @@
     "lang": "en"
   },
   {
+    "id": "fc313019506361e03d39efe66a09264c",
+    "title": "BMC Election Exit Poll: बीएमसी में भाजपा सहयोगियों को बहुमत मिलने की संभावना, जानें अन्य दलों का हाल",
+    "link": "https://www.amarujala.com/india-news/bmc-maharashtra-civic-body-election-exit-poll-bjp-congress-shiv-sena-ncp-2026-01-15",
+    "summary": "BMC Election Exit Poll 2026: BMC समेत 29 नगर निगमों में मतदान खत्म, जारी किए जा रहे हैं एग्जिट पोल",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:41:37 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "ee608a3d4464656eec6c627b254c7786",
+    "title": "Noida News: ओटीएस शिविर में उपभोक्ताओं को दी जानकारी",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/information-given-to-consumers-in-ots-camp-grnoida-news-c-491-1-gnd1001-3233-2026-01-15",
+    "summary": "Information given to consumers in OTS camp",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:39:54 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
     "id": "1848d384bdb558e6cb5e5e1316d336fb",
     "title": "TOP News: महाराष्ट्र निकाय चुनावों के लिए मतदान आज, IMD ने ठंड और कोहरे को लेकर दी चेतावनी; पढ़ें सुर्खियां",
     "link": "https://www.amarujala.com/india-news/top-news-headlines-15th-january-east-west-north-south-politics-maharashtra-bmc-polls-world-weather-alert-trump-2026-01-15",
@@ -11802,6 +12842,19 @@
     "source": "Amar Ujala",
     "district": "",
     "lang": "hi"
+  },
+  {
+    "id": "07ff17b21f2c0f355e53b95b555493cf",
+    "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 15 जनवरी के मुख्य और ताजा समाचार",
+    "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-15",
+    "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:30:27 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
   },
   {
     "id": "4998ca2eb69610493d2caf24cfe81c8a",
@@ -11830,6 +12883,19 @@
     "lang": "en"
   },
   {
+    "id": "e028fd266851dc23132425f0619d2cdf",
+    "title": "Noida News: कार की टक्कर से एमबीए का छात्र घायल",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/an-mba-student-was-injured-in-a-car-accident-grnoida-news-c-23-1-lko1064-85283-2026-01-15",
+    "summary": "An MBA student was injured in a car accident.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:28:03 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
     "id": "680bf5a632ce284838bab251f8027630",
     "title": "Varanasi News: विद्यानिवास कहते थे...रामकथा एक जादू की तरह, विद्वानों ने रखे विचार; दी श्रद्धांजलि",
     "link": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-news-vidyanivas-used-to-say-ramkatha-is-like-magic-scholars-shared-thoughts-and-paid-tribute-2026-01-15",
@@ -11840,6 +12906,32 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "6bbbc62f6a2ea942076ca9b08c96435c",
+    "title": "छात्र की हत्या: कक्षा नौ का छात्र, उम्र 14 साल..., पड़ोस की किशोरी ने फोन कर बुलाया; फिर आई मयंक की खबर",
+    "link": "https://www.amarujala.com/uttar-pradesh/saharanpur/murder-of-student-class-9-student-age-14-years-neighbor-s-teenage-girl-called-mayank-s-news-came-again-2026-01-15",
+    "summary": "Saharanpur News: देवबंद के गांव अलीपुरा में मयंक (14) का खून से लथपथ शव रेलवे ट्रैक पर पड़ा मिला। पिता ने पड़ोस में रहने वाले दंपती और उनकी बेटी समेत परिवार के पांच लोगों के खिलाफ रिपोर्ट दर्ज कराई है। पुलिस ने मामले की जांच शुरू कर दी है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:26:30 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "6ad651d9ea945c891751e3681cd0adc8",
+    "title": "Noida News: जीएसटी रिफंड के फर्जीवाड़े में आरोपियों को नहीं मिली जमानत",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/the-accused-in-the-gst-refund-fraud-case-have-not-been-granted-bail-grnoida-news-c-23-1-lko1064-85278-2026-01-15",
+    "summary": "जाली आधार, पैन और कूटरचित किरायानामा से खोले गये थे खातेमाई सिटी रिपोर्टरग्रेटर नोएडा। फर्जी दस्तावेजों के",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:26:29 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
     "lang": "en"
   },
   {
@@ -11856,16 +12948,42 @@
     "lang": "en"
   },
   {
+    "id": "19c7d1b8bf09973a9f559becdb935193",
+    "title": "UP: राहुल गांधी पर ओमप्रकाश का सियासी तंज, मायावती को लेकर कही बड़ी बात; बोले- सपा सरकार में होते थे दंगे",
+    "link": "https://www.amarujala.com/uttar-pradesh/ghazipur/omprakash-rajbhar-makes-political-taunt-rahul-gandhi-something-significant-about-mayawati-in-ghazipur-2026-01-15",
+    "summary": "पंचायती राज मंत्री ओमप्रकाश राजभर ने राहुल गांधी के चीन को लेकर दिए बयान पर पलटवार करते हुए कहा कि यह बयान उनकी अपनी नाकामी को दर्शाता है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:24:00 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
     "id": "bc82445c414eb819dcb4175ada8e8e7a",
-    "title": "Maharashtra civic polls LIVE: Supriya Sule flags EVM malfunction at several polling stations",
+    "title": "Maharashtra civic polls LIVE: Voting concludes across 29 municipal corporations; videos of removing 'indelible' ink under SEC probe",
     "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-29-civic-bodies-polls-mumbai-bmc-elections-january-15-2026-updates/article70512055.ece",
-    "summary": "Opposition parties question the alleged use of marker pens being applied on voters’ fingers to indicate that they have cast their vote instead of indelible ink",
+    "summary": "Over 41% voter turnout for BMC election till 3.30 p.m.; Colaba in South Mumbai lowest at 15.73%",
     "date": "2026-01-15",
     "timestamp": "Thu, 15 Jan 2026 06:23:17 +0530",
     "section": "National",
-    "report_category": "National_Opposition",
+    "report_category": "National_General",
     "source": "The Hindu",
     "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "a62f85c618bb3bb410da989837cff169",
+    "title": "ग्रेनो न्यूज: पैरामाउंट सोसाइटी की बालकनी में युवक का मिला शव, दोस्तों के साथ पार्टी के लिए आया था; जांच जारी",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/dead-body-of-youth-found-under-suspicious-circumstances-in-paramount-society-in-greater-noida-2026-01-15",
+    "summary": "ग्रेटर नोएडा के थाना सूरजपुर क्षेत्र स्थित पैरामाउंट सोसाइटी के ओक टावर में गुरुवार को एक युवक की संदिग्ध परिस्थितियों में मौत हो गई। पुलिस जांच में पता चला है कि युवक अपने दोस्तों के साथ पार्टी के लिया आया था।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:21:28 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
     "lang": "en"
   },
   {
@@ -11880,6 +12998,19 @@
     "source": "Amar Ujala",
     "district": "Uttar Pradesh",
     "lang": "en"
+  },
+  {
+    "id": "ff386159ff2a556371d4a3ee4ee00561",
+    "title": "Congress Attack BJP: अरावली को लेकर फिर सियासी संग्राम, कांग्रेस बोली- बर्बाद करने वाले बचाने का कर रहे दिखावा",
+    "link": "https://www.amarujala.com/india-news/aravalli-range-bhupender-yadav-statement-congress-attack-bjp-jairam-ramesh-green-wall-project-eco-restoration-2026-01-15",
+    "summary": "Aravalli range Bhupender Yadav statement Congress attack BJP Jairam Ramesh Green Wall Project eco restoration- Congress Attack BJP: अरावली को लेकर फिर सियासी संग्राम, कांग्रेस बोली- बर्बाद करने वाले बचाने का कर रहे दिखावा",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:20:28 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
   },
   {
     "id": "3d7c1fe7ab2eef87e75ded6657e3d4e9",
@@ -11908,6 +13039,45 @@
     "lang": "hi"
   },
   {
+    "id": "bc654bb213646fc7095016bd955a3592",
+    "title": "Iran Unrest: ईरान में फंसे भारतीय नागरिकों को निकालेगी सरकार, कल से शुरू हो सकता है वतन वापसी का अभियान",
+    "link": "https://www.amarujala.com/india-news/mea-is-making-preparations-to-facilitate-return-of-indian-nationals-from-protest-hit-iran-tomorrow-2026-01-15",
+    "summary": "Iran Unrest: ईरान में फंसे भारतीय नागरिकों को निकालेगी सरकार, शुरू की तैयारियां",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:14:28 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "b497d6ec62d15eb6e5e3ea65c587a0a9",
+    "title": "Noida News: नोएडा में पहले मुकाबले 10% बढ़े सर्दी, जुकाम, खांसी और बुखार के मरीज",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/in-noida-the-number-of-patients-with-cold-cough-and-fever-has-increased-by-10-compared-to-before-grnoida-news-c-1-noi1095-3844575-2026-01-15",
+    "summary": "In Noida, the number of patients with cold, cough, and fever has increased by 10% compared to before.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:14:00 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "31d1543aa0ce8ffbd66d0e74367bc59a",
+    "title": "काशी एक्सप्रेस में बम की सूचना देने वाला मुंबई से गिरफ्तार, VIDEO",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-grp-varanasi-arrested-accused-of-bomb-threat-on-kashi-express-train-2026-01-15",
+    "summary": "काशी एक्सप्रेस में बम की सूचना देने वाला मुंबई से गिरफ्तार, VIDEO",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:13:51 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
     "id": "caa7f0a059afdcc37b78906555ddd5a2",
     "title": "Varanasi News Today: वाराणसी में युवक की मौत, दोस्त गंभीर, जमीन दिलाने के नाम पर 11.72 लाख की ठगी; पढ़ें खबरें",
     "link": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-news-today-young-man-dies-friend-in-critical-condition-cheated-out-of-11-lakh-rupees-2026-01-15",
@@ -11934,6 +13104,45 @@
     "lang": "en"
   },
   {
+    "id": "72cc71263d8be3df018f2f98f07376e9",
+    "title": "Varanasi News: यशराज फिल्म्स के नाम पर कर्नाटक के करोबारी से 2.83 करोड़ की ठगी, एफआईआर दर्ज",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/businessman-from-karnataka-was-defrauded-of-rs-2-83-crore-in-the-name-of-yash-raj-films-in-varanasi-2026-01-15",
+    "summary": "कर्नाटक के टुमकुर निवासी गुरु प्रसाद ने बताया कि वह मणिकर्णिका घाट स्थित एक गेस्ट हाउस में रह रहे हैं।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:12:10 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "f6d78222e6cf59a0ae51a5b1dbfb3fea",
+    "title": "Bareiilly News: पीडब्ल्यूडी अधिकारी के रसोइया ने परात में जलाई आग, सुबह कमरे में मिली लाश, दम घुटने से मौत",
+    "link": "https://www.amarujala.com/uttar-pradesh/bareilly/pwd-officer-cook-died-due-to-suffocation-in-bareilly-2026-01-15",
+    "summary": "बंद कमरे में अंगीठी जलाकर सोए थे रसोइया, पुलिस ने दरवाजा तोड़कर निकाला शव",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:11:54 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "ca94a283dc88d514481d3707c08e98bf",
+    "title": "Noida News: नीम का हरा पेड़ काटने का आरोप, तीन गिरफ्तार",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/three-arrested-for-cutting-down-a-green-neem-tree-grnoida-news-c-491-1-gnd1001-3231-2026-01-15",
+    "summary": "Three arrested for cutting down a green neem tree",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:08:52 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
     "id": "210517fd64ca1fc5980f1a32ab47630f",
     "title": "बेटियों को कृषि भूमि में समान अधिकार पर हाईकोर्ट की नोटिस, सरकार की पूछी मंशा",
     "link": "https://www.livehindustan.com/uttar-pradesh/high-court-issues-notice-on-equal-rights-for-daughters-in-agricultural-land-seeks-government-s-intention-201768437138743.html",
@@ -11944,6 +13153,19 @@
     "report_category": "UP_Focus",
     "source": "Live Hindustan",
     "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "0685cb446195dfaf28c8150506da691f",
+    "title": "Noida News: चार दिन शेष, ब्रिज कोर्स के लिए आए 67,761 आवेदन",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/four-days-remaining-67761-applications-received-for-the-bridge-course-grnoida-news-c-1-noi1095-3844574-2026-01-15",
+    "summary": "Four days remaining, 67,761 applications received for the bridge course.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:07:54 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
     "lang": "en"
   },
   {
@@ -11973,6 +13195,45 @@
     "lang": "en"
   },
   {
+    "id": "d5e8d1331d01c2bbaa2da8e690318efc",
+    "title": "Sports: 5वें नंबर पर आए दीपक ने 300 के स्ट्राइक रेट से 51 रन बनाकर नाइट राइडर्स को जिताया मैच, खेल की खबरें",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/sports-news-in-varanasi-jail-premier-league-kashi-knight-riders-defeated-jail-super-kings-2026-01-15",
+    "summary": "टॉस जीतकर काशी नाइट राइडर्स ने पहले बल्लेबाजी चुनी। टीम ने निर्धारित 12 ओवर में 6 विकेट खोकर 145 रन का मजबूत स्कोर खड़ा किया।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:05:06 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "bf09f1938049b023da410cb1c57f7ea8",
+    "title": "Noida News: यातायात नियमों के प्रति किया जागरूक",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/awareness-was-raised-about-traffic-rules-grnoida-news-c-23-1-lko1064-85293-2026-01-15",
+    "summary": "Awareness was raised about traffic rules.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:04:05 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "90f139b020d91e4c080379fd8615773d",
+    "title": "UP Big News: मायावती की पीसी में शॉर्ट सर्किट, माघ मेले में एक करोड़ श्रद्धालु पहुंचे; दिनभर की बड़ी खबरें",
+    "link": "https://www.amarujala.com/lucknow/up-big-news-short-circuit-at-mayawati-s-press-conference-36-lakh-devotees-arrive-at-magh-mela-top-news-of-t-2026-01-15",
+    "summary": "UP Big News: हम आपके लिए दिनभर की प्रमुख खबरों का सार लेकर आए हैं। लखनऊ में मायावती की प्रेस कॉन्फ्रेंस के दौरान शार्ट सर्किट से हाल में अफरातफरी मच गई। इस पर प्रेस कॉन्फ्रेंस रोक दी गई।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 06:00:22 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
+    "lang": "en"
+  },
+  {
     "id": "3647126faa17033bd38f292f5418dd35",
     "title": "Weather Forecast 15 January 2026 : देखिए क्या है आपके यहां मौसम का हाल | Weather Report Today",
     "link": "https://www.amarujala.com/video/india-news/weather-forecast-15-january-2026-see-what-is-the-weather-condition-in-your-area-weather-report-today-2026-01-15",
@@ -11984,6 +13245,19 @@
     "source": "Amar Ujala",
     "district": "",
     "lang": "hi"
+  },
+  {
+    "id": "14165d50803a4f89516a92cd1814221f",
+    "title": "मासूम की मांग: CM योगी ने बच्चे से पूछा क्या चाहिए? नन्हा मेहमान बोला- चिप्स चाहिए..., सामने आया मजेदार वीडियो",
+    "link": "https://www.amarujala.com/gorakhpur/at-the-gorakhnath-temple-a-child-whispered-into-cm-yogi-s-ear-and-asked-for-chips-people-laughed-2026-01-15",
+    "summary": "गोरखपुर सोशल मीडिया पर एक वीडियो तेजी से वायरल हो रहा है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:58:37 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Gorakhpur",
+    "lang": "en"
   },
   {
     "id": "e4a89474e33bf83034afc7e14f801b68",
@@ -12012,6 +13286,84 @@
     "lang": "en"
   },
   {
+    "id": "5ce91f44c0d857350a40cb3b80933df9",
+    "title": "Hyderabad: हैदराबाद में मंदिर में तोड़फोड़ के बाद हंगामा, पुलिस ने दर्ज किए मामले; जानें कैसे शुरू हुआ विवाद",
+    "link": "https://www.amarujala.com/india-news/hyderabad-cases-booked-over-temple-vandalism-unruly-protest-2026-01-15",
+    "summary": "Hyderabad: हैदराबाद में मंदिर में तोड़फोड़ के बाद हंगामा, पुलिस ने दर्ज किए मामले; जानें कैसे शुरू हुआ विवाद Hyderabad Cases booked over temple vandalism, unruly protest",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:54:07 +0530",
+    "section": "National",
+    "report_category": "National_Opposition",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "2257779f7c8517313bad304bc654eaa2",
+    "title": "Noida News: नोएडा ब्लॉस्टर्स की टीम ने मारी बाजी",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/the-noida-blasters-team-emerged-victorious-grnoida-news-c-23-1-lko1064-85287-2026-01-15",
+    "summary": "The Noida Blasters team emerged victorious.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:51:24 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "538f9499c2c66459433b93cc593c3b49",
+    "title": "BTEUP: बीटीईयूपी ने सेमेस्टर एग्जाम में 644 लोगों को थमा दिया जीरो, 55 का रिजल्ट रोका; पेपर में की थी ये गलती",
+    "link": "https://www.amarujala.com/education/up-polytechnic-result-644-students-awarded-zero-marks-for-writing-mobile-numbers-on-answer-sheets-2026-01-15",
+    "summary": "BTEUP Result: बीटीईयूपी ने सेमेस्टर परीक्षा में अनुचित साधनों पर सख्ती बरती है। बोर्ड ने गंभीर कदाचार के आरोप में 644 छात्रों को शून्य अंक दिए हैं, जबकि नकल करते पकड़े गए 55 छात्रों का परिणाम फिलहाल रोक दिया गया है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:51:09 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "27316c7878b99d8ffa48eac2ba0aae26",
+    "title": "Maharashtra civic polls: धुले में निकाय चुनाव के दौरान हिंसा, शिवसेना नेता के घर हमला; EVM को पहुंचाया नुकसान",
+    "link": "https://www.amarujala.com/india-news/maharashtra-civic-polls-violence-erupts-dhule-municipal-elections-shiv-sena-leader-attacked-evm-vandalized-2026-01-15",
+    "summary": "Maharashtra civic polls Violence erupts Dhule municipal elections Shiv Sena leader attacked EVM vandalized- Maharashtra civic polls: धुले में निकाय चुनाव के दौरान हिंसा, शिवसेना नेता के घर हमला; EVM को पहुंचाया नुकसान",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:50:22 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "967889ea88bc061953aaf4693cc44aa9",
+    "title": "बच्चे ने सीएम योगी के कान में कहा- 'चिप्स चाहिए', हंसने लगे CM",
+    "link": "https://www.amarujala.com/video-shots/short-videos/video-a-child-whispered-in-cm-yogis-ear-i-want-chips-and-the-cm-burst-out-laughing-2026-01-15",
+    "summary": "बच्चे ने सीएम योगी के कान में कहा- 'चिप्स चाहिए', हंसने लगे CM",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:50:09 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Gorakhpur",
+    "lang": "en"
+  },
+  {
+    "id": "da5db4a2f87da88b2a617d2465b5068c",
+    "title": "Air India: दिल्ली हवाई अड्डे पर एअर इंडिया का विमान क्षतिग्रस्त, इंजन में फंसा सामना; बाल-बाल टला हादसा",
+    "link": "https://www.amarujala.com/india-news/air-india-aircraft-damaged-at-delhi-airport-luggage-stuck-in-the-engine-major-accident-narrowly-averted-2026-01-15",
+    "summary": "Air India: दिल्ली हवाई अड्डे पर एअर इंडिया का विमान क्षतिग्रस्त, इंजन में फंसा सामना; बाल-बाल टला हादसा, Air India aircraft damaged at Delhi airport luggage stuck in the engine major accident narrowly averted",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:48:49 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
     "id": "d3641d1422d0d16b75d3571cb910214c",
     "title": "‘I hope they show humanity’: Greenlanders fear Trump’s desire for minerals",
     "link": "https://www.aljazeera.com/features/2026/1/15/i-hope-they-show-humanity-greenlanders-fear-trumps-desire-for-minerals?traffic_source=rss",
@@ -12038,6 +13390,19 @@
     "lang": "en"
   },
   {
+    "id": "3fd1bb0e3594454cd0dc9a872ab6ba7d",
+    "title": "Prayagraj : माघ मेले में संतों की पसंद बनीं करोड़ों की गाड़ियां, डिफेंडर और पोर्शे को लेकर सतुआ बाबा चर्चा में",
+    "link": "https://www.amarujala.com/uttar-pradesh/allahabad/cars-worth-crores-became-the-choice-of-saints-at-the-magh-mela-2026-01-15",
+    "summary": "माघ मेले में आए साधु-संतों के वैभव को लेकर चर्चा तेज हो गई है। कई संतों की पसंद करोड़ों की कार है। मेले में जगद्गुरु संतोष दास उर्फ सतुआ बाबा डिफेंडर कार से पहुंचे तो वह पूरे मेले में आकर्षण का केंद्र बन गए हैं।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:45:19 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
     "id": "68952bc2f4d9bbd8f4afd7f540b1dd71",
     "title": "Uproar as rats roam near beds, oxygen pipes in Gonda Hospital; Opposition raises concern for patient safety",
     "link": "https://www.thehindu.com/news/national/uttar-pradesh/uproar-as-rats-roam-near-beds-oxygen-pipes-in-gonda-hospital-opposition-raises-concern-for-patient-safety/article70510064.ece",
@@ -12051,16 +13416,42 @@
     "lang": "en"
   },
   {
-    "id": "38138ea37843b066d7a0c99fdf77febd",
-    "title": "Crane Collapses on Expressway Outside Bangkok, Killing at Least 2",
-    "link": "https://www.nytimes.com/2026/01/15/world/asia/thailand-crane-expressway-rama2.html",
-    "summary": "The deadly episode came a day after a crane fell on a moving train in northeastern Thailand, killing at least 32 people.",
+    "id": "22d0801538ff50505258aa324e48e899",
+    "title": "UP: दीपक हत्याकांड...परिजनों से मिले पंचायती राज्यमंत्री, बोले- आरोपी जल्द होंगे गिरफ्तार; मारी गई थी तीन गोली",
+    "link": "https://www.amarujala.com/uttar-pradesh/ghazipur/deepak-murder-case-panchayati-raj-minister-met-family-members-accused-arrested-soon-shot-three-times-2026-01-15",
+    "summary": "दीपक राजभर हत्याकांड मामले को लेकर बृहस्पतिवार को बेलसड़ी गांव परिजनों से मिलने पहुंचे पंचायती राज मंत्री ओमप्रकाश राजभर ने परिजनों को दुख की घड़ी में ढांढस बंधाया।",
     "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 05:43:39 +0000",
-    "section": "International",
-    "report_category": "International",
-    "source": "NYT World",
-    "district": "",
+    "timestamp": "Thu, 15 Jan 2026 05:44:48 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "24bf989fadfdcc0c24d598dfc000cda4",
+    "title": "Noida News: दहेज उत्पीड़न और जानलेवा हमले का आरोप",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/accused-of-dowry-harassment-and-attempted-murder-grnoida-news-c-23-1-lko1064-85281-2026-01-15",
+    "summary": "ग्रेटर नोएडा। सेक्टर-39 स्थित महिला थाना क्षेत्र में एक विवाहिता ने अपने पति, सास-ससुर पर",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:44:41 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "8a514c7ee820e40b57d070ef4eb338ea",
+    "title": "हिम्मत: लखीमपुर खीरी में तेंदुए के मुंह में बोतल ठूंसकर किसान ने बचाई अपनी जान, दो मिनट तक किया संघर्ष",
+    "link": "https://www.amarujala.com/uttar-pradesh/lakhimpur-kheri/farmer-saved-his-life-by-shoving-a-bottle-into-the-mouth-of-a-leopard-in-lakhimpur-kheri-2026-01-15",
+    "summary": "मझगईं रेंज के बौधियाकलां गांव स्थित खेत की घटना, शौच के लिए जाते वक्त किया था हमला",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:44:16 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
     "lang": "en"
   },
   {
@@ -12103,6 +13494,32 @@
     "lang": "hi"
   },
   {
+    "id": "eeffa69c8c51f8bcdbeb72b2ee4e3c32",
+    "title": "BMC Election Voting Live: बीएमसी समेत सभी नगर निगमों पर खत्म हुआ मतदान, कल होगी मतगणना; पल-पल की अपडेट",
+    "link": "https://www.amarujala.com/live/india-news/maharashtra-civic-polls-voting-live-updates-bmc-election-politcal-reaction-mahayuti-bjp-shiv-sena-ubt-ncp-2026-01-15",
+    "summary": "Maharashtra BMC Election Voting Live Updates: महाराष्ट्र निकाय चुनाव के लिए मतदान शुरू, संघ प्रमुख ने डाला वोट Maharashtra Civic Polls voting Live Updates BMC Election Politcal reaction Mahayuti BJP Shiv Sena UBT NCP",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:41:08 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "c5064674ef9ecd4a934e3e47dda69b3f",
+    "title": "कोहरे का कहर: ट्रक ने मैक्स को मारी टक्कर, कंटेनर-डंपर भिड़ंत, एक चालक की मौत, दूसरा स्टेयरिंग में फंसा रहा",
+    "link": "https://www.amarujala.com/uttar-pradesh/hathras/two-road-accidents-in-hathras-due-to-fog-2026-01-15",
+    "summary": "बेहद घने कोहरे का असर हाथरस में 15 जनवरी सुबह दिखाई पड़ा। मथुरा-बरेली और अलीगढ़-आगरा हाईवे पर हुए दो अलग-अलग सड़क हादसों में एक चालक की मौत हो गई और दूसरा लगभग डेढ़ घंटे तक स्टेयरिंग में फंसा रहा।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:37:27 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
     "id": "9c3c403a6c8f2af1849622f4f1349a5a",
     "title": "Labubu toy manufacturer exploited workers, labour group claims",
     "link": "https://www.bbc.com/news/articles/cn4037v0w12o?at_medium=RSS&at_campaign=rss",
@@ -12129,6 +13546,58 @@
     "lang": "en"
   },
   {
+    "id": "a78148dec9364ec46bf3f8c787464c84",
+    "title": "Noida News: आंध्र में यूपी टीम को मजबूती दे रहे जिले के चार कबड्डी खिलाड़ी",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/four-kabaddi-players-from-the-district-are-strengthening-the-up-team-in-andhra-pradesh-grnoida-news-c-23-1-lko1064-85297-2026-01-15",
+    "summary": "Four kabaddi players from the district are strengthening the UP team in Andhra Pradesh.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:35:11 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "8c9d43c53b8918eb0305031337e8590a",
+    "title": "Gonda: गोंडा में अवैध खनन पर कड़ी कार्रवाई... 79.90 लाख का जुर्माना, एफआईआर दर्ज",
+    "link": "https://www.amarujala.com/uttar-pradesh/gonda/gonda-strict-action-against-illegal-mining-in-gonda-fine-of-rs-79-90-lakh-fir-registered-2026-01-15",
+    "summary": "अवैध खनन करने वालों के खिलाफ प्रशासन ने कड़ा रुख अपनाते हुए बड़ी कार्रवाई की है। तहसील तरबगंज क्षेत्र के नवाबगंज माझाराठ में स्वीकृत शर्तों का उल्लंघन कर अवैध खनन के मामले में मेसर्स सीगल इंडिया के खिलाफ कार्रवाई की गई है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:34:58 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "b4c94a8ff85037fcca16b8528c0d667e",
+    "title": "टेक्नेक्स: आईआईटी बीएचयू में 87वें साल तकनीक-कला का मेल, आज से दो दिन तक काशीयात्रा के प्री इवेंट्स",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/kashi-yatra-iit-bhu-celebrates-fusion-of-technology-and-art-in-its-87th-year-in-varanasi-2026-01-15",
+    "summary": "आईआईटी बीएचयू के छात्रों ने टेक्नोलॉजी और इनोवेशन के सबसे बड़े कार्यक्रम टेक्नेक्स 2026 की थीम लॉन्च कर दी है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:32:23 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "c27438e9e0a276c69580c0f50f284fbb",
+    "title": "Noida News: प्लॉट दिलाने के नाम पर धोखाधड़ी, प्राथमिकी दर्ज",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/fraud-committed-under-the-pretext-of-providing-a-plot-of-land-fir-registered-grnoida-news-c-23-1-lko1064-85280-2026-01-15",
+    "summary": "ग्रेटर नोएडा। ईकोटेक-3 कोतवाली क्षेत्र में प्लॉट बिक्री के नाम पर धो",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:31:38 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
     "id": "a0076b859c30d0c2f662a23b89c30802",
     "title": "City coughs, sputters, as Bhogi fires burn; 4 stations record poor air quality",
     "link": "https://www.thehindu.com/news/cities/chennai/city-coughs-sputters-as-bhogi-fires-burn-4-stations-record-poor-air-quality/article70510229.ece",
@@ -12139,6 +13608,19 @@
     "report_category": "National_Opposition",
     "source": "The Hindu",
     "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "7f5c0dbe2c0e3509d9040cc2181a6c5b",
+    "title": "Noida News: वेल्डिंग कारीगर से मारपीट का आरोप",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/welding-worker-accused-of-assault-grnoida-news-c-23-1-lko1064-85279-2026-01-15",
+    "summary": "वेल्डिंग कारीगर से मारपीट का आरोप",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:29:05 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
     "lang": "en"
   },
   {
@@ -12155,6 +13637,45 @@
     "lang": "hi"
   },
   {
+    "id": "c6861a798eab8684ff707333c3c7dd96",
+    "title": "Noida News: रेलवे लाइन किनारे मिला शव, हत्या की आशंका",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/a-body-was-found-near-the-railway-tracks-murder-is-suspected-grnoida-news-c-23-1-lko1064-85296-2026-01-15",
+    "summary": "A body was found near the railway tracks; murder is suspected.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:25:57 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "e6d5941c8e6cfe81261bc7a69752e1f8",
+    "title": "Republic Day 2026: यूपी कॉलेज की छात्रा और एनसीसी कैडेट 26 जनवरी को लाल किले पर करेंगी परेड",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/sanjeevani-rajesh-student-of-up-college-and-an-ncc-cadet-will-participate-in-parade-at-red-fort-on-26-january-2026-01-15",
+    "summary": "कैडेट संजीवनी राजेश का चयन चीफ ऑफ आर्मी स्टाफ के होम विजिट कार्यक्रम के लिए भी हुआ। इसके अलावा प्रोडीजी मीट में भी भाग लेने का मौका मिलेगा।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:23:50 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "fd3315a4ab8fbcd306302bdff141d78c",
+    "title": "Noida News: डॉ. भूपेंद्र को मिला सम्मान",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/dr-bhupendra-received-the-honor-grnoida-news-c-23-1-lko1064-85284-2026-01-15",
+    "summary": "Dr. Bhupendra received the honor.",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:22:21 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
     "id": "a18537a87dab2dc0bd1ba401214cf783",
     "title": "Gorakhpur: सीएम योगी ने चढ़ाई गुरु गोरखनाथ को आस्था की खिचड़ी, मुख्यमंत्री ने दीं मकर संक्रांति पर शुभकामनाएं",
     "link": "https://www.amarujala.com/gorakhpur/cm-yogi-adityanath-offered-khichdi-of-faith-to-guru-gorakhnath-2026-01-15",
@@ -12165,6 +13686,45 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Gorakhpur",
+    "lang": "en"
+  },
+  {
+    "id": "0e30a600f4c7cdd6e0c181dde463fce4",
+    "title": "Supreme Court: केरल ड्राफ्ट मतदाता सूची विवाद पर 'सुप्रीम' फैसला, आयोग को सूची सार्वजनिक करने का दिया निर्देश",
+    "link": "https://www.amarujala.com/india-news/supreme-court-raises-questions-over-names-being-removed-from-kerala-draft-electoral-roll-seeks-2026-01-15",
+    "summary": "Supreme Court: केरल ड्राफ्ट मतदाता सूची विवाद पर 'सुप्रीम' फैसला, आयोग को सूची सार्वजनिक करने का दिया निर्देश, Supreme Court raises questions over names being removed from Kerala draft electoral roll seeks",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:21:45 +0530",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "762508be739deb9b9bb476e306bc26e0",
+    "title": "Noida News: बहू पर जूलरी हड़पने का आरोप, कोर्ट के आदेश पर प्राथमिकी दर्ज",
+    "link": "https://www.amarujala.com/delhi-ncr/noida/daughter-in-law-accused-of-stealing-jewelry-fir-registered-on-court-order-grnoida-news-c-23-1-lko1064-85282-2026-01-15",
+    "summary": "रग्रेटर नोएडा। बीटा-2 कोतवाली क्षेत्र में रहने वाले एक महिला ने बहू पर अपने मायके पक्ष के साथ मिलकर ससुराल से 1.19 करोड़ रुपये की ज्वैलरी व नकदी",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:20:17 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "a43aec88ac924df0b3d59931c06fd645",
+    "title": "Weather Update: कड़ाके की ठंड का दौर जारी... बरेली में दो दिन कोहरे का ऑरेंज अलर्ट, फिर बारिश के आसार",
+    "link": "https://www.amarujala.com/uttar-pradesh/bareilly/imd-weather-orange-alert-for-fog-has-been-issued-for-two-days-in-bareilly-2026-01-15",
+    "summary": "बरेली में बृहस्पतिवार को न्यूनतम तापमान 3.5 डिग्री सेल्सियस पहुंचा, शीतलहर से ठिठुरन बरकरार",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:16:23 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
     "lang": "en"
   },
   {
@@ -12220,6 +13780,45 @@
     "lang": "en"
   },
   {
+    "id": "369952ae69fd96cf10133f873ca774ed",
+    "title": "Exclusive: 2016 के बाद से 30% छात्र ही विकल्प में चुन रहे हिंदी, सीबीएसई स्कूलों में हिंदी वैकल्पिक विषय",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/since-2016-only-30-of-students-have-been-choosing-hindi-as-an-optional-subject-in-varanasi-2026-01-15",
+    "summary": "जिले में सीबीएसई विद्यालयों की संख्या लगभग 150 है। इनमें 5 लाख से अधिक छात्र-छात्राएं पढ़ाई करते हैं। सीबीएसई के सिलेबस में कक्षा 9 से ही हिंदी एक वैकल्पिक विषय हो जाता है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:12:49 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "f55ea51c9628fe5a33ea173003340aca",
+    "title": "I-Pack Row: चुनाव से पहले बंगाल में बवाल, सुप्रीम कोर्ट के नोटिस के बाद TMC-BJP की जुबानी जंग; किसने क्या कहा?",
+    "link": "https://www.amarujala.com/india-news/supreme-court-notice-ed-petition-west-bengal-government-ipac-investigation-centre-vs-state-bjp-statement-2026-01-15",
+    "summary": "Supreme Court notice ED petition West Bengal government IPAC investigation Centre vs State BJP statement- Supreme Court: ईडी की याचिका पर सुप्रीम कोर्ट का नोटिस, ममता सरकार से मांगा जवाब, भाजपा ने बोला हमला",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:11:29 +0530",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "cad9a665e369a70d4d968f6614f08975",
+    "title": "राहुल-डीके शिवकुमार की मुलाकात से क्यों उठा सियासी तूफान?: कांग्रेस नेता ने दी सफाई, कहा- इसे गंभीरता से न लें",
+    "link": "https://www.amarujala.com/india-news/karnataka-deputy-cm-shivakumar-says-don-t-read-too-much-into-my-meeting-with-rahul-gandhi-2026-01-15",
+    "summary": "राहुल-डीके शिवकुमार की मुलाकात से क्यों उठा सियासी तूफान?: कांग्रेस नेता को देनी पड़ी सफाई, कहा- इसे गंभीरता से न लें",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:06:07 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
     "id": "e16b432d421b9ca5f85771a8aa8bb9c8",
     "title": "नीट पीजी-2025: आरक्षित वर्ग के लिए कटऑफ शून्य पर्सेंटाइल, माइनस 40 अंक वाले भी पा सकेंगे दाखिला",
     "link": "https://www.amarujala.com/india-news/neet-pg-2025-cut-off-for-reserved-categories-is-zero-percentile-minus-40-marks-will-eligible-for-admission-2026-01-15",
@@ -12231,6 +13830,19 @@
     "source": "Amar Ujala",
     "district": "",
     "lang": "hi"
+  },
+  {
+    "id": "fe3cb4a6f1a029d901a8cd4ed1f0503a",
+    "title": "Bahraich: गांव में घुसा बाघ... दहशत में ग्रामीण, वन विभाग की टीम ने पकड़ने के लिए दो प्रशिक्षित हाथी मंगवाए",
+    "link": "https://www.amarujala.com/lucknow/bahraich-tiger-enters-village-villagers-panic-forest-department-team-calls-for-two-trained-elephants-to-c-2026-01-15",
+    "summary": "बहराइच जिले के रामगांव इलाके में स्थित रेहुआ मंसूर ग्राम में एक बाघ के देखें जाने के बाद ग्रामीणों में हड़कंप मच गया। लोगों ने इसकी सूचना वन विभाग को दी। जिसके बाद स्थानीय रेंजर टीम के साथ मौके पर पहुंचे।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 05:02:22 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
+    "lang": "en"
   },
   {
     "id": "5e193d972a3f1b0b22ed6277011498d0",
@@ -12285,6 +13897,58 @@
     "lang": "hi"
   },
   {
+    "id": "140baab86d83d2d08771ac54433d72a0",
+    "title": "UP News: तीन बार काशी एक्सप्रेस मे बम की सूचना देने वाला गिरफ्तार, जीआरपी ने ऐसे किया खुलासा",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/grp-varanasi-arrested-accused-of-bomb-threat-on-kashi-express-train-2026-01-15",
+    "summary": "कैंट रेलवे स्टेशन पर प्रेस कॉन्फ्रेंस में कुंवर प्रभात सिंह ने बताया कि पहली बार मोबाइल से, इसके बाद मुंबई से ही पीसीओ से फोन करके सूचना मिली थी।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 04:54:48 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "cb82aaab3ed1bf12cfc27a9d05f27b75",
+    "title": "Maharashtra Civic Polls: क्या उंगलियों से हटाई गई स्याही? वायरल वीडियो के बाद विवाद तेज; आयोग ने दिया ये जवाब",
+    "link": "https://www.amarujala.com/india-news/maharashtra-civic-polls-controversy-erupts-video-showing-being-removed-from-finger-fears-of-fraudulent-voting-2026-01-15",
+    "summary": "Maharashtra Civic Polls: क्या उंगलियों से हटाई गई स्याही? वायरल वीडियो के बाद विवाद तेज; आयोग ने दिया ये जवाब , Maharashtra Civic Polls Controversy erupts video showing being removed from finger fears of fraudulent voting",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 04:42:22 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "d04098adfab6a69076f7da05b75a67db",
+    "title": "Mumbai BMC Elections 2026: BMC Chunav पर Raj Thackeray ने लगाए ये आरोप, Nagar Nigam ने दिया जवाब",
+    "link": "https://www.amarujala.com/video/india-news/mumbai-bmc-elections-2026-raj-thackeray-made-these-allegations-on-bmc-elections-municipal-corporation-respon-2026-01-15",
+    "summary": "Mumbai BMC Elections 2026: BMC Chunav पर Raj Thackeray ने लगाए ये आरोप, Nagar Nigam ने दिया जवाब",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 04:41:43 +0530",
+    "section": "National",
+    "report_category": "National_Opposition",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "2db34d239ae45c9bc909a5c0f8d7c810",
+    "title": "अत्याधुनिक शवदाह स्थल: हरिश्चंद्र घाट पर सात, मणिकर्णिका घाट पर होंगे 32 शवों के प्लेटफॉर्म",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/seven-platforms-at-harishchandra-ghat-and-32-platforms-at-manikarnika-ghat-will-be-available-for-cremations-2026-01-15",
+    "summary": "जब निर्माण कार्य पूरा हो जाएगा, तब यहां नया मंदिर बनाकर देंगे। साथ ही उन विग्रहों को नए मंदिर में स्थापित किया जाएगा।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 04:38:55 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
     "id": "4b6b21f0396324c49eb80cd43ea7a21b",
     "title": "Indian Passport Ranking: क्या भारतीय पासपोर्ट की ताकत बढ़ रही है? वैश्विक रैंकिंग में पांच पायदान की छलांग",
     "link": "https://www.amarujala.com/india-news/indian-passport-improves-five-places-strength-ranking-visa-free-entry-to-55-countries-afghan-passport-remains-2026-01-15",
@@ -12298,6 +13962,19 @@
     "lang": "hi"
   },
   {
+    "id": "b9d0b5f947abda7a054c97abdb8de99e",
+    "title": "Budaun News: छेड़खानी से आहत किशोरी ने छत से लगाई छलांग, गंभीर रूप से घायल; आरोपी पर रिपोर्ट दर्ज",
+    "link": "https://www.amarujala.com/uttar-pradesh/budaun/molestation-victim-teenage-girl-jumped-from-rooftop-in-budaun-2026-01-15",
+    "summary": "आरोपी युवक ने खेत में खींचकर किशोरी से की थी शर्मनाक हरकत, 10 जनवरी की है घटना",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 04:31:44 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
     "id": "4800cb1dc1cbe43445fb2feff3718eaa",
     "title": "‘No place for non-believers in India, their place is Pakistan’:Satua Baba makes provocative statement at Magh Mela; denies owning any luxury possessions while seated in a Porsche",
     "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/satua-baba-magh-mela-statement-non-believers-india-pakistan-porsche-luxury-possessions-136950073.html",
@@ -12308,6 +13985,19 @@
     "report_category": "UP_Focus",
     "source": "Bhaskar English",
     "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "cdd63df69b6998eb1f83783cbd5d18a0",
+    "title": "UP: बंदरों और कुत्तों का आतंक, बनारस में हर साल 80 लाख खर्च फिर भी 2500 लोगों को बनाया शिकार",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/monkeys-and-dogs-attack-on-2500-people-after-despite-spending-8-million-rupees-every-year-in-varanasi-2026-01-15",
+    "summary": "अदालत की टिप्पणी के बाद पिसौर में नए श्वान शेल्टर होम का प्रस्ताव शासन को भेजा गया है। यहां कुत्तों को रखा जाएगा। शहर में आवारा कुत्तों पर लगाम नहीं लग पा रहा है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 04:28:40 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
     "lang": "en"
   },
   {
@@ -12333,6 +14023,19 @@
     "section": "UP_Focus",
     "report_category": "UP_Focus",
     "source": "Bhaskar English",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "86242e08d984a4c101a47b5a509c7ba2",
+    "title": "UP: विकास के दावा... सिर्फ दिखावा, बुरी तरह पिछड़े मुरादाबाद मंडल के जिले, सीएम डैशबोर्ड की रैंकिंग जारी",
+    "link": "https://www.amarujala.com/uttar-pradesh/moradabad/up-claims-of-development-just-a-facade-districts-of-moradabad-division-lag-far-behind-2026-01-15",
+    "summary": "आला अफसरों के बड़े-बड़े दावों के बीच मुरादाबाद मंडल के जिले विकास की रफ्तार में बुरी तरह से पिछड़ गए हैं। मुख्यमंत्री डैशबोर्ड पर दिसंबर 2025 के विकास कार्यों से संबंधित जो रैंकिंग जारी हुई है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 04:24:02 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
     "district": "Uttar Pradesh",
     "lang": "en"
   },
@@ -12363,6 +14066,19 @@
     "lang": "en"
   },
   {
+    "id": "6f11ac485a9e5756a46eda80a6026da1",
+    "title": "UP: संजय सिंह बोले-लखनऊ में महीनों से गंदा पानी पी रही जनता...क्या सरकार मौत का इंतजार कर रही",
+    "link": "https://www.amarujala.com/lucknow/up-sanjay-singh-said-people-in-lucknow-have-been-drinking-contaminated-water-for-months-is-the-governmen-2026-01-15",
+    "summary": "लखनऊ के उदयगंज और सचिवालय कॉलोनी में महीनों से गंदा पानी सप्लाई होने पर आप सांसद संजय सिंह ने सरकार पर गंभीर आरोप लगाए।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 04:08:42 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
+    "lang": "en"
+  },
+  {
     "id": "3cfa9717c165af771b5e794ec0c8ec86",
     "title": "₹50-crore illegal toll collection exposed at UP toll plaza:Samajwadi Party leader, toll owner jailed; party alleges BJP MLA’s role in arrest",
     "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-saharanpur-toll-plaza-illegal-collection-50-crore-kamaljeet-pradhan-arrest-136949954.html",
@@ -12389,6 +14105,19 @@
     "lang": "hi"
   },
   {
+    "id": "12c534def7466a0ec0f6b017394e6f91",
+    "title": "दालमंडी चौड़ीकरण: 22 मकान तोड़ने के लिए वीडीए ने कराई मुनादी, दो दिन बाद फिर से तोड़ा जाएगा निर्माण",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/dal-mandi-widening-vda-issues-public-announcement-for-demolition-of-22-houses-in-varanasi-2026-01-15",
+    "summary": "वीडीए के अधिकारी के अनुसार 22 मकानों को अवैध घोषित किया गया है। इन्हें ध्वस्तीकरण का आदेश दिया जा चुका है। इन सभी को खाली करने को कहा गया है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:56:53 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
     "id": "fe364a16f3a8ad17e643a9a5b3183a7d",
     "title": "Dense fog covers 30 districts of Uttar Pradesh:Temp drops to 3.1°C in Meerut; cars collide, over 50 trains delayed, weather likely to change soon",
     "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/meerut-temp-drop-3-1c-fog-delays-trains-136949899.html",
@@ -12398,6 +14127,19 @@
     "section": "UP_Focus",
     "report_category": "UP_Focus",
     "source": "Bhaskar English",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "b3ea946ced0d1dbd95b53f58f2b1c44b",
+    "title": "Heart Attack: अचानक क्यों बढ़े हार्ट अटैक के मामले? 40 से कम उम्र के लोगों को बड़ा खतरा; सिर्फ सात आदतें बदलें",
+    "link": "https://www.amarujala.com/uttar-pradesh/agra/heart-attack-know-why-suddenly-cases-of-heart-attack-increased-know-reasons-2026-01-15",
+    "summary": "एसएन के हृदय रोग विभाग में 40 साल से कम उम्र के 50 फीसदी मरीज, कैथ लैब में सर्जरी कराने वाले 40 फीसदी मरीजों में यही वजह मिल रही।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:54:26 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
     "district": "Uttar Pradesh",
     "lang": "en"
   },
@@ -12415,6 +14157,71 @@
     "lang": "en"
   },
   {
+    "id": "fad7779f6763f578c99a85b222ac638e",
+    "title": "Bengal: बंगाल में सिंगूर मुद्दे को भुनाने की कोशिश में भाजपा, पीएम मोदी की रैली से बड़ा संदेश देने की तैयारी",
+    "link": "https://www.amarujala.com/india-news/west-bengal-bjp-try-to-set-narrative-industry-development-with-pm-modi-singur-rally-2026-01-15",
+    "summary": "Bengal: बंगाल की राजनीति में इस मुद्दे को भुनाने की कोशिश में भाजपा, पीएम मोदी की रैली से बड़ा संदेश देने की तैयारी west bengal bjp try to set narrative industry development with pm modi singur rally",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:47:44 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "a935e5a3586dffe614f6fd5be602ac2b",
+    "title": "राणा सांगा: 30 जनवरी को पुण्यतिथि, अभी तक नहीं लगी प्रतिमा; समर्थकों में बढ़ी नाराजगी",
+    "link": "https://www.amarujala.com/uttar-pradesh/agra/rana-sanga-s-statue-still-awaited-as-death-anniversary-approaches-on-30-january-2026-01-15",
+    "summary": "सांसद राजकुमार चाहर ने की थी आगरा गेट के सामने प्रतिमा लगाने की घोषणा।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:47:07 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "116adc8c2fce5af3314b3b9f871ee674",
+    "title": "Politics On Karur Stampede: तमिलनाडु के करूर में भगदड़ पर डीएमके का हमला, विजय को ठहराया मौतों का जिम्मेदार",
+    "link": "https://www.amarujala.com/india-news/tamil-nadu-karur-stampede-dmk-tvk-vijay-kumar-controversy-tamil-nadu-political-rally-tragedy-tks-elangovan-2026-01-15",
+    "summary": "tamil nadu karur stampede dmk tvk Vijay Kumar controversy Tamil Nadu political rally tragedy TKS Elangovan- Politics On Karur Stampede: तमिलनाडु के करूर में भगदड़ पर डीएमके का हमला, विजय को ठहराया मौतों का जिम्मेदार",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:45:14 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "3e2d3dc9f1408be44483940a9c2abe04",
+    "title": "Barabanki: टोल प्लाजा पर अधिवक्ता से मारपीट के विरोध में प्रदर्शन, टोल गेट खुला, तीन कर्मी जेल भेजे गए",
+    "link": "https://www.amarujala.com/lucknow/barabanki-protest-against-assault-on-lawyer-at-toll-plaza-toll-gate-opened-three-employees-sent-to-jail-2026-01-15",
+    "summary": "लखनऊ-सुल्तानपुर हाईवे के बारा टोल प्लाजा पर फास्टैग को लेकर बुधवार को हुई अधिवक्ता की पिटाई के विरोध में तहसील बार एसोसिएशन हैदरगढ़ के अधिवक्ताओं ने बृहस्पतिवार दोपहर एक बार फिर जोरदार विरोध प्रदर्शन शुरू कर दिया।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:44:39 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
+    "lang": "en"
+  },
+  {
+    "id": "c916d8a0f87483c9106deaf58a3e9626",
+    "title": "Budaun News: प्रेमिका के घर के सामने फंदे से लटका मिला प्रेमी का शव, परिजनों ने लगाया हत्या का आरोप",
+    "link": "https://www.amarujala.com/uttar-pradesh/budaun/body-of-boyfriend-found-hanging-from-noose-in-front-of-his-girlfriend-house-in-budaun-2026-01-15",
+    "summary": "घर के सामने पेड़ पर फंदे से लटका मिला शव, युवती के भाइयों पर हत्या का आरोप",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:43:35 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
     "id": "118029689fbce1c208521621afb102b6",
     "title": "Lift curbs on news websites, Editors Guild tells India, Pakistan",
     "link": "https://www.thehindu.com/news/national/lift-curbs-on-news-websites-editors-guild-tells-india-pakistan/article70511113.ece",
@@ -12428,17 +14235,82 @@
     "lang": "en"
   },
   {
-    "id": "95bc5e19a3b9c21ab197d8340b88220f",
-    "title": "Zelensky declares energy emergency as biting cold persists",
-    "link": "https://www.bbc.com/news/articles/cq6vm677z76o?at_medium=RSS&at_campaign=rss",
-    "summary": "The move comes as US President Donald Trump said Ukraine is \"less ready\" than the Russian president to make a peace deal.",
+    "id": "2f8d06d704a830ae3887765e44e17a99",
+    "title": "UP News: अंतर्राष्ट्रीय साइबर ठगी गिरोह का भंडाफोड़, लखनऊ से दो शातिर बदमाश गिरफ्तार",
+    "link": "https://www.amarujala.com/uttar-pradesh/azamgarh/international-cyber-fraud-gang-busted-in-azamgarh-two-notorious-criminals-arrested-from-lucknow-2026-01-15",
+    "summary": "इनके कब्जे से 6.32 लाख रुपये नकद, 11 मोबाइल फोन, 12 एटीएम कार्ड, चेकबुक, कैश काउंटिंग मशीन, एक विदेशी सिम कार्ड और एक स्कॉर्पियो वाहन बरामद किया गया है।",
     "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 03:35:12 GMT",
-    "section": "International",
-    "report_category": "International",
-    "source": "BBC World",
-    "district": "",
+    "timestamp": "Thu, 15 Jan 2026 03:38:47 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
     "lang": "en"
+  },
+  {
+    "id": "9101eced62c3b9e146713d8521663d68",
+    "title": "UP: बाइक में ऐसी जगह घुस गया जहरीला सांप...निकालने के लिए खोलने पड़े कई पुर्जे, देखें ये तीन तस्वीरें",
+    "link": "https://www.amarujala.com/uttar-pradesh/etah/snake-found-inside-bike-in-sakit-rider-panics-and-abandons-vehicle-2026-01-15",
+    "summary": "एटा के सकीट में बाइक के अंदर सांप के घुसने की घटना सामने आई। बाइक सवार की जब नजर पड़ी, तो उसके पसीने छूट गए।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:35:33 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "2e84dad25ab66629c440898a8227c296",
+    "title": "Ayodhya: पूर्व सांसद विनय कटियार रामलला के दर्शन करने पहुंचे, आदि शंकराचार्य द्वार पर रोकना पड़ा काफिला",
+    "link": "https://www.amarujala.com/lucknow/vinay-katiyar-arrived-to-visit-ram-lalla-but-the-convoy-had-to-stop-at-adi-shankaracharya-gate-2026-01-15",
+    "summary": "राम मंदिर आंदोलन के फायर ब्रांड नेता और पूर्व सांसद विनय कटियार मकर संक्रांति पर्व के मौके पर बृहस्पतिवार को रामलला के दर्शन करने पहुंच गए।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:35:04 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Ayodhya",
+    "lang": "en"
+  },
+  {
+    "id": "856847e662c1b9da434877c72aa49c4d",
+    "title": "MHA: युवा IPS नहीं चाहते खुफिया एजेंसी IB में तैनाती, क्या है मोहभंग की वजह? CBI भी नहीं आ रही रास",
+    "link": "https://www.amarujala.com/india-news/young-ips-officers-do-not-want-postings-in-intelligence-agency-ib-what-is-reason-for-this-disillusionment-2026-01-15",
+    "summary": "MHA: युवा IPS नहीं चाहते खुफिया एजेंसी IB में तैनाती, क्या है मोहभंग की वजह? CBI भी नहीं आ रही रास Young IPS officers do not want postings in intelligence agency IB, what is reason for this disillusionment",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:34:34 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
+    "id": "dcceaec4a778a7e8a8234e377971428a",
+    "title": "यूपी: आरटीई के दाखिलों पर हाईकोर्ट सख्त, राज्य सरकार से मांगा निजी स्कूलों में हुए एडमिशन का ब्योरा",
+    "link": "https://www.amarujala.com/lucknow/up-high-court-strict-on-rte-admissions-asks-state-government-for-details-of-admissions-in-private-schools-2026-01-15",
+    "summary": "RTE admissions: यूपी में आरटीई के माध्यम से करीब तबके के बच्चों के निजी स्कूलों में होने वाले दाखिलों पर हाईकोर्ट ने सख्ती दिखाई है। राज्य सरकार से इसका ब्योरा मांगा गया है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:33:13 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
+    "lang": "en"
+  },
+  {
+    "id": "37d624aca6ed16cb8cf658e652417368",
+    "title": "Amit Shah: 'सनातन धर्म की ध्वजा बुलंद किया'; अमित शाह ने लॉन्च की आदिशंकराचार्य की गुजराती ग्रंथावली",
+    "link": "https://www.amarujala.com/india-news/amit-shah-launches-adi-shankaracharya-granthavali-hails-his-role-in-strengthening-sanatana-dharma-2026-01-15",
+    "summary": "Amit Shah: 'सनातन धर्म की ध्वजा बुलंद किया'; अमित शाह ने लॉन्च की आदिशंकराचार्य की गुजराती ग्रंथावली---Amit Shah Launches Adi Shankaracharya Granthavali, Hails His Role in Strengthening Sanatana Dharma",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:30:13 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
   },
   {
     "id": "5df98af6000749ff2f8aaefc57f2b4fc",
@@ -12454,6 +14326,58 @@
     "lang": "en"
   },
   {
+    "id": "74216ed5779403447403817863844f62",
+    "title": "मकर संक्रांति: बाबा विश्वनाथ को लगा खिचड़ी आचार, चिवड़ा, मूंगफली और पट्टी का भोग, भक्तों में दिखा उत्साह",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/makar-sankranti-2026-baba-vishwanath-offered-peanuts-and-sesame-brittle-as-prasad-in-varanasi-2026-01-15",
+    "summary": "मकर संक्रांति के इस पावन पर्व पर मंदिर परिसर में भक्तों का उत्साह देखने को मिला। श्रद्धालुओं ने बाबा विश्वनाथ के दर्शन कर सुख, समृद्धि और कल्याण की कामना की।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:25:52 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "4f75393869e157f0891394439514c83b",
+    "title": "VIDEO : आशियाना रेजिडेंट्स एसोसिएशन की ओर से आयोजित मकर संक्रांति पर तहरी भोज का आयोजन",
+    "link": "https://www.amarujala.com/video/lucknow/video-video-aashayana-rajadatasa-esasaeshana-ka-ora-sa-aayajata-makara-sakarata-para-tahara-bhaja-ka-aayajana-2026-01-15",
+    "summary": "VIDEO : आशियाना रेजिडेंट्स एसोसिएशन की ओर से आयोजित मकर संक्रांति पर तहरी भोज का आयोजन",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:25:51 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
+    "lang": "en"
+  },
+  {
+    "id": "629684f7cf17ed045ec6b2fb1942b6b2",
+    "title": "VIDEO : मकर संक्रांति के अवसर पर खिचड़ी प्रसाद वितरण का आयोजन",
+    "link": "https://www.amarujala.com/video/lucknow/video-video-makara-sakarata-ka-avasara-para-khacaugdha-parasatha-vataranae-ka-aayajana-2026-01-15",
+    "summary": "VIDEO : मकर संक्रांति के अवसर पर खिचड़ी प्रसाद वितरण का आयोजन",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:25:45 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
+    "lang": "en"
+  },
+  {
+    "id": "e20e99967b6e9d7be41c1ff190dff467",
+    "title": "क्या हुआ हवा में?: सिंगापुर जा रही एअर इंडिया फ्लाइट की अचनाक वापसी, उड़ान के एक घंटे बाद दिल्ली लौटा विमान",
+    "link": "https://www.amarujala.com/india-news/singapore-bound-air-india-plane-suffers-tech-issue-returns-to-delhi-news-in-hindi-2026-01-15",
+    "summary": "क्या हुआ हवा में?: सिंगापुर जा रही एअर इंडिया फ्लाइट की अचनाक वापसी, उड़ान के एक घंटे बाद दिल्ली लौटा विमान, Singapore-bound Air India plane suffers tech issue returns to Delhi News In Hindi",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:25:05 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
     "id": "9415447fe672e53740efdbefd0943d32",
     "title": "Greater Noida: हाथरस शहरी सेंटर 4000 हेक्टेयर में बसाने की तैयारी, महायोजना 2041 बनाने के लिए कंपनी तय",
     "link": "https://www.amarujala.com/delhi-ncr/greater-noida-preparations-underway-to-develop-hathras-urban-center-on-4-000-hectares-2026-01-15",
@@ -12464,6 +14388,58 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "07dc9ac2ae9f1b2078aba6f09e279103",
+    "title": "मायावती का 70वां जन्मदिन: कहा- ब्राह्मणों को चोखा-बाटी नहीं सम्मान चाहिए, शॉर्ट सर्किट के कारण पीसी रोकी",
+    "link": "https://www.amarujala.com/lucknow/up-mayawati-celebrates-70th-birthday-says-brahmins-shouldn-t-eat-anyone-s-chokha-baati-we-will-give-them-re-2026-01-15",
+    "summary": "Mayawati birthday: बसपा सुप्रीमो मायावती ने अपना 70वां जन्मदिन लखनऊ में मनाया। इस मौके पर पत्रकार वार्ता में उन्होंने भाजपा सहित बाकी पार्टियों पर हमला किया।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:23:49 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
+    "lang": "en"
+  },
+  {
+    "id": "0cbfe20cbce05f19f5d8424658b0b26d",
+    "title": "मकर संक्रांति पर बाबा विश्वनाथ को लगा मूंगफली और पट्टी का भोग, VIDEO",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-makar-sankranti-baba-vishwanath-was-offered-peanuts-and-sesame-brittle-as-prasad-2026-01-15",
+    "summary": "मकर संक्रांति पर बाबा विश्वनाथ को लगा मूंगफली और पट्टी का भोग, VIDEO",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:11:53 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "1617ebfa44ca6a04f9e36be9b6311f48",
+    "title": "उपलब्धि: आईवीआरआई ने रोहिलखंडी और वृंदावनी गाय की नस्लों का कराया पंजीकरण, जानिए खासियत",
+    "link": "https://www.amarujala.com/uttar-pradesh/bareilly/ivri-has-registered-the-rohilkhandi-and-vrindavani-breeds-of-cows-2026-01-15",
+    "summary": "एनबीएजीआर के आयोजित समारोह में केंद्रीय कृषि मंत्री शिवराज सिंह चौहान ने सौंपा प्रमाणपत्र",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:09:45 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "d8056b4b7203bfb8eea8b4e3d1e7e220",
+    "title": "रामनगरी में मकर संक्रांति की धूम: रामलला को लगा खिचड़ी का भोग, ठंड में भी कम नहीं हुआ श्रद्धालुओं का उत्साह",
+    "link": "https://www.amarujala.com/lucknow/makar-sankranti-celebrations-in-ramnagari-khichdi-offered-to-ram-lalla-2026-01-15",
+    "summary": "मकर संक्रांति के पावन पर्व पर अयोध्या में आस्था का सैलाब उमड़ पड़ा। राम मंदिर में भगवान रामलला को विधि-विधान से खिचड़ी का भोग अर्पित किया गया।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:04:57 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Ayodhya",
     "lang": "en"
   },
   {
@@ -12490,6 +14466,19 @@
     "report_category": "International",
     "source": "NYT World",
     "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "6b86e068fae519963cb7daa9ad44abfe",
+    "title": "GPS Tracker: रेलवे ट्रैक की निगरानी होगी आसान, ट्रेन की चपेट में आने से बचेंगे रेलकर्मी; जानें- कैसे",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/railway-track-monitoring-will-become-easier-and-railway-workers-will-be-saved-from-being-hit-by-trains-2026-01-15",
+    "summary": "पूर्वोत्तर रेलवे को 2686 जीपीएस मिले हैं। इसमें लखनऊ मंडल को 680, वाराणसी मंडल को 1216 और इज्जतनगर मंडल को 790 जीपीएस ट्रैकर दिए गए हैं।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 03:00:20 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
     "lang": "en"
   },
   {
@@ -12532,6 +14521,71 @@
     "lang": "en"
   },
   {
+    "id": "9a02d9d92b2c04e27b8f17ab2cab6b3d",
+    "title": "नोएडा स्टेडियम में विंटर कप 2026: अंडर 19 की महिला भी खेलेगी अंडर 17 के साथ",
+    "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-winter-cup-2026-at-noida-stadium-today-2026-01-15",
+    "summary": "नोएडा स्टेडियम में विंटर कप 2026: अंडर 19 की महिला भी खेलेगी अंडर 17 के साथ",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:54:15 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "9207d8b4d2cd91598461f03ffa4dfce7",
+    "title": "प्रो रेसलिंग लीग 2026: देश-विदेश के पहलवान आज नोएडा स्टेडियम में दिखाएंगे जोर",
+    "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-wrestlers-from-india-and-abroad-will-showcase-their-strength-at-noida-stadium-today-2026-01-15",
+    "summary": "प्रो रेसलिंग लीग 2026: देश-विदेश के पहलवान आज नोएडा स्टेडियम में दिखाएंगे जोर",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:54:08 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "fb676b987e9213bf3907490618e6a5c2",
+    "title": "ग्रेटर नोएडा: ओडिशा से एनसीआर में गांजा सप्लाई करने वाले गिरोह का भंडाफोड़, तीन तस्कर गिरफ्तार",
+    "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-gang-supplying-cannabis-from-odisha-to-ncr-busted-and-three-traffickers-arrested-2026-01-15",
+    "summary": "ग्रेटर नोएडा: ओडिशा से एनसीआर में गांजा सप्लाई करने वाले गिरोह का भंडाफोड़, तीन तस्कर गिरफ्तार",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:53:40 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Noida",
+    "lang": "en"
+  },
+  {
+    "id": "24dff017d82661cc088f8e5852f9b69a",
+    "title": "Varanasi News: अस्सी-नगवां नाले से गंगा में गिरने वाले सीवर को शोधित कर रहा जियोबैग, कम हो रहे फीकल कोलीफॉर्म",
+    "link": "https://www.amarujala.com/uttar-pradesh/varanasi/geo-bag-treating-sewage-flowing-into-ganga-from-assi-nagwan-drain-in-varanasi-2026-01-15",
+    "summary": "पहले करीब दो लाख एमपीएन प्रति 100 मिलीलीटर फीकल कोलीफॉर्म गंगा में जाता था। अब जियोबैग से शोधित होने के बाद यह घटकर महज 230 एमपीएन प्रति 100 मिलीलीटर रह गया है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:52:40 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "be090c2b1c3e450c525a67835b6a459b",
+    "title": "सुना है क्या: आज पढ़ें - \"कैलेंडर कांड\" से मुश्किल में फंसे अफसर... आखिर किसने दिया एक प्रतिशत कमीशन का आदेश",
+    "link": "https://www.amarujala.com/lucknow/suna-hai-kya-calendar-scandal-lands-officers-in-trouble-who-ordered-the-one-percent-commission-2026-01-15",
+    "summary": "यूपी के एक अधिकारी अपने छपास रोग के कारण संकट में पड़ गए। कैलेंडर कांड ने उनके सपने चूर-चूर कर दिए हैं। पढ़ें, आज की कानाफूसी:",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:52:13 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
+    "lang": "en"
+  },
+  {
     "id": "ca66a13bf131c5accbcece2d1d680518",
     "title": "Lucknow News: गुरुद्वारे में गूंजा कीर्तन पाठ, छका लंगर",
     "link": "https://www.amarujala.com/lucknow/kirtan-recitation-resonated-in-the-gurudwara-langar-was-served-lucknow-news-c-13-knp1002-1560406-2026-01-15",
@@ -12545,6 +14599,19 @@
     "lang": "en"
   },
   {
+    "id": "fb674bd3bb7b7a48089fb8c72913020f",
+    "title": "UP News: 'ईरान में तख्तापलट करना चाहता है अमेरिका', मौलाना शहाबुद्दीन रजवी ने दिया बड़ा बयान",
+    "link": "https://www.amarujala.com/uttar-pradesh/bareilly/maulana-shahabuddin-razvi-says-us-and-israel-are-behind-the-violence-in-iran-2026-01-15",
+    "summary": "ऑल इंडिया मुस्लिम जमात के राष्ट्रीय अध्यक्ष ने ईरान के हालात पर जताई चिंता, अमेरिका और इस्राइल को बताया जिम्मेदार",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:48:44 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
     "id": "2eeb825440b23955656fc496d2bc8b24",
     "title": "Lucknow News: चाहने वालों के दिल में हमेशा जिंदा रहेंगे कैफी आजमी",
     "link": "https://www.amarujala.com/lucknow/kaifi-azmi-will-always-remain-alive-in-the-hearts-of-his-fans-lucknow-news-c-13-lko1096-1559106-2026-01-15",
@@ -12555,6 +14622,19 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Lucknow",
+    "lang": "en"
+  },
+  {
+    "id": "6add9133eef550c62d68e65f857217ad",
+    "title": "UP: संभल में मस्जिद- मदरसों को बनाया जा रहा निशाना, सपा विधायक बोले- पहले नक्शे पास किए अब अवैध बता रहे अफसर",
+    "link": "https://www.amarujala.com/uttar-pradesh/sambhal/mosques-are-being-demolished-sambhal-says-sp-mla-officials-approved-plans-earlier-now-them-illegal-2026-01-15",
+    "summary": "संभल से सपा के संभल विधायक इकबाल महमूद का कहना है कि जिले में मस्जिद, मदरसों को ही निशाना बनाया जा रहा है। अधिकारियों ने पहले विनियमित क्षेत्र से नक्शे पास कर दिए और अब अवैध बता दिए। ऐसी स्थिति संभल में पहले कभी नहीं देखी गई।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:48:22 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
     "lang": "en"
   },
   {
@@ -12584,6 +14664,19 @@
     "lang": "en"
   },
   {
+    "id": "573a9daf3176563113c242fe1600d2ae",
+    "title": "70वें जन्मदिन पर मायावती ने चली दांव,ब्राह्मणों और यादवों पर कही बड़ी बात",
+    "link": "https://www.amarujala.com/video/india-news/mayawati-celebrates-70th-birthday-mayawati-said-a-big-thing-about-brahmins-and-yadavs-2026-01-15",
+    "summary": "अपने जन्मदिन पर पत्रकारों को संबोधित करते हुए बसपा सुप्रीमो मायावती ने कहा कि सभी सरकारें बसपा द्वारा ही चलाई जा रही योजनाओं का नाम बदलकर चला रही हैं। उन्होंने कहा कि विरोधियों ने भ्रम फैलाकर बसपा को तोड़ने की कोशिश की है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:46:47 +0530",
+    "section": "National",
+    "report_category": "National_Govt",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
+  },
+  {
     "id": "0d4d947eae79541c5e2cfa7eba655376",
     "title": "Magh Mela celebrations begin with holy dip on Makar Sankranti:Water laser show at Prayagraj Yamuna narrates Mahakumbh Samudra Manthan and Triveni glory spiritual heritage",
     "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/prayagraj-water-laser-show-tells-mahakumbh-samudra-manthan-triveni-glory-136949530.html",
@@ -12607,6 +14700,32 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Lucknow",
+    "lang": "en"
+  },
+  {
+    "id": "b02839982273ca5548a868a302836a02",
+    "title": "Unnao: छात्र को सपने में आए बाबा श्याम, पीपल के नीचे खोदाई में मिली खाटू श्याम की मूर्ति, पूजा-अर्चना शुरू",
+    "link": "https://www.amarujala.com/uttar-pradesh/kanpur/unnao-student-dreamt-of-baba-shyam-and-during-excavation-under-a-peepal-tree-an-idol-of-khatu-shyam-was-found-2026-01-15",
+    "summary": "उन्नाव जिले के हसनगंज कोतवाली क्षेत्र में बिचपरी गांव में पीपल के पेड़ के पास खोदाई में खाटू श्याम की छोटी मूर्ति निकली। जानकारी हुई तो भीड़ लग गई। कुछ लोगों ने पूजा भी की।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:45:16 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "fdc89e7df701519c971a67500adc7c60",
+    "title": "मकर संक्रांति पर पतंगों के रंग में रंगा आसमान, VIDEO",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-makar-sankranti-painted-with-colours-of-kites-in-varanasi-2026-01-15",
+    "summary": "मकर संक्रांति पर पतंगों के रंग में रंगा आसमान, VIDEO",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:43:58 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
     "lang": "en"
   },
   {
@@ -12636,6 +14755,19 @@
     "lang": "en"
   },
   {
+    "id": "6dc17b5472e3c8d05dcab61e3173a5e5",
+    "title": "क्राफ्ट मेले में सजीं दुकानें, लोगों की लग रही भीड़, VIDEO",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-stalls-at-the-craft-fair-were-beautifully-decorated-and-crowds-of-people-were-gathering-in-varanasi-2026-01-15",
+    "summary": "क्राफ्ट मेले में सजीं दुकानें, लोगों की लग रही भीड़, VIDEO",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:41:55 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
     "id": "5bed7d4d9c1108f1821689ebe76ce1d2",
     "title": "Bihar Chief Secretary makes geo-spatial approval mandatory for DPRs of infra projects above ₹50 crore",
     "link": "https://www.thehindu.com/news/national/bihar/bihar-chief-secretary-makes-geo-spatial-approval-mandatory-for-dprs-of-infra-projects-above-50-crore/article70510218.ece",
@@ -12646,6 +14778,32 @@
     "report_category": "National_Govt",
     "source": "The Hindu",
     "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "2b81bf2fc92035354c8211a6269ef104",
+    "title": "लक्ष्मी कुंड का किया जा रहा जीर्णोद्धार, VIDEO",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-lakshmi-kund-being-renovated-in-varanasi-2026-01-15",
+    "summary": "लक्ष्मी कुंड का किया जा रहा जीर्णोद्धार, VIDEO",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:39:09 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "bb075fb6c5eb53d0deda0e4105e83317",
+    "title": "जेल में खेल : 10 टेंडर... दर्जनों कंपनियां, मेहरबानी सिर्फ एक पर, बड़ी अनियमितता की आशंका, जांच के आदेश",
+    "link": "https://www.amarujala.com/lucknow/10-tenders-dozens-of-companies-favors-only-one-major-irregularities-suspected-2026-01-15",
+    "summary": "जेल में खाद्य तेल और मसालों के टेंडरों में बड़ा खेल किया गया। चहेती कंपनी को दस टेंडर आवंटित कर दिए गए। पूरी टेंडर प्रक्रिया सवालों के घेरे में हैं। मामले में बड़ी अनियमितता की आशंका है।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:38:30 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Lucknow",
     "lang": "en"
   },
   {
@@ -12727,6 +14885,32 @@
     "lang": "en"
   },
   {
+    "id": "0094adddf5fc81520972b3e442a17546",
+    "title": "मकर संक्रांति पर काशी में उमड़े श्रद्धालु, VIDEO",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-devotees-thronged-to-kashi-on-makar-sankranti-2026-01-15",
+    "summary": "मकर संक्रांति पर काशी में उमड़े श्रद्धालु, VIDEO",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:33:05 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
+    "id": "2c64ce4df85ea7ad00027b142fe8f5ed",
+    "title": "बिड़ला हॉस्टल में छात्रों ने महादेव के जयघोष के साथ लगाया खिचड़ी का भोग, VIDEO",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-students-at-birla-hostel-offered-khichdi-as-religious-offering-while-chanting-slogans-in-praise-of-lord-shiva-2026-01-15",
+    "summary": "बिड़ला हॉस्टल में छात्रों ने महादेव के जयघोष के साथ लगाया खिचड़ी का भोग, VIDEO",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:32:58 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
+    "lang": "en"
+  },
+  {
     "id": "ea1f866229355a592370c6e1a5a3fabf",
     "title": "Lucknow News: बेटी के ब्याह के लिए खोली थी एफडी, पाई भी नहीं छोड़ी",
     "link": "https://www.amarujala.com/lucknow/i-opened-an-fd-for-my-daughters-wedding-and-didnt-spare-even-a-penny-lucknow-news-c-13-knp1002-1559860-2026-01-15",
@@ -12792,6 +14976,19 @@
     "lang": "en"
   },
   {
+    "id": "50c581ed7eabe72ff437e133c564750b",
+    "title": "UP: पुलिस मुठभेड़ में तीन शातिर बदमाश घायल, वृंदावन में दो महिला श्रद्धालुओं से की थी लूट",
+    "link": "https://www.amarujala.com/uttar-pradesh/mathura/three-notorious-snatchers-injured-in-police-encounter-arrested-in-vrindavan-2026-01-15",
+    "summary": "शातिरों ने पिछले सात दिनों में अलग-अलग स्थानों छिनैती की घटना की।",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:30:43 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
     "id": "726bd1858b7f850f17a33818121eebfb",
     "title": "Lucknow News: मामूली कहासुनी पर हुई थी सचिन की हत्या, दो दोस्त गिरफ्तार",
     "link": "https://www.amarujala.com/lucknow/sachin-was-murdered-over-a-minor-altercation-two-friends-arrested-lucknow-news-c-13-knp1002-1560167-2026-01-15",
@@ -12815,6 +15012,32 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Lucknow",
+    "lang": "en"
+  },
+  {
+    "id": "f22ead1a1374ba0cf8844893c493fe61",
+    "title": "संवेदनहीनता: सीएचसी में आठ घंटे तक गैलरी में जमीन पर लेटी रही गर्भवती, स्टाफ ने वार्ड में नहीं किया भर्ती",
+    "link": "https://www.amarujala.com/uttar-pradesh/pilibhit/pregnant-woman-lay-on-the-floor-in-the-gallery-at-the-chc-for-eight-hours-in-pilibhit-2026-01-15",
+    "summary": "सामुदायिक स्वास्थ्य केंद्र पहुंचे सीएचसी अधीक्षक ने गर्भवती को वार्ड में कराया भर्ती, स्टाफ को दी हिदायत",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:30:05 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Uttar Pradesh",
+    "lang": "en"
+  },
+  {
+    "id": "d66ccb855831944018193934e69ee6fb",
+    "title": "UP Politics: भाजपा की तुलना रावण से...सपा सांसद का विवादित बयान वायरल",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/up-politics-comparing-bjp-with-ravana-sp-mp-s-controversial-statement-goes-viral-2026-01-15",
+    "summary": "रॉबर्ट्सगंज लोकसभा क्षेत्र से समाजवादी पार्टी के सांसद छोटेलाल खरवार का एक बयान सोशल मीडिया पर तेजी से वायरल हो रहा है। अपने बयान में उन्होंने भाजपा की तुलना रावण से करते हुए उसे आततायी और अत्याचारी बताया",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:29:47 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
     "lang": "en"
   },
   {
@@ -12855,6 +15078,19 @@
     "source": "Amar Ujala",
     "district": "Lucknow",
     "lang": "en"
+  },
+  {
+    "id": "af5772b068a65450efbeca506e53a4a6",
+    "title": "Karnataka: तिंथानी कनक गुरु पीठ के सिद्धरामानंद स्वामी का निधन, 49 वर्ष की आयु में हार्ट अटैक से मौत",
+    "link": "https://www.amarujala.com/india-news/karnataka-tinthani-kanaka-guru-siddharamananda-swami-passes-away-at-49-2026-01-15",
+    "summary": "Karnataka: तिंथानी कनक गुरु पीठ के सिद्धरामानंद स्वामी का निधन, 49 वर्ष की आयु में हार्ट अटैक से मौत---Karnataka: Tinthani Kanaka Guru Siddharamananda Swami Passes Away at 49",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:29:06 +0530",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "Amar Ujala",
+    "district": "",
+    "lang": "hi"
   },
   {
     "id": "fd2354a570c4fa9ea612a6ac0516b606",
@@ -13036,6 +15272,19 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Lucknow",
+    "lang": "en"
+  },
+  {
+    "id": "6b4ac2e7385e128773176a768c9a4068",
+    "title": "कन्हैया लाल स्मृति भवन में मकर संक्रांति पर्व पर बच्चों ने दी गायन प्रस्तुति, VIDEO",
+    "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-children-singing-performance-at-kanhaiya-lal-memorial-hall-on-makar-sankranti-2026-01-15",
+    "summary": "कन्हैया लाल स्मृति भवन में मकर संक्रांति पर्व पर बच्चों ने दी गायन प्रस्तुति, VIDEO",
+    "date": "2026-01-15",
+    "timestamp": "Thu, 15 Jan 2026 02:26:05 +0530",
+    "section": "UP_Focus",
+    "report_category": "UP_Focus",
+    "source": "Amar Ujala",
+    "district": "Varanasi",
     "lang": "en"
   },
   {
@@ -13260,19 +15509,6 @@
     "lang": "en"
   },
   {
-    "id": "f22ead1a1374ba0cf8844893c493fe61",
-    "title": "संवेदनहीनता: सीएचसी में आठ घंटे तक गैलरी में जमीन पर लेटी रही गर्भवती, स्टाफ ने वार्ड में नहीं किया भर्ती",
-    "link": "https://www.amarujala.com/uttar-pradesh/pilibhit/pregnant-woman-lay-on-the-floor-in-the-gallery-at-the-chc-for-eight-hours-in-pilibhit-2026-01-15",
-    "summary": "सामुदायिक स्वास्थ्य केंद्र पहुंचे सीएचसी अधीक्षक ने गर्भवती को वार्ड में कराया भर्ती, स्टाफ को दी हिदायत",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 02:14:58 +0530",
-    "section": "UP_Focus",
-    "report_category": "UP_Focus",
-    "source": "Amar Ujala",
-    "district": "Uttar Pradesh",
-    "lang": "en"
-  },
-  {
     "id": "ebc4564b2f1ec2bac7d08f0dd252c660",
     "title": "धर्मसंघ में तीन दिवसीय संगोष्ठी में प्रोफेसर नागेंद्र कुमार ने रखे विचार, VIDEO",
     "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-professor-nagendra-kumar-presented-his-views-at-the-three-day-seminar-held-at-the-religious-institution-2026-01-15",
@@ -13390,19 +15626,6 @@
     "lang": "hi"
   },
   {
-    "id": "07ff17b21f2c0f355e53b95b555493cf",
-    "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 15 जनवरी के मुख्य और ताजा समाचार",
-    "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-15",
-    "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 02:02:50 +0530",
-    "section": "UP_Focus",
-    "report_category": "UP_Focus",
-    "source": "Amar Ujala",
-    "district": "Uttar Pradesh",
-    "lang": "en"
-  },
-  {
     "id": "1f6b4f988443a156deee1487cdafecd8",
     "title": "पढ़ें 15 जनवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
     "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-15",
@@ -13518,19 +15741,6 @@
     "source": "The Hindu",
     "district": "",
     "lang": "en"
-  },
-  {
-    "id": "eeffa69c8c51f8bcdbeb72b2ee4e3c32",
-    "title": "BMC Election Voting Live : रोहित पवार ने लगाए गड़बड़ी के आरोप; मंत्री भी अपने बूथ पर नहीं डाल पाए वोट",
-    "link": "https://www.amarujala.com/live/india-news/maharashtra-civic-polls-voting-live-updates-bmc-election-politcal-reaction-mahayuti-bjp-shiv-sena-ubt-ncp-2026-01-15",
-    "summary": "Maharashtra BMC Election Voting Live Updates: महाराष्ट्र निकाय चुनाव के लिए मतदान शुरू, संघ प्रमुख ने डाला वोट Maharashtra Civic Polls voting Live Updates BMC Election Politcal reaction Mahayuti BJP Shiv Sena UBT NCP",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 01:52:21 +0530",
-    "section": "National",
-    "report_category": "National_Opposition",
-    "source": "Amar Ujala",
-    "district": "",
-    "lang": "hi"
   },
   {
     "id": "27b6fddbc54df8f88a0412583177e0a3",
@@ -13741,19 +15951,6 @@
     "lang": "en"
   },
   {
-    "id": "b3ea946ced0d1dbd95b53f58f2b1c44b",
-    "title": "Heart Attack: अचानक क्यों बढ़े हार्ट अटैक के मामले? 40 से कम उम्र के लोगों को बड़ा खतरा; सिर्फ सात आदतें बदलें",
-    "link": "https://www.amarujala.com/uttar-pradesh/agra/heart-attack-know-why-suddenly-cases-of-heart-attack-increased-know-reasons-2026-01-15",
-    "summary": "एसएन के हृदय रोग विभाग में 40 साल से कम उम्र के 50 फीसदी मरीज, कैथ लैब में सर्जरी कराने वाले 40 फीसदी मरीजों में यही वजह मिल रही।",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 01:21:28 +0530",
-    "section": "UP_Focus",
-    "report_category": "UP_Focus",
-    "source": "Amar Ujala",
-    "district": "Uttar Pradesh",
-    "lang": "en"
-  },
-  {
     "id": "5a16907a36bc46f4190f5a4d3e268b48",
     "title": "खिचड़ी चढ़ाने के लिए दोपहर 01:39 बजे तक पुण्यकाल",
     "link": "https://www.amarujala.com/gorakhpur/gorakhpur-news-punya-kaal-till-0139-pm-for-offering-khichdi-gorakhpur-news-c-7-gkp1006-1197320-2026-01-15",
@@ -13764,19 +15961,6 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Gorakhpur",
-    "lang": "en"
-  },
-  {
-    "id": "dcceaec4a778a7e8a8234e377971428a",
-    "title": "यूपी: आरटीई के दाखिलों पर हाईकोर्ट सख्त, राज्य सरकार से मांगा निजी स्कूलों में हुए एडमिशन का ब्योरा",
-    "link": "https://www.amarujala.com/lucknow/up-high-court-strict-on-rte-admissions-asks-state-government-for-details-of-admissions-in-private-schools-2026-01-15",
-    "summary": "RTE admissions: यूपी में आरटीई के माध्यम से करीब तबके के बच्चों के निजी स्कूलों में होने वाले दाखिलों पर हाईकोर्ट ने सख्ती दिखाई है। राज्य सरकार से इसका ब्योरा मांगा गया है।",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 01:19:34 +0530",
-    "section": "UP_Focus",
-    "report_category": "UP_Focus",
-    "source": "Amar Ujala",
-    "district": "Lucknow",
     "lang": "en"
   },
   {
@@ -13898,9 +16082,9 @@
   },
   {
     "id": "452233ed47ff58a4b1eb7b08258232bc",
-    "title": "Gorakhpur News: बैंक का बिजली कनेक्शन लटकाया, जेई पर गिर सकती है गाज",
+    "title": "बिल भुगतान के बाद भी नहीं जोड़ा कनेक्शन: बैंक का बिजली कनेक्शन लटकाया, जेई पर गिर सकती है गाज",
     "link": "https://www.amarujala.com/gorakhpur/gorakhpur-news-banks-electricity-connection-suspended-je-may-face-action-gorakhpur-news-c-7-gkp1038-1197916-2026-01-15",
-    "summary": "गोरखपुर। बिजली निगम के चौरीचौरा खंड में अभियंताओं की मनमानी का बड़ा मामला सामने आया है।",
+    "summary": "बिजली निगम के चौरीचौरा खंड में अभियंताओं की मनमानी का बड़ा मामला सामने आया है।",
     "date": "2026-01-15",
     "timestamp": "Thu, 15 Jan 2026 01:10:43 +0530",
     "section": "UP_Focus",
@@ -13972,19 +16156,6 @@
     "report_category": "UP_Focus",
     "source": "Amar Ujala",
     "district": "Lucknow",
-    "lang": "en"
-  },
-  {
-    "id": "cd61d8d05d3a020c5df815c7558f421a",
-    "title": "Quebec Premier François Legault Resigns Ahead of Elections",
-    "link": "https://www.nytimes.com/2026/01/14/world/americas/quebec-leader-resignation.html",
-    "summary": "Premier François Legault became Canada’s most popular provincial leader during the pandemic thanks to his reassuring, avuncular persona. But missteps sank his hopes for a third term.",
-    "date": "2026-01-15",
-    "timestamp": "Thu, 15 Jan 2026 01:07:49 +0000",
-    "section": "International",
-    "report_category": "International",
-    "source": "NYT World",
-    "district": "",
     "lang": "en"
   },
   {
@@ -15102,6 +17273,110 @@
     "section": "International",
     "report_category": "International",
     "source": "The Hindu",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "1c05f51a49b38c6a814709450b51aa0b",
+    "title": "Iran unrest: MEA prepares evacuation of Indians; first flight from Tehran to Delhi tomorrow, says sources",
+    "link": "https://timesofindia.indiatimes.com/india/iran-unrest-mea-prepares-evacuation-of-indians-first-flight-from-tehran-to-delhi-tomorrow-says-sources/articleshow/126545630.cms",
+    "summary": "",
+    "date": "2026-01-15",
+    "timestamp": "2026-01-15T18:36:24+05:30",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "TOI India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "37a5ca20be85c6edd43753561c7bcf6e",
+    "title": "'As if it's Jantar Mantar!' SC 'disturbed' by ED's charge; agency says TMC asked people to come to HC before I-PAC raid hearing",
+    "link": "https://timesofindia.indiatimes.com/india/as-if-its-jantar-mantar-sc-disturbed-by-eds-charge-agency-says-tmc-asked-people-to-come-to-hc-before-i-pac-raid-hearing/articleshow/126545776.cms",
+    "summary": "",
+    "date": "2026-01-15",
+    "timestamp": "2026-01-15T17:57:12+05:30",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "TOI India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "13943cda9425ee98c456addf83d4a3e9",
+    "title": "2nd BDO office vandalised in Bengal: SIR hearing was underway in Dinajpur; FIR filed",
+    "link": "https://timesofindia.indiatimes.com/india/2nd-bdo-office-vandalised-in-bengal-sir-hearing-was-underway-in-dinajpur-fir-filed/articleshow/126546134.cms",
+    "summary": "An agitated mob vandalized and torched the Goalpokher-II BDO office in North Dinajpur, West Bengal, during a Special Intensive Revision hearing. Around 300 people reportedly destroyed property worth Rs 20 lakh and injured police and staff. This follows similar violence at the Farakka BDO office.",
+    "date": "2026-01-15",
+    "timestamp": "2026-01-15T17:53:02+05:30",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "TOI India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "fc03715ecde2122afbbeb957a98de426",
+    "title": "Evening news wrap: Top court seeks Mamata’s reply on ED raids; ink controversy shadows Mumbai polls, and more",
+    "link": "https://timesofindia.indiatimes.com/india/evening-news-wrap-top-court-seeks-mamatas-reply-on-ed-raids-ink-controversy-shadows-mumbai-polls-and-more/articleshow/126545553.cms",
+    "summary": "",
+    "date": "2026-01-15",
+    "timestamp": "2026-01-15T17:23:50+05:30",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "TOI India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "c1e532a50b81eb731eefbb4063f5dae3",
+    "title": "Republic Day 2026: EU’s top leaders to be chief guests in New Delhi",
+    "link": "https://timesofindia.indiatimes.com/india/republic-day-2026-eus-top-leaders-to-be-chief-guests-in-new-delhi/articleshow/126545330.cms",
+    "summary": "",
+    "date": "2026-01-15",
+    "timestamp": "2026-01-15T17:07:30+05:30",
+    "section": "National",
+    "report_category": "National_General",
+    "source": "TOI India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "8b9549f6143c269a07a9caaf83aea886",
+    "title": "SC stays FIRs by West Bengal Police against ED over I-PAC raids; issues notice to Mamata - what top court said",
+    "link": "https://timesofindia.indiatimes.com/india/sc-stays-firs-by-west-bengal-police-against-ed-over-i-pac-raids-issues-notice-to-mamata-what-top-court-said/articleshow/126542861.cms",
+    "summary": "The Supreme Court has issued a notice to West Bengal CM Mamata Banerjee and state officials regarding allegations by the ED of interference during raids on I-PAC. The court also restrained the state police from probing the FIR against ED.",
+    "date": "2026-01-15",
+    "timestamp": "2026-01-15T15:00:03+05:30",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "TOI India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "c70a3447e681ec2c4eb97a9a116c7632",
+    "title": "From kingmakers to kin wars: How family feuds are crippling regional parties across states",
+    "link": "https://timesofindia.indiatimes.com/india/from-kingmakers-to-kin-wars-how-family-feuds-are-crippling-regional-parties-across-states/articleshow/126542174.cms",
+    "summary": "Once kingmakers, many Indian regional parties now grapple with internal strife and leadership crises. From the RJD's family disputes to the Shiv Sena's split and the NCP's factionalism, these parties face significant challenges. Internal conflicts and succession battles are weakening their once formidable influence across the political landscape.",
+    "date": "2026-01-15",
+    "timestamp": "2026-01-15T14:44:47+05:30",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "TOI India",
+    "district": "",
+    "lang": "en"
+  },
+  {
+    "id": "a51ce72add0dfc31f9a060e0e3b1ee40",
+    "title": "Mid-air scare: Air India’s Singapore-bound flight returns to Delhi; technical snag reported",
+    "link": "https://timesofindia.indiatimes.com/india/mid-air-scare-air-indias-singapore-bound-flight-returns-to-delhi-technical-snag-reported/articleshow/126542267.cms",
+    "summary": "",
+    "date": "2026-01-15",
+    "timestamp": "2026-01-15T14:24:02+05:30",
+    "section": "National",
+    "report_category": "National_Judicial",
+    "source": "TOI India",
     "district": "",
     "lang": "en"
   },
