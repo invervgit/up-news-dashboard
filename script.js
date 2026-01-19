@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchData();
     document.getElementById('district-filter').addEventListener('change', renderStories);
     document.getElementById('category-filter').addEventListener('change', renderStories);
+    document.getElementById('grid-date').addEventListener('change', renderStories);
     document.getElementById('report-date').addEventListener('change', renderDashboardReport);
 });
 
@@ -14,6 +15,7 @@ async function fetchData() {
         const response = await fetch('data/news.json');
         if (!response.ok) throw new Error("Data not found");
         const data = await response.json();
+        
         if (Array.isArray(data)) {
             allStories = data;
             if(allStories.length > 0) updateTimeDisplay(allStories[0].timestamp);
@@ -21,7 +23,10 @@ async function fetchData() {
             allStories = data.stories;
             updateTimeDisplay(data.generated_at);
         }
-        if(allStories.length > 0) populateDateDropdown();
+        
+        if(allStories.length > 0) {
+            populateDateDropdowns();
+        }
         switchMode('international');
     } catch (error) {
         console.error(error);
@@ -32,19 +37,26 @@ async function fetchData() {
 function updateTimeDisplay(isoString) {
     if (!isoString) return;
     const date = new Date(isoString);
-    const options = { day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit', hour12: true };
+    const options = { 
+        timeZone: 'Asia/Kolkata', 
+        day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit', hour12: true 
+    };
     document.getElementById('last-updated').textContent = `Updated: ${date.toLocaleDateString('en-IN', options)}`;
 }
 
-function populateDateDropdown() {
-    const dateSelect = document.getElementById('report-date');
-    const uniqueDates = [...new Set(allStories.map(s => s.date))].sort().reverse();
-    dateSelect.innerHTML = '';
-    uniqueDates.forEach(date => {
-        const opt = document.createElement('option');
-        opt.value = date;
-        opt.textContent = new Date(date).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
-        dateSelect.appendChild(opt);
+function populateDateDropdowns() {
+    const dates = [...new Set(allStories.map(s => s.date))].sort().reverse();
+    
+    // Populate both Dashboard Report Date AND Grid View Date
+    ['report-date', 'grid-date'].forEach(id => {
+        const select = document.getElementById(id);
+        select.innerHTML = '';
+        dates.forEach(date => {
+            const opt = document.createElement('option');
+            opt.value = date;
+            opt.textContent = new Date(date).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' });
+            select.appendChild(opt);
+        });
     });
 }
 
@@ -61,24 +73,30 @@ function switchMode(mode) {
     const dashboardBar = document.getElementById('dashboard-bar');
     const newsGrid = document.getElementById('news-grid');
     const reportContainer = document.getElementById('executive-report');
+    const districtGroup = document.getElementById('district-group');
 
     if (mode === 'dashboard') {
-        filterBar.style.display = 'none'; dashboardBar.style.display = 'flex'; newsGrid.style.display = 'none'; reportContainer.style.display = 'block';
+        filterBar.style.display = 'none';
+        dashboardBar.style.display = 'flex';
+        newsGrid.style.display = 'none';
+        reportContainer.style.display = 'block';
+        
         isManualMode = false;
         document.getElementById('manual-controls').style.display = 'none';
         document.getElementById('report-title').textContent = 'Daily Digest';
         renderDashboardReport();
     } else {
-        dashboardBar.style.display = 'none'; reportContainer.style.display = 'none'; newsGrid.style.display = 'grid';
-        filterBar.style.display = (mode === 'state') ? 'flex' : 'none';
+        dashboardBar.style.display = 'none';
+        reportContainer.style.display = 'none';
+        newsGrid.style.display = 'grid';
+        filterBar.style.display = 'flex';
+        
+        // Only show District filter for UP Focus
+        districtGroup.style.display = (mode === 'state') ? 'flex' : 'none';
+        
         if(mode === 'state') populateDistricts();
         renderStories();
     }
-}
-
-// --- SELECT ALL LOGIC ---
-function selectAll(checked) {
-    document.querySelectorAll('.news-select').forEach(cb => cb.checked = checked);
 }
 
 function createSummaryHtml(text) {
@@ -97,29 +115,47 @@ window.toggleReadMore = function(btn) {
 function renderStories() {
     const grid = document.getElementById('news-grid');
     grid.innerHTML = '';
-    let filtered = allStories.filter(s => s.section.toLowerCase() === currentMode.toLowerCase().replace('_focus',''));
+    
+    const selectedDate = document.getElementById('grid-date').value;
+    
+    // Filter by Section AND Date
+    let filtered = allStories.filter(s => 
+        s.section.toLowerCase() === currentMode.toLowerCase().replace('_focus','') &&
+        s.date === selectedDate
+    );
+    
     if(currentMode === 'state') {
-        filtered = allStories.filter(s => s.section === 'UP_Focus');
+        filtered = allStories.filter(s => s.section === 'UP_Focus' && s.date === selectedDate);
         const dist = document.getElementById('district-filter').value;
         const cat = document.getElementById('category-filter').value;
         if(dist !== 'All') filtered = filtered.filter(s => s.district === dist);
         if(cat !== 'All') filtered = filtered.filter(s => s.report_category.includes(cat));
-        filtered = filtered.slice(0, 50);
-    } else { filtered = filtered.slice(0, 40); }
-    if(filtered.length === 0) { grid.innerHTML = '<p>No stories found.</p>'; return; }
+    }
+
+    if(filtered.length === 0) { grid.innerHTML = '<p style="grid-column:1/-1; text-align:center">No stories found for this date.</p>'; return; }
+
     filtered.forEach(item => {
-        const time = new Date(item.timestamp).toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
+        const time = new Date(item.timestamp).toLocaleTimeString('en-IN', {
+            timeZone: 'Asia/Kolkata', hour:'numeric', minute:'2-digit', hour12:true
+        });
         const card = document.createElement('div');
         card.className = `news-card cat-${item.report_category.split('_')[1] || 'General'}`;
         card.innerHTML = `<div class="meta"><span>${item.source}</span><span>${time}</span></div><h3><a href="${item.link}" target="_blank">${item.title}</a></h3><p class="summary">${createSummaryHtml(item.summary)}</p>`;
         grid.appendChild(card);
     });
 }
+
 function populateDistricts() {
     const select = document.getElementById('district-filter');
     if (select.children.length > 1) return;
     const dists = [...new Set(allStories.filter(s => s.section === 'UP_Focus').map(s => s.district))].sort();
     dists.forEach(d => { if(d) { const o = document.createElement('option'); o.value=d; o.textContent=d; select.appendChild(o); }});
+}
+
+// --- REPORT LOGIC ---
+
+function selectAll(checked) {
+    document.querySelectorAll('.news-select').forEach(cb => cb.checked = checked);
 }
 
 function toggleManualMode() {
@@ -140,6 +176,7 @@ function renderDashboardReport() {
     const selectedDate = document.getElementById('report-date').value;
     const content = document.getElementById('report-content');
     document.getElementById('report-date-display').innerText = `Report Date: ${new Date(selectedDate).toDateString()}`;
+    
     const dailyNews = allStories.filter(s => s.date === selectedDate);
     if(dailyNews.length === 0) { content.innerHTML = "<p>No data.</p>"; return; }
 
@@ -175,9 +212,77 @@ function renderDashboardReport() {
     content.innerHTML = html || "<p>No categorized news found.</p>";
 }
 
-// --- PDF GENERATION ---
+function getPdfConfig(filename) {
+    return {
+        margin: [0.25, 0.25, 0.25, 0.25], 
+        filename: filename,
+        image: { type: 'jpeg', quality: 1 },
+        html2canvas: { scale: 2, useCORS: true, letterRendering: true },
+        jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' },
+        pagebreak: { mode: ['css', 'avoid-all', 'legacy'] }
+    };
+}
 
-// 1. Browser Print (Best for Selectable Text)
+function addHeader(pdf) {
+    const totalPages = pdf.internal.getNumberOfPages();
+    for (let i = 1; i <= totalPages; i++) {
+        pdf.setPage(i);
+        pdf.setFontSize(9);
+        pdf.setFont("times", "italic");
+        pdf.setTextColor(100);
+        pdf.text('Internal Use Only', 7.2, 0.35); 
+    }
+}
+
+function downloadAutoPDF() {
+    // Hide controls
+    document.querySelectorAll('.news-select').forEach(cb => cb.style.display = 'none');
+    document.getElementById('manual-controls').style.display = 'none';
+
+    const element = document.getElementById('executive-report');
+    const filename = `Daily_Digest_${document.getElementById('report-date').value}.pdf`;
+    
+    html2pdf().from(element).set(getPdfConfig(filename)).toPdf().get('pdf').then(pdf => addHeader(pdf)).save().then(() => {
+        if(isManualMode) {
+            document.querySelectorAll('.news-select').forEach(cb => cb.style.display = 'inline');
+            document.getElementById('manual-controls').style.display = 'block';
+        }
+    });
+}
+
+function downloadManualPDF() {
+    // PREPARE FOR PDF: Hide unchecked, Swap Checkbox for Bullet
+    document.querySelectorAll('.news-select').forEach(cb => {
+        const row = cb.closest('tr');
+        if(!cb.checked) {
+            row.classList.add('temp-hide');
+            row.style.display = 'none';
+        } else {
+            cb.style.display = 'none'; // Hide box
+            const bullet = document.createElement('span');
+            bullet.className = 'temp-bullet';
+            bullet.textContent = '● ';
+            cb.parentNode.insertBefore(bullet, cb);
+        }
+    });
+    document.getElementById('manual-controls').style.display = 'none';
+
+    const element = document.getElementById('executive-report');
+    const filename = `Manual_Report_${document.getElementById('report-date').value}.pdf`;
+
+    html2pdf().from(element).set(getPdfConfig(filename)).toPdf().get('pdf').then(pdf => addHeader(pdf)).save().then(() => {
+        // RESTORE UI
+        document.querySelectorAll('.temp-hide').forEach(row => {
+            row.classList.remove('temp-hide');
+            row.style.display = '';
+        });
+        document.querySelectorAll('.temp-bullet').forEach(el => el.remove());
+        document.querySelectorAll('.news-select').forEach(cb => cb.style.display = 'inline');
+        document.getElementById('manual-controls').style.display = 'block';
+    });
+}
+
+// Keep Print function for absolute backup
 function printSelectablePDF() {
     if(isManualMode) {
         document.querySelectorAll('.news-select').forEach(cb => {
@@ -191,60 +296,6 @@ function printSelectablePDF() {
         document.querySelectorAll('.news-select').forEach(cb => cb.style.display = 'inline');
         document.querySelectorAll('.hide-for-print').forEach(row => row.classList.remove('hide-for-print'));
         document.getElementById('manual-controls').style.display = 'block';
-    }
-}
-
-// 2. HTML2PDF Config
-function getPdfConfig(filename) {
-    return {
-        margin: [0.25, 0.25, 0.25, 0.25], // Fixed 0.25 on all sides
-        filename: filename,
-        image: { type: 'jpeg', quality: 1 },
-        html2canvas: { scale: 2, useCORS: true, letterRendering: true },
-        jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' },
-        pagebreak: { mode: ['css', 'avoid-all', 'legacy'] } // Helps prevent blank pages
-    };
-}
-
-function downloadAutoPDF() {
-    document.querySelectorAll('.news-select').forEach(cb => cb.style.display = 'none');
-    const element = document.getElementById('executive-report');
-    const filename = `Daily_Digest_${document.getElementById('report-date').value}.pdf`;
-    html2pdf().from(element).set(getPdfConfig(filename)).toPdf().get('pdf').then(pdf => addHeader(pdf)).save().then(() => {
-        if(isManualMode) document.querySelectorAll('.news-select').forEach(cb => cb.style.display = 'inline');
-    });
-}
-
-function downloadManualPDF() {
-    // Hide unchecked items
-    document.querySelectorAll('.news-select').forEach(cb => {
-        if(!cb.checked) cb.closest('tr').style.display = 'none';
-        else cb.style.display = 'none'; // Hide checkbox
-    });
-    // Hide controls
-    document.getElementById('manual-controls').style.display = 'none';
-
-    const element = document.getElementById('executive-report');
-    const filename = `Manual_Report_${document.getElementById('report-date').value}.pdf`;
-
-    html2pdf().from(element).set(getPdfConfig(filename)).toPdf().get('pdf').then(pdf => addHeader(pdf)).save().then(() => {
-        // Restore
-        document.querySelectorAll('tr').forEach(tr => tr.style.display = '');
-        document.querySelectorAll('.news-select').forEach(cb => cb.style.display = 'inline');
-        document.getElementById('manual-controls').style.display = 'block';
-    });
-}
-
-function addHeader(pdf) {
-    const totalPages = pdf.internal.getNumberOfPages();
-    for (let i = 1; i <= totalPages; i++) {
-        pdf.setPage(i);
-        pdf.setFontSize(9);
-        pdf.setFont("times", "italic"); // Using Times for Serif look (Karma substitute)
-        pdf.setTextColor(100);
-        // Position top-right (A4 width 8.27in - 0.25 margin = approx 8.02)
-        // Adjusting to 7.2 to account for text width
-        pdf.text('Internal Use Only', 7.2, 0.35); 
     }
 }
 
