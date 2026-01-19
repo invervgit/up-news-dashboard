@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PoliticalIntel: Dashboard</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
+    
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Karma:wght@400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
@@ -32,8 +33,8 @@
     <section class="controls dashboard-controls" id="dashboard-bar" style="display: none;">
         <div class="filter-group"><label>Report Date:</label><select id="report-date"></select></div>
         <div class="action-buttons">
-            <button onclick="printSelectablePDF()" class="pdf-btn print-btn">🖨️ Print / Save as Selectable PDF</button>
-            <button onclick="downloadAutoPDF()" class="pdf-btn auto-btn">⬇ Auto PDF (Image)</button>
+            <button onclick="printSelectablePDF()" class="pdf-btn print-btn">🖨️ Print / Save PDF</button>
+            <button onclick="downloadAutoPDF()" class="pdf-btn auto-btn">⬇ Auto Report</button>
             <button onclick="toggleManualMode()" class="pdf-btn manual-btn">📝 Manual Selection</button>
         </div>
     </section>
@@ -42,17 +43,22 @@
         <div id="news-grid" class="grid-container"><div class="loader">Loading Intelligence...</div></div>
         
         <div id="executive-report" class="report-container" style="display: none;">
-            <div class="print-header-only">Internal Use Only</div>
-
+            
             <div class="report-header">
                 <h2 id="report-title">Daily Digest</h2>
                 <p id="report-date-display">Date: ...</p>
                 <hr style="border-top: 2px solid #333; margin-top: 10px; width: 100%;">
             </div>
             
-            <div id="manual-controls" style="display:none; margin-bottom: 20px; text-align: right;">
-                 <p style="font-size: 0.9em; color: #666; margin-bottom: 10px;">Select news items below, then click Generate:</p>
-                 <button onclick="downloadManualPDF()" class="pdf-btn final-manual-btn">⬇ Generate Selected PDF</button>
+            <div id="manual-controls" style="display:none; margin-bottom: 20px; padding-bottom: 15px; border-bottom: 1px dashed #ccc;">
+                 <div style="display: flex; justify-content: space-between; align-items: center;">
+                     <div>
+                         <button onclick="selectAll(true)" class="link-btn">Select All</button> | 
+                         <button onclick="selectAll(false)" class="link-btn">Deselect All</button>
+                     </div>
+                     <button onclick="downloadManualPDF()" class="pdf-btn final-manual-btn">⬇ Generate Selected PDF</button>
+                 </div>
+                 <p style="font-size: 0.85em; color: #666; margin-top: 5px;">*Select checkboxes below to include in report</p>
             </div>
 
             <div id="report-content"></div>
