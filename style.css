@@ -1,10 +1,5 @@
-:root {
-    --primary: #2c3e50;
-    --accent: #e74c3c;
-    --bg: #f5f7fa;
-    --text-body: #333;
-}
-
+/* --- Base Styles --- */
+:root { --primary: #2c3e50; --accent: #e74c3c; --bg: #f5f7fa; --text-body: #333; }
 body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text-body); margin: 0; padding: 0; }
 
 /* Navbar & Hero */
@@ -12,104 +7,53 @@ body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--tex
 .logo { font-weight: 800; font-size: 1.4rem; color: var(--primary); }
 .logo span { color: var(--accent); }
 #last-updated { font-size: 0.8rem; color: #777; font-weight: 600; }
-
 .hero { text-align: center; padding: 2rem 1rem; background: var(--primary); color: white; }
 .hero h1 { margin: 0; font-size: 2rem; }
 .hero p { opacity: 0.8; font-size: 0.9rem; margin-bottom: 1.5rem; }
 
 /* Buttons */
 .mode-switcher { display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; }
-.mode-btn {
-    padding: 8px 20px;
-    border: 1px solid rgba(255,255,255,0.3);
-    background: rgba(255,255,255,0.1);
-    color: white;
-    border-radius: 5px;
-    cursor: pointer;
-    font-weight: 600;
-    font-family: 'Inter', sans-serif;
-    transition: all 0.2s;
-}
+.mode-btn { padding: 8px 20px; border: 1px solid rgba(255,255,255,0.3); background: rgba(255,255,255,0.1); color: white; border-radius: 5px; cursor: pointer; font-weight: 600; font-family: 'Inter', sans-serif; transition: all 0.2s; }
 .mode-btn:hover { background: rgba(255,255,255,0.2); }
 .mode-btn.active { background: white; color: var(--primary); border-color: white; }
 
-/* Filters */
+/* Filters & Dashboard Controls */
 .controls { background: white; padding: 10px 2rem; border-bottom: 1px solid #eee; display: flex; justify-content: center; gap: 20px; }
 .dashboard-controls { justify-content: space-between; align-items: center; }
 select { padding: 5px 10px; border-radius: 4px; border: 1px solid #ccc; }
-.pdf-btn { background: #e74c3c; color: white; border: none; padding: 8px 16px; border-radius: 4px; font-weight: 600; cursor: pointer; }
+.action-buttons { display: flex; gap: 10px; }
+.pdf-btn { color: white; border: none; padding: 8px 16px; border-radius: 4px; font-weight: 600; cursor: pointer; transition: background 0.2s; }
+.auto-btn { background: #e74c3c; } .auto-btn:hover { background: #c0392b; }
+.manual-btn { background: #3498db; } .manual-btn:hover { background: #2980b9; }
+.final-manual-btn { background: #27ae60; font-size: 1rem; padding: 10px 20px; } .final-manual-btn:hover { background: #219a52; }
 
 /* Grid View */
 .grid-container { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px; padding: 20px; max-width: 1200px; margin: 0 auto; }
 .news-card { background: white; padding: 15px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); border-left: 4px solid #ccc; }
 .news-card h3 { margin: 5px 0 10px 0; font-size: 1.1rem; }
 .news-card a { color: #2c3e50; text-decoration: none; }
-.cat-Judicial { border-color: #9b59b6; }
-.cat-Govt { border-color: #27ae60; }
-.cat-Opposition { border-color: #c0392b; }
+.cat-Judicial { border-color: #9b59b6; } .cat-Govt { border-color: #27ae60; } .cat-Opposition { border-color: #c0392b; }
 .meta { font-size: 0.75rem; color: #999; display: flex; justify-content: space-between; margin-bottom: 5px; }
+.read-more-link { color: #e74c3c; font-weight: 600; cursor: pointer; font-size: 0.9em; margin-left: 5px; }
+.read-more-link:hover { text-decoration: underline; }
 
-/* --- REPORT STYLES (Fixed Width for PDF) --- */
-.report-container {
-    background: white;
-    width: 100%;
-    max-width: 800px; /* Limits width on screen to match PDF look */
-    margin: 20px auto;
-    padding: 30px;
-    box-shadow: 0 0 15px rgba(0,0,0,0.1);
-    font-family: 'Karma', serif; 
-    text-align: left;
-}
-
-.report-header { 
-    text-align: center; 
-    margin: 0 auto 30px auto; 
-    width: 100%;
-}
+/* --- REPORT STYLES --- */
+.report-container { background: white; width: 100%; max-width: 850px; margin: 20px auto; padding: 30px; box-shadow: 0 0 15px rgba(0,0,0,0.1); font-family: 'Karma', serif; text-align: left; }
+.report-header { text-align: center; margin: 0 auto 20px auto; width: 100%; }
 .report-header h2 { font-size: 24px; font-weight: 700; margin: 0; color: #000; }
 .report-header p { font-size: 14px; margin: 5px 0 0 0; color: #555; }
-
-.pdf-section { 
-    margin-bottom: 25px; 
-    page-break-inside: avoid; 
-}
-.pdf-section h3 {
-    font-size: 16px; 
-    font-weight: 700;
-    color: #fff;
-    background-color: #2c3e50; 
-    padding: 6px 12px;
-    margin: 0 0 15px 0;
-    border-radius: 4px;
-    -webkit-print-color-adjust: exact; 
-}
-
+.pdf-section { margin-bottom: 20px; page-break-inside: avoid; }
+.pdf-section h3 { font-size: 16px; font-weight: 700; color: #fff; background-color: #2c3e50; padding: 6px 12px; margin: 0 0 10px 0; border-radius: 4px; -webkit-print-color-adjust: exact; }
 .report-table { width: 100%; border-collapse: collapse; }
 .report-table tr { break-inside: avoid; }
-.report-table td { 
-    padding: 8px 0; 
-    border-bottom: none; 
-    vertical-align: top;
-}
+.report-table td { padding: 8px 0; border-bottom: none; vertical-align: top; }
+
+/* Source Link Fix */
+.source-link { display: block; width: 100%; }
+.source-link a { font-size: 11px; color: #e74c3c; text-decoration: underline; font-weight: 600; cursor: pointer; white-space: nowrap; }
 
 .news-title { font-size: 14px; font-weight: 700; color: #000; display: block; margin-bottom: 4px; }
 .news-summary { font-size: 12px; color: #333; font-weight: 400; line-height: 1.4; display: block; }
-.source-link a { font-size: 11px; color: #e74c3c; text-decoration: underline; font-weight: 600; cursor: pointer; }
+.report-footer { margin-top: 20px; text-align: center; font-size: 10px; color: #777; border-top: 1px solid #eee; padding-top: 10px; width: 100%; }
 
-.report-footer { margin-top: 30px; text-align: center; font-size: 10px; color: #777; border-top: 1px solid #eee; padding-top: 10px; width: 100%; }
-
-@media print {
-    body { background: white; }
-    .navbar, .hero, .controls { display: none; }
-    .report-container { box-shadow: none; margin: 0; padding: 0; width: 100%; max-width: none; }
-}
-.read-more-link {
-    color: #e74c3c;
-    font-weight: 600;
-    cursor: pointer;
-    font-size: 0.9em;
-    margin-left: 5px;
-}
-.read-more-link:hover {
-    text-decoration: underline;
-}
+@media print { body { background: white; } .navbar, .hero, .controls { display: none; } .report-container { box-shadow: none; margin: 0; padding: 0; width: 100%; max-width: none; } }
