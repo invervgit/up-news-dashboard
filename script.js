@@ -12,14 +12,34 @@ async function fetchData() {
     try {
         const response = await fetch('data/news.json');
         if (!response.ok) throw new Error("Data not found");
-        allStories = await response.json();
+        const data = await response.json();
         
-        if(allStories.length > 0) {
-            populateDateDropdown();
-            document.getElementById('last-updated').textContent = `Updated: ${new Date(allStories[0].timestamp).toLocaleDateString()}`;
+        // Handle new Dict structure or old List structure
+        if (Array.isArray(data)) {
+            allStories = data;
+            // Fallback for old data structure
+            if(allStories.length > 0) updateTimeDisplay(allStories[0].timestamp);
+        } else {
+            allStories = data.stories;
+            // Use server generation time if available
+            updateTimeDisplay(data.generated_at);
         }
+        
+        if(allStories.length > 0) populateDateDropdown();
         switchMode('international');
-    } catch (error) { console.error(error); }
+        
+    } catch (error) {
+        console.error(error);
+        document.getElementById('news-grid').innerHTML = '<p style="text-align:center">Error loading data.</p>';
+    }
+}
+
+function updateTimeDisplay(isoString) {
+    if (!isoString) return;
+    const date = new Date(isoString);
+    // Format: "19 Jan, 10:30 PM"
+    const options = { day: 'numeric', month: 'short', hour: 'numeric', minute: '2-digit', hour12: true };
+    document.getElementById('last-updated').textContent = `Updated: ${date.toLocaleDateString('en-IN', options)}`;
 }
 
 function populateDateDropdown() {
@@ -37,6 +57,7 @@ function populateDateDropdown() {
 function switchMode(mode) {
     currentMode = mode;
     document.querySelectorAll('.mode-btn').forEach(btn => btn.classList.remove('active'));
+    
     const btns = document.querySelectorAll('.mode-btn');
     if(mode==='international') btns[0].classList.add('active');
     if(mode==='national') btns[1].classList.add('active');
@@ -59,6 +80,39 @@ function switchMode(mode) {
     }
 }
 
+// --- READ MORE LOGIC ---
+function createSummaryHtml(text) {
+    const limit = 350;
+    if (!text || text.length <= limit) return text;
+    
+    const shortText = text.substring(0, limit);
+    // Escape quotes to prevent HTML breaking
+    const safeFullText = text.replace(/"/g, '&quot;');
+    
+    return `
+        <span class="short-content">${shortText}... </span>
+        <span class="full-content" style="display:none">${text}</span>
+        <span class="read-more-link" onclick="toggleReadMore(this)">Read More</span>
+    `;
+}
+
+// Attach to window so HTML can call it
+window.toggleReadMore = function(btn) {
+    const parent = btn.parentElement;
+    const short = parent.querySelector('.short-content');
+    const full = parent.querySelector('.full-content');
+    
+    if (full.style.display === 'none') {
+        full.style.display = 'inline';
+        short.style.display = 'none';
+        btn.textContent = ' Read Less';
+    } else {
+        full.style.display = 'none';
+        short.style.display = 'inline';
+        btn.textContent = ' Read More';
+    }
+};
+
 function renderStories() {
     const grid = document.getElementById('news-grid');
     grid.innerHTML = '';
@@ -79,7 +133,11 @@ function renderStories() {
         const time = new Date(item.timestamp).toLocaleTimeString([], {hour:'2-digit', minute:'2-digit'});
         const card = document.createElement('div');
         card.className = `news-card cat-${item.report_category.split('_')[1] || 'General'}`;
-        card.innerHTML = `<div class="meta"><span>${item.source}</span><span>${time}</span></div><h3><a href="${item.link}" target="_blank">${item.title}</a></h3><p>${item.summary}</p>`;
+        card.innerHTML = `
+            <div class="meta"><span>${item.source}</span><span>${time}</span></div>
+            <h3><a href="${item.link}" target="_blank">${item.title}</a></h3>
+            <p class="summary">${createSummaryHtml(item.summary)}</p>
+        `;
         grid.appendChild(card);
     });
 }
@@ -99,7 +157,6 @@ function renderDashboardReport() {
     const dailyNews = allStories.filter(s => s.date === selectedDate);
     if(dailyNews.length === 0) { content.innerHTML = "<p>No data.</p>"; return; }
 
-    // Concise Counts (5, 15, 5, 5) to fit ~3 pages
     const intl = dailyNews.filter(s => s.section === 'International').slice(0, 5);
     const natGov = dailyNews.filter(s => s.report_category === 'National_Govt').slice(0, 15);
     const opp = dailyNews.filter(s => s.report_category === 'National_Opposition').slice(0, 5);
@@ -140,7 +197,6 @@ function downloadPDF() {
             pdf.setFontSize(10);
             pdf.setFont("helvetica", "italic");
             pdf.setTextColor(100);
-            // Right Aligned Header
             pdf.text('Internal Use Only', 6.5, 0.35); 
         }
     }).save();
