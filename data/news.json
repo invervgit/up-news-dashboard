@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T06:27:44.634195+00:00",
+  "generated_at": "2026-01-22T07:24:12.120811+00:00",
   "stories": [
     {
       "id": "b183a77ee5d637f6699e1f8a41119c89",
@@ -1087,8 +1087,8 @@
       "summary": "Rights activist cited for work in education, health, and humanitarian action",
       "date": "2026-01-21",
       "timestamp": "Wed, 21 Jan 2026 21:13:57 +0530",
-      "section": "National",
-      "report_category": "National_General",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -24260,6 +24260,19 @@
       "lang": "en"
     },
     {
+      "id": "1b07be164236d03bd7a9bee3b2fd6028",
+      "title": "Governor v Siddaramaiah: सांविधानिक टकराव बढ़ने की आशंका, CM बोले- राज्यपाल के खिलाफ सुप्रीम कोर्ट जा सकते हैं",
+      "link": "https://www.amarujala.com/india-news/there-is-a-possibility-of-increasing-constitutional-conflict-cm-said-can-go-to-the-supreme-court-against-th-2026-01-22",
+      "summary": "Governor v Siddaramaiah: सांविधानिक टकराव बढ़ने की आशंका, CM बोले- राज्यपाल के खिलाफ सुप्रीम कोर्ट जा सकते हैं There is a possibility of increasing constitutional conflict, CM said - can go to the Supreme Court against the Governor",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:52:35 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "c595d0d3047c786effda9cb570ba8e23",
       "title": "Gorakhpur News: रामगढ़ताल को गंदगी से बचाने के लिए कांग्रेसियों ने रखा एक दिन का उपवास",
       "link": "https://www.amarujala.com/gorakhpur/congressmen-observed-a-day-long-fast-to-save-ramgarhtal-from-pollution-gorakhpur-news-c-7-gkp1038-1204763-2026-01-22",
@@ -24297,6 +24310,19 @@
       "source": "Amar Ujala",
       "district": "Noida",
       "lang": "en"
+    },
+    {
+      "id": "929273dcef4f6243ca6016f25970995b",
+      "title": "Supreme Court: 'देश में भगदड़ की रोकथाम पर अदालत नहीं जारी करेगी व्यापक निर्देश'; सुप्रीम कोर्ट ने किया इनकार",
+      "link": "https://www.amarujala.com/india-news/sc-refuses-to-issue-omnibus-directions-on-stampede-prevention-2026-01-22",
+      "summary": "उच्चतम न्यायालय ने एक जनहित याचिका पर निर्देश देने से मना कर दिया। इस याचिका में सार्वजनिक आयोजनों में भगदड़ के रोकने के लिए निर्देश देने की मांग की गई थी।",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:49:32 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "45670071ad2f630fcde05bc044a16208",
@@ -24377,6 +24403,32 @@
       "lang": "en"
     },
     {
+      "id": "f9ab0adfdba2bef8ca2a945d17d50743",
+      "title": "UP: निर्माणाधीन ओवरब्रिज पर रखे बोल्डर से टकराई कार, युवक की मौत...दो घायल; गूगल मैप पर रास्ता देखने की आशंका",
+      "link": "https://www.amarujala.com/uttar-pradesh/lakhimpur-kheri/car-collides-with-boulders-placed-on-an-under-construction-overbridge-in-lakhimpur-kheri-2026-01-22",
+      "summary": "दोनों घायलों की हालत नाजुक, कुछ भी बता पाने की स्थिति में नहीं, पुलिस जांच में जुटी",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:43:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2bced06d649331aefd5f410543b6edd8",
+      "title": "UP: अविमुक्तेश्वरानंद को मेला प्रशासन की चेतावनी, हमेशा के लिए मेला क्षेत्र में प्रवेश पर लगाया जाएगा प्रतिबंध",
+      "link": "https://www.amarujala.com/uttar-pradesh/allahabad/fair-administration-warns-avimukteshwarananda-that-he-will-be-permanently-banned-from-entering-the-fair-area-2026-01-22",
+      "summary": "प्रयागराज मेला प्राधिकरण ने स्वामी अविमुक्तेश्वरानंद को दूसरा नोटिस जारी किया है। इसमें चेतावनी दी गई है कि मौनी अमावस्या पर भगदड़ की स्थिति उत्पन्न करने के प्रयास में क्यों न मेला क्षेत्र में उनका प्रवेश हमेशा के लिए प्रतिबंधित कर दिया जाए।",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:43:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "909e70ef059f29f33a04a78c0df901b4",
       "title": "Gorakhpur News: ठेकेदार ने टेंडर बाबू को दी घूस की रकम, थामते ही एंटी करप्शन ने रंगे हाथों पकड़ा",
       "link": "https://www.amarujala.com/gorakhpur/tender-babu-caught-red-handed-taking-bribe-by-anti-corruption-gorakhpur-news-c-7-gkp1038-1205394-2026-01-22",
@@ -24416,6 +24468,19 @@
       "lang": "en"
     },
     {
+      "id": "e7af3342dc05c2c162ca5c744cf7e45c",
+      "title": "Net FDI negative for fourth month in a row in November 2025, outflows exceed inflows by $446 million",
+      "link": "https://www.thehindu.com/business/Economy/net-fdi-negative-for-fourth-month-in-a-row-in-november-2025/article70536852.ece",
+      "summary": "Net foreign portfolio investments have also been negative so far in the financial year 2025-26, with uncertainty over the India-U.S. trade deal and the weakening rupee affecting investor confidence",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:40:42 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f6701455cff19c0b4838e1fe3b15558e",
       "title": "Noida News: ट्रेन की चपेट में आने से युवक की मौत",
       "link": "https://www.amarujala.com/delhi-ncr/noida/man-dies-after-being-hit-by-train-noida-news-c-24-1-pal1006-121090-2026-01-22",
@@ -24439,6 +24504,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "ccae5627ca0bfb7a9eb538475b542f52",
+      "title": "Cambodia will send 73 online scam suspects to South Korea",
+      "link": "https://www.thehindu.com/news/international/cambodia-will-send-73-online-scam-suspects-to-south-korea/article70536867.ece",
+      "summary": "Cybercrime has flourished in Southeast Asia, particularly in Cambodia and Myanmar, as trafficked foreign nationals were employed to run romance and cryptocurrency scams, often recruited with false job offers and then forced to work in conditions of near-slavery",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:38:04 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -24468,6 +24546,19 @@
       "lang": "en"
     },
     {
+      "id": "d69de933a47940b4b1a07a9061837626",
+      "title": "Andhra Government to spend over ₹75 crore to renovate 57 temples in Nellore",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-govt-to-spend-crores-for-renovation-of-nellore-temples/article70536508.ece",
+      "summary": "Endowments Minister Anam Ramanarayana Reddy plans to set up a 100-acre solar power project in the lands of Narasimha Swamy temple",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:35:31 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d1ce0944131cf4d70cccbf737ae5daf4",
       "title": "Gorakhpur News: यौन शोषण का आरोप लगाने वाली युवती बयान से मुकरी",
       "link": "https://www.amarujala.com/gorakhpur/the-girl-who-accused-him-of-sexual-harassment-has-retracted-her-statementthe-girl-who-accused-him-of-sexual-harassment-has-retracted-her-statement-gorakhpur-news-c-7-gkp1038-1205528-2026-01-22",
@@ -24478,6 +24569,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "853e5ef42c2095466767073bb2a65fb6",
+      "title": "यूपी पुलिस ने किए हॉफ एनकाउंटर, बरेली में हत्यारोपी और बुलंदशहर में तीन बदमाश गिरफ्तार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-police-half-encounter-murder-accused-in-bareilly-three-criminal-in-bulandshahr-arrested-201769065219212.html",
+      "summary": "यूपी के बरेली में बिथरी चैनपुर थाना क्षेत्र में युवक की हत्या के मामले में गुरुवार तड़के पुलिस मुठभेड़ के एक आरोपी लकी लभेड़ा को गिरफ्तार कर लिया गया। मुठभेड़ में आरोपी के पैर में गोली लगी है, जिसके बाद उसे इलाज के लिए अस्पताल भेजा गया।",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:34:40 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -24546,6 +24650,32 @@
       "lang": "en"
     },
     {
+      "id": "f3f199a9b2b208c78252567557a22ddc",
+      "title": "Campaigning starts for Bangladesh's first national election after Hasina's ouster",
+      "link": "https://www.thehindu.com/news/international/campaigning-starts-for-bangladeshs-first-national-election-after-hasinas-ouster/article70536833.ece",
+      "summary": "The interim government led by Nobel Peace Prize laureate Muhammad Yunus has pledged to hold a free and fair election, but questions were raised after his administration banned Hasina's former ruling Awami League party",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:31:10 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "42a8be6ef05044c1958ee7e7b0110a21",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 22 जनवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-22",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:30:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "23eab4a0f018911c8f1d2196e6d6be3f",
       "title": "Noida News: सड़क पर पड़े रोड़ी-क्रशर के ढेर पर चढ़कर पलटी कार",
       "link": "https://www.amarujala.com/delhi-ncr/noida/the-car-overturned-after-climbing-over-a-pile-of-gravel-and-crusher-lying-on-the-road-noida-news-c-25-1-mwt1001-109398-2026-01-22",
@@ -24557,6 +24687,19 @@
       "source": "Amar Ujala",
       "district": "Noida",
       "lang": "en"
+    },
+    {
+      "id": "727b1d2df5a5d3b31f01a68cfcf7f8ac",
+      "title": "पढ़ें 22 जनवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-22",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "9e027a00fef7aa2738a8d2f082303de5",
@@ -24585,6 +24728,19 @@
       "lang": "en"
     },
     {
+      "id": "92436eda466ff6a8c5e833284aa2d6ed",
+      "title": "IIT Kanpur: दो आत्महत्याओं के बाद आईआईटी कानपुर का बड़ा कदम, अब छात्रों के लिए मेंटल हेल्थ टेस्ट होगा अनिवार्य",
+      "link": "https://www.amarujala.com/education/iit-k-mandates-mental-health-screening-for-new-students-after-2-suicides-2026-01-22",
+      "summary": "Mental Health Test: आईआईटी कानपुर में हाल ही में दो दुखद आत्महत्याओं के बाद संस्थान ने एहतियाती कदम उठाते हुए नए स्नातक और स्नातकोत्तर छात्रों के लिए कैंपस में मानसिक स्वास्थ्य जांच को अनिवार्य कर दिया है।",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:28:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "ecfe29eeaac201a769cb7cdba7f7a4b3",
       "title": "Noida News: इनामी बदमाश अवैध हथियार सहित गिरफ्तार",
       "link": "https://www.amarujala.com/delhi-ncr/noida/wanted-criminal-arrested-with-illegal-weapons-noida-news-c-25-1-mwt1001-109393-2026-01-22",
@@ -24598,16 +24754,42 @@
       "lang": "en"
     },
     {
+      "id": "86372ddc081e26370363d7e700d2378b",
+      "title": "Notice issued to singer Neha Singh Rathore in Varanasi case over remarks on PM Modi",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/notice-issued-to-singer-neha-singh-rathore-in-varanasi-case-over-remarks-on-pm-modi/article70536807.ece",
+      "summary": "Lanka police station in-charge Rajkumar Sharma said a case was registered against folk singer Neha Singh Rathore in 2025 on charges of making derogatory comments about the Prime Minister",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:26:47 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "32830ccd9a22c2a57b884342a3067e45",
-      "title": "Gorakhpur News: नौकरी और रेलवे का ठेका दिलाने के नाम पर 29 लाख की धोखाधड़ी का आरोपी गिरफ्तार",
+      "title": "Gorakhpur News: 'सरकारी नौकरी और रेलवे का ठेका दिला दूंगा'...झांसा देकर 29 लाख रुपये ठगे- आरोपी गिरफ्तार",
       "link": "https://www.amarujala.com/gorakhpur/accused-arrested-for-fraud-of-rs-29-lakh-in-the-name-of-providing-job-and-railway-contract-gorakhpur-news-c-7-gkp1038-1204824-2026-01-22",
-      "summary": "शिक्षा विभाग में नौकरी और रेलवे में ठेका दिलाने के नाम पर 29 लाख रु",
+      "summary": "शिक्षा विभाग में नौकरी और रेलवे में ठेका दिलाने के नाम पर 29 लाख रुपये की ठगी के आरोपी संजीव कुमार को खोराबार पुलिस ने मंगलवार को क्षेत्र से गिरफ्तार कर लिया।",
       "date": "2026-01-22",
       "timestamp": "Thu, 22 Jan 2026 12:26:43 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "4dc53d2746cc8fb46b16814ab48128da",
+      "title": "HYDRAA to develop Hyderabad’s Saroornagar lake spread over 90 acres",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/hydraa-to-develop-hyderabads-saroornagar-lake-spread-over-90-acres/article70534428.ece",
+      "summary": "The Commissioner assures help in Katora Houz heritage pond restoration",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:26:11 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -24741,6 +24923,45 @@
       "lang": "en"
     },
     {
+      "id": "d0d04a0272f87d29cbb92260a379004f",
+      "title": "Dhar Bhojshala: 'सूर्योदय से सूर्यास्त तक प्रार्थना कर सकेंगे'; धार भोजशाला मामले में सुप्रीम कोर्ट का निर्देश",
+      "link": "https://www.amarujala.com/india-news/supreme-court-on-dhar-bhojshala-dispute-pooja-namaz-on-basant-panchami-updates-2026-01-22",
+      "summary": "Supreme Court: 'सूर्योदय से सूर्यास्त तक प्रार्थना कर सकेंगे'; धार भोजशाला मामले में सुप्रीम कोर्ट की टिप्पणी supreme court on dhar bhojshala dispute pooja namaz on basant panchami updates",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:19:38 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d4bdf7715c6a36b8875c82e012616c4f",
+      "title": "NASA astronaut Sunita Williams arrives in Kozhikode for Kerala Literature Festival",
+      "link": "https://www.thehindu.com/news/national/kerala/nasa-astronaut-sunita-williams-arrives-in-kozhikode-for-kerala-literature-festival/article70536814.ece",
+      "summary": "She will take part in various events of the festival till January 25",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:19:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "83dd82b564c87507096880e56f2321b6",
+      "title": "Pratapgarh News: जेल में बंद 13 किन्नरों में सात एचआईवी पॉजिटिव, सीएम कार्यालय से अलर्ट",
+      "link": "https://www.amarujala.com/uttar-pradesh/pratapgarh/seven-out-of-13-transgender-people-in-jail-test-hiv-positive-cms-office-alerts-pratapgarh-news-c-262-1-ptp1005-157481-2026-01-21",
+      "summary": "प्रारंभिक जांच रिपोर्ट पॉजिटिव आने पर स्वास्थ्य महकमे में हड़कंप, अब आएगी स्क्रीनिंग रिपोर्ट",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:18:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "eb9f34fe71f39925f780164d8e6eb49e",
       "title": "Noida News: नाबालिग से दुष्कर्म के दोषी को 10 साल की सजा",
       "link": "https://www.amarujala.com/delhi-ncr/noida/man-sentenced-to-10-years-in-prison-for-raping-a-minor-noida-news-c-25-1-mwt1001-109384-2026-01-22",
@@ -24773,6 +24994,123 @@
       "summary": "Saharanpur News: यूपी के सहारनपुर में नकुड़ तहसील के संग्रह अमीन अशोक राठी ने मंगलवार को मां विद्यावती, पत्नी अंजिता, बेटे कार्तिक व देव की गोली मारकर हत्या कर दी थी। इस हत्याकांड में कई सवाल हैं, जिनका कोई जवाब नहीं है, न कोई चश्मदीद न कोई गवाह है।",
       "date": "2026-01-22",
       "timestamp": "Thu, 22 Jan 2026 12:16:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "65027b9e623b46584a4882858a1c6947",
+      "title": "हाईस्कूल सर्टिफिकेट होने के बावजूद आयु जांच की मांग करना बेमतल; हाईकोर्ट खारिज की याचिका",
+      "link": "https://www.livehindustan.com/uttar-pradesh/seeking-age-verification-despite-having-a-high-school-certificate-is-futile-high-court-dismisses-petition-201769064002081.html",
+      "summary": "इलाहाबाद हाईकोर्ट ने एक याचिका की सुनवाई करते हुए पीड़िता की उम्र निर्धारण के लिए अस्थि परीक्षण कराने की मांग को खारिज कर दिया है। साथ हीपांच हजार रुपये हर्जाना लगाया है। कोर्ट ने कहा कि हाईस्कूल का प्रमाणपत्र होने के बाद भी उम्र निर्धारण परीक्षण की मांग करना कानूनी प्रक्रिया का दुरुपयोग है।",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:15:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8ed735e4ea2a17caf7c3a7c387ef8027",
+      "title": "Cold conditions grip Kashmir; snowfall likely",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/cold-conditions-grip-kashmir-snowfall-likely/article70536764.ece",
+      "summary": "“There was a decrease in night temperatures at most places in Kashmir and the mercury settled below the freezing point across the valley,” officials said",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:14:15 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9ed97dea6b53fee370d0cb61ee9fda69",
+      "title": "Karnataka governor vs government: Opposition leaders criticise Congress over scenes in House",
+      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-governor-vs-government-opposition-leaders-criticise-congress-over-scenes-in-house/article70536773.ece",
+      "summary": "Mr. Ashok alleged that Law and Parliamentary Affairs Minister H.K. Patil had attempted to “block the Governor’s way” inside the Assembly and demanded that action be taken.",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:09:09 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "27671ef55e6deea6e78c63b878ac1bc3",
+      "title": "J&K woman officer to command all-male CRPF marching contingent on Republic Day",
+      "link": "https://www.thehindu.com/news/national/jk-woman-officer-to-command-all-male-crpf-marching-contingent-on-republic-day/article70536722.ece",
+      "summary": "Simran Bala, for the first time, will command a party of more than 140 male personnel during the annual national event",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:06:28 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "941bef42a375b5c6c0936d07fdf37c5d",
+      "title": "High Court : नाबालिग की सहमति कानूनन शून्य, शादी का वादा कर संबंध बनाना दुष्कर्म",
+      "link": "https://www.amarujala.com/uttar-pradesh/allahabad/high-court-consent-of-a-minor-is-legally-void-having-relations-after-promising-marriage-2026-01-22",
+      "summary": "इलाहाबाद हाईकोर्ट ने कहा कि यदि नाबालिग यौन शोषण की पीड़िता है तो कानून की नजर में उसकी सहमति का कोई महत्व नहीं रह जाता है।",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:05:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "6c02fe1251526427ae267caa9b7cb36e",
+      "title": "Supreme Court issues notice to Delhi government on plea of LeT terrorist against death penalty in 2000 Red Fort case",
+      "link": "https://www.thehindu.com/news/national/supreme-court-issues-notice-to-delhi-government-on-plea-of-let-terrorist-against-death-penalty-in-red-fort-case/article70536754.ece",
+      "summary": "LeT terrorist Mohammad Arif was awarded the death sentence for the 2000 Red Fort attack that killed three Army jawans",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:05:02 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9906d3632171d73b0948bf92e76a9ba6",
+      "title": "Fresh encounter breaks out in J&K’s Kishtwar",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir-kishtwar-terrorist-encounter-january-22-2026/article70536761.ece",
+      "summary": "A fresh contact was established with the holed up terrorists in the dense forests of Singhpora on Thursday (January 22, 2026) morning, officials said",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:04:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "03323fc8917d1789638a47925f9327cb",
+      "title": "Cyber Crime: डिजिटल अरेस्ट कम, साइबर ठगों ने शेयर ट्रेडिंग के नाम पर लूट लिए 11 करोड़; तीन लोगों से 67 लाख ठगे",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/digital-arrests-few-cyber-fraudsters-looted-11-crore-rupees-share-trading-67-lakh-extorted-from-three-people-2026-01-22",
+      "summary": "साइबर अपराधियों ने जितना डिजिटली अरेस्ट कर ठगे उससे ज्यादा इंस्टाग्राम, टेलीग्राम, व्हाट्सएप और फेसबुक पर अमीन बनाने का सपना दिखाकर लोगों से ठगी की।",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:02:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "2e00e1d5eb900d48a7080eff4e1b8e80",
+      "title": "UP: रिश्वत लेते पकड़ा गया बिजली विभाग का जेई...गिरफ्तार होते ही गिड़गिड़ाने लगा, घसीटते हुए ले गई टीम",
+      "link": "https://www.amarujala.com/uttar-pradesh/firozabad/je-crawls-on-ground-begs-to-escape-arrest-after-taking-bribe-in-firozabad-2026-01-22",
+      "summary": "गिरफ्तारी के डर से जमीन पर घिसटा जेई, वीडियो हुआ वायरल।",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 12:02:12 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -24947,32 +25285,6 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
-    },
-    {
-      "id": "42a8be6ef05044c1958ee7e7b0110a21",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 22 जनवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-22",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-01-22",
-      "timestamp": "Thu, 22 Jan 2026 11:30:30 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "727b1d2df5a5d3b31f01a68cfcf7f8ac",
-      "title": "पढ़ें 22 जनवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-22",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-01-22",
-      "timestamp": "Thu, 22 Jan 2026 11:30:15 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "7caa88016cd71d4c9aa4d320e75618f7",
@@ -25246,19 +25558,6 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
-    },
-    {
-      "id": "d0d04a0272f87d29cbb92260a379004f",
-      "title": "सुप्रीम कोर्ट में धार भोजशाला मामले पर सुनवाई: बसंत पंचमी के दिन सरस्वती पूजा-नमाज कैसे? अदालत पर टिकी नजरें",
-      "link": "https://www.amarujala.com/india-news/supreme-court-on-dhar-bhojshala-dispute-pooja-namaz-on-basant-panchami-updates-2026-01-22",
-      "summary": "सुप्रीम कोर्ट में धार भोजशाला मामले पर सुनवाई: बसंत पंचमी के दिन सरस्वती पूजा-नमाज कैसे? अदालत पर टिकी नजरें supreme court on dhar bhojshala dispute pooja namaz on basant panchami updates",
-      "date": "2026-01-22",
-      "timestamp": "Thu, 22 Jan 2026 10:54:31 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "e6198726f014cd437a372b21bc13f8fb",
@@ -26184,6 +26483,19 @@
       "lang": "hi"
     },
     {
+      "id": "fd249802ce462e91a974e0a6bbb33cb7",
+      "title": "French firm Lactalis latest to recall baby formula amid contamination scare",
+      "link": "https://www.aljazeera.com/news/2026/1/22/french-firm-lactalis-latest-to-recall-baby-formula-amid-contamination-scare?traffic_source=rss",
+      "summary": "Swiss food giants Nestle has also recalled infant formula batches in recent weeks over toxin fears.",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 06:34:02 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1395c015665d976708efffaa9d2b7f19",
       "title": "यूपी: एसआईआर को लेकर बड़ा फैसला, राज्य सरकार का सामान्य निवास प्रमाणपत्र मान्य नहीं; ये दस्तावेज जरूरी",
       "link": "https://www.amarujala.com/lucknow/up-major-decision-regarding-sir-state-government-s-general-residence-certificate-is-not-valid-these-documen-2026-01-22",
@@ -26210,6 +26522,19 @@
       "lang": "en"
     },
     {
+      "id": "f4c0d03e56e0cc324cbd4e5362572776",
+      "title": "Live-in partner murders field officer of finance company in UP:Stages suicide; personally takes body to hospital in Bijnor",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/bijnor-live-in-partner-murders-finance-officer-sheetal-hariom-singh-137011096.html",
+      "summary": "Police have solved the murder of a finance company’s field officer in Bijnor. Hariom Singh (32) was allegedly killed by his live-in partner, Sheetal (26), with whom he had been in a relationship for two years. Both lived in the Lalta Building at Nehru Chowk. Police said that during interrogation, Sheetal revealed she became pregnant last month but suffered a miscarriage, after which disputes began between the two. Upset, she went to her parental home on January 15 and returned on January 18, when another argument broke out with Hariom, escalating into verbal abuse. During the argument, Hariom attempted to hang himself from a ceiling fan using a stool. Police said that in a fit of rage, Sheetal kicked the stool, leaving him hanging. Hariom struggled but died, while she allegedly did nothing to stop it. After his death, Sheetal took him to CHC Chandpur and informed his family that he had committed suicide. However, the family expressed suspicion and later, Hariom’s cousin lodged a case against her. Following the investigation, police exposed Sheetal’s role and arrested her within 72 hours. The accused, a Community Health Officer (CHO), is a resident of the Chandpur Kotwali area, about 40 km from the district headquarters. Suicide story fabricated, but truth revealed after brother's complaint Suicide version told to doctors and police Dr. Zaheer Ahmed of CHC Chandpur said that on the evening of January 18, the woman brought her lover to the hospital in a dead condition, with a ligature mark on his neck. The hospital immediately informed the police. The woman claimed that she had stepped out to buy some items and, on returning, found her lover hanging from the ceiling fan with a noose. Brother alleges murder over money dispute Hariom’s elder cousin, Vipin Bahadur Singh, accused Sheetal of murder. He said the two had been living in a live-in relationship for a long time and, according to Hariom’s friends, he bore Sheetal’s expenses. Vipin alleged that Sheetal’s role was suspicious and claimed she killed Hariom following a dispute over money. Truth revealed in 3 days Chandpur police station in-charge Anil Kumar said- Accused Sheetal admitted during interrogation that she had committed the murder in a fit of rage. She initially tried to prove the case as suicide. On the very first day, the deceased's family members had accused the woman of murder. After the complaint, mobile phone, technical evidence and interrogation, the whole truth came out. The accused woman has been arrested and presented in court.",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 06:27:49 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "3a08d14e27487589af112ec049204a0b",
       "title": "UP: कांग्रेस के प्रदेश अध्यक्ष और सांसद नाना भाऊ पहुंचे विश्वनाथ धाम, बोले- मणिकर्णिका तक नहीं जाने दिया गया",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/congress-state-president-and-mp-nana-bhau-visited-vishwanath-dham-he-was-not-allowed-to-manikarnika-ghat-2026-01-22",
@@ -26220,6 +26545,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "e2e192bd2cf3ac6f9d33e64e7e1b4dee",
+      "title": "LIVE: Trump to lead signing of charter for Gaza ‘Board of Peace’ in Davos",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/1/22/live-trump-to-lead-signing-of-charter-for-gaza-board-of-peace-in-davos?traffic_source=rss",
+      "summary": "Board was initially aimed at rebuilding Gaza due to Israeli genocide, but was later pitched as global conflict body.",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 06:19:49 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -26354,7 +26692,7 @@
     },
     {
       "id": "903945eebafdafa16ef5aa34f3314c3f",
-      "title": "Administration sends second notice sent to Swami Avimukteshwaranand:Warning issued over ban in Magh Mela, says his actions created serious disorder",
+      "title": "Administration sends second notice to Swami Avimukteshwaranand:Warning issued over ban in Magh Mela, says his actions created serious disorder",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/prayaagraj-mela-shankaracharya-ban-notice-avimukteshwaranand-137010854.html",
       "summary": "The dispute between Swami Avimukteshwaranand and the Mela administration in Prayagraj has intensified. The administration has issued a second notice to Avimukteshwaranand within 48 hours. According to his media in-charge, Shailendra Yogi Raj Sarkar, a notice pasted behind the camp states why he should not be permanently banned from the Mela. Allegations of creating risk on Mauni Amavasya The notice states that on the day of Mauni Amavasya, Avimukteshwaranand broke the barrier installed on a pontoon bridge reserved for emergencies. It alleges that he attempted to proceed towards the Sangam with a horse carriage without permission, despite heavy crowds being present at the Sangam at the time. The administration claims this created a risk of stampede and disrupted arrangements. The notice warns that if a satisfactory reply is not received within 24 hours, the land allotted to the institution and the facilities provided may be cancelled. In addition to this, the administration has objected to the installation of boards in the Mela identifying him as Shankaracharya. It stated that this could be a violation of court orders. Earlier notice citing SC order Earlier, on Tuesday at 8 am, the Mela administration had pasted the first notice at the gate of the Shankaracharya camp through Kanungo Anil Kumar. This notice referred to a Supreme Court order dated 14 October 2022 and questioned how Avimukteshwaranand had declared himself Shankaracharya. Twelve hours later, at around 10 pm on Tuesday, Avimukteshwaranand sent an eight-page reply to the Mela administration. In his response, he warned that if the notice was not withdrawn, he would file a defamation case. Incident during Mauni Amavasya snan On 18 January, during Mauni Amavasya, Avimukteshwaranand was proceeding for the ritual bath in a palanquin. The police stopped him and asked him to go on foot instead. When he protested, a scuffle broke out with his disciples. Angered by the incident, Avimukteshwaranand sat on a protest outside the camp.",
       "date": "2026-01-22",
@@ -26419,7 +26757,7 @@
     },
     {
       "id": "fe05d4322e4e12750621436efa0fe4c0",
-      "title": "TikTok, Facebook, YouTube: Bangladesh’s latest election battlegrounds",
+      "title": "Bangladesh’s latest election battlegrounds: TikTok, Facebook, YouTube",
       "link": "https://www.aljazeera.com/features/2026/1/22/tiktok-facebook-youtube-bangladeshs-latest-election-battlegrounds?traffic_source=rss",
       "summary": "On-the-ground campaigning kicks off on Thursday, but parties have been locked in online battles for month.",
       "date": "2026-01-22",
@@ -26666,7 +27004,7 @@
     },
     {
       "id": "c7ad3caf3b9d6dcb01ddc61951cde5ba",
-      "title": "CJM Vibhanshu Sudhir’s 16th transfer triggers controversy:Came into spotlight after ordering FIR against ASP Anuj Chaudhary",
+      "title": "CJM Vibhanshu Sudhir’s 16th transfer in 13 years triggers controversy:Came into spotlight after ordering FIR against ASP Anuj Chaudhary, VIDEO",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/sambhal-judge-transfer-fir-asp-anuj-choudhary-controversy-137010177.html",
       "summary": "Sambhal is once again in the news. The reason is not violence, but the transfer of a judge. Chief Judicial Magistrate (CJM) Vibhanshu Sudhir was suddenly transferred after an order from the Allahabad High Court. On January 9, Vibhanshu Sudhir had ordered an FIR against 20 policemen, including Sambhal CO Anuj Chaudhary. Now, lawyers in the district are protesting to stop the judge's transfer. Akhilesh Yadav also targeted the government. Vibhanshu Sudhir has been transferred 16 times in his 13-year career. Watch the full story in the VIDEO",
       "date": "2026-01-22",
@@ -26740,6 +27078,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "87f8940ae7205d058207146165acb6ee",
+      "title": "'I'm still shaking' - Tourist recounts running from New Zealand landslide",
+      "link": "https://www.bbc.com/news/videos/cwy113pz41do?at_medium=RSS&at_campaign=rss",
+      "summary": "Several people are missing after a landslide at campsite in the New Zealand tourist hotspot of Mount Maunganui.",
+      "date": "2026-01-22",
+      "timestamp": "Thu, 22 Jan 2026 02:56:41 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -27017,9 +27368,9 @@
     },
     {
       "id": "85ad5d1dcb286620bf509bf5393ec4e9",
-      "title": "Moving bus catches fire on Yamuna Expressway in Mathura:Vehicle burns completely, panic among passengers; police rush to spot",
+      "title": "Moving bus catches fire on Yamuna Expressway in Mathura:Passengers escape by jumping from windows and doors; vehicle destroyed completely",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/massive-fire-in-a-moving-bus-on-the-expressway-in-mathura-137010080.html",
-      "summary": "A massive fire broke out in a moving bus on the Yamuna Expressway in Mathura. As soon as the fire started, there was chaos among the passengers. Amidst screams, passengers saved their lives by jumping out of windows and doors. The incident occurred near milestone 110 of the Yamuna Expressway, under the Haraaya police station area. Upon receiving information, the local police and the expressway team also reached the spot and started controlling the situation. Fire brigade vehicles were also immediately dispatched to the scene. The causes of the fire are being investigated. Relief and rescue operations are ongoing at the spot. The news is being continuously updated...",
+      "summary": "A sleeper bus travelling from Banda to Delhi caught fire on the Yamuna Expressway in Mathura, causing panic among passengers. As the fire broke out, chaos erupted inside the bus, with passengers screaming and jumping out through windows and doors to save their lives. 4 fire brigade vehicles brought the blaze under control after one and a half hours. The incident caused a traffic jam extending over two kilometres. Details of the incident The police stated that the accident occurred at 5:15 am on Thursday in the Raya police station area of the Yamuna Expressway. The sleeper bus (UP 90 AT 8837), travelling from Banda to Delhi, was carrying 30 passengers, including 10 women and 10 children. Station Officer Ravi Bhushan Sharma said that preliminary investigations indicate the fire may have been caused by a tyre bursting. All passengers were reported safe and were transferred to another bus to continue their journey. Photos of the incident- Passengers’ account The bus had departed from Banda for Delhi on the evening of 21 January. It was operated by two drivers and one conductor. Around 5 am, the bus reached the Raya police station area in Mathura. Passengers were asleep when they were suddenly awakened by a loud explosion near milestone 110 on the Yamuna Expressway. Smoke filled the bus, and passengers immediately realised the vehicle was on fire. The driver stopped the bus at the roadside and, along with the conductor, fled the scene. Some passengers exited through the doors, while others broke windows and jumped to safety. Flames were visible at the rear of the bus, and all passenger belongings inside were destroyed. Passenger Sonu Gupta, a resident of Kanpur who runs a car garage, described the incident: 'We were sitting in the bus since 11 pm, travelling to Delhi to collect some items. My friend Ejaz and I were onboard. Suddenly, near Mathura, the bus stopped, and a loud explosion occurred. Smoke and flames filled the bus, and passers-by immediately alerted the police.' Previous tragedy on the same expressway On 16 December, a similar tragic incident occurred on the Yamuna Expressway due to dense fog. Eight buses and three cars collided, resulting in a fire that killed 19 people. The incident was so horrific that the police collected the bodies in 17 plastic bags, and DNA tests were used to identify the victims. That accident took place near milestone 127 in the Baldev police station area. Rescue operations, involving 50 personnel from the police, fire brigade, and SDRF across nine police stations, took six hours. The expressway was blocked over a three-kilometre stretch, and a magistrate-led investigation was conducted under the supervision of ADM Amresh.",
       "date": "2026-01-22",
       "timestamp": "Thu, 22 Jan 2026 02:40:47 +0000",
       "section": "UP_Focus",
@@ -27888,9 +28239,9 @@
     },
     {
       "id": "5d3f0d2a3af28f89b7dd6751d6e19e2b",
-      "title": "Gorakhpur News: बीआरडी से गायब पांच वर्षीय बच्ची को पुलिस ने ढूंढा",
+      "title": "भूख लगने पर निकल गई बाहर: BRD से गायब हो गई 5 वर्षीय बच्ची, पजिनों ने दी पुलिस को सूचना- 1 घंटे में ढूंढ लिया",
       "link": "https://www.amarujala.com/gorakhpur/police-find-five-year-old-girl-missing-from-brd-gorakhpur-news-c-7-gkp1038-1204828-2026-01-22",
-      "summary": "बीआरडी मेडिकल कॉलेज से भूख लगने के कारण मंगलवार को गायब हुई पांच",
+      "summary": "बीआरडी मेडिकल कॉलेज से भूख लगने के कारण मंगलवार को गायब हुई पांच वर्षीय बच्ची को पुलिस ने एक घंटे के भीतर ढूंढ लिया।",
       "date": "2026-01-22",
       "timestamp": "Thu, 22 Jan 2026 01:06:23 +0530",
       "section": "UP_Focus",
@@ -84251,6 +84602,19 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a94b7a67bfe673b42c59962cff7cd38d",
+      "title": "Operation Trashi-I: Day 5 sees fresh encounter in J&K's Kishtwar; JeM terrorists holed up in dense forests",
+      "link": "https://timesofindia.indiatimes.com/india/operation-trashi-i-day-5-sees-fresh-encounter-in-jks-kishtwar-jem-terrorists-holed-up-in-dense-forests/articleshow/127114146.cms",
+      "summary": "Security forces engaged in a fresh gunfight with holed-up terrorists in Jammu and Kashmir's Kishtwar district on Thursday. The ongoing \"Operation Trashi-I,\" launched Sunday, intensified as a search team encountered a group of two to three foreign terrorists, believed to be Jaish-e-Mohammad operatives, in Singhpora's dense forests.",
+      "date": "2026-01-22",
+      "timestamp": "2026-01-22T12:09:07+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
