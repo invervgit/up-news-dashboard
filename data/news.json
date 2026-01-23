@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-23T22:14:39.342590+00:00",
+  "generated_at": "2026-01-23T23:17:28.110819+00:00",
   "stories": [
     {
       "id": "b183a77ee5d637f6699e1f8a41119c89",
@@ -47054,7 +47054,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-24",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-01-24",
-      "timestamp": "Sat, 24 Jan 2026 03:30:23 +0530",
+      "timestamp": "Sat, 24 Jan 2026 04:30:24 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -47067,12 +47067,77 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-24",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-01-24",
-      "timestamp": "Sat, 24 Jan 2026 03:30:12 +0530",
+      "timestamp": "Sat, 24 Jan 2026 04:30:12 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "1da300d7ca8796ddb0bcdb35864f5cf5",
+      "title": "Ukraine, Russia hold first direct talks on latest U.S. peace plan",
+      "link": "https://www.thehindu.com/news/international/ukraine-russia-hold-first-direct-talks-on-latest-us-peace-plan/article70544329.ece",
+      "summary": "The U.S. initially drafted a plan to end the conflict that was heavily criticised in Kyiv and western Europe for being too close to Russia's line, while later proposals were criticised by Moscow for floating the idea of European peacekeepers",
+      "date": "2026-01-24",
+      "timestamp": "Sat, 24 Jan 2026 04:25:59 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3451dd54d83a3c053256616827a15233",
+      "title": "Poll bodies of 42 nations to work together on key issues",
+      "link": "https://www.thehindu.com/news/national/poll-bodies-of-42-nations-to-work-together-on-key-issues/article70542765.ece",
+      "summary": "The participants also resolved to review their progress periodically and proposed to meet from December 3-5, 2026 at the India International Institute of Democracy and Election Management (IIIDEM)",
+      "date": "2026-01-24",
+      "timestamp": "Sat, 24 Jan 2026 04:13:33 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a8c17c53fdd173d28a8e875082e4c1be",
+      "title": "Updates: आंध्र प्रदेश में बच्चों के लिए सोशल मीडिया प्रतिबंध की तैयारी; कर्नाटक रैगिंग मामले में तीन गिरफ्तार",
+      "link": "https://www.amarujala.com/india-news/national-news-updates-24-jan-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-01-24",
+      "summary": "Updates: आंध्र प्रदेश में बच्चों के लिए सोशल मीडिया प्रतिबंध की तैयारी; कर्नाटक रैगिंग मामले में तीन गिरफ्तार---National News Updates 24 Jan North East West South India Politics Crime Latest National Hindi News",
+      "date": "2026-01-24",
+      "timestamp": "Sat, 24 Jan 2026 03:57:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "684f94ab848456fa6e7b6c7eed5a5e7d",
+      "title": "Suspected Russia 'shadow fleet' tanker bound for French port",
+      "link": "https://www.thehindu.com/news/international/suspected-russia-shadow-fleet-tanker-bound-for-french-port/article70544326.ece",
+      "summary": "The tanker is now expected to arrive on Saturday morning at the port of Marseille-Fos in southern France",
+      "date": "2026-01-24",
+      "timestamp": "Sat, 24 Jan 2026 03:50:56 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "44123c9ab79273f38f28d1a0151aaac9",
+      "title": "U.S. imposes sanctions on Iran 'shadow fleet' over protest crackdown",
+      "link": "https://www.thehindu.com/news/international/us-imposes-sanctions-on-iran-shadow-fleet-over-protest-crackdown/article70544321.ece",
+      "summary": "The Treasury Department took aim at nine vessels and their respective owners or management firms, which U.S. officials said \"collectively transported hundreds of millions of dollars' worth of Iranian oil and petroleum products to foreign markets”",
+      "date": "2026-01-24",
+      "timestamp": "Sat, 24 Jan 2026 03:38:50 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "2c09f12a92b324cb2ef8af3f26fdc271",
@@ -75363,6 +75428,19 @@
       "lang": "en"
     },
     {
+      "id": "87714007ac2ac26156c83af10d654989",
+      "title": "Will the Board of Peace live up to its name?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/1/23/will-the-board-of-peace-live-up-to-its-name?traffic_source=rss",
+      "summary": "Newly created body is expected to address conflicts worldwide.",
+      "date": "2026-01-23",
+      "timestamp": "Fri, 23 Jan 2026 22:35:49 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2b03dc12149fca5321b10edc57b9fb0a",
       "title": "गणेश शंकर विद्यार्थी की मूर्ति का हुआ अनावरण",
       "link": "https://www.livehindustan.com/uttar-pradesh/hardoi/story-unveiling-of-ganesh-shankar-vidyarthi-s-statue-in-hardoi-a-tribute-to-freedom-fighter-201769187913658.html",
@@ -75480,6 +75558,19 @@
       "lang": "en"
     },
     {
+      "id": "8dd99d4a00ac9081a680b0ac43cf44ff",
+      "title": "What does the US withdrawal from the WHO mean for global health?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/1/23/what-does-the-us-withdrawal-from-the-who-mean-for-global-health?traffic_source=rss",
+      "summary": "The US completed its withdrawal from the World Health Organization, ending its membership for the first time since 1948.",
+      "date": "2026-01-23",
+      "timestamp": "Fri, 23 Jan 2026 22:30:28 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "19c80c17d5314ed2f8904127ec8ea900",
       "title": "Top JeM terrorist killed in encounter in J&K’s Kathua",
       "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/top-jem-terrorist-killed-in-encounter-in-jks-kathua/article70543690.ece",
@@ -75494,7 +75585,7 @@
     },
     {
       "id": "9157a7d40c15feba714ed45684d5ddd6",
-      "title": "Walkouts a departure from ‘limited freewheeling’ permitted to Governors",
+      "title": "Walkouts by Governors test constitutional limits",
       "link": "https://www.thehindu.com/news/national/walkouts-a-departure-from-limited-freewheeling-permitted-to-governors/article70543495.ece",
       "summary": "Article 176 (1) mandates that Governors, at the commencement of the first session of each year, “shall” address the Legislative Assembly",
       "date": "2026-01-23",
@@ -75502,6 +75593,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "16eb434216ae4881aa078836f830c2a1",
+      "title": "Alleged drug kingpin and ex-Olympian Ryan Wedding arrested after years on the run",
+      "link": "https://www.bbc.com/news/articles/cj0nd8z1z59o?at_medium=RSS&at_campaign=rss",
+      "summary": "Wedding, who had been on the FBI's Ten Most Wanted Fugitives list, is accused of running a transnational drug trafficking operation.",
+      "date": "2026-01-23",
+      "timestamp": "Fri, 23 Jan 2026 22:24:59 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -75529,6 +75633,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "bd8dadbc6cde27b80815a0d822747acd",
+      "title": "Haiti officials announce plan to oust prime minister, deepening US standoff",
+      "link": "https://www.aljazeera.com/news/2026/1/23/haiti-officials-announce-plan-to-oust-prime-minister-deepening-us-standoff?traffic_source=rss",
+      "summary": "Transitional Presidential Council says plans to remove Prime Minister Alix Didier Fils-Aime, flouting warnings from US.",
+      "date": "2026-01-23",
+      "timestamp": "Fri, 23 Jan 2026 22:16:55 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -79806,19 +79923,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "16eb434216ae4881aa078836f830c2a1",
-      "title": "Alleged drug kingpin and ex-Olympian Ryan Wedding arrested after years on the run",
-      "link": "https://www.bbc.com/news/articles/cj0nd8z1z59o?at_medium=RSS&at_campaign=rss",
-      "summary": "Wedding, who had been on the FBI's Ten Most Wanted Fugitives list, is accused of running a transnational drug trafficking operation.",
-      "date": "2026-01-23",
-      "timestamp": "Fri, 23 Jan 2026 18:49:53 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -101645,6 +101749,45 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ab1d6dcdb063ecdf14c3c4c6b4735096",
+      "title": "Blue room, broken wall: Clues from 10-year-old help nab rape accused",
+      "link": "https://timesofindia.indiatimes.com/india/blue-room-broken-wall-clues-from-10-year-old-help-nab-rape-accused/articleshow/127340969.cms",
+      "summary": "Abandoned slippers and a broken wall in a forested ridge led police to crack a sexual assault case involving a 10-year-old girl. Investigators identified a red e-rickshaw with a white roof from CCTV footage, ultimately leading to the arrest of the 25-year-old suspect, Durgesh.",
+      "date": "2026-01-23",
+      "timestamp": "2026-01-24T04:21:56+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "850030b7654a514c4af88748748d237d",
+      "title": "What's cooking in this kitchen? Just synthetic drugs like MDMA",
+      "link": "https://timesofindia.indiatimes.com/india/whats-cooking-in-this-kitchen-just-synthetic-drugs-like-mdma/articleshow/127339356.cms",
+      "summary": "South district police arrested a Nigerian national, Emmanuel, allegedly a kingpin in a synthetic drug operation. A \"chemical kitchen\" was discovered in his Devli residence, a factory for manufacturing high-end psychotropic substances like MDMA and heroin. The bust yielded 113 kg of raw materials, indicating local production and potential international cartel links.",
+      "date": "2026-01-23",
+      "timestamp": "2026-01-24T04:01:37+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5771118f2c7081ea51773df204d953c3",
+      "title": "Man chops off part of foot to claim MBBS seat under disability quota",
+      "link": "https://timesofindia.indiatimes.com/india/man-chops-off-part-of-foot-to-claim-mbbs-seat-under-disability-quota/articleshow/127337649.cms",
+      "summary": "A 24-year-old man from Jaunpur allegedly severed part of his left foot to claim disability benefits for NEET medical admission. Initially claiming an attack, police uncovered his desperate act through his diary and girlfriend's statement, revealing his ambition for MBBS admission by 2026.",
+      "date": "2026-01-23",
+      "timestamp": "2026-01-24T03:47:57+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
