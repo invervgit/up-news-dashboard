@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T22:15:38.666257+00:00",
+  "generated_at": "2026-01-24T23:15:47.467044+00:00",
   "stories": [
     {
       "id": "b183a77ee5d637f6699e1f8a41119c89",
@@ -36415,14 +36415,14 @@
       "lang": "hi"
     },
     {
-      "id": "c1d4b0cf6857da83fd1b4a10e9c41bee",
-      "title": "News Updates: आज राष्ट्र को संबोधित करेंगी राष्ट्रपति मुर्मू, केंद्र ने कैडर आवंटन नीति में किया बड़ा बदलाव",
-      "link": "https://www.amarujala.com/india-news/national-news-updates-24-jan-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-01-25",
-      "summary": "News Updates: आज राष्ट्र को संबोधित करेंगी राष्ट्रपति मुर्मू, केंद्र ने कैडर आवंटन नीति में किया बड़ा बदलाव---National News Updates 24 Jan North East West South India Politics Crime Latest National Hindi News",
+      "id": "0c71ae359696ba376484a8e29180abf9",
+      "title": "रिपोर्ट: लगातार कम उम्र के होते जा रहे हैं अरबों डॉलर के AI स्टार्टअप्स के संस्थापक, 2024 में 29 रही औसत उम्र",
+      "link": "https://www.amarujala.com/india-news/report-founders-of-billion-dollar-ai-startups-are-getting-younger-with-an-average-age-of-29-in-2024-2026-01-25",
+      "summary": "Report: Founders of billion-dollar AI startups are getting younger, with an average age of 29 in 2024- रिपोर्ट: लगातार कम उम्र के होते जा रहे हैं अरबों डॉलर के AI स्टार्टअप्स के संस्थापक, 2024 में 29 रही औसत उम्र",
       "date": "2026-01-25",
-      "timestamp": "Sun, 25 Jan 2026 03:40:13 +0530",
+      "timestamp": "Sun, 25 Jan 2026 04:43:50 +0530",
       "section": "National",
-      "report_category": "National_General",
+      "report_category": "National_Govt",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -36433,7 +36433,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-25",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-01-25",
-      "timestamp": "Sun, 25 Jan 2026 03:30:22 +0530",
+      "timestamp": "Sun, 25 Jan 2026 04:30:24 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -36446,12 +36446,38 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-25",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-01-25",
-      "timestamp": "Sun, 25 Jan 2026 03:30:12 +0530",
+      "timestamp": "Sun, 25 Jan 2026 04:30:12 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "c1d4b0cf6857da83fd1b4a10e9c41bee",
+      "title": "News Updates: आज राष्ट्र को संबोधित करेंगी राष्ट्रपति मुर्मू, ओडिशा का नबरंगपुर जिला नक्सल मुक्त घोषित",
+      "link": "https://www.amarujala.com/india-news/national-news-updates-24-jan-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-01-25",
+      "summary": "News Updates: आज राष्ट्र को संबोधित करेंगी राष्ट्रपति मुर्मू, ओडिशा का नबरंगपुर जिला नक्सल मुक्त घोषित---National News Updates 24 Jan North East West South India Politics Crime Latest National Hindi News",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 04:13:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "8be28678808a4a1588dc4b3a364d88fe",
+      "title": "Noida Engineer Death: तकनीकी जांच में अधिकारियों के झूठ उजागर, जिसे सौंपी जांच... वही पहुंचा तीन दिन बाद",
+      "link": "https://www.amarujala.com/delhi-ncr/noida-engineer-death-sit-s-technical-investigation-exposes-lies-of-officials-2026-01-25",
+      "summary": "सॉफ्टवेयर इंजीनियर युवराज की मौत मामले की जांच कर रही विशेष जांच दल (एसआईटी) ने लिखित जवाबों और बयानों के साथ तकनीकी जांच का सहारा लिया है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 03:56:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
     },
     {
       "id": "34d7437dc6b65874ea30ba3986c1cc4b",
@@ -36558,6 +36584,19 @@
       "lang": "en"
     },
     {
+      "id": "529db1c1f8e1398e757d53dd1f47208d",
+      "title": "दो बाइकों की टक्कर में एक की मौत, दूसरा रेफर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/maharajganj/story-tragic-motorcycle-collision-in-maharajganj-one-dead-another-critically-injured-201769289341543.html",
+      "summary": "महराजगंज में शनिवार शाम को बाइकों की टक्कर में दो युवक गंभीर रूप से घायल हो गए। एक युवक की अस्पताल पहुंचने से पहले ही मौत हो गई। मृतक दीपांशु शर्मा अपने बड़े भाई की शादी का निमंत्रण पत्र बांटने गए थे। दूसरे युवक को गंभीर हालत में मेडिकल कॉलेज रेफर किया गया।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:45:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "5d256a7f9dd2a53d4433cc1767f1b18e",
       "title": "Varanasi News: बीएसए इलेवन बनाम बीईओ इलेवन के बीच क्रिकेट मैच आज",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/cricket-match-today-between-bsa-xi-vs-beo-xi-varanasi-news-c-20-vns1021-1267821-2026-01-25",
@@ -36581,6 +36620,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "3de748c6e55fa852d679fe84538a251d",
+      "title": "संतों को सम्मान देना शासन व प्रशासन की जिम्मेदारी : तोगड़िया",
+      "link": "https://www.livehindustan.com/uttar-pradesh/maharajganj/story-praveen-togadia-advocates-respect-for-saints-and-social-service-expansion-in-maharajganj-201769289161502.html",
+      "summary": "महराजगंज में राष्ट्रीय हिन्दू परिषद के अध्यक्ष प्रवीण भाई तोगड़िया ने संतों के सम्मान की आवश्यकता और प्रशासन की जिम्मेदारी पर जोर दिया। उन्होंने कहा कि हनुमान चालीसा केंद्रों के माध्यम से समाजसेवा के कार्यों का विस्तार किया जाएगा। इसके साथ ही, हेल्पलाइन द्वारा गरीबों को चिकित्सा सुविधाएं प्रदान करने की योजना बनाई गई है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:42:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -36675,6 +36727,19 @@
       "lang": "en"
     },
     {
+      "id": "02c26423ec2543e4650881b50f0bcdff",
+      "title": "कीचड़ में डूबी सड़क, राहगीरों को परेशानी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-road-conditions-in-amarpurwadih-residents-demand-urgent-action-against-waterlogging-201769288801325.html",
+      "summary": "मिश्रौलिया क्षेत्र के अमरपुरवाडीह के पास की सड़क कीचड़ से डूबी हुई है, जिससे राहगीरों के लिए यात्रा करना मुश्किल हो गया है। स्थानीय ग्रामीणों ने डीएम से जल निकासी की व्यवस्था सुधारने की मांग की है, क्योंकि यह सड़क कछारी क्षेत्र के लिए महत्वपूर्ण है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:36:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "1130bbfe8fbb1eef654ec38e029466bf",
       "title": "Lucknow News: लोकगायक कमल ने पिता के गीतों से जीता दिल",
       "link": "https://www.amarujala.com/lucknow/folk-singer-kamal-wins-hearts-with-his-fathers-songs-lucknow-news-c-13-1-lko1072-1575928-2026-01-25",
@@ -36685,6 +36750,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "d3ba4d7ba28c6dfbac5151869e2b511f",
+      "title": "नगर संघचालक के निधन पर शोक",
+      "link": "https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-obituary-harishchandra-jaiswal-prominent-cloth-merchant-and-rss-leader-passes-away-at-73-201769288741443.html",
+      "summary": "उस्का बाजार। कस्बे के कपड़ा व्यवसायी, राष्ट्रीय स्वयंसेवक संघ के नगर संघचालक हरिश्चंद्र जायसवाल उस्का बाजार। कस्बे के कपड़ा व्यवसायी, राष्ट्रीय स्वयंसेव",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:35:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -36701,6 +36779,19 @@
       "lang": "en"
     },
     {
+      "id": "a94cfe614a2c8d60be676e7dda3d76f7",
+      "title": "बिहार के पूर्व सीएम को श्रद्धांजलि दी गई",
+      "link": "https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-celebrating-karpuri-thakur-s-birth-anniversary-at-samajwadi-party-office-in-siddharthnagar-201769288683271.html",
+      "summary": "सिद्धार्थनगर में समाजवादी पार्टी के जिला कार्यालय पर पूर्व मुख्यमंत्री कर्पूरी ठाकुर की जयंती मनाई गई। कार्यक्रम की अध्यक्षता लालजी यादव ने की और सपाइयों ने उन्हें श्रद्धांजलि अर्पित की। इसके बाद, मतदाता सूची पुनरीक्षण एसआईआर की समीक्षा की गई। इस बैठक में एसआईआर प्रभारी कृष्ण भान सिंह सैंथवार भी उपस्थित रहे।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:34:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "d9ea7708938a440977d5e97794318e00",
       "title": "Varanasi News: आईआईवीआर में किसान मेला आज",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/kisan-mela-at-iivr-today-varanasi-news-c-20-vns1021-1267822-2026-01-25",
@@ -36711,6 +36802,45 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "10a8aa67fd2a312bc76359492d032cc1",
+      "title": "राजकुमार अध्यक्ष, शिवकुमार बने मंत्री",
+      "link": "https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-election-of-block-cleaning-workers-union-held-in-jogiya-201769288629269.html",
+      "summary": "जोगिया ब्लॉक परिसर में शनिवार को ब्लॉक सफाई कर्मचारी संघ का चुनाव हुआ। राजकुमार पासवान को अध्यक्ष, जगपाल चौधरी को उपाध्यक्ष और शिवकुमार मिश्र को मंत्री मनोनीत किया गया। चुनाव अधिकारी जगनारायण, सह चुनाव अधिकारी अश्वनी कुमार पाठक और अन्य अधिकारी उपस्थित रहे।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:33:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8cd6436a81d46953f5fce4afe6aeea42",
+      "title": "सुबह बूंदाबांदी, दिनभर चली धूप और बादलों की अठखेलियां",
+      "link": "https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-weather-changes-in-itwa-temperature-drops-and-rain-forecast-ahead-201769288572843.html",
+      "summary": "इटवा में शनिवार को मौसम में बदलाव देखने को मिला। सुबह हल्की बूंदाबांदी हुई, जिससे ठंड बढ़ गई। दिन में धूप निकली लेकिन बादलों की आवाजाही बनी रही। अधिकतम तापमान 24.2 डिग्री और न्यूनतम 12.6 डिग्री सेल्सियस दर्ज किया गया। रविवार और सोमवार को मौसम साफ रहने की संभावना है, लेकिन मंगलवार से बारिश की आशंका है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:32:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9ac238e3082d29c9f0ca457d2aa65032",
+      "title": "ट्रक ने उग्रसेन सेतु पर बाइक सवार को रौंदा",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-tragic-accident-biker-killed-by-truck-in-kaparwar-gorakhpur-201769288568791.html",
+      "summary": "कपरवार, हिंदुस्तान संवाद। बरहज थाना क्षेत्र के ग्राम कपरवार उग्रसेन सेतु पर शनिवार की",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:32:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -36727,6 +36857,19 @@
       "lang": "en"
     },
     {
+      "id": "845b637e452c353415af280f08f3f853",
+      "title": "दो दिनी राज्य स्तरीय वॉलीबॉल टूर्नामेंट 28 से",
+      "link": "https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-state-level-volleyball-tournament-in-itwa-exciting-matches-on-january-28-29-201769288507574.html",
+      "summary": "इटवा के बुड्ढी खास गांव में 28 और 29 जनवरी को राज्य स्तरीय वॉलीबॉल प्रतियोगिता का आयोजन किया जाएगा। इसमें गोरखपुर फर्टिलाइजर, अंसार स्पोर्टिंग क्लब, स्टेडियम आजमगढ़, और लुम्बनी (नेपाल) समेत कई टीमें भाग लेंगी। आयोजन समिति ने प्रतियोगिता की सभी तैयारियां पूरी कर ली हैं।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:31:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "60fbaf553b821d384066996d2f0aa1bc",
       "title": "एकेटीयू: 29 तक अपलोड करें इंटरनल",
       "link": "https://www.amarujala.com/lucknow/aktu-upload-internal-by-29th-lucknow-news-c-13-1-lko1028-1575919-2026-01-25",
@@ -36737,6 +36880,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "122781bfe00dbd5e649526060cc7d185",
+      "title": "विभिन्न दलों के कार्यकर्ताओं ने बसपा की ली सदस्यता",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-bahujan-samaj-party-gains-members-from-various-political-parties-in-deoria-201769288458213.html",
+      "summary": "देवरिया में बहुजन समाज पार्टी की मण्डलीय कार्यकर्ता बैठक हुई। इस बैठक में समाजवादी पार्टी, कांग्रेस और अन्य दलों के कार्यकर्ताओं ने बसपा की सदस्यता ग्रहण की। इसमें मुख्य अतिथि घनश्याम चन्द खरवार थे। इस सदस्यता से पार्टी को मजबूती और जनाधार बढ़ाने में मदद मिलेगी।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:30:59 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "3a7dd5691c2a10cd4212272c1c36bc8a",
+      "title": "स्कालर्स के छात्रों ने बालगृह के बच्चों को दी पठन- पाठन की सामग्री",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-scholars-school-students-spend-time-with-orphanage-kids-in-deoria-201769288447604.html",
+      "summary": "देवरिया के स्कॉलर्स सीनियर सेकेण्ड्री स्कूल के बच्चों ने राजकीय बालगृह के बच्चों के साथ समय बिताया। उन्होंने उन्हें पठन-पाठन सामग्री, कपड़े, मिठाई और चॉकलेट दी। बच्चों ने मिलकर खेल खेले और अनुभव साझा किए, जिससे बालगृह के बच्चों के चेहरों पर खुशी आई।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:30:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -36753,6 +36922,19 @@
       "lang": "hi"
     },
     {
+      "id": "1cf28600fa3871c13344af54f3ae3a2e",
+      "title": "महिलाओं को दी गई सुरक्षा और अधिकारों की जानकारी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-empowerment-initiative-mission-shakti-program-educates-women-in-sohna-village-201769288389285.html",
+      "summary": "सोहना गांव में शनिवार को मिशन शक्ति अभियान के तहत चौपाल का आयोजन किया गया, जिसमें महिलाओं को विभिन्न सरकारी योजनाओं और हेल्पलाइन सेवाओं की जानकारी दी गई। थानाध्यक्ष चंद्रकांत पाण्डेय की अगुवाई में महिलाओं के अधिकारों और सुरक्षा के प्रति जागरूक किया गया। कार्यक्रम में कई हेल्पलाइन नंबरों की जानकारी भी दी गई।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:29:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "a5d2743b8eb4c2c31b0bd098dac06457",
       "title": "Gorakhpur News: व्यापारिक सम्मेलन से दिया एकता का संदेश",
       "link": "https://www.amarujala.com/gorakhpur/message-of-unity-given-from-business-conference-gorakhpur-news-c-7-gkp1038-1208510-2026-01-25",
@@ -36766,6 +36948,19 @@
       "lang": "en"
     },
     {
+      "id": "853d590cb477b4c9f1f9cef0a01026a8",
+      "title": "कर्पूरी ठाकुर सामाजिक न्याय के मिसाल थे",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-celebration-of-karpuri-thakur-jayanti-in-salem-pur-focus-on-social-justice-and-equality-201769288385301.html",
+      "summary": "सलेमपुर में कर्पूरी ठाकुर की जयंती मनाई गई। राज्यमंत्री विजय लक्ष्मी गौतम ने उनके चित्र पर माल्यार्पण किया और उनके योगदान को याद किया। उन्होंने कहा कि वर्तमान सरकार वंचित वर्ग के उत्थान के लिए काम कर रही है। कार्यक्रम की अध्यक्षता जिला पंचायत अध्यक्ष पं. गिरीश चन्द्र तिवारी ने की।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:29:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "c2cd14f90f1e9a68859971ff38b0dc92",
       "title": "Lucknow News: एनबीआरआई में खिले गुलाब, महके ग्लैडियोलस",
       "link": "https://www.amarujala.com/lucknow/roses-bloom-gladiolus-smell-at-nbri-lucknow-news-c-13-1-lko1028-1575920-2026-01-25",
@@ -36776,6 +36971,110 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "6fb027f1442b1dad7afc36df4e26c3d3",
+      "title": "2.8 लाख विद्यार्थियों को इस वर्ष मिलेगी 19 लाख नई पुस्तकें",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-uttar-pradesh-19-lakh-new-books-to-be-distributed-to-2-8-lakh-students-201769288334186.html",
+      "summary": "उत्तर प्रदेश के देवरिया जिले के विभिन्न विद्यालयों में 2.8 लाख विद्यार्थियों को इस वर्ष 19 लाख नई पुस्तकें वितरित की जाएंगी। बेसिक शिक्षा विभाग द्वारा सत्यापन प्रक्रिया तेजी से की जा रही है। पुस्तकें जल्द ही ब्लॉक संसाधन केंद्रों पर भेजी जाएंगी, जिससे बच्चों की पढ़ाई में कोई बाधा न आए।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:28:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e0287c1c753d7749ec696be7f9151fce",
+      "title": "अंशिका के सहयोगी बंटी की लोकेशन बरेली मिली, गिरफ्तारी के प्रयास तेज",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gorakhpur/story-police-intensifies-search-for-akash-verma-in-shooting-incident-in-gorakhpur-201769288321157.html",
+      "summary": "गोरखपुर में सिंघड़िया मॉडल शॉप के पास हुई फायरिंग के बाद फरार आरोपी आकाश वर्मा की लोकेशन बरेली में ट्रेस हुई है। पुलिस ने गिरफ्तारी के प्रयास तेज कर दिए हैं। आकाश वर्मा, जो मुख्य आरोपी अंशिका सिंह का करीबी सहयोगी है, लगातार अपना स्थान बदल रहा है। पुलिस उसकी गतिविधियों पर नजर रख रही है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:28:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c5b5bcee2b8b6baa8262c73717a48701",
+      "title": "गाड़ी साइड करने को लेकर मारपीट, दो युवक घायल, एक गंभीर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-violent-clash-in-barai-patti-two-injured-in-roadside-dispute-201769288263231.html",
+      "summary": "तरकुलवा थाना क्षेत्र के बरई पट्टी गांव में गाड़ी साइड करने को लेकर दो पक्षों में मारपीट हो गई। इस घटना में दो युवक घायल हुए, जिनमें से एक की हालत गंभीर है। घायल युवकों को इलाज के लिए अस्पताल भेजा गया है। पुलिस ने मामले की जांच शुरू कर दी है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:27:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "efe57a236c46bee7fd3da80053969e45",
+      "title": "महिला कैंसर और मातृ स्वास्थ्य सेवाओं को ग्रामीण इलाकों में मजबूत करेगा एम्स",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gorakhpur/story-aiims-strengthens-women-s-health-and-cancer-services-in-rural-areas-of-gorakhpur-201769288261156.html",
+      "summary": "गोरखपुर में, एम्स महिला कैंसर और मातृ स्वास्थ्य सेवाओं को ग्रामीण क्षेत्रों में मजबूत करेगा। इसमें स्वास्थ्यकर्मियों को प्रशिक्षण, जागरूकता बढ़ाना और बेहतर इलाज की कार्यप्रणालियों का विकास शामिल है। गैर-संचारी रोगों की रोकथाम पर विशेष ध्यान दिया जाएगा। यह समझौता झेपिगो के साथ हुआ है, जिससे स्वास्थ्य सेवाएं बेहतर होंगी।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:27:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f5d36c9cbc56cd09be6a3349bc55e45a",
+      "title": "शादी का झांसा देकर दुष्कर्म, केस दर्ज",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-youth-deceives-girl-with-false-marriage-promises-police-initiates-investigation-201769288218691.html",
+      "summary": "बघौचघाट में एक युवती ने आरोप लगाया है कि युवक ने शादी का झांसा देकर उसके साथ शारीरिक संबंध बनाए। अब शादी से इंकार कर दिया है और युवती को धमकी दे रहा है। पुलिस ने मामला दर्ज कर जांच शुरू कर दी है, लेकिन आरोपी की गिरफ्तारी नहीं हो सकी है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:26:59 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "fa15d8a3ef05eeb26b04857179d5b361",
+      "title": "मेडिकल कॉलेज में मना स्थापना दिवस",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-uttar-pradesh-77th-foundation-day-celebrated-at-maharshi-devaraha-baba-medical-college-201769288212547.html",
+      "summary": "देवरिया में उत्तर प्रदेश के 77वें स्थापना दिवस पर महर्षि देवराहा बाबा स्वशासी राज्य मेडिकल कॉलेज में कार्यक्रम का आयोजन किया गया। इस अवसर पर उत्तर प्रदेश की संस्कृति और परंपरा की शपथ ली गई, जो सांस्कृतिक विरासत के संरक्षण और सम्मान को सशक्त करने वाला था।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:26:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "518e6f98f99208a7b9927380e90ab968",
+      "title": "बकाया रुपये मांगने पर युवक की लाठी-सरिया से पिटाई, चार नामजद पर मुकदमा",
+      "link": "https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-youth-assaulted-over-loan-demand-police-file-case-against-four-201769288154231.html",
+      "summary": "बकाया रुपये की मांग करने पर एक युवक की गंभीर पिटाई कर दी गई। पीड़ित महेंद्र यादव ने पुलिस को बताया कि उसने राममिलन को 40 हजार रुपये उधार दिए थे, लेकिन जब रुपये वापस नहीं मिले, तो उसने मांग की। इस पर राममिलन और उसके परिवार ने मिलकर उसकी पिटाई की। पुलिस ने चार आरोपियों के खिलाफ मामला दर्ज किया है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:25:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8ba245fc5cbd12ce1a7b264799d4d1eb",
+      "title": "मतदाता जागरूकता पर स्वंयसेविकाओं ने प्रस्तुत किया नाटक",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-voter-awareness-seminar-held-at-deen-dayal-pandey-government-college-with-rally-and-skit-201769288151674.html",
+      "summary": "देवरिया के दीनानाथ पाण्डेय राजकीय महिला स्नातकोत्तर महाविद्यालय में मतदाता जागरूकता पर एक दिवसीय संगोष्ठी का आयोजन हुआ। स्वयंसेविकाओं ने रैली निकाली और नाटक प्रस्तुत किया। प्राचार्य डॉ. राजेश कुमार ने सभी को मतदान की अहमियत पर शपथ दिलाई। कार्यक्रम में युवाओं की मतदान में भूमिका पर जोर दिया गया।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:25:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -36805,6 +37104,45 @@
       "lang": "en"
     },
     {
+      "id": "71dbc285344441183a412188ac6cdeda",
+      "title": "चार पहिया लूटने की सूचना के बाद पुलिस हरकत में आई",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-youth-reports-theft-of-vehicle-and-gold-chain-at-baraiyarpur-electric-substation-201769288084965.html",
+      "summary": "बरियारपुर विद्युत उपकेंद्र पर एक युवक ने अपनी चार पहिया वाहन और सोने की चेन लूटने की सूचना दी। पुलिस ने जांच की और पाया कि युवक ने वाहन ऋण पर लिया था, जिसे फाइनेंस कंपनी ने बकाया होने पर वापस ले लिया। विरोध करने पर युवक के साथ मारपीट भी की गई।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:24:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "718f07bcd302378e2ee573a624d59be7",
+      "title": "कबीर मगहर महोत्सव को लेकर लगने लगा पंडाल",
+      "link": "https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-kabir-maghar-festival-preparations-begin-celebrating-saint-kabir-s-legacy-201769288082965.html",
+      "summary": "कबीर मगहर महोत्सव की तैयारियां शुरू हो गई हैं। महोत्सव 28 जनवरी से 2 फरवरी तक चलेगा। पण्डाल और जर्मन हैंगर लगाने का काम शुरू हो गया है। इस महोत्सव में कई नामी कलाकारों की प्रस्तुति होगी। नगर प्रशासन ने साफ-सफाई के निर्देश भी दिए हैं।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:24:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "3267d2641edeca536808d9e256360cf4",
+      "title": "लोको पायलट समेत दो बंद मकानों का ताला तोड़ने वाला शातिर अपराधी गिरफ्तार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gorakhpur/story-police-arrest-notorious-thief-in-gorakhpur-for-stealing-cash-and-jewelry-from-abandoned-homes-201769265632973.html",
+      "summary": "गोरखपुर में पुलिस ने चार महीने में दो बंद मकानों से नकदी और जेवरात चुराने वाले शातिर अपराधी अमीर हमजा को गिरफ्तार किया। आरोपी के पास से चोरी किए गए आभूषण और 1650 रुपये नकद बरामद हुए हैं। आरोपी के खिलाफ कई आपराधिक मामले दर्ज हैं।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:24:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "0dbe17243782d908069d85b9fb2475cd",
       "title": "Weather Forecast: यहां अब कड़ाके की ठंड! जानें अलर्ट? | Weather News | UP-Delhi Weather | IMD",
       "link": "https://www.amarujala.com/video/india-news/weather-forecast-it-s-getting-very-cold-here-know-the-alert-weather-news-up-delhi-weather-imd-2026-01-25",
@@ -36831,6 +37169,19 @@
       "lang": "en"
     },
     {
+      "id": "09381d56be08030dfe5e2432a2f02768",
+      "title": "भव्य समारोह के बीच मना 77वां यूपी स्थापना दिवस",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-77th-uttar-pradesh-foundation-day-celebrated-with-cultural-programs-and-welfare-schemes-201769288041422.html",
+      "summary": "उत्तर प्रदेश के 77वें स्थापना दिवस पर राजकीय इंटर कॉलेज में कार्यक्रम आयोजित किया गया। इसमें सांस्कृतिक कार्यक्रम, प्रदर्शनी और सरकारी योजनाओं के लाभार्थियों को प्रमाण-पत्र, चेक आदि वितरित किए गए। राज्य मंत्री ने प्रदेश की विकासात्मक उपलब्धियों पर प्रकाश डाला और कहा कि ऐसे आयोजन शासन की योजनाओं को जन-जन तक पहुंचाने में सहायक होते हैं।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:24:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "2d603c9e91acaa620fa2c323d86ccc35",
       "title": "Gorakhpur News: अवैध विज्ञापनों के खिलाफ चला अभियान, 3.20 लाख जुर्माना वसूला",
       "link": "https://www.amarujala.com/gorakhpur/campaign-launched-against-illegal-advertisements-rs-320-lakh-fine-collected-gorakhpur-news-c-7-gkp1038-1208515-2026-01-25",
@@ -36841,6 +37192,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "0e434aacd32c789ecf73ac1396511589",
+      "title": "मजार प्रकरण: मंडलायुक्त के न्यायालय से राहत मिलने की आस",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-high-court-orders-status-quo-on-controversial-mazaar-case-in-deoria-201769288033749.html",
+      "summary": "देवरिया में गोरखपुर रोड पर बने मजार के मामले में उच्च न्यायालय ने यथास्थिति बनाए रखने का आदेश दिया है। मंडलायुक्त को मजार कमेटी की स्थगन अर्जी पर तीन सप्ताह में फैसला लेना होगा। इस दौरान मजार स्थल पर किसी भी तरह की तोड़फोड़ नहीं की जाएगी। मजार कमेटी को न्यायालय से राहत की उम्मीद है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:23:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c599d420bf6afda36272f276a0a24177",
+      "title": "आर्म्स एक्ट के आरोपी पर कोर्ट ने लगाया तीन हजार का अर्थदण्ड",
+      "link": "https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-court-convicts-ram-gopal-pandey-under-arms-act-imposes-fine-and-sentence-201769288029690.html",
+      "summary": "संतकबीरनगर में सीजेएम चेतना त्यागी की कोर्ट ने राम गोपाल पाण्डेय को आयुध अधिनियम के तहत दोषी ठहराया। आरोपी ने 11 फरवरी 2001 को अवैध कट्टा और दो कारतूस के साथ गिरफ्तारी दी थी। कोर्ट ने उसे कोर्ट उठने तक की सजा और तीन हजार रुपए का अर्थदण्ड लगाया।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:23:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -36883,6 +37260,19 @@
       "lang": "en"
     },
     {
+      "id": "f9c76064210b1a4beca4729025a1f3bd",
+      "title": "आत्म हत्या के लिए उकसाने का आरोपी भेजा गया जेल",
+      "link": "https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-arrest-made-in-suicide-provocation-case-in-santkabirnagar-201769287911948.html",
+      "summary": "संतकबीरनगर में कोतवाली खलीलाबाद पुलिस ने आत्महत्या के लिए उकसाने के आरोप में एक आरोपी को गिरफ्तार किया है। पीड़ित पिता ने शिकायत की थी कि उसके पुत्र को ऑनलाइन जुआ और ड्रग्स में फंसा कर प्रताड़ित किया गया, जिससे उसने आत्महत्या कर ली। आरोपी को न्यायिक अभिरक्षा में जेल भेज दिया गया।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:21:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "b0e8c31f0c04a8f589ba9ad8444a2db3",
       "title": "Gorakhpur News: राज्य कर विभाग कार्यालय कामकाज के लिए हो रही वैकल्पिक व्यवस्था",
       "link": "https://www.amarujala.com/gorakhpur/alternative-arrangements-are-being-made-for-the-functioning-of-the-state-tax-department-office-gorakhpur-news-c-7-1-gkp1063-1208794-2026-01-25",
@@ -36893,6 +37283,110 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "77de422313f5c8d2cf13d29ad3414f11",
+      "title": "समाधान दिवस में आए 78 मामलों में से 23 का निस्तारण",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-deoria-district-holds-samadhan-divas-78-cases-registered-23-resolved-201769287859115.html",
+      "summary": "देवरिया। जिले के सभी थानों में शनिवार को समाधान दिवस का आयोजन किया गया। इस दौरान कुल 78 मामले आए, जिसमें से 23 का मौके पर ही निस्तारण कर दिया गया। अधि",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:21:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b1ea3879a9b7aa598a29a44f0f57dd61",
+      "title": "‘हमको सफर का लुत्फ उठाना था उम्र भर’",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gorakhpur/story-grand-youth-poetry-conference-in-gorakhpur-celebrating-art-and-expression-201769287857292.html",
+      "summary": "गोरखपुर में एक निजी होटल में शनिवार को एक भव्य युवा कवि सम्मेलन का आयोजन किया गया। युवा कवियों ने अपने गीत, गजल और मुक्तक प्रस्तुत किए, जिन्हें श्रोताओं ने खूब सराहा। उजाला उज्ज्वल और प्रीति मिश्रा जैसे कवियों ने अपनी रचनाओं से सभी का मन मोह लिया। इस अवसर पर कई गणमान्य लोग भी उपस्थित थे।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:20:58 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5588046570976d1909b431a6aaef80dd",
+      "title": "सामाजिक समरसता से भारत पुनः बनेगा विश्व गुरु : चंपत राय",
+      "link": "https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-hindu-unity-for-india-s-revival-champat-rai-s-call-at-sanatan-hindu-conference-201769287855365.html",
+      "summary": "सनातन हिंदू रक्षा सम्मेलन में चंपत राय बोले, राममंदिर निर्माण पूर्ण अयोध्या में श्रीराम",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:20:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8f09a771c4da586c0e851cb7ae77692c",
+      "title": "फिल्म की कमी से एक्स-रे के लिए मरीज परेशान, घंटों करना पड़ रहा इंतजार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-deoria-medical-college-faces-x-ray-film-shortage-patients-struggle-201769287853422.html",
+      "summary": "महर्षि देवरहा बाबा मेडिकल कॉलेज में एक्स-रे फिल्म की कमी के कारण मरीजों को जांच कराने में कठिनाई हो रही है। पोर्टेबल मशीनें भी खराब हैं, जिससे मरीजों को लंबा इंतजार करना पड़ रहा है। 200 से अधिक मरीज निराश होकर लौट रहे हैं, और बाथरूम व पेयजल की सुविधाएं भी नहीं हैं।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:20:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d318d9bfd27a4433579815c693f108f4",
+      "title": "ग्राम प्रधान बने मास्टर ट्रेनर, जीरो फैटेलिटी माह का लिया संकल्प",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gorakhpur/story-gorakhpur-launches-road-safety-month-with-training-for-village-heads-201769287851420.html",
+      "summary": "गोरखपुर में राष्ट्रीय सड़क सुरक्षा माह के तहत विकास भवन में विशेष कार्यक्रम हुआ। ग्राम प्रधानों को सड़क सुरक्षा का मास्टर ट्रेनर बनाने के लिए प्रशिक्षण दिया गया और शपथ दिलाई गई। अधिकारियों ने 'जीरो फैटेलिटी माह' के उद्देश्य पर जोर दिया, जिसमें सड़क दुर्घटनाओं में मौतों को शून्य करना है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:20:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "bcee21334e2dad5039e2b309d60bba26",
+      "title": "ग्राम शिक्षा चौपाल में अभिभावकों की दिखी सहभागिता",
+      "link": "https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-education-chaupal-organized-in-pauli-block-strengthening-community-involvement-201769287849284.html",
+      "summary": "पौली ब्लाक के सातो न्याय पंचायतो में शनिवार को शिक्षा चौपाल का आयोजन किया गया। मुख्य अतिथि सीएम फेलो अंकित तिवारी ने शिक्षा को मजबूत करने के लिए विद्याल, अभिभावक और समुदाय के समन्वय की आवश्यकता बताई। खंड शिक्षा अधिकारी ने परिषदीय विद्यालयों की गुणवत्ता की बात की। कार्यक्रम में कई शिक्षक और समुदाय के सदस्य उपस्थित रहे।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:20:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c21b636137061cdb92d6f2c3075f66d8",
+      "title": "फारियावडीह के जेई के निलंबन के विरोध में धरना प्रदर्शन",
+      "link": "https://www.livehindustan.com/uttar-pradesh/deoria/story-protest-against-suspension-of-junior-engineer-at-deoria-power-distribution-center-201769287845546.html",
+      "summary": "देवरिया में सलेमपुर विद्युत वितरण केंद्र के उपकेंद्र फारियावडीह के जेई अविनाश कुमार गौतम के निलंबन के खिलाफ जूनियर इंजीनियर्स ने धरना दिया। संगठन ने कहा कि यदि निलंबन वापस नहीं हुआ तो आंदोलन जारी रहेगा। मुख्य अभियंता ने उचित कार्यवाही का आश्वासन दिया है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:20:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a12173f929f31e9552cf60a61776442d",
+      "title": "एसडीएम की गाड़ी पर जानलेवा ठोकर मारने के आरोपी पूर्व छात्र संघ अध्यक्ष समेत पांच आरोपी दोषमुक्त",
+      "link": "https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-five-accused-acquitted-in-attempted-murder-case-against-former-student-union-president-in-sant-kabir-nagar-201769287842965.html",
+      "summary": "संतकबीरनगर में पूर्व छात्र संघ अध्यक्ष श्रीचन्द यादव उर्फ लाला समेत पांच आरोपियों को न्यायालय ने 20 साल पुराने हत्या के प्रयास के मामले में साक्ष्य के अभाव में दोषमुक्त कर दिया। आरोप था कि आरोपियों ने तत्कालीन उप जिलाधिकारी के वाहन को जान से मारने की नीयत से ठोकर मारी थी।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:20:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -36974,6 +37468,19 @@
       "lang": "en"
     },
     {
+      "id": "baec82dbc86dc9b3d7e29d331f9da562",
+      "title": "क्विज प्रतियोगिता में छात्राओं ने दिखाई प्रतिभा, विधायक ने बांटी एक्सपेरिमेंटल किट",
+      "link": "https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-national-invention-campaign-quiz-competition-in-mehndawal-for-school-students-201769287667525.html",
+      "summary": "मेंहदावल में शनिवार को राष्ट्रीय आविष्कार अभियान के अंतर्गत विकास खंड स्तरीय क्विज प्रतियोगिता का आयोजन हुआ। इस प्रतियोगिता का उद्देश्य परिषदीय विद्यालयों के छात्रों में विज्ञान, गणित और तार्किक सोच के प्रति रुचि विकसित करना था। विधायक अनिल कुमार त्रिपाठी ने उत्कृष्ट प्रदर्शन करने वाले छात्रों को सम्मानित किया।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:17:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "56dcdb9358e0e524edeeebd19bb8a0cf",
       "title": "Gorakhpur News: रिंग रोड के निर्माण में तेजी, सीएम कल कर सकते हैं निरीक्षण",
       "link": "https://www.amarujala.com/gorakhpur/ring-road-construction-speeded-up-cm-may-inspect-tomorrow-gorakhpur-news-c-7-gkp1038-1208161-2026-01-25",
@@ -36984,6 +37491,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "5e636978140782db3d2865b8f38007f5",
+      "title": "अपकंट्री: सीएनजी स्टेशन के शुभारंभ के दो दिन बाद ही लीक करने .लगी गैस, अफरा तफरी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gorakhpur/story-gas-leak-panic-at-new-cng-station-in-golabazar-after-launch-201769287604949.html",
+      "summary": "गोलाबाजार के एक इंडियन ऑयल पेट्रोल पंप पर सीएनजी गैस स्टेशन के उद्घाटन के दो दिन बाद तेज गैस लीक होने लगा। इससे आसपास अफरातफरी मच गई और पूरे क्षेत्र में दुर्गंध फैल गई। मेन सप्लाई बंद करने पर ही लोगों ने राहत की सांस ली। मरम्मत का कार्य जल्द ही किया जाएगा।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:16:47 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -37026,6 +37546,19 @@
       "lang": "en"
     },
     {
+      "id": "0659f87cf645842b505f4d7ffebc1cbf",
+      "title": "पुलिस को गुमराह कर थाने से निकली महिला गैंगस्टर गिरफ्तार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gorakhpur/story-gangster-arrested-after-misleading-police-with-court-stay-claims-in-gorakhpur-201769287489091.html",
+      "summary": "फोटो पकड़े जाने के बाद कोर्ट से अरेस्ट स्टे का हवाला देकर दिया था झांसा",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:14:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "8b1f1caaf2068126b4c9abdf82bafe92",
       "title": "Gorakhpur News: कल सीएम योगी बिछिया में कर सकते हैं कल्याण मंडपम का लोकार्पण",
       "link": "https://www.amarujala.com/gorakhpur/tomorrow-cm-yogi-can-inaugurate-kalyan-mandapam-in-bichhiya-gorakhpur-news-c-7-gkp1038-1208160-2026-01-25",
@@ -37039,6 +37572,32 @@
       "lang": "en"
     },
     {
+      "id": "c114bafd8c1116cf4725cc5c72890864",
+      "title": "ट्रैक्टर तिरंगा परेड 26 जनवरी को, शहीदों को करेंगे नमन",
+      "link": "https://www.livehindustan.com/uttar-pradesh/meerut/story-indian-farmers-union-to-hold-tricolor-tractor-parade-on-republic-day-201769287437519.html",
+      "summary": "भारतीय किसान यूनियन 26 जनवरी को तहसील मवाना में ट्रैक्टर तिरंगा परेड आयोजित करेगी। यह परेड ग्रामों से शुरू होकर तहसील परिसर तक पहुंचेगी। किसान शहीदों को श्रद्धांजलि देंगे और समस्याओं के समाधान के लिए आंदोलन का आह्वान करेंगे। जिलाध्यक्ष ने सभी को संघर्ष के लिए तैयार रहने की सलाह दी।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:13:58 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d623f7228e79615e0e5a1eabd3e1ace8",
+      "title": "राष्ट्रगीत के 150 वर्ष पूरे होने पर स्मरण उत्सव, बच्चों ने किया सामूहिक गायन",
+      "link": "https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-150th-anniversary-of-vande-mataram-celebrated-with-enthusiasm-at-parvati-inter-college-201769287435432.html",
+      "summary": "राष्ट्रगीत ‘वंदेमातरम’ के 150 वर्ष पूरे होने के उपलक्ष्य में शनिवार को पार्वती इंटर कालेज, मेंहदावल में स्मरण उत्सव का आयोजन किया गया। लगभग 800 विद्यार्थियों ने सामूहिक रूप से राष्ट्रगीत गाया और राष्ट्रीय एकता का संदेश दिया। मुख्य अतिथि डा रजनीश ने इसे राष्ट्र के प्रति समर्पण का प्रतीक बताया।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:13:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "f6fdd266dd5f0806838fe2f72de2d571",
       "title": "Gorakhpur News: सीएनजी स्टेशन के उद्घाटन के दूसरे दिन गैस लीक, अफरा-तफरी",
       "link": "https://www.amarujala.com/gorakhpur/gas-leak-on-the-second-day-of-inauguration-of-cng-station-chaos-ensues-gorakhpur-news-c-7-gkp1038-1208697-2026-01-25",
@@ -37049,6 +37608,123 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "f6b3a5e32f06300dd63155484fdc4827",
+      "title": "दिल्ली की टीम ने बक्सर को 5-2 से पराजित किया",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gorakhpur/story-all-india-football-tournament-kicks-off-in-mahuapar-delhi-triumphs-over-buxar-5-2-201769287430980.html",
+      "summary": "महुआपार के गांधी इंटर कॉलेज के खेल मैदान पर अखिल भारतीय फुटबाल टूर्नामेंट का उद्घाटन हुआ। पहले मैच में दिल्ली ने बक्सर को 5-2 से हराया। दिल्ली के मनिंदर और जितेंद्र ने शानदार प्रदर्शन किया। पूर्व सांसद बृजभूषण शरण सिंह ने खेल को अनिवार्य बनाने की बात की। टूर्नामेंट में हजारों दर्शक उपस्थित थे।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:13:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b38eeaca0b18b9954a3c18c5e1449ee6",
+      "title": "युवक के साथ पड़ोसियों ने की मारपीट, फायरिंग का आरोप",
+      "link": "https://www.livehindustan.com/uttar-pradesh/meerut/story-youth-attacked-by-neighbors-in-daurala-firing-incident-occurs-201769287427176.html",
+      "summary": "दौराला के लोईया गांव में एक युवक के साथ पड़ोसी तीन युवकों ने रास्ते में मारपीट की। युवक घायल हो गया और परिजनों के आने पर आरोपियों ने फायरिंग कर दी। पीड़ित युवक ने थाने में शिकायत दर्ज कराई है। पुलिस मामले की जांच कर रही है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:13:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "60f9b1aa2ab8d4fda0879cae59fa1220",
+      "title": "सोने-चांदी की महंगाई ने खत्म कर दिया ‘उधार’, कई बने कर्जदार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gorakhpur/story-gold-and-silver-prices-surge-jewelry-business-faces-cash-only-transactions-201769287425150.html",
+      "summary": "ग्राउंड रिपोर्ट: साथ ले रहे चेक, भुगतान की तारीख का रेट आभूषणों का लगेगा गोरखपुर, अजय श्रीवास्तव सोने-चांदी की कीमतों में रिकॉर्ड बढ़ोतरी ने ज्वेलरी स",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:13:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2856e45cc13b954a1ddee8a3811426f6",
+      "title": "400 प्रशिक्षणार्थियों को प्रमाण पत्र देकर किया गया सम्मानित",
+      "link": "https://www.livehindustan.com/uttar-pradesh/siddhart-nagar/story-ssb-conducts-training-completion-ceremony-for-400-youths-in-tulsiapur-201769287423168.html",
+      "summary": "एसएसबी 50वीं वाहिनी बलरामपुर ने नेहरू उच्चतर माध्यमिक विद्यालय औंदही कला तुलसियापुर में नागरिक कल्याण कार्यक्रम का समापन समारोह आयोजित किया। सांसद जगदम्बिका पाल ने 400 प्रशिक्षणार्थियों को प्रमाणपत्र दिए। सांसद ने युवाओं को अधिक लाभ उठाने के लिए प्रेरित किया। कार्यक्रम में चिकित्सा शिविर और मॉक ड्रिल का आयोजन भी हुआ।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:13:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f8fc549f476a7dc956f07dda509dffa3",
+      "title": "लोन दिलाने के नाम पर महिलाओं से लाखों की ठगी, दी तहरीर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/meerut/story-massive-loan-fraud-case-women-defrauded-by-gang-in-manipurthi-village-201769287385209.html",
+      "summary": "गांव मैनापूठी में एक महिला और उसके साथियों ने लोन दिलाने का झांसा देकर सैकड़ों महिलाओं से लाखों रुपये ठग लिए। पीड़िताओं ने हर्रा पुलिस चौकी पर शिकायत दर्ज कराई है, लेकिन अभी तक न तो लोन स्वीकृत हुआ और न ही राशि वापस की गई। महिलाएं कार्रवाई की मांग कर रही हैं।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:13:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "45f7d52e12ee9aa0f934d64221d98d2c",
+      "title": "तहसील चौराहे पर लगा भीषण जाम, सीओ भी फंसे",
+      "link": "https://www.livehindustan.com/uttar-pradesh/meerut/story-severe-traffic-jam-at-sardhana-tehsil-co-and-public-stranded-201769287383414.html",
+      "summary": "शनिवार दोपहर सरधना तहसील चौराहे पर भीषण जाम लग गया, जिसमें सीओ सरधना भी फंस गए। बड़े वाहनों के प्रवेश के कारण जाम बढ़ गया और लोग एक घंटे तक परेशान रहे। पुलिस ने मौके पर पहुंचकर यातायात को सुचारू किया और जाम को खुलवाया। सीओ ने पाबंदी के बावजूद वाहनों के खिलाफ कार्रवाई के निर्देश दिए।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:13:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "995c4b3da1e0ec4dbe0207ef1d154c72",
+      "title": "ग्राम रामजंगला की चकबंदी पर उठे सवाल, शासन स्तर से जांच के आदेश",
+      "link": "https://www.livehindustan.com/uttar-pradesh/santkabir-nagar/story-dispute-over-consolidation-process-in-ramjangla-village-intensifies-201769287380975.html",
+      "summary": "धनघटा, हिन्दुस्तान संवाद।धनघटा तहसील क्षेत्र के ग्राम रामजंगला में शुरू की गई चकबंदी प्रक्रिया को लेकर विवाद गहराता जा रहा है। गांव के काश्तकारों के",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:13:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7ca9a11e5f38bca479740b21205cb098",
+      "title": "घर में घुसकर परिवार पर जानलेवा हमला, तीन घायल",
+      "link": "https://www.livehindustan.com/uttar-pradesh/meerut/story-brutal-attack-on-family-in-sardhana-village-due-to-old-rivalry-201769287377394.html",
+      "summary": "सरधना के रार्धना गांव में पुरानी रंजिश के चलते कुछ दबंगों ने एक परिवार पर जानलेवा हमला किया। लाठी-डंडों से तीन लोग, जिनमें दो महिलाएं भी शामिल हैं, घायल हुए। पीड़ितों ने पुलिस को घटना की सूचना दी और कार्रवाई की मांग की। पुलिस ने घायलों का मेडिकल कराया और जांच का आश्वासन दिया।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:12:58 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c0e45bf15b140f46200ed544a98715ca",
+      "title": "लॉटरी में मोबाइल फोन निकलने का झांसा देकर नौ हजार ठगे",
+      "link": "https://www.livehindustan.com/uttar-pradesh/meerut/story-youth-falls-victim-to-cyber-fraud-loses-9-000-in-lottery-scam-201769287374913.html",
+      "summary": "सरधना के धर्मपुरा मोहल्ले में एक युवक साइबर ठगी का शिकार हो गया। आरोपी ने उसे लॉटरी में आईफोन जीतने का झांसा देकर नौ हजार रुपये ठग लिए। पीड़ित ने पुलिस में शिकायत दर्ज कराई, जहां आरोपी की धमकी के चलते युवक दहशत में आ गया। पुलिस मामले की जांच कर रही है।",
+      "date": "2026-01-25",
+      "timestamp": "Sun, 25 Jan 2026 02:12:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -49519,6 +50195,19 @@
       "lang": "en"
     },
     {
+      "id": "cf94a24cd731a51d7dc316e9c16c4d2b",
+      "title": "Trump lavishes praise on UK troops amid anger over his Afghanistan claims",
+      "link": "https://www.aljazeera.com/news/2026/1/24/trump-lavishes-praise-on-uk-troops-amid-anger-over-his-afghanistan-claims?traffic_source=rss",
+      "summary": "Trump's praise comes after UK prime minister called the US leader's remarks 'insulting' and suggested he apologise.",
+      "date": "2026-01-24",
+      "timestamp": "Sat, 24 Jan 2026 22:51:10 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "3aa9454d1d0cd457d76cdf752a9f5482",
       "title": "Telangana doctors to appeal to PMO against G.O. 229, form Joint Action Committee",
       "link": "https://www.thehindu.com/news/national/telangana/telangana-doctors-to-appeal-to-pmo-against-go-229-form-joint-action-committee/article70547423.ece",
@@ -50156,6 +50845,19 @@
       "lang": "en"
     },
     {
+      "id": "ced94c955f5e74def30061ee3ee5ada6",
+      "title": "Mbappe’s brace at Villarreal sends Real Madrid to top of La Liga",
+      "link": "https://www.aljazeera.com/sports/2026/1/24/mbappe-nets-at-villarreal-as-real-madrid-pass-barcelona-at-top-of-la-liga?traffic_source=rss",
+      "summary": "Real Madrid win 2-0 at third-placed Villarreal to climb past rivals Barcelona to the summit of the La Liga table.",
+      "date": "2026-01-24",
+      "timestamp": "Sat, 24 Jan 2026 22:38:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2af97940c3d80f8e52841432ac49aec3",
       "title": "संभल के दो ठेकेदारों ने जेसीबी लेकर हड़पा चार लाख रुपये किराया",
       "link": "https://www.livehindustan.com/uttar-pradesh/amroha/story-contractors-cheat-brick-kiln-owner-of-4-lakh-threaten-with-death-in-sambhal-201769274466612.html",
@@ -50286,6 +50988,19 @@
       "lang": "en"
     },
     {
+      "id": "d3115c70592ea14243931798382bb278",
+      "title": "Arsenal vs Manchester United: Premier League – teams, start, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/1/24/arsenal-vs-manchester-united-premier-league-teams-start-lineups?traffic_source=rss",
+      "summary": "Arsenal will attempt to extend lead at top of Premier League to seven points, but a new-look Manchester United await.",
+      "date": "2026-01-24",
+      "timestamp": "Sat, 24 Jan 2026 22:22:08 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "3b4b908bbbdbd8942ad3ec333a67111c",
       "title": "Citing threat to public order, MHA orders blocking of Manipur killing video",
       "link": "https://www.thehindu.com/news/national/manipur/citing-threat-to-public-order-mha-orders-blocking-of-manipur-killing-video/article70547038.ece",
@@ -50360,6 +51075,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "12c3eead6f5a5a6488d2e12ea6a91bad",
+      "title": "Will TikTok deal satisfy security concerns in US?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/1/24/will-tiktok-deal-satisfy-security-concerns-in-us?traffic_source=rss",
+      "summary": "Under threat for years, TikTok will continue to operate in the United States.",
+      "date": "2026-01-24",
+      "timestamp": "Sat, 24 Jan 2026 22:07:08 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -50477,6 +51205,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4dfae5c822335e79f81c774a26267a76",
+      "title": "Iraq Shia alliance nominates former PM Nouri al-Maliki as its candidate",
+      "link": "https://www.aljazeera.com/news/2026/1/24/iraq-shia-alliance-nominates-former-pm-nouri-al-maliki-as-its-candidate?traffic_source=rss",
+      "summary": "Al-Maliki remains potent force despite longstanding claims he fuelled sectarianism and failed to stop ISIL expansion.",
+      "date": "2026-01-24",
+      "timestamp": "Sat, 24 Jan 2026 21:44:09 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -53875,9 +54616,9 @@
     },
     {
       "id": "65554e7c90ef1b9637a14dab1d18213c",
-      "title": "LIVE: Villarreal vs Real Madrid – La Liga",
+      "title": "Villarreal vs Real Madrid 0-2: La Liga – as it happened",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/1/24/live-villarreal-vs-real-madrid-la-liga?traffic_source=rss",
-      "summary": "Follow our live build-up, with full team news coverage, before our comprehensive text commentary stream.",
+      "summary": "All our updates, with post-match reaction and interviews, following our text commentary stream of the La Liga match.",
       "date": "2026-01-24",
       "timestamp": "Sat, 24 Jan 2026 17:01:07 +0000",
       "section": "International",
