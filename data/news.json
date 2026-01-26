@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-26T21:19:24.149896+00:00",
+  "generated_at": "2026-01-26T22:17:42.048385+00:00",
   "stories": [
     {
       "id": "b183a77ee5d637f6699e1f8a41119c89",
@@ -12266,7 +12266,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-27",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 02:30:22 +0530",
+      "timestamp": "Tue, 27 Jan 2026 03:30:22 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -12279,12 +12279,38 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-27",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 02:30:12 +0530",
+      "timestamp": "Tue, 27 Jan 2026 03:30:11 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "09b1c6c32b1f02c4f9766dd61673b72e",
+      "title": "Karnataka: राज्यपाल के अपमान में भाजपा-JDS का प्रदर्शन; विधान सौधा के सामने सरकार के खिलाफ जताएंगे विरोध",
+      "link": "https://www.amarujala.com/india-news/oppn-bjp-jd-s-in-k-taka-to-protest-against-alleged-insult-to-guv-other-issues-2026-01-26",
+      "summary": "Oppn BJP, JD(S) in K'taka to protest against alleged insult to Guv, other issues - Karnataka: राज्यपाल के अपमान में भाजपा-JDS का प्रदर्शन; विधान सौधा के सामने सरकार के खिलाफ जताएंगे विरोध",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 03:28:10 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "f3f893721bb7a4c67b49dfc6b8abaa0f",
+      "title": "Sudan's military says it breaks paramilitary RSF's siege of key town",
+      "link": "https://www.thehindu.com/news/international/sudans-military-says-it-breaks-paramilitary-rsfs-siege-of-key-town/article70554258.ece",
+      "summary": "There was no immediate comment from the RSF, which has been at war with the military for nearly three years",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 02:58:45 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "758d69dd577962538033195fcefff4bf",
@@ -70319,6 +70345,19 @@
       "lang": "en"
     },
     {
+      "id": "8150416ba3aa305e5a47c9c5940682db",
+      "title": "French MPs take first step to ban social media for under-15s",
+      "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Sébastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September.",
+      "date": "2026-01-26",
+      "timestamp": "Mon, 26 Jan 2026 21:46:41 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "27b5572b797b63ab2038644cbc94cbd0",
       "title": "Vande Mataram tableaux at the Republic Day parade",
       "link": "https://www.thehindu.com/news/national/vande-mataram-tableaux-at-the-republic-day-parade/article70553721.ece",
@@ -70341,6 +70380,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "534217bbbab4628647441dbc54ad0e46",
+      "title": "New Iran videos show bodies piled in hospital and snipers on roofs",
+      "link": "https://www.bbc.com/news/articles/c1m7kde3y3zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Footage from a hospital in Tehran shows at least 31 bodies piled inside and seven body bags outside.",
+      "date": "2026-01-26",
+      "timestamp": "Mon, 26 Jan 2026 21:34:40 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -70484,6 +70536,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "99112d1db7a1b0307a090d6d134bdc86",
+      "title": "Canadian PM Carney unveils multibillion-dollar push to lower food costs",
+      "link": "https://www.aljazeera.com/economy/2026/1/26/canadian-pm-carney-unveils-multibillion-dollar-push-to-lower-food-costs?traffic_source=rss",
+      "summary": "Carney has been under pressure from the opposition to lower prices of food and other essentials for lower income people.",
+      "date": "2026-01-26",
+      "timestamp": "Mon, 26 Jan 2026 21:14:44 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -73764,19 +73829,6 @@
       "lang": "en"
     },
     {
-      "id": "8150416ba3aa305e5a47c9c5940682db",
-      "title": "France debates under-15s social media ban endorsed by Macron",
-      "link": "https://www.bbc.com/news/articles/c07x003vx0yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Sébastien Lecornu has said he will use a fast-track procedure to get the legislation on the books by September.",
-      "date": "2026-01-26",
-      "timestamp": "Mon, 26 Jan 2026 12:14:43 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "4e39861e2c9ee11d37c9065e28fb5945",
       "title": "रवि किशन मेरे बाप न बनिए, पवन सिंह को भी लगाई लताड़, खेसारी लाल ने महफिल में BJP नेताओं को लिया आड़े हाथ",
       "link": "https://www.patrika.com/lucknow-news/khesari-lal-yadav-big-statement-on-ravi-kishan-and-pawan-singh-khesari-say-you-are-not-my-father-20293520",
@@ -74100,19 +74152,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "09b1c6c32b1f02c4f9766dd61673b72e",
-      "title": "Karnataka: राज्यपाल के अपमान में भाजपा-JDS का प्रदर्शन; विधान सौधा के सामने सरकार के खिलाफ जताएंगे विरोध",
-      "link": "https://www.amarujala.com/india-news/oppn-bjp-jd-s-in-k-taka-to-protest-against-alleged-insult-to-guv-other-issues-2026-01-26",
-      "summary": "Oppn BJP, JD(S) in K'taka to protest against alleged insult to Guv, other issues - Karnataka: राज्यपाल के अपमान में भाजपा-JDS का प्रदर्शन; विधान सौधा के सामने सरकार के खिलाफ जताएंगे विरोध",
-      "date": "2026-01-26",
-      "timestamp": "Mon, 26 Jan 2026 11:39:08 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "46b2a9c04eff9da2b76c53d8f132c353",
@@ -108331,6 +108370,71 @@
       "lang": "en"
     },
     {
+      "id": "8e1c6c8a54d9aa88afd631919a5dc7c7",
+      "title": "Fire at Kolkata warehouse: 7 dead, 21 missing",
+      "link": "https://timesofindia.indiatimes.com/india/fire-at-kolkata-warehouse-7-dead-21-missing/articleshow/127577403.cms",
+      "summary": "A devastating fire engulfed a Kolkata warehouse complex early Monday, claiming at least seven lives and leaving 21 workers missing. Trapped inside units laden with combustible decoration materials and food supplies, the victims were sleeping when the blaze erupted. Firefighters battled for hours, but the inferno's intensity and smoldering debris continue to hinder rescue efforts.",
+      "date": "2026-01-26",
+      "timestamp": "2026-01-27T03:27:51+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f915f92813129588be35be2ae01a050f",
+      "title": "Alert: UK households urged to stockpile three essentials ahead of Storm Chandra power cut risk",
+      "link": "https://timesofindia.indiatimes.com/world/uk/uk-households-urged-to-stockpile-three-essentials-ahead-of-storm-chandra-power-cut-risk/articleshow/127574703.cms",
+      "summary": "Storm Chandra is set to bring disruptive weather across the UK from late Monday into Tuesday, with heavy rain, strong winds and snow triggering multiple Met Office warnings. Flooding is likely in parts of southern England, while northern England and Scotland face hill snow and travel disruption. Households are urged to prepare for possible power cuts.",
+      "date": "2026-01-26",
+      "timestamp": "2026-01-27T03:22:39+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8cecdba92c78439042fb1f9a76b2a441",
+      "title": "West Virginia woman arrested in alleged Trump assassination plot; sheriff says she recruit people on social media",
+      "link": "https://timesofindia.indiatimes.com/world/us/west-virginia-woman-arrested-in-alleged-trump-assassination-plot-sheriff-says-she-recruit-people-on-social-media/articleshow/127575630.cms",
+      "summary": "A West Virginia woman, Morgan Morrow, faces charges for allegedly attempting to recruit individuals to assassinate President Donald Trump. Authorities apprehended Morrow after discovering a TikTok post where she seemingly solicited a sniper. She reportedly admitted to posting the message, citing personal reasons for her animosity towards the President.",
+      "date": "2026-01-26",
+      "timestamp": "2026-01-27T03:14:40+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5c066945773fb3addfb6c229fe808972",
+      "title": "‘Stay away from USA’: Former FIFA chief Sepp Blatter fuels World Cup 2026 boycott debate",
+      "link": "https://timesofindia.indiatimes.com/world/us/stay-away-from-usa-former-fifa-chief-sepp-blatter-fuels-world-cup-2026-boycott-debate/articleshow/127572518.cms",
+      "summary": "Amidst rising geopolitical tensions and concerns over US policies, a growing chorus is calling for a boycott of the 2026 FIFA World Cup co-hosted by the United States. Former FIFA president Sepp Blatter has publicly supported calls for fans to stay away, citing recent incidents and the perceived contradiction with the tournament's spirit of unity.",
+      "date": "2026-01-26",
+      "timestamp": "2026-01-27T02:35:29+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "adf6d013a70b671ff909594e5aaa2d5e",
+      "title": "YouTuber WhistlinDiesel faces another tax arrest after previous 2025 case",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/youtuber-whistlindiesel-faces-another-tax-arrest-after-previous-2025-case/articleshow/127575057.cms",
+      "summary": "Popular YouTuber WhistlinDiesel, Cody Detwiler, was arrested again for a $30,000 tax dispute, claiming he received no prior notice. This follows a previous tax evasion arrest in November 2025. Detwiler stated the issue stems from a vehicle registered in Montana that was later destroyed, leading to a prolonged tax case without official notification.",
+      "date": "2026-01-26",
+      "timestamp": "2026-01-27T02:33:43+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0a8edea22f36ebd94f746eabf2c51c5e",
       "title": "'Maybe Vance wants to signal...': Former Indian diplomat on why JD Vance has been blocking US-India deal",
       "link": "https://timesofindia.indiatimes.com/world/us/maybe-vance-wants-to-signal-former-indian-diplomat-breaks-down-why-jd-vance-was-blocking-us-india-deal/articleshow/127574480.cms",
@@ -108350,6 +108454,19 @@
       "summary": "",
       "date": "2026-01-26",
       "timestamp": "2026-01-27T01:59:09+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4710c4af152fcaf6b94810195e9c467d",
+      "title": "MrBeast criticizes Netflix pay, would give Alex Honnold over $500K for Taipei 101 stunt",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/mrbeast-criticizes-netflix-pay-would-give-alex-honnold-over-500k-for-taipei-101-stunt/articleshow/127572998.cms",
+      "summary": "Daredevil Alex Honnold's breathtaking free solo of Taipei 101 has sparked a bidding war, with YouTuber MrBeast claiming he'd have paid over $500,000 for the stunt on his platform. Honnold's 90-minute climb, broadcast live on Netflix, highlights the growing appeal of extreme urban feats and the fierce competition between streaming giants for high-stakes entertainment.",
+      "date": "2026-01-26",
+      "timestamp": "2026-01-27T01:41:11+05:30",
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
