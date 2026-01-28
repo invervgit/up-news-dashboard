@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T21:25:39.281962+00:00",
+  "generated_at": "2026-01-28T22:21:47.739036+00:00",
   "stories": [
     {
       "id": "709e8a854f60fe06860fb6249b3b9b9d",
@@ -10,6 +10,19 @@
       "timestamp": "Wed, 28 Jan 2026 23:49:17 +0530",
       "section": "National",
       "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "daebcc957f52388081b2241c16860803",
+      "title": "Gauhati High Court lists PIL amid Assam vote row",
+      "link": "https://www.thehindu.com/news/national/assam/gauhati-high-court-lists-pil-amid-assam-vote-row/article70561156.ece",
+      "summary": "The State unit of Trinamool Congress writes to the Chief Justice, seeking suo-motu cognisance of communal statements by public functionaries",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 23:38:00 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -210,6 +223,19 @@
       "lang": "en"
     },
     {
+      "id": "15ab2c4a33b80aaf72d368d2a3b3de2a",
+      "title": "Wild animal attacks claim 685 human lives in Tamil Nadu in 10 years",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/wild-animal-attacks-claim-685-human-lives-in-tamil-nadu-in-10-years/article70561472.ece",
+      "summary": "The conflict situation is a cause of serious concern in Western Ghats districts such as Kanniyakumari, Tirunelveli, Virudhunagar, Madurai, Theni, Dindigul, Coimbatore and the Nilgiris and in three Eastern Ghats districts — Erode, Krishnagiri and Dharmapuri",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 22:33:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f95e356d7e4f0ca6b794034d242d2ebe",
       "title": "Family of three, including child, murdered in Taramani; bodies dumped in different places",
       "link": "https://www.thehindu.com/news/cities/chennai/family-of-three-including-child-murdered-in-taramani-bodies-dumped-in-different-places/article70561135.ece",
@@ -262,6 +288,19 @@
       "lang": "en"
     },
     {
+      "id": "c28ee98c73392bd86c123195d4e361d2",
+      "title": "At least five killed after Storm Kristin sweeps across Portugal",
+      "link": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm toppled trees, damaged homes and left more than 800,000 people without power.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 22:16:01 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6581fad0abe19a2fffbe8c0fcdf79499",
       "title": "Petitioners ask Supreme Court whether Election Commission gave data to show SIR was needed",
       "link": "https://www.thehindu.com/news/national/did-ec-give-data-to-show-sir-was-necessary-and-imminent-petitioners-ask-sc/article70561942.ece",
@@ -278,6 +317,19 @@
       "id": "bf7e47e0e22fd95f42611effdb2143ab",
       "title": "Kerala Tourism and The Hindu Group to host ‘Kerala for All’ conclave on inclusive and accessible tourism",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/kerala-tourism-and-the-hindu-group-to-host-kerala-for-all-conclave-on-inclusive-and-accessible-tourism/article70562191.ece",
+      "summary": "A two-day knowledge conclave on inclusive and accessible tourism will be held on January 31 and February 1 in Kochi; the conclave will be inaugurated by Kerala Chief Minister Pinarayi Vijayan",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 22:13:27 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d73f1d9bb2eac946d04e5f663c7ec60d",
+      "title": "Kerala Tourism and The Hindu Group to host ‘Kerala for All’ conclave on inclusive and accessible tourism",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-tourism-and-the-hindu-group-to-host-kerala-for-all-conclave-on-inclusive-and-accessible-tourism/article70562191.ece",
       "summary": "A two-day knowledge conclave on inclusive and accessible tourism will be held on January 31 and February 1 in Kochi; the conclave will be inaugurated by Kerala Chief Minister Pinarayi Vijayan",
       "date": "2026-01-28",
       "timestamp": "Wed, 28 Jan 2026 22:13:27 +0530",
@@ -405,6 +457,19 @@
       "lang": "en"
     },
     {
+      "id": "8adacbeed4fbbe018bad16b1a5061556",
+      "title": "Colombia launches search for missing plane carrying 15 people",
+      "link": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Contact with the aircraft was lost just minutes before it was due to land in northern Colombia, state airline Satena says.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 21:54:32 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "91d358044d0ad169d8c1a28e61699e8d",
       "title": "Karnataka Assembly Speaker calls for introspection on incidents post-Governor’s speech",
       "link": "https://www.thehindu.com/news/national/karnataka/karnataka-assembly-speaker-calls-for-introspection-on-incidents-post-governors-speech/article70562089.ece",
@@ -510,13 +575,13 @@
     },
     {
       "id": "0ba4cc3dd0605238e0a8822de17dd7b0",
-      "title": "Government demands apology from Opposition for protesting during President’s address to Parliament",
+      "title": "Centre demands apology from Opposition for protesting during President’s Address to House",
       "link": "https://www.thehindu.com/news/national/government-demands-apology-from-opposition-for-protesting-during-presidents-address-to-parliament/article70562029.ece",
       "summary": "Members of Congress and its allies raised slogans against the VB-G RAM G Act, demanding its rollback as soon as President Murmu began her address to a joint sitting of Parliament",
       "date": "2026-01-28",
       "timestamp": "Wed, 28 Jan 2026 21:36:48 +0530",
       "section": "National",
-      "report_category": "National_Govt",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -535,8 +600,21 @@
       "lang": "en"
     },
     {
+      "id": "26e6a00e5599a3c96e91e4eb0741163b",
+      "title": "Israel’s top court delays Gaza press access ruling amid years-long ban",
+      "link": "https://www.aljazeera.com/news/2026/1/28/israels-top-court-delays-gaza-press-access-ruling-amid-years-long-ban?traffic_source=rss",
+      "summary": "Court gives Israeli government until March to justify ban on foreign media from Gaza.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 21:29:40 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "91d9de0f7ba239a9b6cf1dd395dbc550",
-      "title": "Are States building castles in the air about facilities to sterilise stray dogs, Supreme Court asks",
+      "title": "Supreme Court says States ‘building castles in the air’ on stray dog sterilisation",
       "link": "https://www.thehindu.com/news/national/are-states-building-castles-in-the-air-about-facilities-to-sterilise-stray-dogs-supreme-court-asks/article70562160.ece",
       "summary": "States fail to comply with SC directions on fencing institutional areas, removing strays from roads and highways; no specific data on number of bites, sterilisation capacity in States’ “vague” affidavits, says SC",
       "date": "2026-01-28",
@@ -666,9 +744,9 @@
     },
     {
       "id": "612dc855946c09fd6199da6a8a31b368",
-      "title": "66% safai karmacharis in central government from SC, ST, OBC groups: DoPT data",
+      "title": "66% sanitation workers in Central govt from SC, ST, OBC groups: DoPT report",
       "link": "https://www.thehindu.com/news/national/66-percent-safai-karmacharis-in-central-government-from-sc-st-obc-groups-dopt-data/article70561504.ece",
-      "summary": "SC, ST, OBC employees account for 39.88% of all Group A posts in 80 Central Ministries and Departments as on January 1, 2024; no data on representation of EWS employees",
+      "summary": "The report shows that among all Group A posts in Union Ministries and departments, 14.2% were held by SCs, 6.54% by STs, and 19.14% by OBCs; the report provides no data on EWS employees",
       "date": "2026-01-28",
       "timestamp": "Wed, 28 Jan 2026 21:19:55 +0530",
       "section": "National",
@@ -941,6 +1019,19 @@
       "id": "4bec709f855ab2cc125b4ea115ed7b0b",
       "title": "Bird census at Kolleru spots thriving migratory populations",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/bird-census-at-kolleru-spots-thriving-migratory-populations/article70561782.ece",
+      "summary": "",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 21:01:03 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e01deb5816c4fa92bf8a212aea35a721",
+      "title": "Bird census at Kolleru spots thriving migratory populations",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/bird-census-at-kolleru-spots-thriving-migratory-populations/article70561782.ece",
       "summary": "",
       "date": "2026-01-28",
       "timestamp": "Wed, 28 Jan 2026 21:01:03 +0530",
@@ -44956,6 +45047,58 @@
       "lang": "en"
     },
     {
+      "id": "ca5a8d35a885d3deeced0d227fe48c1d",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 29 जनवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-29",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 03:30:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7adafb3bbe938a39223fd1843b160d2a",
+      "title": "पढ़ें 29 जनवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-29",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 03:30:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "bd443886542c10ecf30f87d620968452",
+      "title": "UGC New Rule 2026 Row: UGC बिल पर नीतीश हुए पीएम मोदी से अलग, दिल्ली से बिहार तक मचा बवाल!",
+      "link": "https://www.amarujala.com/video/india-news/ugc-new-rule-2026-row-nitish-kumar-differs-from-pm-modi-on-ugc-bill-causing-uproar-from-delhi-to-bihar-2026-01-29",
+      "summary": "UGC New Rule 2026 Row: UGC बिल पर नीतीश हुए पीएम मोदी से अलग, दिल्ली से बिहार तक मचा बवाल!",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 03:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "314b3c78d204de78a771ca5bfeaf49f9",
+      "title": "Lucknow: यूजीसी के नए नियमों के विरोध में यूपी में प्रदर्शन और इस्तीफे, सवर्ण समाज का राष्ट्रपति के नाम ज्ञापन",
+      "link": "https://www.amarujala.com/lucknow/protests-and-resignations-continue-in-up-against-new-ugc-rules-2026-01-29",
+      "summary": "यूजीसी के नए नियमों के विरोध में बुधवार को भी उत्तर प्रदेश के कई जिलों में प्रदर्शन हुए।",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 03:04:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "0d1ddc5d4edaac85bc7e10383a06c563",
       "title": "Lucknow News: गांव की बदली तस्वीर... मंच से मिला सम्मान",
       "link": "https://www.amarujala.com/lucknow/the-picture-of-the-village-changed-received-respect-from-the-stage-lucknow-news-c-13-knp1002-1580028-2026-01-29",
@@ -45148,6 +45291,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "f987cd08267b55e83a6e4c5934d4ee94",
+      "title": "Goyal hits out at Congress for raising concerns over India-EU FTA",
+      "link": "https://www.thehindu.com/news/national/goyal-hits-out-at-congress-for-raising-concerns-over-india-eu-fta/article70562729.ece",
+      "summary": "“I only hope my friend will shed this negative and pessimistic approach, which is unable to see our aspirational people raring to go out and do business with the world,” Mr. Goyal said",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 02:40:00 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -45409,32 +45565,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "ca5a8d35a885d3deeced0d227fe48c1d",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 29 जनवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-29",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 02:30:23 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "7adafb3bbe938a39223fd1843b160d2a",
-      "title": "पढ़ें 29 जनवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-29",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 02:30:11 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "5016c66b54389273edb5e57a694ba0be",
@@ -118012,6 +118142,58 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "11915ec627b38b61f7c1390b24d54dff",
+      "title": "'For official use only': Indian-origin CISA acting director uploaded sensitive government files to public ChatGPT, says report",
+      "link": "https://timesofindia.indiatimes.com/world/us/for-official-use-only-indian-origin-cisa-acting-director-madhu-gottumukkala-uploaded-sensitive-government-files-to-public-chatgpt-triggering-security-alarms/articleshow/127736058.cms",
+      "summary": "CISA's acting director, Madhu Gottumukkala, uploaded sensitive \"for official use only\" contracting documents into the public version of ChatGPT last summer, triggering multiple security warnings. Despite the non-classified nature of the files, the incident prompted an internal review by DHS officials to assess potential harm to government security.",
+      "date": "2026-01-28",
+      "timestamp": "2026-01-29T03:35:51+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d3299b9be30f82630661d040f5ba94b2",
+      "title": "Ajit’s swag matched his penchant for discipline",
+      "link": "https://timesofindia.indiatimes.com/india/ajits-swag-matched-his-penchant-for-discipline/articleshow/127736090.cms",
+      "summary": "",
+      "date": "2026-01-28",
+      "timestamp": "2026-01-29T03:08:17+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "24ff5ee58771aed5d0da2db65261a1ea",
+      "title": "No REAL ID at the airport? Will paying TSA’s $45 fee actually get you on your flight? Five FAQs answered",
+      "link": "https://timesofindia.indiatimes.com/world/us/no-real-id-at-the-airport-will-paying-tsas-45-fee-actually-get-you-on-your-flight-five-faqs-answered/articleshow/127733553.cms",
+      "summary": "Starting next month, domestic air travelers without a REAL ID or acceptable alternative like a passport face a potential $45 fee for identity verification at the airport. This TSA process, averaging 10-15 minutes, requires personal information and payment via digital means. Children under 18 are exempt when accompanied by an adult.",
+      "date": "2026-01-28",
+      "timestamp": "2026-01-29T02:56:57+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6ad151e717028ab0639554f6f8318568",
+      "title": "‘Might as well allow H‑1Bs to make nuclear bombs’: American businessman says letting foreigners work in AI labs is ‘national security’ issue",
+      "link": "https://timesofindia.indiatimes.com/world/us/might-as-well-allow-h1bs-to-make-nuclear-bombs-american-businessman-says-letting-foreigners-work-in-ai-labs-is-national-security-issue/articleshow/127731591.cms",
+      "summary": "",
+      "date": "2026-01-28",
+      "timestamp": "2026-01-29T02:51:43+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
