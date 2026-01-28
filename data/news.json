@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-28T22:21:47.739036+00:00",
+  "generated_at": "2026-01-28T23:21:49.935064+00:00",
   "stories": [
     {
       "id": "709e8a854f60fe06860fb6249b3b9b9d",
@@ -77,6 +77,32 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e689cdcb368409a5e8b09913dc69ace9",
+      "title": "Barcelona claim Champions League last-16 spot, but its the playoffs for PSG",
+      "link": "https://www.aljazeera.com/sports/2026/1/28/barcelona-claim-champions-league-last-16-spot-but-its-the-playoffs-for-psg?traffic_source=rss",
+      "summary": "Barcelona leap into Champions League automatic qualifying positions with win in Copenhagen, but PSG face playoffs.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 23:08:35 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c28ee98c73392bd86c123195d4e361d2",
+      "title": "At least five killed after Storm Kristin hits Portugal",
+      "link": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The storm toppled trees, damaged homes and left more than 800,000 people without power.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 22:59:48 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -158,6 +184,19 @@
       "lang": "en"
     },
     {
+      "id": "8adacbeed4fbbe018bad16b1a5061556",
+      "title": "Plane crashes in Colombia, killing all 15 on board",
+      "link": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
+      "summary": "State ariline Satena says its aircraft carrying 13 passengers and two crew \"suffered a fatal accident\".",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 22:48:52 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6907d96294f2b3ee05083de99afdbe3a",
       "title": "13 साल की लड़की से रेप के बाद स्पा पर कसा शिकंजा, इस शहर में 30 सेंटर बंद",
       "link": "https://www.livehindustan.com/uttar-pradesh/after-the-rape-of-a-13-year-old-girl-gorakhpur-city-has-shut-down-30-spa-centers-201769619727119.html",
@@ -180,6 +219,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2a35bda1688e806891ee564b9b1bbd27",
+      "title": "Quebec mosque attack anniversary renews call to end anti-Muslim hate",
+      "link": "https://www.aljazeera.com/news/2026/1/28/quebec-mosque-attack-anniversary-renews-call-to-end-anti-muslim-hate?traffic_source=rss",
+      "summary": "Muslim leaders warn against divisive laws, rhetoric as Canada marks nine years since deadly Quebec City mosque shooting.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 22:35:59 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -275,6 +327,19 @@
       "lang": "en"
     },
     {
+      "id": "db68b2f89c55edca2f46746b904c9277",
+      "title": "What will be the impact of the EU-India trade pact?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/1/28/what-will-be-the-impact-of-the-eu-india-trade-pact?traffic_source=rss",
+      "summary": "The 'mother of all trade deals' comes months after the United States slapped tariffs on India and the European Union.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 22:23:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "cad621860a78671c63ab706b29c5e3c6",
       "title": "अनुज चौधरी समेत 20 पुलिसवालों पर FIR के आदेश पर अमल को लेकर कोर्ट का रुख सख्त, मांगी रिपोर्ट",
       "link": "https://www.livehindustan.com/uttar-pradesh/court-takes-tough-stand-on-implementation-of-fir-order-against-anuj-chaudhary-and-20-other-policemen-seeks-report-201769618416339.html",
@@ -285,19 +350,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "c28ee98c73392bd86c123195d4e361d2",
-      "title": "At least five killed after Storm Kristin sweeps across Portugal",
-      "link": "https://www.bbc.com/news/articles/c205yl3kvzmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The storm toppled trees, damaged homes and left more than 800,000 people without power.",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 22:16:01 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -453,19 +505,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "8adacbeed4fbbe018bad16b1a5061556",
-      "title": "Colombia launches search for missing plane carrying 15 people",
-      "link": "https://www.bbc.com/news/articles/cvgnq54v79xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Contact with the aircraft was lost just minutes before it was due to land in northern Colombia, state airline Satena says.",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 21:54:32 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -4033,7 +4072,7 @@
     },
     {
       "id": "34da8c968dea8841e2a12e4a03fc4565",
-      "title": "LIVE: Benfica vs Real Madrid – UEFA Champions League",
+      "title": "LIVE: Benfica vs Real Madrid 4-2 – UEFA Champions League",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/1/28/live-benfica-vs-real-madrid-uefa-champions-league-coverage-commentary-stream?traffic_source=rss",
       "summary": "Follow our live updates, with team news coverage, ahead of our text commentary stream of the UCL league-phase finale.",
       "date": "2026-01-28",
@@ -4137,7 +4176,7 @@
     },
     {
       "id": "298c2d95defa5b513865ca000fd9645d",
-      "title": "LIVE: Iran says it will ‘respond like never before’ after Trump’s threats",
+      "title": "Updates: Iran will ‘respond like never before’ after Trump’s threats",
       "link": "https://www.aljazeera.com/news/liveblog/2026/1/28/live-iran-says-it-will-respond-like-never-before-after-trumps-threats?traffic_source=rss",
       "summary": "Iran says it will deliver an unprecedented retaliation to any US attack following threats by Trump.",
       "date": "2026-01-28",
@@ -45047,12 +45086,38 @@
       "lang": "en"
     },
     {
+      "id": "228ebf50874adeb351af972aaced0475",
+      "title": "Updates: केंद्र ने लागू किए नए ठोस कचरा प्रबंधन नियम, भाजपा का दावा- केरल की रुकी रेलवे परियोजनाएं मंजूर",
+      "link": "https://www.amarujala.com/india-news/national-news-updates-29th-jan-north-east-west-south-india-politics-crime-latest-news-hindi-2026-01-29",
+      "summary": "Updates: केंद्र ने लागू किए नए ठोस कचरा प्रबंधन नियम, भाजपा का दावा- केरल की रुकी रेलवे परियोजनाएं मंजूर---National News Updates 29th Jan North East West South India Politics Crime Latest News Hindi",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 04:50:47 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "247b0575c2c73763a621f56851f63d0b",
+      "title": "Interview: नोबेल विजेता कैलाश सत्यार्थी बोले- बच्चों में बढ़ रही नकारात्मक सोच, परिवार और स्कूल की भूमिका अहम",
+      "link": "https://www.amarujala.com/india-news/kailash-satyarthi-warns-gadgets-are-creating-negativity-among-children-says-nobel-laureate-in-interview-2026-01-29",
+      "summary": "Interview: नोबेल विजेता कैलाश सत्यार्थी बोले- बच्चों में बढ़ रही नकारात्मक सोच, परिवार और स्कूल की भूमिका अहम---Kailash Satyarthi Warns Gadgets Are Creating Negativity Among Children, Says Nobel Laureate in Interview",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 04:32:49 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "ca5a8d35a885d3deeced0d227fe48c1d",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 29 जनवरी के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-29",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 03:30:22 +0530",
+      "timestamp": "Thu, 29 Jan 2026 04:30:22 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -45065,12 +45130,38 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-29",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 03:30:10 +0530",
+      "timestamp": "Thu, 29 Jan 2026 04:30:11 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "6fc028d98fc8ca7762b93e5e35e49d45",
+      "title": "Ajit Pawar Death in Plane Crash: अजित पवार के निधन पर भावुक हुए चंद्रशेखर बावनकुले, ममता पर भड़के!",
+      "link": "https://www.amarujala.com/video/india-news/ajit-pawar-s-death-in-a-plane-crash-chandrashekhar-bawankule-became-emotional-over-ajit-pawar-s-death-and-las-2026-01-29",
+      "summary": "Ajit Pawar Death in Plane Crash: अजित पवार के निधन पर भावुक हुए चंद्रशेखर बावनकुले, ममता पर भड़के!",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 04:30:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "7240acb021facd49fb7208fb7527df5a",
+      "title": "Federal Reserve keeps interest rates unchanged even as Trump continues to insist they be lowered",
+      "link": "https://www.thehindu.com/business/Economy/federal-reserve-keeps-interest-rates-unchanged-even-as-trump-continues-to-insist-they-be-lowered/article70562913.ece",
+      "summary": "A key issue facing the Fed rate-setting committee is how long it will remain on hold; they remain split between those officials opposed to further cuts until inflation comes down and those who want to lower rates to further support hiring",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 03:34:00 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "bd443886542c10ecf30f87d620968452",
@@ -45201,19 +45292,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "228ebf50874adeb351af972aaced0475",
-      "title": "Updates: केंद्र ने लागू किए नए ठोस कचरा प्रबंधन नियम, भाजपा का दावा- केरल की रुकी रेलवे परियोजनाएं मंजूर",
-      "link": "https://www.amarujala.com/india-news/national-news-updates-29th-jan-north-east-west-south-india-politics-crime-latest-news-hindi-2026-01-29",
-      "summary": "Updates: केंद्र ने लागू किए नए ठोस कचरा प्रबंधन नियम, भाजपा का दावा- केरल की रुकी रेलवे परियोजनाएं मंजूर---National News Updates 29th Jan North East West South India Politics Crime Latest News Hindi",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 02:45:51 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "6c4ba989f8567b51b37616c0fb5db1a8",
@@ -118142,6 +118220,45 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ff8ed7a4cc0ca89299f9e459d78e2c11",
+      "title": "Issues of national interest must be above differences: President",
+      "link": "https://timesofindia.indiatimes.com/india/issues-of-national-interest-must-be-above-differences-president/articleshow/127740200.cms",
+      "summary": "",
+      "date": "2026-01-28",
+      "timestamp": "2026-01-29T04:09:39+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ae33df1710e345b9ddcd4a18a5765648",
+      "title": "No need for physical Aadhaar copies as new app enables digital verification",
+      "link": "https://timesofindia.indiatimes.com/india/no-need-for-physical-aadhaar-copies-as-new-app-enables-digital-verification/articleshow/127738926.cms",
+      "summary": "",
+      "date": "2026-01-28",
+      "timestamp": "2026-01-29T03:51:54+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9bd4c503aee8a6e9401b7d4b2f151172",
+      "title": "Stray dog info an eyewash, states fudging data: SC",
+      "link": "https://timesofindia.indiatimes.com/india/stray-dog-info-an-eyewash-states-fudging-data-sc/articleshow/127738765.cms",
+      "summary": "",
+      "date": "2026-01-28",
+      "timestamp": "2026-01-29T03:49:29+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
