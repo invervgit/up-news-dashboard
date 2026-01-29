@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T13:56:20.561662+00:00",
+  "generated_at": "2026-01-29T14:37:05.567382+00:00",
   "stories": [
     {
       "id": "709e8a854f60fe06860fb6249b3b9b9d",
@@ -1284,19 +1284,6 @@
       "timestamp": "Wed, 28 Jan 2026 20:40:57 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "8f205edcde73167c61898ed300422f7a",
-      "title": "U.S.-Iran tensions escalate as Trump says ‘time is running’ out for Tehran",
-      "link": "https://www.thehindu.com/news/international/trump-threatens-attack-on-iran/article70562039.ece",
-      "summary": "“A massive Armada is heading to Iran. It is moving quickly, with great power, enthusiasm, and purpose. It is a larger fleet, headed by the great Aircraft Carrier Abraham Lincoln, than that sent to Venezuela,” Mr. Trump wrote in a social media post.",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 20:40:02 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -3122,6 +3109,19 @@
       "lang": "en"
     },
     {
+      "id": "21979276c09ea7571b6681a422693b6f",
+      "title": "Israel to hold funeral for last hostage recovered from Gaza",
+      "link": "https://www.thehindu.com/news/international/israel-to-hold-funeral-for-last-hostage-recovered-from-gaza/article70560665.ece",
+      "summary": "Gvili was among about 250 people abducted during ​the attack, which killed around 1,200 people, according ⁠to Israeli tallies",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 17:13:11 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2a35f2bb3708cc3fa9e5c187d7c1be24",
       "title": "लखनऊ नगर निगम का बड़ा फैसला: मंडप किराया 40% बढ़ा, अस्पताल,होटल लाइसेंस और शराब भी हुई महंगी",
       "link": "https://www.patrika.com/lucknow-news/lucknow-municipal-corporation-big-decision-hospital-hotel-licenses-and-liquor-also-became-more-expensive-20299718",
@@ -3691,19 +3691,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "21979276c09ea7571b6681a422693b6f",
-      "title": "Israel to hold funeral for last hostage recovered from Gaza",
-      "link": "https://www.thehindu.com/news/international/israel-to-hold-funeral-for-last-hostage-recovered-from-gaza/article70560665.ece",
-      "summary": "Gvili was among about 250 people abducted during ​the attack, which killed around 1,200 people, according ⁠to Israeli tallies",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 16:31:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -4500,6 +4487,19 @@
       "lang": "en"
     },
     {
+      "id": "e0cc07834c458e8d4b786c6d2ab60a84",
+      "title": "Trump warns Iraq against returning former PM al-Maliki to power amid worries about Iran influence",
+      "link": "https://www.thehindu.com/news/international/trump-warns-iraq-against-returning-former-pm-al-maliki-to-power-amid-worries-about-iran-influence/article70560131.ece",
+      "summary": "Caretaker PM Mohammed Shia al-Sudani's bloc won the largest share of seats in November's parliamentary elections. But he stepped aside earlier this month after he was unable to form a government",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 14:50:32 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ad43b07780cd25153972abd525e9dddc",
       "title": "Dates of Telangana Municipal Elections 2026, Ward Members’ oath administration",
       "link": "https://www.thehindu.com/news/national/telangana/telangana-municipal-elections-date-members-oath-administration/article70560233.ece",
@@ -4955,6 +4955,19 @@
       "lang": "en"
     },
     {
+      "id": "af858b5b014a47ed5c44dd646f3a8a9f",
+      "title": "OpenAI’s Sam Altman, Apple’s Tim Cook become latest CEOs to criticise ICE after Minneapolis killing",
+      "link": "https://www.thehindu.com/sci-tech/technology/openais-sam-altman-tells-employees-ice-is-going-too-far-after-minnesota-killings/article70559288.ece",
+      "summary": "OpenAI CEO Sam Altman told employees in an internal message that ICE is “going too far” with its immigration crackdown",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 14:15:22 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b8f5f5dd8428a366168c941d0873f741",
       "title": "Strong push for local aircraft leasing marks Wings India 2026 opening session",
       "link": "https://www.thehindu.com/news/national/strong-push-for-local-aircraft-leasing-marks-wings-india-2026-opening-session/article70560017.ece",
@@ -5254,6 +5267,19 @@
       "lang": "en"
     },
     {
+      "id": "cf8e4fade6675878cda0fddd82d76b00",
+      "title": "UGC के खिलाफ करणी सेना का उग्र प्रदर्शन, लखनऊ में कपड़े उतारकर किया विरोध",
+      "link": "https://www.patrika.com/lucknow-news/ugc-act-2026-karni-sena-violent-protest-taking-off-clothes-lucknow-students-aligation-on-bjp-government-20299222",
+      "summary": "Karni Sena Violent Protest against UGC Act 2026: यूनिवर्सिटी ग्रांट्स कमिशन (UGC) के नए नियमों के विरोध में लखनऊ में करणी सेना के कार्यकर्ताओं ने जोरदार प्रदर्शन किया। इस दौरान कार्यकर्ताओं ने अपने कपड़े फाड़ दिए और अर्धनग्न होकर सड़क पर उतर आए। प्रदर्शनकारियों का कहना था कि सरकार की नीतियों ने उन्हें अपमानित कर दिया है और ‘सरकार ने हमें नंगा कर दिया है।’",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 13:48:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "766e4a73878471c5ecbf123bc5e7851d",
       "title": "किराना की दुकान से 25 हजार रुपये चोरी",
       "link": "https://www.livehindustan.com/uttar-pradesh/azamgarh/story-robbery-in-azamgarh-youth-steals-25-000-from-grocery-store-caught-on-cctv-201769588273291.html",
@@ -5501,19 +5527,6 @@
       "lang": "en"
     },
     {
-      "id": "e0cc07834c458e8d4b786c6d2ab60a84",
-      "title": "Trump warns Iraq against returning former PM al-Maliki to power amid worries about Iran influence",
-      "link": "https://www.thehindu.com/news/international/trump-warns-iraq-against-returning-former-pm-al-maliki-to-power-amid-worries-about-iran-influence/article70560131.ece",
-      "summary": "Caretaker PM Mohammed Shia al-Sudani's bloc won the largest share of seats in November's parliamentary elections. But he stepped aside earlier this month after he was unable to form a government",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 13:27:26 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "912c5799217cb60ff642d51493753763",
       "title": "ट्रेन की चपेट मे आने से युवक की मौत",
       "link": "https://www.livehindustan.com/uttar-pradesh/sonbhadra/story-25-year-old-man-dies-after-being-hit-by-train-in-bina-project-area-201769586952699.html",
@@ -5524,6 +5537,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f525a1af3fdcd9825eaa97660d6d2618",
+      "title": "Man wounded after exchanging gunfire with Border Patrol agents near U.S.-Mexico border",
+      "link": "https://www.thehindu.com/news/international/man-wounded-after-exchanging-gunfire-with-border-patrol-agents-near-us-mexico-border/article70560068.ece",
+      "summary": "Agents followed the truck before Schlegel crashed and fled on foot, then allegedly threw rocks at a government helicopter before he was apprehended, the records show",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 13:25:21 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -5628,6 +5654,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c77497377d6dbcf2b2c7e69e694b9ea8",
+      "title": "Japan’s last pair of pandas have arrived back in China",
+      "link": "https://www.thehindu.com/news/international/japans-last-pair-of-pandas-have-arrived-back-in-china/article70559875.ece",
+      "summary": "The twins Xiao Xiao and Lei Lei have an adoring fan base in Japan, where thousands of people flocked to Tokyo's Ueno Zoo ahead of their departure",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 13:20:16 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -5813,19 +5852,6 @@
       "lang": "en"
     },
     {
-      "id": "f525a1af3fdcd9825eaa97660d6d2618",
-      "title": "Man wounded after exchanging gunfire with Border Patrol agents near U.S.-Mexico border",
-      "link": "https://www.thehindu.com/news/international/man-wounded-after-exchanging-gunfire-with-border-patrol-agents-near-us-mexico-border/article70560068.ece",
-      "summary": "Agents followed the truck before Schlegel crashed and fled on foot, then allegedly threw rocks at a government helicopter before he was apprehended, the records show",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 13:05:20 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "5ea5bc50f3fc5bab7f1f53ac1f1a87e8",
       "title": "Govt committed to true social justice: President Murmu tells Parliament",
       "link": "https://www.thehindu.com/news/national/govt-committed-to-true-social-justice-president-murmu-tells-parliament/article70560122.ece",
@@ -5930,6 +5956,19 @@
       "lang": "en"
     },
     {
+      "id": "30c1159a23ffbc947b75c921cc2061f1",
+      "title": "Russia, India to hold joint naval drills in February, TASS reports",
+      "link": "https://www.thehindu.com/news/international/russia-india-to-hold-joint-naval-drills-in-february-tass-reports/article70559918.ece",
+      "summary": "A frigate of the ‌Russian Navy's Pacific Fleet ‍would leave the port of ‍Muscat in Oman to take part in the Milan-2026 exercise",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 12:53:14 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0ea3487bc20444a56a1c96cefb9f4c75",
       "title": "Who was Alex Pretti, the intensive care nurse shot dead in Minneapolis?",
       "link": "https://www.bbc.com/news/articles/c62r4g590wqo?at_medium=RSS&at_campaign=rss",
@@ -6017,19 +6056,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "30c1159a23ffbc947b75c921cc2061f1",
-      "title": "Russia, India to hold joint naval drills in February, TASS reports",
-      "link": "https://www.thehindu.com/news/international/russia-india-to-hold-joint-naval-drills-in-february-tass-reports/article70559918.ece",
-      "summary": "A frigate of the ‌Russian Navy's Pacific Fleet ‍would leave the port of ‍Muscat in Oman to take part in the Milan-2026 exercise",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 12:41:29 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -6159,19 +6185,6 @@
       "timestamp": "Wed, 28 Jan 2026 12:30:43 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "c77497377d6dbcf2b2c7e69e694b9ea8",
-      "title": "Japan’s last pair of pandas have arrived back in China",
-      "link": "https://www.thehindu.com/news/international/japans-last-pair-of-pandas-have-arrived-back-in-china/article70559875.ece",
-      "summary": "The twins Xiao Xiao and Lei Lei have an adoring fan base in Japan, where thousands of people flocked to Tokyo's Ueno Zoo ahead of their departure",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 12:30:01 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -6684,6 +6697,19 @@
       "lang": "en"
     },
     {
+      "id": "d3211a71b6cf59f324a7a23d10585452",
+      "title": "South Korea's former first lady sentenced to 20 months in prison for corruption",
+      "link": "https://www.thehindu.com/news/international/south-koreas-former-first-lady-sentenced-to-20-months-in-prison-for-corruption/article70559790.ece",
+      "summary": "The court cleared Kim, who is the wife of ex-President Yoon Suk Yeol who was ousted from office last year, on charges of stock price manipulation and violating the political funds act",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 12:06:06 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "5767c37e28cb7730f0538205ea933d03",
       "title": "Sitapur: औचक निरीक्षण पर निकले डीएम के काफिले की गाड़ियां आपस में टकराईं, बाल बाल बचे जिलाधिकारी",
       "link": "https://www.amarujala.com/lucknow/sitapur-the-vehicles-of-the-dm-who-was-out-on-a-surprise-inspection-collided-with-each-other-2026-01-28",
@@ -6811,19 +6837,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "d3211a71b6cf59f324a7a23d10585452",
-      "title": "South Korea's former first lady sentenced to 20 months in prison for corruption",
-      "link": "https://www.thehindu.com/news/international/south-koreas-former-first-lady-sentenced-to-20-months-in-prison-for-corruption/article70559790.ece",
-      "summary": "The court cleared Kim, who is the wife of ex-President Yoon Suk Yeol who was ousted from office last year, on charges of stock price manipulation and violating the political funds act",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 11:56:29 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -7204,6 +7217,19 @@
       "lang": "en"
     },
     {
+      "id": "6d57d76da3496401809d7d8c13d943c4",
+      "title": "ICE agent rebuffed after attempting to enter Ecuadorian consulate in Minneapolis",
+      "link": "https://www.thehindu.com/news/international/ice-agent-rebuffed-after-attempting-to-enter-ecuadorian-consulate-in-minneapolis/article70559272.ece",
+      "summary": "Consulate officials immediately prevented the ICE officer from entering the consular building, thus ensuring the protection of the Ecuadorians who were present at the time, says the Ministry",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 11:30:15 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a9a41c71e91f7c1a9afbd32a22f13869",
       "title": "Air crash which killed Ajit Pawar to be probed, says Maharashtra Deputy CM Eknath Shinde",
       "link": "https://www.thehindu.com/news/national/air-crash-which-killed-ajit-pawar-to-be-probed-says-maharashtra-deputy-cm-eknath-shinde/article70559680.ece",
@@ -7383,6 +7409,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a93528093844f60868b764d2cc954923",
+      "title": "Man disrupts Ilhan Omar event in Minnesota, sprays her with liquid",
+      "link": "https://www.thehindu.com/news/international/man-disrupts-ilhan-omar-event-in-minnesota-sprays-her-with-liquid/article70559316.ece",
+      "summary": "Video showed a ​man surging toward the U.S. lawmaker at the lectern and spraying a stream of liquid at Ilhan Omar",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 11:18:02 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -8179,6 +8218,19 @@
       "lang": "en"
     },
     {
+      "id": "a9de7dc38cccac8c1e9f4886a40a771e",
+      "title": "U.S. to conduct multi-day military exercise in West Asia",
+      "link": "https://www.thehindu.com/news/international/us-to-conduct-multi-day-military-exercise-in-west-asia/article70559205.ece",
+      "summary": "The exercise will “demonstrate the ability to deploy, disperse, and sustain combat airpower across” West Asia, the U.S. Air Force component of Central Command",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 10:35:11 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e31be144c55f129349bcb76c00440ddf",
       "title": "गंगा दर्शन आवास योजना में अवैध निर्माण पर गरजा बुलडोजर",
       "link": "https://www.livehindustan.com/uttar-pradesh/prayagraj/story-illegal-construction-demolished-by-prayagraj-development-authority-in-ganga-darshan-housing-scheme-201769576689233.html",
@@ -8384,6 +8436,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "626b3f469ea607cbf6b344fd3a33124c",
+      "title": "TikTok settles as social media giants face landmark trial over youth addiction claims",
+      "link": "https://www.thehindu.com/sci-tech/technology/tiktok-settles-as-social-media-giants-face-landmark-trial-over-youth-addiction-claims/article70558244.ece",
+      "summary": "A lawyer for the plaintiff said in a statement on January 27, that TikTok remains a defendant in the other personal injury cases, and that the trial will proceed as scheduled against Meta and YouTube.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 10:19:37 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -8631,19 +8696,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "a93528093844f60868b764d2cc954923",
-      "title": "Man disrupts Ilhan Omar event in Minnesota, sprays her with liquid",
-      "link": "https://www.thehindu.com/news/international/man-disrupts-ilhan-omar-event-in-minnesota-sprays-her-with-liquid/article70559316.ece",
-      "summary": "Video showed a ​man surging toward the U.S. lawmaker at the lectern and spraying a stream of liquid at Ilhan Omar",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 10:02:34 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -9154,6 +9206,19 @@
       "lang": "en"
     },
     {
+      "id": "043db8477afc531a22be6e47cd9321b9",
+      "title": "What’s happening in Syria’s Kurdish regions? | Explained",
+      "link": "https://www.thehindu.com/news/international/whats-happening-in-syrias-kurdish-regions-explained/article70557110.ece",
+      "summary": "How was the Democratic Autonomous Administration of North and East Syria or Rojava established? Why did the Shaara-Abdi agreement fall through? Why does Turkiye support the Syrian government forces? What has been the U.S.’s position? What does the ceasefire agreement demand?",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 09:20:09 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "96dbc9f8022c8a23d851e6a8a0463396",
       "title": "'किसी के निधन पर घटिया राजनीति करना दुखद': ममता बनर्जी पर भड़के फडणवीस, बोले- ओछी राजनीति कर रहीं बंगाल की CM",
       "link": "https://www.amarujala.com/india-news/devendra-fadnavis-on-west-bengal-cm-mamata-banerjee-s-statement-on-dcm-ajit-pawar-s-death-2026-01-28",
@@ -9204,19 +9269,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "6d57d76da3496401809d7d8c13d943c4",
-      "title": "ICE agent rebuffed after attempting to enter Ecuadorian consulate in Minneapolis",
-      "link": "https://www.thehindu.com/news/international/ice-agent-rebuffed-after-attempting-to-enter-ecuadorian-consulate-in-minneapolis/article70559272.ece",
-      "summary": "Consulate officials immediately prevented the ICE officer from entering the consular building, thus ensuring the protection of the Ecuadorians who were present at the time, says the Ministry",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 09:18:36 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "27824d9a55d7f3401599d385757e41c6",
@@ -9410,19 +9462,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "af858b5b014a47ed5c44dd646f3a8a9f",
-      "title": "OpenAI’s Sam Altman, Apple’s Tim Cook become latest CEOs to criticise ICE after Minneapolis killing",
-      "link": "https://www.thehindu.com/sci-tech/technology/openais-sam-altman-tells-employees-ice-is-going-too-far-after-minnesota-killings/article70559288.ece",
-      "summary": "OpenAI CEO Sam Altman told employees in an internal message that ICE is “going too far” with its immigration crackdown",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 09:02:28 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -9765,32 +9804,6 @@
       "lang": "en"
     },
     {
-      "id": "a9de7dc38cccac8c1e9f4886a40a771e",
-      "title": "U.S. to conduct multi-day military exercise in West Asia",
-      "link": "https://www.thehindu.com/news/international/us-to-conduct-multi-day-military-exercise-in-west-asia/article70559205.ece",
-      "summary": "The exercise will “demonstrate the ability to deploy, disperse, and sustain combat airpower across” West Asia, the U.S. Air Force component of Central Command",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 08:31:55 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "043db8477afc531a22be6e47cd9321b9",
-      "title": "What’s happening in Syria’s Kurdish regions? | Explained",
-      "link": "https://www.thehindu.com/news/international/whats-happening-in-syrias-kurdish-regions-explained/article70557110.ece",
-      "summary": "How was the Democratic Autonomous Administration of North and East Syria or Rojava established? Why did the Shaara-Abdi agreement fall through? Why does Turkiye support the Syrian government forces? What has been the U.S.’s position? What does the ceasefire agreement demand?",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 08:30:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "a7c48517c8cccda74a14c5ff34ba853f",
       "title": "Noida News: जेसीबी की टक्कर से गिरे बिजली के खंभे से कार क्षतिग्रस्त",
       "link": "https://www.amarujala.com/delhi-ncr/noida/a-car-was-damaged-when-a-jcb-collided-with-an-electric-pole-that-fell-grnoida-news-c-491-1-gnd1001-3631-2026-01-28",
@@ -9814,6 +9827,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "31cc7866ea7c86f07256ec8fec20082d",
+      "title": "The impact of India-EU FTA on AI and semiconductor tech",
+      "link": "https://www.thehindu.com/sci-tech/science/the-impact-of-india-eu-fta-for-ai-and-semiconductor-tech/article70557666.ece",
+      "summary": "The India-EU Free Trade Agreement moves beyond supply chains to operationalise joint R&D in advanced semiconductor integration. It also formally links the European AI Office with India’s National AI Mission",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 08:28:00 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -9853,6 +9879,19 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "0d637350428afc4e5bf6d3a9a1e6a880",
+      "title": "Russian strikes in Ukraine kill 12, target passenger train",
+      "link": "https://www.thehindu.com/news/international/russian-strikes-in-ukraine-kill-12-target-passenger-train/article70559186.ece",
+      "summary": "In northeastern Kharkiv region, a drone hit a carriage of a train transporting nearly 200 passengers, killing at least five people, Ukraine's Prime Minister Yulia Svyrydenko posted on X",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 08:20:23 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -10035,6 +10074,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "25559b8aa0250aff9179569d6a2d264d",
+      "title": "Canada PM Carney denies retracting Davos comments in talk with Trump",
+      "link": "https://www.thehindu.com/news/international/canada-pm-carney-denies-retracting-davos-comments-in-talk-with-trump/article70559177.ece",
+      "summary": "U.S. Treasury Secretary Scott Bessent said that during the call, Mr. Carney “was very aggressively walking back” some of the remarks he made during a speech in Davos",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 08:03:11 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -10688,6 +10740,19 @@
       "lang": "en"
     },
     {
+      "id": "9c34e4ef62958d4fdd7167a6c94a2ca3",
+      "title": "Trump says will 'de-escalate' in Minneapolis after shooting backlash",
+      "link": "https://www.thehindu.com/news/international/trump-says-will-de-escalate-a-little-bit-in-minneapolis/article70558495.ece",
+      "summary": "Trump said Bovino was \"very good, but he's a pretty out there kind of a guy\", while saying of his shake-up in Minneapolis, \"I don't think it's a pullback, it's a little bit of a change.\"",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 07:06:01 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f5e3afab11aeacd5ca99b350d3c871a8",
       "title": "ग्रेटर नोएडा: डिजी विद्या शाला से बदलेगी सरकारी स्कूलों की तस्वीर, तुगलपुर में कार्यक्रम का शुभारंभ",
       "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-greater-noida-digi-vidya-shala-will-transform-image-of-government-schools-2026-01-28",
@@ -10805,19 +10870,6 @@
       "lang": "en"
     },
     {
-      "id": "0d637350428afc4e5bf6d3a9a1e6a880",
-      "title": "Russian strikes in Ukraine kill 12, target passenger train",
-      "link": "https://www.thehindu.com/news/international/russian-strikes-in-ukraine-kill-12-target-passenger-train/article70559186.ece",
-      "summary": "In northeastern Kharkiv region, a drone hit a carriage of a train transporting nearly 200 passengers, killing at least five people, Ukraine's Prime Minister Yulia Svyrydenko posted on X",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 06:58:22 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "bbcd10bec60345de15c96332879fd865",
       "title": "US congresswoman Ilhan Omar sprayed with liquid at town hall meeting",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/1/28/us-congresswoman-ilhan-omar-sprayed-with-liquid-at-town-hall-meeting?traffic_source=rss",
@@ -10893,19 +10945,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
-      "lang": "en"
-    },
-    {
-      "id": "25559b8aa0250aff9179569d6a2d264d",
-      "title": "Canada PM Carney denies retracting Davos comments in talk with Trump",
-      "link": "https://www.thehindu.com/news/international/canada-pm-carney-denies-retracting-davos-comments-in-talk-with-trump/article70559177.ece",
-      "summary": "U.S. Treasury Secretary Scott Bessent said that during the call, Mr. Carney “was very aggressively walking back” some of the remarks he made during a speech in Davos",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 06:54:25 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -11193,6 +11232,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "a36c31b0a27c616139605c127dc46e0a",
+      "title": "Trump administration sued over 2 deaths in boat strike off Venezuela's coast",
+      "link": "https://www.thehindu.com/news/international/trump-administration-sued-over-2-deaths-in-boat-strike-off-venezuelas-coast/article70559168.ece",
+      "summary": "White House spokesperson Anna Kelly, in a statement, defended the strike, saying it was “conducted against designated narcoterrorists bringing deadly poison to our shores”.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 06:31:01 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "eee47b11813b5a3f68cead5a646e6d4f",
@@ -11572,6 +11624,19 @@
       "lang": "hi"
     },
     {
+      "id": "ea5ab2c6ad8f838cfe35fb12d510cb75",
+      "title": "Thousands rally in Belgrade against crackdown on student-led protests",
+      "link": "https://www.thehindu.com/news/international/thousands-rally-in-belgrade-against-crackdown-on-student-led-protests/article70559167.ece",
+      "summary": "The Belgrade rally came days after riot police evicted protesting students from a faculty building in Novi Sad in a demonstration of force against possible attempts to renew university strikes.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 05:59:02 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1cff36d0fcf4c8c9f4b52b13395e14c2",
       "title": "India curbs ‘grocery under 10 minutes’. But riders must still fatally race",
       "link": "https://www.aljazeera.com/features/2026/1/28/india-curbs-grocery-under-10-minutes-but-riders-must-still-fatally-race?traffic_source=rss",
@@ -11819,19 +11884,6 @@
       "lang": "hi"
     },
     {
-      "id": "9c34e4ef62958d4fdd7167a6c94a2ca3",
-      "title": "Trump says will 'de-escalate' in Minneapolis after shooting backlash",
-      "link": "https://www.thehindu.com/news/international/trump-says-will-de-escalate-a-little-bit-in-minneapolis/article70558495.ece",
-      "summary": "Trump said Bovino was \"very good, but he's a pretty out there kind of a guy\", while saying of his shake-up in Minneapolis, \"I don't think it's a pullback, it's a little bit of a change.\"",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 05:14:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "1030fdc09d75e161398ddf8e71532f0f",
       "title": "क्रिकेट प्रतियोगिता: संस्कृत में कमेंट्री, माथे पर त्रिपुंड, धोती- कुर्ता पहन बटुकों ने लगाए चौके-छक्के",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/sanskrit-themed-cricket-competition-held-at-jaynarayan-inter-college-in-varanasi-2026-01-28",
@@ -11881,6 +11933,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "a5a8f95ba24dd17da14cab685e0a2027",
+      "title": "Netanyahu says Israel focusing on disarming Hamas, demilitarising Gaza",
+      "link": "https://www.thehindu.com/news/international/netanyahu-says-israel-focusing-on-disarming-hamas-demilitarising-gaza/article70558494.ece",
+      "summary": "The group has repeatedly said disarmament is a red line, but it has also suggested it would be open to handing over its weapons to a Palestinian governing authority.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 05:05:22 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -11949,19 +12014,6 @@
       "lang": "en"
     },
     {
-      "id": "a5a8f95ba24dd17da14cab685e0a2027",
-      "title": "Netanyahu says Israel focusing on disarming Hamas, demilitarising Gaza",
-      "link": "https://www.thehindu.com/news/international/netanyahu-says-israel-focusing-on-disarming-hamas-demilitarising-gaza/article70558494.ece",
-      "summary": "The group has repeatedly said disarmament is a red line, but it has also suggested it would be open to handing over its weapons to a Palestinian governing authority.",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 04:45:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e286d34f7e082af3fd52af5c7592401f",
       "title": "PM Modi In NCC Rally: एनसीसी की रैली में बोले पीएम मोदी रैली, महिला कैडेट्स की संख्या उत्साह बढ़ाने वाली",
       "link": "https://www.amarujala.com/india-news/pm-modi-attends-annual-ncc-pm-rally-at-cariappa-parade-ground-in-delhi-2026-01-28",
@@ -11973,19 +12025,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "a36c31b0a27c616139605c127dc46e0a",
-      "title": "Trump administration sued over 2 deaths in boat strike off Venezuela's coast",
-      "link": "https://www.thehindu.com/news/international/trump-administration-sued-over-2-deaths-in-boat-strike-off-venezuelas-coast/article70559168.ece",
-      "summary": "White House spokesperson Anna Kelly, in a statement, defended the strike, saying it was “conducted against designated narcoterrorists bringing deadly poison to our shores”.",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 04:39:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "82d30d20349eaf8a193fa11f702b46eb",
@@ -12248,6 +12287,19 @@
       "lang": "hi"
     },
     {
+      "id": "a9ec2eb0cf41378c6477b94f6f557b52",
+      "title": "Nine Nigerian troops killed, several missing in jihadist ambush",
+      "link": "https://www.thehindu.com/news/international/nigerian-troops-killed-several-missing-in-jihadist-ambush/article70558485.ece",
+      "summary": "Eight soldiers managed to return to base while the rest remain missing, including their commander with the rank of a major, the officer said",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 04:04:10 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "30c8a9c1e8ff7f2617395e8cb0d693da",
       "title": "Lucknow: महिला ने भांजे के साथ आग लगाकर जान देने का किया प्रयास...पुलिस ने पकड़ा; सामने आया ये सच",
       "link": "https://www.amarujala.com/lucknow/lucknow-woman-attempts-suicide-by-setting-herself-on-fire-with-her-nephew-police-intervene-the-truth-behind-2026-01-28",
@@ -12284,19 +12336,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "ea5ab2c6ad8f838cfe35fb12d510cb75",
-      "title": "Thousands rally in Belgrade against crackdown on student-led protests",
-      "link": "https://www.thehindu.com/news/international/thousands-rally-in-belgrade-against-crackdown-on-student-led-protests/article70559167.ece",
-      "summary": "The Belgrade rally came days after riot police evicted protesting students from a faculty building in Novi Sad in a demonstration of force against possible attempts to renew university strikes.",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 03:55:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -12389,19 +12428,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "a9ec2eb0cf41378c6477b94f6f557b52",
-      "title": "Nine Nigerian troops killed, several missing in jihadist ambush",
-      "link": "https://www.thehindu.com/news/international/nigerian-troops-killed-several-missing-in-jihadist-ambush/article70558485.ece",
-      "summary": "Eight soldiers managed to return to base while the rest remain missing, including their commander with the rank of a major, the officer said",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 03:42:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "50cb6e3026d31d2807d3002ac6b55d7f",
@@ -12506,6 +12532,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "14ff98e34c5ab9629be451330812213f",
+      "title": "World Bank approves $200 million to help Lebanon's vulnerable",
+      "link": "https://www.thehindu.com/news/international/world-bank-approves-aid-to-help-lebanons-vulnerable/article70558481.ece",
+      "summary": "The World Bank will provide cash transfers to poor Lebanese households and increase access to economic opportunities and social services, particularly for women, youth, and the vulnerable.",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 03:22:58 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "564501b2520e2153d483ece58fa91fb6",
@@ -12701,6 +12740,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "945556faec15503f310b40f9453a4882",
+      "title": "French Government survives no-confidence votes on expenditure part of 2026 budget",
+      "link": "https://www.thehindu.com/news/international/french-government-survives-no-confidence-votes-on-expenditure-part-of-2026-budget/article70558334.ece",
+      "summary": "The full 2026 budget bill now goes to the Senate Upper House and will then have ‌to go back to the lower ‌house again",
+      "date": "2026-01-28",
+      "timestamp": "Wed, 28 Jan 2026 03:06:26 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "f824d7d2d6c06f0dd3a3aef4b5882f59",
@@ -13779,19 +13831,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "945556faec15503f310b40f9453a4882",
-      "title": "French Government survives no-confidence votes on expenditure part of 2026 budget",
-      "link": "https://www.thehindu.com/news/international/french-government-survives-no-confidence-votes-on-expenditure-part-of-2026-budget/article70558334.ece",
-      "summary": "The full 2026 budget bill now goes to the Senate Upper House and will then have ‌to go back to the lower ‌house again",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 02:44:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -15209,19 +15248,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
-      "lang": "en"
-    },
-    {
-      "id": "14ff98e34c5ab9629be451330812213f",
-      "title": "World Bank approves $200 million to help Lebanon's vulnerable",
-      "link": "https://www.thehindu.com/news/international/world-bank-approves-aid-to-help-lebanons-vulnerable/article70558481.ece",
-      "summary": "The World Bank will provide cash transfers to poor Lebanese households and increase access to economic opportunities and social services, particularly for women, youth, and the vulnerable.",
-      "date": "2026-01-28",
-      "timestamp": "Wed, 28 Jan 2026 01:41:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -17643,19 +17669,6 @@
       "lang": "en"
     },
     {
-      "id": "626b3f469ea607cbf6b344fd3a33124c",
-      "title": "TikTok settles as social media giants face landmark trial over youth addiction claims",
-      "link": "https://www.thehindu.com/sci-tech/technology/tiktok-settles-as-social-media-giants-face-landmark-trial-over-youth-addiction-claims/article70558244.ece",
-      "summary": "A lawyer for the plaintiff said in a statement on January 27, that TikTok remains a defendant in the other personal injury cases, and that the trial will proceed as scheduled against Meta and YouTube.",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 23:52:22 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b9e41dae43ece1f60dcd1ab88abd4d95",
       "title": "Karnataka’s MF industry growing by over 17% annually: Franklin Templeton",
       "link": "https://www.thehindu.com/news/national/karnataka/karnatakas-mf-industry-growing-by-over-17-annually-franklin-templeton/article70557193.ece",
@@ -18202,6 +18215,19 @@
       "lang": "en"
     },
     {
+      "id": "bbbfd3d5a56ef428953f3c4ad5528b18",
+      "title": "Doomsday Clock is 85 seconds to midnight",
+      "link": "https://www.thehindu.com/news/international/doomsday-clock-is-85-seconds-to-midnight/article70557905.ece",
+      "summary": "The Doomsday Clock was created in 1947 as a metaphor for the likelihood of a human-made global catastrophe",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 23:04:32 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2c2597498173428034cfb7380d0628dc",
       "title": "Japan-U.S. alliance would crumble if Tokyo ignored Taiwan crisis, PM Takaichi says",
       "link": "https://www.thehindu.com/news/international/japan-us-alliance-would-crumble-if-tokyo-ignored-taiwan-crisis-pm-takaichi-says/article70558165.ece",
@@ -18288,6 +18314,19 @@
       "timestamp": "Tue, 27 Jan 2026 22:51:59 +0530",
       "section": "National",
       "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e5c8bfc74f7e66a0b2da2493167b841d",
+      "title": "Trump says Iran wants talks as U.S. aircraft carrier deploys",
+      "link": "https://www.thehindu.com/news/international/trump-says-iran-wants-talks-as-us-aircraft-carrier-deploys/article70558151.ece",
+      "summary": "Washington has not ruled out new military intervention against Tehran over its crackdown on protests, which according to rights groups saw thousands of people killed within days",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 22:51:47 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -18483,32 +18522,6 @@
       "timestamp": "Tue, 27 Jan 2026 22:49:18 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "e5c8bfc74f7e66a0b2da2493167b841d",
-      "title": "Trump says Iran wants talks as U.S. aircraft carrier deploys",
-      "link": "https://www.thehindu.com/news/international/trump-says-iran-wants-talks-as-us-aircraft-carrier-deploys/article70558151.ece",
-      "summary": "Washington has not ruled out new military intervention against Tehran over its crackdown on protests, which according to rights groups saw thousands of people killed within days",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 22:49:18 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "bbbfd3d5a56ef428953f3c4ad5528b18",
-      "title": "Doomsday Clock is 85 seconds to midnight",
-      "link": "https://www.thehindu.com/news/international/doomsday-clock-is-85-seconds-to-midnight/article70557905.ece",
-      "summary": "The Doomsday Clock was created in 1947 as a metaphor for the likelihood of a human-made global catastrophe",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 22:49:01 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -19076,19 +19089,6 @@
       "id": "ed10fd3b16b740b2c298392dc60289eb",
       "title": "The impact of India-EU FTA for AI and semiconductor tech",
       "link": "https://www.thehindu.com/sci-tech/technology/the-impact-of-india-eu-fta-for-ai-and-semiconductor-tech/article70557666.ece",
-      "summary": "The India-EU Free Trade Agreement moves beyond supply chains to operationalise joint R&D in advanced semiconductor integration. It also formally links the European AI Office with India’s National AI Mission",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 22:38:58 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "31cc7866ea7c86f07256ec8fec20082d",
-      "title": "The impact of India-EU FTA on AI and semiconductor tech",
-      "link": "https://www.thehindu.com/sci-tech/science/the-impact-of-india-eu-fta-for-ai-and-semiconductor-tech/article70557666.ece",
       "summary": "The India-EU Free Trade Agreement moves beyond supply chains to operationalise joint R&D in advanced semiconductor integration. It also formally links the European AI Office with India’s National AI Mission",
       "date": "2026-01-27",
       "timestamp": "Tue, 27 Jan 2026 22:38:58 +0530",
@@ -20162,6 +20162,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "69eafba939ab10436cfc93df8d0b9822",
+      "title": "At summit, EU asked India to put ‘pressure’ on Russia to end war, says Kaja Kallas",
+      "link": "https://www.thehindu.com/news/international/at-summit-eu-asked-india-to-put-pressure-on-russia-to-end-war-says-kaja-kallas/article70556950.ece",
+      "summary": "EU top diplomat takes aim at U.S. tariffs, China ‘coercion’; calls Russia ‘existential threat’",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 21:22:27 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -21382,19 +21395,6 @@
       "timestamp": "Tue, 27 Jan 2026 20:29:16 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "69eafba939ab10436cfc93df8d0b9822",
-      "title": "At summit, EU asked India to put ‘pressure’ on Russia to end war, says Kaja Kallas",
-      "link": "https://www.thehindu.com/news/international/at-summit-eu-asked-india-to-put-pressure-on-russia-to-end-war-says-kaja-kallas/article70556950.ece",
-      "summary": "EU top diplomat takes aim at U.S. tariffs, China ‘coercion’; calls Russia ‘existential threat’",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 20:28:53 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -25144,6 +25144,19 @@
       "lang": "en"
     },
     {
+      "id": "7a690880c5cfd32bf217c01703ac6e01",
+      "title": "U.S. snowstorm: At least 30 people dead from effects as more freezing cold pummels U.S.",
+      "link": "https://www.thehindu.com/news/international/severe-us-snowstorm-thousands-shiver-without-electricity-flights-scheduled-cancelled/article70555069.ece",
+      "summary": "Many U.S. residents are facing another night of below-freezing temperatures and no electricity after a massive winter storm dumped more snow in Northeast and left parts of the South coated in ice",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 15:49:25 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "53a7f77e9bcc533ca540324166852c99",
       "title": "जनरल को 10% आरक्षण मिला तब विरोध नहीं हुआ, UGC पर बोले योगी के मंत्री संजय निषाद",
       "link": "https://www.livehindustan.com/uttar-pradesh/there-was-no-protest-when-general-category-got-10-reservation-says-yogi-government-minister-sanjay-nishad-on-ugc-201769508644338.html",
@@ -25204,6 +25217,19 @@
       "timestamp": "Tue, 27 Jan 2026 15:44:05 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9567371a204aec52b59ee8b02655a851",
+      "title": "Firefighters order evacuation as heatwave bakes Australia",
+      "link": "https://www.thehindu.com/news/international/firefighters-order-evacuation-as-heatwave-bakes-australia/article70555822.ece",
+      "summary": "Hot air has settled across swathes of Victoria, South Australia, and New South Wales",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 15:39:43 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -25469,6 +25495,19 @@
       "lang": "en"
     },
     {
+      "id": "8fe5217e6ab5398e3dedcf9a0b0f5cf5",
+      "title": "North Korea fires ballistic missile towards Sea of Japan: Tokyo",
+      "link": "https://www.thehindu.com/news/international/north-korea-fires-ballistic-missile-south-korea-japan-updates/article70555685.ece",
+      "summary": "Analysts say this drive is aimed at improving precision strike capabilities, challenging the United States as well as South Korea, and testing weapons before potentially exporting them to Russia.",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 14:38:05 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "bb28b0773f6804428bfca7bde6e03699",
       "title": "CM Siddaramaiah, D.K. Shivakumar court arrest protesting against MGNREGA scrapping",
       "link": "https://www.thehindu.com/news/national/karnataka/cm-siddaramaiah-dk-shivakumar-court-arrest-protesting-against-mgnrega-scrapping/article70555924.ece",
@@ -25700,19 +25739,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "9567371a204aec52b59ee8b02655a851",
-      "title": "Firefighters order evacuation as heatwave bakes Australia",
-      "link": "https://www.thehindu.com/news/international/firefighters-order-evacuation-as-heatwave-bakes-australia/article70555822.ece",
-      "summary": "Hot air has settled across swathes of Victoria, South Australia, and New South Wales",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 14:10:34 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -26301,19 +26327,6 @@
       "lang": "en"
     },
     {
-      "id": "8fe5217e6ab5398e3dedcf9a0b0f5cf5",
-      "title": "North Korea fires ballistic missile towards Sea of Japan: Tokyo",
-      "link": "https://www.thehindu.com/news/international/north-korea-fires-ballistic-missile-south-korea-japan-updates/article70555685.ece",
-      "summary": "Analysts say this drive is aimed at improving precision strike capabilities, challenging the United States as well as South Korea, and testing weapons before potentially exporting them to Russia.",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 13:03:41 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "745c447e99116fdfc151c57a8b3aee90",
       "title": "बिजनौर : बदला मौसम का मिजाज, बारिश से बढ़ी ठंड",
       "link": "https://www.livehindustan.com/uttar-pradesh/bijnor/story-weather-change-in-district-sudden-rain-and-cold-winds-bring-chill-201769499118908.html",
@@ -26532,6 +26545,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "fd4db03de5139c7ce8e1dc793c33c792",
+      "title": "‘Enough orders from Washington,’ Venezuela interim leader says in address",
+      "link": "https://www.thehindu.com/news/international/enough-orders-from-washington-venezuela-interim-leader-says-in-address/article70555386.ece",
+      "summary": "Venezuela acting President said in an address to oil workers in Anzoategui",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 12:46:03 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -27887,6 +27913,19 @@
       "lang": "hi"
     },
     {
+      "id": "b12f7150dd7a4235c37bbc01c1dbaeae",
+      "title": "U.S. official denies report Border Patrol commander Gregory Bovino ousted",
+      "link": "https://www.thehindu.com/news/international/us-official-denies-report-border-patrol-commander-gregory-bovino-ousted/article70555245.ece",
+      "summary": "The comments follow an article by The Atlantic magazine which reported that Mr. Bovino had been removed from his role as Border Patrol commander at large and will return to his previous department job in California",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 11:29:27 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7f5a05ddc4eaf1e27a89a7a4775e9b3c",
       "title": "Kanpur: रेस्टोरेंट की लिफ्ट में आधे घंटे फंसे रहे मां-बेटा, रेस्क्यू कर निकाले गए",
       "link": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-mother-and-son-trapped-in-restaurant-elevator-for-half-an-hour-rescued-by-authorities-2026-01-27",
@@ -27910,19 +27949,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "fd4db03de5139c7ce8e1dc793c33c792",
-      "title": "‘Enough orders from Washington,’ Venezuela interim leader says in address",
-      "link": "https://www.thehindu.com/news/international/enough-orders-from-washington-venezuela-interim-leader-says-in-address/article70555386.ece",
-      "summary": "Venezuela acting President said in an address to oil workers in Anzoategui",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 11:27:26 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -28105,6 +28131,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e5e6ad2ac06fe6bd6cd037a6b4766241",
+      "title": "U.S. deploys aircraft carrier as Iran warns against attack",
+      "link": "https://www.thehindu.com/news/international/us-deploys-aircraft-carrier-as-iran-warns-against-attack/article70555007.ece",
+      "summary": "U.S. President Donald Trump has previously threatened to intervene, saying last week that Washington was sending a \"massive fleet\" to the region \"just in case\".",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 11:17:26 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -28381,19 +28420,6 @@
       "lang": "en"
     },
     {
-      "id": "b12f7150dd7a4235c37bbc01c1dbaeae",
-      "title": "U.S. official denies report Border Patrol commander Gregory Bovino ousted",
-      "link": "https://www.thehindu.com/news/international/us-official-denies-report-border-patrol-commander-gregory-bovino-ousted/article70555245.ece",
-      "summary": "The comments follow an article by The Atlantic magazine which reported that Mr. Bovino had been removed from his role as Border Patrol commander at large and will return to his previous department job in California",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 10:58:55 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "68906866aa1a94d362f736d39134e4a5",
       "title": "इलाहाबाद हाईकोर्ट के समीप डॉ. भीमराव आंबेडकर की नई प्रतिमा का अनावरण",
       "link": "https://www.livehindustan.com/uttar-pradesh/prayagraj/story-inauguration-of-dr-b-r-ambedkar-s-statue-in-prayagraj-on-republic-day-201769491673400.html",
@@ -28535,6 +28561,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "c5124b6acdb2a37a09c4ceb71f8434ad",
+      "title": "California's Newsom accuses TikTok of suppressing content critical of Trump",
+      "link": "https://www.thehindu.com/news/international/californias-newsom-accuses-tiktok-of-suppressing-content-critical-of-trump/article70555114.ece",
+      "summary": "Gavin Newsom is launching a review of this conduct and is calling on the California Department of Justice ‌to determine whether it violates California law, a post on X from the Governor’s Office adds.",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 10:47:34 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "5cfdb1a3acccdb26db0c044542340ce9",
@@ -28730,6 +28769,32 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "3eea5dee1a7858d4d50128cb2e1c8d62",
+      "title": "Activists say at least 6,126 people killed in Iran's crackdown on nationwide protests",
+      "link": "https://www.thehindu.com/news/international/irans-crackdown-on-nationwide-protests-death-toll-updates/article70555045.ece",
+      "summary": "The new figures came from the U.S.-based Human Rights Activists News Agency, which has been accurate in multiple rounds of unrest in Iran. The group verifies each death with a network of activists on the ground in Iran.",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 10:31:38 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7e7c26a43c4821ae986826b772289e59",
+      "title": "U.S. immigration agents face backlash after Minneapolis killings",
+      "link": "https://www.thehindu.com/news/international/us-immigration-agents-face-backlash-after-minneapolis-killings/article70555065.ece",
+      "summary": "The glut of new recruits to the ICE has caused the standard training course to be shortened from five months to 42 days, causing backlash and accusations of under-training agents before giving them firearms",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 10:29:02 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "b209e662dd929015f37c1c16b3c3457f",
@@ -29330,6 +29395,19 @@
       "lang": "en"
     },
     {
+      "id": "e9d3c56cc1b88be4f607c9258b5ed55d",
+      "title": "Trump says hiking tariffs on South Korean goods to 25%",
+      "link": "https://www.thehindu.com/news/international/trump-says-hiking-tariffs-on-south-korean-goods-to-25/article70554997.ece",
+      "summary": "U.S. President Trump said he was increasing tariff rates \"because the Korean Legislature hasn't enacted our Historic Trade Agreement, which is their prerogative.\"",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 09:26:52 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "fa9d5add9aec5e0a09b5e2b073cd51f9",
       "title": "Who is Greg Bovino, the face of Trump’s Minneapolis crackdown?",
       "link": "https://www.aljazeera.com/news/2026/1/27/who-is-greg-bovino-the-face-of-trumps-minneapolis-crackdown?traffic_source=rss",
@@ -29460,19 +29538,6 @@
       "lang": "en"
     },
     {
-      "id": "c5124b6acdb2a37a09c4ceb71f8434ad",
-      "title": "California's Newsom accuses TikTok of suppressing content critical of Trump",
-      "link": "https://www.thehindu.com/news/international/californias-newsom-accuses-tiktok-of-suppressing-content-critical-of-trump/article70555114.ece",
-      "summary": "Gavin Newsom is launching a review of this conduct and is calling on the California Department of Justice ‌to determine whether it violates California law, a post on X from the Governor’s Office adds.",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 09:01:41 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "994e8c96a87fb27fa348dbc695bf86db",
       "title": "UP: दोस्तों के खौफनाक इरादे समझ नहीं सका...कार से कूदकर बचाई युवक ने जान, अब तक दहशत में है वो",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/forex-trading-scam-youth-kidnapped-by-friends-escapes-by-jumping-from-moving-car-2026-01-27",
@@ -29590,19 +29655,6 @@
       "lang": "hi"
     },
     {
-      "id": "7e7c26a43c4821ae986826b772289e59",
-      "title": "U.S. immigration agents face backlash after Minneapolis killings",
-      "link": "https://www.thehindu.com/news/international/us-immigration-agents-face-backlash-after-minneapolis-killings/article70555065.ece",
-      "summary": "The glut of new recruits to the ICE has caused the standard training course to be shortened from five months to 42 days, causing backlash and accusations of under-training agents before giving them firearms",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 08:40:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "51b66df89f34ec46e8e2028231ab14cb",
       "title": "पारिवारिक कलह से टूटे सगे भाई-बहन, दोनों ने जहर खाकर की आत्महत्या",
       "link": "https://www.livehindustan.com/uttar-pradesh/brother-and-sister-commit-suicide-by-consuming-poison-due-to-family-dispute-in-banda-201769483182208.html",
@@ -29665,32 +29717,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "44d236565f3d04611cfb551ff29bf355",
-      "title": "How is China framing its Antarctic ambitions? | Explained",
-      "link": "https://www.thehindu.com/news/international/how-is-china-framing-its-antarctic-ambitions-explained/article70553958.ece",
-      "summary": "What is the proposed Antarctic Activities and Environmental Protection Law?",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 08:30:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7a690880c5cfd32bf217c01703ac6e01",
-      "title": "U.S. snowstorm: At least 30 people dead from effects as more freezing cold pummels U.S.",
-      "link": "https://www.thehindu.com/news/international/severe-us-snowstorm-thousands-shiver-without-electricity-flights-scheduled-cancelled/article70555069.ece",
-      "summary": "Many U.S. residents are facing another night of below-freezing temperatures and no electricity after a massive winter storm dumped more snow in Northeast and left parts of the South coated in ice",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 08:28:04 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -29859,19 +29885,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3eea5dee1a7858d4d50128cb2e1c8d62",
-      "title": "Activists say at least 6,126 people killed in Iran's crackdown on nationwide protests",
-      "link": "https://www.thehindu.com/news/international/irans-crackdown-on-nationwide-protests-death-toll-updates/article70555045.ece",
-      "summary": "The new figures came from the U.S.-based Human Rights Activists News Agency, which has been accurate in multiple rounds of unrest in Iran. The group verifies each death with a network of activists on the ground in Iran.",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 07:54:47 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -30266,32 +30279,6 @@
       "lang": "en"
     },
     {
-      "id": "e5e6ad2ac06fe6bd6cd037a6b4766241",
-      "title": "U.S. deploys aircraft carrier as Iran warns against attack",
-      "link": "https://www.thehindu.com/news/international/us-deploys-aircraft-carrier-as-iran-warns-against-attack/article70555007.ece",
-      "summary": "U.S. President Donald Trump has previously threatened to intervene, saying last week that Washington was sending a \"massive fleet\" to the region \"just in case\".",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 07:00:29 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "2443cc77bc7249b13bb6bc76c21394c4",
-      "title": "How Venezuela’s oil collapse is plunging Cuba into energy and food crisis",
-      "link": "https://www.thehindu.com/data/how-venezuelas-oil-collapse-is-plunging-cuba-into-energy-and-food-crisis/article70547120.ece",
-      "summary": "Barred from credit markets and stripped of subsidised Venezuelan oil, Cuba is sliding deeper into a foreign exchange crisis that is crippling its economy",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 07:00:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "7396ffa3b42533f19aa6e00e03270faf",
       "title": "Amit Shah: 'सनातन को नजरअंदाज करने वाले कभी सरकार नहीं बना पाएंगे', अमित शाह बोले- संतों का आशीर्वाद जरूरी",
       "link": "https://www.amarujala.com/india-news/amit-shah-says-who-ignore-sanatan-dharma-neverable-form-government-blessings-of-saints-are-essential-2026-01-27",
@@ -30562,19 +30549,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "e9d3c56cc1b88be4f607c9258b5ed55d",
-      "title": "Trump says hiking tariffs on South Korean goods to 25%",
-      "link": "https://www.thehindu.com/news/international/trump-says-hiking-tariffs-on-south-korean-goods-to-25/article70554997.ece",
-      "summary": "U.S. President Trump said he was increasing tariff rates \"because the Korean Legislature hasn't enacted our Historic Trade Agreement, which is their prerogative.\"",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 06:24:49 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -31189,6 +31163,19 @@
       "lang": "en"
     },
     {
+      "id": "eff0821dc9cd47fadf04a0b6a0b0cbe8",
+      "title": "Nigerian military officers to face trial over 2025 coup plot",
+      "link": "https://www.thehindu.com/news/international/nigerian-military-officers-to-face-trial-over-2025-coup-plot/article70554367.ece",
+      "summary": "No date was given for the trials. The officers could face the death penalty if found guilty, according to legal experts.",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 04:17:38 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "eb4bf3b82a7b22e4513929660d58ae77",
       "title": "Sonbhadra News: यूजीसी की नीतियों के खिलाफ सवर्ण आर्मी का प्रदर्शन, ज्ञापन सौंपकर जताया विरोध",
       "link": "https://www.amarujala.com/uttar-pradesh/sonebhadra/savarna-army-protests-against-ugc-policies-in-sonbhadra-2026-01-27",
@@ -31265,6 +31252,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "7a9656cd393320b805a8eeff4bb737d9",
+      "title": "Venezuela releases dozens of prisoners in 2 days, hundreds more still detained",
+      "link": "https://www.thehindu.com/news/international/venezuela-releases-dozens-of-prisoners-in-2-days-hundreds-more-still-detained/article70554366.ece",
+      "summary": "According to human rights groups, prisoners released this weekend included an opposition activist, a human rights lawyer and a journalism student who was imprisoned in March after he published complaints about his hometown’s sewage system and was charged with “inciting hatred.”",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 03:58:22 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "d891b7cb4455f44782c6b4a81fcf74ea",
@@ -31384,19 +31384,6 @@
       "lang": "en"
     },
     {
-      "id": "eff0821dc9cd47fadf04a0b6a0b0cbe8",
-      "title": "Nigerian military officers to face trial over 2025 coup plot",
-      "link": "https://www.thehindu.com/news/international/nigerian-military-officers-to-face-trial-over-2025-coup-plot/article70554367.ece",
-      "summary": "No date was given for the trials. The officers could face the death penalty if found guilty, according to legal experts.",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 03:39:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "55602dc8e2c7d0f9b1e60382f2de0456",
       "title": "Udhampur में दर्दनाक सड़क हादसा, चार की मौत | Accident News | Breaking | CRPF | Road Accident |Jammu",
       "link": "https://www.amarujala.com/video/india-news/tragic-road-accident-in-udhampur-four-dead-accident-news-breaking-crpf-road-accident-jammu-2026-01-27",
@@ -31512,19 +31499,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "7a9656cd393320b805a8eeff4bb737d9",
-      "title": "Venezuela releases dozens of prisoners in 2 days, hundreds more still detained",
-      "link": "https://www.thehindu.com/news/international/venezuela-releases-dozens-of-prisoners-in-2-days-hundreds-more-still-detained/article70554366.ece",
-      "summary": "According to human rights groups, prisoners released this weekend included an opposition activist, a human rights lawyer and a journalism student who was imprisoned in March after he published complaints about his hometown’s sewage system and was charged with “inciting hatred.”",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 03:18:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "a107dbad34f5cb9a936a768e984629f6",
@@ -31735,6 +31709,19 @@
       "lang": "en"
     },
     {
+      "id": "758d69dd577962538033195fcefff4bf",
+      "title": "Trump doesn't want Americans hurt but blames Democrats: White House",
+      "link": "https://www.thehindu.com/news/international/trump-doesnt-want-americans-hurt-but-blames-democrats-white-house/article70554255.ece",
+      "summary": "“This tragedy occurred as a result of a deliberate and hostile resistance by Democrat leaders in Minnesota,” Ms. Leavitt said, blaming Governor Tim Walz and Mayor Jacob Frey",
+      "date": "2026-01-27",
+      "timestamp": "Tue, 27 Jan 2026 02:24:23 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1818eb0d78917923e3b94a8e7bd8962c",
       "title": "Japan court orders compensation for migrants lured to North Korea",
       "link": "https://www.bbc.com/news/articles/c23r2l81708o?at_medium=RSS&at_campaign=rss",
@@ -31873,19 +31860,6 @@
       "timestamp": "Tue, 27 Jan 2026 01:55:00 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "758d69dd577962538033195fcefff4bf",
-      "title": "Trump doesn't want Americans hurt but blames Democrats: White House",
-      "link": "https://www.thehindu.com/news/international/trump-doesnt-want-americans-hurt-but-blames-democrats-white-house/article70554255.ece",
-      "summary": "“This tragedy occurred as a result of a deliberate and hostile resistance by Democrat leaders in Minnesota,” Ms. Leavitt said, blaming Governor Tim Walz and Mayor Jacob Frey",
-      "date": "2026-01-27",
-      "timestamp": "Tue, 27 Jan 2026 01:54:00 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -32333,25 +32307,25 @@
       "lang": "en"
     },
     {
-      "id": "9b56d6600a31c5fd946e405536ee1c97",
-      "title": "यूपी में बंद पड़े चार हजार ईंट भट्ठे फिर से चालू होंगे, योगी कैबिनेट ने नियमावली को दी मंजूरी",
-      "link": "https://www.livehindustan.com/uttar-pradesh/4000-brick-kilns-that-were-shut-down-up-will-be-restarted-as-yogi-cabinet-has-approved-new-regulations-201769694490041.html",
-      "summary": "यूपी के 2012 से पहले स्थापित ईंट भट्ठा संचालकों के लिए अच्छी खबर है। इनमें से तमाम बंद पड़े हैं और कुछ अवैध रूप से संचालित हो रहे हैं। अब ऐसे हजारों भट्ठे नियमानुसार संचालित हो सकेंगे।",
+      "id": "01649fab51b1b105b1c52e900456344c",
+      "title": "Congress plans ‘MGNREGA Protection Yatra’ in Andhra Pradesh on February 2",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/congress-plans-mgnrega-protection-yatra-in-andhra-pradesh-on-february-2/article70565577.ece",
+      "summary": "VB-G RAM G Act is not demand-based, limits work to notified villages, removes minimum wage guarantees and social audits, encourages contractor dominance and shifts 40% of funding responsibility to States, says the APCC president",
       "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 19:25:17 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Live Hindustan",
-      "district": "Uttar Pradesh",
+      "timestamp": "Thu, 29 Jan 2026 20:02:21 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
-      "id": "941c54b47986840818aac93bc2687015",
-      "title": "Girl dies after stone slab falls on her in Tirupattur",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/girl-dies-after-stone-slab-falls-on-her-in-tirupattur/article70566160.ece",
+      "id": "ea76bb38e04a4dc0d30e3f2115909230",
+      "title": "One arrested, teak wood seized in BRT Tiger Reserve",
+      "link": "https://www.thehindu.com/news/national/karnataka/one-arrested-teak-wood-seized-in-brt-tiger-reserve/article70566502.ece",
       "summary": "",
       "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 19:20:12 +0530",
+      "timestamp": "Thu, 29 Jan 2026 20:02:11 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -32364,9 +32338,295 @@
       "link": "https://www.thehindu.com/news/cities/Hyderabad/skill-shortages-threaten-indias-aviation-growth-industry-calls-for-overhaul-of-training-model/article70564957.ece",
       "summary": "",
       "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 19:19:37 +0530",
+      "timestamp": "Thu, 29 Jan 2026 19:59:12 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2a8cfd4ff2f7d115a580e1d8be8b75ad",
+      "title": "Karnataka Police set up special units to strengthen probe for missing children, persons",
+      "link": "https://www.thehindu.com/news/cities/bangalore/karnataka-police-set-up-special-units-to-strengthen-probe-for-missing-children-persons/article70565255.ece",
+      "summary": "To strengthen investigation, monitoring and coordination in cases of missing children and persons, the Karnataka Police have ordered the constitution of District/Division Missing Persons Units (DMPU) and Missing Persons Squads (MPS) across the State",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:58:03 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "014c88264f7e93d418e0f3fc72d1273f",
+      "title": "Dedicated action teams to address air pollution in city: Deputy CM",
+      "link": "https://www.thehindu.com/news/national/telangana/dedicated-action-teams-to-address-air-pollution-in-city-deputy-cm/article70565959.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:57:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9dba5ec507528f3527be0a69772351df",
+      "title": "BJP demands removal of Congress government over ads critical of VB-G RAM G Act",
+      "link": "https://www.thehindu.com/news/national/karnataka/bjp-demands-removal-of-congress-government-over-ads-critical-of-vb-g-ram-g-act/article70566338.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:56:22 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e38c2d19976f1b20424134e998b10ac0",
+      "title": "Kerala Budget 2026-27: IT sector gets enhanced allocation of ₹548.05 cr.",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-budget-2026-27-it-sector-gets-enhanced-allocation-of-54805-cr/article70566159.ece",
+      "summary": "A new IT policy with a focus on promoting the safe and ethical use of Information Technology in the anvil",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:53:45 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "449a5e0971a4c190429f8e1ad6a3c970",
+      "title": "Labour Minister Vivek Venkatswamy consoles bereaved family of deceased pilgrim",
+      "link": "https://www.thehindu.com/news/national/telangana/labour-minister-vivek-venkatswamy-consoles-bereaved-family-of-deceased-pilgrim/article70565953.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:53:43 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a9cbe3027fe9c80b8be927046d661274",
+      "title": "Kerala Budget 2026-27: ₹4,745.4 crore earmarked for R&D across sectors",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-budget-2026-27-47454-crore-earmarked-for-rd-across-sectors/article70565978.ece",
+      "summary": "Education sector accounts for highest allocations at 46.32% followed by health and sanitation (25.16%), agriculture (12.77%) and industry (8.62%)",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:53:03 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f17eb33b610fad9ff2fe221d70ec15cb",
+      "title": "Fingers on the trigger, says Iran after Trump’s warning",
+      "link": "https://www.thehindu.com/news/international/fingers-on-the-trigger-says-iran-after-trumps-warning/article70566297.ece",
+      "summary": "Our brave Armed Forces are prepared — with their fingers on the trigger — to immediately and powerfully respond to ANY aggression against our beloved land, air, and sea,” Foreign Minister Abbas Araghchi said",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:52:47 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f94865edcd546f2ea11a3343d3901d45",
+      "title": "‘Restrictions on Govt. doctors’ private practice to ensure better care in public facility’",
+      "link": "https://www.thehindu.com/news/national/karnataka/restrictions-on-govt-doctors-private-practice-to-ensure-better-care-in-public-facility/article70566096.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:52:33 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "55b18565729c8ec173d896581b6c35f2",
+      "title": "‘Beacon of Hope Award’ for Singareni",
+      "link": "https://www.thehindu.com/news/national/telangana/beacon-of-hope-award-for-singareni/article70566302.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:49:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "57290d32d83cdcafc9e1985d03ee4255",
+      "title": "87 gold medals, 70 doctoral degrees to be awarded at Davangere University convocation today",
+      "link": "https://www.thehindu.com/news/national/karnataka/87-gold-medals-70-doctoral-degrees-to-be-awarded-at-davangere-university-convocation-today/article70566224.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:48:47 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f302c4d731639c26ba40ca380fce2bda",
+      "title": "Disability festival begins at Kozhikode beach",
+      "link": "https://www.thehindu.com/news/national/kerala/disability-festival-begins-at-kozhikode-beach/article70566247.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:46:09 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ce6551fe22ab41305e4da67843c32670",
+      "title": "Light and Music Run in Dharwad on February 8",
+      "link": "https://www.thehindu.com/news/national/karnataka/light-and-music-run-in-dharwad-on-february-8/article70566282.ece",
+      "summary": "Fit Feet Foundation of Dharwad has organised the charity event to mark its fifth anniversary",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:46:00 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b3a9703955797908fa7e503f717be024",
+      "title": "Palaniswami, Dhinakaran express shock over sexual assault in government college; criticise DMK government",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-dhinakaran-expresses-shock-over-sexual-assault-in-government-college-criticise-dmk-government/article70564900.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:45:39 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "14b80ea906fd3e2999819f73c06356e8",
+      "title": "Person murdered in Hassan",
+      "link": "https://www.thehindu.com/news/national/karnataka/person-murdered-in-hassan/article70566454.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:45:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c6b906e3d3d3d7a83ce12800812a4290",
+      "title": "Aadhaar-based verification made a must for property transactions in Belagavi",
+      "link": "https://www.thehindu.com/news/national/karnataka/aadhaar-based-verification-made-a-must-for-property-transactions-in-belagavi/article70566231.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:41:38 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f9851fffe0b00d6aaeb2fa17d2ea2da1",
+      "title": "Textile park at Virudhunagar to attract ₹10,000 crore investment",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/textile-park-at-virudhunagar-to-attract-10000-crore-investment/article70566005.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:41:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "95dc6faa6dfa5563dd134acbd6e11b9c",
+      "title": "Kerala Science Congress in Kochi from January 30",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-science-congress-in-kochi-from-january-30/article70565866.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:38:10 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "be14f70597dfc629e9a17288f554f4c0",
+      "title": "A.P. set to launch free power supply scheme for weavers on April 1",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-set-to-launch-free-power-supply-scheme-for-weavers-on-april-1/article70565731.ece",
+      "summary": "Minister for Handlooms and Textiles S. Savitha says 93,000 handloom families and 10,534 power loom families will benefit from the scheme, with the former saving approximately ₹720 a month and the latter, ₹1,800 a month",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:37:54 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f58152a7256f71281ea21c5f89d6fcd2",
+      "title": "Economic Survey backs scrapping MGNREGS, cites structural flaws, strong rural economy",
+      "link": "https://www.thehindu.com/business/budget/economic-survey-backs-scrapping-mgnregs-cites-structural-flaws-strong-rural-economy/article70565792.ece",
+      "summary": "Survey describes the new rural employment law as a “comprehensive reset” of MGNREGS, building on its achievements while addressing UPA-era shortcomings",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:37:33 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cb6233686848e00e46a8af8f9469a337",
+      "title": "Students urged to take active part in college initiatives",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/students-urged-to-take-active-part-in-college-initiatives/article70565272.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:36:33 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dec7b80385fd7ed3b35eb2077dbfbc86",
+      "title": "Cloth merchant, associate held for bomb hoax at Bengaluru airport",
+      "link": "https://www.thehindu.com/news/national/karnataka/cloth-merchant-associate-held-for-bomb-hoax-at-bengaluru-airport/article70565142.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:36:29 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bc843c3b13bdb00a1710fa46ce10165f",
+      "title": "Budget allocations for Kochi draw reactions along political lines",
+      "link": "https://www.thehindu.com/news/national/kerala/budget-allocations-for-kochi-draw-reactions-along-political-lines/article70565945.ece",
+      "summary": "Although the allocation of ₹79 crore for the second phase of the Kochi metro’s expansion is welcome, the absence of projects that could energise Kochi’s overall development prospects is disappointing, says Kochi Mayor",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:35:15 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -32377,7 +32637,254 @@
       "link": "https://www.thehindu.com/business/budget/economic-survey-2025-shows-india-in-bright-light-in-an-increasingly-darker-world/article70565615.ece",
       "summary": "The Economic Survey 2025-26 has upgraded its medium-term outlook for India’s growth to 7%, but has also said it could be impacted by an increasingly grim global outlook",
       "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 19:19:18 +0530",
+      "timestamp": "Thu, 29 Jan 2026 19:35:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "29f83351a5980490e0fa030ab3ef59b2",
+      "title": "Kerala Budget 2026-27: Hike in monthly wages of anganwadi workers, helpers",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-budget-2026-27-hike-in-monthly-wages-of-anganwadi-workers-helpers/article70565863.ece",
+      "summary": "The outlay for the Women and Child Development department in the Budget is ₹484.81 crore",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:34:55 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d8ac1c867b09c17d1abfe13cfa0a9a54",
+      "title": "Congress flags ‘mass, targeted voter deletions’ in Form‑7 misuse, seeks ECI intervention",
+      "link": "https://www.thehindu.com/news/national/congress-flags-mass-targeted-voter-deletions-in-form%E2%80%907-misuse-seeks-eci-intervention/article70565981.ece",
+      "summary": "Party leader K.C. Venugopal writes to the Election Commission of India alleging a coordinated effort across States to remove eligible electors, especially from marginalised groups",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:34:14 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9104844c6230638b17be8bf9396a55ed",
+      "title": "Kerala Budget 2026-27 raises allocation for Industries sector, positions State as a hub for critical minerals",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-budget-raises-allocation-for-industries-sector-positions-state-as-a-hub-for-critical-mineral/article70565931.ece",
+      "summary": "Increased allocation of ₹122.54 crore from last year to bolster the industrial sector. Key initiatives include a ‘Rare Earth Corridor’ linking Vizhinjam port to Chavara and Kochi, as well as funds for a Defence Technology Innovation Hub and support for micro and small enterprises.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:34:08 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8221d5e6518e8aab124dc60d5b771fe4",
+      "title": "KERALA BUDGET 2026-27: ₹623.85 crore to be spent on irrigation, flood control and coastal zone management",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-budget-2026-27-62385-crore-to-be-spent-on-irrigation-flood-control-and-coastal-zone-management/article70566251.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:33:41 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9c3cfa51164654bfb909631482a9e9d0",
+      "title": "Class 9 student from Ranipet bags gold medal at national martial arts event",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/class-9-student-from-ranipet-bags-gold-medal-at-national-martial-arts-event/article70566173.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:32:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9d8f7e8d9c7961a0975087b12dfb2c1b",
+      "title": "Kerala Budget 2026-27: ₹2,071.95 crore earmarked for agri-allied sectors",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-budget-2026-27-207195-crore-earmarked-for-agri-allied-sectors/article70566194.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:32:03 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "25fed6b13db536bfcd141f7730d48b32",
+      "title": "Coalition government committed to making every woman an entrepreneur: Kolusu Parthasarathi",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/coalition-government-committed-to-making-every-woman-an-entrepreneurkolusu-parthasarathi/article70565610.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:32:03 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a27d4c9401c2d3052e2aa0e782675a90",
+      "title": "Seaweed production increased nearly threefold, says Minister",
+      "link": "https://www.thehindu.com/news/national/kerala/seaweed-production-increased-nearly-threefold-says-minister/article70565878.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:30:49 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a2f2672ace5ddd26d982f7097ad3e63a",
+      "title": "Fetching better prices for oil palm farmers a key priority, says A.P. Agriculture Minister",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/better-prices-for-oil-palm-farmers-a-key-priority-says-ap-agriculture-minister/article70565709.ece",
+      "summary": "Andhra Pradesh ranks first in India in oil palm acreage, production, and productivity, says Atchannaidu",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:30:32 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8457a6ee526985abfe12d5ae630bc68c",
+      "title": "Two arrested, ₹8.2 lakh in cash, jewellery worth ₹4.35 lakh recovered",
+      "link": "https://www.thehindu.com/news/national/karnataka/two-arrested-82-lakh-in-cash-jewellery-worth-435-lakh-recovered/article70566128.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:30:23 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a144f9efcd172c47263f096ce8d47655",
+      "title": "Kannur gets major push in State Budget: sports hub, port, cultural and industrial projects announced",
+      "link": "https://www.thehindu.com/news/national/kerala/kannur-gets-major-push-in-state-budget-sports-hub-port-cultural-and-industrial-projects-announced/article70565752.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:29:31 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4d5b99d01dab0b8fc74ad5c864364c7c",
+      "title": "DVAC conducts searches at panchayat office near Arakkonam over irregularities in laying borewells",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/dvac-conducts-searches-at-panchayat-office-near-arakkonam-over-irregularities-in-laying-borewells/article70566136.ece",
+      "summary": "Complainant claims fake bills were attached by private contractors to claim the amount sanctioned for drilling of borewells in four hamlets in the village",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:29:21 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d5d8db42ca439fd152afde8f5806913f",
+      "title": "Hariprasad’s remarks triggers uproar in Council; proceedings marred",
+      "link": "https://www.thehindu.com/news/national/karnataka/hariprasads-remarks-triggers-uproar-in-council-proceedings-marred/article70565410.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:28:56 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e91eefcb2207b532a74e91c35573de2b",
+      "title": "Eluru Collector asks officials to reactivate bank accounts of government departments",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/eluru-collector-asks-officials-to-reactivate-bank-accounts-of-government-departments/article70565631.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:27:44 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "874a6cb85df63077dc16ec85da352d30",
+      "title": "Job fair helps PwDs secure employment",
+      "link": "https://www.thehindu.com/news/national/karnataka/job-fair-helps-pwds-secure-employment/article70566286.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:26:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9b56d6600a31c5fd946e405536ee1c97",
+      "title": "यूपी में बंद पड़े चार हजार ईंट भट्ठे फिर से चालू होंगे, योगी कैबिनेट ने नियमावली को दी मंजूरी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/4000-brick-kilns-that-were-shut-down-up-will-be-restarted-as-yogi-cabinet-has-approved-new-regulations-201769694490041.html",
+      "summary": "यूपी के 2012 से पहले स्थापित ईंट भट्ठा संचालकों के लिए अच्छी खबर है। इनमें से तमाम बंद पड़े हैं और कुछ अवैध रूप से संचालित हो रहे हैं। अब ऐसे हजारों भट्ठे नियमानुसार संचालित हो सकेंगे।",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:25:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f07f2233d7b39f51096275d613e3d99a",
+      "title": "Children with Type-1 diabetes to get free treatment kits at Tirupattur GH",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/children-with-type-1-diabetes-to-get-free-treatment-kits-at-tirupattur-gh/article70566148.ece",
+      "summary": "They would be provided free treatment including best insulins in pen-fill cartridges, pain free 4 mm needles, glucometers, 100 glucose strips per month per child, insulin pump therapy, a state-of-the-art gadget",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:24:41 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c4fcef840d019a0f62ca990eef7256b4",
+      "title": "First rake of Vande Bharat coaches undergo maintenance in Tiruchi",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/first-rake-of-vande-bharat-coaches-undergo-maintenance-in-tiruchi/article70565865.ece",
+      "summary": "The defects in seats and passenger-related amenities were repaired and the braking systems and equipment besides pantographs were checked thoroughly",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:23:38 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "941c54b47986840818aac93bc2687015",
+      "title": "Girl dies after stone slab falls on her in Tirupattur",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/girl-dies-after-stone-slab-falls-on-her-in-tirupattur/article70566160.ece",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 19:20:12 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -32736,19 +33243,6 @@
       "lang": "en"
     },
     {
-      "id": "9104844c6230638b17be8bf9396a55ed",
-      "title": "Kerala Budget raises allocation for Industries sector, positions State as a hub for critical minerals",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-budget-raises-allocation-for-industries-sector-positions-state-as-a-hub-for-critical-mineral/article70565931.ece",
-      "summary": "Increased allocation of ₹122.54 crore from last year to bolster the industrial sector. Key initiatives include a ‘Rare Earth Corridor’ linking Vizhinjam port to Chavara and Kochi, as well as funds for a Defence Technology Innovation Hub and support for micro and small enterprises.",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 18:51:55 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "51fd5e37ffe22652375d9d58360a3476",
       "title": "With polls in sight, budget favours KC(M) backed projects in Kottayam",
       "link": "https://www.thehindu.com/news/national/kerala/with-polls-in-sight-budget-favours-kcm-backed-projects-in-kottayam/article70565842.ece",
@@ -32798,19 +33292,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "29f83351a5980490e0fa030ab3ef59b2",
-      "title": "Kerala Budget 2026-27: hike in monthly wages of anganwadi workers, helpers",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-budget-2026-27-hike-in-monthly-wages-of-anganwadi-workers-helpers/article70565863.ece",
-      "summary": "The outlay for the Women and Child Development department in the Budget is ₹484.81 crore",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 18:47:36 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -32898,19 +33379,6 @@
       "summary": "",
       "date": "2026-01-29",
       "timestamp": "Thu, 29 Jan 2026 18:35:54 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "c4fcef840d019a0f62ca990eef7256b4",
-      "title": "First rake of Vande Bharat coaches undergo maintenance in Tiruchi",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/first-rake-of-vande-bharat-coaches-undergo-maintenance-in-tiruchi/article70565865.ece",
-      "summary": "The defects in seats and passenger-related amenities were repaired and the braking systems and equipment besides pantographs were checked thoroughly",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 18:35:39 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -33295,6 +33763,19 @@
       "lang": "en"
     },
     {
+      "id": "9e66e717c8948f817298701a3f0afdd1",
+      "title": "President Xi tells British PM to jointly advocate, practice true multilateralism",
+      "link": "https://www.thehindu.com/news/international/britain-pm-keir-starmer-china-president-xi-jinping-beijing-bilateral-ties/article70563783.ece",
+      "summary": "President Xi said that major countries should take the lead, in particular, otherwise, the world would risk regressing into the law of the jungle, according to Xinhua agency.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 17:38:40 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "753ed06f3ef06f7617a9ed8503712dac",
       "title": "कभी स्कूल में गाती थीं, अब 174 देशों में सुनी जा रहीं बरेली की सिंगर वर्षा सिंह",
       "link": "https://www.livehindustan.com/uttar-pradesh/bareilly-singer-varsha-singh-songs-being-heard-in-174-countries-on-spotify-app-201769687226040.html",
@@ -33620,6 +34101,19 @@
       "lang": "en"
     },
     {
+      "id": "fefdb0b6c926e9f7353363c929f73619",
+      "title": "Jason Gillespie back in Pakistan cricket as coach of PSL franchise",
+      "link": "https://www.thehindu.com/sport/cricket/gillespie-back-in-pakistan-cricket-as-coach-of-psl-franchise/article70565088.ece",
+      "summary": "Jason Gillespie had resigned as Pakistan Test team’s head coach back in late 2024 owing to issues over authority and powers in team matters including selection by the Pakistan Cricket Board.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 16:28:16 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f35323438c3de0d99bddd403d89ef315",
       "title": "Telangana’s Bhu Bharati initiative, Kaleshwaram and Mission Kakatiya appreciated in Economic Survey 2026",
       "link": "https://www.thehindu.com/news/national/telangana/telanganas-bhu-bharati-initiative-kaleshwaram-and-mission-kakatiya-appreciated-in-economic-survey-2026/article70564887.ece",
@@ -33760,19 +34254,6 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "fefdb0b6c926e9f7353363c929f73619",
-      "title": "Jason Gillespie back in Pakistan cricket as coach of PSL franchise",
-      "link": "https://www.thehindu.com/sport/cricket/gillespie-back-in-pakistan-cricket-as-coach-of-psl-franchise/article70565088.ece",
-      "summary": "Jason Gillespie had resigned as Pakistan Test team’s head coach back in late 2024 owing to issues over authority and powers in team matters including selection by the Pakistan Cricket Board.",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 15:53:10 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -33971,6 +34452,32 @@
       "lang": "en"
     },
     {
+      "id": "2e1736662e7a11c1d0c04e461a887aa1",
+      "title": "What’s UpScrolled, the app gaining popularity after TikTok’s US takeover?",
+      "link": "https://www.aljazeera.com/news/2026/1/29/whats-upscrolled-the-app-gaining-popularity-after-tiktoks-us-takeover?traffic_source=rss",
+      "summary": "Disgruntled TikTok users are flocking to the platform which is promising a ‘transparent tech' experience.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 14:15:42 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f295ac960a028c442473f119ff66b956",
+      "title": "Setback for Brij Bhushan Singh:Delhi High Court pulls up counsel, allows trial court hearing to go on, trouble deepens for former MP",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/delhi-high-court-brij-bhushan-singh-wrestlers-case-trial-continues-137072679.html",
+      "summary": "The troubles of Uttar Pradesh strongman leader and former MP Brij Bhushan Sharan Singh have not eased. In the sexual harassment case filed by women wrestlers, the Delhi High Court on Thursday ruled that the trial court proceedings will continue and refused to stay the hearing. The court also reprimanded Brij Bhushan Singh’s counsel during the proceedings. Brij Bhushan Singh had approached the Delhi High Court seeking a stay on the trial court proceedings related to the FIR and charges framed against him. However, a bench headed by Justice Swarna Kanta Sharma declined to grant any interim relief and directed that the matter continue in the lower court. The High Court has now listed the case for further hearing on April 21. Brij Bhusan's lawyer sought adjournment During the hearing, Brij Bhushan Singh’s lawyer sought an adjournment, citing the absence of the main counsel. The court, however, rejected the request and made it clear that the trial should proceed without delay. The case is currently being heard at the Rouse Avenue Court in Delhi. Court expressed displeasure with lawyer Justice Swarna Kanta said- Why haven't you been arguing until now? You have filed this petition, but it hasn't been presented for argument even once so far. Brijbhushan's lawyer assured the court that at the next hearing they will present their senior lawyer in court for arguments. The court warned that if there is no argument at the next hearing, the petition could be dismissed. The court said, ‘It is clarified that there is no stay on trial court proceedings.’ Brij Bhushan's claim - False allegations were made Brij Bhushan Sharan Singh had said in the High Court in 2024 that he was implicated in false allegations. He alleged that the investigation was biased and only the statements of the victims were given importance, while the truth of the allegations was not investigated. FIR was registered on Supreme Court's order In May 2023, Delhi Police registered an FIR against Brij Bhushan after Supreme Court's intervention. On May 21, 2024, the trial court framed charges against him for sexual harassment, criminal intimidation and outraging the modesty of women. Co-accused and former WFI Assistant Secretary Vinod Tomar was also charged with criminal intimidation. 6 wrestlers made allegations On January 18, 2023, 6 wrestlers made sexual harassment allegations against former MP Brij Bhushan Sharan Singh. The women wrestlers demanded action against Brij Bhushan from Union Sports Minister Anurag Thakur. When no action was taken at the government level in this matter, male and female wrestlers held a protest at Delhi's Jantar Mantar for more than six months. Acquitted in sexual exploitation case of minor wrestler Delhi's Patiala House Court acquitted Brij Bhushan Sharan Singh in the sexual exploitation case of a minor wrestler on May 26, 2025, and closed the case. In this case, the minor had retracted from her statement. After which the court took this decision. After the sexual exploitation case was closed, Brij Bhushan's close associates celebrated in Gonda. During the in-camera hearing on August 1, 2023, the minor had said that she made these allegations under political or emotional pressure. No such incident had occurred where she considered herself a victim. After this statement, the court considered it as 'serious variable evidence'. Brij Bhushan had said - There was no truth in the case Dainik Bhaskar had spoken to former MP Brij Bhushan over phone about the court's decision. He had said - This is the blessing of Bajrangbali and Lord Ram that I got my first major victory in this case. The minor wrestler had made allegations against me due to instigation by alleged wrestlers. But when she learned the truth, she gave the correct statement. Based on which the court has dismissed that case.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 14:13:54 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "05eba7bf61f9008abb025e2d49425f3c",
       "title": "UGC के नए नियमों पर SC के रोक लगाने के बाद प्रतीक भूषण का बड़ा बयान: लिखा-जाति संबंधी नियम…",
       "link": "https://www.patrika.com/lucknow-news/brij-bhushan-sharan-singh-son-prateek-bhushan-singh-big-statement-after-sc-stays-new-ugc-rules-20302610",
@@ -34115,9 +34622,9 @@
     },
     {
       "id": "9f7e6555e3625b6fba71633337584eb1",
-      "title": "Trump border czar says staying in Minnesota ‘until problem’s gone’",
+      "title": "Trump border security boss Homan doubles down on Minnesota operations",
       "link": "https://www.aljazeera.com/news/2026/1/29/trump-border-czar-says-staying-in-minnesota-until-problems-gone?traffic_source=rss",
-      "summary": "This is a breaking news story.",
+      "summary": "Top official vows shift in operations after killings of US citizens, but says Trump not 'surrendering' mission.",
       "date": "2026-01-29",
       "timestamp": "Thu, 29 Jan 2026 13:28:49 +0000",
       "section": "International",
@@ -34200,6 +34707,19 @@
       "timestamp": "Thu, 29 Jan 2026 13:14:53 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "676d84eebebbc8c15da1c194252c5459",
+      "title": "China executes 11 linked to Myanmar scam compounds",
+      "link": "https://www.thehindu.com/news/international/china-executes-11-linked-to-myanmar-scam-compounds/article70564276.ece",
+      "summary": "Initially largely targeting Chinese speakers, the criminal groups behind the compounds have expanded operations into multiple languages to steal from victims around the world",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 13:13:51 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -34332,6 +34852,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "3fce91992e460929e196399c91ab0e01",
+      "title": "Madhu Gottumukkala, US Cybersecurity official, accused of uploading “sensitive” documents to ChatGPT",
+      "link": "https://www.thehindu.com/sci-tech/technology/madhu-gottumukkala-us-cybersecurity-official-accused-of-uploading-sensitive-documents-to-chatgpt/article70564186.ece",
+      "summary": "Madhu Gottumukkala allegedly uploaded “sensitive” documents to a public version of ChatGPT in May 2025, according to sources cited by the Politico outlet",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 12:56:35 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -35064,7 +35597,7 @@
     },
     {
       "id": "c86a6f329477db759723c5de7657ec55",
-      "title": "Iran-US tensions soar: What do both sides want?",
+      "title": "US-Iran tensions soar: What do both sides want?",
       "link": "https://www.aljazeera.com/news/2026/1/29/iran-us-tensions-soar-what-do-both-sides-want?traffic_source=rss",
       "summary": "From enriched uranium and ballistic missiles to sanctions and regional influence, the differences are many.",
       "date": "2026-01-29",
@@ -35086,19 +35619,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "3fce91992e460929e196399c91ab0e01",
-      "title": "Madhu Gottumukkala, US Cybersecurity official, accused of uploading “sensitive” documents to ChatGPT",
-      "link": "https://www.thehindu.com/sci-tech/technology/madhu-gottumukkala-us-cybersecurity-official-accused-of-uploading-sensitive-documents-to-chatgpt/article70564186.ece",
-      "summary": "Madhu Gottumukkala allegedly uploaded “sensitive” documents to a public version of ChatGPT in May 2025, according to sources cited by the Politico outlet",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 12:22:16 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -35138,19 +35658,6 @@
       "report_category": "International",
       "source": "BBC World",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "cf8e4fade6675878cda0fddd82d76b00",
-      "title": "UGC के खिलाफ करणी सेना का उग्र प्रदर्शन, लखनऊ में कपड़े उतारकर किया विरोध",
-      "link": "https://www.patrika.com/lucknow-news/ugc-act-2026-karni-sena-violent-protest-taking-off-clothes-lucknow-students-aligation-on-bjp-government-20299222",
-      "summary": "Karni Sena Violent Protest against UGC Act 2026: यूनिवर्सिटी ग्रांट्स कमिशन (UGC) के नए नियमों के विरोध में लखनऊ में करणी सेना के कार्यकर्ताओं ने जोरदार प्रदर्शन किया। इस दौरान कार्यकर्ताओं ने अपने कपड़े फाड़ दिए और अर्धनग्न होकर सड़क पर उतर आए। प्रदर्शनकारियों का कहना था कि सरकार की नीतियों ने उन्हें अपमानित कर दिया है और ‘सरकार ने हमें नंगा कर दिया है।’",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 12:19:21 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -35206,19 +35713,6 @@
       "lang": "en"
     },
     {
-      "id": "676d84eebebbc8c15da1c194252c5459",
-      "title": "China executes 11 linked to Myanmar scam compounds",
-      "link": "https://www.thehindu.com/news/international/china-executes-11-linked-to-myanmar-scam-compounds/article70564276.ece",
-      "summary": "Initially largely targeting Chinese speakers, the criminal groups behind the compounds have expanded operations into multiple languages to steal from victims around the world",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 12:12:21 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "8b4bdfa95d7072e9d8dd700634aef48c",
       "title": "UGC New Rule 2026 Row: यूजीसी के नए नियमों के विरोध में बंद कराया काशी विद्यापीठ, नहीं हो सकीं परीक्षाएं",
       "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/varanasi/kashi-vidyapith-shut-down-in-protest-against-new-ugc-rules-and-examinations-not-be-held-in-varanasi-2026-01-29",
@@ -35256,6 +35750,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "2989088010233678076ffee7d3418b0b",
+      "title": "U.K., France, Canada and others condemn Israel’s demolition of U.N. site in Jerusalem",
+      "link": "https://www.thehindu.com/news/international/uk-france-canada-and-others-condemn-israels-demolition-of-un-site-in-jerusalem/article70563677.ece",
+      "summary": "The group, ⁠in a joint statement, called on ‌the government ‌of Israel to halt all ‍demolitions",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 12:05:51 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "8917d6b8da3610a5af75ca2269c3d626",
@@ -35306,6 +35813,19 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "130129cf0c5c5cff68ef50418044c130",
+      "title": "‘No. 1 fan’: Rapper Nicki Minaj backs U.S. President Donald Trump",
+      "link": "https://www.thehindu.com/news/international/no-1-fan-rapper-nicki-minaj-backs-us-president-donald-trump/article70563999.ece",
+      "summary": "The Trinidadian star, added that she would not let the billionaire President’s opponents “get away with bullying him and you know, the smear campaigns. It’s not going to work”",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 11:56:50 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -35713,6 +36233,19 @@
       "lang": "en"
     },
     {
+      "id": "2c69a815e4240d811ded366800fca920",
+      "title": "The new logic of the Chinese economy",
+      "link": "https://www.thehindu.com/opinion/op-ed/the-new-logic-of-the-chinese-economy/article70560664.ece",
+      "summary": "It provides new opportunities for China-India cooperation",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 11:13:09 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "89390d8026ac74b69d73684700b205b9",
       "title": "Ajit Pawar plane crash: Black box of aircraft involved in Baramati recovered",
       "link": "https://www.thehindu.com/news/national/ajit-pawar-plane-crash-blackbox-of-aircraft-involved-in-baramati-recovered/article70564065.ece",
@@ -35857,7 +36390,7 @@
     },
     {
       "id": "d92ee9909a92e21139ff890e7f52fa49",
-      "title": "‘Wael’s last wish’: Man detained by ICE denied release for son’s funeral",
+      "title": "Wael’s last wish’: ICE denies release of Texas man for son’s funeral",
       "link": "https://www.aljazeera.com/news/2026/1/29/waels-last-wish-man-detained-by-ice-denied-release-for-sons-funeral?traffic_source=rss",
       "summary": "Maher Tarabishi's ailing son Wael died as he sat in a detention facility. His family says ICE is responsible.",
       "date": "2026-01-29",
@@ -35906,19 +36439,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "130129cf0c5c5cff68ef50418044c130",
-      "title": "‘No. 1 fan’: Rapper Nicki Minaj backs U.S. President Donald Trump",
-      "link": "https://www.thehindu.com/news/international/no-1-fan-rapper-nicki-minaj-backs-us-president-donald-trump/article70563999.ece",
-      "summary": "The Trinidadian star, added that she would not let the billionaire President’s opponents “get away with bullying him and you know, the smear campaigns. It’s not going to work”",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 10:42:16 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "24e4de61c0015e36a33b22e25f160270",
@@ -36376,19 +36896,6 @@
       "lang": "hi"
     },
     {
-      "id": "9e66e717c8948f817298701a3f0afdd1",
-      "title": "President Xi tells British PM to jointly advocate, practice true multilateralism",
-      "link": "https://www.thehindu.com/news/international/britain-pm-keir-starmer-china-president-xi-jinping-beijing-bilateral-ties/article70563783.ece",
-      "summary": "President Xi said that major countries should take the lead, in particular, otherwise, the world would risk regressing into the law of the jungle, according to Xinhua agency.",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 09:02:26 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "22fbc667118b458f0841e3dfdcf44785",
       "title": "UP Cabinet: यूपी में शिक्षकों को कैशलेस इलाज की सौगात, योगी कैबिनेट में बड़े फैसले, लाखों कर्मचारियों को राहत",
       "link": "https://www.patrika.com/lucknow-news/up-cabinet-set-to-approve-cashless-healthcare-for-1-million-teachers-key-welfare-and-infrastructure-proposals-on-agenda-20301533",
@@ -36528,6 +37035,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8f205edcde73167c61898ed300422f7a",
+      "title": "U.S.-Iran tensions escalate as Trump says ‘time is running’ out for Tehran",
+      "link": "https://www.thehindu.com/news/international/trump-threatens-attack-on-iran/article70562039.ece",
+      "summary": "“A massive Armada is heading to Iran. It is moving quickly, with great power, enthusiasm, and purpose. It is a larger fleet, headed by the great Aircraft Carrier Abraham Lincoln, than that sent to Venezuela,” Mr. Trump wrote in a social media post.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 08:34:36 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -36688,6 +37208,19 @@
       "lang": "en"
     },
     {
+      "id": "ca5a8d35a885d3deeced0d227fe48c1d",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 29 जनवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-29",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 08:01:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "5638ac8a5091e7a75e82ca7628f5eb39",
       "title": "यूपी: शासन को अभी तक नहीं मिला प्रशांत सिंह का इस्तीफा, बीमारी को लेकर भी हुआ नया खुलासा",
       "link": "https://www.amarujala.com/lucknow/up-the-government-has-not-yet-received-prashant-singh-s-resignation-new-revelations-have-also-been-made-rega-2026-01-29",
@@ -36699,6 +37232,32 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
+    },
+    {
+      "id": "75a6d88fcb8114a39381c2a6eef8ad79",
+      "title": "UP: फार्मर रजिस्ट्री के नाम पर 100 रुपये वसूलने का आरोप, DM बोले-सीएससी संचालकों पर दर्ज करें FIR; जानें मामला",
+      "link": "https://www.amarujala.com/uttar-pradesh/azamgarh/allegations-of-charging-100-rupees-farmer-registration-dm-orders-fir-against-csc-operators-2026-01-29",
+      "summary": "प्रदेश सरकार की शीर्ष प्राथमिकता वाली फॉर्मर रजिस्ट्री योजना के क्रियान्वयन में लापरवाही को लेकर जिलाधिकारी रविंद्र कुमार ने कड़ा रुख अपनाया है।",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 08:01:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "7ec4f23f0fab1376d8febd7103a2e40a",
+      "title": "Lok Kalyan Marg: पीएम ने AI क्षेत्र में काम करने वाले विशेषज्ञों से किया संवाद, कहा- तकनीक से प्रभाव पैदा करें",
+      "link": "https://www.amarujala.com/india-news/pm-modi-interacted-with-ceos-and-experts-working-in-field-of-ai-at-his-residence-at-lok-kalyan-marg-2026-01-29",
+      "summary": "Lok Kalyan Marg: पीएम ने AI क्षेत्र में काम करने वाले विशेषज्ञों से किया संवाद, कहा- तकनीक से प्रभाव पैदा करें",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 08:00:39 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "ca7fc870779e866da10fafd287461886",
@@ -36740,6 +37299,19 @@
       "lang": "en"
     },
     {
+      "id": "7d38438af6b925519c05d392a06ac678",
+      "title": "ED: पहले फर्जी अवैध गेमिंग वेबसाइटों पर पैसा लगवाया, फर्जी जीत दिखाकर रोक लिया पैसा; 2300 करोड़ की अपराध की आय",
+      "link": "https://www.amarujala.com/india-news/ed-money-was-invested-in-fake-illegal-gaming-websites-and-the-money-was-withheld-by-showing-fake-winnings-2026-01-29",
+      "summary": "ED: पहले फर्जी अवैध गेमिंग वेबसाइटों पर पैसा लगवाया, फर्जी जीत दिखाकर रोक लिया पैसा; 2300 करोड़ की 'अपराध की आय'",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:54:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "db8e3262338f71adc5547882315bd1ff",
       "title": "Dozens killed in RSF drone attack in war-torn Sudan’s South Kordofan",
       "link": "https://www.aljazeera.com/news/2026/1/29/dozens-killed-in-rsf-drone-attack-in-war-torn-sudans-south-kordofan?traffic_source=rss",
@@ -36750,6 +37322,32 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "11a3d741d7b751d69f347623f917bc31",
+      "title": "अवैध गैस रिफिलिंग के धंधे का भंडाफोड़, VIDEO",
+      "link": "https://www.amarujala.com/video-shots/short-videos/video-illegal-gas-refilling-operation-busted-in-varanasi-2026-01-29",
+      "summary": "अवैध गैस रिफिलिंग के धंधे का भंडाफोड़, VIDEO",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:50:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "e6b280ed2451161cea0eeed9a105b9d8",
+      "title": "UP: संपत्ति पंजीकरण में पारदर्शिता के लिए यूपी में लागू होगा आधार प्रमाणीकरण; जानें किस तारीख से होगा अनिवार्य",
+      "link": "https://www.amarujala.com/lucknow/up-aadhaar-authentication-to-be-implemented-in-uttar-pradesh-for-transparency-in-property-registration-fin-2026-01-29",
+      "summary": "लखनऊ के इंदिरानगर तकरोही इलाके में पति के मजाक से आहत 23 वर्षीय विवाहिता ने फंदा लगाकर जान दे दी। चार साल पहले प्रेम विवाह करने वाली महिला मॉडलिंग सीख रही थी। घटना के समय घर में पति और साली मौजूद थे।",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:48:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -36766,6 +37364,32 @@
       "lang": "hi"
     },
     {
+      "id": "feb0d48b713868b9e8b5827eb42f635b",
+      "title": "The Doomsday Clock shows the danger but not the way out",
+      "link": "https://www.thehindu.com/news/international/the-doomsday-clock-shows-the-danger-but-not-the-way-out-for-the-world/article70562367.ece",
+      "summary": "Tthe clock banks on the idea that if you show people a sufficiently frightening picture of their future, they will demand change. But history is clear that this strategy is flawed",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:41:42 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c45e7f782285bef0675bfaa848304fc6",
+      "title": "U.S. agents involved in fatal Minneapolis shooting placed on leave",
+      "link": "https://www.thehindu.com/news/international/us-agents-involved-in-fatal-minneapolis-shooting-placed-on-leave/article70562915.ece",
+      "summary": "Donald Trump has called for an “honourable and honest investigation” into Pretti’s death and suggested he would “de-escalate a little bit”",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:40:47 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4180d9679955474d5efe04faf63cc9ce",
       "title": "Gold surges past $5,500 amid Iran tensions, weakening US dollar",
       "link": "https://www.aljazeera.com/economy/2026/1/29/gold-surges-past-5500-amid-iran-tensions-weakening-us-dollar?traffic_source=rss",
@@ -36775,6 +37399,71 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2bcd61221df060baed13dfcd959a6987",
+      "title": "Noida: राष्ट्रीय सेवा योजना इकाई का शुरू हुआ सात दिवसीय शिविर",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-noida-a-seven-day-camp-of-the-national-service-scheme-unit-has-begun-2026-01-29",
+      "summary": "Noida: राष्ट्रीय सेवा योजना इकाई का शुरू हुआ सात दिवसीय शिविर",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:39:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "c72767b148cabd16b619788260b1c7db",
+      "title": "Greater Noida: ग्रेटर नोएडा में मिक्स्ड डिसेबिलिटी टी-20, अंतरराष्ट्रीय क्रिकेट सीरीज का पहला मैच खेला",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-first-match-of-international-cricket-series-was-played-in-greater-noida-2026-01-29",
+      "summary": "Greater Noida: ग्रेटर नोएडा में मिक्स्ड डिसेबिलिटी टी-20, अंतरराष्ट्रीय क्रिकेट सीरीज का पहला मैच खेला",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:39:01 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "7fe45cac3240966e89dc01ac04ef51f4",
+      "title": "Noida: छात्रों को दी गई गुड टच और बैड टच की जानकारी",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-noida-students-were-given-information-about-good-touch-and-bad-touch-2026-01-29",
+      "summary": "Noida: छात्रों को दी गई गुड टच और बैड टच की जानकारी",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:38:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "ecb24b24164a307eb2298cd85f29d3fb",
+      "title": "UP News: गोमती एक्सप्रेस के आरक्षित कोच में अनधिकृत यात्रियों का कब्जा, 11 यात्रियों की छूटी ट्रेन",
+      "link": "https://www.amarujala.com/lucknow/unauthorised-passengers-occupy-reserved-coach-of-gomti-express-11-passengers-miss-train-2026-01-29",
+      "summary": "ट्रेन में आरक्षित कोचों पर अनधिकृत यात्रियों के सवार होने से यात्री परेशान हो रहे हैं। पांच दिन पहले राजधानी लखनऊ से चलने वाली गोमती एक्सप्रेस में इसी वजह से 11 यात्री ट्रेन में चढ़ नहीं पाए।",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:35:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "a21feb00eb34d020ca399244ceb43cd0",
+      "title": "Small plane crashes in rural area of Colombia, killing 15 people including congressman",
+      "link": "https://www.thehindu.com/news/international/small-plane-crashes-in-rural-area-of-colombia/article70563649.ece",
+      "summary": "The small plane was carrying two crew members and 13 passengers, including Diógenes Quintero, 36, a member of the House of Representatives for Catatumbo",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:31:52 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -36802,19 +37491,6 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "2989088010233678076ffee7d3418b0b",
-      "title": "U.K., France, Canada and others condemn Israel’s demolition of U.N. site in Jerusalem",
-      "link": "https://www.thehindu.com/news/international/uk-france-canada-and-others-condemn-israels-demolition-of-un-site-in-jerusalem/article70563677.ece",
-      "summary": "The group, ⁠in a joint statement, called on ‌the government ‌of Israel to halt all ‍demolitions",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 07:26:22 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -36918,6 +37594,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a48c8309e48e591b713c069339968083",
+      "title": "Bessent says disappointed by EU-India deal; South Korea must ratify trade deal",
+      "link": "https://www.thehindu.com/news/international/bessent-says-disappointed-by-eu-india-deal-south-korea-must-ratify-trade-deal/article70563645.ece",
+      "summary": "Bessent said the deal made it clear why Brussels had balked at joining Washington's decision to impose 25% tariffs on India last ‌year as part of a push to reduce its purchases of ‌Russian oil",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 07:15:56 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -37039,19 +37728,6 @@
       "lang": "en"
     },
     {
-      "id": "ca5a8d35a885d3deeced0d227fe48c1d",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 29 जनवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-29",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 07:01:56 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "366e3e1bcff5dc19ebb55ce922ea7793",
       "title": "UGC: अधिनियम को लेकर उबाल...किया प्रदर्शन, केंद्र सरकार के विरुद्ध नारेबाजी; आजमगढ़ में डीएम को सौंपा ज्ञापन",
       "link": "https://www.amarujala.com/uttar-pradesh/azamgarh/ugc-uproar-over-act-protests-slogans-raised-against-central-government-memorandum-submitted-to-dm-azamgarh-2026-01-29",
@@ -37156,19 +37832,6 @@
       "lang": "hi"
     },
     {
-      "id": "a21feb00eb34d020ca399244ceb43cd0",
-      "title": "Small plane crashes in rural area of Colombia, killing 15 people including congressman",
-      "link": "https://www.thehindu.com/news/international/small-plane-crashes-in-rural-area-of-colombia/article70563649.ece",
-      "summary": "The small plane was carrying two crew members and 13 passengers, including Diógenes Quintero, 36, a member of the House of Representatives for Catatumbo",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 06:50:41 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "be9613e005b0b83c044a890063c4f602",
       "title": "अजित पवार के निधन के बाद NCP में हलचल: सुनेत्रा को कैबिनेट में शामिल करने की मांग; शरद गुट विलय के पक्ष में",
       "link": "https://www.amarujala.com/india-news/ncp-leaders-seek-maharashtra-cabinet-berth-for-ajit-pawar-s-wife-rival-camp-favours-merger-talks-2026-01-29",
@@ -37180,19 +37843,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "a48c8309e48e591b713c069339968083",
-      "title": "Bessent says disappointed by EU-India deal; South Korea must ratify trade deal",
-      "link": "https://www.thehindu.com/news/international/bessent-says-disappointed-by-eu-india-deal-south-korea-must-ratify-trade-deal/article70563645.ece",
-      "summary": "Bessent said the deal made it clear why Brussels had balked at joining Washington's decision to impose 25% tariffs on India last ‌year as part of a push to reduce its purchases of ‌Russian oil",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 06:49:42 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "ea456ac387d8b8a94113d8aecb8b7d88",
@@ -37936,19 +38586,6 @@
       "lang": "hi"
     },
     {
-      "id": "feb0d48b713868b9e8b5827eb42f635b",
-      "title": "The Doomsday Clock shows the danger but not the way out",
-      "link": "https://www.thehindu.com/news/international/the-doomsday-clock-shows-the-danger-but-not-the-way-out-for-the-world/article70562367.ece",
-      "summary": "Tthe clock banks on the idea that if you show people a sufficiently frightening picture of their future, they will demand change. But history is clear that this strategy is flawed",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 05:30:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "de8a28bbd52b72fcfaf399ddf5ddf744",
       "title": "Shashi Tharoor News: मल्लिकार्जुन खरगे और राहुल गांधी से मुलाकात के बाद क्या बोले शशि थरूर ?",
       "link": "https://www.amarujala.com/video/india-news/shashi-tharoor-say-after-meeting-mallikarjun-kharge-and-rahul-gandhi-2026-01-29",
@@ -38326,19 +38963,6 @@
       "lang": "en"
     },
     {
-      "id": "c45e7f782285bef0675bfaa848304fc6",
-      "title": "U.S. agents involved in fatal Minneapolis shooting placed on leave",
-      "link": "https://www.thehindu.com/news/international/us-agents-involved-in-fatal-minneapolis-shooting-placed-on-leave/article70562915.ece",
-      "summary": "Donald Trump has called for an “honourable and honest investigation” into Pretti’s death and suggested he would “de-escalate a little bit”",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 04:22:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "a68e9b81fa745f896a8c3d17253ee9d8",
       "title": "ग्रेटर नोएडा में सनसनीखेज वारदात: दंपती ने जहर खाकर दी जान, तीन बच्चे अस्पताल में भर्ती",
       "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-husband-and-wife-committed-suicide-in-greater-noida-2026-01-29",
@@ -38454,6 +39078,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "7240acb021facd49fb7208fb7527df5a",
+      "title": "Federal Reserve keeps interest rates unchanged even as Trump continues to insist they be lowered",
+      "link": "https://www.thehindu.com/business/Economy/federal-reserve-keeps-interest-rates-unchanged-even-as-trump-continues-to-insist-they-be-lowered/article70562913.ece",
+      "summary": "A key issue facing the Fed rate-setting committee is how long it will remain on hold; they remain split between those officials opposed to further cuts until inflation comes down and those who want to lower rates to further support hiring",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 04:09:51 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "106c3eee2c46023310e96df3076179e4",
@@ -38701,19 +39338,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "7240acb021facd49fb7208fb7527df5a",
-      "title": "Federal Reserve keeps interest rates unchanged even as Trump continues to insist they be lowered",
-      "link": "https://www.thehindu.com/business/Economy/federal-reserve-keeps-interest-rates-unchanged-even-as-trump-continues-to-insist-they-be-lowered/article70562913.ece",
-      "summary": "A key issue facing the Fed rate-setting committee is how long it will remain on hold; they remain split between those officials opposed to further cuts until inflation comes down and those who want to lower rates to further support hiring",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 03:34:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "bd443886542c10ecf30f87d620968452",
@@ -40025,7 +40649,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -40038,7 +40662,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -40416,19 +41040,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
-      "lang": "en"
-    },
-    {
-      "id": "2c69a815e4240d811ded366800fca920",
-      "title": "The new logic of the Chinese economy",
-      "link": "https://www.thehindu.com/opinion/op-ed/the-new-logic-of-the-chinese-economy/article70560664.ece",
-      "summary": "It provides new opportunities for China-India cooperation",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 01:04:31 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -86673,6 +87284,19 @@
       "lang": "en"
     },
     {
+      "id": "44d236565f3d04611cfb551ff29bf355",
+      "title": "How is China framing its Antarctic ambitions? | Explained",
+      "link": "https://www.thehindu.com/news/international/how-is-china-framing-its-antarctic-ambitions-explained/article70553958.ece",
+      "summary": "What is the proposed Antarctic Activities and Environmental Protection Law?",
+      "date": "2026-01-26",
+      "timestamp": "Mon, 26 Jan 2026 22:50:07 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d86c319636a8fc4a8b86aa73d2c2610c",
       "title": "Former Olympian Ryan Wedding pleads not guilty to drug kingpin charges",
       "link": "https://www.bbc.com/news/articles/cedweq4lj25o?at_medium=RSS&at_campaign=rss",
@@ -88852,6 +89476,19 @@
       "timestamp": "Mon, 26 Jan 2026 17:46:38 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2443cc77bc7249b13bb6bc76c21394c4",
+      "title": "How Venezuela’s oil collapse is plunging Cuba into energy and food crisis",
+      "link": "https://www.thehindu.com/data/how-venezuelas-oil-collapse-is-plunging-cuba-into-energy-and-food-crisis/article70547120.ece",
+      "summary": "Barred from credit markets and stripped of subsidised Venezuelan oil, Cuba is sliding deeper into a foreign exchange crisis that is crippling its economy",
+      "date": "2026-01-26",
+      "timestamp": "Mon, 26 Jan 2026 17:45:36 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -112400,6 +113037,110 @@
       "lang": "en"
     },
     {
+      "id": "082b3cf649a6249debb2d29b84684b93",
+      "title": "Dubai new rules for parking shades: What residents must know before installing",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/dubai-new-rules-for-parking-shades-what-residents-must-know-before-installing/articleshow/127778547.cms",
+      "summary": "Dubai's RTA has introduced a permit system for parking shades in residential areas to combat summer heat. Residents must obtain approval for these structures, ensuring they are made of quality materials, do not obstruct public pathways or utilities, and adhere to specific height and placement regulations. This initiative aims to maintain neighborhood aesthetics and safety.",
+      "date": "2026-01-29",
+      "timestamp": "2026-01-29T19:43:48+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2477f113dc7ee661805373363e232d60",
+      "title": "War or peace: US, China are stuck in Thucydides trap - can they find a way out?",
+      "link": "https://timesofindia.indiatimes.com/world/us/war-or-peace-us-china-are-stuck-in-thucydides-trap-can-they-find-a-way-out/articleshow/127776123.cms",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "2026-01-29T19:42:37+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7125350144324ad1a1a4d163d1b37fa3",
+      "title": "Benefits of Trump Gold Card: How much did Nicki Minaj pay for it?",
+      "link": "https://timesofindia.indiatimes.com/world/us/benefits-of-trump-gold-card-how-much-did-nicki-minaj-pay-for-it/articleshow/127778738.cms",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "2026-01-29T19:40:42+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6b2b9ba68b0eac79587ceaba7b5a9af8",
+      "title": "'Join us to regain old glory': Vijay's father gives alliance offer to Congress; party says 'we have Rahul boost'",
+      "link": "https://timesofindia.indiatimes.com/india/join-us-to-regain-old-glory-vijays-father-gives-alliance-offer-to-congress-party-says-we-have-rahul-boost/articleshow/127778540.cms",
+      "summary": "Vijay's father, SA Chandrasekhar, urged Congress to ally with his son's TVK for the Tamil Nadu assembly polls, believing it would restore the party's past prominence. However, the state Congress chief dismissed the informal proposal, stating the party doesn't require external support. Vijay himself has indicated TVK's strength to contest independently.",
+      "date": "2026-01-29",
+      "timestamp": "2026-01-29T19:33:17+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1e5d4b2cf42e1b3d17cfaa89eede5b3e",
+      "title": "World’s oldest man João Marinho Neto at 113 reveals the simple secret behind his remarkable longevity",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/worlds-oldest-man-joo-marinho-neto-at-113-reveals-the-simple-secret-behind-his-remarkable-longevity/articleshow/127778594.cms",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "2026-01-29T19:28:49+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a3ffcfee31cd145d82e7daae7949f305",
+      "title": "Assam Congress protests 'vote theft' through Special Revision (SR), slams Himanta",
+      "link": "https://timesofindia.indiatimes.com/india/assam-congress-protests-vote-theft-through-special-revision-sr-slams-himanta/articleshow/127778499.cms",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "2026-01-29T19:25:28+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eb5020a581cdbf1af25825c2649f527b",
+      "title": "Gaurav has no responsibility for Assam, says Himanta Biswa Sarma",
+      "link": "https://timesofindia.indiatimes.com/india/gaurav-has-no-responsibility-for-assam-says-himanta-biswa-sarma/articleshow/127778388.cms",
+      "summary": "",
+      "date": "2026-01-29",
+      "timestamp": "2026-01-29T19:18:06+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b1f67ada55bf08b144afe6a861c8b8d0",
+      "title": "'Ajit dada amar rahe': Ajit Pawar cremated with state honours in Baramati; thousands pay last respects",
+      "link": "https://timesofindia.indiatimes.com/india/ajit-dada-amar-rahe-ajit-pawar-cremated-with-state-honours-in-baramati-thousands-pay-last-respects/articleshow/127778277.cms",
+      "summary": "Ajit Pawar, Maharashtra's Deputy Chief Minister, was cremated with full state honours in Baramati. He died in a chartered plane crash along with four others. The funeral took place at Vidya Pratishthan college ground. Many leaders from across the political spectrum attended the ceremony to pay their respects.",
+      "date": "2026-01-29",
+      "timestamp": "2026-01-29T19:14:34+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2b1e2d06eb82c6c7af1fb4e4353b1c63",
       "title": "Amit Shah to reach Assam on two-day visit; unveil projects, address public rally",
       "link": "https://timesofindia.indiatimes.com/india/amit-shah-to-reach-assam-on-two-day-visit-unveil-projects-address-public-rally/articleshow/127778222.cms",
@@ -112416,7 +113157,7 @@
       "id": "467dbc79db5427d0cc252125507d9c88",
       "title": "'No compromise on ethical use': PM Modi engages with AI CEOs, experts; pitches UPI-style model for growth",
       "link": "https://timesofindia.indiatimes.com/india/no-compromise-on-ethical-use-pm-modi-engages-with-ai-ceos-experts-pitches-upi-style-model-for-growth/articleshow/127777611.cms",
-      "summary": "Prime Minister Narendra Modi convened with Indian AI start-ups and industry leaders, emphasizing ethical AI use, data security, and indigenous solutions. He highlighted India's digital prowess, citing UPI as an example, and urged the creation of a transparent, impartial, and secure AI ecosystem.",
+      "summary": "Prime Minister Narendra Modi engaged with Indian AI leaders, emphasising ethical use, data security, and indigenous solutions for national growth. He highlighted India's digital prowess, citing UPI as a model for AI development. The interaction aimed to foster collaborations and accelerate India's AI mission, with industry leaders backing self-reliance goals.",
       "date": "2026-01-29",
       "timestamp": "2026-01-29T19:10:15+05:30",
       "section": "National",
