@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-29T21:22:13.313684+00:00",
+  "generated_at": "2026-01-29T22:22:56.703961+00:00",
   "stories": [
     {
       "id": "709e8a854f60fe06860fb6249b3b9b9d",
@@ -32333,19 +32333,6 @@
       "lang": "en"
     },
     {
-      "id": "a09eeb8ff2f715a89f31a45406990cc6",
-      "title": "Palaniswami rejects Panneerselvam’s offer to rejoin AIADMK",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-rejects-the-offer-of-panneerselvam-to-re-join-aiadmk/article70565220.ece",
-      "summary": "“There is no place for Mr. Panneerselvam in the party,” the AIADMK general secretary says; In his sharpest attack on TVK leader Vijay, Mr. Palaniswami says, “After the Karur stampede, Mr. Vijay could not even visit the families of the deceased. Then, what is the meaning of running a political party?”",
-      "date": "2026-01-29",
-      "timestamp": "Thu, 29 Jan 2026 23:53:05 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "cf20dd7818545aa39103c8af645adf47",
       "title": "बीएचयू में बवाल; बिड़ला और रुइया हॉस्टल के छात्र भिड़े, जमकर चले लाठी-डंडे, एक का सिर फटा",
       "link": "https://www.livehindustan.com/uttar-pradesh/clash-bhu-students-from-birla-and-ruia-hostels-fought-sticks-and-rods-were-used-freely-one-student-sustained-head-injury-201769710685873.html",
@@ -32788,6 +32775,19 @@
       "lang": "en"
     },
     {
+      "id": "09de6cb4f39ebc3b0c4d3d725691197c",
+      "title": "Syria's defiant Kurds vow to 'fight until last breath' despite government push",
+      "link": "https://www.bbc.com/news/articles/cvgrzd76p4lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US fought IS with the Kurds for years. Now, Donald Trump is siding with Syria's new leader.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 22:04:34 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e8d2d91a05c8e84eed2876386845a3df",
       "title": "Ballari violence: Janardhana Reddy lashes out at DKS, asks Siddaramaiah to stay on as CM",
       "link": "https://www.thehindu.com/news/national/karnataka/ballari-violence-janardhana-reddy-lashes-out-at-dks-asks-siddaramaiah-to-stay-on-as-cm/article70567173.ece",
@@ -32797,6 +32797,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a1a1898ee8c1359b18c250235da388f4",
+      "title": "Burkina Faso’s military government dissolves political parties",
+      "link": "https://www.aljazeera.com/news/2026/1/29/burkina-faso-military-government-dissolves-political-parties?traffic_source=rss",
+      "summary": "Interior Minister says multiplication of political parties has fuelled divisions and weakened social cohesion.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 21:53:10 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -32875,6 +32888,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8747ae919ae18b1444f3503bff73ae3c",
+      "title": "Microsoft stock plunges as Wall Street questions AI investments",
+      "link": "https://www.aljazeera.com/economy/2026/1/29/microsoft-stock-plunges-as-wall-street-questions-ai-investments?traffic_source=rss",
+      "summary": "The drop comes amid stalling growth for its cloud computing software as OpenAI investments are questioned.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 21:37:25 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -33061,6 +33087,19 @@
       "lang": "en"
     },
     {
+      "id": "e380c383f01492bb90627419bbcaed35",
+      "title": "Trump says Putin will not attack Ukraine cities during cold week",
+      "link": "https://www.bbc.com/news/articles/c4g4yj92kwro?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia has not confirmed it agreed to Trump's request, but Ukraine's president said he expected Vladimir Putin's promise to be kept.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 21:21:35 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f9851fffe0b00d6aaeb2fa17d2ea2da1",
       "title": "Textile park at Virudhunagar to attract ₹10,000 crore investment",
       "link": "https://www.thehindu.com/news/cities/Coimbatore/textile-park-at-virudhunagar-to-attract-10000-crore-investment/article70566005.ece",
@@ -33070,6 +33109,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "761fd22a64e303616613c91afde93360",
+      "title": "Palestinian journalist Bisan Owda regains TikTok account after outcry",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/1/29/palestinian-journalist-bisan-owda-regains-tiktok-account-after-outcry?traffic_source=rss",
+      "summary": "Palestinian journalist Bisan Owda, known for sharing videos from Gaza, says she’s regained access to her TikTok.",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 21:20:28 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -33265,6 +33317,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6acc8c7127b5098a3e68b06341403c95",
+      "title": "Agents in Minneapolis could be pulled back if local officials cooperate, border tsar says",
+      "link": "https://www.bbc.com/news/articles/cvg1l8zgglpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tom Homan said the immigration operation would be more \"targeted\", as the Trump administration works to calm frustrations both in the city and on Capitol Hill",
+      "date": "2026-01-29",
+      "timestamp": "Thu, 29 Jan 2026 21:06:54 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -99491,12 +99556,38 @@
       "lang": "en"
     },
     {
+      "id": "b97baa1b7fc7a89c2f9af1ae14fe4b4a",
+      "title": "In Bihar, farmers’ registration work will be carried out from February 2 to 6",
+      "link": "https://www.thehindu.com/news/national/bihar/bihar-farmers-registration-work-from-february-2-to-6/article70567160.ece",
+      "summary": "Goal to Quickly Enter the Second Phase of ‘AgriStack’ in the Interest of Farmers. Farmers will receive free services at Common Service Centers (CSC); no fees will be charged",
+      "date": "2026-01-30",
+      "timestamp": "Fri, 30 Jan 2026 03:40:55 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "99ff25da364bd12d1c68225346209479",
+      "title": "SIR in Gujarat: 6.88 lakh seek inclusion, 9.88 lakh deletion in electoral rolls",
+      "link": "https://www.thehindu.com/news/national/gujarat/sir-in-gujarat-voters-inclusion-deletion-in-electoral-rolls/article70567138.ece",
+      "summary": "Officials said the final decision on additions and deletions will be taken after verification of the applications and supporting documents",
+      "date": "2026-01-30",
+      "timestamp": "Fri, 30 Jan 2026 03:34:27 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b59355a794f876d972e1986111c4c6cf",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 30 जनवरी के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-30",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-01-30",
-      "timestamp": "Fri, 30 Jan 2026 02:30:23 +0530",
+      "timestamp": "Fri, 30 Jan 2026 03:30:23 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -99509,9 +99600,22 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-30",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-01-30",
-      "timestamp": "Fri, 30 Jan 2026 02:30:12 +0530",
+      "timestamp": "Fri, 30 Jan 2026 03:30:11 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "ca882aace800d15c5e3a2307f5882a4f",
+      "title": "Rajasthan Congress Meeting In Delhi : खरगे- राहुल से मिले सचिन पायलट, इन मुद्दों पर हुई खुलकर बात!",
+      "link": "https://www.amarujala.com/video/india-news/rajasthan-congress-meeting-in-delhi-sachin-pilot-met-kharge-rahul-these-issues-were-discussed-openly-2026-01-30",
+      "summary": "Rajasthan Congress Meeting In Delhi : खरगे- राहुल से मिले सचिन पायलट, इन मुद्दों पर हुई खुलकर बात!",
+      "date": "2026-01-30",
+      "timestamp": "Fri, 30 Jan 2026 03:30:03 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -100388,6 +100492,19 @@
       "lang": "en"
     },
     {
+      "id": "a09eeb8ff2f715a89f31a45406990cc6",
+      "title": "No place for Panneerselvam in AIADMK, says Palaniswami",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/palaniswami-rejects-the-offer-of-panneerselvam-to-re-join-aiadmk/article70565220.ece",
+      "summary": "Mr. Panneerselvam was removed for betraying the party, the AIADMK general secretary says; in his sharpest attack on TVK leader Vijay, Mr. Palaniswami asks, “After the Karur stampede, Mr. Vijay could not even visit the families of the deceased. Then, what is the meaning of running a political party?”",
+      "date": "2026-01-30",
+      "timestamp": "Fri, 30 Jan 2026 01:36:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "057c4fae05fb9c52f8376e5125760545",
       "title": "UGC New Rule 2026 Row: UGC नियमों पर रोक लगने पर केंद्रीय मंत्री गिरिराज सिंह ने किया ये बड़ा दावा!",
       "link": "https://www.amarujala.com/video/india-news/ugc-new-rule-2026-row-union-minister-giriraj-singh-made-this-big-claim-after-the-ban-on-ugc-rules-2026-01-30",
@@ -100515,6 +100632,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "a65fc375a38f20e01c3d902be1e5a2e5",
+      "title": "India’s urban story one of unfinished promise: Economic Survey",
+      "link": "https://www.thehindu.com/business/budget/indias-urban-story-one-of-unfinished-promise-economic-survey/article70566792.ece",
+      "summary": "Supply-side constraints, governance gaps weigh on city life, says Survey",
+      "date": "2026-01-30",
+      "timestamp": "Fri, 30 Jan 2026 01:25:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -117431,6 +117561,19 @@
       "lang": "en"
     },
     {
+      "id": "3cfa414e7ed0d96b851134a1c6de2195",
+      "title": "'Heartbroken, alone': ICE arrests 58-year-old McDonald's worker, 'laughed' at son bringing medicine for father",
+      "link": "https://timesofindia.indiatimes.com/world/us/heartbroken-alone-ice-arrests-58-year-old-mcdonalds-worker-laughed-at-son-bringing-medicine-for-father/articleshow/127785718.cms",
+      "summary": "ICE agents allegedly mocked a teenager delivering life-saving medication to his ailing father at a detention center. The father, arrested at McDonald's, suffers from heart failure. The incident highlights concerns about ICE detention practices, with data suggesting many detainees lack criminal convictions. Public figures are voicing strong opposition to the administration's immigration policies.",
+      "date": "2026-01-29",
+      "timestamp": "2026-01-30T02:49:30+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9ea53bfa1eb99d83d62cb31984c87349",
       "title": "Errors detected: NHAI refunds toll in 18L cases",
       "link": "https://timesofindia.indiatimes.com/india/errors-detected-nhai-refunds-toll-in-18l-cases/articleshow/127785656.cms",
@@ -117505,6 +117648,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c771922fbf2dfc4f959b11971dc3f0dd",
+      "title": "Senate blocks government funding package as DHS dispute stalls talks — will US face a second shutdown?",
+      "link": "https://timesofindia.indiatimes.com/world/us/senate-blocks-government-funding-package-as-dhs-dispute-stalls-talks-will-us-face-a-second-shutdown/articleshow/127784609.cms",
+      "summary": "Senate Democrats and some Republicans blocked a government funding package, jeopardizing a Friday deadline and signaling ongoing negotiations. Democrats opposed the bill due to Homeland Security funding, demanding reforms to ICE's immigration crackdown. A shutdown could impact agencies like the IRS and court operations, though many departments are already funded.",
+      "date": "2026-01-29",
+      "timestamp": "2026-01-30T01:10:18+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
