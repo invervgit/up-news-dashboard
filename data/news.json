@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T21:23:13.722280+00:00",
+  "generated_at": "2026-01-30T22:19:58.432173+00:00",
   "stories": [
     {
       "id": "709e8a854f60fe06860fb6249b3b9b9d",
@@ -60309,6 +60309,58 @@
       "lang": "hi"
     },
     {
+      "id": "d31b0e4eb9260984882d4222d3c0b462",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 31 जनवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-31",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 03:30:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ad74f502458f3c1673c7b4737241a50b",
+      "title": "पढ़ें 31 जनवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-31",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 03:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "ab724ba35db02ff57cd8ffe232fa1e0c",
+      "title": "Ajit Pawar Death Plane Crash News: NCP के उपमुख्यमंत्री पद को लेकर बोले फडणवीस ने दिया ये बड़ा संकेत!",
+      "link": "https://www.amarujala.com/video/india-news/ajit-pawar-death-plane-crash-news-fadnavis-gave-this-big-indication-regarding-the-post-of-deputy-chief-minist-2026-01-31",
+      "summary": "Ajit Pawar Death Plane Crash News: NCP के उपमुख्यमंत्री पद को लेकर बोले फडणवीस ने दिया ये बड़ा संकेत!",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 03:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5eea396cc7321bbc062e3cd53937095b",
+      "title": "Maharashtra Zilla Parishad elections postponed to February 7: SEC",
+      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-zilla-parishad-elections-postponed-to-february-7-sec/article70571423.ece",
+      "summary": "According to the SEC, the Supreme Court has allowed an extension of two weeks for these elections beyond January 31",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 03:22:06 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d4e47072fd1fdf5b31b19edce033b6c9",
       "title": "Lucknow News: विद्यार्थियों ने जाना कैसे छपता है अखबार",
       "link": "https://www.amarujala.com/lucknow/students-learned-how-a-newspaper-is-printed-lucknow-news-c-13-1-lko1028-1583615-2026-01-31",
@@ -60517,6 +60569,19 @@
       "lang": "en"
     },
     {
+      "id": "57cac64bda38989ef859adbfcd1cc278",
+      "title": "Challenges stacked against Sunetra Pawar, who will take charge in a turbulent political scenario, amid a flux in two parties",
+      "link": "https://www.thehindu.com/news/national/maharashtra/challenges-against-sunetra-pawar-maharashtra-deputy-chief-minister-turbulent-political-scenario/article70572007.ece",
+      "summary": "For the NCP, it is now a battle for survival, where the legislators and cadres will not find any other face acceptable as a leadership option",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 02:34:45 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0140b58a591ed74d87a785913c775808",
       "title": "Lucknow News: लापता युवक का नाले में मिला शव",
       "link": "https://www.amarujala.com/lucknow/missing-youths-body-found-in-drain-lucknow-news-c-13-lko1070-1582510-2026-01-31",
@@ -60658,32 +60723,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "d31b0e4eb9260984882d4222d3c0b462",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 31 जनवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-31",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 02:30:23 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "ad74f502458f3c1673c7b4737241a50b",
-      "title": "पढ़ें 31 जनवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-01-31",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 02:30:11 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "341241c6dca39d232df6f183d5e4d8cb",
@@ -60985,6 +61024,19 @@
       "lang": "en"
     },
     {
+      "id": "08d37e7a0e1b56090fbb5547e524e3d9",
+      "title": "What I eat is my choice: ‘Daali’ Dhananjaya",
+      "link": "https://www.thehindu.com/news/national/karnataka/what-i-eat-is-my-choice-daali-dhananjaya/article70571603.ece",
+      "summary": "",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 01:55:55 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "837f9eec8632b79db38088195fe1d1e9",
       "title": "CJI: 'भू-राजनीतिक तनाव के बीच भारत-फ्रांस साझेदारी जीवनरेखा जैसी', जानिए मुख्य न्यायाधीश ने क्यों कही ये बात",
       "link": "https://www.amarujala.com/india-news/india-france-partnership-lifeline-amid-geopolitical-tension-cji-surya-kant-2026-01-31",
@@ -60998,6 +61050,19 @@
       "lang": "hi"
     },
     {
+      "id": "bfb8095d313de776458ded489b50ec8d",
+      "title": "Samyukt Kisan Morcha set to campaign against India-EU trade deal",
+      "link": "https://www.thehindu.com/news/national/india-eu-fta-is-a-blueprint-for-economic-colonisation-say-farmers-outfits/article70571164.ece",
+      "summary": "The opening of the processed food market will have a larger and disastrous impact on domestic agricultural production and small farmers, the Samyukt Kisan Morcha says in a statement",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 01:45:31 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9d85fd6ffc6c7d89dff0a81412fc8807",
       "title": "India-Arab Tise: जयशंकर ने अरब देश के विदेश मंत्रियों से की मुलाकात, सहयोग- शांति समेत इन मुद्दों पर हुई चर्चा",
       "link": "https://www.amarujala.com/india-news/india-arab-ties-jaishankar-met-with-the-foreign-ministers-of-arab-countries-peace-other-issues-were-discussed-2026-01-31",
@@ -61009,6 +61074,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "efec08c4f2e6bf74ada889d777f39779",
+      "title": "SIR in Bengal: Cricketer Jhulan Goswami summoned for hearing",
+      "link": "https://www.thehindu.com/news/national/west-bengal/sir-in-bengal-ex-india-women-cricketer-jhulan-goswami-summoned-for-sir-hearing/article70571938.ece",
+      "summary": "The matter triggered a sharp political reaction, with the Trinamool Congress accusing the BJP of targeting a national sports icon",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 01:39:03 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "2f957769b26d334f17ea8be7733cabb1",
@@ -61199,19 +61277,6 @@
       "summary": "Denies interim relief to the government in a case related to rental dispute between Tambaram Police Commissionerate and its landlords",
       "date": "2026-01-31",
       "timestamp": "Sat, 31 Jan 2026 00:49:51 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "efec08c4f2e6bf74ada889d777f39779",
-      "title": "SIR in Bengal: Ex-India women cricketer Jhulan Goswami summoned for SIR hearing",
-      "link": "https://www.thehindu.com/news/national/west-bengal/sir-in-bengal-ex-india-women-cricketer-jhulan-goswami-summoned-for-sir-hearing/article70571938.ece",
-      "summary": "The matter triggered a sharp political reaction, with the Trinamool Congress accusing the BJP of targeting a national sports icon",
-      "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 00:44:56 +0530",
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
@@ -88597,19 +88662,6 @@
       "lang": "en"
     },
     {
-      "id": "08d37e7a0e1b56090fbb5547e524e3d9",
-      "title": "What I eat is my choice: ‘Daali’ Dhananjaya",
-      "link": "https://www.thehindu.com/news/national/karnataka/what-i-eat-is-my-choice-daali-dhananjaya/article70571603.ece",
-      "summary": "",
-      "date": "2026-01-30",
-      "timestamp": "Fri, 30 Jan 2026 22:38:27 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "1250e8aceb826178fa9b5350146681e7",
       "title": "शुगर पीड़ित परीक्षार्थियों को सीबीएसई बोर्ड में छूट, ले जा सकेंगे दवा-चॉकलेट और फल",
       "link": "https://www.livehindustan.com/uttar-pradesh/cbse-board-students-will-be-given-exemption-for-diabetic-candidates-who-can-carry-medicines-chocolates-and-fruits-201769792086819.html",
@@ -88818,19 +88870,6 @@
       "lang": "en"
     },
     {
-      "id": "bfb8095d313de776458ded489b50ec8d",
-      "title": "India-EU FTA is a blueprint for economic colonisation, say farmers’ outfits",
-      "link": "https://www.thehindu.com/news/national/india-eu-fta-is-a-blueprint-for-economic-colonisation-say-farmers-outfits/article70571164.ece",
-      "summary": "The opening of the processed food market will have a larger and disastrous impact on domestic agricultural production and small farmers, the Samyukt Kisan Morcha says in a statement",
-      "date": "2026-01-30",
-      "timestamp": "Fri, 30 Jan 2026 22:16:55 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "578ce2e35e2f32250bc0c624e07f5a8c",
       "title": "Resurvey 2.0 should be error free, says A.P. Revenue Minister",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/resurvey-20-should-be-error-free-says-ap-revenue-minister/article70571191.ece",
@@ -88948,6 +88987,19 @@
       "lang": "en"
     },
     {
+      "id": "99aec9fd3a7734e73f9b52d64cd33561",
+      "title": "Iran says ready for ‘fair’ talks with US but not ‘under shadow of threats’",
+      "link": "https://www.aljazeera.com/news/2026/1/30/iran-says-ready-for-fair-talks-with-us-but-not-under-shadow-of-threats?traffic_source=rss",
+      "summary": "Iran's foreign minister says missile programme not up for negotiation as Trump says sending more ships to the region.",
+      "date": "2026-01-30",
+      "timestamp": "Fri, 30 Jan 2026 21:45:05 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "53eef924f425ee46c628653da3c7fd1a",
       "title": "List of candidates selected for Group-I posts available on APPSC website",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/list-of-candidates-selected-for-group-i-posts-available-on-appsc-website/article70571487.ece",
@@ -88957,6 +89009,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6daa1e5291e90b4881a781e75f548a8a",
+      "title": "Iran wants to make deal rather than face military action, Trump says",
+      "link": "https://www.bbc.com/news/articles/cd9ew2kwj0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran has said it will never negotiate on its missile and defence systems, but that it is open to talks.",
+      "date": "2026-01-30",
+      "timestamp": "Fri, 30 Jan 2026 21:43:51 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -89009,6 +89074,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "133f66fe6a4ded8d2cb3bbc57963e5c0",
+      "title": "Former CNN host Don Lemon faces charges after anti-ICE protest at Minnesota church",
+      "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
+      "summary": "Lemon says he was just doing his job as a journalist reporting on the protests at the church.",
+      "date": "2026-01-30",
+      "timestamp": "Fri, 30 Jan 2026 21:41:48 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -91401,19 +91479,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "133f66fe6a4ded8d2cb3bbc57963e5c0",
-      "title": "Former CNN host Don Lemon arrested after anti-ICE protest at Minnesota church",
-      "link": "https://www.bbc.com/news/articles/c24gm3dz36po?at_medium=RSS&at_campaign=rss",
-      "summary": "Lemon says he was just doing his job as a journalist reporting on the protests at the church.",
-      "date": "2026-01-30",
-      "timestamp": "Fri, 30 Jan 2026 17:44:59 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -116465,6 +116530,32 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7bec39c3e8b66f9c1f3509c8e18b5d12",
+      "title": "Sunetra seen as ideal choice as she could provide a smooth transition",
+      "link": "https://timesofindia.indiatimes.com/india/sunetra-seen-as-ideal-choice-as-she-could-provide-a-smooth-transition/articleshow/127810162.cms",
+      "summary": "",
+      "date": "2026-01-30",
+      "timestamp": "2026-01-31T03:24:05+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1208293a834b3d780751f04d4f7d0c83",
+      "title": "HasanAbi to stream on YouTube following Twitch suspension",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/hasanabi-to-stream-on-youtube-following-twitch-suspension/articleshow/127809832.cms",
+      "summary": "Popular streamer HasanAbi will continue his live streams on YouTube. This follows a temporary ban from Twitch. HasanAbi announced his move to YouTube to keep his fans engaged. He plans to cover a public demonstration with a mayoral candidate. This flexibility ensures content continues despite platform issues. Fans can catch his streams on YouTube while his Twitch access is restored.",
+      "date": "2026-01-30",
+      "timestamp": "2026-01-31T02:26:51+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
