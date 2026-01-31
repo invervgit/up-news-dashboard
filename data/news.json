@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-31T10:19:19.897530+00:00",
+  "generated_at": "2026-01-31T11:16:34.438926+00:00",
   "stories": [
     {
       "id": "709e8a854f60fe06860fb6249b3b9b9d",
@@ -60296,14 +60296,27 @@
       "lang": "en"
     },
     {
-      "id": "bc0d2225668283ed8cd2042bb77e58ec",
-      "title": "Madras High Court to use AI to retrieve information from voluminous documents",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-to-use-ai-to-retrieve-relevant-information-from-voluminous-documents/article70573624.ece",
-      "summary": "Justice N. Anand Venkatesh decides to use an algorithm which confines itself to record keeping and retrieval without any external influence",
+      "id": "23a2a30f98108902e2f2fa25a72ba4f6",
+      "title": "CPI(M), UDF seek comprehensive probe into businessman C.J. Roy's death",
+      "link": "https://www.thehindu.com/news/national/kerala/cpim-udf-seek-comprehensive-probe-into-businessman-cj-roys-death/article70573862.ece",
+      "summary": "CPI(M) state secretary M.V. Govindan, Rajya Sabha MP A.A. Rahim and Leader of Opposition V.D. Satheesan were of the view that the reasons behind the death of Roy needs to be investigated",
       "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 15:44:25 +0530",
+      "timestamp": "Sat, 31 Jan 2026 16:38:49 +0530",
       "section": "National",
-      "report_category": "National_Judicial",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "40e51afefa7a31188dd6a96749036718",
+      "title": "Senate passes Trump-backed government funding deal, sending to House",
+      "link": "https://www.thehindu.com/news/international/senate-passes-trump-backed-government-funding-deal-sending-to-house/article70573734.ece",
+      "summary": "The bill passed 71-29 and will now head to the House, which is not due back until Monday (February 2, 2026). That means the government could be in a partial shutdown temporarily over the weekend until they pass it",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 16:38:00 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -60314,7 +60327,7 @@
       "link": "https://www.thehindu.com/news/national/kerala/kerala-for-all-tourism-conclave-live-updates-on-jan-31-2026/article70573012.ece",
       "summary": "The two-day conclave on inclusive and accessible tourism, being held in Kochi, is organised by Kerala Tourism in partnership with The Hindu Group",
       "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 15:42:04 +0530",
+      "timestamp": "Sat, 31 Jan 2026 16:37:25 +0530",
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
@@ -60327,9 +60340,165 @@
       "link": "https://www.thehindu.com/news/national/maharashtra/sunetra-pawar-oath-taking-ceremony-maharashtra-deputy-cm-politics-live-updates-january-31-2026/article70573133.ece",
       "summary": "Sunetra Pawar was elected as NCP’s Legislature Party leader at a meeting in Mumbai today afternoon, and is all set to take oath as Maharashtra’s first woman Deputy CM",
       "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 15:40:25 +0530",
+      "timestamp": "Sat, 31 Jan 2026 16:33:38 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bc6ef51719b32145007da02da36fd3e7",
+      "title": "Ram temple construction expected to end by April 30; overall estimated cost ₹1,900 crore",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/ram-temple-construction-expected-to-end-by-april-30-overall-estimated-cost-1900-crore/article70573844.ece",
+      "summary": "Ram Temple Construction Committee chairman said that after April 30, all agreements with L&T, Tata Consultancy and the State Construction Corporation will be taken over by the Shri Ram Janmabhoomi Teerth Kshetra Trust.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 16:33:11 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7b38b1ba04c98f2f74144c6a933c4897",
+      "title": "Search operation launched along IB in J&K’s Samba after suspected Pakistan’s drone spotted",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-kashmir-security-forces-search-operation-samba-updates/article70573867.ece",
+      "summary": "The drone briefly hovered over Indian territory along the International Border (IB) near Chillyari village, they said, adding that the suspicious flying object returned towards Pakistan after hovering for a couple of minutes along the IB.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 16:31:44 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bc0d2225668283ed8cd2042bb77e58ec",
+      "title": "Madras High Court to use AI to retrieve information from voluminous documents",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-to-use-ai-to-retrieve-relevant-information-from-voluminous-documents/article70573624.ece",
+      "summary": "Justice N. Anand Venkatesh decides to use an algorithm which confines itself to record-keeping and retrieval without any external influence",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 16:22:12 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3d5725345177ce717e1e23234ee55e99",
+      "title": "Man suspected of spying for Pakistan's ISI remanded to police custody in Jaipur",
+      "link": "https://www.thehindu.com/news/national/man-suspected-of-spying-for-pakistans-isi-remanded-to-police-custody-in-jaipur/article70573858.ece",
+      "summary": "Rajasthan Police's Intelligence branch arrested him for allegedly transmitting sensitive Indian Army information across the border and engaging in anti-national activities",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 16:19:32 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "616792f19f9ef7bae6ab9df90508f838",
+      "title": "बुजुर्ग को नाबालिग लड़की संग दुष्कर्म करते देख हैरान रह गया ग्रामीण, चुपके से बनाया वीडियो; फिर...",
+      "link": "https://www.livehindustan.com/uttar-pradesh/villager-stunned-to-see-an-elderly-man-raping-a-minor-girl-secretly-filmed-it-then-give-it-to-the-police-201769855011225.html",
+      "summary": "उधर से गुजर रहे एक ग्रामीण की नजर खेत में बुजुर्ग और लड़की पर पड़ गई। उसने चुपके से मोबाइल से इसका वीडियो बना लिया। उसने लड़की के परिवारीजनों को यह वीडियो सौंपते हुए पूरी घटना के बारे में जानकारी दी। वीडियो देखते ही परिवारीजनों के पैरों के नीचे से जमीन खिसक गई।",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 16:13:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "daddb4d3f06dee17150af7676089bf95",
+      "title": "यूपी में भीषण हादसा: 100 की स्पीड से आ रहे ट्रक ने दो ऑटो में मारी टक्कर, पांच लोगों की मौत",
+      "link": "https://www.livehindustan.com/uttar-pradesh/tragic-accident-agra-truck-traveling-at-100-km-h-collided-with-two-auto-rickshaws-killing-six-people-201769854986789.html",
+      "summary": "आगरा में शनिवार को भीषण हादसा हो गया। एक तेज रफ्तार ट्रक ने दो ऑटो में टक्कर मार दी। ट्रक की टक्कर लगने से ऑटो में बैठे पांच लोगों की मौत हो गई। जबकि तीन लोग बुरी तरह से घायल हो गए।",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 16:04:58 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5e8bb290745f695c8cd44b0a1ad853d7",
+      "title": "Bharat Jodo Yatra a transformative event in India's politics: Congress",
+      "link": "https://www.thehindu.com/news/national/bharat-jodo-yatra-a-transformative-event-in-indias-politics-congress/article70573810.ece",
+      "summary": "It will be recalled and cherished for decades to come, Jairam Ramesh said",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 16:00:47 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3ef84ed0afa2e4bc1dfc337da6058f04",
+      "title": "U.S. government shuts down but quick resolution expected",
+      "link": "https://www.thehindu.com/news/international/us-govt-shutdown-midnight-funding-deadline-passed/article70573282.ece",
+      "summary": "The funding lapse followed a breakdown in negotiations driven by Democratic anger over the killing of two protesters in Minneapolis by federal immigration agents",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 15:59:29 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a561bdf08e84e93c5083b6b389902ff8",
+      "title": "Shawl seller assault in Uttarakhand: PDP protest march ‘disallowed’ in Srinagar",
+      "link": "https://www.thehindu.com/news/national/uttarakhand/shawl-seller-assault-in-uttarakhand-pdp-protest-march-not-allowed-in-srinagar/article70573709.ece",
+      "summary": "Carrying placards seeking attention and end to the thrashing of Kashmiris outside Jammu & Kashmir, PDP leaders assembled at the party headquarters in Srinagar.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 15:57:55 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c0fed52b98f824c9b20aad0ff9c7bea3",
+      "title": "Children among six injured as suspicious material explodes in Karnataka's Bidar",
+      "link": "https://www.thehindu.com/news/national/karnataka/suspicious-material-explodes-in-karnatakas-bidar-injuries/article70573756.ece",
+      "summary": "Karnataka: The nature of the material that exploded and other details are currently being verified and are part of the investigation",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 15:54:14 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "702b6953acb4ff2ae18d96d58b9c801c",
+      "title": "अयोध्या गैंगरेप केस: सपा नेता को बरी करने के फैसले को हाईकोर्ट में चुनौती देगी यूपी सरकार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/ayodhya-gang-rape-case-up-government-to-challenge-acquittal-sp-leader-high-court-201769854275205.html",
+      "summary": "सामूहिक दुष्कर्म मामले में अयोध्या की एक विशेष अदालत द्वारा समाजवादी पार्टी के नेता मोईद खान को बरी किए जाने को फैसले को यूपी इलाहाबाद हाईकोर्ट में चुनौती देने की तैयारी कर रही है।",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 15:48:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "584422ef6d546e34f29c93524404ac95",
+      "title": "UGC row: Consistency of not consulting anybody reflects in every decision of government, says Sibal",
+      "link": "https://www.thehindu.com/news/national/ugc-row-consistency-of-not-consulting-anybody-reflects-in-every-decision-of-government-says-sibal/article70573751.ece",
+      "summary": "Kapil Sibal asserted that it would not be appropriate for him to give his opinion on the matter as it is pending before the Supreme Court",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 15:46:38 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -60343,19 +60512,6 @@
       "timestamp": "Sat, 31 Jan 2026 15:39:37 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "584422ef6d546e34f29c93524404ac95",
-      "title": "UGC row: Consistency of not consulting anybody reflects in every decision of government, says Sibal",
-      "link": "https://www.thehindu.com/news/national/ugc-row-consistency-of-not-consulting-anybody-reflects-in-every-decision-of-government-says-sibal/article70573751.ece",
-      "summary": "Kapil Sibal asserted that it would not be appropriate for him to give his opinion on the matter as it is pending before the Supreme Court",
-      "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 15:34:32 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -60395,19 +60551,6 @@
       "timestamp": "Sat, 31 Jan 2026 15:28:06 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "c0fed52b98f824c9b20aad0ff9c7bea3",
-      "title": "Children among six injured as suspicious material explodes in Karnataka's Bidar",
-      "link": "https://www.thehindu.com/news/national/karnataka/suspicious-material-explodes-in-karnatakas-bidar-injuries/article70573756.ece",
-      "summary": "According to police, the incident occurred on the road leading to Molige Marayya temple in Molkhera village of Homnabad taluk",
-      "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 15:27:58 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -60657,19 +60800,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "3ef84ed0afa2e4bc1dfc337da6058f04",
-      "title": "U.S. government shuts down but quick resolution expected",
-      "link": "https://www.thehindu.com/news/international/us-govt-shutdown-midnight-funding-deadline-passed/article70573282.ece",
-      "summary": "The funding lapse followed a breakdown in negotiations driven by Democratic anger over the killing of two protesters in Minneapolis by federal immigration agents",
-      "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 14:38:32 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -61934,6 +62064,19 @@
       "lang": "en"
     },
     {
+      "id": "4c48c948b13d6320f4d10af7b39e3928",
+      "title": "Takeaways from the millions of newly released Epstein files",
+      "link": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three million new documents include hundreds of mentions of Trump and emails between Epstein and a person called \"The Duke\".",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 11:13:04 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ec00de421689e590898eac8e5ad5b0b9",
       "title": "कारोबार: 76 हजार करोड़ की 15 परियोजनाओं को न जमीन मिली न एनओसी, अब 20 हजार करोड़ का नया लक्ष्य",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/up-government-included-sonbhadra-among-top-five-districts-for-ground-breaking-ceremony-5-2026-01-31",
@@ -61957,6 +62100,19 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "200e29dced8fa87ae478dc3126f2fb59",
+      "title": "Alankar reaches home post-resignation, mother welcomes him in Kanpur:Says fight is against central government; people shout, 'Look, the lion has come'",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/kanpur-alankar-agnihotri-resignation-protest-central-govt-lion-come-137087948.html",
+      "summary": "Bareilly City Magistrate Alankar Agnihotri, who resigned in protest against the insult to Swami Avimukteshwaranand, returned home to Kanpur on Saturday. At his Keshav Nagar residence, women welcomed him with conch shells, while his mother, Geeta Agnihotri, garlanded and embraced him. Supporters also showered Alankar Agnihotri with flowers and garlands, chanting slogans like, ‘Look, the lion has come,’ and danced enthusiastically. Alankar accepted the greetings and told Dainik Bhaskar that he plans to meet Shankaracharya in two to three days and currently has no intention of accepting any position offered by him. He said, Our next step is the repeal of another black law of the country, the SC-ST Act. 95% of complaints filed are fake. People from general categories like Brahmins, Kshatriyas, Kayasthas, Vaishyas, Bhumihars, and OBC categories are harassed. Money is extorted. If the government does not take a decision on this by calling a special parliamentary session within 7 days, we will march towards Delhi with a movement. Alankar Agnihotri said, UGC Regulation 2026 was issued in the Gazette of the Government of India. I would now like to clearly name them, this is a well-planned, well-thought-out conspiracy by Modi and Shah. They got such a gazette prepared, which could make General and OBC fight among themselves.A conspiracy was hatched to influence the UP assembly elections to be held in 2027. It was the blessing of Bajrangbali that our conscience awakened in time. It could be stopped by the order of the Supreme Court. All parties are in our contact On the question of being in contact with political parties, Alankar Agnihotri said - 'All political parties, Brahmin organisations, farmer organisations, and upper caste society, OBC organisations are in our contact. SC-ST organisations are also in our contact.' Alankar criticises central government’s ‘Loot’ Alankar targeted the central government, saying it resembles the East India Company looting in the past, now led by two 'West India Company' figures, whose CEO and MD will be sent to Gujarat by chartered plane. He added that Kanpur, city of Tatya Tope and Nana Saheb, witnessed Dandi March-like protests and punishments. Since this government came to power, it expects 1% commission from the state, while MPs and MLAs face pressure from sycophantic ED, CBI, and IT officers, with the West India Company demanding extortion in their own ways. Resigned on January 26 Bareilly City Magistrate Alankar Agnihotri had resigned from his post on Republic Day. He cited the new UGC law and the beating of Shankaracharya Avimukteshwaranand's disciples as the reasons. However, his resignation was not accepted. The government suspended him and initiated an inquiry. On the evening of January 26, around 7:30 PM, the City Magistrate reached DM Avinash Singh's residence to meet him. Upon coming out, the City Magistrate said- I was held hostage for 45 minutes at the DM's residence. A call came to the DM from Lucknow. It was said, while abusing, that Pandit has gone mad. Keep him hostage overnight. I had already informed the media. I was released at the SSP's behest. I have fled to save my life. The City Magistrate vacated his official residence. As he left, he said he was staying with his acquaintances in Bareilly today. He will sit with them and decide the future strategy. Resigned by writing a 5-page letter Alankar Agnihotri also wrote a 5-page letter in his resignation. In which he said- 'During the Prayagraj Magh Mela, the topknot of Shankaracharya's disciples was caught.' He wrote- Such an incident shakes any ordinary Brahmin from within. It seems that the administration and the current government are working against Brahmins and saints. Their honor is being toyed with. There is no one to speak for Brahmins. Alankar Agnihotri asked if there is a preparation for the genocide of Brahmins. Along with the ADM, three officers stayed at his residence for about an hour to persuade him before leaving. Leaders of several Brahmin organisations and SP-Congress workers also met him, while protests took place outside. A PCS officer since 2019 with 15th rank, Alankar had earlier come into the spotlight for displaying a picture of Lord Bajrangbali in his office, which led to a ruckus by Bhim Army and an altercation with officials.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 11:10:40 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -62142,6 +62298,19 @@
       "lang": "en"
     },
     {
+      "id": "bf78e4d4b8d75397c28e90132e556439",
+      "title": "Djokovic vs Alcaraz – Australian Open final: Start time, head-to-head",
+      "link": "https://www.aljazeera.com/sports/2026/1/31/djokovic-vs-alcaraz-australian-open-final-start-time-head-to-head?traffic_source=rss",
+      "summary": "The veteran icon faces the young champion as their inter-generational tennis rivalry sets up a blockbuster showdown.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 10:47:53 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "001bf6baf18ef4b58da87b9fccc0a446",
       "title": "BHU Hospital: आईएमएस बीएचयू में हर महीने बीमारी के कारण और निवारण पर होगी चर्चा, आम लोग भी हो सकेंगे शामिल",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/ims-bhu-will-hold-monthly-discussions-on-the-causes-and-prevention-of-diseases-varanasi-news-c-20-vns1056-1273781-2026-01-31",
@@ -62194,6 +62363,19 @@
       "lang": "en"
     },
     {
+      "id": "88bc198919e5f276c4a4f61a1f28f427",
+      "title": "Why have rapper Ghali’s Israel comments led to Winter Olympics criticism?",
+      "link": "https://www.aljazeera.com/sports/2026/1/31/why-has-rapper-ghalis-israel-comments-led-to-winter-olympics-criticism?traffic_source=rss",
+      "summary": "The Milano-Cortina Winter Olympics open on Monday, but rapper Ghali's inclusion draws criticism in his native Italy.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 10:39:24 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "123d20b11c9e3ee0b06a961170cf19f9",
       "title": "Varanasi Weather: बनारस में 10 दिन बाद लौटी ठंड, बारिश के साथ हो सकती है फरवरी की शुरुआत; जानें- मौसम का हाल",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-weather-update-forecast-of-storm-and-rain-alert-in-february-2026-01-31",
@@ -62242,6 +62424,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3e466c6084e832343b16d7dfeeec23dd",
+      "title": "Judge blocks US gov’t move to end deportation protections for Ethiopians",
+      "link": "https://www.aljazeera.com/news/2026/1/31/judge-blocks-us-govt-move-to-end-deportation-protections-for-ethiopians?traffic_source=rss",
+      "summary": "Ruling delays February 13 deadline affecting 5,000 people amid wider legal challenges to Trump's immigration crackdown.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 10:32:59 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -62441,6 +62636,32 @@
       "lang": "en"
     },
     {
+      "id": "5ccad58c4380589a62375cd60ed4a4cc",
+      "title": "‘Like judgement day’: Sudanese doctor recounts escape from el-Fasher",
+      "link": "https://www.aljazeera.com/news/2026/1/31/like-judgment-day-sudanese-doctor-recounts-escape-from-el-fasher?traffic_source=rss",
+      "summary": "Physician who fled the city's last functioning hospital recounts RSF assault on the capital of North Darfur province.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 10:08:54 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0f35832026c94d4b5f195ebe4347cf92",
+      "title": "Officials defend conditions at pre-Olympic race after Vonn crash",
+      "link": "https://www.aljazeera.com/sports/2026/1/31/officials-defend-conditions-at-pre-olympic-race-after-vonn-crash?traffic_source=rss",
+      "summary": "Crans-Montana event was cancelled after Linsey Vonn was third of first six skiers to crash, but race was deemed safe.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 10:06:32 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4f9e22f9611b5efaf8cdf9e50a6a0ec4",
       "title": "UP: गुंडे-बदमाश परेशान करें तो दहशत में न आएं, पुलिस ने जारी किया ये हेल्पलाइन नंबर; नोट करके रख लें",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/up-police-launch-helpline-to-act-against-goons-after-high-profile-murder-2026-01-31",
@@ -62503,6 +62724,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9dfa5af0dd329997a6c7336e0c78fa79",
+      "title": "Why attacking UNRWA is attacking Gaza’s survival",
+      "link": "https://www.aljazeera.com/opinions/2026/1/31/why-attacking-unrwa-is-attacking-gazas-survival?traffic_source=rss",
+      "summary": "The UN agency is able to provide much-needed services to the entire Strip at scale, but it is prevented from doing so.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 09:55:45 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -62728,7 +62962,7 @@
     },
     {
       "id": "4b2b530ac85bc8e187f067615bf59106",
-      "title": "LIVE: Israel kills 12, including 6 children, in new Gaza ceasefire breach",
+      "title": "LIVE: Israel kills 25, including 6 children, in new Gaza ceasefire breach",
       "link": "https://www.aljazeera.com/news/liveblog/2026/1/31/live-israel-kills-12-palestinians-in-gaza-as-rafah-crossing-set-to-open?traffic_source=rss",
       "summary": "Israel carries out deadly attacks in Gaza a day before the Rafah crossing is due to reopen.",
       "date": "2026-01-31",
@@ -62763,19 +62997,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "4c48c948b13d6320f4d10af7b39e3928",
-      "title": "Takeaways from the millions of newly released Epstein files",
-      "link": "https://www.bbc.com/news/articles/cevnmxyy4wjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Three million new documents include hundreds of mentions of Trump and emails between Epstein and a person called \"The Duke\".",
-      "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 08:42:28 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -63663,6 +63884,32 @@
       "lang": "hi"
     },
     {
+      "id": "86094c9b7e363b6112938e7fd72941ec",
+      "title": "Kashi Vishwanath Dham: गुजरात से आए भक्त ने विश्वनाथ धाम में दान में दिए पांच वाहन, भक्तों को होगी सुविधा",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/devotee-somnath-donates-five-cars-at-kashi-vishwanath-dham-at-varanasi-2026-01-31",
+      "summary": "इन गोल्फ कार्ट के माध्यम से उन्हें मंदिर तक पहुंचने में बड़ी सुविधा मिलेगी। ये गोल्फ कार्ट विशेष रूप से गोदौलिया और मैदागिन से काशी विश्वनाथ मंदिर तक आने-जाने वाले बुजुर्ग और दिव्यांग श्रद्धालुओं की सेवा में लगाई जाएंगी।",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 04:46:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "2efd6cacf8b08b7ae2cf39969d59f300",
+      "title": "Amit Shah In Siliguri: अमित शाह ने ममता सरकार को देश में सबसे भ्रष्ट बताया, सिलीगुड़ी में फूंका सियासी बिगुल",
+      "link": "https://www.amarujala.com/india-news/wst-bengal-amit-shah-siliguri-mamata-govt-most-corrupt-in-country-bjp-v-tmc-majority-in-upcoming-assembly-poll-2026-01-31",
+      "summary": "Amit Shah In Siliguri: अमित शाह ने ममता सरकार को देश में सबसे भ्रष्ट बताया, सिलीगुड़ी में फूंका सियासी बिगुल",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 04:44:54 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "39ae5b258205bd0d8cd04d13de2d7dab",
       "title": "UP Police draw criticism for ‘half-encounters’:Allahabad High Court warns officers, issues 6-point guidelines against unlawful actions for awards",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/allahabad-hc-warns-officers-guidelines-unlawful-actions-praise-awards-137085787.html",
@@ -63676,6 +63923,19 @@
       "lang": "en"
     },
     {
+      "id": "8e8d1010ac07692929ef5a1c3e40c8b5",
+      "title": "Bengal Violence: NIA ने शुरू की बेलडांगा हिंसा की जांच, साजिश और फर्जी खबरों के एंगल पर होगी एजेंसी की नजर",
+      "link": "https://www.amarujala.com/india-news/bengal-beldanga-violenc-nia-probe-investigation-agency-focus-on-conspiracy-fake-news-angles-2026-01-31",
+      "summary": "Bengal Violence: NIA ने शुरू की बेलडांगा हिंसा की जांच, साजिश और फर्जी खबरों के एंगल पर होगी एजेंसी की नजर---Bengal Beldanga violenc NIA probe investigation agency focus on conspiracy fake news angles",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 04:33:20 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "968765b93b5a8e623d121eab3e42a00c",
       "title": "Myanmar election delivers walkover win for military-backed political party",
       "link": "https://www.aljazeera.com/news/2026/1/31/myanmar-election-delivers-walkover-win-for-military-backed-political-party?traffic_source=rss",
@@ -63686,6 +63946,19 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d31b0e4eb9260984882d4222d3c0b462",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 31 जनवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-31",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 04:30:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -63712,6 +63985,19 @@
       "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "49e071c07317afb6c51fd6899c6f55a8",
+      "title": "AmbedkarNagar News: शाम को देवर से हुई कहासुनी, सुबह मायकेवालों को मिली बेटी की मौत की खबर; पुलिस कर रही जांच",
+      "link": "https://www.amarujala.com/uttar-pradesh/ambedkar-nagar/woman-died-under-suspicious-circumstances-after-altercation-with-her-brother-in-law-in-ambedkar-nagar-2026-01-31",
+      "summary": "यूपी के अंबेडकरनगर में शुक्रवार की रात विवाहिता की संदिग्ध हालात में मौत हो गई। घरवालों ने देवर पर हत्या करने का आरोप लगाया है।",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 04:20:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -63754,6 +64040,19 @@
       "lang": "en"
     },
     {
+      "id": "0306f473a31629f8f532fb398625c8cb",
+      "title": "Azamgarh News: जेडी कार्यालय में जमकर हंगामा, डीआईओएस पर वेतन भुगतान के लिए 25 लाख घूस लेने का आरोप",
+      "link": "https://www.amarujala.com/uttar-pradesh/azamgarh/azamgarh-dios-accused-of-taking-bribe-of-rs-25-lakh-for-payment-of-teachers-salaries-2026-01-31",
+      "summary": "करीब आधे घंटे तक कार्यालय में हंगामा होता रहा। संयुक्त शिक्षा निदेशक ने दोनों पक्षों को समझाते हुए मामले को शांत कराया और जांच कर आवश्यक कार्रवाई करने का आश्वासन दिया।",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 04:16:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "4fa247a461ef8a62ebd38c9355acb794",
       "title": "Moid Khan acquitted in Ayodhya gangrape case:Son Zaheer insists demolished complex belongs to uncle, family plans to challenge bulldozer action",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/ayodhya-moeid-khan-acquitted-gangrape-case-challenge-dna-report-137085644.html",
@@ -63765,6 +64064,45 @@
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "350c61e6d20bbf7901a7ac3fc3780595",
+      "title": "किशोर मन पर भारी पड़ी डांट: रायबरेली में घर छोड़कर चला गया बेटा, अब मां की आंखों में इंतजार; मोबाइल बना कारण",
+      "link": "https://www.amarujala.com/uttar-pradesh/raebareli/teenager-left-his-home-after-being-refused-to-use-mobile-phone-in-raebareli-2026-01-31",
+      "summary": "यूपी के रायबरेली में मोबाइल चलाने से मना करने पर किशोर घर छोड़कर चला गया। परिजनों ने उसकी खोजबीन की, लेकिन कुछ पता नहीं चला।",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 04:02:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "daff759f7a3902cc5b8d38c13c77d7f5",
+      "title": "महिला का कत्ल: ईंट और पेड़ों पर खून ही खून, निर्वस्त्र लाश; दुकानदार-बुजुर्ग को न लगी भनक; अब CCTV खोलेगा राज",
+      "link": "https://www.amarujala.com/photo-gallery/gorakhpur/a-woman-was-murdered-and-her-body-was-found-under-bridge-of-the-gobarhiya-canal-in-gorakhpur-2026-01-31",
+      "summary": "गोरखपुर के पीपीगंज थाना क्षेत्र में गोबरहिया नाले के पुल के नीचे शुक्रवार सुबह महिला का निर्वस्त्र शव मिलने से सनसनी फैल गई। ग्रामीणों ने शव देखकर पुलिस को सूचना दी। महिला का सिर कूंचा गया था।",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 03:55:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "12f4c8f742fc4075587c366cd65520c3",
+      "title": "केरल हाईकोर्ट का अहम फैसला: मेडिकल तरीके से गिराया जा सकेगा 31 हफ्ते का भ्रूण, अदालत ने इन आधारों पर दी अनुमति",
+      "link": "https://www.amarujala.com/india-news/kerala-hc-permits-termination-of-over-31-weeks-old-foetus-suffering-from-abnormalities-2026-01-31",
+      "summary": "केरल हाईकोर्ट का अहम फैसला: मेडिकल तरीके से गिराया जा सकेगा 31 हफ्ते का भ्रूण, अदालत ने इन आधारों पर दी अनुमति",
+      "date": "2026-01-31",
+      "timestamp": "Sat, 31 Jan 2026 03:53:37 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "849edca3c45f0c8413f20b90b8344e83",
@@ -63851,19 +64189,6 @@
       "summary": "गुजरात के अहमदाबाद में पकड़े गए संदिग्ध आतंकी फैजान शेख उर्फ फैजान सलमानी के मामले में खुफिया तंत्र सक्रिय हो गया है। शुक्रवार को स्पेशल इन्वेस्टिगेशन यूनिट मुरादाबाद की टीम स्वार पहुंची।",
       "date": "2026-01-31",
       "timestamp": "Sat, 31 Jan 2026 03:31:16 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "d31b0e4eb9260984882d4222d3c0b462",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 31 जनवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-01-31",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 03:30:26 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -63963,7 +64288,7 @@
     },
     {
       "id": "448addf4a03e4c69ac63a78a399681a4",
-      "title": "कौन हैं सुनेत्रा पवार?: इस सियासी परिवार की बेटी को संकट ने सियासत में धकेला, अब होंगी महाराष्ट्र की नई 'दादा'",
+      "title": "कौन हैं सुनेत्रा पवार?: इस सियासी परिवार की बेटी को संकट ने सियासत में धकेला, अब संभालेंगी 'दादा' की विरासत",
       "link": "https://www.amarujala.com/india-news/sunetra-pawar-profile-nationalist-congress-party-deputy-cm-of-maharashtra-family-political-history-ajit-pawar-2026-01-31",
       "summary": "सुनेत्रा पवार कौन हैं? अजित पवार से इतर उनकी अपनी क्या पहचान रही है? उनका पारिवारिक इतिहास क्या रहा है? अजित पवार से उनकी शादी कैसे हुई? सुनेत्रा की राजनीति में कब एंट्री हुई? आइये जानते हैं...",
       "date": "2026-01-31",
@@ -104323,6 +104648,32 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "25ed10d485f7daf9c0f917399f99ddd1",
+      "title": "Power tussle in states: Why is Congress leadership shying away from hard decisions",
+      "link": "https://timesofindia.indiatimes.com/india/power-tussle-in-states-why-is-congress-leadership-shying-away-from-hard-decisions/articleshow/127818112.cms",
+      "summary": "",
+      "date": "2026-01-31",
+      "timestamp": "2026-01-31T16:15:45+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "491f289b27f60489bf1b72771b409a63",
+      "title": "Suspected Pakistani drone sighted in J&K’s Samba; second time in a row",
+      "link": "https://timesofindia.indiatimes.com/india/suspected-pakistani-drone-sighted-in-jks-samba-second-time-in-a-row/articleshow/127817693.cms",
+      "summary": "",
+      "date": "2026-01-31",
+      "timestamp": "2026-01-31T15:49:06+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
