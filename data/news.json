@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T08:26:30.505826+00:00",
+  "generated_at": "2026-02-01T09:26:11.636916+00:00",
   "stories": [
     {
       "id": "709e8a854f60fe06860fb6249b3b9b9d",
@@ -60296,12 +60296,25 @@
       "lang": "en"
     },
     {
-      "id": "1da51c792707a25beeff0df808454429",
-      "title": "Union Budget 2026-27: Finance Minister Sitharaman proposes incentives of ₹100 crore for single bond issuance by municipal corporations",
-      "link": "https://www.thehindu.com/business/budget/union-budget-2026-27-finance-minister-sitharaman-proposes-incentives-of-100-crore-for-single-bond-issuance-by-municipal-corporations/article70577377.ece",
-      "summary": "The Finance Minister also announced restructuring of REC Limited and PFC as part of the government's public sector financial institution strengthening",
+      "id": "25e1f517b2bb90e6468ce74c53f5ead6",
+      "title": "45 साल बाद घोड़े के गले की घंटी लौटाई, मांगी भी माफी; किसान के पछतावे की कहानी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/horse-bell-returned-45-years-later-by-farmer-and-apology-in-saharanpur-201769936907267.html",
+      "summary": "सहारनपुर के नानौता में किसान नरेश त्यागी ने 45 साल पहले खेत में घुसने पर घोड़े के गले से घंटी उतार ली थी। बाद में ग्लानि हुई तो मालिक को खोजते रहे। अब मालिक की मौत के बाद उसके बेटे को घंटी लौटाकर माफी मांगी।",
       "date": "2026-02-01",
-      "timestamp": "Sun, 01 Feb 2026 13:49:01 +0530",
+      "timestamp": "Sun, 01 Feb 2026 14:49:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "fdd7363b130e5f81ed5e66c56ba1a654",
+      "title": "Union Budget 2026 LIVE: Finance Minister addresses post-Budget presser",
+      "link": "https://www.thehindu.com/business/budget/union-budget-2026-nirmala-sitharaman-allocations-income-tax-slabs-live-updates/article70573992.ece",
+      "summary": "Govt to provide tax holiday for foreign cos offering cloud services using India data centres; FM proposes to exempt minimum alternate tax for non-residents paying tax on presumptive basis",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:49:11 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -60309,14 +60322,131 @@
       "lang": "en"
     },
     {
-      "id": "fdd7363b130e5f81ed5e66c56ba1a654",
-      "title": "Union Budget 2026 LIVE: Nirmala Sitharaman pegs fiscal deficit lower at 4.3% of GDP for 2026-27",
-      "link": "https://www.thehindu.com/business/budget/union-budget-2026-nirmala-sitharaman-allocations-income-tax-slabs-live-updates/article70573992.ece",
-      "summary": "Govt to provide tax holiday for foreign cos offering cloud services using India data centres; FM proposes to exempt minimum alternate tax for non-residents paying tax on presumptive basis",
+      "id": "683cf3c29fcceb22d822b4f1d8c5bc80",
+      "title": "New Income Tax Act will come into effect April 1, 2026: FM Sitharaman",
+      "link": "https://www.thehindu.com/business/budget/union-budget-nirmala-sitharaman-new-income-tax-act-april-1-2026/article70577176.ece",
+      "summary": "Ms. Sitharaman added the simplified new I-T rules would also be notified “shortly”",
       "date": "2026-02-01",
-      "timestamp": "Sun, 01 Feb 2026 13:48:26 +0530",
+      "timestamp": "Sun, 01 Feb 2026 14:48:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "db1380cdc16aa6875230924c514f6f99",
+      "title": "Three college students killed, three others injured as car collides with bus at Ezhuthur",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/three-college-students-killed-three-others-injured-as-car-collides-with-bus-at-ezhuthur/article70577606.ece",
+      "summary": "As the car approached Ezhuthur, the driver lost control of the wheel, and the vehicle jumped the median and landed on the opposite lane",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:47:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "22a72a3d802bde94db436aa92cd4cebb",
+      "title": "Statue of Ramasamy Reddiyar to be installed on Omandurar Govt. Medical College campus: Stalin",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/statue-of-ramasamy-reddiyar-to-be-installed-on-omandurar-govt-medical-college-campus-stalin/article70577252.ece",
+      "summary": "",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:41:13 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dcb261e852919661320584007806e38e",
+      "title": "Union Budget rolls out roadmap to digitise heritage and open up archaeological sites",
+      "link": "https://www.thehindu.com/business/budget/union-budget-national-destination-digital-knowledge-grid-to-be-set-up/article70577178.ece",
+      "summary": "Finance Minister announced National Destination Digital Knowledge Grid to document all places of significance",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:38:46 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "49f94f3042c6ae7822b1ae20cee1a39c",
+      "title": "Kerala for All conclave: Kerala urged to build world-class accessibility model in tourism",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-kerala-urged-to-build-world-class-accessibility-model-in-tourism/article70577441.ece",
+      "summary": "Suman Billa, Additional Secretary and Director General, Ministry of Tourism, Government of India, stresses the need to think about accessibility beyond hard infrastructure and to incorporate assistive technologies powered by artificial intelligence",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:35:57 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b23c77f61fcf9005e5ae5ccfc900100c",
+      "title": "FM Sitharaman proposes 'East Coast Industrial Corridor', 5 tourism destinations in 'Purvodaya' States in Union Budget",
+      "link": "https://www.thehindu.com/business/budget/fm-sitharaman-proposes-east-coast-industrial-corridor-5-tourism-destinations-in-purvodaya-states-in-union-budget-2026/article70577513.ece",
+      "summary": "Nirmala Sitharaman proposed to launch a scheme for the development of Buddhist circuits in six northeastern States",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:34:55 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cf8a2030da9e927dca2da1f8f111e171",
+      "title": "Dedicated rare earth corridors in TN, Kerala, would promote mining: CII",
+      "link": "https://www.thehindu.com/business/budget/dedicated-rare-earth-corridors-in-tn-kerala-would-promote-mining-cii/article70577490.ece",
+      "summary": "The Union Budget 2026 proposal towards establishment of Rare Earth Corridors would help promote mining, processing, research and manufacturing and thus help build India's leadership in rare earth magnets",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:34:07 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9608176bd0550c15b71612f81a83dcc7",
+      "title": "Union Budget 2026 political reactions LIVE: Budget is historic, foundation for journey towards Viksit Bharat by 2047, says PM Modi",
+      "link": "https://www.thehindu.com/business/budget/union-budget-2026-nirmala-sitharaman-political-reactions-opposition-response-live-updates/article70574696.ece",
+      "summary": "Finance Minister Nirmala Sitharaman presented the Union Budget 2026 for the ninth straight time",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:28:47 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d9ecf8f5f61fece2fa9bf4b3bc9e9d8d",
+      "title": "Finance Minister announces 5 university townships near major industrial logistic hubs in Union Budget",
+      "link": "https://www.thehindu.com/business/budget/finance-minister-announces-5-university-townships-near-major-industrial-logistic-hubs-in-union-budget-2026/article70577406.ece",
+      "summary": "Nirmala Sitharaman also announced the setting up of one girls' hostel in every district of the country",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:24:47 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1da51c792707a25beeff0df808454429",
+      "title": "Union Budget 2026-27: Finance Minister Sitharaman proposes incentives of ₹100 crore for single bond issuance by municipal corporations",
+      "link": "https://www.thehindu.com/business/budget/union-budget-2026-27-finance-minister-sitharaman-proposes-incentives-of-100-crore-for-single-bond-issuance-by-municipal-corporations/article70577377.ece",
+      "summary": "The Finance Minister also announced restructuring of REC Limited and PFC as part of the government's public sector financial institution strengthening",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:23:09 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -60327,9 +60457,87 @@
       "link": "https://www.thehindu.com/news/national/kerala/kerala-for-all-conclave-day-two-live-updates-feb-1-2026/article70576726.ece",
       "summary": "Day Two brings policymakers, administrators, practitioners and industry leaders together to outline pathways to embed inclusive thinking into the future of Kerala’s tourism landscape",
       "date": "2026-02-01",
-      "timestamp": "Sun, 01 Feb 2026 13:46:19 +0530",
+      "timestamp": "Sun, 01 Feb 2026 14:22:34 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3a39df5215cbf43c6ad7384025dc305b",
+      "title": "ये सपने वाला बजट सिर्फ 5 फीसदी लोगों के लिए है; अखिलेश यादव का तीखा तंज",
+      "link": "https://www.livehindustan.com/uttar-pradesh/this-dream-budget-is-only-for-5-percent-of-the-population-akhilesh-yadav-sharp-taunt-201769935617325.html",
+      "summary": "अखिलेश यादव ने बजट 2026 को 'सपने वाला' बताते हुए कहा कि यह सिर्फ 5% लोगों के हित में है। गरीब, किसान और युवा उपेक्षित हैं। स्मार्ट सिटी, पर्यावरण, किसानों की आय दोगुनी व रोजगार पर सरकार से जवाब मांगा",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:22:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a08df008bbc3145c72f2925dbc29af6b",
+      "title": "Budget 2026: Odisha, T.N., Andhra, Kerala to get dedicated rare earth corridors to promote research and mining",
+      "link": "https://www.thehindu.com/business/budget/budget-2026-nirmala-sitharaman-announces-rare-earth-corridors-in-4-states-including-tn-kerala/article70577050.ece",
+      "summary": "The move comes as India looks to reduce its dependence on China for rare-earth minerals. Two of the four states, Tamil Nadu and Kerala, are set to go to Assembly elections in 2026",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:13:07 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "097ac44355ef31f88e0d12601c167275",
+      "title": "‘किसानों को कुछ नहीं मिला…’, बजट को लेकर अखिलेश यादव का विस्फोटक बयान",
+      "link": "https://www.patrika.com/lucknow-news/budget-2026-update-samajwadi-party-chief-akhilesh-yadav-took-dig-at-government-20312316",
+      "summary": "Akhilesh Yadav On Budget 2026: केंद्रीय बजट 2026 को लेकर उत्तर प्रदेश के पूर्व मुख्यमंत्री और समाजवादी पार्टी (SP) के राष्ट्रीय अध्यक्ष अखिलेश यादव ने BJP पर जुबानी हमला किया। उन्होंने कहा कि जब BJP सरकार से ही कोई उम्मीद नहीं है, तो उसके बजट से भी किसी तरह की उम्मीद नहीं की जा सकती है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:08:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "13ff9c759e811d43350a68f7d1a8cae1",
+      "title": "500 साल पुराने शिव मंदिर की खुदाई में निकला खजाना, ब्रिटिश और सिंधिया राजघराने के मिले सिक्के",
+      "link": "https://www.livehindustan.com/uttar-pradesh/british-and-scindia-royal-coins-found-during-excavation-of-500-year-old-shiva-temple-201769934327054.html",
+      "summary": "झांसी जिले में सनसनीखेज मामला सामने आया है। करीब 500 साल पुराने धार्मिक स्थल में निर्माण के दौरान की गई खुदाई में ब्रिटिश कालीन सिक्के मिले। लोगों ने जमीन में गड़ा धन की अफवाह उड़ा दी। कुछ तांबे के सिक्कों को कब्जे में लेकर जांच के लिए भेजा गया है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 14:06:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a67ed40da874054e292d52ed5828cf2c",
+      "title": "₹1 crore ex-gratia to young Constable Sowmya’s family; Telangana CM orders stringent against those responsible for her death",
+      "link": "https://www.thehindu.com/news/national/telangana/1-crore-ex-gratia-to-young-constable-sowmyas-family-telangana-cm-orders-stringent-against-those-responsible-for-her-death/article70577416.ece",
+      "summary": "Excise Minister Jupally Krishna Rao also announced a Government job to Somwya’s brother and the constable’s salary payment till her scheduled retirement",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 13:51:20 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4de7e6a115b16bdb0c26970374b532d7",
+      "title": "Union Budget: Five regional medical hubs to be set up to boost medical tourism in country",
+      "link": "https://www.thehindu.com/business/budget/union-budget-five-regional-medical-hubs-to-be-set-up-to-boost-medical-tourism-in-country/article70577339.ece",
+      "summary": "Finance Minister Sitharaman also announced setting up of three new All India Institutes of Ayurveda to strengthen research in the field",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 13:49:35 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -60358,19 +60566,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "9608176bd0550c15b71612f81a83dcc7",
-      "title": "Union Budget 2026 political reactions LIVE: Union Budget 2026 a total lacklustre, says Jairam Ramesh",
-      "link": "https://www.thehindu.com/business/budget/union-budget-2026-nirmala-sitharaman-political-reactions-opposition-response-live-updates/article70574696.ece",
-      "summary": "Finance Minister Nirmala Sitharaman presented the Union Budget 2026 for the ninth straight time",
-      "date": "2026-02-01",
-      "timestamp": "Sun, 01 Feb 2026 13:42:33 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -60530,6 +60725,19 @@
       "lang": "en"
     },
     {
+      "id": "79ce756ef885fa004ead74e44b7bc19f",
+      "title": "Budget 2026 Update: यूपी में कैंसर–डायबिटीज के लाखों मरीजों को राहत; दवाइयां हुई सस्ती",
+      "link": "https://www.patrika.com/lucknow-news/budget-2026-update-relief-for-millions-of-cancer-and-diabetes-patients-in-up-medicines-become-cheaper-20312173",
+      "summary": "Budget 2026 Update: वित्त मंत्री निर्मला सीतारमण ने बजट पेश करते हुए हेल्थकेयर सेक्टर को लेकर कई अहम घोषणाएं कीं। उन्होंने कहा कि मोदी सरकार की प्राथमिकता है कि डायबिटीज (शुगर) और कैंसर जैसी गंभीर और लंबे समय तक चलने वाली बीमारियों की दवाएं आम लोगों को किफायती कीमत पर उपलब्ध कराई जाएं।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 13:13:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "abab2d7ff491e1e4bfc59a9a1143d51b",
       "title": "Union Budget 2026: India set to host first ever Global Big Cat summit",
       "link": "https://www.thehindu.com/news/national/budget-2026-india-global-big-cat-summit/article70577218.ece",
@@ -60540,6 +60748,19 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "689739d0177353efd3158c6a23d0e284",
+      "title": "Union Budget 2026: बजट में निर्मला सीतारमण ने इस राज्य के लिए खोली झोली, कर दिए ये बड़े ऐलान!",
+      "link": "https://www.patrika.com/lucknow-news/union-budget-2026-nirmala-sitharaman-big-announcement-for-uttar-pradesh-girls-hostel-and-high-speed-rail-20312171",
+      "summary": "Union Budget 2026: आज 1 फरवरी 2026 को वित्त मंत्री निर्मला सीतारमण ने संसद में केंद्रीय बजट 2026-27 पेश किया। यह उनका लगातार नौवां बजट है, जो भारत के इतिहास में पहली बार रविवार को पेश हुआ। यह बजट सिर्फ आंकड़ों का संग्रह नहीं है, बल्कि 2027 के उत्तर प्रदेश विधानसभा चुनावों से पहले राज्य के लिए विकास का मजबूत रोडमैप है। मोदी सरकार ने यूपी को विशेष ध्यान देते हुए कई बड़े ऐलान किए हैं। पश्चिमी यूपी से लेकर पूर्वांचल तक, स्वास्थ्य, पर्यटन, कनेक्टिविटी और रोजगार पर फोकस है। यह बजट यूपी को आत्मनिर्भर और विकसित बनाने की दिशा में बड़ा कदम है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 12:59:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -60588,19 +60809,6 @@
       "summary": "उत्तर प्रदेश के शाहजहांपुर जिले के भटपुरा गांव में बुधवार की सुबह हुई एक वारदात ने पूरे इलाके को दहला दिया। 30 वर्षीय बलराम का शव उसके घर में चारपाई पर खून से लथपथ मिला।",
       "date": "2026-02-01",
       "timestamp": "Sun, 01 Feb 2026 12:57:27 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "a34531e37008dfb6e1929865f27f0d6b",
-      "title": "यूपी के लिए बजट में एलान: काशी को दो हाईस्पीड रेल कॉरिडोर की सौगात, 75 जिले में एक-एक गर्ल्स हॉस्टल; बड़े एलान",
-      "link": "https://www.amarujala.com/uttar-pradesh/budget-2026-india-for-up-high-speed-rail-corridors-delhi-varanasi-many-big-announcement-by-nirmala-sitharaman-2026-02-01",
-      "summary": "वित्त मंत्री निर्मला सीतारमण ने वित्त वर्ष 2026-27 के बजट भाषण की शुरुआत करते हुए कहा, 'माघ पूर्णिमा और गुरु रविदास की जयंती के अवसर पर मैं यह बजट पेश कर रही हूं। बीते 12 साल के दौरान अनिश्चितताओं के बावजूद हमने स्थिर अर्थव्यवस्था को बनाए रखा है।",
-      "date": "2026-02-01",
-      "timestamp": "Sun, 01 Feb 2026 12:56:17 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -60712,25 +60920,25 @@
       "lang": "en"
     },
     {
+      "id": "84aaedf4d3481ab69d8d41f549622ca6",
+      "title": "बेटियों के लिए बजट में बड़ा ऐलान, वित्त मंत्री निर्मला सीतारमण ने खोली झोली",
+      "link": "https://www.patrika.com/lucknow-news/the-budget-focuses-on-varanasi-with-major-announcements-ranging-from-high-speed-rail-corridor-to-ship-repair-centre-20312121",
+      "summary": "बजट में वाराणसी में जहाज मरम्मत केंद्र (शिप रिपेयर पोर्ट) बनाने की घोषणा की गई है। गंगा नदी पर पहले से चल रहे जल परिवहन को इससे बड़ी मजबूती मिलेगी। यह केंद्र न केवल रोजगार के अवसर पैदा करेगा, बल्कि पूर्वांचल को देश के इनलैंड वॉटर ट्रांसपोर्ट नेटवर्क से और मजबूती से जोड़ेगा। छोटे तीर्थ स्थलों के विकास की घोषणा से धार्मिक पर्यटन को भी गति मिलने की उम्मीद है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 12:48:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "fff76bee0e776b3839d3f3f1eea9fa4c",
       "title": "Union Budget 2026: Mountain, turtle, birdwatching trails to come up in Himachal, Jammu & Kashmir, Odisha, Karnataka, Kerala, Tamil Nadu",
       "link": "https://www.thehindu.com/business/budget/budget-2026-mountain-trails-turtle-trails-birdwatching-trails-to-come-odisha-karnataka-kerala/article70577059.ece",
       "summary": "Three birdwatching trails along the Pulicat Lake in Andhra Pradesh-Tamil Nadu border will be developed",
       "date": "2026-02-01",
       "timestamp": "Sun, 01 Feb 2026 12:45:56 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "a08df008bbc3145c72f2925dbc29af6b",
-      "title": "Budget 2026: Odisha, T.N., Andhra, Kerala to get dedicated rare earth corridors to promote research and mining",
-      "link": "https://www.thehindu.com/business/budget/budget-2026-nirmala-sitharaman-announces-rare-earth-corridors-in-4-states-including-tn-kerala/article70577050.ece",
-      "summary": "The move comes as India looks to reduce its dependence on China for rare-earth minerals. Two of the four states, Tamil Nadu and Kerala, are set to go to Assembly elections in 2026",
-      "date": "2026-02-01",
-      "timestamp": "Sun, 01 Feb 2026 12:45:25 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -60837,19 +61045,6 @@
       "timestamp": "Sun, 01 Feb 2026 12:33:27 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "683cf3c29fcceb22d822b4f1d8c5bc80",
-      "title": "New Income Tax Act will come into effect April 1, 2026: FM Sitharaman",
-      "link": "https://www.thehindu.com/business/budget/union-budget-nirmala-sitharaman-new-income-tax-act-april-1-2026/article70577176.ece",
-      "summary": "Ms. Sitharaman added the simplified new I-T rules would also be notified “shortly”",
-      "date": "2026-02-01",
-      "timestamp": "Sun, 01 Feb 2026 12:33:17 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -61100,6 +61295,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "0653c8e493993443ee6e7a8d80e399dc",
+      "title": "समय से नहीं हो सकेंगे पंचायत चुनाव; करना पड़ सकता है अगले साल तक का इंतजार! वजह भी आई सामने",
+      "link": "https://www.patrika.com/lucknow-news/major-update-regarding-up-panchayat-chunav-2026-time-period-may-be-extended-what-op-rajbhar-said-20311909",
+      "summary": "Panchayat Chunav 2026: अभी लंबा इंतजार पंचायत चुनाव लड़ने वालों को करना पड़ सकता है। राज्य सरकार की तैयारियों को देखते हुए त्रिस्तरीय पंचायत चुनाव के अब 26 मई से पहले होने की फिलहाल कोई उम्मीद नजर नहीं आ रही है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 11:59:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
     },
     {
       "id": "c0aaa8384416c043104b721739c95a0a",
@@ -61727,9 +61935,9 @@
     },
     {
       "id": "7bbeb935438b7b36b692e613bd350134",
-      "title": "UP Top News Today: अग्निवीरों को परिवहन विभाग में नौकरी के लिए आरक्षण, शिक्षकों का होगा एरियर पेमेंट",
+      "title": "UP Top News Today: केंद्र के बजट में यूपी को कई तोहफे, माघी पूर्णिमा पर संगम में उमड़ी भीड़",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-top-news-today-1-february-2026-cm-yogi-adityanath-magh-mela-ganga-snan-panchayat-elections-weather-crime-updates-201769920666943.html",
-      "summary": "UP Top News Today: 2026 में पास होने वाले अग्निवीर के पहले बैच के लिए अब परिवहन विभाग में नौकरी के लिए आरक्षण रहेगा। 20 प्रतिशत कोटे के साथ नौकरी के लिए आदेश जारी होगा। वहीं, एडेड स्कूलों के शिक्षकों व कर्मचारियों को अब डीआईओएस अपने स्तर से दो लाख तक का भुगतान कर सकेंगे।",
+      "summary": "UP Top News Today: केंद्र के बजट में यूपी को कई तोहफे मिले हैं। इनमें से काशी को 2 हाईस्पीड रेल कॉरिडोर के साथ 75 जिलों में हॉस्टल भी रहेंगे। वहीं, आज प्रयागराज में माघी पूर्णिमा के मौके पर संगम में भीड़ उमड़ी। भक्तों की भीड़ ने संगम पर गंगा स्नान किया।",
       "date": "2026-02-01",
       "timestamp": "Sun, 01 Feb 2026 10:29:15 +0530",
       "section": "UP_Focus",
@@ -62116,6 +62324,19 @@
       "lang": "en"
     },
     {
+      "id": "0b6a66cb20f27ed9f1a441ee46112353",
+      "title": "Iran in 'serious discussions' with US, Trump says, as military threat looms",
+      "link": "https://www.bbc.com/news/articles/cx20z5nv9jxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran is expected to begin a live-fire naval exercise in the Strait of Hormuz, a key shipping route.",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 09:24:55 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ea9eb3f24e46f78ad273c76302eb606f",
       "title": "India’s only Chinatown in Kolkata, fading away",
       "link": "https://www.thehindu.com/news/national/west-bengal/indias-only-chinatown-in-kolkata-fading-away/article70574083.ece",
@@ -62166,6 +62387,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "bef4f50e4488c24bc036e0f7bacbac73",
+      "title": "Sant Ravidas Jayanti celebrated with massive turnout in Kashi:Devotees arrive on 10 chartered planes, offer dollar garland; 3-km-long queue, MP Chandra Shekhar Azad visits shrine",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/sant-ravidas-jayanti-kashi-devotees-chandra-shekhar-azad-visit-137095440.html",
+      "summary": "Today marks the birth anniversary of Sant Ravidas. On the occasion, his birthplace, Sir Govardhanpur in Varanasi (Kashi), has virtually turned into a city of Ravidas followers. Lakhs of devotees from across India and abroad have arrived to pay their respects. Since early morning, a queue stretching nearly three kilometres has formed outside the temple. Devotees are waiting for hours to have darshan of Sant Ravidas. In the afternoon, Nagina MP Chandra Shekhar Azad reached the temple and offered prayers. He was welcomed by the temple trustees on arrival. More than 1,000 NRIs have reached Kashi on 10 chartered aircraft. They offered a garland made of US dollars to Sant Ravidas. A 150-foot-high Ravidas flag has also been hoisted near the temple, visible from a long distance. The temple has been decorated with over 200 kilograms of gold. Three large community kitchens (langars) are operating within the temple complex for devotees. On 10-foot-wide griddles, around 1,000 rotis are being prepared every minute. Prasad is being distributed to thousands of people. More than 10,000 volunteers are working round the clock to manage the arrangements. A tent city has also been set up to accommodate devotees coming from outside. Facilities for stay and meals have been arranged for visitors from Uttar Pradesh, Punjab, Himachal Pradesh and several other States. Several prominent leaders have also participated in the programme in the past. Prime Minister Narendra Modi, Uttar Pradesh Chief Minister Yogi Adityanath, former Chief Minister Mayawati, former Delhi Chief Minister Arvind Kejriwal, and Congress leaders Rahul Gandhi and Priyanka Gandhi have all paid their respects at the shrine. See 6 pictures...",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 09:01:43 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
     },
     {
       "id": "a0cad80082387c9d21943027d1f61ad4",
@@ -62233,6 +62467,19 @@
       "lang": "en"
     },
     {
+      "id": "8b3874bdee71c99a8ee6ce0a6fbbbe66",
+      "title": "Husband jumps into Ganga to save drowning wife:Unable to swim, both start drowning before PAC flood team rescues couple within 30 seconds",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/ghazipur-ganga-couple-drowning-rescue-30-seconds-137095313.html",
+      "summary": "During the Magh Purnima holy bath in Ghazipur, a woman went into deep water in the Ganga and began to drown. When her husband, standing on the ghat, saw her struggling, he immediately jumped into the river to save her. The husband, however, did not know how to swim and soon started drowning as well. The flood relief team deployed at the ghat noticed the couple in distress and immediately began rescue operations along with local divers. Some team members reached the spot with a boat, while others jumped directly into the river. After a strenuous effort, the husband and wife were pulled out of deep water within 30 seconds. Throughout the rescue, the couple held on to each other’s hands. After being rescued, the woman said, “These people saved my life. I thank them. Otherwise, my entire world would have ended.” Know the incident in detail… On the morning of Magh Purnima, Amar Ojha, a resident of Badi Bagh in Ghazipur, reached Dadri Ghat with his wife Sushma Ojha for a holy dip in the Ganga. Amar completed his bath first. After this, his wife entered the river. While bathing, Sushma moved about 10 metres ahead of the ghat into deeper water and began to drown. Amar noticed her and, without thinking about the fact that he could not swim, jumped into the river to save her. While trying to rescue his wife, Amar too began to drown. Panic at the ghat As the couple struggled in the river, panic spread among the people present at the ghat. People started shouting for help. The 13-member flood disaster relief team of the 34th Battalion PAC, deployed at the spot, immediately became alert and started rescue operations. Team members Lal Yadav and Sonu Kumar Verma jumped into the river. Local boatmen and divers also joined the rescue. Some team members reached the spot with a boat. Within just 30 seconds, both Amar and Sushma were pulled out of deep water. During the rescue, the couple continued holding each other’s hands until they were safely brought out. After coming out, Amar and Sushma hugged each other and broke down in tears. Sushma said, “The administration saved us. I am extremely thankful to them. I felt my world was about to end.” Team will be honored SP City Rakesh Kumar Mishra said the PAC flood unit team showed excellent courage and would be honoured for their effort. A letter would also be sent to the government. He added that the administration remains on high alert at Ganga ghats during religious bathing, which helped avert a major tragedy.",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 08:41:45 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "c08eeb9fb2ece7afdbb03924edd4c735",
       "title": "SIR: अभी और बढ़ सकती है मतदाताओं के दावे-आपत्तियों की तिथि, नोटिस सुनवाई को भी मिलेगी दूसरी तारीख; जानें अपडेट",
       "link": "https://www.amarujala.com/lucknow/deadline-for-filing-claims-and-objections-may-be-extended-and-notice-hearings-will-also-receive-new-date-in-si-2026-02-01",
@@ -62246,6 +62493,19 @@
       "lang": "en"
     },
     {
+      "id": "c63f7e827f6def42292bb5f5052fd354",
+      "title": "Slovakia PM's national security adviser resigns over Epstein links",
+      "link": "https://www.bbc.com/news/articles/cnvgljj1dygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Miroslav Lajčák steps down after newly released exchanges showed him discussing girls and diplomacy with the late sex offender.",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 08:37:23 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "bdbd7e62c5f338b985a519f7f04e304a",
       "title": "India Post GDS: 28740 पदों पर ग्रामीण डाक सेवक भर्ती, महाराष्ट्र के बाद यूपी में सबसे ज्यादा वैकेंसी; क्या होगी सैलरी",
       "link": "https://www.livehindustan.com/career/india-post-28740-gramin-dak-sevak-bharti-2026-maharashtra-up-vacancy-salary-details-201769911549404.html",
@@ -62255,6 +62515,19 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "0cf12c83f3920562ef435e95ec80637d",
+      "title": "'Saints should not indulge in party politics':Rajbhar asks Shankaracharya to enter active politics; Avimukteshwaranand skips Prayagraj on Maghi Purnima, returns to Kashi",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/rajbhar-asks-shankaracharya-politics-prayagraj-kashi-137095279.html",
+      "summary": "Uttar Pradesh Minister Omprakash Rajbhar on Saturday openly advised Shankaracharya Avimukteshwaranand to enter active politics if he wishes to make political statements. Speaking in Aligarh, Rajbhar said that if the seer wants to do politics, he should join a political party, carry its flag and work among the people, adding that indirect political activity does not suit spiritual leaders. Reacting to the controversy, singer Anup Jalota said saints should speak with restraint and think carefully before making statements from public platforms. Meanwhile, the Shankaracharya’s absence from Prayagraj during Maghi Purnima has drawn attention, as he is currently staying at his monastery in Kashi. The dispute dates back to January 18, when police stopped the Shankaracharya’s palanquin during Mauni Amavasya as he was heading for a ritual bath. Following a scuffle involving his disciples, he staged an 11-day sit-in at the Magh Mela site to press his demands. He left the mela on January 28 and returned to Kashi. Anup Jalota urges restraint Bhajan singer Anup Jalota said everyone should think carefully before speaking in public. Speaking to Dainik Bhaskar in Varanasi, where he had come to attend a bhajan programme on the eve of Sant Ravidas’s birth anniversary, Jalota said that even if opinions differ, speech should remain polite. He added that the Yogi and Modi governments have created a positive environment and people should work together to reduce differences. Manoj Tiwari questions demand for proof BJP MP Manoj Tiwari said he doubts the intentions of anyone who asks Chief Minister Yogi Adityanath to prove that he is a Hindu. Speaking in Varanasi, Tiwari said that Yogi Adityanath’s entire life has been devoted to serving Sanatan culture and Hindu society, and questioning his faith raises doubts about the questioner’s own identity. Dharampal Singh attacks Shankaracharya Animal Husbandry Minister Dharampal Singh made sharp remarks against Swami Avimukteshwaranand in Bareilly. He said Avimukteshwaranand was making false claims about cow slaughter in Uttar Pradesh. “After Yogi ji formed the government, slaughterhouses were shut down. The cow slaughter he talks about was linked to his own gurus. Attempts to spread confusion and unrest will not be tolerated,” he said. The minister also said the state government does not officially recognise Avimukteshwaranand as Shankaracharya, adding that Shankaracharya is not a constitutional or government-appointed post but a matter of religious traditions. “The government will not accept anyone who spreads confusion in society under the cover of religion,” he said. Invitation from Badrinath amid dispute Amid the controversy, Swami Avimukteshwaranand has been invited as Shankaracharya for an important ritual linked to the opening of Badrinath Dham. The invitation was sent on January 25, even as his dispute with the Prayagraj Magh Mela administration continues. The administration had earlier sought proof of his status as Shankaracharya, to which he responded. On Friday, he also asked CM Yogi Adityanath to provide proof of being Hindu within 40 days. President of the Shri Badrinath Dimri Religious Central Panchayat, Ashutosh Dimri, said Avimukteshwaranand has been invited to take part in the Gadu Ghada Yatra from Rishikesh to Badrinath Dham. What is the Gadu Ghada Yatra? The Gadu Ghada Yatra is a key ritual held before the opening of the doors of Badrinath Dham and marks the formal beginning of the Char Dham Yatra. During the journey, sesame oil meant for the abhishek and the eternal lamp of Lord Badri Vishal is carried to the shrine.s",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 08:34:48 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -62282,6 +62555,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "3cb6106a9e2b6e6279e2c71e7d0a11d8",
+      "title": "PCS Transfer: 5 अफसरों के तबादले से प्रशासनिक हलचल, कई जिलों की कमान बदली",
+      "link": "https://www.patrika.com/lucknow-news/up-government-transfers-5-pcs-officers-in-key-administrative-reshuffle-20310499",
+      "summary": "PCS Transfer 2026 : उत्तर प्रदेश सरकार ने प्रशासनिक कार्यों को और प्रभावी बनाने के उद्देश्य से प्रांतीय सिविल सेवा (PCS) के पांच अधिकारियों के तबादले कर दिए हैं। शासन की ओर से जारी आदेश में विभिन्न जिलों और मंडलों में अधिकारियों की नई तैनाती की गई है। इन तबादलों से स्थानीय प्रशासनिक तंत्र में नई सक्रियता आने की उम्मीद जताई जा रही है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 08:27:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "14d6c13dfd06dfb887cab569e51ad8ab",
+      "title": "Campaign to boycott Israel looks to future after Gaza ‘ceasefire’",
+      "link": "https://www.aljazeera.com/news/2026/2/1/campaign-to-boycott-israel-looks-to-future-after-gaza-ceasefire?traffic_source=rss",
+      "summary": "With the global spotlight shifting fom Gaza, the campaign to isolate Israel has never been more urgent, experts say.",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 08:24:58 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -62360,6 +62659,19 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "5087af047856c14cf326d2054eab65d8",
+      "title": "Volkanovski wins featherweight title defence against Lopes at UFC 325",
+      "link": "https://www.aljazeera.com/sports/2026/2/1/volkanovski-wins-featherweight-title-defence-against-lopes-at-ufc-325?traffic_source=rss",
+      "summary": "Alexander Volkanovski retains his UFC featherweight title with a unanimous decision over Diego Lopes in Australia.",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 08:05:13 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -63364,6 +63676,58 @@
       "lang": "en"
     },
     {
+      "id": "a11baa488382d1481537a3233e0b32ca",
+      "title": "केंद्रीय बजट: पशुओं की सुरक्षा और स्वास्थ्य को लेकर विशेष फोकस, बढ़ेंगे पशु चिकित्सालय और डॉक्टर",
+      "link": "https://www.amarujala.com/lucknow/union-budget-special-focus-on-animal-safety-and-health-increase-in-veterinary-hospitals-and-doctors-2026-02-01",
+      "summary": "Budget 2026: केंद्रीय बजट में देश के साथ यूपी के पशुओं का विशेष ध्यान रखा गया है। बजट में जानवरों के अस्पतालों और डॉक्टरों पर विशेष फोकस किया गया है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:55:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "f391f606d96e021f7a68e3ddafc25dc6",
+      "title": "यूपी: सीएम योगी ने फिर दी चेतावनी, विभाजनकारी ताकतें बांटेंगी, लेकिन उन्हें सिर नहीं उठाने देना",
+      "link": "https://www.amarujala.com/lucknow/up-cm-yogi-again-warned-that-divisive-forces-will-divide-but-they-should-not-be-allowed-to-raise-their-heads-2026-02-01",
+      "summary": "CM Yogi Adityanath: संत रविदास की 649वीं जयंती पर आयोजित उत्सव में सीएम योगी शामिल हुए। उन्होंने एक बार फिर से समाज बांटने वाले लोगों को निशाने पर रखा।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:54:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "b1449d04eadf26327dd348feb9e5fab5",
+      "title": "सराफा व्यापारियों की धड़कनें बढ़ींः लगातार चढ़ने के बाद 2 दिन में 1.20 लाख रुपये लुढ़की चांदी- मिली राहत",
+      "link": "https://www.amarujala.com/gorakhpur/bullion-traders-in-gorakhpur-also-received-significant-relief-silver-prices-falling-by-rs-1-20-lakh-in-2-days-2026-02-01",
+      "summary": "इधर लगातार चढ़ने के बाद बीते दो दिन में चांदी के दाम में जबरदस्त गिरावट आई है। चांदी 1.20 लाख रुपये प्रति किलोग्राम लुढ़क गई है। सोने के भाव में भी 20 हजार रुपये के करीब गिरावट आई है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:53:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "3579f56c34ba1b3ff69d8b6fc7f79a79",
+      "title": "आइडियल वूमेन वेलफेयर सोसायटी ने मनाया वार्षिकोत्सव, VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-ideal-women-welfare-society-celebrated-its-annual-day-2026-02-01",
+      "summary": "आइडियल वूमेन वेलफेयर सोसायटी ने मनाया वार्षिकोत्सव, VIDEO",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:50:40 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "4aaae2c9ba88e5b42dd8467e789b9053",
       "title": "Noida News: हाफवे स्टेज पर महाराष्ट्र केसरी की दिल्ली दंगल वॉरियर्स पर 3–2 की बढ़त",
       "link": "https://www.amarujala.com/delhi-ncr/noida/pwl-2026-semi-final-2-maharashtra-kesari-leads-delhi-dangal-warriors-3-2-at-the-halfway-stage-grnoida-news-c-1-1-noi1388-3901561-2026-02-01",
@@ -63468,6 +63832,19 @@
       "lang": "en"
     },
     {
+      "id": "4f1eb96c7fe60565ff8e54f32c1bb196",
+      "title": "Budget 2026: 'बजट में नए भारत व विकसित भारत की संकल्पना...', सीएम योगी बोले- हर वर्ग के लोगों का रखा गया ध्यान",
+      "link": "https://www.amarujala.com/lucknow/cm-yogi-said-concept-of-new-india-and-developed-india-has-been-kept-in-mind-in-budget-2026-02-01",
+      "summary": "केंद्रीय वित्त मंत्री निर्मला सीतरमण ने रविवार को केंद्रीय बजट प्रस्तुत किया। इस पर सीएम योगी आदित्यनाथ ने कहा कि इस बजट में नए भारत व विकसित भारत की संकल्पना साफ दिखती है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:44:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "cbe9c64fa10cf861d2e9d4afc3c1a176",
       "title": "Lucknow News: किरायेदारों की पहचान छुपाने की जद्दोजहद में लोटपोट हुए दर्शक",
       "link": "https://www.amarujala.com/lucknow/applications-for-admission-are-now-open-until-four-lucknow-news-c-13-1-lko1028-1585117-2026-02-01",
@@ -63481,6 +63858,19 @@
       "lang": "en"
     },
     {
+      "id": "7ff4e379ac0161ff5452322b4dd0c9c8",
+      "title": "Hathras News: आरएसएस के जिला प्रचारक जय किशोर पर हमला, कार्यकर्ताओं में आक्रोश, हमलावरों की तलाश शुरू",
+      "link": "https://www.amarujala.com/uttar-pradesh/hathras/attack-on-hathras-rss-jila-pracharak-jai-kishor-2026-02-01",
+      "summary": "आरएसएस के हाथरस जिला प्रचारक जय किशोर पर 1 फरवरी सुबह कुछ लोगों ने हमला कर दिया। उन्हें जिला अस्पताल में भर्ती कराया गया है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:42:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "062bc827e989433b34c0d51f2c943b9a",
       "title": "Lucknow News: धूमधाम से मनाया नित्यानंद त्रयोदशी महोत्सव",
       "link": "https://www.amarujala.com/lucknow/nityananda-trayodashi-festival-celebrated-with-great-pomp-lucknow-news-c-13-1-lko1028-1585118-2026-02-01",
@@ -63491,6 +63881,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "b1b9f0a817a1dcca0f5b921ec2af9999",
+      "title": "UP: रामपुर में दवा से लदा कैंटर गलत दिशा से आ रही बैलगाड़ी पर पलटा, चार बैलों की मौत, हाईवे पर लगा जाम",
+      "link": "https://www.amarujala.com/uttar-pradesh/rampur/up-a-truck-loaded-with-medicines-overturned-onto-a-bullock-cart-in-rampur-killing-four-oxen-2026-02-01",
+      "summary": "दिल्ली-लखनऊ हाईवे पर रविवार तड़के दवा से लदा कैंटर गलत साइड से आ रही बैलगाड़ी पर पलट गया। इसमें चार बैलों के दबने से मौत हो गई।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:41:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a34531e37008dfb6e1929865f27f0d6b",
+      "title": "यूपी के लिए बजट में एलान: काशी को दो हाईस्पीड रेल कॉरिडोर की सौगात, 75 जिले में एक-एक गर्ल्स हॉस्टल; बड़े एलान",
+      "link": "https://www.amarujala.com/uttar-pradesh/budget-2026-india-for-up-high-speed-rail-corridors-delhi-varanasi-many-big-announcement-by-nirmala-sitharaman-2026-02-01",
+      "summary": "वित्त मंत्री निर्मला सीतारमण ने वित्त वर्ष 2026-27 के बजट भाषण की शुरुआत करते हुए कहा, 'माघ पूर्णिमा और गुरु रविदास की जयंती के अवसर पर मैं यह बजट पेश कर रही हूं। बीते 12 साल के दौरान अनिश्चितताओं के बावजूद हमने स्थिर अर्थव्यवस्था को बनाए रखा है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:40:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -63517,6 +63933,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "74d3bc9981bc8b76fb7c795291f8fb60",
+      "title": "UP Politics: वाराणसी पहुंचे सांसद चंद्रशेखर, संत रविदास को किया नमन; बोले- पूरे देश में बेगमपुरा राज जल्द आएगा",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/mp-chandrashekhar-arrives-in-varanasi-pays-respects-to-sant-ravidas-says-begumpura-rule-will-soon-2026-02-01",
+      "summary": "सीर गोवर्धन स्थित संत शिरोमण रविदास के मंदिर में दर्शन करने नगीना सांसद चंद्रशेखर रावण भी पहुंचे। इस दाैरान उन्होंने रैदासियों से मुलाकात की।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:37:19 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -63672,6 +64101,19 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "3206bcacd89d6ec2845ac6960900130a",
+      "title": "माघ पूर्णिमा: गंगानगरी में कम हुआ श्रद्धालुओं का आगमन, बारिश के कारण घाटों पर नहीं दिखाई दी भीड़",
+      "link": "https://www.amarujala.com/uttar-pradesh/hapur/magh-purnima-number-of-devotees-arriving-in-ganga-has-decreased-and-ghats-did-not-see-large-crowds-due-to-rain-2026-02-01",
+      "summary": "उत्तर प्रदेश में शनिवार की रात से लेकर रविवार की सुबह तक हुई झमाझम बारिश ने हापुड़ जिले के ब्रजघाट पर माघ पूर्णिमा का स्नान फीका कर दिया।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:33:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -63866,6 +64308,32 @@
       "timestamp": "Sun, 01 Feb 2026 02:30:30 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "269e2ba0f999d21bdc1ae95fb3d65cd5",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 1 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-01",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:30:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7e13a234cc6104c5dd2ba199208b5930",
+      "title": "पढ़ें 1 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज केन्द्रीय बजट 2026-27",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-01",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -64092,6 +64560,19 @@
       "lang": "en"
     },
     {
+      "id": "ed3f9dc956fbce3b8aee045cf0bfd797",
+      "title": "UP Politics: रविदास जयंती...चुनावी साल में सियासी भीड़, गैर-चुनावी साल में सन्नाटा; जानें कब हुए सियासी दौरे",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/up-politics-ravidas-jayanti-political-crowds-in-election-years-silence-in-non-election-years-2026-02-01",
+      "summary": "सीर गोवर्धनपुर स्थित संत शिरोमणि रविदास की जन्मस्थली देश की राजनीति में दलित समाज की आस्था का बड़ा केंद्र रही है लेकिन पिछले ढाई दशकों का रिकॉर्ड बताता है कि यहां नेताओं की आहट अक्सर चुनावी वर्षों में ही सुनाई देती है।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:24:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "b2f094904b6d15783dae112256b43116",
       "title": "Varanasi News: मेडिकल इमरजेंसी के चलते बागडोगरा-दिल्ली विमान वाराणसी डायवर्ट",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/bagdogra-delhi-flight-diverted-to-varanasi-due-to-medical-emergency-varanasi-news-c-20-vns1021-1275236-2026-02-01",
@@ -64141,6 +64622,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "6b513e4ffc23279497dc8879d57ac0c2",
+      "title": "AMU: श्रीनगर सांसद आगा सैयद आए अलीगढ़, छात्रसंघ चुनाव के लिए धरने पर बैठे छात्रों से मिलने से रोका,आक्रोश",
+      "link": "https://www.amarujala.com/uttar-pradesh/aligarh/srinagar-mp-aga-syed-ruhullah-mehdi-in-aligarh-2026-02-01",
+      "summary": "जम्मू और कश्मीर राष्ट्रीय सम्मेलन (जेकेएनसी) के सदस्य व श्रीनगर के सांसद आगा सैयद रुहुल्लाह मेहदी को एएमयू में छात्रसंघ चुनाव के लिए धरने पर बैठै छात्रों से मिलने से रोक दिया गया।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:22:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -64196,6 +64690,32 @@
       "lang": "en"
     },
     {
+      "id": "c4c07870c2834519043030ad9e48dbef",
+      "title": "रविदास मंदिर में पहुंचे सांसद चंद्रशेखर आजाद, VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-mp-chandrashekhar-azad-visits-ravidas-temple-in-varanasi-2026-02-01",
+      "summary": "रविदास मंदिर में पहुंचे सांसद चंद्रशेखर आजाद, VIDEO",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:16:23 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "6f554d5e1cbf6f4f04824fafbb003a01",
+      "title": "लखनऊ उत्तर से भाजपा विधायक डॉ नीरज बोरा ने केंद्रीय बचट को युवाओं का बजट बताया",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-utatara-sa-bhajapa-vathhayaka-da-naraja-bra-na-katharaya-bcata-ka-yavao-ka-bjata-btaya-2026-02-01",
+      "summary": "लखनऊ उत्तर से भाजपा विधायक डॉ नीरज बोरा ने केंद्रीय बचट को युवाओं का बजट बताया",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:13:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "29b3465c4a628013bd2ad4496065581f",
       "title": "Russia-Ukraine war: List of key events, day 1,438",
       "link": "https://www.aljazeera.com/news/2026/2/1/russia-ukraine-war-list-of-key-events-day-1438?traffic_source=rss",
@@ -64206,6 +64726,32 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a376c0b771b2216f16f0a8817d2dd911",
+      "title": "यूपी: केंद्रीय बजट पर अखिलेश यादव हुए हमलावर, कहा- बजट में न आम आदमी का जिक्र है और न फिक्र",
+      "link": "https://www.amarujala.com/lucknow/up-akhilesh-yadav-attacks-union-budget-says-the-budget-neither-mentions-nor-concerns-the-common-man-2026-02-01",
+      "summary": "Akhilesh Yadav on the Union Budget: संसद में पेश किए गए केंद्रीय बजट पर प्रतिक्रिया देते हुए अखिलेश यादव ने कहा कि इस भाजपाई बजट का परिणाम है कि बजट आते ही शेयर बाजार धड़ाम हो गया।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:10:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "7e83885ce3e2cd554be3d7ee24462570",
+      "title": "Ravidas Jayanti: गुरु चरण में बेगम हुए रैदासी, अरदास कर लिया आशीष; संत निरंजनदास ने गुरु बंदगी की",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/varanasi/ravidas-jayanti-followers-of-ravidas-became-devoted-offering-prayers-and-receiving-blessings-2026-02-01",
+      "summary": "गुरु पूर्णिमा पर प्रकट हुए संत रविदास के चरण वंदन करने के लिए देश-विदेश से रैदासियों को रेला शनिवार को उमड़ा रहा। अपने आराध्य देव की जन्मस्थली पर हाजिरी लगाई और अरदास कर गुरु बंदगी की।",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:08:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -64220,6 +64766,32 @@
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "985a362fd951f2f976658ffd18390b04",
+      "title": "काशी में देश-विदेश से रैदासियों को रेला, VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-large-crowd-of-raidas-followers-from-india-and-abroad-gathered-in-kashi-2026-02-01",
+      "summary": "काशी में देश-विदेश से रैदासियों को रेला, VIDEO",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:08:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "d480ad068c8fad908d977f0fb0581fb4",
+      "title": "Budget 2026: Akhilesh, Shashi Tharoor और Dimple Yadav ने बजट 2026 पर क्या-कुछ कहा?Nirmala Sitharaman",
+      "link": "https://www.amarujala.com/video/india-news/budget-2026-what-did-akhilesh-shashi-tharoor-and-dimple-yadav-say-on-budget-2026-nirmala-sitharaman-2026-02-01",
+      "summary": "Budget 2026: Akhilesh, Shashi Tharoor और Dimple Yadav ने बजट 2026 पर क्या-कुछ कहा?Nirmala Sitharaman",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 02:07:45 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "a1f96e468ddc065adf4727114c3b4cc9",
@@ -64245,6 +64817,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "fa505a412dde8c6e0348ae7c22b1483c",
+      "title": "लखनऊ में विश्व हिंदू रक्षा परिषद कार्यालय में लव जिहाद समेत कई मुद्दों पर अध्यक्ष गोपाल राय ने रखी बात",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-vashava-hatha-rakashha-parashhatha-karayalya-ma-lva-jahatha-samata-kaii-mathatha-para-athhayakashha-gapal-raya-na-rakha-bta-2026-02-01",
+      "summary": "लखनऊ में विश्व हिंदू रक्षा परिषद कार्यालय में लव जिहाद समेत कई मुद्दों पर अध्यक्ष गोपाल राय ने रखी बात",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 01:56:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "ebc487fb0d78fb1e83b8fc28fbb5c301",
+      "title": "लखनऊ में अखिल भारतीय ब्राह्मण शक्ति परिषद ट्रस्ट द्वारा यूजीसी के नए नियमों का विरोध",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-akhal-bharataya-brahamanae-shakata-parashhatha-tarasata-thavara-yajasa-ka-nae-nayama-ka-varathha-2026-02-01",
+      "summary": "लखनऊ में अखिल भारतीय ब्राह्मण शक्ति परिषद ट्रस्ट द्वारा यूजीसी के नए नियमों का विरोध",
+      "date": "2026-02-01",
+      "timestamp": "Sun, 01 Feb 2026 01:56:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -64547,19 +65145,6 @@
       "lang": "en"
     },
     {
-      "id": "269e2ba0f999d21bdc1ae95fb3d65cd5",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 1 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-01",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-01",
-      "timestamp": "Sun, 01 Feb 2026 01:30:28 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "9b383863026b0d87db01b00c20691e4f",
       "title": "Israeli air strikes kill at least 32 Palestinians in Gaza, rescue officials say",
       "link": "https://www.bbc.com/news/articles/c701g1g00gdo?at_medium=RSS&at_campaign=rss",
@@ -64571,19 +65156,6 @@
       "source": "BBC World",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "7e13a234cc6104c5dd2ba199208b5930",
-      "title": "पढ़ें 1 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज केन्द्रीय बजट 2026-27",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-01",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-01",
-      "timestamp": "Sun, 01 Feb 2026 01:30:11 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "dfdf6ae34fd0bb6049288cdbad8ff387",
@@ -66026,19 +66598,6 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3cb6106a9e2b6e6279e2c71e7d0a11d8",
-      "title": "PCS Transfer: यूपी में हड़कंप मचाने वाला तबादला आदेश, 5 PCS अफसर इधर-उधर, कई जिलों की प्रशासनिक कमान बदली",
-      "link": "https://www.patrika.com/lucknow-news/up-government-transfers-5-pcs-officers-in-key-administrative-reshuffle-20310499",
-      "summary": "PCS Transfer 2026 : उत्तर प्रदेश सरकार ने प्रशासनिक कार्यों को और प्रभावी बनाने के उद्देश्य से प्रांतीय सिविल सेवा (PCS) के पांच अधिकारियों के तबादले कर दिए हैं। शासन की ओर से जारी आदेश में विभिन्न जिलों और मंडलों में अधिकारियों की नई तैनाती की गई है। इन तबादलों से स्थानीय प्रशासनिक तंत्र में नई सक्रियता आने की उम्मीद जताई जा रही है।",
-      "date": "2026-01-31",
-      "timestamp": "Sat, 31 Jan 2026 21:01:00 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -97082,6 +97641,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0489dc4a9d591a3eacfa5f7867332416",
+      "title": "'High flight toward Viksit Bharat': PM Modi hails Union Budget 2026 as 'historic'",
+      "link": "https://timesofindia.indiatimes.com/india/high-flight-toward-viksit-bharat-pm-modi-hails-union-budget-2026-as-historic/articleshow/127837888.cms",
+      "summary": "Prime Minister Narendra Modi hailed the Union Budget 2026 as \"historic,\" charting a roadmap for a Viksit Bharat by 2047 and boosting India's reform journey. He also highlighted the \"mother of all deals\" with the EU, aimed at benefiting youth and MSMEs, and praised Finance Minister Nirmala Sitharaman's record ninth consecutive budget presentation.",
+      "date": "2026-02-01",
+      "timestamp": "2026-02-01T14:35:42+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5cb1856f9cccd4b2e7cc62f6b577e250",
+      "title": "'Woefully short of the hype': Congress slams 'completely hollow' Union Budget 2026",
+      "link": "https://timesofindia.indiatimes.com/india/woefully-short-of-the-hype-congress-slams-completely-hollow-union-budget-2026/articleshow/127837516.cms",
+      "summary": "",
+      "date": "2026-02-01",
+      "timestamp": "2026-02-01T14:22:45+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "14ee3da241c6d79101b4ad045380bdfb",
+      "title": "'If I wanted to party with young girls...': Elon Musk reacts to Jeffrey Epstein email",
+      "link": "https://timesofindia.indiatimes.com/world/us/if-i-wanted-to-party-with-young-girls-elon-musk-reacts-to-jeffrey-epstein-email/articleshow/127837268.cms",
+      "summary": "One of the most widely circulated emails dates to September 11, 2013. Epstein wrote to Musk asking whether he would be in New York for the opening of the United Nations General Assembly and said that “many interesting people” would be coming to his house.",
+      "date": "2026-02-01",
+      "timestamp": "2026-02-01T14:06:19+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "969bf24ed9db9149d71ceaaba126c6ca",
+      "title": "'Pakistan deflecting attention from internal failings': India rejects 'baseless' claims on Balochistan attacks",
+      "link": "https://timesofindia.indiatimes.com/india/pakistan-deflecting-attention-from-internal-failings-india-rejects-baseless-claims-on-balochistan-attacks/articleshow/127837240.cms",
+      "summary": "India has categorically rejected Pakistan's \"baseless\" allegations of Indian backing for recent deadly attacks in Balochistan. The Ministry of External Affairs stated Pakistan should address the region's long-standing demands and its \"record of suppression, brutality and violation of human rights\" instead of deflecting blame.",
+      "date": "2026-02-01",
+      "timestamp": "2026-02-01T13:59:34+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
