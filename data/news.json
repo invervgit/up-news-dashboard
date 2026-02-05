@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-05T19:34:49.548771+00:00",
+  "generated_at": "2026-02-05T20:27:59.506387+00:00",
   "stories": [
     {
       "id": "d0050228dab8da2ff12b19bc994c1d33",
@@ -35635,6 +35635,19 @@
       "lang": "en"
     },
     {
+      "id": "a29558753dbf621a06ec486364567070",
+      "title": "What the US and Iran are about to negotiate over isn’t clear",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/5/what-the-us-and-iran-are-about-to-negotiate-over-isnt-clear?traffic_source=rss",
+      "summary": "After weeks of military threats and arguments over a venue, the US and Iran are about to hold talks in Oman.",
+      "date": "2026-02-05",
+      "timestamp": "Thu, 05 Feb 2026 19:48:07 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c732c44099125fb04bdc69940ef13c2b",
       "title": "BJP Yuva Morcha seeks probe into ‘irregularities’ in Gulbarga University",
       "link": "https://www.thehindu.com/news/national/karnataka/bjp-yuva-morcha-seeks-probe-into-irregularities-in-gulbarga-university/article70596136.ece",
@@ -35826,6 +35839,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "453221cdaeb0adf63bb46a5f324a11da",
+      "title": "Gaza flotilla organisers in South Africa warn against Israeli interception",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/5/gaza-flotilla-organisers-in-south-africa-warn-against-israeli-interception?traffic_source=rss",
+      "summary": "Activists announced at a briefing in South Africa plans to launch the largest civilian-led flotilla to Gaza in March.",
+      "date": "2026-02-05",
+      "timestamp": "Thu, 05 Feb 2026 19:27:38 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -88948,12 +88974,25 @@
       "lang": "en"
     },
     {
+      "id": "e572eb5a3f95d122fdeac7068b8b83d6",
+      "title": "CG Naxalites Surrender: बीजापुर में 46 लाख के इनामी 12 माओवादी ने किया आत्मसमर्पण, 8 महिला भी शामिल!",
+      "link": "https://www.amarujala.com/video/india-news/cg-naxalites-surrender-12-maoists-carrying-a-reward-of-rs-46-lakh-surrender-in-bijapur-including-8-women-2026-02-06",
+      "summary": "CG Naxalites Surrender: बीजापुर में 46 लाख के इनामी 12 माओवादी ने किया आत्मसमर्पण, 8 महिला भी शामिल!",
+      "date": "2026-02-06",
+      "timestamp": "Fri, 06 Feb 2026 01:42:20 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "5543f17d3735aff0b74194ff862252f6",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 6 फ़रवरी के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-06",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-02-06",
-      "timestamp": "Fri, 06 Feb 2026 01:01:27 +0530",
+      "timestamp": "Fri, 06 Feb 2026 01:30:23 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -88966,12 +89005,51 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-06",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-02-06",
-      "timestamp": "Fri, 06 Feb 2026 01:01:14 +0530",
+      "timestamp": "Fri, 06 Feb 2026 01:30:12 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "5017211680d26c4c69fe2271703d40e9",
+      "title": "'तेलंगाना में सत्ता में आकर दिखाएं': CM रेड्डी ने शाह को दी चुनावी चुनौती, हेट स्पीच-मुस्लिम आरक्षण पर भी बोले",
+      "link": "https://www.amarujala.com/india-news/telangana-cm-reddy-challenges-shah-election-related-remarks-also-speaks-on-hate-speech-and-muslim-reservation-2026-02-06",
+      "summary": "'तेलंगाना में सत्ता में आकर दिखाएं': CM रेड्डी ने शाह को दी चुनावी चुनौती, हेट स्पीच-मुस्लिम आरक्षण पर भी बोले, Telangana CM Reddy challenges Shah election-related remarks also speaks on hate speech and Muslim reservation",
+      "date": "2026-02-06",
+      "timestamp": "Fri, 06 Feb 2026 01:16:57 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "e90543e2008e84ae4e2aa304adebb75d",
+      "title": "SC tells Bengal govt. to pay 25% DA by March 31",
+      "link": "https://www.thehindu.com/news/national/west-bengal/sc-tells-bengal-govt-to-pay-25-da-by-march-31/article70596291.ece",
+      "summary": "Leader of Opposition Suvendu Adhikari called court verdict a ‘defeat’ for Mamata Banerjee and ‘major win’ for government employees",
+      "date": "2026-02-06",
+      "timestamp": "Fri, 06 Feb 2026 01:04:50 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "70ff1d0c3b60c99ac51c144cd0659f30",
+      "title": "Scientific outlook can pave the way for a developed India: A.S.Kiran Kumar",
+      "link": "https://www.thehindu.com/news/national/karnataka/scientific-outlook-can-pave-the-way-for-a-developed-india-askiran-kumar/article70596869.ece",
+      "summary": "",
+      "date": "2026-02-06",
+      "timestamp": "Fri, 06 Feb 2026 00:59:17 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "b0da766da1d1d653091908a6ec28093b",
@@ -89204,6 +89282,45 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ddd8237b3fc270a42381a72519578de2",
+      "title": "NATO wargame shows Russia conquers the Baltics in days as US holds back and Europe hesitates",
+      "link": "https://timesofindia.indiatimes.com/etimes/trending/nato-wargame-shows-russia-conquers-the-baltics-in-days-as-us-holds-back-and-europe-hesitates/articleshow/127951744.cms",
+      "summary": "A German-led wargame suggests Russia could secure key objectives in the Baltics within days by exploiting alliance hesitation and political ambiguity. A simulated incursion into southern Lithuania showed Nato members delaying military responses, allowing Moscow to establish control without major escalation. The exercise highlights how decision-making dynamics and expectations, rather than force alone, could shape outcomes in a future crisis.",
+      "date": "2026-02-05",
+      "timestamp": "2026-02-06T01:16:38+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bc8095d873a82a5bd3c3e9e0b3ac7459",
+      "title": "Don't lecture: Heated exchange between Polish PM, US ambassador over Trump Nobel row",
+      "link": "https://timesofindia.indiatimes.com/world/us/dont-lecture-heated-exchange-between-polish-pm-us-ambassador-over-trump-nobel-row/articleshow/127952649.cms",
+      "summary": "",
+      "date": "2026-02-05",
+      "timestamp": "2026-02-06T01:02:07+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "33fea0eafab7aa9f69477bf3bc10ac5d",
+      "title": "YouTube reveals $60 billion revenue in 2025, surpassing Netflix for the first time",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/youtube-reveals-60-billion-revenue-in-2025-surpassing-netflix-for-the-first-time/articleshow/127952350.cms",
+      "summary": "YouTube has officially revealed its impressive financial performance, generating over $60 billion in revenue for 2025 through advertising and paid subscriptions. This significant figure surpasses Netflix and highlights YouTube's evolution into a dominant global media powerhouse. The platform's growth is fueled by increasing viewer engagement and a strong performance from its subscription services.",
+      "date": "2026-02-05",
+      "timestamp": "2026-02-06T00:49:11+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
