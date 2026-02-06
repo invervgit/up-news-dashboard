@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T21:26:26.891762+00:00",
+  "generated_at": "2026-02-06T22:18:34.925773+00:00",
   "stories": [
     {
       "id": "d0050228dab8da2ff12b19bc994c1d33",
@@ -13817,19 +13817,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3bc9972d67ab2a3c21a7c502cd0d7a6b",
-      "title": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
-      "link": "https://www.bbc.com/news/articles/cy4g3rne4n7o?at_medium=RSS&at_campaign=rss",
-      "summary": "One Palestinian woman said members of the Israel-linked militia searched them and their belongings at an Israeli checkpoint inside Gaza.",
-      "date": "2026-02-03",
-      "timestamp": "Tue, 03 Feb 2026 18:31:44 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -54043,6 +54030,97 @@
       "lang": "hi"
     },
     {
+      "id": "ab64af53ef83618e499308d9fe4b34ca",
+      "title": "SC Updates: सुप्रीम कोर्ट ने हादसे में मृत व्यक्ति के परिवार का मुआवजा बढ़ाया, कहा- रिश्तों की कोई कीमत नहीं",
+      "link": "https://www.amarujala.com/india-news/sc-updates-supreme-court-increase-compensation-for-person-die-in-accident-says-relationships-have-no-price-2026-02-07",
+      "summary": "SC Updates: सुप्रीम कोर्ट ने हादसे में मृत व्यक्ति के परिवार का मुआवजा बढ़ाया, कहा- रिश्तों की कोई कीमत नहीं---SC Updates Supreme Court increase compensation for person die in accident says relationships have no price",
+      "date": "2026-02-07",
+      "timestamp": "Sat, 07 Feb 2026 03:44:14 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "41c8e59f133844f75930aff25406c5ce",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 7 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-07",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-07",
+      "timestamp": "Sat, 07 Feb 2026 03:30:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b4685d27f214c0bdcbd993e97b04189e",
+      "title": "पढ़ें 7 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-07",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-07",
+      "timestamp": "Sat, 07 Feb 2026 03:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c0be034a5b2c45ee029efc4b52e3379f",
+      "title": "Noida: अमर उजाला शतरंज प्रतियोगिता के ग्रैंड फिनाले का आगाज आज, कार्यालय परिसर में दो दिन रहेगी गहमागहमी",
+      "link": "https://www.amarujala.com/delhi-ncr/the-grand-finale-of-the-amar-ujala-chess-competition-begins-today-2026-02-07",
+      "summary": "अमर उजाला शतरंज प्रतियोगिता के ग्रैंड फिनाले का शुभारंभ शनिवार को होगा।",
+      "date": "2026-02-07",
+      "timestamp": "Sat, 07 Feb 2026 03:27:39 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "e7209b5cff71d2b65a144f2c78bfdc8a",
+      "title": "Asaduddin Owaisi ON PM Modi : मुस्लिम आबादी पर ओवैसी का PM मोदी पर तीखा हमला, दागे कई तीखे सवाल!",
+      "link": "https://www.amarujala.com/video/india-news/asaduddin-owaisi-on-pm-modi-owaisi-s-scathing-attack-on-pm-modi-on-muslim-population-asked-many-sharp-questi-2026-02-07",
+      "summary": "Asaduddin Owaisi ON PM Modi : मुस्लिम आबादी पर ओवैसी का PM मोदी पर तीखा हमला, दागे कई तीखे सवाल!",
+      "date": "2026-02-07",
+      "timestamp": "Sat, 07 Feb 2026 03:25:17 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "417dc8db158325eda43121152999d039",
+      "title": "Pappu Yadav Arrest: 'पता नहीं मेरे साथ क्या होगा', गिरफ्तारी पर बोले सांसद पप्पू यादव, सेहत पर भी जताई चिंता",
+      "link": "https://www.amarujala.com/india-news/purnea-mp-pappu-yadav-arrest-says-do-not-know-what-will-happen-to-me-for-arresting-in-1995-case-2026-02-07",
+      "summary": "Pappu Yadav Arrest: 'पता नहीं मेरे साथ क्या होगा', गिरफ्तारी पर बोले सांसद पप्पू यादव, सेहत पर भी चिंता जताई---Purnea MP Pappu Yadav Arrest says Do not know what will happen to me for arresting in 1995 case",
+      "date": "2026-02-07",
+      "timestamp": "Sat, 07 Feb 2026 03:02:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "fc6e97ae6e58b6da1cb05237ce88026d",
+      "title": "Iran army reports fire at Tehran barracks, says blaze contained, no injuries",
+      "link": "https://www.thehindu.com/news/international/iran-army-reports-fire-at-tehran-barracks-says-blaze-contained-no-injuries/article70601737.ece",
+      "summary": "Iranian Army blamed an electrical fault for the fire",
+      "date": "2026-02-07",
+      "timestamp": "Sat, 07 Feb 2026 02:57:11 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "726b8b39f582bd0f483dea0f90452c4b",
       "title": "Joint Operations Conclave: 'तीनों सेनाएं मिलकर लड़ेंगी', वायुसेना के अधिकारी बोले- बिना रुकावट तालमेल जरूरी",
       "link": "https://www.amarujala.com/india-news/joint-operations-conclave-integrated-warfighting-india-aiforce-officer-on-tri-service-coordination-2026-02-07",
@@ -54576,19 +54654,6 @@
       "lang": "en"
     },
     {
-      "id": "41c8e59f133844f75930aff25406c5ce",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 7 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-07",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-07",
-      "timestamp": "Sat, 07 Feb 2026 02:30:24 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "2d88cce50fa93b2b46f3d66522c446a8",
       "title": "Lucknow News: मां की डांट से आहत किशोरी ने की आत्महत्या",
       "link": "https://www.amarujala.com/lucknow/teenage-girl-commits-suicide-after-being-scolded-by-her-mother-lucknow-news-c-13-lko1096-1593505-2026-02-07",
@@ -54600,19 +54665,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "b4685d27f214c0bdcbd993e97b04189e",
-      "title": "पढ़ें 7 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-07",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-07",
-      "timestamp": "Sat, 07 Feb 2026 02:30:11 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "1bcb236149e5da0809a96e9ac56be318",
@@ -79575,6 +79627,32 @@
       "lang": "en"
     },
     {
+      "id": "373362b8c78a44ce747ecad2b1093dc5",
+      "title": "Norway's crown princess apologises after pressure over Epstein friendship",
+      "link": "https://www.bbc.com/news/articles/c78v8wx6jjxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Mette-Marit says she is sorry to Norwegians for not realising what kind of person the late sex offender was.",
+      "date": "2026-02-06",
+      "timestamp": "Fri, 06 Feb 2026 21:34:24 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e92ee895c28bb4579deb6db0af69152b",
+      "title": "Gas, power and AI’s role in the new age of energy addition",
+      "link": "https://www.aljazeera.com/economy/2026/2/6/gas-power-and-ais-role-in-the-new-age-of-energy-addition?traffic_source=rss",
+      "summary": "Energy CEOs say the narrative of a managed energy transition from fossil fuels to a cleaner system is over.",
+      "date": "2026-02-06",
+      "timestamp": "Fri, 06 Feb 2026 21:33:32 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e13554deb7c0a1a18bc9ef1adb9cae66",
       "title": "CM hands over ₹1 crore aid to families of constables",
       "link": "https://www.thehindu.com/news/national/telangana/cm-hands-over-1-crore-aid-to-families-of-constables/article70601225.ece",
@@ -80173,6 +80251,19 @@
       "lang": "en"
     },
     {
+      "id": "3bc9972d67ab2a3c21a7c502cd0d7a6b",
+      "title": "Gazans returning through Rafah crossing describe checks by Palestinian militia",
+      "link": "https://www.bbc.com/news/articles/cy4g3rne4n7o?at_medium=RSS&at_campaign=rss",
+      "summary": "One Palestinian woman said members of the Israel-linked militia searched them and their belongings at an Israeli checkpoint inside Gaza.",
+      "date": "2026-02-06",
+      "timestamp": "Fri, 06 Feb 2026 20:27:57 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "187f0230d6030ed9a58af66644f41661",
       "title": "Prasanth Ezhavan wins first P.K. Rosy Film Award",
       "link": "https://www.thehindu.com/news/national/kerala/prasanth-ezhavan-wins-first-pk-rosy-film-award/article70600933.ece",
@@ -80694,7 +80785,7 @@
     },
     {
       "id": "e9ed4027083204897c5c3901e42b384a",
-      "title": "Anti-ICE protesters rally in Milan before Winter Olympics",
+      "title": "Anti-ICE protesters rally in Milan as Winter Olympics get under way",
       "link": "https://www.aljazeera.com/news/2026/2/6/anti-ice-protesters-rally-in-milan-ahead-of-olympics-opening?traffic_source=rss",
       "summary": "Students demand ICE agents protecting US delegation leave amid global outrage over Trump's brutal deportation push.",
       "date": "2026-02-06",
@@ -81105,6 +81196,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "28c10b3a4d76c3ea1159e4427874bc22",
+      "title": "What the Super Bowl means to American fans",
+      "link": "https://www.bbc.com/news/videos/c2d7den70j1o?at_medium=RSS&at_campaign=rss",
+      "summary": "NFL fans have flocked to California for Super Bowl LX, where the New England Patriots and Seattle Seahawks will face off at Levi's Stadium in Santa Clara.",
+      "date": "2026-02-06",
+      "timestamp": "Fri, 06 Feb 2026 19:06:05 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -81586,6 +81690,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5151a51069b6d6c1ec03052af1eefa14",
+      "title": "As US cash dries up South Africa's fight to stop Aids gets harder",
+      "link": "https://www.bbc.com/news/articles/c5ydyr53np1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Health experts fear that as testing and monitoring drops the risk of the further spread of HIV rises.",
+      "date": "2026-02-06",
+      "timestamp": "Fri, 06 Feb 2026 17:57:45 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -82217,7 +82334,7 @@
       "id": "911d02e306b46cedc3b3e17c84a13afe",
       "title": "India beat England as Suryavanshi hits 175 in U-19 Cricket World Cup final",
       "link": "https://www.aljazeera.com/sports/2026/2/6/india-beat-england-as-suryavanshi-hits-175-in-u-19-cricket-world-cup-final?traffic_source=rss",
-      "summary": "India's 14-year-old prodigy Vaibhav Suryavanshi scores 175 from 80 balls to help beat England by 111 runs in final.",
+      "summary": "India's 14-year-old prodigy Vaibhav Suryavanshi scores 175 from 80 balls to help beat England by 100 runs in final.",
       "date": "2026-02-06",
       "timestamp": "Fri, 06 Feb 2026 15:51:17 +0000",
       "section": "International",
@@ -89958,6 +90075,45 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b94e5b714d9484a224c855a95dbe69af",
+      "title": "'When told I'm 75, I said 25 yrs left': PM Modi tells students to focus on future",
+      "link": "https://timesofindia.indiatimes.com/india/when-told-im-75-i-said-25-yrs-left-pm-modi-tells-students-to-focus-on-future/articleshow/128010068.cms",
+      "summary": "Prime Minister Narendra Modi advised students at 'Pariksha Pe Charcha' that education is for life, not just exams, emphasizing character and temperament over grades. He encouraged focusing on future goals rather than dwelling on past achievements, urging them to live in the present and plan for what lies ahead.",
+      "date": "2026-02-06",
+      "timestamp": "2026-02-07T03:38:28+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3172de41d3c3883200bb18939b0ab0ab",
+      "title": "US accuses China of secret N-tests in 2020",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-accuses-china-of-secret-n-tests-in-2020/articleshow/128009899.cms",
+      "summary": "",
+      "date": "2026-02-06",
+      "timestamp": "2026-02-07T03:27:29+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1a7bd38e6e72847f23ce908b5f30923b",
+      "title": "'I don't know what will happen to me': Pappu Yadav after arrest in 1995 case",
+      "link": "https://timesofindia.indiatimes.com/india/i-dont-know-what-will-happen-to-me-pappu-yadav-after-arrest-in-1995-case/articleshow/128009693.cms",
+      "summary": "Purnea MP Pappu Yadav was arrested by Patna Police in connection with a 1995 case, expressing fears for his safety and demanding to be taken directly to court. He questioned the police's methods and the timing of the arrest. The MP was later admitted to hospital due to health concerns.",
+      "date": "2026-02-06",
+      "timestamp": "2026-02-07T03:21:41+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
