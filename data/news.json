@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-08T22:21:48.974837+00:00",
+  "generated_at": "2026-02-08T23:26:32.422754+00:00",
   "stories": [
     {
       "id": "d0050228dab8da2ff12b19bc994c1d33",
@@ -33451,6 +33451,19 @@
       "lang": "en"
     },
     {
+      "id": "c55e7a50914954a1a6be06cf246c6195",
+      "title": "Israel security cabinet approves rules to increase control over West Bank",
+      "link": "https://www.aljazeera.com/news/2026/2/8/israel-security-cabinet-approves-rules-to-increase-control-over-west-bank?traffic_source=rss",
+      "summary": "The Palestinian presidency calls the decision a 'dangerous' Israeli 'attempt to legalize settlement expansion'.",
+      "date": "2026-02-08",
+      "timestamp": "Sun, 08 Feb 2026 22:36:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6c7a24f56a2c0632da6de3f5fe59d33d",
       "title": "Startup communities launched in two villages in Villupuram district",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/startup-communities-launched-in-two-villages-in-villupuram-district/article70607307.ece",
@@ -33551,6 +33564,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2d48bc114448005b7440263cb4706540",
+      "title": "Venezuela frees high-profile opposition figure Juan Pablo Guanipa",
+      "link": "https://www.bbc.com/news/articles/ce820zz8jl6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Justice First party leader is among 18 political prisoners to be freed by the interim government on Sunday.",
+      "date": "2026-02-08",
+      "timestamp": "Sun, 08 Feb 2026 22:16:22 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -36065,7 +36091,7 @@
     },
     {
       "id": "20d9fe188c836189ecf364c76f89cf71",
-      "title": "US skier Vonn crashes in downhill run while competing with torn ACL",
+      "title": "US skier Vonn has leg fracture after crash while competing with torn ACL",
       "link": "https://www.bbc.com/sport/articles/c98q5g51z4no?at_medium=RSS&at_campaign=rss",
       "summary": "American skier Lindsey Vonn has surgery on a left-leg fracture after suffering heartbreak in what could be her final Olympic event as she crashes in the women's downhill competition in Cortina.",
       "date": "2026-02-08",
@@ -65002,6 +65028,71 @@
       "lang": "en"
     },
     {
+      "id": "013d42f042e57f12ca652bf14de3b4b4",
+      "title": "Parliament: भारत-अमेरिका व्यापार समझौते पर विपक्ष की कार्यस्थगन प्रस्ताव लाने की तैयारी, सदन में टकराव के आसार",
+      "link": "https://www.amarujala.com/india-news/opposition-preparing-adjournment-motion-on-india-us-trade-agreement-clash-expected-in-parliament-2026-02-09",
+      "summary": "Parliament: भारत-अमेरिका व्यापार समझौते पर विपक्ष की कार्यस्थगन प्रस्ताव लाने की तैयारी, सदन में टकराव के आसार---Opposition preparing adjournment motion on India US trade agreement clash expected in parliament",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 04:32:49 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "6df90457c582a753e2de385489475ad1",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 9 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-09",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 04:30:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f76b4547492cc21594a93cf38c4ad87e",
+      "title": "पढ़ें 9 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-09",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 04:30:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "41090a41c99f98ffefecf5f728ca9cd7",
+      "title": "Cyber Attack: भारतीय कंपनियों पर साइबर हमला सबसे बड़ा खतरा, हो रहा बड़ा नुकसान; इस रिपोर्ट में दावा",
+      "link": "https://www.amarujala.com/india-news/cyber-attack-biggest-risk-for-indian-companies-causing-huge-losses-ficci-ey-survey-2026-2026-02-09",
+      "summary": "Cyber Attack: भारतीय कंपनियों पर साइबर हमला सबसे बड़ा खतरा, हो रहा बड़ा नुकसान; इस रिपोर्ट में दावा cyber attack biggest risk for indian companies causing huge losses ficci ey survey 2026",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 04:30:09 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c370dd76f08d6e7997971bffe3433155",
+      "title": "Mohan Bhagwat on Hindu: हिंदू राष्ट्र पर खुलकर बोले संघ प्रमुख मोहन भागवत, बताया आगामी 30 साल का प्लान!",
+      "link": "https://www.amarujala.com/video/india-news/mohan-bhagwat-on-hindu-rss-chief-mohan-bhagwat-spoke-openly-on-hindu-nation-told-the-plan-for-the-next-30-ye-2026-02-09",
+      "summary": "Mohan Bhagwat on Hindu: हिंदू राष्ट्र पर खुलकर बोले संघ प्रमुख मोहन भागवत, बताया आगामी 30 साल का प्लान!",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 04:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "1c21a2108769be642b0c776cc2a55656",
       "title": "अमर उजाला शब्द सम्मान- 2025: उस्ताद शुजात खान के सान्निध्य में 11 फरवरी को होगा शब्द साधकों का सम्मान",
       "link": "https://www.amarujala.com/india-news/amar-ujala-shabd-samman-2025-shujaat-husain-khan-sitar-performance-akashdeep-award-literature-2026-02-09",
@@ -65013,6 +65104,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "f8a0d2d41edef420842154df3f578677",
+      "title": "Israel’s security cabinet approves measures to strengthen control over West Bank",
+      "link": "https://www.thehindu.com/news/international/israels-security-cabinet-approves-measures-to-strengthen-control-over-west-bank/article70608821.ece",
+      "summary": "Palestinian President Mahmoud Abbas, in a statement, called the decision “dangerous” and an “open Israeli attempt to legalise settlement expansion” and land confiscation",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 03:48:27 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "403346246e7614b4722965cc7b6f10d9",
@@ -65028,30 +65132,17 @@
       "lang": "hi"
     },
     {
-      "id": "6df90457c582a753e2de385489475ad1",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 9 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-09",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "id": "7e2519bfc6a8bdf917750327f7b4a4b4",
+      "title": "AAP leaders accuse Congress’ Bajwa of making derogatory remark against Punjab Cabinet Minister",
+      "link": "https://www.thehindu.com/news/national/punjab/aap-leaders-accuse-congress-bajwa-of-making-derogatory-remark-against-punjab-cabinet-minister/article70608820.ece",
+      "summary": "Congress leaders, however, rejected the charge and accused the AAP of attempting to twist facts and misuse the sensitive issue of Dalits for political mileage by levelling false allegations against Partap Singh Bajwa",
       "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 03:30:24 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "f76b4547492cc21594a93cf38c4ad87e",
-      "title": "पढ़ें 9 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-09",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 03:30:12 +0530",
+      "timestamp": "Mon, 09 Feb 2026 03:31:38 +0530",
       "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
       "district": "",
-      "lang": "hi"
+      "lang": "en"
     },
     {
       "id": "cc3c83c4feffaaf439092774a1c56abf",
@@ -65077,6 +65168,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "7267b52e8c6a83a38d3942fe49a5f773",
+      "title": "Missing sub-inspector from U.P.’s Basti found dead in Ayodhya; probe on",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/missing-sub-inspector-from-ups-basti-found-dead-in-ayodhya-probe-on/article70608706.ece",
+      "summary": "The deceased was identified as Sub-Inspector Ajay Gaur, who was posted at the Parsarampur police station in Basti district. He had gone missing under suspicious circumstances on February 5",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 03:14:17 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d33b316d9c9d871397b5edd9aba04148",
+      "title": "Man critically injured in elephant attack in Tripura",
+      "link": "https://www.thehindu.com/news/national/tripura/man-critically-injured-in-elephant-attack-in-tripura/article70608707.ece",
+      "summary": "The doctors said the 60-year-old man sustained injuries to his legs and body",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 03:04:51 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -89139,6 +89256,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b1c1b400a4601a15d040a4f6c1dc5a42",
+      "title": "NEET-PG cut-off: Single-digit scores land PG seats in top med colleges",
+      "link": "https://timesofindia.indiatimes.com/india/neet-pg-cut-off-single-digit-scores-land-pg-seats-in-top-med-colleges/articleshow/128086922.cms",
+      "summary": "NEET-PG qualifying standards were drastically lowered, resulting in postgraduate medical seats in government colleges being filled with extremely low scores. Candidates secured spots in high-risk clinical specialties and premier institutions with scores as low as single digits, raising significant concerns within the medical community.",
+      "date": "2026-02-08",
+      "timestamp": "2026-02-09T03:41:25+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
