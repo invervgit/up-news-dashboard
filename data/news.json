@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-09T11:43:02.201010+00:00",
+  "generated_at": "2026-02-09T12:57:36.129726+00:00",
   "stories": [
     {
       "id": "d0050228dab8da2ff12b19bc994c1d33",
@@ -35700,19 +35700,6 @@
       "lang": "en"
     },
     {
-      "id": "39d899030409031ffe6800fea5ecdc4f",
-      "title": "US news anchor Savannah Guthrie says 'we will pay' in plea for mother's return",
-      "link": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss",
-      "summary": "Nancy Guthrie, 84, disappeared in the middle of night from her home in Tucson, Arizona, last weekend.",
-      "date": "2026-02-08",
-      "timestamp": "Sun, 08 Feb 2026 18:10:07 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e45648f92fc37ee4b646a22415b8c149",
       "title": "शादी से एक दिन पहले महिला सिपाही का अपहरण, तमंचा दिखाकर उठा ले गए बदमाश, दिल्ली से बरामद",
       "link": "https://www.livehindustan.com/uttar-pradesh/female-police-officer-was-kidnapped-day-before-her-wedding-criminals-abducted-her-at-gunpoint-in-meerut-201770554013560.html",
@@ -54069,16 +54056,367 @@
       "lang": "en"
     },
     {
-      "id": "9107e9ec09d9f15cff33152f68d5d74e",
-      "title": "मांझा-मोबाइल से दूरी बनाएं, स्वास्थ्य और पढ़ाई पर ध्यान दें, छात्रों के नाम सीएम योगी की पाती",
-      "link": "https://www.livehindustan.com/uttar-pradesh/avoid-using-mobile-phones-focus-on-your-health-and-studies-cm-yogi-message-to-students-manjha-201770636961429.html",
-      "summary": "छात्रों के नाम लिखी पाती में सीएम योगी ने मोबाइल फोन से दूरी बनाने का आग्रह किया। उन्होंने कहा, बहुत ज़्यादा गेम खेलने या वीडियो देखने से समय बर्बाद होता है, पढ़ाई पर असर पड़ता है, और आंखों की रोशनी कमजोर होती है।",
+      "id": "352ee57c8b8fc5f89d2b1e1a17784974",
+      "title": "New dragonfly species discovered in Kerala, named Lyriothemis keralensis",
+      "link": "https://www.thehindu.com/news/national/kerala/new-dragonfly-species-discovered-in-kerala-named-lyriothemis-keralensis/article70610007.ece",
+      "summary": "Although the species has been known to be found in Kerala since 2013, it had remained misidentified for over a decade as Lyriothemis acigastra, a species previously though to be restricted to northeast India",
       "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 17:11:37 +0530",
+      "timestamp": "Mon, 09 Feb 2026 18:24:05 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "03b56f492f38bac96cd1f7444d7c30ff",
+      "title": "Gujarat exchanges Letter of Intent with Starlink for high-speed internet connectivity",
+      "link": "https://www.thehindu.com/news/national/gujarat/gujarat-exchanges-letter-of-intent-with-starlink-for-high-speed-internet-connectivity/article70611099.ece",
+      "summary": "The aim is to provide high-speed satellite-based internet connectivity in the State's remote, border, and underserved areas that currently have limited telecom infrastructure, the release said, adding it is part of the Digital Connectivity Mission and other strategic initiatives",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:23:52 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "160a14e20ade74b18a4a101332151681",
+      "title": "Here are the big stories from Karnataka today",
+      "link": "https://www.thehindu.com/newsletter/karnataka-today/here-are-the-big-stories-from-karnataka-today/article70611039.ece",
+      "summary": "Welcome to the Karnataka Today newsletter, your guide from The Hindu on the major news stories to follow today. Curated and written by Nalme Nachiyar.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:22:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5d641cab0ea9d77fef5d1c3eb538e8aa",
+      "title": "Opposition walks out of Rajya Sabha",
+      "link": "https://www.thehindu.com/news/national/opposition-walks-out-of-rajya-sabha/article70610820.ece",
+      "summary": "They continue to protest, accusing the government of not letting Lok Sabha Leader of Opposition Rahul Gandhi speak in the House.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:22:36 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "85f4d2d8d3500146d9425e596b689d2b",
+      "title": "Parliament Budget Session Day 9 updates: Both Houses adjourned, budget discussion to continue tomorrow",
+      "link": "https://www.thehindu.com/news/national/parliament-budget-session-lok-sabha-rajya-sabha-live-updates-february-9-2026/article70609565.ece",
+      "summary": "The Lok Sabha adjourned for the day amid a stand-off between opposition and the government.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:18:52 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5d0cf4349df3dbc6bd771e53f2330f73",
+      "title": "Government, Opposition lock horns in Lok Sabha, House adjourned for day",
+      "link": "https://www.thehindu.com/news/national/lok-sabha-adjourned-budget-session-rahul-gandhi-speech/article70610723.ece",
+      "summary": "The Lok Sabha proceedings were adjourned twice earlier – once at 11 a.m. when the business of the day began and again after a few minutes of proceedings at 12 noon",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:18:05 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2332ccb4575e21ffebc7df9ae756575f",
+      "title": "Applications open for NEET (UG) 2026 opens",
+      "link": "https://www.thehindu.com/news/national/telangana/applications-open-for-neet-ug-2026-opens/article70608063.ece",
+      "summary": "",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:17:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "aa29350baa518eb59cb09cd2f510feab",
+      "title": "Fear grips Thalavadi Hills amid rising human-elephant conflict",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/fear-grips-thalavadi-hills-amid-rising-human-elephant-conflict/article70610131.ece",
+      "summary": "In the early hours of Sunday (February 8, 2026), Mahesh, 28, of Karalavadi village was trampled to death by a herd of elephants while attempting, along with other farmers, to drive them away from agricultural fields",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:15:22 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d4d288ebfd7d3c41d8c4db642c0d2ebd",
+      "title": "Death toll in Lebanon building collapse rises to 15",
+      "link": "https://www.thehindu.com/news/international/tripoli-lebanon-building-collapse-death-toll-injuries-updates-february-9-2026/article70610842.ece",
+      "summary": "The six-story apartment building in the impoverished Bab Tabbaneh neighbourhood collapsed on Sunday (February 8, 2026) afternoon",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:14:38 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "40ce37afb949cc10a61c1eaac1502ab3",
+      "title": "Campaigning for Telangana Municipal Polls-2026 ends",
+      "link": "https://www.thehindu.com/news/national/telangana/campaigning-for-telangana-municipal-polls-2026-ends/article70610808.ece",
+      "summary": "",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:13:29 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "85708660b09960f7acfe1d92bfe6f2bb",
+      "title": "Ambati Rambabu released for a day on PT warrant to appear in Guntur court",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ambati-rambabu-released-for-a-day-on-pt-warrant-to-appear-in-guntur-court/article70610851.ece",
+      "summary": "",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:11:59 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "479aff158826787fd793f0fa002ee4a9",
+      "title": "बुलडोजर लेकर विवादित जमीन पर खुद ही मकान ढहाने पहुंच गए भाजपा के जिला मंत्री, हंगामा",
+      "link": "https://www.livehindustan.com/uttar-pradesh/bjp-leader-in-deoria-reached-disputed-land-with-a-bulldozer-to-demolish-the-house-himself-causing-uproar-201770639984659.html",
+      "summary": "भाजपा के जिला मंत्री अभिषेक जायसवाल देवरिया के सलेमपुर में विवादित जमीन पर बुलडोजर लेकर पहुंच गए। बिना किसी आदेश के भूमि के एक हिस्से में बने एक मकान पर बुलडोजर चलना शुरू हुआ तो हंगामा हो गया। जानकारी होने पर एसडीएम ने उसे रुकवाया। इस मामले में मुख्यमंत्री से भी शिकायत की गई है।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:10:48 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d73da0732718cae2ba83296cfbdcf00c",
+      "title": "Indian-Canadian shot dead in Toronto parking lot",
+      "link": "https://www.thehindu.com/news/national/indian-canadian-shot-dead-in-toronto-parking-lot/article70611002.ece",
+      "summary": "The victim, Nandakumar, originally from Karnataka, was an IT professional in Canada; the shooting marks Toronto’s third homicide of the year",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:10:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "27cba458cf2876263ca3d74309b1ffb6",
+      "title": "T.N. CM Stalin extends free meal scheme to another one lakh conservancy workers in civic bodies",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-extends-free-meal-scheme-to-another-one-lakh-conservancy-workers-in-civic-bodies/article70609795.ece",
+      "summary": "The expansion, launched during an event at Polivakkam in Tiruvallur district, would benefit 48,768 workers in 24 Corporations, 29,556 workers in 145 Municipalities, and 21,910 workers in 479 town panchayats",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:10:31 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8a2074fb911a7aaff6f3457797c5a249",
+      "title": "Digital luggage locker facility on cards at Kozhikode railway station",
+      "link": "https://www.thehindu.com/news/national/kerala/digital-luggage-locker-facility-on-cards-at-kozhikode-railway-station/article70610676.ece",
+      "summary": "It will be opened within a week near the existing manual cloakroom on the fourth platform",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:08:50 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "427409919b4d37431ddd5560bead940a",
+      "title": "Manipur’s Ukhrul tense after night of arson",
+      "link": "https://www.thehindu.com/news/national/manipur/manipurs-ukhrul-tense-after-night-of-arson/article70609686.ece",
+      "summary": "Deputy Chief Minister Losii Dikho is scheduled to visit the volatile Litan area in a bid to douse the fire",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:08:44 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "855b566d4ab86a9a1d47b5637d442944",
+      "title": "Babies among 53 dead or missing after migrant boat sinks off Libya, U.N. says",
+      "link": "https://www.thehindu.com/news/international/babies-among-53-dead-or-missing-after-migrant-boat-sinks-off-libya-un-says/article70610948.ece",
+      "summary": "“Two Nigerian women survived the shipwreck and were rescued by Libyan authorities,” says U.N.’s IOM",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:08:28 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "faf4dcfca051e42bd3e1c7753b1de5ec",
+      "title": "Terror suspect Abdul Rehman murdered in Faridabad jail by another inmate",
+      "link": "https://www.thehindu.com/news/national/haryana/terror-suspect-abdul-rehman-murdered-in-faridabad-jail-by-another-inmate/article70610047.ece",
+      "summary": "Rehman was arrested in March 2025 by the Gujarat Anti-Terrorism Squad (ATS) and Haryana Special Task Force (STF) for allegedly being in possession of two hand grenades",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:04:53 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9b953d415685aee46f2e310e19227f1c",
+      "title": "Shimjitha’s bail plea to be considered on February 10",
+      "link": "https://www.thehindu.com/news/national/kerala/shimjithas-bail-plea-to-be-considered-today/article70610722.ece",
+      "summary": "The order was deferred to Tuesday as the judge was on leave on Monday",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 18:01:42 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1dd46684493a685e5778d166391ddc41",
+      "title": "Bengal BJP demands death penalty for Trinamool leader arrested for murder",
+      "link": "https://www.thehindu.com/news/national/bengal-bjp-demands-death-penalty-for-trinamool-leader-arrested-for-murder/article70610872.ece",
+      "summary": "The Trinamool Congress councillor in Bengal’s Barrackpore allegedly assaulted an 80-year-old man who was protesting against an illegal construction outside his house; the elderly man died on the spot",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:54:05 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "12925998c25a2bfe15cd15f2a56bd977",
+      "title": "One year on, ASHA workers in Karnataka await promised honorarium; to strike again on February 12",
+      "link": "https://www.thehindu.com/news/national/karnataka/one-year-on-asha-workers-in-karnataka-await-promised-honorarium-to-strike-again-on-february-12/article70610782.ece",
+      "summary": "The ASHA Workers’ Union has been seeking a fixed monthly honorarium of ₹15,000, along with an additional ₹2,000 for city-based workers. A ₹10,000 fixed honorarium, however, was reiterated by CM Siddaramaiah on January 11, 2025.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:52:28 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e5b29b35d8230005088b86143784acff",
+      "title": "आप बंट गए तो कटने के रास्ते खुल जाएंगे, बांग्लादेश की घटना पर सीतापुर में बोले सीएम योगी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/aap-bant-gaye-to-katne-ke-raste-khul-jayenge-cm-yogi-speaks-sitapur-on-incident-bangladesh-201770639428121.html",
+      "summary": "तपोधाम सतगुरु गिरधारी नाथ महाराज आश्रम में आयोजित मूर्ति स्थापना दिवस में पहुंचे सीएम योगी ने बांग्लादेश की घटना को लेकर विपक्ष पर हमला बोला।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:52:09 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e5f1fba5371179a3761d72ca5f00bdf3",
+      "title": "Asaduddin Owaisi filed complains against Assam Chief Minister over alleged hate speech video",
+      "link": "https://www.thehindu.com/news/national/owaisi-seeks-action-against-assam-cm-over-point-blank-shot-video/article70610735.ece",
+      "summary": "In the complaint, Mr. Owaisi alleged that Himanta Biswa Sarma had, over several years, made statements against the Muslim community through social media, print media and public speeches",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:49:30 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "19777bb7411f25cdd5bc1fd6afe999e4",
+      "title": "Rameswaram airport: AAI submits finds site near Keelakarai feasible",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/rameswaram-airport-aai-submits-pre-feasibility-report-finds-site-near-keelakarai-feasible/article70607311.ece",
+      "summary": "When compared to the site near Uchipuli, which has a lot of trees, paddy fields, groundwater wells, and residents, the site close to Keelakarai has lesser obstacles and residents as seen from the initial inspection",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:47:20 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a2f369db992d7f4e748a8920383df10e",
+      "title": "Pandemonium in J&K Assembly over SASCI; BJP walks out alleging unfairness",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-and-kashmir-legislative-assembly-sasci-scheme-bjp-walks-out/article70610879.ece",
+      "summary": "PDP MLA Para accused the ruling dispensation of pushing Jammu and Kashmir into a debt trap with the SASCI scheme; cautions CM that J&K should not be pushed towards a situation similar to that faced by “failed states like Sri Lanka and Pakistan”",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:46:45 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2c5cb3c577a2f9f44d9aa2e3fdd73528",
+      "title": "Ajjoor residents plan to choose NOTA option during elections",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/ajjoor-residents-plan-to-choose-nota-option-during-elections/article70610670.ece",
+      "summary": "",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:36:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "85f8101c3115691dd656f812946c296c",
+      "title": "‘Hyderabad City Children Parliament’ held",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/hyderabad-city-children-parliament-held/article70608317.ece",
+      "summary": "",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:32:48 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "38a3190021b2e0b9ad6c5b5de822bace",
+      "title": "Karnataka Home Minister calls meeting on Feb 11 to review progress of safety measures by KSCA at Bengaluru’s Chinnaswamy stadium",
+      "link": "https://www.thehindu.com/news/cities/bangalore/home-minister-g-parmaeshwara-calls-meeting-to-review-progress-of-safety-measures-at-m-chinnaswamy-stadium-in-bengaluru/article70610538.ece",
+      "summary": "Delegation meets Minister requesting clearances for inclusion of Bengaluru in the schedule for international cricket matches and the IPL tournament",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:29:01 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -54087,9 +54425,113 @@
       "link": "https://www.thehindu.com/news/national/tamil-nadu/jana-nayagan-producer-to-withdraw-writ-petition-from-madras-high-court/article70610640.ece",
       "summary": "The writ petition is expected to be listed under the caption ‘For Withdrawal’ before Justice P.T. Asha on Tuesday since KVN Productions LLP has agreed for the reference to the revising committee",
       "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 17:06:47 +0530",
+      "timestamp": "Mon, 09 Feb 2026 17:24:09 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "66e4f9e1fc12dac093101339a0138e30",
+      "title": "भ्रष्टाचार के खिलाफ ऐक्शन में योगी सरकार, सहायक आयुक्त उद्योग और सहायक प्रबंधक समेत 3 सस्पेंड",
+      "link": "https://www.livehindustan.com/uttar-pradesh/yogi-government-suspends-3-in-hamirpur-including-assistant-commissioner-of-industries-assistant-manager-corruption-case-201770637292200.html",
+      "summary": "सोमवार को हमीरपुर में भ्रष्टाचार पर बड़ा ऐक्शन हुआ है। यहां जिला उद्योग कार्यालय में तैनात तीन अधिकारियों को ऑनलाइन आवेदन और पत्रावली निस्तारण के नाम पर कथित अवैध वसूली में संलिप्त पाए जाने पर तत्काल प्रभाव से निलंबित कर दिया गया है। तीनों के खिलाफ अनुशासनिक कार्यवाही का भी आदेश दिया गया है।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:23:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "66931475d30713d44f0119c3df65454b",
+      "title": "Thirupparankundram hill Dargah: Prayers only during festival days, says Supreme Court",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/thirupparankundram-hill-dargah-prayers-only-during-festival-days-says-supreme-court/article70610144.ece",
+      "summary": "The petition challenged the High Court’s finding that the practice of offering namaz was only of a “recent origin”",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:23:10 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9c498e02d9f5327db5d27128e637b9ba",
+      "title": "In Pictures: Inside Tata Motors-Jaguar Land Rover manufacturing plant in Tamil Nadu",
+      "link": "https://www.thehindu.com/photos/in-pictures-inside-tata-motors-jaguar-land-rover-car-manufacturing-plant-in-tamil-nadu/article70610415.ece",
+      "summary": "Images from the Tata Motors-Jaguar Land Rover (JLR) plant established in Tamil Nadu. The luxury car manufacturing facility was opened on February 9, 2026",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:16:50 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d9f7f949e053ca06788f6fa1a17b303f",
+      "title": "Long way to achieve complete equality for girl children: Calcutta High Court's Port Blair Bench",
+      "link": "https://www.thehindu.com/news/national/andaman-and-nicobar-islands/long-way-to-achieve-complete-equality-for-girl-children-calcutta-high-courts-port-blair-bench/article70610726.ece",
+      "summary": "The Port Blair sessions court had discharged the woman’s in-laws, accused of torturing her and demanding dowry from her parents, especially after she gave birth to a girl child. She killed her daughter and herself in 2021.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:14:11 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9107e9ec09d9f15cff33152f68d5d74e",
+      "title": "मांझा-मोबाइल से दूरी बनाएं, स्वास्थ्य और पढ़ाई पर ध्यान दें, छात्रों के नाम सीएम योगी की पाती",
+      "link": "https://www.livehindustan.com/uttar-pradesh/avoid-using-mobile-phones-focus-on-your-health-and-studies-cm-yogi-message-to-students-manjha-201770636961429.html",
+      "summary": "छात्रों के नाम लिखी पाती में सीएम योगी ने मोबाइल फोन से दूरी बनाने का आग्रह किया। उन्होंने कहा, बहुत ज़्यादा गेम खेलने या वीडियो देखने से समय बर्बाद होता है, पढ़ाई पर असर पड़ता है, और आंखों की रोशनी कमजोर होती है।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:11:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "3a73253fd2ceba7ad2ca012b9331a872",
+      "title": "SIR hearing highlights: Supreme Court orders extension of time for objections in West Bengal SIR by a week from Feb. 14",
+      "link": "https://www.thehindu.com/news/national/sir-hearing-special-intensive-revision-supreme-court-live-updates-february-9-2026/article70609729.ece",
+      "summary": "EROs should consider all or any of the documents listed in the SIR notice, in additon to the documents mentioned in the SC order (admit card, Aadhaar, etc) during verification in the claim/objections phase, the SC order adds",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:10:17 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2fce54fb83e157ed96bbbc03b0f95ad7",
+      "title": "Japan's Takaichi says will 'steadfastly protect' territorial waters",
+      "link": "https://www.thehindu.com/news/international/japans-takaichi-says-will-steadfastly-protect-territorial-waters/article70610662.ece",
+      "summary": "She said she plans to build a national intelligence bureau and introduce a bill to set up a committee to review national security risk of foreign investments in Japan",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:08:37 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "52f74e120e67f8cb1fa8a8369670907e",
+      "title": "Iraq executes former senior officer under Saddam for 1980 killing of Shiite cleric",
+      "link": "https://www.thehindu.com/news/international/iraq-executes-former-senior-officer-under-saddam-for-1980-killing-of-shiite-cleric/article70610639.ece",
+      "summary": "The National Security Service said that Saadoun Sabri al-Qaisi, who held the rank of Major General under Hussein and was arrested last year, was convicted of “grave crimes against humanity”.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 17:05:05 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -54108,19 +54550,6 @@
       "lang": "en"
     },
     {
-      "id": "9c498e02d9f5327db5d27128e637b9ba",
-      "title": "In Pictures: Inside Tata Motors-Jaguar Land Rover manufacturing plant in Tamil Nadu",
-      "link": "https://www.thehindu.com/photos/in-pictures-inside-tata-motors-jaguar-land-rover-car-manufacturing-plant-in-tamil-nadu/article70610415.ece",
-      "summary": "Images from the Tata Motors-Jaguar Land Rover (JLR) plant established in Tamil Nadu. The luxury car manufacturing facility was opened on February 9, 2026",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 17:03:49 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "62b06a41911614e1ad717f291d2193b9",
       "title": "U.S. energy secretary to visit Venezuela to discuss PDVSA leadership, Politico reports",
       "link": "https://www.thehindu.com/news/international/us-energy-secretary-to-visit-venezuela-to-discuss-pdvsa-leadership-politico-reports/article70610648.ece",
@@ -54129,19 +54558,6 @@
       "timestamp": "Mon, 09 Feb 2026 17:00:41 +0530",
       "section": "International",
       "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3a73253fd2ceba7ad2ca012b9331a872",
-      "title": "SIR hearing highlights: Supreme Court orders extension of time for objections in West Bengal SIR by a week from Feb 14.",
-      "link": "https://www.thehindu.com/news/national/sir-hearing-special-intensive-revision-supreme-court-live-updates-february-9-2026/article70609729.ece",
-      "summary": "EROs should consider all or any of the documents listed in the SIR notice, in additon to the documents mentioned in the SC order (admit card, Aadhaar, etc) during verification in the claim/objections phase, the SC order adds",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 16:58:55 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -54212,19 +54628,6 @@
       "lang": "en"
     },
     {
-      "id": "85f4d2d8d3500146d9425e596b689d2b",
-      "title": "Parliament Budget Session Day 9 LIVE: 'Forgettable Budget by Finance Minister who forgot last year's promises,' says P. Chidambaram in Budget discussion",
-      "link": "https://www.thehindu.com/news/national/parliament-budget-session-lok-sabha-rajya-sabha-live-updates-february-9-2026/article70609565.ece",
-      "summary": "The Lok Sabha adjourned for the day amid a stand-off between opposition and the government.",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 16:52:41 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "aae99ae6fd4c71b91a84fef91ca6d7c0",
       "title": "HYDRAA protects 7,000 square yards open spaces in Uppal of Medchal Malkajgiri",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/hydraa-protects-7000-square-yards-open-spaces-in-uppal-of-medchal-malkajgiri/article70604745.ece",
@@ -54251,19 +54654,6 @@
       "lang": "en"
     },
     {
-      "id": "2fce54fb83e157ed96bbbc03b0f95ad7",
-      "title": "Japan's Takaichi says will 'steadfastly protect' territorial waters",
-      "link": "https://www.thehindu.com/news/international/japans-takaichi-says-will-steadfastly-protect-territorial-waters/article70610662.ece",
-      "summary": "She said she plans to build a national intelligence bureau and introduce a bill to set up a committee to review national security risk of foreign investments in Japan",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 16:47:24 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "c152e116d03fc67fc9223bde32bb6eba",
       "title": "भाषण वास्तविक होता तो बेहतर होता, राज्यपाल के अभिभाषण पर आया मायावती का रिएक्शन",
       "link": "https://www.livehindustan.com/uttar-pradesh/bsp-chief-mayawati-it-would-have-been-better-up-governor-speech-had-been-realistic-and-departure-from-tradition-201770635525711.html",
@@ -54285,19 +54675,6 @@
       "timestamp": "Mon, 09 Feb 2026 16:47:14 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "52f74e120e67f8cb1fa8a8369670907e",
-      "title": "Iraq executes former senior officer under Saddam for 1980 killing of Shiite cleric",
-      "link": "https://www.thehindu.com/news/international/iraq-executes-former-senior-officer-under-saddam-for-1980-killing-of-shiite-cleric/article70610639.ece",
-      "summary": "The National Security Service said that Saadoun Sabri al-Qaisi, who held the rank of Major General under Hussein and was arrested last year, was convicted of “grave crimes against humanity”.",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 16:43:41 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -54452,19 +54829,6 @@
       "summary": "Counting of votes for elections to 12 Zilla Parishads and 125 Panchayat Samitis began at 10 a.m.",
       "date": "2026-02-09",
       "timestamp": "Mon, 09 Feb 2026 15:57:52 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "aa29350baa518eb59cb09cd2f510feab",
-      "title": "Fear grips Thalavadi Hills amid rising human-elephant conflict",
-      "link": "https://www.thehindu.com/news/cities/Coimbatore/fear-grips-thalavadi-hills-amid-rising-human-elephant-conflict/article70610131.ece",
-      "summary": "In the early hours of Sunday (February 8, 2026), Mahesh, 28, of Karalavadi village was trampled to death by a herd of elephants while attempting, along with other farmers, to drive them away from agricultural fields",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 15:57:33 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -54654,19 +55018,6 @@
       "lang": "en"
     },
     {
-      "id": "27cba458cf2876263ca3d74309b1ffb6",
-      "title": "T.N. CM Stalin extends free meal scheme to another one lakh conservancy workers in civic bodies",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-extends-free-meal-scheme-to-another-one-lakh-conservancy-workers-in-civic-bodies/article70609795.ece",
-      "summary": "The expansion, launched by Chief Minister M.K. Stalin during an event at Polivakkam in Tiruvallur district, would benefit 48,768 workers in 24 Corporations, 29,556 workers in 145 Municipalities, and 21,910 workers in 479 town panchayats",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 14:43:58 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "1113ad586b81679b42e69bf05a3a65d2",
       "title": "Bombay HC grants bail to accused in Baba Siddique murder case",
       "link": "https://www.thehindu.com/news/national/maharashtra/bombay-hc-grants-bail-to-accused-in-baba-siddique-murder-case/article70610203.ece",
@@ -54831,19 +55182,6 @@
       "timestamp": "Mon, 09 Feb 2026 13:57:19 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "faf4dcfca051e42bd3e1c7753b1de5ec",
-      "title": "Terror suspect Abdul Rehman murdered in Faridabad jail by another inmate",
-      "link": "https://www.thehindu.com/news/national/haryana/terror-suspect-abdul-rehman-murdered-in-faridabad-jail-by-another-inmate/article70610047.ece",
-      "summary": "Rehman was arrested in March 2025 by the Gujarat Anti-Terrorism Squad (ATS) and Haryana Special Task Force (STF) for allegedly being in possession of two hand grenades",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 13:50:38 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -55109,6 +55447,19 @@
       "lang": "en"
     },
     {
+      "id": "7fa7d79aed886b55ff811def1e9fa54f",
+      "title": "India’s first cat museum opens in Mysuru",
+      "link": "https://www.thehindu.com/life-and-style/indias-first-cat-museum-opens-in-mysuru/article70609752.ece",
+      "summary": "Sharath BS, the founder of Jin Min Cat World, says that he hopes to raise awareness about cats through this new initiative",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 12:38:30 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9850318766cf2e092827ffd378a88532",
       "title": "Abdul Rahman Murder in jail: बचपन में वीडियो देख थामा आतंक का हाथ, राम मंदिर का नक्शा बनाकर भेजा; पूरी कहानी",
       "link": "https://www.amarujala.com/delhi-ncr/noida/suspected-terrorist-abdul-rehman-murdered-in-faridabad-jail-complete-story-of-terrorist-training-2026-02-09",
@@ -55171,19 +55522,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "427409919b4d37431ddd5560bead940a",
-      "title": "Manipur’s Ukhrul tense after night of arson",
-      "link": "https://www.thehindu.com/news/national/manipur/manipurs-ukhrul-tense-after-night-of-arson/article70609686.ece",
-      "summary": "Deputy Chief Minister Losii Dikho is scheduled to visit the volatile Litan area in a bid to douse the fire",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 12:29:24 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -55356,6 +55694,45 @@
       "lang": "en"
     },
     {
+      "id": "e81a36c4a1bb29cc65f6d12d1d5d50fe",
+      "title": "Police pepper spray protesters as Israeli president visits Sydney",
+      "link": "https://www.bbc.com/news/articles/c62grw02gpjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Isaac Herzog is on a four-day visit to Australia following the December mass shooting at Bondi Beach.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 12:16:04 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b25210db5dfb07abd3d51f88bf47b1af",
+      "title": "‘Tell the truth’: Epstein survivors demand justice in Super Bowl ad",
+      "link": "https://www.aljazeera.com/news/2026/2/9/tell-the-truth-epstein-survivors-demand-justice-in-super-bowl-ad?traffic_source=rss",
+      "summary": "The urges US Attorney General Pam Bondi to disclose all remaining files related to the late sex offender.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 12:15:29 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "39d899030409031ffe6800fea5ecdc4f",
+      "title": "US news anchor Savannah Guthrie says 'we will pay' in plea for mother's return",
+      "link": "https://www.bbc.com/news/articles/ce9y99eg0nno?at_medium=RSS&at_campaign=rss",
+      "summary": "Nancy Guthrie, 84, disappeared in the middle of night from her home in Tucson, Arizona, last weekend.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 12:15:10 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "3dc5fa65843c5a9d9f94c84cab45c6b1",
       "title": "Farmers Protest: अमेरिका-भारत डील पर बड़े किसान आंदोलन की तैयारी! फिर करेंगे प्रदर्शन",
       "link": "https://www.amarujala.com/video/india-news/farmers-are-ready-to-protest-between-india-us-deal-2026-02-09",
@@ -55367,6 +55744,32 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "22483b8b0e4f175fd87abb6cbb3c67b8",
+      "title": "AI video of Indian minister shooting at image of Muslims sparks outrage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/9/ai-video-of-indian-minister-shooting-at-image-of-muslims-sparks-outrage?traffic_source=rss",
+      "summary": "A video by India’s ruling BJP depicting Assam's chief minister firing a shot at an image of Muslims has sparked outrage.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 12:12:56 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d51f8bf20913491a9a6c285f705cc9e3",
+      "title": "Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years",
+      "link": "https://www.bbc.com/news/articles/c8d5pl34vv0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lai's supporters say this amounts to a death sentence, but authorities say it demonstrates the rule of law.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 12:11:43 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "52a810584af505c3912fb0817dc92a10",
@@ -55404,7 +55807,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -55457,6 +55860,19 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "1011ef4c6c6bc3c93a6479bd1cf7b610",
+      "title": "Keshav says, 'SP's PDA means Family Development Agency':'If they abandon goons’ support, party will collapse'; Congress born out of corruption, adds Maurya",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-congress-sp-mauryas-statement-corruption-family-development-agency-137162521.html",
+      "summary": "Deputy Chief Minister Keshav Prasad Maurya on Monday said that there is no possibility of the Samajwadi Party coming to power in Uttar Pradesh, or the Congress returning to power at the Centre, till 2047. He said making Uttar Pradesh and the country developed by 2047 is beyond the vision and capability of both parties. Addressing a BJP traders’ conference on the Union Budget in Lucknow, Maurya said the Samajwadi Party and Congress only talk about PDA. “Their PDA does not stand for social justice; it stands for ‘Parivar Development Agency’ (Family Development Agency),” he said. He added that if SP loses the support of criminals, the party would collapse immediately. Targeting Congress leader Rahul Gandhi, the Deputy CM questioned the quality of opposition leadership. He said that Rahul Gandhi’s statements in Parliament do not reflect the dignity expected from the Leader of Opposition in the world’s largest democracy. “They target the Prime Minister and disrupt Parliament. The same behaviour is seen in the UP Assembly under SP,” he added. Maurya contrasted this with the conduct of former Prime Minister Atal Bihari Vajpayee during his time as LoP. He said BJP leaders had always maintained parliamentary decorum, even while sitting in opposition, unlike SP and Congress. He accused SP of being “born out of anarchy” and Congress of thriving on “corruption and appeasement”. The Deputy CM was speaking as the chief guest at the traders’ conference held at PWD’s Vishveshvaraya Hall. BJP state vice-president and Noida MLA Pankaj Singh also addressed the gathering. A large number of traders were present at the event. 5 Major points by Keshav Prasad Maurya 1- We are providing ration even to those who didn't vote for us, and we are also providing free treatment under Ayushman Card to them. 2- In 2027, we have to break our own record in Uttar Pradesh by making lotus bloom on all seats in Lucknow. 3- Akhilesh Yadav should go to Saifai. He is not needed in Lucknow. 4- If anyone says that we will end the constitution and remove reservations, let me tell you that the BJP worships the constitution and supports reservations. 5- After our victory in Delhi, Maharashtra and Bihar, Akhilesh Yadav is agitated. Since, he is related to Tejashwi Yadav, he will be completely wiped out here as well in 2027 You people have more vision than us The Deputy CM said - As a political worker, whatever vision we all have, you people have a better vision than that. That's why you people know a lot of things that have come in the central budget. If traders are not secure, how can they do business? When the Samajwadi Party was in government, traders were afraid. They used to say how we will do business when our money and even our lives are not safe? Our Uttar Pradesh government is a guarantee of security for the 25 crore people of Uttar Pradesh. Have continuously seen our central government's budget since 2014. When people gave Prime Minister Modi the right to form the government, at that time, a goal was set to make the country's economy 5 trillion dollars. If there is no goal, how will we know what we need to do? We are trading with the most powerful countries We have come very close to achieving the goal of becoming a $5 trillion economy. Today, India is the fourth-largest economy in the world. The whole world is stunned and cannot believe that India will make such economic progress. Today, we are trading with the most powerful countries. If they have technology and good production, India is not behind anyone today. If we have made open trade deals, you have seen that in these deals the American market and the European market have opened up for us. Industrial revolution has come to Uttar Pradesh An industrial revolution has also come to Uttar Pradesh. The country's largest state will have a share in such a big market. If goods made in Lucknow do not go to Europe and America, this open trade deal will not be properly utilised. Therefore, prepare for this. We don't have time. There is an effect of moving forward quickly. When you take more steps, the double-engine government stands with you. You all know that earlier traders were harassed in the name of VAT. When GST came after VAT, the tax was very high, but now it has been reduced. UP receives more tourists than the entire country More tourists come to Uttar Pradesh than visit the entire country. They want to buy and take something with them. Last year, 100 crore people came to Uttar Pradesh. 66 crore came for Kumbh, we're not even talking about other places yet. You should make such things that whoever comes to Uttar Pradesh, they should buy and take them from here. There is a lot in Lucknow. When the Food Processing Department was setting up food, I saw that there were many things here. The government is working to provide platforms from time to time, and you all need to work on taking advantage of that opportunity. Pankaj Singh informed - Deal made with European Union-America Deputy CM Keshav Prasad Maurya was preceded by MLA Pankaj Singh in addressing the traders. He informed that India has made two major deals with the European Union and America. We have laid the foundation in this budget to fulfil everyone's dreams by empowering all aspects and considering all perspectives. Today, India is not ready to bow down to anyone under any circumstances. That's why it is strengthening its position every time. This time, a very large defence budget has also been allocated. This time, UP's budget will be 8 lakh crores. The Narendra Modi government is spending almost this much budget on defence alone. There are only 4-5 countries in the world that provide such a large budget for defence, and India is one of them. BrahMos is being manufactured in Lucknow. And Defence Minister Rajnath Singh had clearly stated that the BrahMos being made in Lucknow has forced Pakistan to see daylight even in the darkness of night. This is the strength of our country's army, which is now growing. Congress only talked about the poor Congress government only talked about the poor, but never focused on eliminating poverty. However, Prime Minister Modi's government is continuously attacking poverty. The biggest example of this is the Jan Dhan accounts that have been opened for all needy people. In 2014, Congress and other parties made many claims, but Modi proved his words true through actions. Like when PM talked about cleanliness, other party members would say he's just doing photo ops. ...let me tell you that photos were taken, but work was also done. Cleanliness improved, and today we are leading in cleanliness as well. Our Prime Minister had said that his first government would create basic facilities for people. In 2019, when he returned, he said that our government would work to fulfil people's wishes and aspirations. Our government is continuously working in this direction. We all want to build a new India that will be free from corruption, free from poverty, free from terrorism.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 12:03:26 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -55564,6 +55980,19 @@
       "lang": "en"
     },
     {
+      "id": "e456bee7aa72ba830968b74b3bffd714",
+      "title": "AI video of Assam CM Sarma shooting Muslims causes outrage in India",
+      "link": "https://www.aljazeera.com/news/2026/2/9/ai-video-of-assam-cm-sarma-shooting-muslims-causes-outrage-in-india?traffic_source=rss",
+      "summary": "Video featuring Himanta Biswa Sarma deleted by Hindu nationalist BJP party's Assam unit after backlash.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 11:44:43 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a5b6569823e5dfcbac3a4fcdb1eee977",
       "title": "महाशिवरात्रि: मथुरा से शगुन सामग्री लेकर काशी विश्वनाथ धाम पहुंचे श्रद्धालु, ढोल बजाकर किया गया भव्य स्वागत",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/devotees-who-arrived-at-kashi-vishwanath-dham-with-auspicious-offerings-from-mathura-received-a-grand-welcome-2026-02-09",
@@ -55586,6 +56015,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "57fd9f1069c758da3669296f38abb503",
+      "title": "Child among 4 killed in latest Russian missile and drone barrage: Ukraine",
+      "link": "https://www.aljazeera.com/news/2026/2/9/child-among-4-killed-in-latest-russian-missile-and-drone-barrage-ukraine?traffic_source=rss",
+      "summary": "Ukraine's foreign minister calls for complete EU entry ban on Russians participating in the war.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 11:43:25 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -55807,19 +56249,6 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "d51f8bf20913491a9a6c285f705cc9e3",
-      "title": "Hong Kong court jails media tycoon and British citizen Jimmy Lai for 20 years",
-      "link": "https://www.bbc.com/news/articles/c8d5pl34vv0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Lai's supporters say this amounts to a death sentence, but authorities say it demonstrates the rule of law.",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 11:19:17 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -56158,6 +56587,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cf3f2c9b8b10d211061512c5280c5deb",
+      "title": "Kolkata Metro Railway launches audio message across stations discouraging suicides",
+      "link": "https://www.thehindu.com/news/cities/kolkata/kolkata-metro-railway-launches-audio-message-across-stations-discouraging-suicides/article70609636.ece",
+      "summary": "It will be played through the public address systems at stations on the Blue Line",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 10:31:28 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -57358,19 +57800,6 @@
       "lang": "en"
     },
     {
-      "id": "e81a36c4a1bb29cc65f6d12d1d5d50fe",
-      "title": "Israeli president lays wreath at Bondi at start of controversial visit",
-      "link": "https://www.bbc.com/news/articles/c62grw02gpjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Senior Jewish leaders have welcomed Isaac Herzog but pro-Palestinian groups say he should not have been invited.",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 06:53:07 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "3dd4dd0436fe0a439ef40b0f1f22e8d5",
       "title": "Lucknow: गैंगस्टर रवि काना मामले में बांदा जेल अधीक्षक समेत तीन अफसर जांच में दोषी, एसआईटी भी कसेगी शिकंजा",
       "link": "https://www.amarujala.com/lucknow/lucknow-three-officers-including-the-banda-jail-superintendent-found-guilty-in-gangster-ravi-kana-case-2026-02-09",
@@ -57449,6 +57878,19 @@
       "lang": "en"
     },
     {
+      "id": "61d13171e96c31f8c85d681b9b27aeb9",
+      "title": "Canada: टोरंटो में शॉपिंग सेंटर की पार्किंग में भारतीय-कनाडाई की गोली मारकर हत्या, पुलिस कर रही मामले की जांच",
+      "link": "https://www.amarujala.com/india-news/indian-canadian-man-shot-dead-in-a-shopping-center-parking-lot-in-toronto-2026-02-09",
+      "summary": "टोरंटो में एक भारतीय-कनाडाई की गोली मारकर हत्या का मामला सामने आया है। 37 साल के व्यक्ति को कुछ अज्ञात लोगों ने एक शॉपिंग सेंटर की पार्किंग में गोली मार दी।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 06:24:24 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "89108c366b8f3770417ebdd08d6703bd",
       "title": "Japan’s Takaichi vows to deliver on tax cuts after LDP’s ‘historic’ win",
       "link": "https://www.aljazeera.com/news/2026/2/9/japans-takaichi-vows-to-deliver-on-tax-cuts-after-ldps-historic-win?traffic_source=rss",
@@ -57459,6 +57901,19 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a81ea52c9a1ef1a3e3003e09d63b7d9a",
+      "title": "UP Budget -2026: विधानसभा गेट पर बैठकर सपा की नारेबाजी, साइकिल से विधानसभा पहुंचे एमएलसी; देखें तस्वीरें",
+      "link": "https://www.amarujala.com/lucknow/up-vidhan-mandal-budget-session-2026-anandiben-patel-s-address-cm-yogi-akhilesh-yadav-updates-in-hindi-2026-02-09",
+      "summary": "यूपी विधानमंडल का बजट सत्र सोमवार यानी आज से शुरू हो गया। सत्र से पहले सीएम योगी आदित्यनाथ ने मीडिया से बात की। उन्होंने सरकार का एजेंडा बताया। सत्ता और विपक्ष दोनों अपनी-अपनी तैयारी के साथ सत्र में पहुंचे।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 06:22:13 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -57475,6 +57930,19 @@
       "lang": "en"
     },
     {
+      "id": "d8cd74d5faa7a347b1d8b3e80200d1ae",
+      "title": "यूपी: सदन में पेश हुई यूपी सरकार की पहली आर्थिक समीक्षा, प्रदेश में बढ़ी है प्रति व्यक्ति आय; जानिए डिटेल",
+      "link": "https://www.amarujala.com/lucknow/up-the-first-economic-review-of-the-up-government-was-presented-in-the-house-per-capita-income-has-increased-2026-02-09",
+      "summary": "UP Government Budget: वित्त मंत्री ने सदन में कहा कि आज हम सब एक ऐतिहासिक पल के साक्षी बन रहे हैं, जब उत्तर प्रदेश भी भारत सरकार की तरह अपनी आर्थिक समीक्षा पहली बार सदन के समक्ष प्रस्तुत कर रहा है।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 06:10:10 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "58465c575aad8bfd46f65eaba8c43210",
       "title": "यूपी के इन दो क्षेत्रों के लिए योगी सरकार खोलेगी खजाना, बजट और विकास निधि में मिलेगा बड़ा हिस्सा",
       "link": "https://www.livehindustan.com/uttar-pradesh/yogi-government-open-its-coffers-for-two-regions-of-up-providing-significant-share-in-the-budget-and-development-funds-201770596663544.html",
@@ -57484,6 +57952,32 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "98a238923ebe1c71d1e69d5a186b8831",
+      "title": "गुजरात-स्टारलिंक एलओआई: सुदूर क्षेत्रों की डिजिटल कनेक्टिविटी बढ़ेगी, सरकारी सेवाओं तक पहुंच आसान होगी",
+      "link": "https://www.amarujala.com/india-news/in-gujarat-another-milestone-towards-state-wide-digital-infrastructure-2026-02-09",
+      "summary": "इस समझौते के जरिए गुजरात के कॉमन सर्विस सेंटर्स (सीएससी), ई-गवर्नेंस सुविधाओं, सरकारी विद्यालयों, जिला आपदा प्रबंधन नियंत्रण कक्ष, पोर्ट्स, वन्यजीव अभयारण्यों के क्षेत्रों को डिजिटल करने की योजना है।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 06:04:06 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "6df90457c582a753e2de385489475ad1",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 9 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-09",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 06:02:09 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -57499,6 +57993,32 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "1566954ba9199faa050d5e470de3cbae",
+      "title": "KGMU: मजार हटाने को लेकर केजीएमयू में बढ़ी तकरार, चस्पा किया गया दूसरा नोटिस, 28 फरवरी तक का दिया समय",
+      "link": "https://www.amarujala.com/lucknow/kgmu-kgmu-has-given-time-till-february-28-to-remove-the-mausoleum-from-the-campus-2026-02-09",
+      "summary": "किंग जॉर्ज चिकित्सा विश्वविद्यालय (केजीएमयू) प्रशासन परिसर में स्थित मजारों को हटाने के लिए 28 फरवरी तक का समय दिया गया है। केजीएमयू प्रशासन की ओर से सोमवार को सभी मजारों पर दूसरा नोटिस चस्पा किया गया।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 06:01:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "45d6acecb3f5e95a5e617a103bcfcd2e",
+      "title": "Noida News: नानकेश्वर मंदिर में महाशिवरात्रि का मेला कल से",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/the-mahashivratri-fair-at-nankeshwar-temple-will-begin-tomorrow-noida-news-c-491-1-gnd1001-3981-2026-02-09",
+      "summary": "The Mahashivratri fair at Nankeshwar temple will begin tomorrow.",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 06:00:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
     },
     {
       "id": "549dbef4649280bb3955c855c8aa7db5",
@@ -57540,6 +58060,19 @@
       "lang": "en"
     },
     {
+      "id": "426b820dd220c577b7997606bce31207",
+      "title": "तिरुपति लड्डू विवाद: साधु परिषद के अध्यक्ष ने लगाया आरोप- ‘सीबीआई रिपोर्ट में मिलावट की पुष्टि",
+      "link": "https://www.amarujala.com/india-news/tirupati-laddoo-controversy-sadhu-parishad-president-alleges-cbi-report-confirms-adulteration-2026-02-09",
+      "summary": "तिरुपति लड्डू विवाद: साधु परिषद के अध्यक्ष ने लगाया आरोप- ‘सीबीआई रिपोर्ट में मिलावट की पुष्टि। Tirupati Laddoo controversy: Sadhu Parishad president alleges CBI report confirms adulteration",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 05:58:59 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "d76269ec56357d9d7d40a811ed8df594",
       "title": "महाशिवरात्रि: काशी में दिव्य आह्वान, सभी देव शक्तियों को आमंत्रण; एक घंटे तक गूंजेगा मंत्रनाद",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/maha-shivaratri-divine-invocation-in-kashi-inviting-divine-powers-chanting-of-mantras-resonate-for-one-hour-2026-02-08",
@@ -57553,6 +58086,19 @@
       "lang": "en"
     },
     {
+      "id": "fafb59ef70acae44e145abbcc2f8ca78",
+      "title": "बंगलूरू में कारोबारी की मौत पर संशय बरकरार: SIT खंगाल रही दस्तावेज, सगे-संबंधियों से पूछताछ जारी",
+      "link": "https://www.amarujala.com/india-news/bengaluru-real-estate-businessman-confident-group-chairman-cj-roy-suicide-case-sit-investigation-news-2026-02-09",
+      "summary": "Bengaluru real estate businessman Confident Group chairman CJ Roy suicide case SIT investigation news- बंगलूरू में कारोबारी की मौत पर संशय बरकरार: SIT खंगाल रही दस्तावेज, सगे-संबंधियों से पूछताछ जारी",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 05:53:58 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "ec613053e299724062c766056984c3a7",
       "title": "गंगा एक्सप्रेसवे पर बेकाबू कार ने भंडारे जा रहे 8 लोगों को रौंदा, चार की मौत",
       "link": "https://www.livehindustan.com/uttar-pradesh/an-out-of-control-car-ran-over-eight-people-attending-a-community-feast-on-the-ganga-expressway-killing-four-201770595902028.html",
@@ -57563,6 +58109,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9d22a12cb497146f907ab0d1d2d6d22a",
+      "title": "Video : केजीएमयू परिसर में बनाई गई मजार पर दूसरा नोटिस लगाया गया, 28 फरवरी को कुल सचिव के सामने देना होगा जवाब",
+      "link": "https://www.amarujala.com/video/lucknow/video-video-kajaemaya-parasara-ma-bnaii-gaii-majara-para-thasara-natasa-lgaya-gaya-28-faravara-ka-kal-sacava-ka-samana-thana-haga-javab-2026-02-09",
+      "summary": "Video : केजीएमयू परिसर में बनाई गई मजार पर दूसरा नोटिस लगाया गया, 28 फरवरी को कुल सचिव के सामने देना होगा जवाब",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 05:51:23 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -57605,6 +58164,19 @@
       "lang": "en"
     },
     {
+      "id": "9999fefb3f26114607067491418570ca",
+      "title": "Maharashtra: ढोकी पंचायत में कड़े मुकाबले में शिवेसना UBT उम्मीदवार ने भाजपा को हराया, एक वोट से हासिल की जीत",
+      "link": "https://www.amarujala.com/india-news/maharashtra-zilla-parishad-panchayat-election-results-shiv-sena-ubt-candidate-wins-by-one-vote-2026-02-09",
+      "summary": "Maharashtra: ढोकी पंचायत में कड़े मुकाबले में शिवेसना UBT उम्मीदवार ने भाजपा को हराया, एक वोट से हासिल की जीत",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 05:50:42 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "dc08de8e764defde53be724aee9db40b",
       "title": "शादीशुदा की फिर से शादी में बड़ा एक्शन, छह निलंबित, BDO, ADO का वेतन रुका, ADM भी निशाने पर",
       "link": "https://www.livehindustan.com/uttar-pradesh/major-action-in-moradabad-chief-minister-mass-marriage-scam-six-suspended-bdo-ado-salaries-stopped-adm-also-targetd-201770595595835.html",
@@ -57628,6 +58200,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "6e741366ba62e846239f8bc7bb464058",
+      "title": "UP Big News: विधानसभा गेट पर बैठे सपा विधायक, राज्यपाल के अभिभाषण से मायावती असंतुष्ट; केशव का बड़ा बयान",
+      "link": "https://www.amarujala.com/lucknow/up-big-news-sp-mlas-sit-at-the-assembly-gate-mayawati-dissatisfied-with-the-governor-s-address-friend-given-2026-02-09",
+      "summary": "UP Big News: उत्तर प्रदेश में आज दिनभर राजनीति से लेकर प्रशासन, अपराध, विकास, शिक्षा, स्वास्थ्य और मौसम तक कई अहम घटनाएं सामने आईं। राज्य के अलग-अलग जिलों से जुड़ी कई बड़ी खबरें सुर्खियों में रहीं।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 05:47:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -57670,6 +58255,19 @@
       "lang": "en"
     },
     {
+      "id": "cbf18a2a10dcd44a3befcab112b1b361",
+      "title": "पाकिस्तान लिंक मामला: गौरव गोगोई की रावलपिंडी यात्रा को लेकर असम CM ने मांगा जवाब; वीजा पर भी उठाए सवाल",
+      "link": "https://www.amarujala.com/india-news/assam-cm-seeks-explanation-from-gaurav-gogoi-over-visit-to-rawalpindi-pakistan-2026-02-09",
+      "summary": "पाकिस्तान लिंक मामला: गौरव गोगोई की रावलपिंडी यात्रा को लेकर असम CM ने मांगा जवाब; वीजा पर भी उठाए सवाल ---Assam CM Seeks Explanation from Gaurav Gogoi Over Visit to Rawalpindi Pakistan",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 05:39:07 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "727a9d3e37facf1002614ec3770fe811",
       "title": "Climate Change: गर्मी बढ़ी, बर्फ घटी और बिगड़ा बारिश का चक्र; ग्लेशियर पिघलने से उभर रहा नया जलवायु खतरा",
       "link": "https://www.amarujala.com/india-news/rising-temperatures-shrinking-ice-disrupted-rainfall-patterns-new-climate-threat-emerging-as-glaciers-melt-2026-02-09",
@@ -57696,6 +58294,19 @@
       "lang": "hi"
     },
     {
+      "id": "f85c6ba349863364368a76fd5fced189",
+      "title": "Lucknow News: परिसर की मजारों को हटाने के लिए केजीएमयू ने दिया 28 फरवरी तक का समय",
+      "link": "https://www.amarujala.com/lucknow/kgmu-news-lucknow-news-c-13-1-lko1070-1597470-2026-02-09",
+      "summary": "किंग जॉर्ज चिकित्सा विश्वविद्यालय (केजीएमयू) प्रशासन परिसर में स्थित मजारों को हटाने के लिए 28 फरवरी तक का समय दिया गया है। केजीएमयू प्रशसान की ओर से सोमवार को सभी मजारों पर दूसरा नोटिस चस्पा किया गया।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 05:31:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "7328d54fc1659f0ab321de5fb87fc01d",
       "title": "Christchurch shooter seeks to overturn guilty plea",
       "link": "https://www.bbc.com/news/articles/c3vevxnw9pko?at_medium=RSS&at_campaign=rss",
@@ -57709,6 +58320,19 @@
       "lang": "en"
     },
     {
+      "id": "cc3ea6864b85c1e49bae3609244c9292",
+      "title": "क्या है लोकसभा स्पीकर को हटाने की प्रक्रिया: विपक्ष ला सकता है अविश्वास प्रस्ताव, जानें नियम; पहले कब हुआ ऐसा?",
+      "link": "https://www.amarujala.com/india-news/parliament-lok-sabha-speaker-om-birla-opposition-may-bring-no-confidence-motion-in-budget-session-procedure-2026-02-09",
+      "summary": "लोकसभा स्पीकर को लेकर विपक्ष की क्या शिकायतें हैं? संसद के निचले सदन के अध्यक्ष को हटाने की क्या प्रक्रिया है? विपक्ष कब तक इस प्रस्ताव को पेश करने की योजना बना रहा है? क्या पहले कभी लोकसभा स्पीकर को हटाने की कोशिशें की गई हैं? आइये जानते हैं...",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 05:28:31 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "8d97f1b3dc4010cb12d25413b447d11a",
       "title": "RSS: 'जरूरत रहने तक जारी रहना चाहिए जाति आधारित आरक्षण', आरएसएस प्रमुख मोहन भागवत बोले- राजनेता वोटवादी हैं",
       "link": "https://www.amarujala.com/india-news/rss-chief-mohan-bhagwat-says-caste-based-reservation-continue-as-long-as-it-needed-votebank-politics-2026-02-09",
@@ -57720,6 +58344,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "a9cf89d814da0555ce36f8905af4b2c5",
+      "title": "Lucknow: जेई साहब हो गए नाखुश तो 6055 की जगह बना दिया 50,755 रुपये का फर्जी एस्टीमेट, बढ़िया आवभगत नहीं हुई थी",
+      "link": "https://www.amarujala.com/lucknow/lucknow-je-sahab-became-unhappy-and-made-a-fake-estimate-of-rs-50-755-instead-of-rs-6055-2026-02-09",
+      "summary": "लखनऊ के गोमतीनगर जोन के जूनियर इंजीनियर (जेई ) नए कनेक्शन की जांच करने गए। आवेदक उनकी ठीक से आवभगत नहीं कर सका तो नाखुश हो गए। जेई ने कनेक्शन का जो एस्टीमेट 6055 रुपये का बनना चाहिए था, उसे 50,755 रुपये का बना दिया।",
+      "date": "2026-02-09",
+      "timestamp": "Mon, 09 Feb 2026 05:27:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
     },
     {
       "id": "d0f537f68165925fcf20ad258a431fea",
@@ -57865,19 +58502,6 @@
       "lang": "en"
     },
     {
-      "id": "6df90457c582a753e2de385489475ad1",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 9 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-09",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 05:02:13 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "96cf4782b8c600b70aac181e378bfbdf",
       "title": "Hamirpur: अवैध वसूली में संलिप्त उपायुक्त उद्योग सहित तीन अधिकारी निलंबित",
       "link": "https://www.amarujala.com/uttar-pradesh/kanpur/three-officers-including-deputy-commissioner-of-industries-suspended-for-involvement-in-illegal-extortion-2026-02-09",
@@ -57918,9 +58542,9 @@
     },
     {
       "id": "126aca12e719b15e552da24bf7994776",
-      "title": "Supreme Court: 'सोनम वांगचुक पूरी तरह से ठीक, सर्वोत्तम उपचार मिल रहा, केंद्र ने सुप्रीम कोर्ट को दी जानकारी",
+      "title": "Supreme Court: 'सोनम वांगचुक पूरी तरह से ठीक, सर्वोत्तम उपचार मिल रहा', केंद्र ने सुप्रीम कोर्ट को दी जानकारी",
       "link": "https://www.amarujala.com/india-news/sonam-wangchuk-perfectly-good-getting-best-of-treatment-centre-to-sc-2026-02-09",
-      "summary": "Supreme Court: 'सोनम वांगचुक पूरी तरह से ठीक, सर्वोत्तम उपचार मिल रहा, केंद्र ने सुप्रीम कोर्ट को दी जानकारी",
+      "summary": "Supreme Court: 'सोनम वांगचुक पूरी तरह से ठीक, सर्वोत्तम उपचार मिल रहा', केंद्र ने सुप्रीम कोर्ट को दी जानकारी",
       "date": "2026-02-09",
       "timestamp": "Mon, 09 Feb 2026 04:58:44 +0530",
       "section": "National",
@@ -58620,7 +59244,7 @@
     },
     {
       "id": "a1ee8e7ee3dcd26189b88bd2c7d8a33e",
-      "title": "UP Budget 2026: सपा सांसदों पर भड़की राज्यपाल, सीएम योगी हंसने लगे",
+      "title": "UP Budget 2026: सपा विधायकों पर भड़की राज्यपाल, सीएम योगी हंसने लगे",
       "link": "https://www.amarujala.com/video/india-news/up-budget-2026-news-cm-yogi-viral-video-from-up-vidhan-sabha-2026-02-09",
       "summary": "उत्तर प्रदेश विधानमंडल बजट सत्र 2026-27 की शुरुआत हो गई। सत्र के पहले ही दिन राजयपाल आनंदी पटेल के अभिभाषण के दौरान सपा और कांग्रेस सदस्यों ने विधानसभा में जमकर हंगामा किया। इसी बीच सीएम योगी हंसते हुए मेज थपथपाने लगे।",
       "date": "2026-02-09",
@@ -59709,19 +60333,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "a81ea52c9a1ef1a3e3003e09d63b7d9a",
-      "title": "UP Budget -2026: विधानसभा गेट पर बैठकर सपा की नारेबाजी, साइकिल से विधानसभा पहुंचे एमएलसी; देखें तस्वीरें",
-      "link": "https://www.amarujala.com/lucknow/up-vidhan-mandal-budget-session-2026-anandiben-patel-s-address-cm-yogi-akhilesh-yadav-updates-in-hindi-2026-02-09",
-      "summary": "यूपी विधानमंडल का बजट सत्र सोमवार यानी आज से शुरू हो गया। सत्र से पहले सीएम योगी आदित्यनाथ ने मीडिया से बात की। उन्होंने सरकार का एजेंडा बताया। सत्ता और विपक्ष दोनों अपनी-अपनी तैयारी के साथ सत्र में पहुंचे।",
-      "date": "2026-02-09",
-      "timestamp": "Mon, 09 Feb 2026 02:06:51 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Lucknow",
-      "lang": "en"
     },
     {
       "id": "56f9666a8e764a9c458c05e64d615f8d",
@@ -83241,6 +83852,110 @@
       "lang": "en"
     },
     {
+      "id": "5782918a114a122e9e5322bd3ba5a304",
+      "title": "Bengal SIR deadline extended, notice to DGP & a message for states: SC's key orders on Mamata Banerjee's plea",
+      "link": "https://timesofindia.indiatimes.com/india/bengal-sir-deadline-extended-notice-to-dgp-a-message-for-states-scs-key-orders-on-mamata-banerjees-plea/articleshow/128115057.cms",
+      "summary": "The Supreme Court extended the deadline for West Bengal's electoral roll revision, demanding a personal affidavit from the DGP over alleged threats to election officials. Micro-observers will only assist Electoral Registration Officers, who retain final decision-making power. The court also directed the deployment of Group B officers for the process.",
+      "date": "2026-02-09",
+      "timestamp": "2026-02-09T18:18:38+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0d7895d5cd305aaeef3fb1cec915e148",
+      "title": "'Sonam Wangchuk's health perfectly good': Centre tells Supreme Court; says activist getting 'best' treatment in Jodhpur",
+      "link": "https://timesofindia.indiatimes.com/india/sonam-wangchuks-health-perfectly-good-centre-tells-supreme-court-says-activist-getting-best-treatment-in-jodhpur/articleshow/128113913.cms",
+      "summary": "",
+      "date": "2026-02-09",
+      "timestamp": "2026-02-09T18:09:24+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0933ecaf8a787f296a67bc1ba998eebc",
+      "title": "807 persons missing in Delhi: NHRC takes suo moto cognizance, seeks report",
+      "link": "https://timesofindia.indiatimes.com/india/807-persons-missing-in-delhi-nhrc-takes-suo-moto-cognizance-seeks-report/articleshow/128114029.cms",
+      "summary": "The national human rights commission has taken suo motu cognisance of a sharp rise in missing persons cases in Delhi, with 807 reported in the first two weeks of January 2026. The NHRC has issued notices to Delhi's chief secretary and police commissioner, seeking a detailed report within two weeks on steps being taken to address the alarming trend.",
+      "date": "2026-02-09",
+      "timestamp": "2026-02-09T17:44:06+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3764db406cb6844e8bf4480ea47f8b1d",
+      "title": "Indian man killed in targeted firing Canada outside busy Toronto mall, cops clueless about shooters",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-man-killed-in-targeted-firing-canada-outside-busy-toronto-mall-cops-clueless-about-shooters/articleshow/128113738.cms",
+      "summary": "",
+      "date": "2026-02-09",
+      "timestamp": "2026-02-09T17:43:42+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b3cdb5f1d6ed1cd1c03869f981299e24",
+      "title": "Minerals, militants, US-made guns: Why Trump’s bet on Munir is set to fail",
+      "link": "https://timesofindia.indiatimes.com/world/pakistan/minerals-militants-us-made-guns-why-donald-trumps-bet-on-asim-munir-is-set-to-fail/articleshow/128110749.cms",
+      "summary": "A recent mosque bombing in Islamabad highlights Pakistan's security challenges, even as its generals offer Washington access to vast mineral wealth. Insurgents, armed with US-made weapons left in Afghanistan, threaten critical mining projects in Balochistan, complicating Pakistan's strategic mineral diplomacy and its balancing act between China and the US.",
+      "date": "2026-02-09",
+      "timestamp": "2026-02-09T17:34:51+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b4612fd3119ef75e0aa72672d5cab20a",
+      "title": "Evening news wrap: Owaisi files complaint over Assam CM's 'point-blank' video; Kanpur bizman's son mows down pedestrians and more",
+      "link": "https://timesofindia.indiatimes.com/india/evening-news-wrap-owaisi-files-complaint-over-assam-cms-point-blank-video-kanpur-bizmans-son-mows-down-pedestrians-and-more/articleshow/128112178.cms",
+      "summary": "",
+      "date": "2026-02-09",
+      "timestamp": "2026-02-09T17:23:17+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a7768e4a88f10dfe7f8ce43b48a24f3a",
+      "title": "Sacred Kaaba cloth used as carpet? New Epstein files image sparks outrage across Muslim World after Kiswa seen on Jeffrey Epstein’s floor",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/sacred-kaaba-cloth-used-as-carpet-new-epstein-files-image-sparks-outrage-across-muslim-world-after-kiswa-seen-on-jeffrey-epsteins-floor/articleshow/128110348.cms",
+      "summary": "Newly unsealed Epstein Files reveal fragments of the sacred Kaaba cloth, the Kiswa, laid on the floor of Jeffrey Epstein's US residence. The shipment, declared as \"artwork\", had earlier sparked global outrage and deep cultural backlash within Muslim communities. Unanswered questions persist regarding the purpose and oversight of this transfer.",
+      "date": "2026-02-09",
+      "timestamp": "2026-02-09T17:00:06+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "57383e38dff2cc3f885364ff85757f7c",
+      "title": "How old are TenZ and Kyedae? Inside the Valorant star and streamer’s long journey from high school love to breakup",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/how-old-are-tenz-and-kyedae-inside-the-valorant-star-and-streamers-long-journey-from-high-school-love-to-breakup/articleshow/128091632.cms",
+      "summary": "TenZ and Kyedae have ended their six-year relationship after realizing they were no longer growing as individuals. Kyedae confirmed the breakup herself, saying there was no drama or wrongdoing. The couple met in high school, got engaged in 2021, and built their careers together before deciding to grow separately.",
+      "date": "2026-02-09",
+      "timestamp": "2026-02-09T17:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d5ebbb282fa2e74ab10c1f6680611171",
       "title": "UAE central bank marks MBZUAI’s five-year milestone with commemorative gold and silver coins",
       "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-central-bank-marks-mbzuais-five-year-milestone-with-commemorative-gold-and-silver-coins/articleshow/128111662.cms",
@@ -83359,7 +84074,7 @@
     },
     {
       "id": "0bb000064e51693d2caebf93ecfe5d44",
-      "title": "Himanta's 'point-bank' video row: Owaisi files police compaint against Assam CM, calls it 'genocidal hate speech'",
+      "title": "Himanta's 'point-blank' video row: Owaisi files police compaint against Assam CM, calls it 'genocidal hate speech'",
       "link": "https://timesofindia.indiatimes.com/india/himantas-point-bank-video-row-owaisi-files-police-compaint-against-assam-cm-calls-it-genocidal-hate-speech/articleshow/128107984.cms",
       "summary": "AIMIM chief Asaduddin Owaisi has lodged a formal complaint with Hyderabad police. He seeks criminal action against Assam chief minister Himanta Biswa Sarma. This is over a now-deleted video allegedly showing Sarma shooting at Muslims. Owaisi stated genocidal hate speech has become a norm. The complaint cites Sarma's repeated statements targeting the Muslim community.",
       "date": "2026-02-09",
