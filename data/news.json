@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T21:38:18.069299+00:00",
+  "generated_at": "2026-02-10T22:35:59.319214+00:00",
   "stories": [
     {
       "id": "f7edd96421d72d4cbc95323983909e47",
@@ -46,7 +46,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-11",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-02-11",
-      "timestamp": "Wed, 11 Feb 2026 03:00:41 +0530",
+      "timestamp": "Wed, 11 Feb 2026 04:00:42 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -59,12 +59,64 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-11",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-02-11",
-      "timestamp": "Wed, 11 Feb 2026 03:00:27 +0530",
+      "timestamp": "Wed, 11 Feb 2026 04:00:29 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "c491f3b0ed0caef0e6363cb5afe1cf83",
+      "title": "Naravane Book Controversy Row: एमएम नरवणे की किताब पर सियासी घमासान,जाएगी राहुल की संसदीय सदस्यता?",
+      "link": "https://www.amarujala.com/video/india-news/naravane-book-controversy-row-political-turmoil-over-mm-naravane-s-book-will-rahul-lose-his-parliamentary-me-2026-02-11",
+      "summary": "Naravane Book Controversy Row: एमएम नरवणे की किताब पर सियासी घमासान,जाएगी राहुल की संसदीय सदस्यता?",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 03:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a90e26cbae13ab7e611ed47f5e0b6260",
+      "title": "बालक की मौत पर बवाल: मुरसान में थाने पर पथराव के बाद पुलिस का खौफ, घरों पर ताले लगाकर भागे लोग",
+      "link": "https://www.amarujala.com/uttar-pradesh/hathras/police-fear-after-stone-pelting-on-mursan-police-station-2026-02-10",
+      "summary": "मुरसान कस्बे में सड़क हादसे में बालक यश की मौत के बाद हुए बवाल के बाद से पुलिस मोहल्ला किला मढ़ैया में लगातार दबिश दे रही है। ग्रामीणों का आरोप है कि पुलिस ने घरों में तोड़फोड़ भी की है। पुलिस कार्रवाई के डर से लोग घरों पर ताले लगाकर भाग गए हैं।",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 03:17:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2632f02021dc845017785e8b905905bd",
+      "title": "CM Naidu seeks Central support for irrigation and infrastructure projects in A.P.",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/cm-naidu-seeks-central-support-for-irrigation-and-infrastructure-projects-in-ap/article70616224.ece",
+      "summary": "He expresses concern over Karnataka’s move to increase height of Almatti dam and seeks ₹32,000 crore for Polavaram Phase-II and Makhana Development Board in Kolleru region",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 02:59:31 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4e89c36671a2475d9f3a992e28d105a0",
+      "title": "Wajid Ali Shah was not exiled to Calcutta, he came on his own, says book by descendant",
+      "link": "https://www.thehindu.com/news/national/west-bengal/wajid-ali-shah-was-not-exiled-to-calcutta-he-came-on-his-own-says-book-by-descendant/article70615751.ece",
+      "summary": "",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 02:45:43 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "b1a5b2a5a7a8a07b924be904d591938b",
@@ -78,6 +130,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "6ed2ffe8147e44274ad621fd627d1f69",
+      "title": "Sambhal violence case: HC stays order to register FIR against police personnel",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/sambhalviolence-casehcstays-order-to-register-fir-against-police-personnel/article70617150.ece",
+      "summary": "The High Court ordered registration of an FIR, stating that the truth could only be unearthed through a proper investigation",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 02:42:36 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "98688b5440badaa56b33a555b19ea625",
@@ -103,6 +168,19 @@
       "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f4ca913b9fd64ae120c1c7d4e6891be8",
+      "title": "UP New Budget 2026 Ready: यूपी का नया बजट तैयार: विकास, रोजगार और सुशासन को मिलेगा बड़ा बढ़ावा",
+      "link": "https://www.patrika.com/lucknow-news/up-financial-year-2026-27-budget-focused-on-development-governance-and-public-expectations-20340108",
+      "summary": "UP Financial Year 2026–27 Budget ; उत्तर प्रदेश सरकार ने वित्तीय वर्ष 2026–27 के बजट को अंतिम रूप दे दिया है। विधान सभा स्थित अपने कार्यालय कक्ष में बजट दस्तावेजों पर औपचारिक हस्ताक्षर किए गए। सरकार का कहना है कि यह बजट प्रदेश की जनता की अपेक्षाओं, विकास की बदलती जरूरतों और सुशासन की प्रतिबद्धता को ध्यान में रखकर तैयार किया गया है। इसे समावेशी विकास, बुनियादी ढांचे के विस्तार, रोजगार सृजन और सामाजिक क्षेत्र की मजबूती की दिशा में एक महत्वपूर्ण दस्तावेज बताया जा रहा है।",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 02:36:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -441,6 +519,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "dc9f005c60b631ac637e10ed92f91c67",
+      "title": "UP Budget 2026-27: बजट पर अखिलेश का बड़ा हमला, अमेरिका डील पर सवाल, किसान और यूपी की अनदेखी का आरोप",
+      "link": "https://www.patrika.com/lucknow-news/akhilesh-yadav-slams-budget-calls-us-deal-a-dilution-of-indias-economic-interests-20340105",
+      "summary": "Akhilesh Yadav Slams Budget: संसद के बजट सत्र के दौरान समाजवादी पार्टी (सपा) के राष्ट्रीय अध्यक्ष और लोकसभा सांसद अखिलेश यादव ने केंद्र सरकार पर तीखा हमला बोला। उन्होंने आम बजट को “दिशाहीन” करार देते हुए आरोप लगाया कि इसमें गरीबों, पिछड़ों, दलितों और किसानों के लिए कोई ठोस व्यवस्था नहीं की गई है। साथ ही उन्होंने अमेरिका के साथ सरकार की कथित ‘डील’ को ‘ढील’ बताते हुए कहा कि इससे देश की अर्थव्यवस्था, स्वदेशी उद्योग और कृषि क्षेत्र पर नकारात्मक प्रभाव पड़ सकता है। अखिलेश यादव ने अपने भाषण में कहा कि सरकार बड़े-बड़े दावे करती है, लेकिन जमीनी सच्चाई कुछ और है। “बजट में आंकड़ों की बाज़ीगरी है, लेकिन आम आदमी के जीवन में राहत का कोई स्पष्ट रोडमैप नहीं दिखता,” उन्होंने कहा।",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 02:08:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -1094,6 +1185,19 @@
       "lang": "en"
     },
     {
+      "id": "dd97cd1ce9ec6ec87c7d391055d60ca6",
+      "title": "IAS Abhishek Prakash: हाईकोर्ट से बड़ी राहत: निलंबित IAS अभिषेक प्रकाश से जुड़ा भ्रष्टाचार मामला रद्द, बहाली की संभावनाएं तेज",
+      "link": "https://www.patrika.com/lucknow-news/big-relief-for-suspended-ias-abhishek-prakash-as-high-court-quashes-corruption-case-20340102",
+      "summary": "IAS Abhishek Prakash as High Court Quashes Corruption Case: उत्तर प्रदेश की नौकरशाही से जुड़ा एक चर्चित मामला कानूनी मोड़ पर समाप्त होता दिख रहा है। लखनऊ हाईकोर्ट ने सोलर प्रोजेक्ट से जुड़े कथित रिश्वत प्रकरण में निलंबित आईएएस अधिकारी अभिषेक प्रकाश के खिलाफ दर्ज आपराधिक केस को रद्द कर दिया है। अदालत के इस फैसले के बाद प्रशासनिक गलियारों में हलचल तेज हो गई है और उनकी सेवा में संभावित बहाली को लेकर चर्चाएँ शुरू हो गई हैं। यह मामला बीते महीनों में राज्य की नौकरशाही को झकझोर देने वाले प्रकरणों में गिना जा रहा था। अब न्यायालय के आदेश के बाद स्थिति पूरी तरह बदलती नजर आ रही है।",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 01:42:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "b9a77c2d76cea5250e632a8bffce504f",
       "title": "Villagers in Odisha boycott anganwadi over appointment of Dalit employee",
       "link": "https://www.thehindu.com/news/national/odisha/villagers-in-odisha-boycott-anganwadi-over-appointment-of-dalit-employee/article70615651.ece",
@@ -1104,6 +1208,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e7c9c38419aacee304b4c22fd176d8c2",
+      "title": "UP Health : यूपी में फाइलेरिया पर बड़ा वार, 1.40 करोड़ लोगों को दवा देने का मेगा स्वास्थ्य अभियान शुरू",
+      "link": "https://www.patrika.com/lucknow-news/mass-drug-drive-launched-in-up-to-protect-14-million-people-from-filariasis-20339996",
+      "summary": "UP Health Campaign: उत्तर प्रदेश में फाइलेरिया जैसी गंभीर और दीर्घकालिक बीमारी के खिलाफ स्वास्थ्य विभाग ने बड़े पैमाने पर अभियान छेड़ दिया है। प्रदेश सरकार ने इस वर्ष 1.40 करोड़ लोगों को फाइलेरिया से बचाव की दवा खिलाने का लक्ष्य निर्धारित किया है। यह अभियान मास ड्रग एडमिनिस्ट्रेशन (MDA) के तहत चलाया जा रहा है, जिसका शुभारंभ केंद्रीय स्वास्थ्य मंत्री जेपी नड्डा ने वर्चुअल माध्यम से किया। यह राष्ट्रीय स्तर का अभियान देश के 12 राज्यों के 124 जिलों में एक साथ प्रारंभ हुआ है, जिसे राष्ट्रीय कृमि मुक्ति दिवस के साथ जोड़ा गया है। उत्तर प्रदेश में यह कार्यक्रम विशेष रूप से उन जिलों में चलाया जा रहा है जहाँ फाइलेरिया संक्रमण की आशंका अधिक है।",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 01:23:09 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -1128,19 +1245,6 @@
       "timestamp": "Wed, 11 Feb 2026 01:13:45 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "4e89c36671a2475d9f3a992e28d105a0",
-      "title": "Wajid Ali Shah was not exiled to Calcutta, he came on his own, says book by descendant",
-      "link": "https://www.thehindu.com/news/national/west-bengal/wajid-ali-shah-was-not-exiled-to-calcutta-he-came-on-his-own-says-book-by-descendant/article70615751.ece",
-      "summary": "",
-      "date": "2026-02-11",
-      "timestamp": "Wed, 11 Feb 2026 01:11:12 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -1260,6 +1364,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "296e4242c07d6867288a0859dc1a6adf",
+      "title": "Driving Licence: आधार के नए स्वरूप से ड्राइविंग लाइसेंस आवेदक परेशान, 8,200 से ज्यादा आवेदन लटके",
+      "link": "https://www.patrika.com/lucknow-news/aadhaar-format-glitch-leaves-thousands-of-driving-licence-applications-stuck-in-lucknow-20339924",
+      "summary": "Driving Licence Aadhar Issue: लखनऊ में ड्राइविंग लाइसेंस (DL) बनवाने की प्रक्रिया इन दिनों हजारों लोगों के लिए सिरदर्द बन गई है। वजह है आधार कार्ड के नए स्वरूप और परिवहन विभाग के NIC पोर्टल के बीच तालमेल की कमी। आधार में पिता या पति के नाम की जगह “Care Of” या खाली कॉलम होने से सिस्टम आवेदन स्वीकार नहीं कर रहा, जिसके चलते पिछले सात महीनों से समस्या जस की तस बनी हुई है। परिणामस्वरूप 8,200 से अधिक DL आवेदन लंबित हो चुके हैं और आवेदक RTO दफ्तर से लेकर परिवहन आयुक्त कार्यालय तक चक्कर काटने को मजबूर हैं।",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 00:29:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -12976,6 +13093,19 @@
       "lang": "en"
     },
     {
+      "id": "a838314b0dcc02eae501083a92009b96",
+      "title": "FBI releases images of masked person in hunt for Savannah Guthrie's mother",
+      "link": "https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss",
+      "summary": "The mother of the news anchor Savannah disappeared in the middle of night from her Tucson, Arizona, home and was last seen on 31 January.",
+      "date": "2026-02-10",
+      "timestamp": "Tue, 10 Feb 2026 22:09:24 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e071ac277019bf965cfad6b0dbf7e38c",
       "title": "दूल्हा-दुल्हन के कार से उतरते ही हो गया ‘कांड’, इस शख्स ने की 20 लाख हर्जाने की मांग",
       "link": "https://www.livehindustan.com/uttar-pradesh/incident-took-place-as-soon-as-the-bride-and-groom-got-out-of-the-car-this-person-demanded-20-lakh-rupees-in-damages-201770740825713.html",
@@ -13089,6 +13219,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3d7cdb9582d47d5fad16e1493a26b79a",
+      "title": "Jeffrey Epstein’s ‘one single cause’: Israel",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/2/10/aje-onl-glb_epsteinisrael_av_v2-100226?traffic_source=rss",
+      "summary": "How a convicted sex offender leveraged his money and contacts to advance Israel’s agenda and his own.",
+      "date": "2026-02-10",
+      "timestamp": "Tue, 10 Feb 2026 21:48:06 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -13323,6 +13466,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9926e84986985bc9f10f5d2a175d1817",
+      "title": "Trump threatens Iran with ‘something very tough’ if US demands are not met",
+      "link": "https://www.aljazeera.com/news/2026/2/10/trump-threatens-iran-with-something-very-tough-if-us-demands-are-not-met?traffic_source=rss",
+      "summary": "Tensions between US and Iran continue to grow as Trump warns of US military strikes, absent concessions from Tehran.",
+      "date": "2026-02-10",
+      "timestamp": "Tue, 10 Feb 2026 21:13:12 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -14848,19 +15004,6 @@
       "lang": "en"
     },
     {
-      "id": "a838314b0dcc02eae501083a92009b96",
-      "title": "FBI releases images of masked person in hunt for Savannah Guthrie's mother",
-      "link": "https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss",
-      "summary": "The mother of the news anchor Savannah disappeared in the middle of night from her Tucson, Arizona, home and was last seen on 31 January.",
-      "date": "2026-02-10",
-      "timestamp": "Tue, 10 Feb 2026 19:04:23 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "72ed49c2e612d90ba93a927e8096c779",
       "title": "Double delight for Tirupati athlete at national Special Olympics",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/double-delight-for-tirupati-athlete-at-national-special-olympics/article70614489.ece",
@@ -15720,7 +15863,7 @@
     },
     {
       "id": "38f994e6d62b2fbb975ba44bc241cd4a",
-      "title": "What happens when Netanyahu visits Trump? A look at his past six US visits",
+      "title": "What happens when Netanyahu visits Trump? A look at his past six US trips",
       "link": "https://www.aljazeera.com/news/2026/2/10/what-happens-when-netanyahu-visits-trump-a-look-at-his-past-six-us-visits?traffic_source=rss",
       "summary": "Israel's Netanyahu embarks on his sixth US trip amid escalating tensions in the region and ongoing US-Iran negotiations.",
       "date": "2026-02-10",
@@ -89893,6 +90036,110 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3bef4c353695fe445889b19a0c190908",
+      "title": "ED summons Anil, Tina in Rs 40,000cr bank fraud case",
+      "link": "https://timesofindia.indiatimes.com/india/ed-summons-anil-tina-in-rs-40000cr-bank-fraud-case/articleshow/128177712.cms",
+      "summary": "The ED has issued fresh summonses to Anil Ambani and his wife Tina for questioning next week in connection with an alleged Rs 40,000 crore money laundering probe. The agency has already attached Rs 12,000 crore worth of assets. Tina Ambani's questioning is related to the purchase of a Manhattan apartment using alleged proceeds of crime.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T03:43:29+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b5452c49d806fe5f74480de18f2719ae",
+      "title": "Understand & respect India's UNSC 'membership aspirations': China",
+      "link": "https://timesofindia.indiatimes.com/india/understand-respect-indias-unsc-membership-aspirations-china/articleshow/128177570.cms",
+      "summary": "",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T03:37:37+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bc3c7cb590b2d51c9dd56495a2349ac9",
+      "title": "AI Summit effect: Hotel suites at Rs 30L a night",
+      "link": "https://timesofindia.indiatimes.com/india/ai-summit-effect-hotel-suites-at-rs-30l-a-night/articleshow/128177447.cms",
+      "summary": "",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T03:31:41+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5141e69daa2ccaf2cac0e71bae446090",
+      "title": "Any copies in circulation amount to copyright infringement, says Penguin",
+      "link": "https://timesofindia.indiatimes.com/india/any-copies-in-circulation-amount-to-copyright-infringement-says-penguin/articleshow/128177298.cms",
+      "summary": "Rahul Gandhi continues to cite Gen M M Naravane's memoir, 'Four Stars of Destiny', despite publisher Penguin India stating it remains unpublished. Gandhi insists Naravane's own social media post confirms its availability, challenging Penguin's claim and suggesting a contradiction. The publisher maintains pre-orders do not constitute publication and warns of legal action against unauthorized circulation.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T03:23:11+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3e34e59b2a62dd62730f0118ad9d6aac",
+      "title": "Not published yet, say publisher & General Naravane on memoirs",
+      "link": "https://timesofindia.indiatimes.com/india/not-published-yet-say-publisher-general-naravane-on-memoirs/articleshow/128177278.cms",
+      "summary": "",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T03:22:19+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ad4882e98a98489f522243d2b8331c95",
+      "title": "Love, but no passage: What a killing changed for Meitei-Kuki couples",
+      "link": "https://timesofindia.indiatimes.com/india/love-but-no-passage-what-a-killing-changed-for-meitei-kuki-couples/articleshow/128176965.cms",
+      "summary": "A brutal killing of a Meitei man visiting his Kuki fiancée in Churachandpur has shattered the fragile peace for inter-ethnic couples in Manipur. The incident, captured on video, has reignited fear and deepened the divide, forcing many couples into renewed separation and uncertainty. Hopes for reconciliation are now stalled.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T03:15:12+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d5ea29344c656121bbef6d433d629645",
+      "title": "CPI, CPM move SC for FIR against Himanta over 'target-shooting' video",
+      "link": "https://timesofindia.indiatimes.com/india/cpi-cpm-move-sc-for-fir-against-himanta-over-target-shooting-video/articleshow/128176837.cms",
+      "summary": "CPM and CPI have filed petitions in the Supreme Court seeking FIRs and an SIT probe against Assam CM Himanta Biswa Sarma. The petitions cite alleged hate speeches and a recent video showing Sarma firing at an image of Muslim men, with accompanying phrases like 'no mercy'.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T03:10:49+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "834102cc47dba5f6a749fdd7cd94df8d",
+      "title": "Online evaluation for CBSE Class XII, Class X to be manual",
+      "link": "https://timesofindia.indiatimes.com/india/online-evaluation-for-cbse-class-xii-class-x-to-be-manual/articleshow/128176720.cms",
+      "summary": "CBSE will implement on-screen marking for Class XII evaluations while Class X will continue with manual marking. This shift aims for faster, error-free assessments, though principals express concerns about the short preparation time. Schools are being equipped with necessary infrastructure and training for the new system.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T03:04:39+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
