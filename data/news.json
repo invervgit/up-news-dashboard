@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-10T22:35:59.319214+00:00",
+  "generated_at": "2026-02-10T23:34:17.425155+00:00",
   "stories": [
     {
       "id": "f7edd96421d72d4cbc95323983909e47",
@@ -46,7 +46,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-11",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-02-11",
-      "timestamp": "Wed, 11 Feb 2026 04:00:42 +0530",
+      "timestamp": "Wed, 11 Feb 2026 05:01:04 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -59,12 +59,51 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-11",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-02-11",
-      "timestamp": "Wed, 11 Feb 2026 04:00:29 +0530",
+      "timestamp": "Wed, 11 Feb 2026 05:00:51 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "d66c515ba202f9468f54b04793af8545",
+      "title": "AMU Research: भीषण गर्मी में भी घर को ठंडा रखेगा एएमयू में बना पैनल, 15 डिग्री कम रहेगा अंदर पारा",
+      "link": "https://www.amarujala.com/uttar-pradesh/aligarh/amu-built-panel-keep-homes-cool-even-in-extreme-heat-2026-02-10",
+      "summary": "एएमयू के सिविल इंजीनियरिंग विभाग के इंजीनियरों ने एक ऐसा पैनल (एफसीआई-फेरो सेल्युलर इंसुलेटेड) बनाया है, जिससे भीषण गर्मी में बाहर अगर 42 डिग्री तापमान है तो भी कमरे के अंदर आपको सिर्फ 27 डिग्री सेल्सियस तापमान का अनुभव होगा।",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 04:45:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a1485dc0954ad605331772690bdb7d52",
+      "title": "Lakhpati Bitiya Yojana: दिल्ली में बंद होगी लाडली योजना मुख्यमंत्री रेखा गुप्ता ने किया नई योजना का एलान!",
+      "link": "https://www.amarujala.com/video/india-news/lakhpati-bitiya-yojana-ladli-yojana-will-be-closed-in-delhi-chief-minister-rekha-gupta-announced-a-new-schem-2026-02-11",
+      "summary": "Lakhpati Bitiya Yojana: दिल्ली में बंद होगी लाडली योजना मुख्यमंत्री रेखा गुप्ता ने किया नई योजना का एलान!",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 04:30:03 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "372dd6fbc2ed7680da19d55e9713c7ad",
+      "title": "U.S. to scrap legal cornerstone of climate regulations this week",
+      "link": "https://www.thehindu.com/news/international/us-to-scrap-legal-cornerstone-of-climate-regulations-this-week/article70617350.ece",
+      "summary": "U.S. President Trump will be joined by (EPA) administrator Lee Zeldin to formalise the rescission of the 2009 Obama-era endangerment finding",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 04:00:28 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "c491f3b0ed0caef0e6363cb5afe1cf83",
@@ -78,6 +117,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "922e2b7b83706d195e5ae78d787aa7c5",
+      "title": "Chambal aqueduct set to facilitate water supply from river link project in Rajasthan",
+      "link": "https://www.thehindu.com/news/national/rajasthan/chambal-aqueduct-set-to-facilitate-water-supply-from-river-link-project-in-rajasthan/article70615836.ece",
+      "summary": "A new Chambal aqueduct in Rajasthan will enhance water supply for drinking and irrigation across 17 districts",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 03:18:33 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "a90e26cbae13ab7e611ed47f5e0b6260",
@@ -207,6 +259,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "43ec86d771d1d75df8e3a6d5db2f596f",
+      "title": "Bangladesh plans to shift from Indian to U.S. cotton",
+      "link": "https://www.thehindu.com/news/international/bangladesh-will-replace-indian-cotton-with-us-cotton-interim-government/article70615448.ece",
+      "summary": "Information adviser says ‘game changer’ trade deal can provide Bangladesh greater access to U.S. market; experts caution it will prevent Dhaka from exploring other cotton-producing countries",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 02:23:24 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -1232,6 +1297,19 @@
       "timestamp": "Wed, 11 Feb 2026 01:20:35 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b72f5261896a803813da3ab678be687d",
+      "title": "Takaichi’s triumph: On Japan’s snap election results",
+      "link": "https://www.thehindu.com/opinion/editorial/takaichis-triumph-on-japans-snap-election-results/article70615870.ece",
+      "summary": "Japan should go beyond conservatism and adopt an inclusive agenda",
+      "date": "2026-02-11",
+      "timestamp": "Wed, 11 Feb 2026 01:16:44 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -12768,6 +12846,19 @@
       "lang": "en"
     },
     {
+      "id": "a838314b0dcc02eae501083a92009b96",
+      "title": "FBI releases images of masked person in hunt for Savannah Guthrie's mother",
+      "link": "https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss",
+      "summary": "The mother of the news anchor Savannah disappeared in the middle of night from her Tucson, Arizona, home and was last seen on 31 January.",
+      "date": "2026-02-10",
+      "timestamp": "Tue, 10 Feb 2026 23:25:28 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c13bb4e88363027077fc5054ae229365",
       "title": "APSCHE marks quantum milestone with large-scale training initiative",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsche-marks-quantum-milestone-with-large-scale-training-initiative/article70616201.ece",
@@ -12855,6 +12946,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4c5ee9759d7a92cd2e0f6de1087c0a3d",
+      "title": "Palestine urges ‘powerful partners’ to stop Israel’s West Bank ‘annexation’",
+      "link": "https://www.aljazeera.com/news/2026/2/10/palestine-urges-powerful-partner-to-stop-west-bank-annexation-by-israel?traffic_source=rss",
+      "summary": "Islamic nations group tells UN that Israeli push to deepen control of the occupied territory fuels 'violence' in region.",
+      "date": "2026-02-10",
+      "timestamp": "Tue, 10 Feb 2026 23:05:48 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -13015,6 +13119,19 @@
       "lang": "en"
     },
     {
+      "id": "12841d184496bd1bc56aac38993420a7",
+      "title": "Will Israel annex the occupied West Bank?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/2/10/will-israel-annex-the-occupied-west-bank?traffic_source=rss",
+      "summary": "New measures expand Israeli control and make it easier for settlers to acquire land in the Palestinian territory.",
+      "date": "2026-02-10",
+      "timestamp": "Tue, 10 Feb 2026 22:39:14 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "94022c6a321dc1dac0bb923652eba8e1",
       "title": "Sanae Takaichi, not LDP won record mandate in Japan, say experts",
       "link": "https://www.thehindu.com/news/international/sanae-takaichi-not-ldp-won-record-mandate-in-japan-say-experts/article70616246.ece",
@@ -13089,19 +13206,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "a838314b0dcc02eae501083a92009b96",
-      "title": "FBI releases images of masked person in hunt for Savannah Guthrie's mother",
-      "link": "https://www.bbc.com/news/articles/cy4wdgxr081o?at_medium=RSS&at_campaign=rss",
-      "summary": "The mother of the news anchor Savannah disappeared in the middle of night from her Tucson, Arizona, home and was last seen on 31 January.",
-      "date": "2026-02-10",
-      "timestamp": "Tue, 10 Feb 2026 22:09:24 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -14224,19 +14328,6 @@
       "lang": "en"
     },
     {
-      "id": "43ec86d771d1d75df8e3a6d5db2f596f",
-      "title": "Bangladesh will replace Indian cotton with U.S. cotton: Interim government",
-      "link": "https://www.thehindu.com/news/international/bangladesh-will-replace-indian-cotton-with-us-cotton-interim-government/article70615448.ece",
-      "summary": "Information adviser Shafiqul Alam says the U.S.-Bangladesh trade deal inked on Monday is a ‘game changer’ that can further open up the U.S. market for Bangladesh. In April 2025, Bangladesh restricted yarn imports from India through its land ports after bilateral ties soured. In May 2025, India imposed curbs on imports of readymade garments and other items from Bangladesh through land ports.",
-      "date": "2026-02-10",
-      "timestamp": "Tue, 10 Feb 2026 20:09:08 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "9db4d508e0d777f7f6ea5f20874dcf77",
       "title": "Construction to begin on Kerala’s first rural district jail in Kozhikode",
       "link": "https://www.thehindu.com/news/national/kerala/construction-to-begin-on-keralas-first-rural-district-jail-in-kozhikode/article70615164.ece",
@@ -14890,7 +14981,7 @@
       "id": "c493655e84b314da6ae2b787b19dd5da",
       "title": "Facing a mercurial Trump, countries scramble to forge new alliances",
       "link": "https://www.aljazeera.com/economy/2026/2/10/facing-a-mercurial-trump-countries-scramble-to-forge-new-alliances?traffic_source=rss",
-      "summary": "Countries are increasingly settling aside old grudges to lessen their reliance on Washington.",
+      "summary": "Countries are increasingly setting aside old grudges to lessen their reliance on Washington.",
       "date": "2026-02-10",
       "timestamp": "Tue, 10 Feb 2026 19:16:40 +0000",
       "section": "International",
@@ -90036,6 +90127,123 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e1ab543751fa67fee717a50be0913c0c",
+      "title": "Government confident it did better in battle of wits with opposition",
+      "link": "https://timesofindia.indiatimes.com/india/government-confident-it-did-better-in-battle-of-wits-with-opposition/articleshow/128180840.cms",
+      "summary": "Opposition's bid to remove the Speaker failed, exposing internal rifts as pragmatic voices pushed for legislative business. The government emerged stronger, refusing Congress's demands, while regional parties' desire for discussions on their concerns helped end the impasse. The Speaker stepped aside until the notice is addressed.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T04:49:37+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c28c4bf0a435d58dfb124d62573f880f",
+      "title": "Joblessness among those aged 15 and above falls in rural, urban areas in Oct-Dec: PLFS",
+      "link": "https://timesofindia.indiatimes.com/india/joblessness-among-those-aged-15-and-above-falls-in-rural-urban-areas-in-oct-dec-plfs/articleshow/128180746.cms",
+      "summary": "India's unemployment rate for those 15 and above in rural areas dropped to 4% in Oct-Dec 2025, down from 4.4% in the previous quarter. The overall Labour Force Participation Rate also saw a marginal increase to 55.8%, with female participation rising to 34.9%.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T04:45:00+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b99509eb6eea35c524633e7ed4567c6d",
+      "title": "SC: Make front-of-pack warning labels a must on packaged food",
+      "link": "https://timesofindia.indiatimes.com/india/sc-make-front-of-pack-warning-labels-a-must-on-packaged-food/articleshow/128180622.cms",
+      "summary": "",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T04:38:10+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8574a46cf55730bb03af96554f5a061f",
+      "title": "Ensure marginalised groups’ representation in MP legal team: SC",
+      "link": "https://timesofindia.indiatimes.com/india/ensure-marginalised-groups-representation-in-mp-legal-team-sc/articleshow/128180426.cms",
+      "summary": "The Supreme Court has urged Madhya Pradesh's advocate general to ensure representation of marginalized communities and women as government lawyers. Justices M M Sundresh and N Kotiswar Singh highlighted the lack of ST advocates and low representation of SCs and OBCs, questioning how these communities can emerge without opportunity.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T04:27:57+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cd2659441fc040542f092ab2dfbca576",
+      "title": "Centre proposes spl NIA courts in 17 states, SC seeks their reply",
+      "link": "https://timesofindia.indiatimes.com/india/centre-proposes-spl-nia-courts-in-17-states-sc-seeks-their-reply/articleshow/128180289.cms",
+      "summary": "Responding to Supreme Court's push, the Centre will establish at least one special court in 17 states for NIA terror cases. Each state will receive ₹1 crore for costs, with existing courts to be designated for these trials. This move aims to expedite justice for serious crimes, preventing prolonged detentions due to overloaded dockets.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T04:23:27+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "77d2d625d9bbe8d8497e2c134d0888e5",
+      "title": "Niti Aayog seeks diesel vehicle phase-out, focus on cleaner tech",
+      "link": "https://timesofindia.indiatimes.com/india/niti-aayog-seeks-diesel-vehicle-phase-out-focus-on-cleaner-tech/articleshow/128180125.cms",
+      "summary": "Niti Aayog has proposed a roadmap for India's transport sector to achieve net zero emissions by 2070. The strategy involves phasing out diesel vehicles and promoting cleaner technologies like CNG, hybrids, and electric vehicles. Stricter Corporate Average Fuel Efficiency (CAFE) norms will also be implemented to support this transition.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T04:19:09+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "00f67b46164d139ac6810aed47b97861",
+      "title": "SC puts on hold drive against encroachers in Assam forests",
+      "link": "https://timesofindia.indiatimes.com/india/sc-puts-on-hold-drive-against-encroachers-in-assam-forests/articleshow/128179898.cms",
+      "summary": "The Supreme Court has halted Assam's anti-encroachment drive in reserved forests, emphasizing that environmental protection and rule of law must coexist. Alleged encroachers will now have a chance to submit documents, and action will only be taken after a thorough review and a formal notice to vacate.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T04:13:12+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9fdfbcf44ce4f7cd45b2f54ca6840fa1",
+      "title": "‘Washing dirty linen in court’: HC tells kin of late industrialist Sunjay Kapur to go for mediation",
+      "link": "https://timesofindia.indiatimes.com/india/washing-dirty-linen-in-court-hc-tells-kapurs-to-go-for-mediation/articleshow/128179718.cms",
+      "summary": "The Delhi High Court urged the family of late industrialist Sunjay Kapur to pursue mediation to resolve their disputes, advising them not to let wealth become a curse. The court emphasized peaceful resolution and equitable sharing of assets, highlighting the founder's legacy. This comes amidst lawsuits concerning a family trust and a will.",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T04:07:54+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8ce3e992815977a0d1f78b6f51171018",
+      "title": "Shift officials posted in home dists: EC to poll-bound states",
+      "link": "https://timesofindia.indiatimes.com/india/shift-officials-posted-in-home-dists-ec-to-poll-bound-states/articleshow/128179499.cms",
+      "summary": "",
+      "date": "2026-02-10",
+      "timestamp": "2026-02-11T04:04:45+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
