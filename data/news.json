@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T21:19:30.684616+00:00",
+  "generated_at": "2026-02-15T22:18:50.836747+00:00",
   "stories": [
     {
       "id": "45804ebc02e52b4ac868116c1d0779e7",
@@ -34257,19 +34257,6 @@
       "lang": "en"
     },
     {
-      "id": "2f5c135675824e754623ea7c2e94acb6",
-      "title": "TMC’s solo posture in Parliament is strategy, not a snub to the INDIA bloc",
-      "link": "https://www.thehindu.com/news/national/tmcs-solo-posture-in-parliament-is-strategy-not-a-snub-to-the-india-bloc/article70635323.ece",
-      "summary": "With the West Bengal Assembly election around the corner, Parliament is another platform for the TMC’s electoral campaign; its MPs are focussed on asserting their independence and Bangla identity",
-      "date": "2026-02-15",
-      "timestamp": "Sun, 15 Feb 2026 22:16:07 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f53bd984affb1f46ad6de70fb1289c04",
       "title": "बिजनौर में मूर्ति रखने को लेकर विवाद, इस बिरादरी के 40 परिवारों ने पलायन की दी चेतावनी",
       "link": "https://www.livehindustan.com/uttar-pradesh/40-families-threaten-to-migrate-after-dispute-over-idol-placement-in-bijnor-201771173661600.html",
@@ -34474,6 +34461,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "af5b6910b8b61ec6fe814e844e72c7f4",
+      "title": "US attorney general criticised after saying all Epstein files have been released",
+      "link": "https://www.bbc.com/news/articles/cz7genjx9njo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawmakers, including those who wrote the law requiring their publication, argue the release is insufficient.",
+      "date": "2026-02-15",
+      "timestamp": "Sun, 15 Feb 2026 21:32:23 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -34791,9 +34791,9 @@
     },
     {
       "id": "5a1d2cfde8d488533d122129bb6dac01",
-      "title": "DNA found on glove appearing to match those in Nancy Guthrie suspect video",
+      "title": "FBI analysing recovered glove that appears to match those worn in Guthrie suspect video",
       "link": "https://www.bbc.com/news/articles/c5yrv2g16e2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The FBI says it recovered the evidence sample from the glove, which was found in a field near the side of the road a few miles from Guthrie's home",
+      "summary": "The FBI says it recovered a DNA sample from the glove, which was found in a field a few miles from Guthrie's home.",
       "date": "2026-02-15",
       "timestamp": "Sun, 15 Feb 2026 20:39:35 GMT",
       "section": "International",
@@ -65080,6 +65080,71 @@
       "lang": "hi"
     },
     {
+      "id": "9913b74d7b13bfd82716494cb6be41b8",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 16 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-16",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 03:30:23 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8520d9fab1bd2a680e6c3887943e6473",
+      "title": "पढ़ें 16 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-16",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 03:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "78e80187b1aafea1feb712acf5a4cfb2",
+      "title": "News Updates: वैश्विक नौसैनिक अभ्यास 'मिलन' की 19 फरवरी से शुरुआत; नैतिक एआई इस्तेमाल के लिए देशव्यापी अभियान",
+      "link": "https://www.amarujala.com/india-news/news-updates-16th-jan-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-02-16",
+      "summary": "News Updates: वैश्विक नौसैनिक अभ्यास 'मिलन' की 19 फरवरी से शुरुआत; नैतिक एआई इस्तेमाल के लिए देशव्यापी अभियान news updates 16th jan north east west south india elections 2026 politics crime national news in hindi",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 03:28:56 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "2f5c135675824e754623ea7c2e94acb6",
+      "title": "Trinamool’s solo posture in Parliament is a strategy, not a snub to INDIA bloc",
+      "link": "https://www.thehindu.com/news/national/tmcs-solo-posture-in-parliament-is-strategy-not-a-snub-to-the-india-bloc/article70635323.ece",
+      "summary": "With the West Bengal Assembly election around the corner, Parliament is another platform for the TMC’s electoral campaign; its MPs are focussed on asserting their independence and Bangla identity",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 02:46:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9203e75371a587d23c6fea8df66fbcf0",
+      "title": "Cotton farmers oppose Goyal’s U.S. import remarks, warn of price crash",
+      "link": "https://www.thehindu.com/business/agri-business/cotton-farmers-protest-piyush-goyals-remarks-on-us-imports-warn-of-price-crash/article70635962.ece",
+      "summary": "Farm bodies say zero-tariff raw cotton import from the U.S. will severely affect domestic price and devastate growers; several farmer bodies, particularly those working among cotton farmers, have decided to launch protests",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 02:45:32 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8227b561cb2257b282993b3cca5fe62e",
       "title": "Six from Haryana held for cheating in GATE",
       "link": "https://www.thehindu.com/news/national/chhattisgarh/six-arrested-for-cheating-in-gate-examination/article70635835.ece",
@@ -65403,32 +65468,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "9913b74d7b13bfd82716494cb6be41b8",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 16 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-16",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 02:30:24 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "8520d9fab1bd2a680e6c3887943e6473",
-      "title": "पढ़ें 16 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-16",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 02:30:12 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "22fc27aa2beb06a78b64812d435773dd",
@@ -89412,6 +89451,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "54e84a0aa7cfbfd58317b33b63306b79",
+      "title": "Europe and America lose millions of Christians, Africa now largest region with 697 million believers",
+      "link": "https://timesofindia.indiatimes.com/etimes/trending/europe-and-america-lose-millions-of-christians-africa-now-largest-region-with-697-million-believers/articleshow/128389920.cms",
+      "summary": "Christianity remains the world’s largest religion at 2.3 billion people, but its global share is shrinking as religious switching accelerates, especially in Western countries. While Europe and North America see steady decline, sub-Saharan Africa now anchors the faith’s growth. The data reveals not collapse, but a geographic and cultural shift reshaping Christianity’s global center of gravity.",
+      "date": "2026-02-15",
+      "timestamp": "2026-02-16T02:56:10+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
