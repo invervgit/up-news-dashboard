@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-15T22:18:50.836747+00:00",
+  "generated_at": "2026-02-15T23:21:12.539326+00:00",
   "stories": [
     {
       "id": "45804ebc02e52b4ac868116c1d0779e7",
@@ -34296,6 +34296,19 @@
       "lang": "en"
     },
     {
+      "id": "643962b0dece1d91828e89d4d9fa7936",
+      "title": "Can the UN Security Council be reformed?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/2/15/can-the-un-security-council-be-reformed?traffic_source=rss",
+      "summary": "The UN secretary-general says the absence of African seats is 'indefensible'.",
+      "date": "2026-02-15",
+      "timestamp": "Sun, 15 Feb 2026 22:08:04 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0ee2fc0b70d3e21427d4dc93601f9f49",
       "title": "Syria says has taken over another base from U.S. forces",
       "link": "https://www.thehindu.com/news/international/syria-says-has-taken-over-another-base-from-us-forces/article70636213.ece",
@@ -65080,12 +65093,38 @@
       "lang": "hi"
     },
     {
+      "id": "ef3bca0a5993a9e622c5cac93d348a6b",
+      "title": "Solar Eclipse: दुनियाभर में कल दिखेगा वलयाकार सूर्य ग्रहण का नजारा, रिंग ऑफ फायर से सजेगा आसमान",
+      "link": "https://www.amarujala.com/india-news/solar-eclipse-annular-ring-of-fire-visible-worldwide-tomorrow-sky-spectacle-2026-02-16",
+      "summary": "Solar Eclipse: दुनियाभर में कल दिखेगा वलयाकार सूर्य ग्रहण का नजारा, रिंग ऑफ फायर से सजेगा आसमान",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 04:50:53 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "831fe111f8d4b29fe8c03f75ff279a64",
+      "title": "Hammer Missile: अब भारत में बनेगी राफेल की घातक हैमर मिसाइल, भारत-फ्रांस रक्षा संवाद में होगा समझौता",
+      "link": "https://www.amarujala.com/india-news/india-france-defence-dialogue-hammer-missile-production-in-india-for-rafale-fighter-jet-2026-02-16",
+      "summary": "Hammer Missile: अब भारत में बनेगी राफेल की घातक हैमर मिसाइल, भारत-फ्रांस रक्षा संवाद में होगा समझौता india france defence dialogue hammer missile production in india for rafale fighter jet",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 04:44:50 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "9913b74d7b13bfd82716494cb6be41b8",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 16 फ़रवरी के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-16",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 03:30:23 +0530",
+      "timestamp": "Mon, 16 Feb 2026 04:30:25 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -65098,12 +65137,64 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-16",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 03:30:12 +0530",
+      "timestamp": "Mon, 16 Feb 2026 04:30:13 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "d7766eabae9043c220043ae2fbaef053",
+      "title": "AI Impact Summit: परिवर्तनकारी दौर में समिट, दुनिया जानेगी भारत समावेशी एआई समाधान देने में सक्षम",
+      "link": "https://www.amarujala.com/india-news/summit-in-a-transformative-era-world-will-know-india-is-capable-of-providing-inclusive-ai-solutions-2026-02-16",
+      "summary": "AI Impact Summit: परिवर्तनकारी दौर में समिट, दुनिया जानेगी भारत समावेशी एआई समाधान देने में सक्षम",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 04:29:16 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "84a58bb1b12d748c1b1a53cdba04ea69",
+      "title": "Weather: फिर से बदलेगा मौसम, पश्चिमी विक्षोभ से बारिश और बर्फबारी होने के आसार; मैदानी इलाकों में चढ़ा पारा",
+      "link": "https://www.amarujala.com/india-news/weather-updates-india-western-disturbance-rain-snowfall-doda-avalanche-imd-forecast-alert-2026-02-16",
+      "summary": "Weather: फिर से बदलेगा मौसम, पश्चिमी विक्षोभ से बारिश और बर्फबारी होने के आसार; मैदानी इलाकों में चढ़ा पारा Weather Updates india western disturbance rain snowfall doda avalanche IMD forecast Alert",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 04:24:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b1c1447acc511dc164cff29c04a8521d",
+      "title": "Netanyahu says U.S. deal with Iran must dismantle nuclear infrastructure",
+      "link": "https://www.thehindu.com/news/international/netanyahu-says-us-deal-with-iran-must-dismantle-nuclear-infrastructure/article70636615.ece",
+      "summary": "Iran is pursuing ⁠a nuclear agreement with the U.S. that delivers economic benefits for both sides, an Iranian diplomat was reported as saying",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 04:12:09 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "67fd3a72daeee04840146f4022ba9212",
+      "title": "Lebanon says four dead in strike as Israel says targeted Palestinian group",
+      "link": "https://www.thehindu.com/news/international/lebanon-says-four-dead-in-strike-as-israel-says-targeted-palestinian-group/article70636612.ece",
+      "summary": "It appeared to be the first strike Israel has claimed in Lebanon against Islamic Jihad, which is also allied with Hezbollah, since the truce",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 03:44:55 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "78e80187b1aafea1feb712acf5a4cfb2",
@@ -65117,6 +65208,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "8f8aba12fff34721e6696d7df11cde0e",
+      "title": "Survey records 17 active White-bellied Sea Eagle nests in Kannur, Kasaragod",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/survey-records-17-active-white-bellied-sea-eagle-nests-in-kannur-kasaragod/article70634547.ece",
+      "summary": "Despite the improvement, officials say the current figure remained below historical levels. Records from 1996 showed 25 active nesting sites, suggesting that the population has yet to fully recover",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 03:08:47 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "2f5c135675824e754623ea7c2e94acb6",
@@ -66557,6 +66661,19 @@
       "timestamp": "Mon, 16 Feb 2026 00:49:36 +0530",
       "section": "International",
       "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "268c5903817d9c98a767ce684158ce43",
+      "title": "Traffic woes to ease as at Madhya Kailash as Stalin opens flyover",
+      "link": "https://www.thehindu.com/news/cities/chennai/traffic-woes-to-ease-as-at-madhya-kailash-as-stalin-opens-flyover/article70634910.ece",
+      "summary": "The flyover will allow vehicles proceeding to Rajiv Gandhi Salai from Guindy to turn right, avoiding the traffic signal",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 00:32:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -89451,6 +89568,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2ebc709b84aa9aa2742eef942a1805aa",
+      "title": "'Delhi declaration' may be adopted at AI summit in Delhi",
+      "link": "https://timesofindia.indiatimes.com/india/delhi-declaration-may-be-adopted-at-ai-summit-in-delhi/articleshow/128397684.cms",
+      "summary": "",
+      "date": "2026-02-15",
+      "timestamp": "2026-02-16T03:38:10+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
