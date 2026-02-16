@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T07:50:46.186822+00:00",
+  "generated_at": "2026-02-16T08:40:35.019265+00:00",
   "stories": [
     {
       "id": "45804ebc02e52b4ac868116c1d0779e7",
@@ -34270,19 +34270,6 @@
       "lang": "en"
     },
     {
-      "id": "aa445d66487c3cc2f878738f04d947aa",
-      "title": "Tipu Sultan row: FIR against Maharashtra Congress chief; stone throwing in Pune",
-      "link": "https://www.thehindu.com/news/cities/mumbai/tipu-sultan-row-fir-against-maharashtra-congress-chief-stone-throwing-in-pune/article70636120.ece",
-      "summary": "The BJP protested in Pune as well as Mumbai by putting black ink on photographs of Congress leader Harshvardhan Sapkal and burning his effigies",
-      "date": "2026-02-15",
-      "timestamp": "Sun, 15 Feb 2026 22:14:23 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e464ee00fe798344561869cf8640e2e5",
       "title": "Kerala can contribute to strengthening secularism: Amartya Sen",
       "link": "https://www.thehindu.com/news/national/kerala/kerala-can-contribute-to-strengthening-secularism-amartya-sen/article70636240.ece",
@@ -34968,19 +34955,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "e2b82c9d77e791baaf1884343a4d7c56",
-      "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
-      "link": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
-      "date": "2026-02-15",
-      "timestamp": "Sun, 15 Feb 2026 20:13:08 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -41382,7 +41356,7 @@
     },
     {
       "id": "3765318fb88d7261cc183a0946d06714",
-      "title": "दर्दनाक हादसा: दाह संस्कार से लौटते समय ऑटो पलटने दो की मौत, वाहन की टक्कर से एक बाइक सवार की मौत",
+      "title": "दर्दनाक हादसा: दाह संस्कार से लौटते समय ऑटो पलटने से दो की मौत, वाहन की टक्कर से एक बाइक सवार की मौत",
       "link": "https://www.amarujala.com/uttar-pradesh/azamgarh/three-people-died-in-two-road-accidents-in-azamgarh-2026-02-15",
       "summary": "हादसे में दो की मौत हो गई और चालक सहित दो गंभीर रूप से घायल हो गए। मौके पर अफरातफरी का माहौल हो गया।",
       "date": "2026-02-15",
@@ -41915,7 +41889,7 @@
     },
     {
       "id": "c5f9db9607e6f3213cf67bb1c6d48741",
-      "title": "IND vs PAK: महाशिवरात्रि पर श्रद्धालुओं ने भारत के जीत की कामना, शाम को पाकिस्तान से T-20 का मुकाबला",
+      "title": "IND vs PAK: महाशिवरात्रि पर श्रद्धालुओं ने भारत की जीत की कामना, शाम को पाकिस्तान से T-20 का मुकाबला",
       "link": "https://www.amarujala.com/gorakhpur/devotees-pray-for-india-s-victory-at-shiva-temples-in-gorakhpur-2026-02-15",
       "summary": "महाशिवरात्रि महापर्व को लेकर शहर के शिवालयों में श्रद्धालुओं की ओर से भगवान भोलेनाथ का जलाभिषेक दर्शन पूजन हर हर महादेव के जयकारों के साथ सुबह से ही हो रहा है।",
       "date": "2026-02-15",
@@ -54836,6 +54810,188 @@
       "lang": "en"
     },
     {
+      "id": "b3798c245e8560a21c66c9e37b23ba1a",
+      "title": "Supreme Court finds ‘no good reason’ to entertain pleas for ‘hate speech’ FIR against Assam CM",
+      "link": "https://www.thehindu.com/news/national/assam/supreme-court-finds-no-good-reason-to-entertain-pleas-for-hate-speech-fir-against-assam-cm/article70637930.ece",
+      "summary": "A three-judge Bench headed by Chief Justice of India Surya Kant asked the petitioners to approach the State High Court despite the petitioners pointing out that Himanta Biswa Sarma was the “boss of Assam”",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 14:02:22 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "04199d643bc5cd7941d25a8baa1bc102",
+      "title": "Telangana | Newly elected Councillors and Corporators sworn in, indirect elections to leadership posts underway",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-newly-elected-councillors-and-corporators-sworn-in/article70637787.ece",
+      "summary": "Winners contesting from 116 municipalities in Telangana elections are set to take part in the swearing-in ceremony on Monday (February 16, 2026)",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 14:00:38 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "31968b92779cb3755d0ccdee0f593deb",
+      "title": "Angry over delay in formation of separate Dharwad city corporation, leaders warn of another agitation",
+      "link": "https://www.thehindu.com/news/national/karnataka/angry-over-delay-in-formation-of-separate-dharwad-city-corporation-leaders-warn-of-another-agitation/article70635861.ece",
+      "summary": "According to members of the forum, officers state that the process of carving out a separate municipal corporation for Dharwad is now in the final stage",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 14:00:11 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1e562c757c261db8061bec681cea1eef",
+      "title": "Seven workers killed in chemical factory fire in Rajasthan's Bhiwadi, two trapped inside",
+      "link": "https://www.thehindu.com/news/national/rajasthan/workers-killed-in-chemical-factory-fire-in-bhiwadi-rajasthan/article70637743.ece",
+      "summary": "The fire broke out in Bhiwadi's Khushkhera-Karoli industrial area; additional District Magistrate Sumita Mishra said police came to know about the incident during a routine patrol",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:57:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "222cbb21f775e36be2cd724f8981db32",
+      "title": "India AI Summit 2026 LIVE: AI adoption requires commitment, won't 'just happen by drift', says CEA Nageswaran",
+      "link": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-delhi-modi-responsible-intelligence-live-updates/article70637485.ece",
+      "summary": "Global tech leaders, including Sundar Pichai and Sam Altman, along with representatives from around 20 countries, are expected at the AI Impact Summit",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:56:39 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8f1905aaa273fa718a2deb33bf80b423",
+      "title": "Meghalaya Budget Session: State on track to triple its economy by 2032, says Governor Vijayashankar",
+      "link": "https://www.thehindu.com/news/national/meghalaya/meghalaya-assembly-budget-session-monday-february-16-2026/article70637594.ece",
+      "summary": "In his inaugural address, Meghalaya Governor Vijayashankar also pointed to a 9.66% real GSDP growth and sustained post-pandemic expansion",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:56:16 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "aa445d66487c3cc2f878738f04d947aa",
+      "title": "Tipu Sultan row: FIR against Maharashtra Congress chief; stone throwing in Pune",
+      "link": "https://www.thehindu.com/news/cities/mumbai/tipu-sultan-row-fir-against-maharashtra-congress-chief-stone-throwing-in-pune/article70636120.ece",
+      "summary": "The BJP protested in Pune as well as Mumbai by putting black ink on photographs of Congress leader Harshvardhan Sapkal and burning his effigies",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:53:01 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7161eccbd9182f2b8c855c472972f07f",
+      "title": "Hope for cancer patients: Bengaluru scientists explore way to save eggs lost inside the ovary",
+      "link": "https://www.thehindu.com/news/national/karnataka/hope-for-cancer-patients-bengaluru-scientists-explore-way-to-save-eggs-lost-inside-the-ovary/article70607366.ece",
+      "summary": "If successful, the approach in the later stage could help preserve fertility in cancer patients by safeguarding eggs before treatment damages the ovaries",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:43:09 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a17837e1ad5d74bb0179a71a1f2e3ec9",
+      "title": "How much money is collected every year through FASTag at toll booths in Karnataka?",
+      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-collects-11112-crore-through-fastag-in-three-years/article70629197.ece",
+      "summary": "Union Minister for Road Transport and Highways Nitin Gadkari said that Electronic Toll Collection (ETC) now accounts for more than 98% of user fee collection across the country, including Karnataka",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:41:51 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e40da2db439cd9221a6e7df8f4dc1515",
+      "title": "Will Karimnagar get a BJP mayor? All eyes on Mayoral election today",
+      "link": "https://www.thehindu.com/news/national/telangana/all-eyes-on-mayor-and-deputy-mayor-posts-of-karimnagar-municipal-corporation/article70637929.ece",
+      "summary": "Kolagani Srinivas and Y. Sunil Rao are BJP’s candidates for Mayor and Deputy Mayor post of Karimnagar Municipal Corporation",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:37:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dc756b5fe30fcc0d5a493297f5671344",
+      "title": "25 schools in Ahmedabad and Vadodara receive bomb threat emails; searches underway",
+      "link": "https://www.thehindu.com/news/national/gujarat/25-schools-in-ahmedabad-and-vadodara-receive-bomb-threat-emails-searches-underway/article70637918.ece",
+      "summary": "Nothing suspicious has been found so far, officials said",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:31:36 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2981ba21daecb1d6cbaec6cebfe79455",
+      "title": "लखनऊ और अलीगढ़ कचहरी को बम से उड़ाने की धमकी, खाली कराया गया कोर्ट परिसर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/lucknow-and-aligarh-courts-receive-bomb-threats-court-premises-evacuated-201771227967382.html",
+      "summary": "लखनऊ और अलीगढ़ में अदालत परिसरों को बम से उड़ाने की धमकी मिलने से हड़कंप मच गया। धमकी के बाद दोनों जगह कोर्ट कैंपस खाली कराकर पुलिस, बीडीएस और डॉग स्क्वायड की टीमों ने सघन जांच अभियान चलाया।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:26:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "978977d76482704c7c5d23ff3c9dbe87",
+      "title": "Tamil Nadu Economic Survey says trillion-dollar economy achievable at current growth rate",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-economic-survey-2026-trillion-dollar-economy-achievable/article70637496.ece",
+      "summary": "“With 3.5% short term rate of rise of dollar value, it may be delayed for a year,” said the Survey prepared by the State Planning Commission",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:26:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "289afc726a448b7111340f9c17e91575",
+      "title": "Sivaratri: Devotees throng Aluva Manappuram in Kerala for rituals",
+      "link": "https://www.thehindu.com/news/national/kerala/sivaratri-devotees-throng-aluva-manappuram-in-kerala-for-rituals/article70637795.ece",
+      "summary": "Thousands perform ‘bali tharpanam’ (paying obeisance to ancestors) on banks of Periyar river at Aluva as part of Sivaratri on Monday morning",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 13:15:40 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "21881500305f56d78ee79a1755cc2a41",
       "title": "पत्नी को लाने गए पति का ससुराल में हाई वोल्टेज ड्रामा, हाईटेंशन टॉवर पर चढ़कर किया हंगामा",
       "link": "https://www.livehindustan.com/uttar-pradesh/husband-climbs-high-tension-tower-to-pick-up-wife-creates-ruck-201771226911028.html",
@@ -54849,27 +55005,27 @@
       "lang": "en"
     },
     {
-      "id": "978977d76482704c7c5d23ff3c9dbe87",
-      "title": "Tamil Nadu Economic Survey says trillion-dollar economy achievable at current growth rate",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-economic-survey-2026-trillion-dollar-economy-achievable/article70637496.ece",
-      "summary": "“With 3.5% short term rate of rise of dollar value, it may be delayed for a year,” said the Survey prepared by the State Planning Commission",
+      "id": "776e05197328d1d91cb5cc725851b9f9",
+      "title": "Bill Gates arrives on brief visit to Andhra Pradesh",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/bill-gates-visits-andhra-pradesh/article70637310.ece",
+      "summary": "Ministers Nara Lokesh, Vangalapudi Anitha, K. Archannaidu and Y. Satya Kumar welcomed Bill Gates at the Vijayawada international airport",
       "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 13:07:40 +0530",
+      "timestamp": "Mon, 16 Feb 2026 13:12:50 +0530",
       "section": "National",
-      "report_category": "National_General",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
     {
-      "id": "289afc726a448b7111340f9c17e91575",
-      "title": "Sivaratri: Devotees throng Aluva Manappuram in Kerala for rituals",
-      "link": "https://www.thehindu.com/news/national/kerala/sivaratri-devotees-throng-aluva-manappuram-in-kerala-for-rituals/article70637795.ece",
-      "summary": "Thousands perform ‘bali tharpanam’ (paying obeisance to ancestors) on banks of Periyar river at Aluva as part of Sivaratri on Monday morning",
+      "id": "4bae567698a3e4ad14335a2580d8a8e2",
+      "title": "Congress distances itself from Mani Shankar Aiyar’s ‘Vijayan next Kerala CM’ remarks",
+      "link": "https://www.thehindu.com/news/national/congress-distances-itself-from-mani-shankar-aiyars-vijayan-next-kerala-cm-remarks/article70637808.ece",
+      "summary": "Congress asserted that the people of Kerala will bring the United Democratic Front (UDF) back in power in the southern state for more responsible and responsive governance",
       "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 13:07:01 +0530",
+      "timestamp": "Mon, 16 Feb 2026 13:09:59 +0530",
       "section": "National",
-      "report_category": "National_General",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -54883,19 +55039,6 @@
       "timestamp": "Mon, 16 Feb 2026 13:06:53 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "04199d643bc5cd7941d25a8baa1bc102",
-      "title": "Telangana | Newly elected Councillors and Corporators sworn in",
-      "link": "https://www.thehindu.com/news/national/telangana/telangana-newly-elected-councillors-and-corporators-sworn-in/article70637787.ece",
-      "summary": "",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 13:05:43 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -54927,19 +55070,6 @@
       "lang": "en"
     },
     {
-      "id": "4bae567698a3e4ad14335a2580d8a8e2",
-      "title": "Congress distances itself from Mani Shankar Aiyar’s ‘Vijayan next Kerala CM’ remarks",
-      "link": "https://www.thehindu.com/news/national/congress-distances-itself-from-mani-shankar-aiyars-vijayan-next-kerala-cm-remarks/article70637808.ece",
-      "summary": "Congress asserted that the people of Kerala will bring the United Democratic Front (UDF) back in power in the southern state for more responsible and responsive governance",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 12:58:41 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "22b332da7502400f250c96a8feb35701",
       "title": "UP: लखनऊ कोर्ट को फिर बम से उड़ाने की धमकी, ई-मेल में आईएसआई का जिक्र; तीन दिन में दूसरा धमकी भरा मेल",
       "link": "https://www.amarujala.com/lucknow/up-another-bomb-threat-to-lucknow-court-isi-mentioned-in-email-second-threat-mail-in-three-days-2026-02-16",
@@ -54964,19 +55094,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "7161eccbd9182f2b8c855c472972f07f",
-      "title": "Hope for cancer patients: Bengaluru scientists explore way to save eggs lost inside the ovary",
-      "link": "https://www.thehindu.com/news/national/karnataka/hope-for-cancer-patients-bengaluru-scientists-explore-way-to-save-eggs-lost-inside-the-ovary/article70607366.ece",
-      "summary": "If successful, the approach in the later stage could help preserve fertility in cancer patients by safeguarding eggs before treatment damages the ovaries",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 12:55:49 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "78e80187b1aafea1feb712acf5a4cfb2",
@@ -55057,19 +55174,6 @@
       "lang": "hi"
     },
     {
-      "id": "776e05197328d1d91cb5cc725851b9f9",
-      "title": "Bill Gates arrives on brief visit to Andhra Pradesh",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/bill-gates-visits-andhra-pradesh/article70637310.ece",
-      "summary": "Ministers Nara Lokesh, Vangalapudi Anitha, K. Archannaidu and Y. Satya Kumar welcomed Bill Gates at the Vijayawada international airport",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 12:46:30 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "952e1314b3cdf41b20a06e919e75dba6",
       "title": "काशी विश्वनाथ मंदिर: धाम में लगेंगी 58 स्टेनलेस स्टील वायु शुद्धिकरण इकाइयां, खासियत जान लें",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/58-stainless-steel-air-purification-units-will-be-installed-in-vishwanath-dham-varanasi-news-c-20-vns1056-1292552-2026-02-16",
@@ -55109,19 +55213,6 @@
       "lang": "en"
     },
     {
-      "id": "1e562c757c261db8061bec681cea1eef",
-      "title": "Seven workers killed in chemical factory fire in Rajasthan's Bhiwadi, two trapped inside",
-      "link": "https://www.thehindu.com/news/national/rajasthan/workers-killed-in-chemical-factory-fire-in-bhiwadi-rajasthan/article70637743.ece",
-      "summary": "The fire broke out in Bhiwadi's Khushkhera-Karoli industrial area; additional District Magistrate Sumita Mishra said police came to know about the incident during a routine patrol",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 12:41:23 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "135aa6ff31e88401ab67524470b5773a",
       "title": "NGT clears Great Nicobar Island mega-infrastructure project, cites ‘strategic importance’",
       "link": "https://www.thehindu.com/sci-tech/energy-and-environment/ngt-clears-great-nicobar-island-mega-infrastructure-project/article70637613.ece",
@@ -55145,19 +55236,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "222cbb21f775e36be2cd724f8981db32",
-      "title": "India AI Summit 2026 LIVE: India stands at forefront of AI transformation, says PM Modi",
-      "link": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-delhi-modi-responsible-intelligence-live-updates/article70637485.ece",
-      "summary": "Global tech leaders, including Sundar Pichai and Sam Altman, along with representatives from around 20 countries, are expected at the AI Impact Summit",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 12:37:14 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -55616,19 +55694,6 @@
       "lang": "en"
     },
     {
-      "id": "8f1905aaa273fa718a2deb33bf80b423",
-      "title": "Budget Session of Meghalaya Assembly commences",
-      "link": "https://www.thehindu.com/news/national/meghalaya/meghalaya-assembly-budget-session-monday-february-16-2026/article70637594.ece",
-      "summary": "The Budget Session commenced with the playing of Vande Mataram, in accordance with the recent directive from the MHA",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 11:49:35 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "8750d81c7a6cfe073c4610e181aa26e1",
       "title": "Sabarimala women entry: Supreme Court’s 9-judge Constitution Bench to begin review hearing from April 7",
       "link": "https://www.thehindu.com/news/national/kerala/sabarimala-women-entry-supreme-courts-9-judge-constitution-bench-to-begin-review-hearing-from-april-7/article70637589.ece",
@@ -55824,19 +55889,6 @@
       "lang": "en"
     },
     {
-      "id": "69fd9a1d929b23e9a1188bfa3b0b53f5",
-      "title": "Uttarakhand: जलवायु परिवर्तन से मध्य हिमालय की जैव विविधता पर मंडरा रहा खतरा, बारिश का बदला स्वरूप",
-      "link": "https://www.amarujala.com/dehradun/research-climate-change-threatens-biodiversity-in-the-central-himalayas-uttarakhand-news-in-hindi-2026-02-16",
-      "summary": "मध्य हिमालय में जलवायु परिवर्तन का असर अब साफ दिखाई देने लगा है। हिमपात में कमी, बारिश के पैटर्न बदलाव और बढ़ते मानव हस्तक्षेप ने क्षेत्र की जैव-विविधता पर गंभीर खतरा पैदा कर दिया है।",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 11:12:09 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "5297cd2846e4d6897373558a719cdfdc",
       "title": "Come pepper harvest season, children of migrant workers in Karnataka miss school",
       "link": "https://www.thehindu.com/news/national/karnataka/come-pepper-harvest-season-children-of-migrant-workers-in-karnataka-miss-school/article70578263.ece",
@@ -55902,19 +55954,6 @@
       "lang": "en"
     },
     {
-      "id": "65e688d419cf5fb619bbcf703612dffc",
-      "title": "महाशिवरात्रि पर कुट्टू के आटे का सेवन पड़ा भारी: ग्रेटर नोएडा की तीन सोसाइटी के 40 से अधिक लोग हुए बीमार",
-      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-over-40-people-fell-ill-after-consuming-kuttu-atta-in-greater-noida-2026-02-16",
-      "summary": "महाशिवरात्रि पर कुट्टू के आटे का सेवन पड़ा भारी: ग्रेटर नोएडा की तीन सोसाइटी के 40 से अधिक लोग हुए बीमार, अस्पताल में भर्ती",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 10:58:53 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Noida",
-      "lang": "en"
-    },
-    {
       "id": "72665a16b1422b1d770c7d8fcb1deac5",
       "title": "मेरठ का नीला ड्रम कांड: मुस्कान-साहिल के खिलाफ आज कोर्ट में गवाही, अब तक 15 गवाह सामने आए",
       "link": "https://www.livehindustan.com/uttar-pradesh/meerut-blue-drum-scandal-testimony-against-muskan-and-sahil-in-court-today-15-witnesses-have-come-forward-so-far-201771218440052.html",
@@ -55925,19 +55964,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "a17837e1ad5d74bb0179a71a1f2e3ec9",
-      "title": "Karnataka collects ₹11,112 crore through FASTag in three years",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-collects-11112-crore-through-fastag-in-three-years/article70629197.ece",
-      "summary": "Union Minister for Road Transport and Highways Nitin Gadkari said that Electronic Toll Collection (ETC) now accounts for more than 98% of user fee collection across the country, including Karnataka",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 10:55:43 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -56111,9 +56137,9 @@
     },
     {
       "id": "dd2ce0c8f08103398afc0f04183889e4",
-      "title": "UP Budget Session LIVE: 2017 से पहले अस्पतालों के बेड पर कुत्ते मिलते थे, विधानसभा में बोले डिप्टी सीएम",
+      "title": "UP Budget Session LIVE: अखिलेश ने चुपके से कोरोना की वैक्सीन लगवाई, डिप्टी सीएम केशव मौर्य का दावा",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-budget-session-live-updates-cm-yogi-reply-sapa-congress-201771216186111.html",
-      "summary": "UP Budget Session LIVE: यूपी बजट सत्र में वित्त वर्ष 2026-27 के बजट पर विस्तृत चर्चा जारी है। CM योगी विधान परिषद में अपना पक्ष रखेंगे। इससे पहले डिप्टी सीएम ब्रजेश पाठक ने स्वास्थ्य विभाग से जुड़े एक सवाल का जवाब अवधी भाषा में दिया। जिस पर स्पीकर ने कहा कि सभी सदस्य अपनी भाषा में ऐसे ही बोलें।",
+      "summary": "UP Budget Session LIVE: यूपी बजट सत्र में वित्त वर्ष 2026-27 के बजट पर विस्तृत चर्चा जारी है। CM योगी विधान परिषद में अपना पक्ष रखेंगे। इससे पहले विधान परिषद में डिप्टी सीएम केशव मौर्य ने दावा किया है कि सपा अध्यक्ष अखिलेश यादव ने चुपके से कोरोना की वैक्सीन लगवाई थी।",
       "date": "2026-02-16",
       "timestamp": "Mon, 16 Feb 2026 10:24:44 +0530",
       "section": "UP_Focus",
@@ -56263,6 +56289,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "24a68a2f67f3c027b11bd331926e6c5e",
+      "title": "Madarsa Mini ITI: प्रदेश के 58 मदरसा मिनी ITI पर संकट, बजट रुका, संचालन बंद होने की आशंका",
+      "link": "https://www.patrika.com/lucknow-news/58-madrasa-mini-itis-face-shutdown-in-up-after-budget-freeze-government-seeks-review-20354812",
+      "summary": "58 Madarsa Mini ITI Face Shutdown in UP: प्रदेश के मदरसों में संचालित 58 मिनी आईटीआई केंद्रों पर अनिश्चितता के बादल छा गए हैं। अल्पसंख्यक कल्याण विभाग द्वारा इन केंद्रों के बजट पर रोक लगाए जाने के बाद इनके संचालन पर संकट गहरा गया है। विभाग ने मानकों की जांच रिपोर्ट के आधार पर शासन को पत्र भेजकर आगे की कार्यवाही और बजट आवंटन को लेकर मार्गदर्शन मांगा है। यदि शीघ्र निर्णय नहीं हुआ तो इन केंद्रों का संचालन एक साथ बंद हो सकता है, जिससे सैकड़ों छात्रों का भविष्य प्रभावित होने की आशंका है।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 09:53:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -56773,6 +56812,19 @@
       "lang": "en"
     },
     {
+      "id": "b8ddf77ff8bfe47c673a8d89503a0b8d",
+      "title": "Martyred soldier laid to rest as son performs last rites:Huge crowd gathers to pay final tribute; deceased was posted in Jammu-Kashmir",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/meerut-soldier-jammu-kashmir-final-tribute-son-last-rites-137220115.html",
+      "summary": "The mortal remains of an Indian Army soldier, who was posted in Jammu and Kashmir, reached his home in Meerut on Monday. An emotional scene unfolded when his four-and-a-half-year-old son poured Ganga water into his mouth during the final farewell, leaving those present unable to hold back their tears. During the last rites, the young boy was seen alternately gazing at his father’s lifeless body and looking around at the crowd, as if trying to understand the moment. The soldier’s mother and wife were inconsolable, crying uncontrollably beside the body. His father stood silently, staring at his son for one last time, overwhelmed with grief. People from several nearby villages gathered to pay their final respects. As the funeral procession moved forward, residents showered flowers from their homes as a mark of honour. The air echoed with emotional slogans: “As long as the sun and moon endure, Rahul Fauji’s name will live on.” Accident during travel in Himachal Havaldar Rahul Bhadana (33) from Bhadauli village in Kithor was serving in the army and was posted in Akhnoor district of Jammu and Kashmir. According to information received from the army, soldier Rahul was on leave traveling in Himachal Pradesh. During the journey, he passed away in a road accident in Damtal. Farmer leader Pawan Gurjar said - Rahul Bhadana, son of his uncle Hem Singh Bhadana, joined the army in 2016. He was posted at various locations for 10 years. For the past few days, he was posted in the Akhnoor area of Jammu and Kashmir. He died in a road accident on Saturday. Information about the accident was sent by the army. Got married to Sonal 5.5 years ago Rahul got married to Sonal from Amroha about five and a half years ago. They have a four and a half year old son named Divyansh. Rahul was second among three brothers. He has four sisters who are in a terrible state crying.",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 08:15:30 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "0c009e64925dda3592b129ff6dfe1900",
       "title": "UP: पश्चिमी विक्षोभ से बिगड़ेगा प्रदेश का मौसम, होली के पहले इन जिलों में होगी बारिश; तेज हवाओं से गिरेगा पारा",
       "link": "https://www.amarujala.com/lucknow/up-western-disturbance-will-disrupt-the-state-s-weather-rain-will-fall-in-these-districts-before-holi-stron-2026-02-16",
@@ -56812,6 +56864,19 @@
       "lang": "en"
     },
     {
+      "id": "e2b82c9d77e791baaf1884343a4d7c56",
+      "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+      "link": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 08:05:27 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "803e52fabde0af9b54240de14a6426ec",
       "title": "यूपी में एसआईआर: तेज होगी नोटिसों की सुनवाई, बढ़ाए गए 3700 एईआरओ; अभी सुने गए हैं महज 26 फीसदी केस",
       "link": "https://www.amarujala.com/lucknow/sir-in-up-notice-hearings-to-be-expedited-3-700-aeros-added-only-26-of-cases-have-been-heard-so-far-2026-02-16",
@@ -56822,6 +56887,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "1e86dae2c61d43e1e5f47b9732223a75",
+      "title": "India hosts AI Impact Summit, drawing world leaders, tech giants",
+      "link": "https://www.aljazeera.com/news/2026/2/16/india-hosts-ai-impact-summit-drawing-world-leaders-tech-giants?traffic_source=rss",
+      "summary": "Summit aims to outline global AI governance and collaboration for inclusive growth and sustainability.",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 08:03:51 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -56847,6 +56925,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7e2578c3988d8b13bc8c75fcda9ddf01",
+      "title": "ByteDance pledges fixes to Seedance 2.0 after Hollywood copyright claims",
+      "link": "https://www.aljazeera.com/news/2026/2/16/bytedance-pledges-fixes-to-seedance-2-0-after-hollywood-copyright-claims?traffic_source=rss",
+      "summary": "Hollywood groups say the AI video generator uses the likeness of actors and others without permission.",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 07:44:11 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -57112,7 +57203,7 @@
     },
     {
       "id": "c52986ec385bd84866595cd16ec5aa88",
-      "title": "Chaudhary to form new team in UP after Holi:Caste equations complicate plans, frontline squad crucial for votes",
+      "title": "Pankaj Chaudhary to form new team in UP after Holi:Caste equations complicate plans, frontline squad crucial for votes",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-bjp-caste-equations-pankaj-chaudhary-team-formation-2027-elections-137219390.html",
       "summary": "A major organisational reshuffle in the Uttar Pradesh unit of the Bharatiya Janata Party (BJP) is expected only after Holi. The first round of discussions regarding the new team of state president Pankaj Chaudhary has been completed. However, balancing caste and regional representation remains a sticking point. Final approval is likely only after further rounds of meetings from Lucknow to Delhi. Questions remain about whether the new team will bring real change or if old faces will simply shift positions. Will Pankaj Chaudhary’s first major team send a strong message ahead of the 2027 assembly elections, or will internal rivalries create fresh challenges for the party? New team critical ahead of 2027 elections Considering the 2027 assembly elections, the new team carries significant importance for both the government and the party organisation. Pankaj Chaudhary has completed two months as UP president. His biggest challenge is preparing for the elections, including building his new team while maintaining caste and regional balance and keeping senior leaders satisfied. Sources indicate that Pankaj Chaudhary and BJP general secretary Organisation, Dharmapal Singh, have already held initial discussions about the state team. It has been decided that there will not be a major overhaul. Experienced office-bearers will largely be retained, although their responsibilities may shift. Some longstanding team members may leave, but provisions are being made to accommodate them in government or national-level positions. Why is the new team more important? The new team will bear full responsibility for the 2027 assembly elections. This will be the first assembly election for both Pankaj Chaudhary and Dharmapal Singh in UP, though Dharmapal Singh brings experience from the Jharkhand elections. The team will handle election campaigning, management, membership drives, and rallies. It will also be responsible for implementing central and state leadership decisions on the ground. Political analysts note that state office-bearers play a ministerial-level role during election years, which is why many senior leaders wish to remain in their positions, while new contenders are vying hard to secure spots in the team. Who is responsible for deciding the team? Know where officials are to be chosen in the organization? Several important positions will see new appointments, including state vice-presidents, general secretaries, and ministers, with increased female representation. New presidents will be appointed for six organisational zones. Some previous team members will retain positions in the state team. Additionally, 14 districts will receive new district presidents, and the state presidents of the Youth and Women’s wings will also be changed. Political appointments in municipal bodies, commissions, corporations, and boards are expected to follow soon. Now learn about the contenders The new UP state team will see strong influence from Defence Minister Rajnath Singh’s political legacy. His elder son Pankaj Singh currently serves as state vice-president, while younger son Neeraj Singh is active in the organisation. The final decision on which son will secure a key position rests with Rajnath Singh. Youth Morcha President Women's Front President Know where the problem lies, what's the challenge? Political activity is intense from Lucknow to Delhi regarding the team’s formation. Contenders are meeting top leadership in Delhi while seeking RSS support in Lucknow. Most candidates are from Brahmin and Thakur communities, making caste balance a key challenge. Female representation is also a priority. To prevent dissatisfaction, the party is reportedly considering allocating a key post to the Brahmin community to balance caste and gender equations. Pankaj Chaudhary faces the challenge of forming a team that can deliver electoral victory. Analysts note that issues such as discontent among upper-caste groups due to UGC matters, Kurmi-Lodh tensions, and other caste and political calculations must be factored in. With five state elections slated next year, including UP, forming a strong, balanced team becomes crucial. BJP must also respond to Mayawati’s proactive engagement with Dalit and Brahmin voters. The party’s commitment to “Sabka Saath, Sabka Vikas” must now be reflected in appointments of senior Dalit leaders like Vidyasagar Sonkar, Kaushal Kishore, and Vinod Sonkar to ensure outreach and credibility. Balancing political equations Senior political analyst Virendra Nath Bhatt notes that Pankaj Chaudhary must account for changing social equations after UGC issues, Brahmin dissatisfaction, and intra-party conflicts while maintaining caste and regional balance. Other controversies, including Shankaracharya Avimukteshwaranand and Alankar Agnihotri, must also be navigated carefully. Failure to resolve these issues on time could create challenges for the upcoming elections.",
       "date": "2026-02-16",
@@ -57216,7 +57307,7 @@
     },
     {
       "id": "4d9a5b4eb0905514e14d69ed095398b1",
-      "title": "Nasimuddin's son facilitates his entry into SP:Akhilesh's common friend plays crucial role, steers political shift in west UP",
+      "title": "Cong leader Nasimuddin's son helps his entry into SP:Akhilesh's common friend plays crucial role, steers political shift in West UP",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/akhilesh-friend-political-shift-west-up-naseemuddin-sp-entry-137219207.html",
       "summary": "Former Congress leader and once-powerful BSP minister Naseemuddin Siddiqui joined the Samajwadi Party (SP) on Sunday. Known as bitter rivals before 2017, the big question after he donned the red cap was: what’s the inside story behind his joining SP? How did this surprise unfold? Did the two leaders speak directly, or was there mediation? If mediated, where did the talks begin? How did it gain momentum? What are the potential gains and risks for SP? What could Naseemuddin gain personally? Dainik Bhaskar tried to find answers to all these questions. Read this special report… A close friend of Naseemuddin’s son Afzal spoke on condition of anonymity. He said that after SP’s success in the 2024 Lok Sabha elections, Naseemuddin was inclined to join the party. A key role was played by Akhilesh Yadav and Afzal’s mutual friend, businessman Rehan. Rehaan is Akhilesh's school time friend Rehaan is Akhilesh's friend from when they were studying in Mysore. Akhilesh Yadav went from Mysore to Australia and then returned to Lucknow. However, his friendship with Rehaan not only remained intact but grew stronger. Rehaan settled in Mumbai. Here he met Nasimuddin's son Afzal. Their friendship also flourished greatly. Afzal praised Akhilesh to Rehan, who in turn called him a visionary leader and a long-term player. In passing, he said, “Ask your father; if he agrees, I’ll take it forward.” That was how the discussions began. Nasimuddin met Akhilesh with Afzal Around six months ago, Afzal met Akhilesh. Later, Naseemuddin, Afzal, and Akhilesh met in Delhi. Continuous talks followed, and it was decided that Naseemuddin would join SP at the start of 2026. The day arrived on 15 February, when he publicly joined the party. Many BSP leaders gradually becoming SP members In 2019, despite the SP-BSP alliance, the Lok Sabha elections were lost. When BSP unilaterally decided to break the alliance, Akhilesh felt the greatest disappointment. This prompted SP to launch “Operation BSP.” Gradually, major BSP leaders began joining SP, including Lalji Verma, Ram Achal Rajbhar, Indrajeet Saroj, Swami Prasad Maurya, Babu Singh Kushwaha, Ram Shiromani Verma, RK Chaudhary, Ram Prasad Chaudhary, Tribhuvan Dutt, and Sukhdev Rajbhar. Naseemuddin Siddiqui had earlier left BSP for Congress. After SP’s success in attracting BSP leaders in 2022 and 2024, Naseemuddin realised joining Congress had been a misstep, though he did not publicly admit it. Meanwhile, his son Afzal Siddiqui had already entered politics. Know whether SP will benefit or lose from Nasimuddin's arrival Senior journalist Siddharth Kalhans says perception matters in elections. Naseemuddin has handled 18 departments as a minister and managed BSP’s organisational responsibilities. Akhilesh highlighted in his address that Naseemuddin had experience across multiple governments, signalling long experience. Naseemuddin also demonstrated that even while in Congress, a large number of BSP supporters aligned with him, which benefits Akhilesh’s perception. He stressed that he is junior to many former BSP leaders already in SP, aiming to resolve any disputes over rank. Nasimuddin joined SP, but what's the future now Political expert Ashok Tripathi says SP gains little beyond adding a senior leader, but Naseemuddin benefits, including planning for his children’s future. While in Congress, he had to fight for tickets. Even now, with SP, he may need to negotiate for seats. Winning was uncertain, but joining SP offers a better chance. Many leaders joined SP along with Naseemuddin, including his wife and son Afzal. Given his stature, he is likely to be appointed party general secretary, a post he held in BSP as well. On 15 February, Naseemuddin officially joined SP.",
       "date": "2026-02-16",
@@ -58554,6 +58645,45 @@
       "lang": "en"
     },
     {
+      "id": "8250ed79441863fe7d25cbf29b0c8f46",
+      "title": "सदन शुरू होने से पहले विधानसभा अध्यक्ष सतीश महाना ने रखी अपनी बात",
+      "link": "https://www.amarujala.com/video/lucknow/video-sathana-shanpr-hana-sa-pahal-vathhanasabha-athhayakashha-satasha-mahana-na-rakha-apana-bta-2026-02-16",
+      "summary": "सदन शुरू होने से पहले विधानसभा अध्यक्ष सतीश महाना ने रखी अपनी बात",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 02:07:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "5caea181a97eadc0fda409fa0f3a5340",
+      "title": "सदन पहुंचे सपा विधायक अतुल प्रधान ने रखी अपनी बात",
+      "link": "https://www.amarujala.com/video/lucknow/video-sathana-pahaca-sapa-vathhayaka-atal-parathhana-na-rakha-apana-bta-2026-02-16",
+      "summary": "सदन पहुंचे सपा विधायक अतुल प्रधान ने रखी अपनी बात",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 02:07:40 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "2903e216e076fe783662cc115f8fb719",
+      "title": "TMC: डेरेक ओ ब्रायन तृणमूल कांग्रेस का पीएम मोदी पर निशाना, कहा टेलीप्रॉम्प्टर टाइकून",
+      "link": "https://www.amarujala.com/india-news/derek-o-brien-trinamool-congress-targets-pm-modi-calls-him-teleprompter-tycoon-2026-02-16",
+      "summary": "टीएमसी नेता डेरेक ओ ब्रायन ने पीएम मोदी को ‘टेलीप्रॉम्प्टर टाइकून’ कहकर निशाना साधा। । पीएम ने राज्यसभा में जवाब दिया और इंटरव्यू में यूपीए व ट्रेड एग्रीमेंट्स पर टिप्पणी की।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 02:07:38 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "442df236f73ff5aef28fb24d31287485",
       "title": "Varanasi News: काशी विद्यापीठ में सवा महीने चलेगी बीए और बीएससी-बीएड की परीक्षाएं",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/ba-and-bsc-bed-exams-will-run-for-a-month-and-a-quarter-in-kashi-vidyapeeth-varanasi-news-c-20-vns1056-1291682-2026-02-16",
@@ -58590,6 +58720,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "0b6964669e3bb82bcbb3a7c845972be7",
+      "title": "UP Vidhan Mandal Session live: सदन में उठा रोजगार का मुद्दा, मंत्री अनिल राजभर बोले- हमने 8.5 लाख नौकरियां दीं",
+      "link": "https://www.amarujala.com/live/lucknow/up-assembly-budget-session-2026-live-updates-cm-yogi-government-news-in-hindi-2026-02-16",
+      "summary": "उत्तर प्रदेश विधानमंडल के बजट सत्र के तहत आज से विधानसभा और विधान परिषद में वित्तीय वर्ष 2026-27 के बजट पर चर्चा शुरू होगी।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 02:04:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -58632,6 +58775,45 @@
       "lang": "en"
     },
     {
+      "id": "69fd9a1d929b23e9a1188bfa3b0b53f5",
+      "title": "Uttarakhand: जलवायु परिवर्तन से मध्य हिमालय की जैव विविधता पर मंडरा रहा खतरा, बारिश का बदला स्वरूप",
+      "link": "https://www.amarujala.com/dehradun/research-climate-change-threatens-biodiversity-in-the-central-himalayas-uttarakhand-news-in-hindi-2026-02-16",
+      "summary": "मध्य हिमालय में जलवायु परिवर्तन का असर अब साफ दिखाई देने लगा है। हिमपात में कमी, बारिश के पैटर्न बदलाव और बढ़ते मानव हस्तक्षेप ने क्षेत्र की जैव-विविधता पर गंभीर खतरा पैदा कर दिया है।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 02:02:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9913b74d7b13bfd82716494cb6be41b8",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 16 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-16",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 02:01:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8520d9fab1bd2a680e6c3887943e6473",
+      "title": "पढ़ें 16 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-16",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 02:01:23 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "584790860c3d5fd7a06eca08cf3ab4fb",
       "title": "Hindus among four from minority communities elected to Bangladesh parliament",
       "link": "https://www.thehindu.com/news/international/hindus-among-four-from-minority-communities-elected-to-bangladesh-parliament/article70636475.ece",
@@ -58642,6 +58824,45 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b97ddbbd4e4934f075c505b6767a93d9",
+      "title": "भारत ने कैसे हासिल की सड़क पर सैन्य विमान उतारने की खूबी?: पाकिस्तान-चीन के लिए सिरदर्द, जानें क्यों-कितने अहम",
+      "link": "https://www.amarujala.com/india-news/india-highways-as-runways-for-iaf-fighter-jets-northeast-first-emergency-landing-facility-elf-know-tactical-2026-02-16",
+      "summary": "भारत में हाईवे पर रनवे को बनाने की यह तकनीक क्या है और यह क्यों अहम है? भारत अब तक अपने कितने हाईवे को रनवे के तौर पर तैयार कर चुका है? देश के लिए इसका रणनीतिक महत्व क्या है? आइये जानते हैं...",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:57:51 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b9cde5f5c3b0bc596346185a468f83d7",
+      "title": "परेशानी: वाराणसी में औसतन रोज 200 बाइक, 100 कार जाम में 30 मिनट फंसती हैं, होता है भारी नुकसान",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/on-an-average-200-bikes-and-100-cars-stuck-in-traffic-jams-for-30-minutes-every-day-in-varanasi-2026-02-16",
+      "summary": "जाम से निजात दिलाने के लिए हर संभव प्रयास पुलिस कर रही है लेकिन निजात नहीं मिल रही।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:56:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "f708055709623bd772f304d3faaeaa83",
+      "title": "यूपी: अखिलेश यादव बोले- भाजपा की एक गुप्त बैठक हुई थी, जिसमें तय हुआ कि सपा का वोट कैसे कटवाना है",
+      "link": "https://www.amarujala.com/lucknow/up-akhilesh-yadav-said-a-secret-meeting-of-bjp-was-held-in-which-it-was-decided-how-to-cut-the-votes-of-sp-2026-02-16",
+      "summary": "सपा प्रमुख अखिलेश यादव ने भाजपा पर गुप्त बैठक कर सपा का वोट कटवाने की साजिश रचने का आरोप लगाया। उन्होंने कहा कि विशेष पुनरीक्षण के दौरान फॉर्म-7 के जरिए पीडीए और अल्पसंख्यक वोटरों को निशाना बनाया जा रहा है।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:54:58 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -58658,6 +58879,71 @@
       "lang": "en"
     },
     {
+      "id": "15c5946dfcd8157d088d4cccb3a84b25",
+      "title": "AI Impact Summit 2026 Live: 2.5 लाख लोगों ने कराया समिट के लिए पंजीकरण, केंद्रीय मंत्री ने कहा- एआई का महाकुंभ",
+      "link": "https://www.amarujala.com/india-news/ai-impact-summit-and-expo-india-2026-updates-pm-modi-global-south-ai-conference-leaders-meet-digital-india-2026-02-16",
+      "summary": "AI Impact Summit 2026 Live: एआई शिखर सम्मेलन का आज PM मोदी करेंगे उद्घाटन, 20 देशों के शीर्ष नेता लेंगे हिस्सा AI Impact Summit and Expo India 2026 Updates PM Modi Global South AI Conference Leaders Meet Digital India",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:53:53 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c6e67c5a9e24362bcf4aa53ac5aa9ea0",
+      "title": "देवर ने किया भाभी का मर्डर: बेटे की करतूत पर छिपाने के लिए धोए सबूत, खून से सने कपड़े छिपाए; गद्दे धोकर सुखाए",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/agra/mathura-murder-case-man-killed-his-sister-in-law-evidence-was-fabricated-to-cover-up-the-son-misdeeds-2026-02-16",
+      "summary": "मथुरा के थाना नौहझील क्षेत्र के अंतर्गत गांव बाघई कटैलिया में रविवार की सुबह उस वक्त सनसनी फैल गई, जब एक युवक ने अपनी ही भाभी की बेरहमी से हत्या करने के बाद खुदकुशी का प्रयास किया।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:53:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9de8f0e25b5c046f9e4d0d5c0440fcb6",
+      "title": "Supreme Court: डेटा संरक्षण कानून 2023 पर सरकार से जवाब तलब; कुलदीप सेंगर-सोनम वांगचुक मामले पर भी सुनवाई",
+      "link": "https://www.amarujala.com/india-news/supreme-court-monday-16-feb-hearing-kuldeep-sengar-sonam-wangchuk-data-protection-law-sc-updates-today-news-2026-02-16",
+      "summary": "सुप्रीम कोर्ट ने 2023 डेटा संरक्षण कानून को चुनौती देने वाली याचिका पर केंद्र को नोटिस जारी किया है।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:41:03 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "65e688d419cf5fb619bbcf703612dffc",
+      "title": "महाशिवरात्रि पर कुट्टू के आटे का सेवन पड़ा भारी: ग्रेटर नोएडा की तीन सोसाइटी के 40 से अधिक लोग हुए बीमार",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-over-40-people-fell-ill-after-consuming-kuttu-atta-in-greater-noida-2026-02-16",
+      "summary": "महाशिवरात्रि पर कुट्टू के आटे का सेवन पड़ा भारी: ग्रेटर नोएडा की तीन सोसाइटी के 40 से अधिक लोग हुए बीमार, अस्पताल में भर्ती",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:40:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "0d8b8e68b40a7ee00f83eb6b5df400e7",
+      "title": "UP: रीढ़ की टीबी से गर्भावस्था में लकवाग्रस्त हो गए पैर, केजीएमयू में सामने आया दुर्लभ मामला; जानें वजह",
+      "link": "https://www.amarujala.com/lucknow/up-spinal-tb-paralyzed-legs-during-pregnancy-rare-case-reported-at-kgmu-learn-why-2026-02-16",
+      "summary": "लखनऊ के केजीएमयू में गर्भवती महिला में रीढ़ की टीबी से लकवा होने का दुर्लभ मामला सामने आया। 22 सप्ताह की गर्भवती महिला के पैरों ने काम करना बंद कर दिया था।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:36:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "1c249fb89a477fc4ed2ce8f668f9fedd",
       "title": "Russia-Ukraine war: List of key events, day 1,453",
       "link": "https://www.aljazeera.com/news/2026/2/16/russia-ukraine-war-list-of-key-events-day-1453?traffic_source=rss",
@@ -58668,6 +58954,19 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e7e2121e2fdd387de7795e53370f4292",
+      "title": "यूपी कॉलेज: आगे के दो बेंच पर सिर्फ हॉस्टलर्स ही नहीं बैठेंगे, जबरन हटाया तो एंटी रैगिंग पोर्टल पर शिकायत",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/up-college-issues-notice-says-removing-someone-from-top-two-benches-will-be-considered-misconduct-2026-02-16",
+      "summary": "प्राचार्य की ओर से एक नोटिस जारी कर छात्रों को आगाह किया गया है कि यदि जबरन हटाकर कोई बैठा तो एंटी रैगिंग पोर्टल पर उसकी शिकायत होगी।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:33:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -58710,6 +59009,32 @@
       "lang": "en"
     },
     {
+      "id": "14b9adef8808d5edebb0260c09e9fcb6",
+      "title": "सदन पहुंचे सपा विधायक आर.के वर्मा ने रखी अपनी बात",
+      "link": "https://www.amarujala.com/video/lucknow/video-sathana-pahaca-sapa-vathhayaka-aaraka-varama-na-rakha-apana-bta-2026-02-16",
+      "summary": "सदन पहुंचे सपा विधायक आर.के वर्मा ने रखी अपनी बात",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:30:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "05c50ac33b45159268c811e461ac89c8",
+      "title": "सदन पहुंचे सपा विधायक संग्राम सिंह यादव ने रखी अपनी बात",
+      "link": "https://www.amarujala.com/video/lucknow/video-sathana-pahaca-sapa-vathhayaka-sagarama-saha-yathava-na-rakha-apana-bta-2026-02-16",
+      "summary": "सदन पहुंचे सपा विधायक संग्राम सिंह यादव ने रखी अपनी बात",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:30:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "051dc7fc810819128faffe9b26fcc938",
       "title": "Paisley to calligraphy: fashion designer rewrites Kashmir’s pashmina story",
       "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/paisley-to-calligraphy-fashion-designer-rewrites-kashmirspashminastory/article70635222.ece",
@@ -58720,6 +59045,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b3017c9bf090bd1183630f24adee6fc3",
+      "title": "फारुख हत्याकांड: रामपुर में साथी की हत्या से वकीलों में भारी आक्रोश, एसपी ने सिविल लाइंस के थानेदार को हटाया",
+      "link": "https://www.amarujala.com/uttar-pradesh/rampur/farooq-murder-case-lawyers-outraged-over-the-murder-of-a-colleague-in-rampur-sp-removes-sho-2026-02-16",
+      "summary": "साथी फारुख अहमद की जिला पंचायत दफ्तर में हत्या के खिलाफ अधिवक्ताओं का गुस्सा थम नहीं रहा है। आक्रोशित अधिवक्ता सोमवार को भी हड़ताल पर रहेंगे।",
+      "date": "2026-02-16",
+      "timestamp": "Mon, 16 Feb 2026 01:25:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -58736,16 +59074,16 @@
       "lang": "en"
     },
     {
-      "id": "0b6964669e3bb82bcbb3a7c845972be7",
-      "title": "UP Vidhan Mandal Session live: ब्रजेश पाठक बोले-आशा बहुअन का मातृत्व अवकाश भी दई रहेन, सपा से दोगुना मानदेय भी",
-      "link": "https://www.amarujala.com/live/lucknow/up-assembly-budget-session-2026-live-updates-cm-yogi-government-news-in-hindi-2026-02-16",
-      "summary": "उत्तर प्रदेश विधानमंडल के बजट सत्र के तहत आज से विधानसभा और विधान परिषद में वित्तीय वर्ष 2026-27 के बजट पर चर्चा शुरू होगी।",
+      "id": "39a53214e860439a1ec9ca348572e1f0",
+      "title": "Cough Syrup Case: सिरप के अवैध कारोबार के खिलाफ बड़ी कार्रवाई, स्वप्निल केसरी की 3.5 करोड़ की संपत्तियां जब्त",
+      "link": "https://www.amarujala.com/uttar-pradesh/chandauli/six-properties-of-swapnil-kesari-worth-rs-3-5-crore-seized-in-cough-syrup-case-in-chandauli-2026-02-16",
+      "summary": "पुलिस का कहना है कि लंबे समय से वह नशीले पदार्थों की अवैध खरीद-फरोख्त में शामिल था और उसी गैरकानूनी कारोबार से उसने कई मकान और भूखंड खरीदे।",
       "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 01:19:36 +0530",
+      "timestamp": "Mon, 16 Feb 2026 01:21:41 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -58801,19 +59139,6 @@
       "lang": "en"
     },
     {
-      "id": "15c5946dfcd8157d088d4cccb3a84b25",
-      "title": "AI Impact Summit 2026 Live: 2.5 लाख लोगों ने कराया समिट के लिए पंजीकरण, केंद्रीय मंत्री ने कहा- एआई का महाकुंभ",
-      "link": "https://www.amarujala.com/india-news/ai-impact-summit-and-expo-india-2026-updates-pm-modi-global-south-ai-conference-leaders-meet-digital-india-2026-02-16",
-      "summary": "AI Impact Summit 2026 Live: एआई शिखर सम्मेलन का आज PM मोदी करेंगे उद्घाटन, 20 देशों के शीर्ष नेता लेंगे हिस्सा AI Impact Summit and Expo India 2026 Updates PM Modi Global South AI Conference Leaders Meet Digital India",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 01:13:30 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "b7f9712859d9734df343d54fa6efbb6b",
       "title": "कानपुर कलेक्ट्रेट में हड़कंप: दो भाइयों ने किया आत्मदाह का प्रयास, जमीन पर कब्जे से थे परेशान, पुलिस ने बचाया",
       "link": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-collectorate-two-brothers-attempted-suicide-upset-over-land-encroachment-police-rescued-them-2026-02-16",
@@ -58866,38 +59191,12 @@
       "lang": "hi"
     },
     {
-      "id": "9913b74d7b13bfd82716494cb6be41b8",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 16 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-16",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 01:02:53 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "d3b287775adc81a7069d4c723cef5e99",
       "title": "Kerala: मणि शंकर अय्यर बोले- पिनरई विजयन बने रहेंगे केरल के मुख्यमंत्री, कांग्रेस ने बयान से बनाई दूरी",
       "link": "https://www.amarujala.com/india-news/pinarayi-vijayan-will-continue-as-kerala-cm-says-mani-shankar-aiyar-congress-distances-itself-from-remarks-2026-02-16",
       "summary": "Kerala: मणि शंकर अय्यर बोले- पिनरई विजयन बने रहेंगे केरल के मुख्यमंत्री, कांग्रेस ने बयान से बनाई दूरी",
       "date": "2026-02-16",
       "timestamp": "Mon, 16 Feb 2026 01:02:14 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
-      "id": "8520d9fab1bd2a680e6c3887943e6473",
-      "title": "पढ़ें 16 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-16",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 01:02:13 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -81807,6 +82106,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d1a7af74a34d7e2a73cade5ff880140a",
+      "title": "'Why haven't you gone to the Gauhati HC?': SC refuses to hear pleas against Assam CM Himanta; flags ‘disturbing trend’",
+      "link": "https://timesofindia.indiatimes.com/india/why-havent-you-gone-to-the-gauhati-hc-sc-refuses-to-hear-pleas-against-assam-cm-himanta-flags-disturbing-trend/articleshow/128413785.cms",
+      "summary": "The Supreme Court declined to hear pleas for an FIR and SIT probe against Himanta Biswa Sarma concerning a controversial video, directing petitioners to the Gauhati High Court. Justices questioned the bypass of lower courts, deeming it an \"undermining\" of their authority and a concerning election-eve trend. The bench urged constitutional restraint.",
+      "date": "2026-02-16",
+      "timestamp": "2026-02-16T13:37:38+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
