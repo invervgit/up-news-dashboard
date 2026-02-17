@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-17T18:51:08.897936+00:00",
+  "generated_at": "2026-02-17T19:43:31.909395+00:00",
   "stories": [
     {
       "id": "553695aae92c49e8d83f72da75d041a1",
@@ -20,7 +20,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-18",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 12:01:54 +0530",
+      "timestamp": "Wed, 18 Feb 2026 01:01:36 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -33,12 +33,129 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-18",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 12:01:43 +0530",
+      "timestamp": "Wed, 18 Feb 2026 01:01:24 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "39766c79bddb0b69754367d98e4dead3",
+      "title": "BJP back to Rath Yatras to boost political prospects in West Bengal",
+      "link": "https://www.thehindu.com/news/national/west-bengal/bjp-back-to-rath-yatras-to-boost-political-prospects-in-west-bengal/article70643394.ece",
+      "summary": "Prime Minister Narendra Modi will address a gathering at Kolkata’s Brigade Parade Grounds at the culmination of the yatras across the State",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 01:00:20 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1733032aba16237219ac8107a2a6bfeb",
+      "title": "In allegation of electoral corruption, guilt has to be proved to the hilt, Sibal submits in Supreme Court",
+      "link": "https://www.thehindu.com/news/national/in-allegation-of-electoral-corruption-guilt-has-to-be-proved-to-the-hilt-sibal-submits-in-supreme-court/article70643761.ece",
+      "summary": "He was countering an appeal filed by S.S. Duraisamy alleging that there were videos and photos, contained in CDs, allegedly showing corrupt practices committed ahead of the 2011 election of M.K. Stalin, including the distribution of money to lure voters",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 00:56:00 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b23b12bc264cb4154559627ab533f956",
+      "title": "Reddy loses Bagepalli MLA post with false claim of ‘nil’ tax dues when he actually owed over ₹1.3 crore",
+      "link": "https://www.thehindu.com/news/national/karnataka/reddy-loses-bagepalli-mla-post-with-false-claim-of-nil-tax-dues-when-he-actually-owed-over-13-crore/article70643954.ece",
+      "summary": "Declaring ‘nil’ tax dues in the assets and liabilities statement filed with his nomination papers - despite owing ₹1.3 crore in property tax arrears since 2018 - cost S.N. Subba Reddy his MLA post",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 00:50:18 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f9da782e90a94152f80875c605c9d8fc",
+      "title": "All accused in father-son duo murder during Bemetara communal violence acquitted",
+      "link": "https://www.thehindu.com/news/national/chhattisgarh/all-accused-in-father-son-duo-murder-during-bemetara-communal-violence-acquitted/article70644815.ece",
+      "summary": "Seventeen men were arrested for murdering an elderly man and his son, cattle grazers from Biranpur village in Chhattisgarh, in 2023",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 00:49:38 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "998b1236b4cfcc0a348a1f613a3bd167",
+      "title": "Private hospital in city successfully performs pinhole spine surgery on 75-year-old patient",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/private-hospital-in-city-successfully-performs-pinhole-spine-surgery-on-75-year-old-patient/article70644542.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 00:47:43 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d9778521cf758942ddf27e4d69497a7b",
+      "title": "31 govt. plots ‘illegally’ allocated at 5% of market value for Congress Bhavans in Karnataka: Chalavadi",
+      "link": "https://www.thehindu.com/news/national/karnataka/31-govt-plots-illegally-allocated-at-5-of-market-value-for-congress-bhavans-in-karnataka-chalavadi/article70643802.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 00:44:50 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8d04414865fab82672b069558597a038",
+      "title": "IIMK climbs to 65th position in FT Global MBA Rankings",
+      "link": "https://www.thehindu.com/news/national/kerala/iimk-climbs-to-65th-in-ft-global-mba-rankings/article70643970.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 00:41:08 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f45a42f067ac74150158f96e6e16e747",
+      "title": "Former Assam Congress chief Bhupen Kumar Borah to join BJP on February 22",
+      "link": "https://www.thehindu.com/news/national/assam/former-assam-congress-chief-bhupen-kumar-borah-to-join-bjp-on-february-22/article70644484.ece",
+      "summary": "The announcement by Chief Minister Himanta Biswa Sarma ends speculation about which way Borah will go",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 00:35:58 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2eca55de9b380c6836b1a084cb864b8e",
+      "title": "A.P. MLAs laud ‘people’s budget’, say it reflects government’s vision",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-mlas-laud-peoples-budget-say-it-reflects-governments-vision/article70644494.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 00:17:26 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "4be802bd70dc19106c4396fe5dcef658",
@@ -11871,19 +11988,6 @@
       "lang": "en"
     },
     {
-      "id": "f45a42f067ac74150158f96e6e16e747",
-      "title": "Former Assam Congress chief Bhupen Kumar Borah to join BJP on February 22",
-      "link": "https://www.thehindu.com/news/national/assam/former-assam-congress-chief-bhupen-kumar-borah-to-join-bjp-on-february-22/article70644484.ece",
-      "summary": "The announcement by Chief Minister Himanta Biswa Sarma ends speculation about which way Borah will go",
-      "date": "2026-02-17",
-      "timestamp": "Tue, 17 Feb 2026 22:49:54 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "d4e18a6578f88e603dfc824d6b3f238f",
       "title": "India, France renew defence cooperation for 10 years",
       "link": "https://www.thehindu.com/news/national/india-france-renew-defence-cooperation-for-10-years/article70644242.ece",
@@ -11972,19 +12076,6 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "11fb993e510c28a3fc3f72723d62e75f",
-      "title": "Congress Protest: मनरेगा बचाओ महासंग्राम: कांग्रेस का विधानसभा घेराव, भाजपा सरकार पर बड़ा हमला",
-      "link": "https://www.patrika.com/lucknow-news/congress-gheraoes-up-assembly-over-mgnrega-issue-slams-bjp-government-20358121",
-      "summary": "Congress UP Protest: मनरेगा बचाओ महासंग्राम और भाजपा सरकार के कथित कुशासन के खिलाफ कांग्रेस ने राजधानी लखनऊ में जोरदार शक्ति प्रदर्शन किया। विधानसभा घेराव और प्रदर्शन के लिए कांग्रेस कार्यालय से बड़ी संख्या में नेता और कार्यकर्ता नारेबाजी करते हुए निकले। पार्टी के शीर्ष नेताओं की मौजूदगी ने कार्यक्रम को राजनीतिक रूप से और भी महत्वपूर्ण बना दिया। प्रदर्शन में अविनाश पांडे (राष्ट्रीय महासचिव एवं प्रभारी), अजय राय (प्रदेश अध्यक्ष एवं पूर्व मंत्री), किशोरी लाल शर्मा (सांसद), आराधना मिश्रा मोना (नेता विधानमंडल कांग्रेस), वीरेंद्र चौधरी (विधायक) सहित कई वरिष्ठ नेता और पूर्व विधायक शामिल रहे।",
-      "date": "2026-02-17",
-      "timestamp": "Tue, 17 Feb 2026 22:27:06 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -12852,19 +12943,6 @@
       "summary": "",
       "date": "2026-02-17",
       "timestamp": "Tue, 17 Feb 2026 20:48:42 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "8d04414865fab82672b069558597a038",
-      "title": "IIMK climbs to 65th in FT Global MBA Rankings",
-      "link": "https://www.thehindu.com/news/national/kerala/iimk-climbs-to-65th-in-ft-global-mba-rankings/article70643970.ece",
-      "summary": "",
-      "date": "2026-02-17",
-      "timestamp": "Tue, 17 Feb 2026 20:48:33 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -13795,6 +13873,19 @@
       "lang": "en"
     },
     {
+      "id": "b164fbd17b942760a140d3912319c45c",
+      "title": "No DNA matches on glove found in Nancy Guthrie case, police say",
+      "link": "https://www.bbc.com/news/articles/cj0dqp9pleeo?at_medium=RSS&at_campaign=rss",
+      "summary": "It's been two weeks since the 84 year old's disappearance and authorities say there have not been any arrests",
+      "date": "2026-02-17",
+      "timestamp": "Tue, 17 Feb 2026 19:42:15 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "609f7ca86fb6eee2d769930163e51dd0",
       "title": "India’s capacity to scale next-generation biologics draws focus at BioAsia 2026",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/indias-capacity-to-scale-next-generation-biologics-draws-focus-at-bioasia-2026/article70643357.ece",
@@ -14029,6 +14120,19 @@
       "lang": "en"
     },
     {
+      "id": "b1a57eff7439e2231debb90a4417b32a",
+      "title": "UK police force assessing Stansted Airport private flights over Epstein ties",
+      "link": "https://www.bbc.com/news/articles/c98q4mz831mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Essex Police says it is assessing information in relation to private flights into and out of the airport.",
+      "date": "2026-02-17",
+      "timestamp": "Tue, 17 Feb 2026 19:19:12 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "16305a2143bd51c626927550a17ec67a",
       "title": "Kufos signs pact with NIOT on ocean biology, blue economy",
       "link": "https://www.thehindu.com/news/national/kerala/kufos-signs-pact-with-niot-on-ocean-biology-blue-economy/article70643325.ece",
@@ -14038,6 +14142,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bcd4df15feb561bd566fa54a6c6f2dfd",
+      "title": "Tarique Rahman sworn in as Prime Minister of Bangladesh",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/17/tarique-rahman-sworn-in-as-prime-minister-of-bangladesh?traffic_source=rss",
+      "summary": "Bangladesh is marking a historic new chapter as Tarique Rahman is sworn in as Prime Minister.",
+      "date": "2026-02-17",
+      "timestamp": "Tue, 17 Feb 2026 19:15:58 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -14211,6 +14328,19 @@
       "lang": "en"
     },
     {
+      "id": "5f3520a5af167ef61413a8b369dd5f5c",
+      "title": "US kills 11 people in three strikes on alleged drug-trafficking vessels",
+      "link": "https://www.aljazeera.com/news/2026/2/17/us-kills-11-people-in-three-strikes-on-alleged-drug-trafficking-vessels?traffic_source=rss",
+      "summary": "President Donald Trump's campaign against alleged drug boats has resulted in at least 145 deaths since September.",
+      "date": "2026-02-17",
+      "timestamp": "Tue, 17 Feb 2026 18:59:03 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f65dc77c923cc83d0e77e6d35fa52958",
       "title": "Police arrest seven in three cases, recover property worth ₹26 lakh",
       "link": "https://www.thehindu.com/news/national/karnataka/police-arrest-seven-in-three-cases-recover-property-worth-26-lakh/article70643252.ece",
@@ -14246,6 +14376,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e2e83e4683b435dac2ccbd1c073da71b",
+      "title": "First day of Russia-Ukraine peace talks ends in Geneva",
+      "link": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
+      "summary": "Negotiations will continue on Wednesday, but expectations for a breakthrough on ending the war are low.",
+      "date": "2026-02-17",
+      "timestamp": "Tue, 17 Feb 2026 18:55:48 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -15810,6 +15953,19 @@
       "lang": "en"
     },
     {
+      "id": "11fb993e510c28a3fc3f72723d62e75f",
+      "title": "Congress Protest: मनरेगा बचाओ महासंग्राम: कांग्रेस का विधानसभा घेराव, भाजपा सरकार पर बड़ा हमला",
+      "link": "https://www.patrika.com/lucknow-news/congress-gheraoes-up-assembly-over-mgnrega-issue-slams-bjp-government-20358121",
+      "summary": "Congress UP Protest: मनरेगा बचाओ महासंग्राम और भाजपा सरकार के कथित कुशासन के खिलाफ कांग्रेस ने राजधानी लखनऊ में जोरदार शक्ति प्रदर्शन किया। विधानसभा घेराव और प्रदर्शन के लिए कांग्रेस कार्यालय से बड़ी संख्या में नेता और कार्यकर्ता नारेबाजी करते हुए निकले। पार्टी के शीर्ष नेताओं की मौजूदगी ने कार्यक्रम को राजनीतिक रूप से और भी महत्वपूर्ण बना दिया। प्रदर्शन में अविनाश पांडे (राष्ट्रीय महासचिव एवं प्रभारी), अजय राय (प्रदेश अध्यक्ष एवं पूर्व मंत्री), किशोरी लाल शर्मा (सांसद), आराधना मिश्रा मोना (नेता विधानमंडल कांग्रेस), वीरेंद्र चौधरी (विधायक) सहित कई वरिष्ठ नेता और पूर्व विधायक शामिल रहे।",
+      "date": "2026-02-17",
+      "timestamp": "Tue, 17 Feb 2026 13:03:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "56d497464eeae210fbf1bc4faa84aa51",
       "title": "Kalithimbam tribal hamlet in Erode gets bus service",
       "link": "https://www.thehindu.com/news/cities/Coimbatore/kalithimbam-tribal-hamlet-in-erode-gets-bus-service/article70641965.ece",
@@ -16365,19 +16521,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "e2e83e4683b435dac2ccbd1c073da71b",
-      "title": "Third round of Russia-Ukraine talks starts in Geneva as strikes continue",
-      "link": "https://www.bbc.com/news/articles/cge812y2549o?at_medium=RSS&at_campaign=rss",
-      "summary": "Expectations for a breakthrough are low as negotiators meet at a US-brokered talks to try end the war.",
-      "date": "2026-02-17",
-      "timestamp": "Tue, 17 Feb 2026 11:48:18 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
