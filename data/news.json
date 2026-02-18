@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T19:44:04.293722+00:00",
+  "generated_at": "2026-02-18T20:33:22.064447+00:00",
   "stories": [
     {
       "id": "47967d7f2c4ee67a2a514d266f0bafde",
@@ -1588,6 +1588,19 @@
       "lang": "en"
     },
     {
+      "id": "aa13e4968c0b0a91658c28a19b1e33a2",
+      "title": "Do not give away Diego Garcia, Trump tells UK",
+      "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says \"it will be a blight on our great ally\" if the Chagos Islands are handed over to Mauritius.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 20:07:44 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "5c6bd6801fdf2cb8b03f837b5c5b41ea",
       "title": "IT Minister Sridhar Babu to speak at India AI Impact Summit",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/it-minister-sridhar-babu-to-speak-at-india-ai-impact-summit/article70648102.ece",
@@ -2082,19 +2095,6 @@
       "lang": "en"
     },
     {
-      "id": "aa13e4968c0b0a91658c28a19b1e33a2",
-      "title": "Do not give away Diego Garcia, Trump tells UK",
-      "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says \"it will be a blight on our great ally\" if the islands are handed over to Mauritius.",
-      "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 19:32:24 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "898800d1b569ee3d090739255bf64616",
       "title": "No farmers to be denied scheme benefits over registry: Bihar Minister",
       "link": "https://www.thehindu.com/news/national/bihar/no-farmers-to-be-denied-scheme-benefits-overregistry-bihar-minister/article70647507.ece",
@@ -2137,7 +2137,7 @@
       "id": "ec02d0c4e634ca75d6e8dae6728b3610",
       "title": "Zuckerberg defends Meta in landmark social media addiction trial",
       "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The billionaire Meta chief executive faces is questioned over whether use of Instagram harms children.",
+      "summary": "The billionaire chief executive faces is questioned over whether use of Instagram harms children.",
       "date": "2026-02-18",
       "timestamp": "Wed, 18 Feb 2026 19:27:53 GMT",
       "section": "International",
@@ -35206,6 +35206,97 @@
       "lang": "hi"
     },
     {
+      "id": "51470029719d464ee323cbff9047ae66",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-19",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:00:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "376962937fbde813e431e3dbc30b84a3",
+      "title": "पढ़ें 19 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-19",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:00:46 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5114d634a618672edc8c2e86a1be6d8a",
+      "title": "SSUS students evince interest in exploring innovative start-up ideas",
+      "link": "https://www.thehindu.com/news/national/kerala/ssus-students-evince-interest-in-exploring-innovative-start-up-ideas/article70648174.ece",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 01:56:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6d115933d543e30ea38ef0b094a279b8",
+      "title": "RJD MP Sudhakar urges Bihar CM to end all ties with Gates Foundation following its name surfaces in Epstein files",
+      "link": "https://www.thehindu.com/news/national/bihar/rjd-mp-sudhakar-urges-bihar-cm-to-end-all-ties-with-gates-foundation-following-its-name-surfaces-in-epstein-files/article70647872.ece",
+      "summary": "In a letter sent on February 17 and available in public domain on February 18, Mr. Singh said that the name of Bill Gates, owner of Microsoft and chairman of the Bill Gates & Melinda Gates Foundation, has appeared in the Epstein Files.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 01:48:05 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "55101406674ad6498959dc2c11f6b53b",
+      "title": "176 grams of suspected MDMA seized in major drug bust",
+      "link": "https://www.thehindu.com/news/national/kerala/176-grams-of-suspected-mdma-seized-in-major-drug-bust/article70648195.ece",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 01:47:54 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f3420cff4175baae6a2d7231df45eada",
+      "title": "Foundation stones laid for court complexes",
+      "link": "https://www.thehindu.com/news/national/kerala/foundation-stones-laid-for-court-complexes/article70649125.ece",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 01:47:40 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "42bf7e6ca0a3e64db9820c08cefc7e4c",
+      "title": "Maharashtra: ठाणे में तेज रफ्तार ट्रक ने कई वाहनों को मारी टक्कर; मुंबई में रिश्वत लेते दो पुलिस अफसर गिरफ्तार",
+      "link": "https://www.amarujala.com/india-news/maharashtra-news-updates-hindi-mumbai-bmc-nagpur-pune-education-politics-crime-cm-fadnavis-gadkari-2026-02-19",
+      "summary": "Maharashtra: ठाणे में तेज रफ्तार ट्रक ने कई वाहनों को मारी टक्कर; मुंबई में रिश्वत लेते दो पुलिस अफसर गिरफ्तार",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 01:30:08 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "8830aacaef608489d0f976210ebc9d20",
       "title": "What the scrapping of reservation means for Muslims in Maharashtra",
       "link": "https://www.thehindu.com/news/national/maharashtra/what-the-scrapping-of-reservation-means-for-muslims-in-maharashtra/article70648652.ece",
@@ -35310,32 +35401,6 @@
       "lang": "en"
     },
     {
-      "id": "51470029719d464ee323cbff9047ae66",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-19",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 01:01:34 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "376962937fbde813e431e3dbc30b84a3",
-      "title": "पढ़ें 19 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-19",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 01:01:25 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "7fec74afb5db4ad5f1ac6f4344f98908",
       "title": "T.N. Minister distributes project completion certificates to students",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/minister-distributes-project-completion-certificates-to-students-of-north-chennai-government-schools/article70647456.ece",
@@ -35396,19 +35461,6 @@
       "timestamp": "Thu, 19 Feb 2026 00:56:25 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "55101406674ad6498959dc2c11f6b53b",
-      "title": "176 grams of suspected MDMA seized in major drug bust",
-      "link": "https://www.thehindu.com/news/national/kerala/176-grams-of-suspected-mdma-seized-in-major-drug-bust/article70648195.ece",
-      "summary": "",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 00:54:17 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -89178,6 +89230,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fc9a72839f877a359f8733c607434547",
+      "title": "India guided by ethos of ‘Vasudhaiv Kutumbakam’: President Murmu at International Fleet Review",
+      "link": "https://timesofindia.indiatimes.com/india/india-guided-by-ethos-of-vasudhaiv-kutumbakam-president-murmu-at-international-fleet-review/articleshow/128523985.cms",
+      "summary": "President Murmu lauded the International Fleet Review 2026, emphasizing friendship and collective security among 74 participating nations. The grand maritime spectacle showcased India's naval prowess and commitment to global stability. Over 85 ships, including 19 foreign warships, and numerous aircraft demonstrated multi-domain capabilities, reinforcing India's role as a first responder and partner in maritime cooperation.",
+      "date": "2026-02-18",
+      "timestamp": "2026-02-19T01:02:01+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
