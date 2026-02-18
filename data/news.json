@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-18T21:30:37.424437+00:00",
+  "generated_at": "2026-02-18T22:27:44.480159+00:00",
   "stories": [
     {
       "id": "47967d7f2c4ee67a2a514d266f0bafde",
@@ -535,6 +535,19 @@
       "lang": "en"
     },
     {
+      "id": "aa13e4968c0b0a91658c28a19b1e33a2",
+      "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
+      "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president's comments come just a day after the US gave its official backing to the UK's Chagos deal.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:08:13 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6bb1ada88032f32760da190d02ad20df",
       "title": "Ernakulam District Panchayat Budget to give thrust to welfare measures",
       "link": "https://www.thehindu.com/news/national/kerala/ernakulam-district-panchayat-budget-to-give-thrust-to-welfare-measures/article70648131.ece",
@@ -570,6 +583,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "88dd280bb886467ba7868ed3ddbb3e52",
+      "title": "Russia’s Putin meets Cuban FM, says US restrictions ‘unacceptable’",
+      "link": "https://www.aljazeera.com/news/2026/2/18/russias-putin-meets-cuban-fm-says-us-restrictions-unacceptable?traffic_source=rss",
+      "summary": "Meeting comes as White House says it wants to see 'dramatic changes very soon' in Cuba, calls government 'failing'.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:04:08 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -639,6 +665,19 @@
       "lang": "en"
     },
     {
+      "id": "47c4f0e10a4a9812797d845398936fb4",
+      "title": "Eight skiers found dead after California avalanche",
+      "link": "https://www.bbc.com/news/articles/cvg19dp4vxgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fifteen skiers went missing on Tuesday following a massive avalanche in California's Lake Tahoe region. One person remains missing but is presumed dead.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 21:54:30 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1228593012563b0b72c4ae6f770b709d",
       "title": "वाराणसी का इंस्पेक्टर प्रयागराज में गिरफ्तार, फाइनल रिपोर्ट के बदले मांगे थे युवक से 75 हजार रुपये",
       "link": "https://www.livehindustan.com/uttar-pradesh/varanasi-inspector-arrested-in-prayagraj-for-demanding-75000-from-youth-in-exchange-for-the-final-report-201771431449709.html",
@@ -674,6 +713,32 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "be9659edbff8aef663e18366a9602273",
+      "title": "Israeli army says Ramadan Kareem while oppressing Palestinians",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/18/israeli-army-says-ramadan-kareem-while-oppressing-palestinians?traffic_source=rss",
+      "summary": "As Palestinians welcome Ramadan, Israel is restricting the entry at Al-Aqsa Mosque to 10,000 worshippers.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 21:48:52 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9d8dc8a8c482b158bce2251d26efb6e4",
+      "title": "Trump says UK’s Starmer making ‘a big mistake’ with Chagos Islands deal",
+      "link": "https://www.aljazeera.com/news/2026/2/18/trump-says-uks-starmer-big-mistake-diego-garcia-lease?traffic_source=rss",
+      "summary": "The US president warned the military base on Diego Garcia may be needed to respond to possible attack from Iran.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 21:40:53 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -1134,7 +1199,7 @@
     },
     {
       "id": "e2f15d6f8a84f455984ea337218b0ee6",
-      "title": "Billionaire Lex Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
+      "title": "Billionaire Les Wexner tells US lawmakers he was 'naive' and 'conned' by Epstein",
       "link": "https://www.bbc.com/news/articles/cy57rrrpvg7o?at_medium=RSS&at_campaign=rss",
       "summary": "Testifying before Congress, the former CEO of Victoria's Secret lingerie brand accused Epstein of stealing \"vast sums\" of money from his family.",
       "date": "2026-02-18",
@@ -1168,19 +1233,6 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "aa13e4968c0b0a91658c28a19b1e33a2",
-      "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
-      "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president's comments come just a day after the US gave its official backing to the UK's Chagos deal.",
-      "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 20:57:22 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -2876,9 +2928,9 @@
     },
     {
       "id": "aa81a1c1a9c619583be647ee8b42c68b",
-      "title": "LIVE: Bodo/Glimt vs Inter Milan – Champions League playoff",
+      "title": "Bodo/Glimt beat Inter Milan 3-1: Champions League playoff",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/2/18/live-bodo-glimt-vs-inter-milan-champions-league?traffic_source=rss",
-      "summary": "Follow the build-up, analysis and live text commentary of the game as the Norwegian minnows take on the Italian giants.",
+      "summary": "All the updates as the Norwegian side claim another major upset with a 3-1 first-leg win over the Italian giants.",
       "date": "2026-02-18",
       "timestamp": "Wed, 18 Feb 2026 18:00:00 +0000",
       "section": "International",
@@ -35271,6 +35323,71 @@
       "lang": "hi"
     },
     {
+      "id": "690fd333f76ea413614817b5ba9b9267",
+      "title": "CM Yogi-Mohan Bhagwat Meeting: CM योगी और मोहन भागवत की मुलाकात क्या संकेत दे गई?",
+      "link": "https://www.amarujala.com/video/india-news/cm-yogi-mohan-bhagwat-meeting-what-did-the-meeting-between-cm-yogi-and-rss-chief-mohan-bhagwat-indicate-2026-02-19",
+      "summary": "प्रदेश में मंत्रिमंडल विस्तार और संगठन में संभावित फेरबदल की चर्चाओं के बीच मुख्यमंत्री योगी आदित्यनाथ की राष्ट्रीय स्वयंसेवक संघ के सरकार्यवाह मोहन भागवत से मुलाकात ने सियासी पारे को चढ़ा दिया है।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 03:38:33 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "51470029719d464ee323cbff9047ae66",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-19",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 03:30:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "376962937fbde813e431e3dbc30b84a3",
+      "title": "पढ़ें 19 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-19",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 03:30:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "0e9a4f032ef5e119836ebd5d8e269a13",
+      "title": "PM Modi extends Ramzan greetings",
+      "link": "https://www.thehindu.com/news/national/pm-modi-extends-ramzan-greetings/article70649250.ece",
+      "summary": "Muslim holy month of Ramzan begins on February 19",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 03:08:43 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "60dfe99a0cbda580b2be6c40e634ff29",
+      "title": "NGT Orders joint probe into quarry impact on Tata Cancer Hospital due to illegal mining",
+      "link": "https://www.thehindu.com/news/national/maharashtra/ngt-orders-joint-probe-into-quarry-impact-on-tata-cancer-hospital-due-to-illegal-mining/article70648088.ece",
+      "summary": "The bench comprising Justice Dinesh Kumar Singh and Expert Member Dr. Sujit Kumar Bajpayee directed to conduct the survey and ascertain the scale of excavation and possible damage to the premier cancer treatment and research facility",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:57:12 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "61dbeae96ac769860598c93d134b331a",
       "title": "Lucknow News: स्वतंत्रता सेनानी रफी किदवई को किया याद",
       "link": "https://www.amarujala.com/lucknow/freedom-fighter-rafi-kidwai-remembered-lucknow-news-c-13-knp1002-1612671-2026-02-19",
@@ -35984,32 +36101,6 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
-    },
-    {
-      "id": "51470029719d464ee323cbff9047ae66",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-19",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 02:30:27 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "376962937fbde813e431e3dbc30b84a3",
-      "title": "पढ़ें 19 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-19",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 02:30:18 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "b00bb1979b1c8fc25d3286bb61d4afe9",
@@ -90426,6 +90517,58 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "84e392be0c91af8767e17fa7452da023",
+      "title": "3 more cheetah cubs born in Kuno",
+      "link": "https://timesofindia.indiatimes.com/india/3-more-cheetah-cubs-born-in-kuno/articleshow/128527716.cms",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "2026-02-19T03:40:42+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "730fe97da57ca61db451b5933a6a319b",
+      "title": "Pahalgam attack fallout: CRPF sets up 43 temporary bases in J&K",
+      "link": "https://timesofindia.indiatimes.com/india/pahalgam-attack-fallout-crpf-sets-up-43-temporary-operating-bases-in-jk-attack/articleshow/128527358.cms",
+      "summary": "Following the Pahalgam terror attack, CRPF established 43 temporary operating bases in Jammu and Kashmir, situated at 6,000 feet and above. These bases, housing 16-25 personnel, are crucial for tracking and eliminating terrorists in higher reaches, utilizing specialized equipment for prolonged operations.",
+      "date": "2026-02-18",
+      "timestamp": "2026-02-19T03:29:25+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f0cf3db4f69c8c53e4be8ea36adf014c",
+      "title": "Upset over her remarriage, Hyderabad man murders ex-wife",
+      "link": "https://timesofindia.indiatimes.com/india/upset-over-her-remarriage-hyderabad-man-murders-ex-wife/articleshow/128526815.cms",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "2026-02-19T03:14:08+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "77011117abfb7737cd55860d99e65f05",
+      "title": "Granthi levels graft charges against SGPC leadership",
+      "link": "https://timesofindia.indiatimes.com/india/granthi-levels-graft-charges-against-sgpc-leadership/articleshow/128526413.cms",
+      "summary": "Former Akal Takht jathedar Giani Raghbir Singh accused the Badal family of patronizing corruption within the Shiromani Gurdwara Parbandhak Committee (SGPC). He alleged land is being sold by unscrupulous elements and urged a Sarbat Khalsa to free the SGPC. Singh also claimed he refused to issue a false statement under pressure.",
+      "date": "2026-02-18",
+      "timestamp": "2026-02-19T02:55:11+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
