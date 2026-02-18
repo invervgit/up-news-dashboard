@@ -1,6 +1,240 @@
 {
-  "generated_at": "2026-02-18T16:57:35.376720+00:00",
+  "generated_at": "2026-02-18T17:52:04.807246+00:00",
   "stories": [
+    {
+      "id": "0cd656b0df642ce82947ff90920f9ca3",
+      "title": "Two killed, three injured in road accident on NH-44 near Shadnagar",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/two-killed-three-injured-in-road-accident-on-nh-44-near-shadnagar/article70648499.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 23:15:51 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d20007858c0a64e9bbdc59bde5b4f738",
+      "title": "Police, CRPF raze 44 Maoist-built monuments in Gadchiroli",
+      "link": "https://www.thehindu.com/news/national/maharashtra/police-crpf-raze-maoist-built-monuments-in-gadchiroli/article70648787.ece",
+      "summary": "The operation underscores the changing security landscape in Gadchiroli, where the administration is focusing on development and security after years of insurgency",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 23:13:58 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "495952557d24b35eb278ea42dc6c017a",
+      "title": "साथ जीने मरने की खाई कसम, दलित प्रेमिका ने प्रेमी के साथ पिया जहर, फिर...",
+      "link": "https://www.livehindustan.com/uttar-pradesh/dalit-girlfriend-took-a-vow-to-live-and-die-together-drank-poison-with-her-lover-201771435134468.html",
+      "summary": "यूपी के पीलीभीत में साथ जीने मरने की कसम खाने के बाद दलित प्रेमिका ने प्रेमी के साथ जहर पी लिया। हालत बिगड़ने पर परिजनों को जानकारी लगी। किशोरी और बालिग प्रेमी को इलाज के लिए सीएचसी में भर्ती कराया गया।",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 23:13:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "4fc9913b4ce00b0034046fb9e62af0f5",
+      "title": "BioAsia surpassed expectations: Sridhar Babu",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/bioasia-surpassed-expectations-sridhar-babu/article70648080.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 23:08:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4604cb235e6230c4a714633abab5cfde",
+      "title": "Global Alumni Meet 2026 to be held at PDA Engineering College from February 21",
+      "link": "https://www.thehindu.com/news/national/karnataka/global-alumni-meet-2026-to-be-held-at-pda-engineering-college-from-february-21/article70648307.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 23:05:43 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5cab431d1c0d86020ac2fed60716696a",
+      "title": "Opposition boycotts Kalaburagi City Corporation meeting",
+      "link": "https://www.thehindu.com/news/national/karnataka/opposition-boycotts-kalaburagi-city-corporation-meeting/article70648526.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 23:03:47 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7129291c300956912204585f962dbfe5",
+      "title": "Kerala government moves Supreme Court after High Court stalls public survey",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-government-moves-supreme-court-after-high-court-stalls-public-survey/article70648867.ece",
+      "summary": "Kerala says High Court intruded into matters of public policy by putting on hold government’s ‘Nava Keralam Citizen Response Programme’",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 23:03:24 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "70dafff7273ac5882192a1b200628e9a",
+      "title": "Court order violated at Aland shrine site, alleges Siddalinga Swami",
+      "link": "https://www.thehindu.com/news/national/karnataka/court-order-violated-at-aland-shrine-site-alleges-siddalinga-swami/article70648707.ece",
+      "summary": "The seer claims that trees and vegetation surrounding the Raghav Chaitanya Shivalinga on the Ladle Mashak Dargah’s premises had been cleared and a platform-like structure had been constructed at the spot recently.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:58:29 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b0507d3c3f8ef44f85fde7653516974d",
+      "title": "बुर्का पहनकर किया था जलाभिषेक, अब तमन्ना और उसके पति अमन त्यागी को मिली जान से मारने की धमकी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/tamannaah-who-performed-jalabhishek-wearing-burqa-and-her-husband-aman-tyagi-received-death-threats-201771434755636.html",
+      "summary": "बुर्का पहनकर कांवड़ लानेजलाभिषेक कर चर्चा में आई तमन्ना और उसके पति को अब जान से मारने की धमकी मिली है। सोशल मीडिया पर वायरल होने के बाद मिल रही धमकियों से डरी पीड़िता ने थाने पहुंचकर तहरीर दी है।",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:52:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "db50f8e2a898b2cec44282491a912609",
+      "title": "Amid global uncertainty, assertive Sanae Takaichi has the mandate to pursue structural reforms: Sanjaya Baru",
+      "link": "https://www.thehindu.com/news/international/amid-global-uncertainty-assertive-sanae-takaichi-has-the-mandate-to-pursue-structural-reforms-sanjaya-baru/article70647925.ece",
+      "summary": "Japanese PM Sanae Takaichi belongs to the Abe lineage and represents continuity with his twin emphasis on restoring Japan’s economic competitiveness and enhancing its strategic relevance, says public policy analyst Sanjaya Baru",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:50:04 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "94b36b066b279c6512d0518cac323cc6",
+      "title": "India stays out of joint statement criticising Israel’s West Bank plans",
+      "link": "https://www.thehindu.com/news/national/india-stays-out-of-joint-statement-criticising-israels-west-bank-plans/article70648900.ece",
+      "summary": "India’s decision not to sign the statement or join the U.S.-led Board of Peace seen as linked to Modi’s upcoming visit to Israel",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:49:49 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "461ef5418baf665d858b88d5e1a9ea32",
+      "title": "Intense U.S. naval, air power buildup sets stage for potential Iran war",
+      "link": "https://www.thehindu.com/news/international/intense-us-naval-air-power-buildup-sets-stage-for-potential-iran-war/article70648980.ece",
+      "summary": "Washington currently has 13 warships in the West Asia: one aircraft carrier — the USS Abraham Lincoln — nine destroyers and three littoral combat ships, with more on the way, according to a U..S official",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:40:56 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "69d0f6ec2c40399e4dc43ef8ca74584e",
+      "title": "Centre to bring 1,954 border villages under development scheme",
+      "link": "https://www.thehindu.com/news/national/centre-to-bring-border-villages-under-development-scheme/article70648203.ece",
+      "summary": "Vibrant Village Programme, originally aimed at areas along China border, will now be launched in villages along Pakistan, Nepal, Bangladesh, Bhutan, and Myanmar also",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:36:13 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "66d60c847c2742e79cb327114550b5f4",
+      "title": "Kerala HC expresses shock at alleged misappropriation of funds at ghee sale counter in Sabarimala",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-expresses-shock-at-alleged-misappropriation-of-funds-at-ghee-sale-counter-in-sabarimala/article70648877.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:35:54 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3713281cc0beb8af753a45e4fed41031",
+      "title": "Three killed in separate accidents in Bengaluru",
+      "link": "https://www.thehindu.com/news/national/karnataka/three-killed-in-separate-accidents-in-bengaluru/article70647234.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:32:21 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5f644506df60769aa399f316ffb54c6f",
+      "title": "U.S. energy chief says IEA must 'drop' focus on climate change",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/us-energy-chief-says-iea-must-drop-focus-on-climate-change/article70648983.ece",
+      "summary": "Chris Wright threatened last year to pull the United States out of the IEA — which was founded to coordinate responses to major disruptions of supplies after the 1973 oil crisis — unless it reformed the way it operates.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:31:15 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "aa41e3954f30fe1142ea9150b3109485",
+      "title": "भागवत-योगी की आधे घंटे से अधिक समय तक चली मुलाकात, किन मसलों पर हुई बात?",
+      "link": "https://www.livehindustan.com/uttar-pradesh/rss-chief-mohan-bhagwat-cm-yogi-meeting-what-was-discussed-201771433273437.html",
+      "summary": "यूपी की राजधानी लखनऊ में आरआरएस प्रमुख मोहन भागवत और सीएम योगी आदित्यनाथ की मुलाकात हुई। यह मुलाकात आधे घंटे से अधिक समय तक चली। इस दौरान क्या बातचीत हुई? आइए जानते हैं।",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:29:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "29de1cb7b197d5a6d6e2c0f82ea20ea8",
+      "title": "Three held for kidnapping spa owner for ₹2 lakh ransom; victim rescued",
+      "link": "https://www.thehindu.com/news/national/karnataka/three-held-for-kidnapping-spa-owner-for-2-lakh-ransom-victim-rescued/article70647811.ece",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 22:27:07 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
     {
       "id": "4771839cf999d67df0931d154f9a9bd5",
       "title": "100 students undergo hearing examinations in Ongole",
@@ -626,19 +860,6 @@
       "lang": "en"
     },
     {
-      "id": "5cab431d1c0d86020ac2fed60716696a",
-      "title": "Opposition boycotts Kalaburagi City Corporation meeting",
-      "link": "https://www.thehindu.com/news/national/karnataka/opposition-boycotts-kalaburagi-city-corporation-meeting/article70648526.ece",
-      "summary": "",
-      "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 21:08:01 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "03dd4347d2ce4e40219d654385ef3e2c",
       "title": "Urumi swish draws crowd to 11th Ponnyathankam",
       "link": "https://www.thehindu.com/news/national/kerala/urumi-swish-draws-crowd-to-11thponnyathankam/article70644537.ece",
@@ -1094,19 +1315,6 @@
       "lang": "en"
     },
     {
-      "id": "4fc9913b4ce00b0034046fb9e62af0f5",
-      "title": "BioAsia surpassed expectations: Sridhar Babu",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/bioasia-surpassed-expectations-sridhar-babu/article70648080.ece",
-      "summary": "",
-      "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 20:26:25 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "979a14b20ab1a30ee1da5527c599a259",
       "title": "यूपी सरकार का कौशल कॉल सेंटर शुरू, स्किल ट्रेनिंग से रोजगार तक बताएगी 30 लोगों की टीम",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-government-launches-kaushal-call-centre-30-people-will-provide-information-on-everything-201771425966925.html",
@@ -1167,19 +1375,6 @@
       "timestamp": "Wed, 18 Feb 2026 20:19:53 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "4604cb235e6230c4a714633abab5cfde",
-      "title": "Global Alumni Meet 2026 to be held at PDA Engineering College from February 21",
-      "link": "https://www.thehindu.com/news/national/karnataka/global-alumni-meet-2026-to-be-held-at-pda-engineering-college-from-february-21/article70648307.ece",
-      "summary": "",
-      "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 20:18:02 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -2550,6 +2745,32 @@
       "lang": "en"
     },
     {
+      "id": "77fce6efb0f32b7e93b6938e54f7d28c",
+      "title": "Suspected carbon-monoxide leak kills 37 miners in Nigeria",
+      "link": "https://www.bbc.com/news/articles/cwyk6nr80kxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The tragedy is believed to have happened just before sunrise as the workers neared the end of their shift.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 17:29:23 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6a3f331fad276d6811fbc4b8f2705ef8",
+      "title": "Wave of arrests over killing of French nationalist piles pressure on far left",
+      "link": "https://www.bbc.com/news/articles/c62dzgy0q37o?at_medium=RSS&at_campaign=rss",
+      "summary": "Eleven people are in detention in connection with the killing of far-right student activist Quentin Deranque.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 17:26:04 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "bd36fab42fadf62ab36a50b3d0818c2c",
       "title": "Maharashtra Congress chief Harshwardhan Sapkal apologises to followers of Chhatrapati Shivaji",
       "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-congress-chief-harshwardhan-sapkal-apologises-to-followers-of-chhatrapati-shivaji/article70646331.ece",
@@ -2602,6 +2823,19 @@
       "lang": "en"
     },
     {
+      "id": "b38c862657adf2b839a6454c0e129995",
+      "title": "Air Force One set for makeover paint job with new colours",
+      "link": "https://www.bbc.com/news/articles/cpd8zx4qdz6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The presidential jet, along with other aircraft used for high-level officials, is being painted with some of Trump's preferred palette.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 17:17:56 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0b676395280ea5c3ccab26904cfe3613",
       "title": "Paris prosecutors open two Epstein-linked probes and call on victims to come forward",
       "link": "https://www.thehindu.com/news/international/paris-prosecutors-open-two-epstein-linked-probes-and-call-on-victims-to-come-forward/article70647277.ece",
@@ -2611,6 +2845,32 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ec02d0c4e634ca75d6e8dae6728b3610",
+      "title": "Zuckerberg arrives to testify in social media addiction trial",
+      "link": "https://www.bbc.com/news/articles/c5y42znjnjvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The billionaire Meta chief executive faces questioning over whether use of Instagram harms children.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 17:11:52 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6d2332e51239300198a0503da84d58e2",
+      "title": "Still Together | Ep 2 – New York",
+      "link": "https://www.aljazeera.com/video/making-peace/2026/2/18/still-together-ep-2-new-york?traffic_source=rss",
+      "summary": "Amid a global polycrisis, new arrivals in New York face a fractured city where sanctuary feels ever more out of reach.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 17:00:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -3067,19 +3327,6 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "6a3f331fad276d6811fbc4b8f2705ef8",
-      "title": "Wave of arrests over killing of French nationalist piles pressure on far left",
-      "link": "https://www.bbc.com/news/articles/c62dzgy0q37o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eleven people are in detention in connection with the killing of far-right student activist Quentin Deranque.",
-      "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 15:03:41 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -4487,6 +4734,19 @@
       "lang": "en"
     },
     {
+      "id": "744e885803f653f993723b9f87bbdbb1",
+      "title": "बारामती विमान हादसा: जय पवार बोले- आसानी से नष्ट नहीं होते ब्लैक बॉक्स, जनता को पूरी सच्चाई जानने का अधिकार",
+      "link": "https://www.amarujala.com/india-news/baramati-plane-crash-jai-pawar-says-black-boxes-are-not-easily-destroyed-public-right-to-know-the-full-truth-2026-02-18",
+      "summary": "बारामती विमान हादसा: जय पवार बोले- आसानी से नष्ट नहीं होते ब्लैक बॉक्स, जनता को पूरी सच्चाई जानने का अधिकार, Baramati plane crash Jai Pawar says black boxes are not easily destroyed public right to know the full truth",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 11:18:48 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "b1e80f76ae5c220c57f42c7c5f4dcf68",
       "title": "Reverend Jesse Jackson, who led the Civil Rights Movement for decades after King, has died at 84",
       "link": "https://www.thehindu.com/news/international/jesse-jackson-civil-rights-movement-martin-luther-king-jr-dead/article70643193.ece",
@@ -4617,6 +4877,32 @@
       "lang": "en"
     },
     {
+      "id": "24c9ba86df0fe835b96fd1f2f011a232",
+      "title": "Ayodhya News: महिला की मौत के बाद आरएस हॉस्पिटल सील",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/rs-hospital-sealed-after-womans-death-ayodhya-news-c-97-1-ayo1044-143494-2026-02-18",
+      "summary": "महिला की मौत के बाद आरएस हॉस्पिटल सील",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 11:06:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "726aafe748775f635b6e89960742ec43",
+      "title": "Ayodhya News: टीईटी से छूट न मिली तो दिल्ली कूच करेंगे शिक्षक",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/if-there-is-no-exemption-from-tet-teachers-will-march-to-delhi-ayodhya-news-c-97-1-ayo1044-143468-2026-02-18",
+      "summary": "टीईटी से छूट न मिली तो दिल्ली कूच करेंगे शिक्षक",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 11:06:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "bff2b6f2e21c7f467936dfdf27fecc29",
       "title": "Social media suspended in Gabon for 'spreading of false information'",
       "link": "https://www.bbc.com/news/articles/cx2rg2vndk1o?at_medium=RSS&at_campaign=rss",
@@ -4627,6 +4913,19 @@
       "report_category": "International",
       "source": "BBC World",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d12a6fd1a8492216d09b8e34782b724e",
+      "title": "Noida News: खाने की खराब गुणवत्ता के विरोध में छात्र ने किया प्रदर्शन",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/students-stage-protest-against-poor-quality-of-food-grnoida-news-c-23-1-lko1064-88130-2026-02-18",
+      "summary": "Students stage protest against poor quality of food",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 11:04:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -4643,6 +4942,19 @@
       "lang": "en"
     },
     {
+      "id": "52b8519561396a17085dc8007db102b1",
+      "title": "Ayodhya News: ट्रैक्टर की चपेट में आकर बाइक सवार युवक की मौत",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/bike-rider-dies-after-being-hit-by-a-tractor-ayodhya-news-c-97-1-ayo1005-143499-2026-02-18",
+      "summary": "ट्रैक्टर की चपेट में आकर बाइक सवार युवक की मौत",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 11:03:51 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "f4dac2fd46644a1ba709f85cd4bf6f8f",
       "title": "Russian, Belarusian athletes to compete under own flag at Paralympics 2026",
       "link": "https://www.aljazeera.com/sports/2026/2/18/russian-belarusian-athletes-to-compete-under-own-flag-at-paralympics-2026?traffic_source=rss",
@@ -4653,6 +4965,32 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "76796b49d3d7eb4e048ffdce3685564f",
+      "title": "ग्रेटर नोएडा: हॉस्टल में खराब खाने को लेकर छात्रों का उग्र विरोध, सड़क जाम कर नारेबाजी",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-students-protest-fiercely-in-greater-noida-hostel-over-bad-food-2026-02-18",
+      "summary": "ग्रेटर नोएडा: हॉस्टल में खराब खाने को लेकर छात्रों का उग्र विरोध, सड़क जाम कर नारेबाजी",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 11:03:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "b2c64e748ed64742f149fceb127811f1",
+      "title": "ग्रेटर नोएडा: प्राधिकरण ने खाली कराई 60 करोड़ की जमीन, भनौता गांव में हटाया अतिक्रमण",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-greater-noida-authority-vacates-land-worth-rs-60-crore-2026-02-18",
+      "summary": "ग्रेटर नोएडा: प्राधिकरण ने खाली कराई 60 करोड़ की जमीन, भनौता गांव में हटाया अतिक्रमण",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 11:03:01 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -4679,6 +5017,19 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4d402da408315f8a4d9cdef9d3bca899",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 18 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-18",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 11:01:19 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -4719,6 +5070,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "69de75209df6c1f85e21d716e6c1677e",
+      "title": "Meerut: सेंट्रल मार्केट के व्यापारियों को राहत, बदलेगा लैंड यूज, अतुल प्रधान के सवाल पर विस में मिला आश्वासन",
+      "link": "https://www.amarujala.com/uttar-pradesh/meerut/meerut-relief-to-traders-of-central-market-land-use-will-change-2026-02-18",
+      "summary": "मेरठ के सरधना से सपा विधायक अतुल प्रधान ने शास्त्रीनगर सेंट्रल मार्केट के व्यापारियों की आवाज पुरजोर तरीके से बुधवार को विधानसभा में उठाई। उन्होंने कहा कि ध्वस्तीरण हुआ तो एक लाख लोग प्रभावित होंगे।",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 10:56:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
     },
     {
       "id": "e1040560ea27dee3095d63c2ab4f8e20",
@@ -4786,6 +5150,19 @@
       "lang": "hi"
     },
     {
+      "id": "ef9e2687f6574136425ffb5cca86bca6",
+      "title": "घोर लापरवाही : 1300 छात्रों की जान जोखिम में डालकर पढ़ा रहे कोचिंग",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/gross-negligence-coaching-putting-the-lives-of-1300-students-at-risk-grnoida-news-c-23-1-lko1064-88117-2026-02-18",
+      "summary": "Gross negligence: Coaching putting the lives of 1300 students at risk",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 10:52:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "c8e7da632f4e39e137c5c598c265f5d8",
       "title": "ताज महोत्सव के दौरान काशी-हरिद्वार की तर्ज पर यमुना महाआरती, जानें आयोजन का समय",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-agra-taj-mahotsav-yamuna-maha-aarti-as-per-kashi-haridwar-check-timings-201771391555520.html",
@@ -4799,6 +5176,19 @@
       "lang": "en"
     },
     {
+      "id": "3bc5db4cf26cc6a8ea68101b70fcf5ae",
+      "title": "Noida News: ट्रक में ट्रैक्टर में मारी टक्कर, अलीगढ़ के चालक की मौत",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/truck-collides-with-tractor-aligarh-driver-dies-grnoida-news-c-1-1-noi1082-3968042-2026-02-18",
+      "summary": "Truck collides with tractor, Aligarh driver dies",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 10:49:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "eb70468c1cf1f5a48de8ba144bcd8cc9",
       "title": "YouTube outage affects thousands of users worldwide",
       "link": "https://www.thehindu.com/sci-tech/technology/youtubedown-for-more-than-two-lakh-users-in-the-us/article70645789.ece",
@@ -4809,6 +5199,19 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e2cc627efaac10e2bc43a5b288f3f696",
+      "title": "SIR: यूपी में दूसरे व्यक्ति की शिकायत पर कटे हैं मात्र 4336 वोट, फॉर्म-6 में जन्मतिथि के लिए आधार मान्य",
+      "link": "https://www.amarujala.com/lucknow/sir-in-up-notice-hearings-to-be-expedited-3-700-aeros-added-only-26-of-cases-have-been-heard-so-far-2026-02-18",
+      "summary": "रिणवा ने बताया कि फॉर्म-6 में जन्मतिथि के प्रमाण के लिए आधार कार्ड भी मान्य होगा। साथ ही कहा कि सपा ने मैनपुरी में नोटिस की सुनवाई का स्थान उनके बूथ से काफी दूर होने की बात सही है।",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 10:48:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -4940,6 +5343,19 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "a7e913f33445a243a1ccffcd82f868f7",
+      "title": "Raj Thackeray Meets Eknath Shinde: राज ठाकरे ने एकनाथ शिंदे से की मुलाकात, काफी देर तक चली बातचीत",
+      "link": "https://www.amarujala.com/video/india-news/raj-thackeray-meets-eknath-shinde-raj-thackeray-met-eknath-shinde-2026-02-18",
+      "summary": "Raj Thackeray Meets Eknath Shinde: राज ठाकरे ने महाराष्ट्र के उपमुख्यमंत्री एकनाथ शिंदे से उनके आधिकारिक निवास नंदनवन में मुलाकात की। यह बृहन्मुंबई महानगरपालिका चुनावों के बाद दोनों नेताओं की पहली आमने-सामने बातचीत थी।",
+      "date": "2026-02-18",
+      "timestamp": "Wed, 18 Feb 2026 10:30:59 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "7c5cf2643a69b55df014f22fea229f26",
@@ -5255,7 +5671,7 @@
     },
     {
       "id": "f24c6554f8249b8e6f53e74fbea8bae9",
-      "title": "UP: अखिलेश यादव बोले- संविधान को खत्म करना चाहती है भाजपा, नौजवानों में फूट डाल रही",
+      "title": "UP: अखिलेश बोले- संविधान को खत्म करना चाहती है भाजपा; पीडीए के वोट काटने के मुद्दे पर सपा पहुंची चुनाव आयोग",
       "link": "https://www.amarujala.com/lucknow/up-akhilesh-yadav-said-bjp-wants-to-abolish-the-constitution-is-creating-division-among-the-youth-2026-02-18",
       "summary": "सपा अध्यक्ष अखिलेश यादव ने भाजपा पर संविधान और लोकतंत्र को खत्म करने का आरोप लगाया। उन्होंने कहा कि भाजपा नौजवानों में फूट डाल रही है और पीडीए को बदनाम कर रही है। गोरखपुर के स्वास्थ्य मुद्दे पर सरकार को घेरा।",
       "date": "2026-02-18",
@@ -5395,19 +5811,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "4d402da408315f8a4d9cdef9d3bca899",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 18 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-18",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 10:01:02 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
     },
     {
       "id": "bbac8a71dc3b148f3307602e59a874f2",
@@ -5723,7 +6126,7 @@
     },
     {
       "id": "5fd22b1fdbdffba1d2612ef415326469",
-      "title": "UP Board Exam: 3.13 लाख ने छोड़ी, पांच परीक्षार्थी दूसरे के स्थान पर दे रहे थे परीक्षा, तीन नकलची पकड़े",
+      "title": "UP Board Exam: 3.13 लाख ने छोड़ी परीक्षा, पांच परीक्षार्थी दूसरे के स्थान पर दे रहे थे एग्जाम, तीन नकलची पकड़े",
       "link": "https://www.amarujala.com/lucknow/up-board-3-13-lakh-students-skipped-the-exam-five-students-were-taking-the-exam-in-place-of-others-three-ch-2026-02-18",
       "summary": "यूपी बोर्ड की परीक्षा 8033 केंद्रों पर कड़ी सुरक्षा में हुई। पहले दिन 3,13,708 परीक्षार्थी अनुपस्थित रहे। पांच परीक्षार्थी दूसरे के स्थान पर और तीन नकल के मामले सामने आए।",
       "date": "2026-02-18",
@@ -6126,7 +6529,7 @@
     },
     {
       "id": "c8463adde22f88c01926a898b1f91fbb",
-      "title": "'भारत कब लौटूंगा, कह नहीं सकता': भगोड़े विजय माल्या ने बॉम्बे हाईकोर्ट से कहा, न आने की बताई यह वजह",
+      "title": "'भारत कब लौटूंगा, कह नहीं सकता': भगोड़े विजय माल्या ने बॉम्बे हाईकोर्ट के सामने रखी ये दलील; न आने की बताई वजह",
       "link": "https://www.amarujala.com/india-news/vijay-mallya-tells-bombay-hc-can-t-say-when-i-ll-return-to-india-legally-barred-from-leaving-uk-2026-02-18",
       "summary": "'भारत कब लौटूंगा, कह नहीं सकता': भगोड़े विजय माल्या ने बॉम्बे हाईकोर्ट से कहा, न आने की बताई यह वजह",
       "date": "2026-02-18",
@@ -8502,19 +8905,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "e2cc627efaac10e2bc43a5b288f3f696",
-      "title": "एसआईआर: मुख्य निर्वाचन अधिकारी नवदीप रिणवा बोले- हम तेजी से काम कर रहे, एक करोड़ 15 लाख सुनवाई पूरी हो चुकी",
-      "link": "https://www.amarujala.com/lucknow/sir-in-up-notice-hearings-to-be-expedited-3-700-aeros-added-only-26-of-cases-have-been-heard-so-far-2026-02-18",
-      "summary": "मुख्य निर्वाचन अधिकारी नवदीप रिणवा ने बुधवार को प्रेसवार्ता की।",
-      "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 04:16:55 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Lucknow",
-      "lang": "en"
     },
     {
       "id": "93276f11d8ee5932ba9f7d94ab63d58f",
@@ -88086,6 +88476,58 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "562ccc759f71e17718bdf88283c66ff5",
+      "title": "Uttarakhand achieves 1 GW solar energy capacity boosting green energy push and local jobs",
+      "link": "https://timesofindia.indiatimes.com/india/uttarakhand-achieves-1-gw-solar-energy-capacity-boosting-green-energy-push-and-local-jobs/articleshow/128518899.cms",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "2026-02-18T23:00:19+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "02c7e25b9ec4842748a85e0f073f060b",
+      "title": "Deputy CM Sunetra Pawar will take over as NCP national president on Feb 26: Praful Patel",
+      "link": "https://timesofindia.indiatimes.com/india/deputy-cm-sunetra-pawar-will-take-over-as-ncp-national-president-on-feb-26-praful-patel/articleshow/128518628.cms",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "2026-02-18T22:53:44+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0acd23d5f6255bdde0bd047b4a1602c1",
+      "title": "Lured with Thailand jobs, trapped in Myanmar: NIA charges 3 people in cyber trafficking racket",
+      "link": "https://timesofindia.indiatimes.com/india/lured-with-thailand-jobs-trapped-in-myanmar-nia-charges-3-people-in-cyber-trafficking-racket/articleshow/128518482.cms",
+      "summary": "",
+      "date": "2026-02-18",
+      "timestamp": "2026-02-18T22:50:22+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6de5730bd49fd09d77c80c8433b00dd7",
+      "title": "Rhode Island hockey arena shooting suspect Robert Dorgan wore miniskirts and heels to work, colleagues say",
+      "link": "https://timesofindia.indiatimes.com/world/us/rhode-island-hockey-arena-shooting-suspect-robert-dorgan-wore-miniskirts-and-heels-to-work-colleagues-say/articleshow/128517864.cms",
+      "summary": "A father of six, Robert Dorgan, employed at General Dynamics Bath Iron Works, committed a shocking act of violence. He fatally shot his son Aidan and ex-wife Rhonda at a Rhode Island hockey game. Dorgan also injured his former in-laws at the same event. Authorities are investigating the motive behind this tragic incident. The events unfolded on Monday afternoon.",
+      "date": "2026-02-18",
+      "timestamp": "2026-02-18T22:48:56+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
