@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T21:27:35.480545+00:00",
+  "generated_at": "2026-02-19T22:26:38.822814+00:00",
   "stories": [
     {
       "id": "47967d7f2c4ee67a2a514d266f0bafde",
@@ -24143,6 +24143,19 @@
       "lang": "en"
     },
     {
+      "id": "0c150ae833bcc7dc5edb584dd1e2a1cf",
+      "title": "More than 90 deaths this season: Are we seeing more avalanches?",
+      "link": "https://www.bbc.com/news/articles/cn4gjqv7vl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Recent deadly incidents in California and Europe are putting avalanches - and how to avoid them - in the spotlight.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 21:57:01 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a21f9e805f46e496013da91e915eb037",
       "title": "Delay flagged in action against Viveka murder accused",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/delay-flagged-in-action-against-viveka-murder-accused/article70652272.ece",
@@ -24256,6 +24269,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fb536be375cdf58becf1ffa6197cbb6a",
+      "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
+      "link": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said it \"looks like\" Hamas will disarm, even though there are signs the group is regrouping.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 21:33:35 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -24647,6 +24673,19 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "bb73fc00c241671b5681eaefa99c8acc",
+      "title": "US trade deficit swells in December as imports surge",
+      "link": "https://www.aljazeera.com/economy/2026/2/19/us-trade-deficit-swells-in-december-as-imports-surge?traffic_source=rss",
+      "summary": "The US trade deficit deteriorated even though President Trump unleashed a barrage of tariffs to close trade imbalances.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 21:00:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -25634,19 +25673,6 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "fb536be375cdf58becf1ffa6197cbb6a",
-      "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
-      "link": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said it \"looks like\" Hamas will disarm, even though there are signs the group is regrouping.",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 19:33:36 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -77768,6 +77794,32 @@
       "lang": "en"
     },
     {
+      "id": "506c41a33854fa547466c6823ae847ee",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-20",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 03:30:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e9ac2123374739e8851dcf101123861e",
+      "title": "पढ़ें 20 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-20",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 03:30:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "b181a1427906ab4a925eb3da021b6cd7",
       "title": "Gorakhpur News: दुकान के सामने खड़ी ट्रैक्टर-ट्राली चोरी, आरोपी गिरफ्तार",
       "link": "https://www.amarujala.com/gorakhpur/tractor-trolley-recovered-with-the-help-of-cctv-footage-16-cases-registered-against-the-accused-gorakhpur-news-c-7-gkp1038-1235442-2026-02-20",
@@ -78106,19 +78158,6 @@
       "lang": "en"
     },
     {
-      "id": "506c41a33854fa547466c6823ae847ee",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-20",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 02:30:30 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "738f30c3d83751de9905229ac37ee224",
       "title": "Gorakhpur News: जल निगम के एई और उनकी पत्नी से मारपीट, जान से मारने की धमकी",
       "link": "https://www.amarujala.com/gorakhpur/water-corporations-ae-and-his-wife-assaulted-threatened-with-death-gorakhpur-news-c-7-gkp1038-1234784-2026-02-20",
@@ -78130,19 +78169,6 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
-    },
-    {
-      "id": "e9ac2123374739e8851dcf101123861e",
-      "title": "पढ़ें 20 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-20",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 02:30:18 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "e82e4b3c3dff88b95583cb7b64d81a97",
@@ -90664,6 +90690,84 @@
       "lang": "en"
     },
     {
+      "id": "86d36abe8e469fefdfa3f3ad0e0e8792",
+      "title": "Terror, new challenges need all navies to join hands, says Rajnath",
+      "link": "https://timesofindia.indiatimes.com/india/terror-new-challenges-need-all-navies-to-join-hands-says-rajnath/articleshow/128578492.cms",
+      "summary": "Defence Minister Rajnath Singh urged global cooperation to tackle evolving maritime risks at the opening of India's largest naval exercise, MILAN-2026. He highlighted the growing participation from 74 nations, emphasizing that no single navy can address challenges like surging commerce, resource competition, and climate change alone. Singh also invited ASEAN countries to leverage India's growing defence-industrial capabilities.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-20T03:42:23+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e26e8dd5e9bc5668c1fc8c7f844fb8d8",
+      "title": "Uttarakhand HC scraps appointment of power corp MD",
+      "link": "https://timesofindia.indiatimes.com/india/uttarakhand-hc-scraps-appointment-of-power-corp-md/articleshow/128578408.cms",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-20T03:28:46+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0d6e7426781204289bc826fd855b646a",
+      "title": "Kota man arrested for threatening to shoot Rahul, 25 Cong MPs in video posted online",
+      "link": "https://timesofindia.indiatimes.com/india/kota-man-arrested-for-threatening-to-shoot-rahul-25-cong-mps-in-video-posted-online/articleshow/128578198.cms",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-20T03:21:15+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7278c47fd8342e381f7dfcaad19de09b",
+      "title": "Mahua Moitra moves Delhi HC against order denying shared custody of pet",
+      "link": "https://timesofindia.indiatimes.com/india/mahua-moitra-moves-delhi-hc-against-order-denying-shared-custody-of-pet/articleshow/128578026.cms",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-20T03:14:24+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7214ddb01563ee2cd0cebc0fcc5f3447",
+      "title": "DMDK, DMK forge first-ever electoral pact",
+      "link": "https://timesofindia.indiatimes.com/india/dmdk-dmk-forge-first-ever-electoral-pact/articleshow/128577406.cms",
+      "summary": "DMDK has officially joined the DMK alliance, marking a significant political shift after years of independent operation. Premallatha Vijayakant announced the decision, citing the wishes of party cadres and historical ties. The alliance aims to strengthen both parties for the state's development and growth.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-20T03:09:09+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b4ec52c2112db6e749696105bba28294",
+      "title": "Kicking seat backs, smoking on plane could land you in jail",
+      "link": "https://timesofindia.indiatimes.com/india/kicking-seat-backs-smoking-on-plane-could-land-you-in-jail/articleshow/128577461.cms",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-20T02:58:14+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "be1fbbff8c3688b0652ec2059716a51b",
       "title": "1st time after Manipur violence, CM gets Kukis and Meiteis on 1 platform",
       "link": "https://timesofindia.indiatimes.com/india/1st-time-after-manipur-violence-cm-gets-kukis-and-meiteis-on-1-platform/articleshow/128577293.cms",
@@ -90873,7 +90977,7 @@
     },
     {
       "id": "543fdb527ce1b5642c38b028b1288d6d",
-      "title": "Rafale to make India stronger, willing to increase its indigenous content; ready to sell more submarines: Macron",
+      "title": "Ready to raise India content in Rafale: Macron",
       "link": "https://timesofindia.indiatimes.com/india/rafale-to-make-india-stronger-willing-to-increase-its-indigenous-content-ready-to-sell-more-submarines-macron/articleshow/128574875.cms",
       "summary": "French President Emmanuel Macron affirmed that Rafale jets will bolster India's military might and expressed commitment to increasing indigenous content in 'made-in-India Rafale' aircraft. He highlighted the expansion of defense cooperation, including potential joint production of fighter jets and helicopters, and expressed hope for further submarine tie-ups, underscoring the unique strategic partnership between the two nations.",
       "date": "2026-02-19",
