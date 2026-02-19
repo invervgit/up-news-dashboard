@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T08:37:36.685288+00:00",
+  "generated_at": "2026-02-19T09:39:59.407760+00:00",
   "stories": [
     {
       "id": "47967d7f2c4ee67a2a514d266f0bafde",
@@ -609,19 +609,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "aa13e4968c0b0a91658c28a19b1e33a2",
-      "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
-      "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The president's comments come just a day after the US gave its official backing to the UK's Chagos deal.",
-      "date": "2026-02-18",
-      "timestamp": "Wed, 18 Feb 2026 22:08:13 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -23662,6 +23649,188 @@
       "lang": "en"
     },
     {
+      "id": "64943061013f188f4995c930051c176a",
+      "title": "Supreme Court stays Madras HC orders which 'paralysed' Tamil Nadu Waqf Board",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-stays-madras-hc-orders-which-paralysed-tamil-nadu-waqf-board/article70651059.ece",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 15:05:24 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e1ce5dd6ffc8659e855eb3bda0912eff",
+      "title": "India AI Summit 2026 Day 4 LIVE: PM Modi unveils 'MANAV Vision', says must place Global South aspirations at the centre of AI governance",
+      "link": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-day-4-pm-modi-artificial-intelligence-news-delhi-updates/article70650278.ece",
+      "summary": "Mukesh Ambani says Jio with Reliance will invest ₹10 lakh crore over seven years; Sam Altman hails India as global AI leader, predicts 'new and better' jobs",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 15:02:54 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9ed15550d4039b48d98edde58849fb0c",
+      "title": "At least 16 killed in explosion due to suspected gas leakage in Pakistan’s Karachi",
+      "link": "https://www.thehindu.com/news/international/pakistan-karachi-explosion-gas-leak-building-collapse-death-toll/article70651070.ece",
+      "summary": "The explosion caused a part of the building structure to collapse",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 15:00:30 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cfcef7e9a9d6e0b4157b4a8ae9311bd6",
+      "title": "LIVE: Supreme Court schedules CAA final hearing to start from May 5, 2026",
+      "link": "https://www.thehindu.com/news/national/supreme-court-hearing-on-petitions-against-citizenship-amendment-act-caa-live-updates-february-19-2026/article70650577.ece",
+      "summary": "A Bench headed by Chief Justice of India Surya Kant is hearing petitions challenging the constitutional validity of the Citizenship Amendment Act, 2019",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 15:00:03 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "657172eca596804d1902f8099b2fd1bb",
+      "title": "यूपी पंचायत चुनाव: प्रदेश के 2.81 करोड़ वोटर के सत्यापन अभी बाकी, कैसे होंगे? कल तक ही समय",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-panchayat-elections-verification-of-2-81-crore-voters-is-still-pending-how-will-it-be-done-only-until-20-february-201771492351251.html",
+      "summary": "UP Panchayat Elections: पूरे प्रदेश में 5.01 करोड़ डुप्लीकेट वोटर में से 2.81 करोड़ का सत्यापन अभी तक बकाया है। बरेली में भी 9.18 लाख डुप्लीकेट वोटर में से 5.19 लाख का सत्यापन अभी नहीं हुआ है, जबकि सत्यापन की आखिरी तारीख 20 फरवरी है।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 14:56:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "41a239f1b62dcafc366b6e2cac4d2696",
+      "title": "58 bird species documented during Campus Bird Count 2026 at Yenepoya university in Mangaluru",
+      "link": "https://www.thehindu.com/news/cities/Mangalore/58-bird-species-documented-during-campus-bird-count-2026-at-yenepoya-university-in-mangaluru/article70650804.ece",
+      "summary": "The Campus Bird Count 2026 was part of the university’s ongoing commitment to biodiversity awareness, environmental stewardship and citizen science initiatives",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 14:52:48 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3c9f7ce161f7a1bc337de3fd5528ae28",
+      "title": "काशी में बीजेपी की पाठशाला; 3 राज्यों के 200 से ज्यादा पदाधिकारी पहुंचे, विचारधारा का प्रशिक्षण",
+      "link": "https://www.livehindustan.com/uttar-pradesh/bjp-training-mega-campaign-in-kashi-over-200-officials-from-three-states-arrive-for-ideological-training-201771491634874.html",
+      "summary": "काशी के सारनाथ में भारतीय जनता पार्टी की महापाठशाला शुरू हुई, जिसमें यूपी, उत्तराखंड और बिहार के 210 पदाधिकारियों को चुनावी रणनीति और संगठनात्मक प्रशिक्षण दिया जा रहा है। सख्त व्यवस्था के बीच शीर्ष नेतृत्व ने संवाद कर ‘हैट्रिक’ जीत का मंत्र दिया।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 14:51:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f20fad4a2b4717596ee8a199611440bf",
+      "title": "Vande Bharat Express between Bengaluru and Goa proposed with 13-hour journey time",
+      "link": "https://www.thehindu.com/news/cities/Mangalore/vande-bharat-express-train-between-bengaluru-and-madgaon-in-goa-proposed-with-13-hour-journey-time-mangaluru/article70650914.ece",
+      "summary": "Two VB rakes will have to be deployed, 13-hour journey possible if the service skips Mangaluru Central and Mangaluru Junction stations",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 14:48:09 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e2cb2dd72a7c81c989aa63522b6990c3",
+      "title": "Congress top leadership holds review with Telangana CM and Ministers in New Delhi",
+      "link": "https://www.thehindu.com/news/national/telangana/congress-top-leadership-holds-review-with-telangana-cm-and-ministers-in-new-delhi/article70650956.ece",
+      "summary": "The meeting was held a few days after the results of Telangana Municipal Polls-2026 were announced",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 14:34:41 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e2e4339eb4af9f445f77a8045241e4f9",
+      "title": "प्राइवेट अस्पताल के आईसीयू से मरीज गायब, परिजनों का हंगामा, सीसीटीवी से पता चल गई हकीकत",
+      "link": "https://www.livehindustan.com/uttar-pradesh/patient-goes-missing-from-private-hospital-icu-family-members-protest-cctv-footage-reveals-truth-201771491275342.html",
+      "summary": "फिरोजाबाद जिले के थाना उत्तर क्षेत्र के एक प्राइवेट अस्पताल से मरीज के गायब होने से हड़कंप मच गया। मरीज अस्पताल की आईसीयू से निकलकर पेट्रोल पंप पर पहुंच गया। परिजनों को जब मरीज आईसीयू में नहीं मिला तो हंगामा कर दिया।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 14:29:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b405726bd1f4a1831fe03685a4dd1019",
+      "title": "जज के सामने महिला ने निकाला चाकू, कोर्ट रूम में ही अधिवक्ता को धमकी से खलबली",
+      "link": "https://www.livehindustan.com/uttar-pradesh/woman-pulls-out-knife-in-varanasi-court-room-before-judge-threatens-lady-lawyer-201771490877560.html",
+      "summary": "वाराणसी की एसीजेएम षष्ठम कोर्ट में एक महिला ने महिला अधिवक्ता से विवाद के बाद चाकू निकालकर सनसनी फैला दी। मिर्जामुराद की रहने वाली यह महिला अपने साथ हुई मारपीट के मामले में पैरवी के लिए पहुंची थी।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 14:27:59 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5409d8a3002b9db4f316e0314970c145",
+      "title": "India sees future, not fear in AI: PM Modi",
+      "link": "https://www.thehindu.com/news/national/india-ai-summit-pm-modi-address-technology-revolution/article70650580.ece",
+      "summary": "Inaugurating the AI Impact Summit’s plenary session, the prime minister said that AI heralds a “profound transformation” in history",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 14:13:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "35be66cf9345d6fae6b72a9012690c94",
+      "title": "Congress a divided house in Kerala, has no leader to match stature of Pinarayi Vijayan: K.V. Thomas",
+      "link": "https://www.thehindu.com/news/national/kerala/congress-a-divided-house-in-kerala-has-no-leader-to-match-stature-of-pinarayi-vijayan-kv-thomas/article70650669.ece",
+      "summary": "K.V. Thomas, Kerala’s Special Representative with Cabinet rank in New Delhi, discusses the State’s political landscape, financial challenges, and prospects for the Left ahead of Assembly elections. He says Kerala has been pushed to ‘the brink of a financial crisis for political reasons’",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 14:09:32 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "af461bd0288920a6bd91d51c1b2ecef2",
+      "title": "Telangana’s secondary schools with science labs higher than national average, but lags behind several States",
+      "link": "https://www.thehindu.com/news/national/telangana/telanganas-secondary-schools-with-science-labs-higher-than-national-average-but-lags-behind-several-states/article70650861.ece",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 14:01:56 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b455f4403d0a54aa220a7ce6112af47c",
       "title": "10वीं की छात्रा से गैंगरेप; डर के चलते 3 दिन चुप रही बच्ची, 5 पर केस",
       "link": "https://www.livehindustan.com/uttar-pradesh/10th-grade-student-was-gang-raped-girl-remained-silent-for-three-days-out-of-fear-five-were-charged-201771488968437.html",
@@ -23685,6 +23854,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "948e49fa91127cbacb960c29500e8ec2",
+      "title": "K. Babu, senior Congress leader in Kerala and Thripunithura MLA, quits active politics",
+      "link": "https://www.thehindu.com/news/national/kerala/k-babu-senior-congress-leader-in-kerala-and-thripunithura-mla-quits-active-politics/article70650957.ece",
+      "summary": "K. Babu exudes confidence that his party will ‘shortlist the best candidate’ for the constituency and that UDF will win 2026 Assembly elections",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 13:48:14 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -23714,19 +23896,6 @@
       "lang": "en"
     },
     {
-      "id": "948e49fa91127cbacb960c29500e8ec2",
-      "title": "K. Babu, senior Congress leader in Kerala and Thripunithura MLA, quits active politics",
-      "link": "https://www.thehindu.com/news/national/kerala/k-babu-senior-congress-leader-in-kerala-and-thripunithura-mla-quits-active-politics/article70650957.ece",
-      "summary": "K. Babu exudes confidence that his party will ‘shortlist the best candidate’ for the constituency and that UDF will win 2026 Assembly elections",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 13:40:35 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ac347938d8fce4792c22090b3ced5f48",
       "title": "नई शिक्षक भर्ती को लेकर यूपी के शिक्षामित्र पहुंचे सुप्रीम कोर्ट, 69000 के साथ होगी सुनवाई",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-shikshamitra-moves-supreme-court-for-new-teacher-recruitment-and-69000-bharti-hearing-201771487966109.html",
@@ -23737,19 +23906,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "e1ce5dd6ffc8659e855eb3bda0912eff",
-      "title": "India AI Summit 2026 Day 4 LIVE: PM Modi unveils 'MANAV Vision', says must place Global South aspirations at the centre of AI governance",
-      "link": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-day-4-pm-modi-artificial-intelligence-news-delhi-updates/article70650278.ece",
-      "summary": "Mukesh Ambani says Jio with Reliance will invest ₹10 lakh crore over seven years; Sam Altman hails India as global AI leader, predicts 'new and better' jobs",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 13:31:38 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -24247,19 +24403,6 @@
       "lang": "en"
     },
     {
-      "id": "cfcef7e9a9d6e0b4157b4a8ae9311bd6",
-      "title": "LIVE: Supreme Court to hear pleas challenging constitutional validity of the Citizenship Amendment Act",
-      "link": "https://www.thehindu.com/news/national/supreme-court-hearing-on-petitions-against-citizenship-amendment-act-caa-live-updates-february-19-2026/article70650577.ece",
-      "summary": "The petitions are scheduled before a Bench headed by Chief Justice of India Surya Kant",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 12:15:50 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "369f3af90c7e378e53348d28a39d3a98",
       "title": "1,250 functionaries to participate at BJP State executive on February 19 with focus on local body polls",
       "link": "https://www.thehindu.com/news/national/karnataka/1250-functionaries-to-participate-at-bjp-state-executive-on-february-19-with-focus-on-local-body-polls/article70648681.ece",
@@ -24461,19 +24604,6 @@
       "summary": "Union Minister Vaishnaw said PM Modi has announced a big policy shift aimed at attracting world's data to India, to be processed here and to deliver high-value services to the world",
       "date": "2026-02-19",
       "timestamp": "Thu, 19 Feb 2026 11:39:43 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "5409d8a3002b9db4f316e0314970c145",
-      "title": "India not just a part of AI revolution, but leading it: PM Modi",
-      "link": "https://www.thehindu.com/news/national/india-ai-summit-pm-modi-address-technology-revolution/article70650580.ece",
-      "summary": "The prime minister said India not only builds technology but also adopts it at an unprecedented pace",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 11:38:54 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -24885,9 +25015,9 @@
     },
     {
       "id": "dad46dd7a7f4b6adb18ea987dbddf413",
-      "title": "UP Budget Session LIVE: प्रश्न निलंबित होने पर उलझे नेता प्रतिपक्ष, स्पीकर बोले- आप दबाव में हैं",
+      "title": "UP Budget Session LIVE: सदन में उठा गलगोटिया के AI रोबोट का मामला, स्पीकर का चर्चा से इनकार",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-budget-session-live-update-discussion-on-budget-of-four-departments-chances-of-uproar-201771476361901.html",
-      "summary": "UP Budget Session LIVE: यूपी बजट सत्र का आज नौंवा दिन है। गुरूवार को चार विभागों का बजट सदन में रखा जाएगा। इनमें कृषि, सिंचाई, नगर विकास और एमएसएमई शामिल हैं। विधान सभा अध्यक्ष ने कहा कि बजट में अब तक जिन्हें बोलने का मौका नहीं मिला है, उन्हें इन विभागों के बजट के दौरान बोलने का मौका दिया जाएगा।",
+      "summary": "UP Budget Session LIVE: यूपी बजट सत्र का आज नौंवा दिन है। गुरूवार को चार विभागों का बजट सदन में रखा गया है। इनमें कृषि, सिंचाई, नगर विकास और एमएसएमई शामिल हैं। विधान सभा अध्यक्ष ने कहा कि बजट में अब तक जिन्हें बोलने का मौका नहीं मिला है, उन्हें इन विभागों के बजट के दौरान बोलने का मौका दिया जाएगा।",
       "date": "2026-02-19",
       "timestamp": "Thu, 19 Feb 2026 10:34:00 +0530",
       "section": "UP_Focus",
@@ -25300,6 +25430,19 @@
       "lang": "en"
     },
     {
+      "id": "f6e698d5081c791639c83e7d7731bbdf",
+      "title": "Shankaracharya targets CM Yogi:Questions his religious conduct; gives saints 10-day ultimatum to declare stand",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/varanasi-shankaracharya-yogi-adityanath-religious-conduct-ultimatum-137245443.html",
+      "summary": "Shankaracharya Swami Avimuktheshwaranand Saraswati criticised Uttar Pradesh Chief Minister Yogi Adityanath during a press conference in Varanasi on Thursday. He said Deputy Chief Ministers Brajesh Pathak and Keshav Prasad Maurya were trying to control the situation, but some religious heads remained firm in their position. He questioned the Chief Minister’s remarks about “Kalnemi”, saying the term was not clearly explained. He asked whether such people were genuine followers of Sanatan Dharma or deceptive in their conduct. Avimuktheshwaranand gave the saint community 10 days to declare their stand. He said those who support the Chief Minister despite abandoning religious principles would face similar opposition. He also questioned whether a renunciate could hold a salaried government position after taking vows of renunciation. Questions Deputy CM’s religious gesture and government action Reacting to Deputy Chief Minister Brajesh Pathak’s worship of 101 Batuks, the Shankaracharya said the gesture showed personal sentiment but raised questions about government responsibility. He said if the matter was not political, the Batuk allegedly mistreated earlier should have been honoured. He also criticised remarks suggesting religious leaders lacked authority to act, saying such statements showed the government was unwilling or unable to take action. Calls for gathering of saints in Lucknow on March 11 Avimuktheshwaranand said saints, mahants, scholars and followers should gather in Lucknow on March 11 to present their views publicly. He claimed recent steps for cow protection were insufficient, including making a film tax-free and issuing administrative instructions on cow shelters. He also alleged that incorrect statements were made in the Assembly regarding the issue. Clash during Magh Mela triggered controversy The dispute escalated after a confrontation between police and the Shankaracharya’s followers during Mauni Amavasya at Prayagraj Magh Mela on January 18. Police stopped his palanquin and asked him to walk to the Sangam. His disciples objected, leading to a scuffle. Police detained several followers and allegedly used force. The Shankaracharya protested and remained at his camp until January 28 before returning to Varanasi. Deputy Chief Minister Keshav Prasad Maurya later said any insult to religious leaders would be investigated. CM Yogi says law applies equally to everyone Speaking in the Assembly on February 13, Chief Minister Yogi Adityanath said no one is above the law. He said the same legal system applies to every citizen, including religious leaders and public officials. He added that the Magh Mela was conducted under strict arrangements for millions of devotees and rules had to be followed equally by all. Pictures of clash between Shankaracharya's disciples and police-",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 09:37:41 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "29de1cb7b197d5a6d6e2c0f82ea20ea8",
       "title": "Spa owner kidnapped for ₹2 lakh ransom to repay online gaming debt in Bengaluru",
       "link": "https://www.thehindu.com/news/national/karnataka/three-held-for-kidnapping-spa-owner-for-2-lakh-ransom-victim-rescued/article70647811.ece",
@@ -25314,9 +25457,9 @@
     },
     {
       "id": "2de12607925a2b1736357541cdce0b89",
-      "title": "UP Top News Today: बांके बिहारी के जगमोहन से दर्शन पर विवाद, यूपी बोर्ड परीक्षा के दौरान छात्र की मौत",
+      "title": "UP Top News Today: यूपी विधानसभा में उठा गलगोटिया के AI रोबोट का मामला, 84 कोसी परिक्रमा शुरू",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-top-news-today-19-february-2026-cm-yogi-adityanath-banke-bihari-sir-form-7-weather-crime-politics-updates-201771472919364.html",
-      "summary": "UP Top News Today: मथुरा के वृंदावन स्थित बांके बिहारी मंदिर में भगवान के जगमोहन से दर्शन पर विवाद छिड़ गया है। वहीं, कल से शुरू हुई यूपी बोर्ड परीक्षा के दौरान दूसरी पाली में एक छात्र की मौत हो गई। छात्र की मौत हार्ट अटैक के कारण हुई है।",
+      "summary": "UP Top News Today: यूपी विधानसभा के सदन में गलगोटिया के एआई रोबोट का मामला उठा। इसपर स्पीकर सतीश महाना ने चर्चा से इनकार कर दिया। वहीं, नैमिषारण्य में डंका बजते ही परिक्रमा शुरू हो गई। 84 कोसी यात्रा में आस्था का सैलाब उमड़ा है।",
       "date": "2026-02-19",
       "timestamp": "Thu, 19 Feb 2026 09:35:07 +0530",
       "section": "UP_Focus",
@@ -25336,6 +25479,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5fc658d51b87d663a1192cd79f8db6e8",
+      "title": "UP Assembly Budget Session Day 9:Finance Minister presents CAG report; Opposition flags training, industry issues",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-assembly-budget-session-2026-cag-report-finance-minister-opposition-training-industry-issues-137245378.html",
+      "summary": "Discussion continued on Thursday during the ninth day of the Uttar Pradesh Assembly Budget session, with members raising issues related to financial management, industrial development, training programmes and alleged irregularities. Finance Minister Suresh Khanna tabled the Comptroller and Auditor General (CAG) report in the House. He said the State recorded a revenue surplus of ₹33,430 crore in 2021–22, which increased to ₹59,326 crore in 2024–25. He said the figures were based on the CAG report and reflected higher revenue and controlled expenditure. Earlier, the State Budget of ₹9.12 lakh crore was presented in the Assembly on February 11. Chief Minister Yogi Adityanath is expected to reply to the Budget discussion during the session. Opposition raises issue of training for backward class youths Samajwadi Party (SP) MLA Rakesh Kumar Verma raised the issue of technical and vocational training for backward class youths. He said no training had been provided between 2022 and 2025 and alleged that no budget had been allocated for the programme. Backward Class Welfare Minister Narendra Kashyap responded to the question. During the exchange, Speaker Satish Mahana reminded members to remain within the allotted time. Government says industrial units set up in all districts SP MLA Sandeep Singh Patel asked the government to provide details of new industrial units established in the past two years. Industrial Development Minister Nand Gopal Nandi said industrial units had been established across all districts. He said the government had taken steps to improve the investment environment and promote industrial growth. Allegations of financial irregularities raised in House SP MLA Ragini Sonkar alleged financial irregularities in development works in Varanasi. She claimed that ₹3 crore was paid for a mandi road project estimated at ₹12 lakh and ₹34 lakh was paid for tiles estimated at ₹4 lakh. Minister Dinesh Pratap Singh responded to the allegations during the discussion. Discussion sought on Galgotias University AI robot issue SP MLAs also sought a discussion on an AI robot linked to Galgotias University in Noida. Speaker Satish Mahana rejected the demand, stating that the programme was neither conducted by the State government nor held in Uttar Pradesh. Protests and walkout over farmers’ issues Questions related to fertiliser supply and farmers’ welfare were raised during the proceedings. Agriculture Minister Surya Pratap Shahi replied to the questions. In the Legislative Council, SP members raised concerns about farmers’ income, input costs and minimum support price. They later staged a walkout, expressing dissatisfaction with the government’s reply. Session continues with Budget discussion The Budget session is continuing with discussion on financial proposals and departmental issues. Further debate and the Chief Minister’s response are expected in the coming days.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 09:26:42 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -25417,6 +25573,19 @@
       "lang": "en"
     },
     {
+      "id": "aa13e4968c0b0a91658c28a19b1e33a2",
+      "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
+      "link": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The president's comments come just a day after the US gave its official backing to the UK's Chagos deal.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 09:03:42 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "56addf2031494b3bf32a12819803b9a4",
       "title": "यूपी बोर्ड परीक्षा देने पहुंचे छात्र की केंद्र पर तबीयत बिगड़ी, मौत से हड़कंप",
       "link": "https://www.livehindustan.com/uttar-pradesh/siddharthnagar-student-fall-sick-at-center-during-up-board-exam-died-of-heart-attack-201771471562758.html",
@@ -25469,6 +25638,19 @@
       "lang": "en"
     },
     {
+      "id": "f5f7b78c5ae04bfbade14571c71cff08",
+      "title": "Iran builds concrete shield at military site amid acute US tensions",
+      "link": "https://www.aljazeera.com/news/2026/2/19/iran-builds-concrete-shield-at-military-site-amid-acute-us-tensions?traffic_source=rss",
+      "summary": "Satellite images reveal Iran fortifying its Parchin military complex against aerial strikes.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 08:47:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "3bcf5e155b6631b59663f1b36edafa3e",
       "title": "Lucknow: नहीं जाना होगा मुंबई, कैंसर संस्थान में शुरू होगी प्रोटॉन बीम थेरेपी, 750 करोड़ से होगी शुरुआत",
       "link": "https://www.amarujala.com/lucknow/lucknow-no-need-to-go-to-mumbai-proton-beam-therapy-to-begin-at-cancer-institute-2026-02-19",
@@ -25491,6 +25673,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "571f4cc06d1137c7681b57bf83bddb7b",
+      "title": "Legal doping in sport: Records or Ethics?",
+      "link": "https://www.aljazeera.com/video/game-theory/2026/2/19/aje-onl-enhancedgames_v4-190226?traffic_source=rss",
+      "summary": "Samantha Johnson looks at the Enhanced Games and how doping, once sport’s red line, is now being marketed as innovation.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 08:38:38 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -25522,7 +25717,7 @@
     },
     {
       "id": "cc0889bab56e2a596b18e6ebe8653fab",
-      "title": "UP speeds up digital census preparations:6 lakh staff to collect data through 33 key questions;",
+      "title": "UP speeds up digital census preparations:6 lakh staff to collect data through 33 key questions; survey to be conducted in 2 phases",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-digital-census-2027-preparations-data-collection-137245080.html",
       "summary": "Census preparations in UP for 2027 have intensified. For the first time, the census will be conducted entirely through digital means, where 33 important questions will be asked door-to-door. These questions will form the foundation for determining budgets for roads, water, housing, schools, hospitals and government schemes in the coming years. The census will be conducted in 2 phases. The census in the state is scheduled for May-June 2026, for which around 6 lakh personnel will be deployed, but with every census, some important questions also arise. For example, why don't people provide accurate information? Does registering mobile numbers in the census pose a risk of tax or any kind of investigation? What losses could common people and their areas face by hiding information, and what direct benefits will they get from providing accurate information? What are those 33 questions that will be asked from every household this time? Read in this report... Why don't people provide accurate information in the census? Senior journalist Ratanmani Lal says that most people fear that providing accurate information might cause them harm. They feel that giving complete information to the government could deprive them of certain benefits they are currently receiving. For example, ration cards provide grain based on fixed units, but many people avoid stating the correct number of all family members. They fear their benefits might get reduced. For this reason, some people also try to show themselves as absent during the census so that they cannot be counted. However, this time in the census process, it has been provided that enumerators will reach out again to families found absent in the first round, so that no house or person is left out of the count. Consequences of not providing correct information in Census Not registering name or correct information in the census may cause difficulties for individuals or families in accessing government benefits in the future. If someone's name is not included in the census record, the administration may assume that person does not reside at that location. In such situations, records will be matched based on the previous 2011 census data. The verification of people who received free rations and other relief benefits during the COVID period can also be done through census data. If any person or family is found absent in the current census, their cases may be reviewed again. Government schemes and benefits such as ration, housing, pension or other assistance are often determined based on census data. In such cases, people who do not provide correct information or exclude themselves from the count may be deprived of government benefits in the future. Is there risk of tax or any kind of investigation from registering mobile number? Senior journalist Ratanmani Lal says, no. There is no risk of tax or any kind of investigation from registering your mobile number in the census. Master trainers of these districts are being trained in the first phase A four-day special residential training of 285 master trainers from 27 districts is being conducted from February 17 to February 20 at the State Health and Family Welfare Institute, Lucknow under the supervision of Director Sheetal Verma. These master trainers will further train other staff in their respective districts. In the second phase, training of master trainers from the remaining districts will be conducted between February 24 to 27. Which 27 districts are included? The 27 districts whose master trainers are being trained in the first phase include Agra, Aligarh, Amroha, Baghpat, Ghaziabad, Ballia, Bijnor, Bulandshahr, Chandauli, Deoria, Gautam Buddha Nagar, Ghazipur, Hapur, Hathras, Jhansi, Lalitpur, Mathura, Mau, Meerut, Moradabad, Muzaffarnagar, Rampur, Saharanpur, Sambhal, Shamli, Sonbhadra and Varanasi. The objective of the training is to complete the census work accurately, timely and systematically, so that the Census-2027 process can be conducted smoothly. Know why census is important? Census is the most important source of information about the country. Through this, it is known where people live in the country, how they live and what facilities they need. Based on these figures, the government makes policies, starts schemes and also checks whether the existing schemes are working properly or not. Census data is used to determine representation in Parliament, State Assemblies and local bodies, as well as in the delimitation of electoral constituencies. Not just the government, but business and industry also decide where to invest and how to expand their services based on these figures. Additionally, the Finance Commission also determines grants to states keeping census data in mind. Census will be conducted in two phases The Ministry of Home Affairs (MHA) announced on January 8 that the first phase of Census 2027 will be conducted between April 1 and September 30. Every state and union territory will complete this work within 30 days in their respective regions. The government also said that people will be given the option of self-enumeration 15 days before the house listing begins. Actually, the census was supposed to be conducted in 2021, but it was postponed due to the coronavirus pandemic, which will now be completed in 2027. In the first phase, house listings and house data will be collected. In the second phase, the population count will be conducted. Census will be completely digital The government announced that this time the census will be completely digital. About 30 lakh employees will collect information through mobile apps. Through mobile apps, portal and real-time data transfer, the census will be largely paperless. These apps will work on both Android and iOS. Caste-related data will also be collected digitally. For the first time since independence, caste counting will be included in the census. Previously, caste-based census was conducted until 1931 during British rule. This decision was taken by the Cabinet Committee chaired by Prime Minister Narendra Modi in April. According to the last census of 2011, India's population was about 121 crore, of which approximately 51.5% were males and 48.5% were females. Last census was conducted in 2011 Senior journalist Ratan Mani Lal says that the last complete census in the country was conducted in 2011, and even today many schemes of central and state governments are running based on these figures. Due to the Corona pandemic, the 2021 census could not be conducted, due to which policies and budgets are still being determined based on old data. The 2011 census was door-to-door and paper-based. Census workers would go door-to-door filling paper forms, which took considerable time to prepare the data. This census collected not only population data, but also statistics related to housing, water, toilets, electricity, education, employment and family structure. Based on these, the requirements for roads, schools, hospitals and housing schemes were determined. Even today, many schemes like ration cards, PM Housing Scheme, Ujjwala, Swachh Bharat Mission, MGNREGA are based on 2011 figures. Data related to female literacy, gender ratio, urbanization and migration are also taken from this census. What will happen if these 33 questions are not answered? These questions asked during the census are for people. It is people's duty to answer these questions so that the government gets the correct picture. So that the shortcomings in future plans can be addressed. The ones that people are facing. It has nothing to do with citizenship. But not only should one actively participate in the census but also provide accurate information.",
       "date": "2026-02-19",
@@ -25769,7 +25964,7 @@
     },
     {
       "id": "50c99da6a352c300df9be4a8ef6b9b60",
-      "title": "LIVE: South Korea convicts ex-President Yoon Suk Yeol for insurrection",
+      "title": "LIVE: South Korea convicts ex-President Yoon Suk-yeol for insurrection",
       "link": "https://www.aljazeera.com/news/liveblog/2026/2/19/live-south-korea-convicts-ex-president-yoon-suk-yeol-for-insurrection?traffic_source=rss",
       "summary": "Former President Yoon sentenced to life in prison by Seoul court for his brief imposition of martial law in 2024.",
       "date": "2026-02-19",
@@ -25834,7 +26029,7 @@
     },
     {
       "id": "f4e5ca2b76649bf11ae0ea2dd344825f",
-      "title": "South Korea’s ex-President Yoon given life in prison for insurrection",
+      "title": "South Korea’s ex-President Yoon gets life in prison for insurrection",
       "link": "https://www.aljazeera.com/news/2026/2/19/south-koreas-ex-president-yoon-suk-yeol-found-guilty-of-insurrection?traffic_source=rss",
       "summary": "South Korean court finds former President Yoon Suk-yeol guilty over declaration of martial law in December 2024.",
       "date": "2026-02-19",
@@ -26237,9 +26432,9 @@
     },
     {
       "id": "ddccd80c90cc926c94d52edfaaa337f5",
-      "title": "Deputy CM Brajesh Pathak performs Batuk Puja:Invites kids home for tika; says, 'pulling hair is a grave sin'",
+      "title": "Deputy CM Brajesh Pathak performs Batuk Puja:Invites kids home for tika; had said, 'Pulling choti is a grave sin'",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-deputy-cm-brajesh-pathak-invites-kids-home-tika-shankaracharya-controversy-137243887.html",
-      "summary": "In UP, Deputy CM Brajesh Pathak worshipped Brahmin Batuks amid the Shankaracharya controversy. He invited 101 Batuks to his Lucknow residence on Thursday morning. Along with wife Namrata Pathak, he applied tilak to all Batuks. He folded his hands in respect, worshipped them, and showered flowers. During this, the Batuks chanted Vedic mantras. Actually, on January 18, during Mauni Amavasya at the Prayagraj Magh Mela, police had grabbed and dragged Shankaracharya Avimukteshwaranand's disciple by his hair and beat him. The matter escalated after the video surfaced in Dainik Bhaskar. Deputy CM Brajesh Pathak remained silent on this entire matter for a month. 2 days ago, for the first time at a media event, he said, 'The hair should not have been pulled. Whoever is guilty, strict action should be taken against them. Pulling hair is a great crime. You will see, it will incur great sin.' However, he had not mentioned Shankaracharya's name. As such, this step by the Deputy CM is being seen as an attempt at damage control amid Brahmin resentment. Actually, the Brahmin community in UP is upset over the UGC and Avimukteshwaranand controversy. Pathak is a BJP Brahmin leader, but he was being targeted by the Brahmin community for maintaining silence on both issues so far. It is believed that this program was conducted to send a message to the Brahmin community. According to sources, Pathak undertook this exercise only after taking the central leadership into confidence. Know what happened on Mauni Amavasya On January 18, Shankaracharya Avimukteshwaranand was going to take a bath in a palanquin at Mauni Amavasya in the Prayagraj Magh Mela. The police stopped Shankaracharya Swami Avimukteshwaranand's palanquin. The police asked him to walk to Sangam. The disciples of Shankaracharya did not agree and started moving forward with the palanquin. This led to pushing and shoving between the disciples and the police. Police had taken many disciples into custody. The police had also beaten a sadhu at the police post. This made Shankaracharya angry. He insisted on getting his disciples released. Officials tried to convince him, folded their hands, but he did not agree. After this, the police took many more supporters of Shankaracharya into custody. Shankaracharya's palanquin was dragged 1 km away from Sangam. During this, the canopy of the palanquin also broke. Shankaracharya could not even take a bath. Shankaracharya remained on dharna outside his camp till January 28. Then returned to Varanasi. Deputy CM Keshav Prasad Maurya had tried damage control. In Prayagraj, he had said that I bow at the feet of revered Shankaracharya ji. I request him to take a bath. If any revered saint or Shankaracharya ji has been insulted, we will investigate and take action. However, Keshav had not gone to meet Shankaracharya. Images of clash between Shankaracharya's disciples and police- Exchange of allegations continues between Yogi and Shankaracharya Avimukteshwaranand First know 2 major statements of Yogi... 'Not everyone can become Shankaracharya' CM Yogi Adityanath spoke in the assembly on Friday, February 13 regarding the Shankaracharya Avimukteshwaranand controversy. Yogi said - Not everyone can write themselves as Shankaracharya. No one is above the law. Not even me. I believe every person in India should follow the law. If SP people want to worship him, let them worship. CM said - An issue that was not there in the Magh Mela was deliberately made into one. Will every person roam around the entire state becoming Chief Minister? Will someone roam around putting up a minister's board? Will someone roam around becoming SP's president? No... There is a system, there is a process. 'The same law applies to me as it does to any common person' Yogi said - This is the same system in India's Sanatan Dharma. In Sanatan Dharma, the position of Shankaracharya is considered supreme and sacred. Look at the system of the House, there is tradition here too. The House operates according to rules. On Mauni Amavasya in Magh Mela, 4.5 crore people came. A system was created for everyone. Law is equal for all. The same law applies to me as it does to any common person. No person can be above the law. It is my belief that every person in India should follow the law.",
+      "summary": "In UP, Deputy CM Brajesh Pathak worshipped Brahmin Batuks amid the Shankaracharya controversy. He invited 101 Batuks to his Lucknow residence on Thursday morning. Along with wife Namrata Pathak, he applied tilak to all Batuks. He folded his hands in respect, worshipped them, and showered flowers. During this, the Batuks chanted Vedic mantras. Notably, in Hindu rituals, a batuk is a budding boy, mostly brahmins, who participates in religious ceremonies. He chants Vedic mantras and is considered pure and auspicious. Feeding or honouring batuks during rituals is believed to bring spiritual merit and divine blessings to devotees. Police had misbehaved with Batuks in Magh Mela Actually, on January 18, during Mauni Amavasya at the Prayagraj Magh Mela, police had grabbed and dragged Shankaracharya Avimukteshwaranand's disciple by his hair and beat him. The matter escalated after the video surfaced in Dainik Bhaskar. Deputy CM Brajesh Pathak remained silent on this entire matter for a month. 2 days ago, for the first time at a media event, he said, 'The choti (long hair on top of the head) should not have been pulled. Whoever is guilty, strict action should be taken against them. Pulling hair is a great crime. You will see, it will incur great sin.' However, he had not mentioned Shankaracharya's name. As such, this step by the Deputy CM is being seen as an attempt at damage control amid Brahmin resentment. Actually, the Brahmin community in UP is upset over the UGC and Avimukteshwaranand controversy. Pathak is a BJP Brahmin leader, but he was being targeted by the Brahmin community for maintaining silence on both issues so far. It is believed that this program was conducted to send a message to the Brahmin community. According to sources, Pathak undertook this exercise only after taking the central leadership into confidence. Know what happened on Mauni Amavasya On January 18, Shankaracharya Avimukteshwaranand was going to take a bath in a palanquin at Mauni Amavasya in the Prayagraj Magh Mela. The police stopped Shankaracharya Swami Avimukteshwaranand's palanquin. The police asked him to walk to Sangam. The disciples of Shankaracharya did not agree and started moving forward with the palanquin. This led to pushing and shoving between the disciples and the police. Police had taken many disciples into custody. The police had also beaten a sadhu at the police post. This made Shankaracharya angry. He insisted on getting his disciples released. Officials tried to convince him, folded their hands, but he did not agree. After this, the police took many more supporters of Shankaracharya into custody. Shankaracharya's palanquin was dragged 1 km away from Sangam. During this, the canopy of the palanquin also broke. Shankaracharya could not even take a bath. Shankaracharya remained on dharna outside his camp till January 28. Then returned to Varanasi. Deputy CM Keshav Prasad Maurya had tried damage control. In Prayagraj, he had said that I bow at the feet of revered Shankaracharya ji. I request him to take a bath. If any revered saint or Shankaracharya ji has been insulted, we will investigate and take action. However, Keshav had not gone to meet Shankaracharya. Images of clash between Shankaracharya's disciples and police- Exchange of allegations continues between Yogi and Shankaracharya Avimukteshwaranand First know 2 major statements of Yogi... 'Not everyone can become Shankaracharya' CM Yogi Adityanath spoke in the assembly on Friday, February 13 regarding the Shankaracharya Avimukteshwaranand controversy. Yogi said - Not everyone can write themselves as Shankaracharya. No one is above the law. Not even me. I believe every person in India should follow the law. If SP people want to worship him, let them worship. CM said - An issue that was not there in the Magh Mela was deliberately made into one. Will every person roam around the entire state becoming Chief Minister? Will someone roam around putting up a minister's board? Will someone roam around becoming SP's president? No... There is a system, there is a process. 'The same law applies to me as it does to any common person' Yogi said - This is the same system in India's Sanatan Dharma. In Sanatan Dharma, the position of Shankaracharya is considered supreme and sacred. Look at the system of the House, there is tradition here too. The House operates according to rules. On Mauni Amavasya in Magh Mela, 4.5 crore people came. A system was created for everyone. Law is equal for all. The same law applies to me as it does to any common person. No person can be above the law. It is my belief that every person in India should follow the law.",
       "date": "2026-02-19",
       "timestamp": "Thu, 19 Feb 2026 04:29:55 +0000",
       "section": "UP_Focus",
@@ -26353,6 +26548,58 @@
       "lang": "en"
     },
     {
+      "id": "6cc4fd6292b62bf915567dc24c230afe",
+      "title": "Mirzapur News: छत्तीसगढ़ से सोना लूट कर भाग रहे चार बदमाश गिरफ्तार, मुठभेड़ में दो को लगी गोली",
+      "link": "https://www.amarujala.com/uttar-pradesh/mirzapur/mirzapur-police-encounter-four-criminals-fleeing-after-looting-gold-from-chhattisgarh-arrested-2026-02-19",
+      "summary": "एएसपी सिटी आपरेशन मनीष कुमार मिश्रा ने बताया कि तीन दिन पहले छत्तीसगढ़ के विलासपुर में बदमाशों ने ज्वेलरी व्यवसायी से सोना लूट की घटना को अंजाम दिया था।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 03:04:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "df66205932bef65327231219f55b57be",
+      "title": "रोशनी की जगह अंधेरा ले आए: 30 मरीजों के आंख की हुआ ऑपरेशन, नौ बुजुर्गों की निकालनी पड़ीं आंखें; 10 की गई रोशनी",
+      "link": "https://www.amarujala.com/gorakhpur/gorakhpur-hospital-negligence-cataract-surgeries-lead-to-severe-infection-patient-lose-eyes-2026-02-19",
+      "summary": "गोरखपुर के सिकरीगंज के जद्दूपट्टी स्थित न्यू राजेश हाईटेक हॉस्पिटल में मोतियाबिंद के ऑपरेशन के बाद मरीजों की आंख में फैला संक्रमण गंभीर होता जा रहा है। एम्स दिल्ली में इलाज करा रहीं वहिदुंन निशा की एक आंख की रोशनी चली गई है।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 03:02:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "51470029719d464ee323cbff9047ae66",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-19",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 03:01:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "376962937fbde813e431e3dbc30b84a3",
+      "title": "पढ़ें 19 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-19",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 03:01:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "60dfe99a0cbda580b2be6c40e634ff29",
       "title": "NGT Orders joint probe into quarry impact on Tata Cancer Hospital due to illegal mining",
       "link": "https://www.thehindu.com/news/national/maharashtra/ngt-orders-joint-probe-into-quarry-impact-on-tata-cancer-hospital-due-to-illegal-mining/article70648088.ece",
@@ -26363,6 +26610,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "96eed88e4a125ecc3390de0eae9e899c",
+      "title": "अमर उजाला इंपैक्ट: बीएचयू अस्पताल में डिप्टी एमएस को नर्सिंग सुप्रीटेंडेंट का चार्ज, काम की निगरानी भी करेंगे",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/amar-ujala-impact-deputy-ms-in-bhu-hospital-takes-charge-as-nursing-superintendent-will-monitor-work-2026-02-19",
+      "summary": "डिप्टी एमएस प्रो.निलेश कुमार नर्सिंग, डिप्टी, असिस्टेंट नर्सिंग सुप्रीटेंडेंट के कार्यों की निगरानी के साथ ही उसकी समीक्षा करने की जिम्मेदारी दी गई है।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:56:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -26494,6 +26754,19 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
+    },
+    {
+      "id": "837be20a9063d552ccfe572e1c2920f7",
+      "title": "Karnataka: डीके शिवकुमार और राहुल गांधी पर बरसे भाजपा नेता, कर्नाटक में कचरा विवाद पर छिड़ी सियासी जंग",
+      "link": "https://www.amarujala.com/india-news/karnataka-bjp-congress-clash-bengaluru-garbage-dispute-dk-shivakumar-ct-ravi-statement-2026-02-19",
+      "summary": "karnataka bjp congress clash bengaluru garbage dispute dk shivakumar ct ravi statement- Karnataka: डीके शिवकुमार और राहुल गांधी पर बरसे भाजपा नेता, कर्नाटक में कचरा विवाद पर छिड़ी सियासी जंग",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:53:17 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "ae9ba5341f3778ebd640a3676520d1b4",
@@ -26821,6 +27094,32 @@
       "lang": "en"
     },
     {
+      "id": "6627cb488c1d071169e1a94da241eb28",
+      "title": "बिल गेट्स ने AI समिट में क्यों रद्द किया भाषण: कौन से विवाद को नहीं देना चाहते 'तूल', क्या है एपस्टीन कनेक्शन?",
+      "link": "https://www.amarujala.com/india-news/bill-gates-keynote-address-in-ai-impact-summit-india-epstein-files-know-his-program-and-why-gates-foundation-2026-02-19",
+      "summary": "एआई समिट में बिल गेट्स का क्या कार्यक्रम निर्धारित था? उनके इस सम्मेलन में आने को लेकर कैसे संशय की स्थिति बनी रही? गेट्स के समिट में न आने को लेकर सरकार का क्या बयान आया है?",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:43:27 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c7255ed19156818dfd7b94551588a56a",
+      "title": "UP News: शाहजहांपुर में भतीजी के वैवाहिक कार्यक्रम में थिरके अभिनेता राजपाल यादव, परिजनों संग किया डांस",
+      "link": "https://www.amarujala.com/uttar-pradesh/shahjahanpur/actor-rajpal-yadav-danced-with-his-family-at-his-niece-s-wedding-in-shahjahanpur-2026-02-19",
+      "summary": "जेल से जमानत पर रिहा होने के बाद अपने पैतृक गांव पहुंचे राजपाल यादव, बृहस्पतिवार को है भतीजी की शादी",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:43:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "73aedabcce1882538b0d722c1c618d89",
       "title": "Lucknow News: संस्कृत से हिंदी के अनुवाद में उलझे, प्रेमचंद के उपन्यास से सुलझा प्रश्न",
       "link": "https://www.amarujala.com/lucknow/confused-in-translation-from-sanskrit-to-hindi-the-question-was-solved-by-premchands-novel-lucknow-news-c-13-lko1070-1611226-2026-02-19",
@@ -26840,6 +27139,19 @@
       "summary": "खतरनाक मांझे से पतंग उड़ाने वाले के खिलाफ एफआईआर",
       "date": "2026-02-19",
       "timestamp": "Thu, 19 Feb 2026 02:41:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "106e6e6135585aac267952724149257b",
+      "title": "UP News: एंटी करप्शन टीम ने नलकूप विभाग के क्लर्क को घूस लेते रंगे हाथ दबोचा, रिटायर्ड कर्मी से मांगे थे रुपये",
+      "link": "https://www.amarujala.com/uttar-pradesh/amethi/anti-corruption-team-caught-clerk-of-tubewell-department-red-handed-while-taking-bribe-in-amethi-2026-02-19",
+      "summary": "यूपी के अमेठी में एंटी करप्शन टीम ने बृहस्पतिवार को नलकूप विभाग के लिपिक को घूस लेते रंगे हाथ धर लिया।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:41:37 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -27003,6 +27315,19 @@
       "lang": "en"
     },
     {
+      "id": "3472b4781f4ceb1bc8f1786798fd17b3",
+      "title": "UP News: अविमुक्तेश्वरानंद ने कसा तंज, 101 बटुकों का पूजन करने से नहीं धुल सकता माघ मेले में हुई घटना का पाप",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/avimukteshwaranand-taunted-of-deputy-cm-worshipping-101-boys-after-magh-mela-incident-in-varanasi-2026-02-19",
+      "summary": "कहा कि उन्होंने ये करके अपनी भावना दिखाई है और जताया कि जो प्रयागराज में हुआ वह पाप था उसको धोने के लिए मैं अपना प्रयास कर रहा हूं।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:37:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "9c6a26260df67e7d3ace4c909b879369",
       "title": "Lucknow News: विमान यात्री की 30 हजार रुपये की घड़ी चोरी",
       "link": "https://www.amarujala.com/lucknow/air-passengers-watch-worth-rs-30000-stolen-lucknow-news-c-13-lko1070-1611445-2026-02-19",
@@ -27026,6 +27351,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "b2f1ff2343026baf6dfb4d7c908c1fc3",
+      "title": "अग्रवाल महिला मंडल ने पूल पिकनिक का आयोजन किया",
+      "link": "https://www.amarujala.com/video/gorakhpur/video-agarwal-mahila-mandal-organised-a-pool-picnic-2026-02-19",
+      "summary": "अग्रवाल महिला मंडल ने पूल पिकनिक का आयोजन किया",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:36:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
       "lang": "en"
     },
     {
@@ -27068,6 +27406,19 @@
       "lang": "en"
     },
     {
+      "id": "f42e42a2991375af5cb73698767da825",
+      "title": "यूपी बजट सत्र: \"यूपी में छह साल में एक भी बार नहीं बढ़ाई गईं बिजली की दरें\" ऊर्जा मंत्री ने सदन में दिया जवाब",
+      "link": "https://www.amarujala.com/live/lucknow/up-legislative-session-live-amidst-allegations-and-counter-allegations-the-ruling-party-is-ready-2026-02-19",
+      "summary": "यूपी के विधानमंडल का बजट सत्र जारी है। विपक्ष लगातार सरकार को घेरने की कोशिश कर रहा है। वहीं, सत्ता पक्ष भी पूरी तैयारी से नजर आ रहा है। देखें, आज की कार्यवाही से जुड़े सभी अपडेट:",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:34:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "5ce6df173a2d33c18148ac08d5fdf258",
       "title": "Gorakhpur News: देर से आए लेकिन समय से जाएंगे प्रवासी पक्षी",
       "link": "https://www.amarujala.com/gorakhpur/migratory-birds-arrive-from-europe-and-the-himalayan-region-in-november-gorakhpur-news-c-7-gkp1038-1234575-2026-02-19",
@@ -27094,6 +27445,19 @@
       "lang": "en"
     },
     {
+      "id": "697cd81e84d370ea45fce42bb84cf48c",
+      "title": "Board Exam: पहली बार एआई की निगरानी में होंगी कॉपी चेक, रिजल्ट पर भी पड़ेगा असर, ऐसे जांची जाएंगी कॉपियां",
+      "link": "https://www.amarujala.com/uttar-pradesh/aligarh/ai-supervised-board-exam-copy-checking-2026-02-19",
+      "summary": "सीबीएसई ने 12वीं बोर्ड परीक्षा के मूल्यांकन में तकनीकी बदलाव करते हुए इस बार कॉपियों की जांच एआई (आर्टिफिशियल इंटेलिजेंस) निगरानी में करने का निर्णय लिया है। इसके तहत उत्तर प्रदेश सहित देशभर के मूल्यांकन केंद्रों पर तैयारियां पूरी कर ली गईं।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:31:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "b00bb1979b1c8fc25d3286bb61d4afe9",
       "title": "Gorakhpur News: एसएसपी ने पांच सीओ के कार्यक्षेत्र में किया बदलाव",
       "link": "https://www.amarujala.com/gorakhpur/ssp-changes-the-jurisdiction-of-five-cos-gorakhpur-news-c-7-1-gkp1055-1234551-2026-02-19",
@@ -27105,6 +27469,19 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
+    },
+    {
+      "id": "e406b7ea121591967f2445f459af069f",
+      "title": "West Bengal: बंगाल में चुनाव की आहट के साथ फिर 'सेटिंग' की चर्चा, जानिए सत्ता पाने में क्यों है इतना कारगर",
+      "link": "https://www.amarujala.com/india-news/west-bengal-pet-conspiracy-setting-word-in-centre-stage-ahead-of-elections-2026-02-19",
+      "summary": "West Bengal: बंगाल में चुनाव की आहट के साथ फिर 'सेटिंग' की चर्चा, जानिए सत्ता पाने में क्यों है इतना कारगर west bengal pet conspiracy setting word in centre stage ahead of elections",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:29:57 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "a6f3a4f960944b61fd871ee6e1a2a512",
@@ -27263,6 +27640,19 @@
       "lang": "en"
     },
     {
+      "id": "36f89ab644aa273b7f4835ef1ad81bdb",
+      "title": "नोएडा फ्लावर शो: आम जनता की एंट्री पर रोक, दो घंटे इंतजार के बाद महिलाएं और बच्चे लौटे घर",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-common-people-did-not-get-entry-in-noida-flower-show-2026-02-19",
+      "summary": "नोएडा फ्लावर शो: आम जनता की एंट्री पर रोक, दो घंटे इंतजार के बाद महिलाएं और बच्चे लौटे घर",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:22:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "2d75c142d1ee63c195846815189e7b63",
       "title": "आरटीई : ऑनलाइन लॉटरी में 2708 बच्चों को विद्यालय आवंटित",
       "link": "https://www.amarujala.com/gorakhpur/1533-children-will-remain-waiting-they-will-get-admission-in-the-next-phase-gorakhpur-news-c-7-gkp1038-1233787-2026-02-19",
@@ -27302,6 +27692,32 @@
       "lang": "en"
     },
     {
+      "id": "f839fc7e8b8f2dfbe96bbb1a8b61e495",
+      "title": "Lucknow: नगर निगम फिर से लगाएगा कूड़े से बिजली बनाने का प्लांट, एक बार फेल हो चुका है प्लांट",
+      "link": "https://www.amarujala.com/lucknow/lucknow-municipal-corporation-to-set-up-garbage-to-electricity-plant-again-2026-02-19",
+      "summary": "बेहतर कचरा प्रबंधन और शहर को स्वच्छता में नंबर वन बनाने के लिए नगर निगम कूड़े से बिजली उत्पादन का प्लांट लगाएगा। इसके लिए 21 फरवरी को सदन की विशेष बैठक बुलाई गई है।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:21:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "071b6ed19ee750f7beb4b92084bca41f",
+      "title": "AI Summit 2026: एआई समिट में पीएम मोदी ने दिया भगवान बुद्ध का यह संदेश, कहा- सही समझ से होता है सही काम",
+      "link": "https://www.amarujala.com/india-news/india-ai-impact-summit-2026-pm-modi-ai-roadmap-buddha-teachings-global-cooperation-human-centric-ai-2026-02-19",
+      "summary": "india ai impact summit 2026 pm modi ai roadmap buddha teachings global cooperation human centric ai- AI Summit 2026: एआई समिट में पीएम मोदी ने दिया भगवान बुद्ध का यह संदेश, कहा- सही समझ से होता है सही काम",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:20:29 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "ae6cf75e573c9bfff39e5375627d0f7a",
       "title": "Gorakhpur News: गोरखपुर में होगी राज्यस्तरीय बालिका हॉकी प्रतियोगिता",
       "link": "https://www.amarujala.com/gorakhpur/the-competition-will-be-held-from-february-23-to-28-at-veer-bahadur-singh-sports-college-gorakhpur-news-c-7-gkp1038-1233704-2026-02-19",
@@ -27326,6 +27742,19 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "43484ab6fd30ee0f9cfa7c55d8653cce",
+      "title": "Indian Navy: बहुपक्षीय समुद्री अभ्यास MILAN 2206 का 13वा संस्करण आज, रक्षा मंत्री राजनाथ सिंह ने किया उद्घाटन",
+      "link": "https://www.amarujala.com/india-news/visakhapatnam-defence-minister-rajnath-singh-inauguration-of-13th-edition-of-exercise-milan2026-indian-navy-2026-02-19",
+      "summary": "Visakhapatnam: Defence Minister Rajnath Singh, Inauguration of 13th edition of Exercise MILAN2026, Indian Navy - Indian Navy: बहुपक्षीय समुद्री अभ्यास MILAN 2206 का 13वा संस्करण आज, रक्षा मंत्री राजनाथ सिंह ने किया उद्घाटन",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:16:43 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "ecd0c66029523d3ff170910912a94b9d",
@@ -27364,6 +27793,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "00985694869457104bdaa897b509fd7b",
+      "title": "घुटनों पर वार, डर पर प्रहार: ‘अपराजिता’ में छात्राओं ने सीखी आत्मरक्षा की धार",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-amar-ujala-aparajita-program-organized-at-government-post-graduate-college-noida-sector-39-2026-02-19",
+      "summary": "घुटनों पर वार, डर पर प्रहार: ‘अपराजिता’ में छात्राओं ने सीखी आत्मरक्षा की धार",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:12:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -27416,6 +27858,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "8ccd332dcba75e248d8208930cbefc8d",
+      "title": "एमपीएल सीजन 5: महर्षि यूनिवर्सिटी की विजयी चेज, 7 गेंदें बाकी रहते जीता फाइनल",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-muit-wins-over-bennett-university-by-three-wickets-in-mpl-season-five-2026-02-19",
+      "summary": "एमपीएल सीजन 5: महर्षि यूनिवर्सिटी की विजयी चेज, 7 गेंदें बाकी रहते जीता फाइनल",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:09:39 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -27510,6 +27965,19 @@
       "lang": "en"
     },
     {
+      "id": "cb2023d40cdca31a56c5cd2f6f457160",
+      "title": "Ballia Crime: दोहरे हत्याकांड के दोषी को उम्रकैद, 19 साल पुराने मामले में अदालत ने सुनाया फैसला",
+      "link": "https://www.amarujala.com/uttar-pradesh/ballia/khadipur-double-murder-case-convict-gets-life-imprisonment-ballia-news-c-190-1-ana1001-158126-2026-02-19",
+      "summary": "इस घटना में दो-तीन लोग बुरी तरह से घायल हो गए। जिसमें राधा किसुन व स्वामी नाथ की मौत हो गई।",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 02:05:23 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "9514af1d00a589c3870bab87753f50fc",
       "title": "Varanasi News: जिला विधिक सेवा प्राधिकरण ने लगाया शिविर",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/district-legal-services-authority-organized-a-camp-varanasi-news-c-20-vns1021-1295803-2026-02-19",
@@ -27549,19 +28017,6 @@
       "lang": "en"
     },
     {
-      "id": "51470029719d464ee323cbff9047ae66",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-19",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 02:03:34 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "6d01dc430773fa31bd4d8ead67607402",
       "title": "Lucknow: चलती विद्युत लाइन का ट्रांसफॉर्मर क्षतिग्रस्त कर कीमती उपकरण ले गए चोर, 300 घर अंधेरे में डूबे",
       "link": "https://www.amarujala.com/lucknow/valuable-equipment-stolen-after-damaging-a-live-power-line-transformer-in-chinhat-lucknow-2026-02-19",
@@ -27573,19 +28028,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "376962937fbde813e431e3dbc30b84a3",
-      "title": "पढ़ें 19 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-19",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 02:03:18 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "e85b63c475c112e0eb1c6996b61fccf4",
@@ -27744,19 +28186,6 @@
       "lang": "en"
     },
     {
-      "id": "f42e42a2991375af5cb73698767da825",
-      "title": "यूपी बजट सत्र: \"यूपी में छह साल में एक भी बार नहीं बढ़ाई गईं बिजली की दरें\" ऊर्जा मंत्री ने सदन में दिया जवाब",
-      "link": "https://www.amarujala.com/live/lucknow/up-legislative-session-live-amidst-allegations-and-counter-allegations-the-ruling-party-is-ready-2026-02-19",
-      "summary": "यूपी के विधानमंडल का बजट सत्र जारी है। विपक्ष लगातार सरकार को घेरने की कोशिश कर रहा है। वहीं, सत्ता पक्ष भी पूरी तैयारी से नजर आ रहा है। देखें, आज की कार्यवाही से जुड़े सभी अपडेट:",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 01:43:11 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Lucknow",
-      "lang": "en"
-    },
-    {
       "id": "b08bd01f554443a5eddb6112e0d872a2",
       "title": "यूपी में 'यादव जी की लव स्टोरी' का विरोध: समाज की भावनाओं को आहत करने का आरोप, विरोध कर फिल्म पर रोक की मांग",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/protest-against-yadav-ji-ki-love-story-in-up-accused-of-hurting-community-sentiment-mainpuri-and-firozabad-2026-02-19",
@@ -27838,7 +28267,7 @@
       "id": "366bb6ac9b5102cace03f0da758e0666",
       "title": "Shivaji Jayanti: प्रधानमंत्री मोदी ने दी शिवाजी महाराज को श्रद्धांजलि, कई कांग्रेस नेताओं ने भी किया याद",
       "link": "https://www.amarujala.com/india-news/prime-minister-modi-paid-tribute-to-shivaji-maharaj-many-congress-leaders-also-remembered-him-2026-02-19",
-      "summary": "आज छत्रपति शिवाजी महाराज का जयंती है। इस मौके पर प्रधानंत्री से लेकर कई कांग्रेसी नेताओं ने उन्हें याद किया।",
+      "summary": "आज छत्रपति शिवाजी महाराज का जयंती है। इस मौके पर प्रधानत्री से लेकर कई कांग्रेसी नेताओं ने उन्हें याद किया।",
       "date": "2026-02-19",
       "timestamp": "Thu, 19 Feb 2026 01:27:47 +0530",
       "section": "National",
@@ -81911,6 +82340,97 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0b5b10418f7e4233bc8742997212d8d3",
+      "title": "'Her skin’s so beautiful': Trump’s unexpected praise for Nicki Minaj steals spotlight at Black History Month event in White House",
+      "link": "https://timesofindia.indiatimes.com/world/us/her-skins-so-beautiful-trumps-unexpected-praise-for-nicki-minaj-steals-spotlight-at-black-history-month-event-in-white-house/articleshow/128546563.cms",
+      "summary": "President Donald Trump made headlines at a White House Black History Month event with personal praise for rapper Nicki Minaj. His comments on her beauty and nails quickly spread online. This moment gained attention due to Minaj's visible political support for Trump. The incident fuels discussions on celebrity involvement in politics and messaging during significant national observances.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-19T14:50:01+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ab3d50372e6e7d7d476c79998ac38db4",
+      "title": "Canada sharpens skilled immigration system, unveils new Express Entry categories for 2026",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/canada-sharpens-skilled-immigration-system-unveils-new-express-entry-categories-for-2026/articleshow/128549635.cms",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-19T14:43:14+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e4aaa65751a8f7e84f5adaac2e18111f",
+      "title": "Freed of murder charges after 43 years, why is Indian-origin Subramanyam Vedam still not free in US?",
+      "link": "https://timesofindia.indiatimes.com/world/us/freed-of-murder-charges-after-43-years-why-is-indian-origin-subramanyam-vedam-still-not-free-in-us/articleshow/128543298.cms",
+      "summary": "An Indian-origin man, exonerated after 43 years in prison for a murder conviction overturned due to withheld evidence, now faces deportation. Despite his release from state prison, he was immediately taken into federal immigration custody, with bail denied due to a decades-old minor drug felony.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-19T14:34:14+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ea49f4dcf7e5ea08a53b0072f09a4ba2",
+      "title": "Claim, blame, warning, exit: How Galgotias University's Chinese robodog row unfolded at AI Summit",
+      "link": "https://timesofindia.indiatimes.com/india/claim-blame-warning-exit-how-galgotias-universitys-chinese-robodog-row-unfolded-at-ai-summit/articleshow/128547943.cms",
+      "summary": "",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-19T14:18:27+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "13ee68e883ced41caa3bce1cab418f60",
+      "title": "UAE lottery website faces registration glitches, users advised on support options",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-lottery-website-faces-registration-glitches-users-advised-on-support-options/articleshow/128547593.cms",
+      "summary": "UAE's first federally authorized lottery has launched, but a surge in traffic has caused technical glitches on its official website. The lottery operator is actively working to fix these issues and has provided live chat, email, and phone support for affected users.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-19T14:05:09+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a6882cdda0760f592815357e3c71c004",
+      "title": "No way to stop 15000 city-killing asteroids from striking Earth: NASA scientist warns",
+      "link": "https://timesofindia.indiatimes.com/science/no-way-to-stop-15000-city-killing-asteroids-from-striking-earth-nasa-scientist-warns/articleshow/128546680.cms",
+      "summary": "Earth faces a significant threat from thousands of undetected asteroids capable of destroying cities. NASA's planetary defence chief warns that current systems cannot reliably stop these 'city-killers'. While progress is being made with new telescopes and international efforts, a substantial gap remains in our ability to detect and deflect such objects before they impact our planet.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-19T14:03:08+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "457a8a026fee8ab345748a7430716c83",
+      "title": "At AI Summit, PM Modi’s nameplate carries a ‘Bharat’ message",
+      "link": "https://timesofindia.indiatimes.com/india/at-ai-summit-pm-modis-nameplate-carries-a-bharat-message/articleshow/128547864.cms",
+      "summary": "Prime Minister Narendra Modi urged the global community at the AI Impact Summit to leverage technological disruption as humanity's greatest opportunity, emphasizing \"right action\" guided by \"right understanding.\" The summit also saw the country's nameplate displayed as \"Bharat,\" a recurring practice at official global events, sparking renewed discussion.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-19T14:00:47+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
