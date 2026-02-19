@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T18:43:56.680273+00:00",
+  "generated_at": "2026-02-19T19:36:15.043028+00:00",
   "stories": [
     {
       "id": "47967d7f2c4ee67a2a514d266f0bafde",
@@ -25625,6 +25625,19 @@
       "lang": "en"
     },
     {
+      "id": "fb536be375cdf58becf1ffa6197cbb6a",
+      "title": "Trump's Board of Peace members pledge $7bn in Gaza relief",
+      "link": "https://www.bbc.com/news/articles/cp8rke05kv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump said it \"looks like\" Hamas will disarm, even though there are signs the group is regrouping.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 19:33:36 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "489bf1b1ed09cd20b99e0892d47a1d9d",
       "title": "Maharashtra CM Fadnavis lauds Gadchiroli police for removing last visible symbols of Maoist terror",
       "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cm-fadnavis-lauds-gadchiroli-police-for-removing-last-visible-symbols-of-maoist-terror/article70652354.ece",
@@ -25777,6 +25790,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6699b23358f5d07b03e4ac8b7bfca21d",
+      "title": "Trump says world has 10 days to see if Iran deal reached",
+      "link": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US is surging forces to the Middle East amid negotiations with the Islamic Republic over its nuclear programme.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 19:23:55 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -26028,6 +26054,19 @@
       "lang": "en"
     },
     {
+      "id": "f3f13e814b6d9da9b81b5e3445efcbc0",
+      "title": "US build-up of warships and fighter jets tracked near Iran",
+      "link": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A second US aircraft carrier appears to be heading towards the Middle East, as Washington puts pressure on Iran.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 18:57:06 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "da3c665b431e5a1f51df01b0e16fbc6f",
       "title": "Raichur MP: Want clarity on national strategy to curb ultra-processed foods",
       "link": "https://www.thehindu.com/news/national/karnataka/raichur-mp-want-clarity-on-national-strategy-to-curb-ultra-processed-foods/article70651745.ece",
@@ -26141,6 +26180,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6f071d4744dc571872230627b1c6d097",
+      "title": "Trump announces billions of dollars in Gaza aid at Board of Peace meeting",
+      "link": "https://www.aljazeera.com/news/2026/2/19/trump-announces-billions-of-dollars-in-gaza-aid-at-board-of-peace-meeting?traffic_source=rss",
+      "summary": "US President Donald Trump announces pledges to a Gaza reconstruction fund during first meeting of his Board of Peace.",
+      "date": "2026-02-19",
+      "timestamp": "Thu, 19 Feb 2026 18:47:48 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -26921,19 +26973,6 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "6699b23358f5d07b03e4ac8b7bfca21d",
-      "title": "Trump says world has 10 days to see if Iran deal reached",
-      "link": "https://www.bbc.com/news/articles/c86yjnw4x49o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US is surging forces to the Middle East amid negotiations with the Islamic Republic over its nuclear programme.",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 16:40:45 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -69487,19 +69526,6 @@
       "lang": "en"
     },
     {
-      "id": "f3f13e814b6d9da9b81b5e3445efcbc0",
-      "title": "US build-up of warships and fighter jets tracked near Iran",
-      "link": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
-      "summary": "BBC Verify has seen US aircraft carrier USS Abraham Lincoln near Iran ahead of talks between the two countries",
-      "date": "2026-02-16",
-      "timestamp": "Mon, 16 Feb 2026 18:17:18 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "07200dcdd55ec584daa028ee87257a33",
       "title": "T20 World Cup | Omarzai’s all-round show gets Afghanistan off the mark",
       "link": "https://www.thehindu.com/sport/cricket/afghanistan-uae-match-new-delhi-february-16-monday/article70637548.ece",
@@ -77560,6 +77586,58 @@
       "lang": "en"
     },
     {
+      "id": "87c39f5fa1f7640c3e2b7a91b7eb472f",
+      "title": "Varanasi News: पूर्व सांसद धनंजय सिंह पर हमले में दो प्रमुख गवाहों से जिरह पूरी, 27 फरवरी को अगली सुनवाई",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/cross-examination-of-two-key-witnesses-in-the-attack-on-former-mp-dhananjay-singh-completed-next-hearing-on-february-27-varanasi-news-c-20-vns1056-1296564-2026-02-20",
+      "summary": "पूर्व सांसद धनंजय सिंह पर हमले में दो प्रमुख गवाहों से जिरह पूरी, 27 फरवरी को अगली सुनवाई",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 12:48:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "696a65c853c964f288152f981f6be126",
+      "title": "Varanasi News: जोनल अधिकारी को प्रतिकूल प्रविष्टि के साथ कारण बताओ नोटिस",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/show-cause-notice-with-adverse-entry-to-the-zonal-officer-varanasi-news-c-20-vns1056-1296722-2026-02-20",
+      "summary": "जोनल अधिकारी को प्रतिकूल प्रविष्टि के साथ कारण बताओ नोटिस",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 12:46:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "eb71fd679885323c242168034f26f3c6",
+      "title": "Varanasi News: दवा लेकर लौट रहे बुजुर्ग की सड़क हादसे में मौत",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/elderly-man-returning-with-medicine-dies-in-road-accident-varanasi-news-c-20-vns1056-1297263-2026-02-20",
+      "summary": "दवा लेकर लौट रहे बुजुर्ग की सड़क हादसे में मौत",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 12:44:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "6d6b6717e160b7636c64a056c3b9f549",
+      "title": "Varanasi News: कचहरी स्थानांतरण में मतभेद, बीबीए सहमत नहीं",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/differences-in-court-transfer-bba-not-agreeing-varanasi-news-c-20-vns1056-1296607-2026-02-20",
+      "summary": "कचहरी स्थानांतरण में मतभेद, बीबीए सहमत नहीं",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 12:41:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "bedf2970aceb8d1369b6adc17bb733aa",
       "title": "Ayodhya News: मेडिकल कॉलेज में थायराइड जांच बंद, मरीज परेशान",
       "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/thyroid-testing-stopped-at-the-medical-college-patients-worried-ayodhya-news-c-97-1-ayo1005-143530-2026-02-20",
@@ -77638,19 +77716,6 @@
       "lang": "en"
     },
     {
-      "id": "506c41a33854fa547466c6823ae847ee",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-20",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 12:00:56 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "a068086265ae8918bc54e575659f6064",
       "title": "Ayodhya News: एसटीएफ बताकर ठगी करने का आरोपी गिरफ्तार",
       "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/accused-arrested-for-cheating-by-posing-as-stf-ayodhya-news-c-97-1-ayo1005-143575-2026-02-20",
@@ -77661,6 +77726,162 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "df9acb09b761caa8832cf3fc78455569",
+      "title": "Varanasi News: होली पर विशेष ट्रेनों से घर पहुंचने की राह होगी आसान",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/it-will-be-easier-to-reach-home-by-special-trains-on-holi-varanasi-news-c-20-vns1056-1296839-2026-02-20",
+      "summary": "It will be easier to reach home by special trains on Holi",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 01:05:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "caa69c6f5dbb2ee466aaf60f5a69c4ec",
+      "title": "Varanasi News: तरना में ढाई घंटे नहीं रहेगी बिजली",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/there-will-be-no-electricity-in-tarna-for-two-and-a-half-hours-varanasi-news-c-20-vns1021-1297253-2026-02-20",
+      "summary": "There will be no electricity in Tarna for two and a half hours",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 01:03:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "ba7bc83b1e03a3b6b884069fa3818ee2",
+      "title": "Varanasi News: विधानसभा में सपा एमएलसी ने उठाया विश्वनाथ मंदिर में भक्तों की परेशानी का मुद्दा",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/sp-mlc-raised-the-issue-of-problems-faced-by-devotees-in-vishwanath-temple-in-the-assembly-varanasi-news-c-20-vns1056-1297285-2026-02-20",
+      "summary": "SP MLC raised the issue of problems faced by devotees in Vishwanath temple in the assembly.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 01:02:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "506c41a33854fa547466c6823ae847ee",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-20",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 01:01:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e9ac2123374739e8851dcf101123861e",
+      "title": "पढ़ें 20 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-20",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 01:01:09 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5245e40a8bc627aa81115820814e23d4",
+      "title": "Updates: इटानगर में बाल तस्करी रैकेट के 6 लोगों को हिरासत में लिया; कटक में पटाखा विस्फोट में मां-बेटी की मौत",
+      "link": "https://www.amarujala.com/india-news/national-news-updates-20-feb-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-02-20",
+      "summary": "Updates: इटानगर में बाल तस्करी रैकेट के 6 लोगों को हिरासत में लिया; कटक में पटाखा विस्फोट में मां-बेटी की मौत",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 01:01:04 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c7c2b7c4b99b08b889ee5c89e2cfb458",
+      "title": "Gang held in Ranipet for smuggling 12 tonnes of PDS rice",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/gang-held-in-ranipet-for-smuggling-12-tonnes-of-pds-rice/article70651709.ece",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 00:48:51 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4aec9b54f018aaf4bdf9eafa9ed5e2d8",
+      "title": "Travel operators seek road tax relief, rollback of 3% cess in pre-Budget memorandum",
+      "link": "https://www.thehindu.com/news/national/karnataka/travel-operators-seek-road-tax-relief-rollback-of-3-cess-in-pre-budget-memorandum/article70652872.ece",
+      "summary": "To help achieve the targets under the Tourism Policy 2024–29, the association sought tax exemptions or reductions for tourist vehicles, including mini buses, multi-utility vehicles",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 00:47:09 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0ead0656506ddbf06fa86a4761a80ca7",
+      "title": "Gang arrested for looting 15 kg silver ornaments from jewellery merchant",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/gang-arrested-for-looting-15-kg-silver-ornaments-from-jewellery-merchant/article70651693.ece",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 00:46:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5eb7f6261c523c564f0778b405fe53ef",
+      "title": "लखनऊ में नहीं हो पाएगी धीरेंद्र शास्त्री की कथा, एलडीए ने निरस्त किया मैदान का आवंटन",
+      "link": "https://www.livehindustan.com/uttar-pradesh/dhirendra-shastri-katha-will-not-be-staged-in-lucknow-lda-cancels-allotment-of-ground-201771528055791.html",
+      "summary": "राजधानी लखनऊ में धीरेंद्र शास्त्री की कथा नहीं हो पाएगी। एलडीए ने राष्ट्र प्रेरणा स्थल मैदान का आवंटन निरस्त कर दिया है। यह कथा 14 से 18 मार्च के बीच आयोजित होनी थी।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 00:45:51 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d621c93f6883aa315b33e64a42e377d7",
+      "title": "Scientific temper to the fore at school exhibition",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/scientific-temper-to-the-fore-at-school-exhibition/article70652672.ece",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 00:40:09 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e55f999035c0fbe73099ee674dd86b73",
+      "title": "Two youth killed in a road accident near Chengam",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/two-youth-killed-in-a-road-accident-near-chengam/article70651705.ece",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 00:39:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -88896,8 +89117,34 @@
       "lang": "en"
     },
     {
+      "id": "b8a0ec77fa4a2e4b8ee12d000d5681ca",
+      "title": "‘I almost terminated him’: Why did Donald Trump say he wanted to fire US Secretary of State Marco Rubio?",
+      "link": "https://timesofindia.indiatimes.com/world/us/i-almost-terminated-him-why-did-donald-trump-say-he-wanted-to-fire-us-secretary-of-state-marco-rubio/articleshow/128572268.cms",
+      "summary": "President Trump playfully teased Secretary of State Marco Rubio and First Lady Melania Trump about sharing the spotlight at the inaugural Board of Peace meeting. The board, focused on the Gaza ceasefire and rebuilding, saw pledges of $7 billion from several nations, with the US contributing $10 billion. Trump praised both Rubio and Vice President Vance for their contributions.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-20T00:30:43+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ba9a5865b034aea6c42e31e4b3cfab70",
+      "title": "Flooding shuts down Baglihar hydropower project in J&K",
+      "link": "https://timesofindia.indiatimes.com/india/flooding-shuts-down-baglihar-hydropower-project-in-jk/articleshow/128571699.cms",
+      "summary": "Operations at the Baglihar hydropower project's stage 1 in Jammu and Kashmir were halted due to flooding in the machine room. While stage 1 remains suspended for scheduled maintenance, stage 2, unaffected by the flooding, will continue to generate power. This allows for stage 2 to operate during the lean period when it would typically be closed.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-20T00:10:47+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4c0bb666c82d74708ec01392429fca3c",
-      "title": "Infiltration bid foiled, terror module busted in Jammu",
+      "title": "Infiltration bid foiled, terror module busted in Rajouri",
       "link": "https://timesofindia.indiatimes.com/india/infiltration-bid-foiled-terror-module-busted-in-jammu/articleshow/128571938.cms",
       "summary": "Troops thwarted an infiltration attempt along the LoC in Jammu's Sunderbani sector. In a separate operation in Nowshera, a terror module was busted, leading to the arrest of a suspected associate and the seizure of a significant arms cache, dismantling a trans-border weapons racket.",
       "date": "2026-02-19",
@@ -88918,6 +89165,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "574cf87a7aaf2fd6910ae3dd37d2d691",
+      "title": "Clavicular makes New York City runway debut at Elena Velez show after Arizona arrest dismissal and looksmaxxing controversy",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/clavicular-makes-new-york-city-runway-debut-at-elena-velez-show-after-arizona-arrest-dismissal-and-looksmaxxing-controversy/articleshow/128572430.cms",
+      "summary": "Braden Peters, known as Clavicular, brought his controversial looksmaxxing fame to New York City with a runway debut and major media coverage. Days after Arizona prosecutors dropped his arrest case, he walked for Elena Velez and livestreamed the chaos. From risky self-improvement methods to political comments, his rise shows how internet fame is moving into mainstream culture.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-19T23:59:05+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
@@ -88956,6 +89216,19 @@
       "timestamp": "2026-02-19T22:52:45+05:30",
       "section": "National",
       "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e3ea80cbac156c39478d52b5eec8febb",
+      "title": "Committed to minority safety, cordial ties with India; won’t let fundamentalism spread: Lone Hindu minister in B’desh govt",
+      "link": "https://timesofindia.indiatimes.com/india/committed-to-minority-safety-cordial-ties-with-india-wont-let-fundamentalism-spread-lone-hindu-minister-in-bdesh-govt/articleshow/128574206.cms",
+      "summary": "Chowdhury said most political parties had now realised the importance of Hindus in electoral politics, noting that their support was crucial in at least 80 of the total 297 constituencies in National Parliament.",
+      "date": "2026-02-19",
+      "timestamp": "2026-02-19T22:48:00+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "TOI India",
       "district": "",
       "lang": "en"
