@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T17:33:31.979601+00:00",
+  "generated_at": "2026-02-20T18:39:12.318159+00:00",
   "stories": [
     {
       "id": "47967d7f2c4ee67a2a514d266f0bafde",
@@ -26145,19 +26145,6 @@
       "lang": "en"
     },
     {
-      "id": "f3f13e814b6d9da9b81b5e3445efcbc0",
-      "title": "US build-up of warships and fighter jets tracked near Iran",
-      "link": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
-      "summary": "A second US aircraft carrier appears to be heading towards the Middle East, as Washington puts pressure on Iran.",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 18:57:06 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "da3c665b431e5a1f51df01b0e16fbc6f",
       "title": "Raichur MP: Want clarity on national strategy to curb ultra-processed foods",
       "link": "https://www.thehindu.com/news/national/karnataka/raichur-mp-want-clarity-on-national-strategy-to-curb-ultra-processed-foods/article70651745.ece",
@@ -45110,6 +45097,32 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "fd556a2cea1c2f66f6c0c2e742ac624f",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 21 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-21",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-21",
+      "timestamp": "Sat, 21 Feb 2026 12:01:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "29b13e66317d18a9a71dd83a7c929191",
+      "title": "पढ़ें 21 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-21",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-21",
+      "timestamp": "Sat, 21 Feb 2026 12:01:08 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "52a92b7078e20f371861f8e8fd041d92",
@@ -66900,6 +66913,136 @@
       "lang": "en"
     },
     {
+      "id": "bc5bc5116d48dda2f62c9952db8feb1f",
+      "title": "Anbil Mahesh Poyyamozhi inaugurates 654 high tech laboratories benefiting 9 lakh students",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/anbil-mahesh-poyyamozhi-inaugurates-654-high-tech-laboratories-benefiting-9-lakh-students/article70656148.ece",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 23:51:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8f6a5100d33889cc3c9a0955ddc08487",
+      "title": "Allahabad High Court terms U.P. police’s FIRs ‘borrowed from movies scripts,’ gives relief to the accused",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-terms-up-polices-firs-borrowed-from-movies-scripts-gives-relief-to-the-accused/article70656305.ece",
+      "summary": "Expressing serious concern over the manner in which an FIR was drafted by the Bahraich police, the Division Bench pointed out a significant inconsistency in the timeline recorded in the same",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 23:46:36 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "35c16622ed50961729b3a2897972c8e1",
+      "title": "Surgical equipment in abdomen: doctor suspended",
+      "link": "https://www.thehindu.com/news/national/kerala/surgical-equipment-in-abdomen-doctor-suspended/article70657507.ece",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 23:43:54 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6d3559f87c67f506af693820ada63109",
+      "title": "Anthropic to get trademark",
+      "link": "https://www.thehindu.com/news/national/karnataka/anthropic-to-get-trademark/article70657059.ece",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 23:33:09 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bcd75b811fa154aad327d55cc2e403a3",
+      "title": "School dropout rate in Karnataka drops at primary level, but spikes at high school",
+      "link": "https://www.thehindu.com/news/national/karnataka/school-dropout-rate-in-karnataka-drops-at-primary-level-but-spikes-at-high-school/article70639470.ece",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 23:30:35 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eed06f9022e162e1d9cbc6e023ed9ba2",
+      "title": "दाह संस्कार करने के बाद स्नान के दौरान दो लोग गंगा में डूबे, एक की मिली लाश, दूसरे की तलाश",
+      "link": "https://www.livehindustan.com/uttar-pradesh/two-people-drowned-ganges-while-bathing-after-cremating-body-varanasi-one-found-dead-other-still-wanted-201771609472743.html",
+      "summary": "वाराणसी में हादसा हो गया। रोहनिया थाना क्षेत्र के बेटाबर घाट पर बंदेपुर गांव निवासी महिला की मौत के बाद दाह संस्कार के लिए आए लोगों में स्नान करने के दौरान दो लड़के गंगा में डूब गए। जिसमें एक की लाश मिली जबकि दूसरे की तलाश जारी है।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 23:25:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "962c90eff60b5f9864b30802eb57e3e0",
+      "title": "Woman found dead in Bhadravathi",
+      "link": "https://www.thehindu.com/news/national/karnataka/woman-ends-life-in-bhadravathi/article70656943.ece",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 23:25:16 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1428b913cbfe70364f22e088df3bb6bf",
+      "title": "Central library at Amaravati will reflect AP’s history and culture, says HRD Minister Nara Lokesh",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/central-library-at-amaravati-will-reflect-aps-history-and-culture-says-hrd-minister-nara-lokesh/article70656431.ece",
+      "summary": "HRD Minister discusses use of AI tutors in government schools, development works at schools, evaluation of Class X examination answer scripts",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 23:19:52 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8a47d383c10f86fd131ba8c7fc45f05a",
+      "title": "Safeguarding environment is a shared responsibility, says APPCB chief",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/safeguarding-environment-is-a-shared-responsibility-says-appcb-chief/article70656978.ece",
+      "summary": "Krishnaiah calls for a transition of A.P. from a linear economy to a more sustainable circular economy",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 23:13:38 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "edf128c9e839e56abb2ca9ae636a6cd3",
+      "title": "Modi holds talks with top leaders of Mauritius, Sri Lanka, and Slovakia",
+      "link": "https://www.thehindu.com/news/national/modi-holds-talks-with-top-leaders-of-mauritius-sri-lanka-and-slovakia/article70657420.ece",
+      "summary": "PM also held a meeting with UN Secretary General Antonio Guterres and discussed how the global body can play a \"constructive role\" in making use of artificial intelligence inclusive",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 23:05:18 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c4708d6d6282165850b90d4cd4849593",
       "title": "बारात निकलने से पहले दूल्हे के घर में हुआ अंधेरा, लाइनमैन ने खंभे पर चढ़कर काटा कनेक्शन",
       "link": "https://www.livehindustan.com/uttar-pradesh/before-wedding-procession-left-groom-house-went-dark-and-lineman-climbed-pole-to-cut-connection-201771608213272.html",
@@ -67142,6 +67285,19 @@
       "timestamp": "Fri, 20 Feb 2026 22:26:23 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "392c146bdfd5495926ccf33ee777086c",
+      "title": "As two of the world’s largest democracies and dynamic economies, India and Brazil cannot remain distant: President Lula",
+      "link": "https://www.thehindu.com/news/international/president-lula-interview-as-two-of-the-worlds-largest-democracies-and-dynamic-economies-india-and-brazil-cannot-remain-distant/article70656673.ece",
+      "summary": "Bilateral trade between Brazil and India reached its highest level in 2025, but it remains far below its true potential, says the Brazilian President",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 22:13:08 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -67894,19 +68050,6 @@
       "summary": "Findings emerging from the CBI inquiry expose a systemic administrative collapse under the previous YSRCP regime, says TDP State president Palla Srinivasa Rao",
       "date": "2026-02-20",
       "timestamp": "Fri, 20 Feb 2026 20:51:10 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "962c90eff60b5f9864b30802eb57e3e0",
-      "title": "Woman ends life in Bhadravathi",
-      "link": "https://www.thehindu.com/news/national/karnataka/woman-ends-life-in-bhadravathi/article70656943.ece",
-      "summary": "",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 20:50:01 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -69526,6 +69669,19 @@
       "lang": "en"
     },
     {
+      "id": "2f52386f779902e43c233b314610fcd5",
+      "title": "Inside Israel’s plan to turn West Bank land into ‘state property’",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/2/20/aje-onl-pal_wblandregistration_av_v3-1-180226?traffic_source=rss",
+      "summary": "Israel approves West Bank land claims unless Palestinians prove ownership, sparking ‘annexation’ accusations.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 18:14:26 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "52563fe86cf25e0879cf5eca07ea59f5",
       "title": "Post SIR, voter base in Gujarat, Lakshdweep, Puducherry shrinks by nearly 69 lakhs",
       "link": "https://www.thehindu.com/news/national/post-sir-voter-base-in-gujarat-lakshdweep-puducherry-shrinks-by-nearly-69-lakhs/article70656064.ece",
@@ -69535,6 +69691,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "903965a7109cf5e81c5c7172783f09f0",
+      "title": "Who made the cut on Trump’s ‘Board of Peace’ and what they want",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/2/20/aje-onl-glb_boardofpeacemeeting_av_v1-190226?traffic_source=rss",
+      "summary": "The Board of Peace takes Washington.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 18:08:19 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -69549,6 +69718,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "bacb839d2b111b981e070b439d9977ae",
+      "title": "Man Utd owner Ratcliffe avoids charge by FA for ‘colonised’ comment",
+      "link": "https://www.aljazeera.com/sports/2026/2/20/man-utd-owner-ratcliffe-avoids-charge-by-fa-for-colonized-comment?traffic_source=rss",
+      "summary": "Manchester United owner Jim Ratcliffe has apologised if people were offended by UK 'colonised ⁠by immigrants' comment.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 17:54:14 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -69617,6 +69799,19 @@
       "lang": "en"
     },
     {
+      "id": "107fa934abf560535040ae2614788918",
+      "title": "Police search ex-Prince Andrew’s former home a day after his arrest",
+      "link": "https://www.aljazeera.com/news/2026/2/20/police-search-ex-prince-andrews-home-a-day-after-his-arrest?traffic_source=rss",
+      "summary": "Mountbatten-Windsor remains under investigation, which means he has neither been charged nor exonerated by police.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 17:43:52 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "609483b7a2d1d3fbdd6afc9ac6055e1c",
       "title": "Here are the big stories from Karnataka today",
       "link": "https://www.thehindu.com/newsletter/karnataka-today/here-are-the-big-stories-from-karnataka-today/article70655659.ece",
@@ -69666,6 +69861,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f3f13e814b6d9da9b81b5e3445efcbc0",
+      "title": "US build-up of warships and fighter jets tracked near Iran",
+      "link": "https://www.bbc.com/news/articles/c1d64p3q2d0o?at_medium=RSS&at_campaign=rss",
+      "summary": "A second US aircraft carrier appears to be heading towards the Middle East as Washington increases its pressure on Iran.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 17:38:45 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -70384,6 +70592,19 @@
       "lang": "en"
     },
     {
+      "id": "0eb8a4f6ee79067f8c0f3984cd5299b3",
+      "title": "How Eric Dane gave his final months to 'moving the needle' on ALS",
+      "link": "https://www.bbc.com/news/articles/c24d9vpjmnmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Grey's Anatomy star spent his last months campaigning towards a cure for the rare, incurable condition.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 15:46:25 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "32137c1509370f4cfbd44ca277f5d6a2",
       "title": "Ailing 30-year-old female elephant undergoes treatment at Thalavadi",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/ailing30-year-oldfemale-elephantundergoes-treatment-at-thalavadi/article70655050.ece",
@@ -70718,6 +70939,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "79567de35a567a1d7b2085b595c89588",
+      "title": "French soldier dies after being shot in head during 'game' with other soldiers",
+      "link": "https://www.bbc.com/news/articles/cj4z25gl24eo?at_medium=RSS&at_campaign=rss",
+      "summary": "According to prosecutors, the game - known within the military - involves attempting to disarm a colleague and disable their weapon.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:19:27 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -71645,6 +71879,19 @@
       "lang": "en"
     },
     {
+      "id": "53a99e2698dc0881eba7410a416e75a6",
+      "title": "UP Police: पुलिस ने गुमशुदा हुए 88022 को खोज निकाला, 20350 अब भी लापता",
+      "link": "https://www.amarujala.com/lucknow/up-police-police-found-88022-missing-persons-20350-still-missing-2026-02-20",
+      "summary": "यूपी पुलिस ने अभियान चलाकर लापता हुए लोगों में से 88022 लोगों की तलाश की है। 20 हजार 350 लोग आज भी लापता हैं। डीजीपी राजीव कृष्ण ने शुक्रवार को ये आंकड़े जारी किए।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 11:59:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "4c631ee330d2b4c79ad23a0e7a7d40c6",
       "title": "मिर्च में कैंसरकारी डाई, भुने चने में खतरनाक रंग, सैंपलिंग में हैरान करने वाला खुलासा, खुद ऐसे जांचे",
       "link": "https://www.livehindustan.com/uttar-pradesh/adulteratedspicesandfoodsamplesfailinbareillycancercausingdyeinchillipowder-201771567467438.html",
@@ -71694,6 +71941,19 @@
       "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a0590bd5b1f193f403ea2848fa76f12e",
+      "title": "Luckow: 82 लाख से अधिक बकाये पर पराग डेयरी का बैंक खाता सीज, नोटिस के बा भी नहीं दिया गृहकर",
+      "link": "https://www.amarujala.com/lucknow/lucknow-parag-dairy-s-bank-account-seized-for-outstanding-dues-of-over-rs-82-lakh-2026-02-20",
+      "summary": "बिल और नोटिस जारी होने के बाद भी 82.84 लाख रुपये बकाया गृहकर जमा न करने पर नगर निगम ने शुक्रवार को लखनऊ प्रोड्यूसर्स कोऑपरेटिव मिल्क यूनियन लिमिटेड (पराग डेयरी) का बैंक खाता सीज कर दिया।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 11:38:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -71775,6 +72035,19 @@
       "lang": "en"
     },
     {
+      "id": "315ddb382fe8a62272cf1a6bcd3f0b2c",
+      "title": "Children Social Media Ban: 'जरूरी सुरक्षा पर सोशल मीडिया प्लेटफॉर्म के साथ बात चल रही', अश्विनी वैष्णव का बयान",
+      "link": "https://www.amarujala.com/india-news/children-ban-social-media-ashwini-vaishnaw-said-govt-is-in-talks-with-technology-companies-social-media-firms-2026-02-20",
+      "summary": "Children Social Media Ban: 'जरूरी सुरक्षा पर सोशल मीडिया प्लेटफॉर्म के साथ बात चल रही', अश्विनी वैष्णव का बयान",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 11:34:31 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "304b29432e8b5dcdfc40b816a6c2cd52",
       "title": "मौत के 21 साल बाद 'जिंदा' हुई पत्नी; परेशान पति पहुंच गया थाने, जानें पूरा मामला",
       "link": "https://www.livehindustan.com/uttar-pradesh/wife-resurrected-21-years-after-death-distraught-husband-goes-to-police-station-learn-the-full-story-201771566331171.html",
@@ -71807,6 +72080,19 @@
       "summary": "होली के मौके पर रेलवे ने तीन और स्पेशल ट्रेनें चलाने की घोषणा की है, जोकि मुरादाबाद से होकर गुजरेंगी। अन्य दो स्पेशल ट्रेनों के फेरे बढ़ाए गए हैं। यह ट्रेनें पंजाब व उत्तराखंड से बिहार के बीच चलेंगी।",
       "date": "2026-02-20",
       "timestamp": "Fri, 20 Feb 2026 11:30:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "506c41a33854fa547466c6823ae847ee",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-20",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 11:30:33 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -71853,6 +72139,19 @@
       "lang": "en"
     },
     {
+      "id": "70292b64eda4352b8af2e9babba8c78f",
+      "title": "Noida News: इंटरनेट कॉल से धमकी देने वाला आरोपी गिरफ्तार",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/man-arrested-for-threatening-through-internet-call-grnoida-news-c-1-noi1095-3973319-2026-02-20",
+      "summary": "Man arrested for threatening through internet call",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 11:25:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "4a7226254c3b92fbed32150c141f823a",
       "title": "Dr Ricky AJ: शिलांग लोकसभा सांसद डॉ. रिकी एजे का निधन, फुटबॉल खेलते हुए बिगड़ी तबियत, पीएम मोदी ने जताया दुख",
       "link": "https://www.amarujala.com/india-news/dr-ricky-aj-mp-from-shillong-lok-sabha-seat-passes-away-2026-02-20",
@@ -71876,6 +72175,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "943dba4243abcdaf56a8aed43a7086c7",
+      "title": "Lucknow: बुद्धेश्वर चौराहे से ऑटो में बैठी महिला बनी टप्पेबाज का शिकार, शादी से लौटते वक्त पार किए गहने",
+      "link": "https://www.amarujala.com/lucknow/lucknow-a-woman-travelling-in-an-auto-from-budheshwar-square-became-the-victim-of-a-pickpocket-2026-02-20",
+      "summary": "बुद्धेश्वर चौराहा की सर्विस लाइन से शादी समारोह में शामिल होकर शुक्रवार दोपहर एक बजे घर लौट रही महिला टप्पेबाजी का शिकार हो गई।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 11:23:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -71996,6 +72308,19 @@
       "lang": "en"
     },
     {
+      "id": "8b542bfa904c7e934ff5d7db7c1ddff0",
+      "title": "UP: सीएम योगी आदित्यनाथ शनिवार को आ रहे हैं मेरठ, प्रधानमंत्री के कार्यक्रम की तैयारियों का लेंगे जायजा",
+      "link": "https://www.amarujala.com/uttar-pradesh/meerut/up-cm-yogi-adityanath-is-coming-to-meerut-on-saturday-2026-02-20",
+      "summary": "Meerut News: उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ शनिवार दोपहर दो बजे मेरठ पहुंचेंगे। वे सभास्थल, यातायात प्रबंधन, सुरक्षा घेरा, पार्किंग और वीआईपी मूवमेंट की रूपरेखा का जायजा लेंगे।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 11:10:01 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "aa3e186c64f997694664d8f35290040a",
       "title": "Congress: 'अगर आधार और भुगतान डिजिटल, तो मतदाता सूची क्यों नहीं?' कांग्रेस ने चुनाव आयोग पर उठाए ये बड़े सवाल",
       "link": "https://www.amarujala.com/india-news/congress-on-election-commission-voter-list-data-access-digitisation-udit-raj-statement-electoral-transparency-2026-02-20",
@@ -72022,16 +72347,16 @@
       "lang": "en"
     },
     {
-      "id": "506c41a33854fa547466c6823ae847ee",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-20",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "id": "17f53f4fcb1e238172831c31ab1f426a",
+      "title": "नोएडा: कोठारी इंटरनेशनल स्कूल में रेनबो महोत्सव में विविधता का उत्सव",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-celebrating-diversity-at-rainbow-mahotsav-at-kothari-international-school-in-noida-2026-02-20",
+      "summary": "नोएडा: कोठारी इंटरनेशनल स्कूल में रेनबो महोत्सव में विविधता का उत्सव",
       "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 11:01:14 +0530",
+      "timestamp": "Fri, 20 Feb 2026 11:04:51 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -75286,9 +75611,9 @@
     },
     {
       "id": "c0f9aee948e011b7a2a33db4d6681c3a",
-      "title": "Aligarh: इंस्टाग्राम से हुए प्यार में किशोरी के साथ हुआ धोखा, आरोपियों से मिल रही धमकी, डीआईजी से शिकायत",
+      "title": "Aligarh News: पहचान छिपाकर युवती से दुष्कर्म का आरोप, डीआईजी से मिली पीड़ित, मुख्य आरोपी भेजा जेल",
       "link": "https://www.amarujala.com/uttar-pradesh/aligarh/teenager-cheated-after-falling-in-love-on-instagram-2026-02-20",
-      "summary": "इंस्टाग्राम चलाते हुए युवक से किशोरी को प्यार हो गया। बाद में पता चला कि युवक दूसरे धर्म का निकला। अब आरोपी किशोरी को धमका रहा है।",
+      "summary": "कासगंज में पहचान छिपाकर दोस्ती करने व फिर दुष्कर्म मामले में पीड़ित युवती अपनी मां के साथ डीआईजी से मिली। मुख्य आरोपी को जेल भेजने के बाद पुलिस द्वारा अब अन्य आरोपियों की गिरफ्तारी न किए जाने की शिकायत की।",
       "date": "2026-02-20",
       "timestamp": "Fri, 20 Feb 2026 03:34:22 +0530",
       "section": "UP_Focus",
@@ -88827,6 +89152,97 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "93eedb4308f145ce9a6aa12902ae25b3",
+      "title": "Anonymous person donates $3.6 million in gold blocks to fix clogged drains and water system in Japan's Osaka",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/anonymous-person-donates-3-6-million-in-gold-blocks-to-fix-clogged-drains-and-water-system-in-japans-osaka/articleshow/128619584.cms",
+      "summary": "An anonymous benefactor gifted Osaka 21 kilograms of gold, valued at $3.6 million, specifically for water and drainage system repairs. This significant donation, accepted after thorough checks, will address urgent infrastructure needs in the aging Japanese city's network, which serves millions and faces frequent failures. Officials expressed immense gratitude for the timely and substantial support.",
+      "date": "2026-02-20",
+      "timestamp": "2026-02-20T23:50:28+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0babb12bac8a081e35f848a48189376b",
+      "title": "BRO clears snow, NH-701A thrown open before time",
+      "link": "https://timesofindia.indiatimes.com/india/bro-clears-snow-nh-701a-thrown-open-before-time/articleshow/128619506.cms",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "2026-02-20T23:31:16+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b5d9d875ad32d653ccfe68ff79b8dafc",
+      "title": "Operation Jwala: Arms, ammo recovered near LoC in J&K’s Rajouri",
+      "link": "https://timesofindia.indiatimes.com/india/operation-jwala-arms-ammo-recovered-near-loc-in-jks-rajouri/articleshow/128619354.cms",
+      "summary": "Army and Rajouri Police recovered a cache of arms and ammunition, including an AK-47, during a search operation in Sunderbani sector. The recovery followed a foiled infiltration bid, with heavily bloodstained tracks suggesting injured terrorists. Operations continue with heightened vigilance.",
+      "date": "2026-02-20",
+      "timestamp": "2026-02-20T23:30:04+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cb5d3c0acefcef4f97bd460f1410f5f0",
+      "title": "Omar defies party & rivals to back Ramadan charity control order",
+      "link": "https://timesofindia.indiatimes.com/india/omar-defies-party-rivals-to-back-ramadan-charity-control-order/articleshow/128619434.cms",
+      "summary": "Speaking in the assembly, Omar urged legislators “not to politicise every issue” and clarified that the Feb 18 order was issued by the Kishtwar deputy commissioner (DC) after consulting religious leaders as a safety measure to check donation deceptions. “We shouldn’t mix religion with politics. Some matters require dialogue and understanding at the local level rather than political confrontation,” Omar said.",
+      "date": "2026-02-20",
+      "timestamp": "2026-02-20T23:29:18+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a8eb216eb04ceb3ac7142a59895943c7",
+      "title": "India a natural collaborator in building inclusive, trusted AI; recognise India’s security interests in Indian Ocean: Lankan President Dissanayake",
+      "link": "https://timesofindia.indiatimes.com/india/india-a-natural-collaborator-in-building-inclusive-trusted-ai-recognise-indias-security-interests-in-indian-ocean-lankan-president-dissanayake/articleshow/128619003.cms",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "2026-02-20T23:19:47+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1e7b79d802d808fd7f8f34280aeb9338",
+      "title": "India replaces TT with Td vaccine; Nadda to launch new jab at Kasauli",
+      "link": "https://timesofindia.indiatimes.com/india/india-replaces-tt-with-td-vaccine-nadda-to-launch-new-jab-at-kasauli/articleshow/128618745.cms",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "2026-02-20T23:11:34+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b9d381b053108be15e92aae7b27cd517",
+      "title": "AI in diagnostics, faster hiring must shape AIIMS expansion: Nadda",
+      "link": "https://timesofindia.indiatimes.com/india/ai-in-diagnostics-faster-hiring-must-shape-aiims-expansion-nadda/articleshow/128618580.cms",
+      "summary": "Union Health Minister Jagat Prakash Nadda emphasized the need for artificial intelligence in diagnostics and faster faculty recruitment as India's AIIMS network expands. He urged institutes to integrate AI into clinical decision-making and institutionalize telemedicine, while also calling for accelerated, quality-assured hiring to address significant staffing gaps across the institutions.",
+      "date": "2026-02-20",
+      "timestamp": "2026-02-20T23:06:05+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
