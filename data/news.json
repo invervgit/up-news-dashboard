@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T08:34:44.404045+00:00",
+  "generated_at": "2026-02-20T09:35:48.043517+00:00",
   "stories": [
     {
       "id": "47967d7f2c4ee67a2a514d266f0bafde",
@@ -24139,19 +24139,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "5821ea994e385199628ac29241b7b0c6",
-      "title": "Mapping imperialism | Deepa Anappara on her new novel The Last of Earth",
-      "link": "https://www.thehindu.com/books/interview-author-deepa-anappara-novel-the-last-of-earth-colonialism-tibet/article70634966.ece",
-      "summary": "The author subverts tropes to examine colonial ambition and whitewashing of history in her new novel",
-      "date": "2026-02-19",
-      "timestamp": "Thu, 19 Feb 2026 22:12:20 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -66913,14 +66900,170 @@
       "lang": "en"
     },
     {
-      "id": "167cdd37f59685f9002b7705bfbd31fc",
-      "title": "Murder case against YSRCP MLC: Supreme Court rules ‘clear nexus between power, police’",
-      "link": "https://www.thehindu.com/news/national/supreme-court-dalit-youth-murder-case-andhra-pradesh-prime-accused-ysrcp-mlc-ananta-satya-udaya-bhaskar/article70655128.ece",
-      "summary": "The Supreme Court made the observation on the investigation of a 2022 murder case involving a Dalit youth against YSRCP MLC Ananta Satya Udaya Bhaskar",
+      "id": "2037fbb54ed964c6a8330a97a8166108",
+      "title": "SIR hearing LIVE: SC tells Calcutta HC to depute current and former judicial officers to help with SIR",
+      "link": "https://www.thehindu.com/news/national/sir-hearing-special-intensive-revision-supreme-court-live-updates-february-20-2026/article70654749.ece",
+      "summary": "The Chief Justice of India said the West Bengal government and the Election Commission would have to understand that unless SIR is not completed there would be serious consequences",
       "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 14:01:44 +0530",
+      "timestamp": "Fri, 20 Feb 2026 15:01:49 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3924234fda46641edd3b9eefd067f063",
+      "title": "Helicopter rides inaugurated as part of Budanur Utsav in Mandya",
+      "link": "https://www.thehindu.com/news/national/karnataka/helicopter-rides-inaugurated-as-part-of-budanur-utsav-in-mandya/article70655413.ece",
+      "summary": "This year’s Budanur Utsav, which is scheduled to be held on February 21 and 22, had been in a more unique and distinct manner compared to last year’s festivities",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 15:00:43 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e5d3dc43af9a9075502764e590af014f",
+      "title": "India AI Summit 2026 Day 5 LIVE: At least 10 Youth Congress members detained for staging protest at expo hall",
+      "link": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-day-5-pm-modi-artificial-intelligence-news-delhi-updates/article70654611.ece",
+      "summary": "IYC members were wearing or holding white T-shirts with images of Prime Minister Modi and U.S. President Donald Trump printed on them",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 15:00:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2de8ce765a4296ce84af5c8e91918732",
+      "title": "Macabre dispute keeps body of Zambia's former President Edgar Lungu unburied for months",
+      "link": "https://www.thehindu.com/news/international/macabre-dispute-keeps-body-of-zambias-former-president-edgar-lungu-unburied-for-months/article70655221.ece",
+      "summary": "A grave in Lusaka tells a chilling story. Zambia’s former President lies unburied as politics and rivalry continue beyond death. Read on...",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:57:20 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7646f4cb35da9696f3f0475002cd310f",
+      "title": "Classmate who does no work, but shows up to take all credit: Congress’ dig at PM over UPI",
+      "link": "https://www.thehindu.com/news/national/classmate-who-does-no-work-but-shows-up-to-take-all-credit-congress-dig-at-pm-over-upi/article70655410.ece",
+      "summary": "Opposition party said that bereft of the capacity to come up with groundbreaking ideas, Mr. Modi is happy cutting ribbons, \"blabbering ludicrous acronyms\", cursing the Congress and \"stealing credit\"",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:53:01 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "27d547e27b3dfaddd5bdadc2ed58579e",
+      "title": "Sabarimala gold theft: Former TDB president A. Padmakumar gets statutory bail in one case",
+      "link": "https://www.thehindu.com/news/national/kerala/sabarimala-gold-theft-former-tdb-president-a-padmakumar-gets-statutory-bail-in-one-case/article70655356.ece",
+      "summary": "But Padmakumar will not be released from jail as he is yet to obtain bail in case related to alleged loss of gold from Dwarapalaka plates",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:52:09 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "22f2e1621178706461ef3194d21d043b",
+      "title": "PM discusses potential of harnessing AI in agri, edu with CEOs of AI & deeptech startups",
+      "link": "https://www.thehindu.com/news/national/pm-discusses-potential-of-harnessing-ai-in-agri-edu-with-ceos-of-ai-deeptech-startups/article70655369.ece",
+      "summary": "CEOs and founders of 16 AI and deeptech startups presented their ideas and work at a roundtable meeting with the Prime Minister",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:51:40 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "32137c1509370f4cfbd44ca277f5d6a2",
+      "title": "Ailing 30-year-old female elephant undergoes treatment at Thalavadi",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/ailing30-year-oldfemale-elephantundergoes-treatment-at-thalavadi/article70655050.ece",
+      "summary": "Farmers noticed the elephant lying in the field and alerted the Thalavadi Range Office under the Hasanur Forest Division",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:51:04 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fa822d618b3fd0596b1fee489674661b",
+      "title": "T.N. Assembly | DMK will return to power, work with greater speed and commitment: CM Stalin",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-dmk-will-come-back-to-power-work-with-greater-speed-and-commitment-cm-stalin/article70655250.ece",
+      "summary": "On the final sitting of the 16th Assembly, Mr. Stalin said his government had assumed office in 2021, amid setbacks caused by the previous administration and a non-cooperative Union government",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:46:50 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ca1e6352e5a2b14f1baf4999daeb3cf8",
+      "title": "Udhagamandalam’s own Charing Cross and its London disconnect",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/the-charing-cross-in-ooty-and-its-london-disconnect/article70651128.ece",
+      "summary": "It has long been the entrance to Udhagamandalam, the headquarters of The Nilgiris district. It shares its name with a junction in Westminster, London, where six routes meet. Hence, many believe that the Charing Cross in Udhagamandalam is modelled on the one in London",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:45:14 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4a919929b5d822a0826b5a52123a64e0",
+      "title": "10 detained for staging protest at AI Impact Summit expo hall",
+      "link": "https://www.thehindu.com/news/national/10-detained-for-staging-protest-at-ai-impact-summit-expo-hall/article70655370.ece",
+      "summary": "While the protesters carried no party flags or any symbols to suggest they had any political affiliation, one of them claimed that he was \"from the Indian Youth Congress\"",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:40:01 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8a5ecf9fcb22f6c5f522c34056837257",
+      "title": "कुत्ते ने तुड़वा दी शादी, मंडप में भिड़े बाराती और घराती, मारपीट में चार घायल",
+      "link": "https://www.livehindustan.com/uttar-pradesh/marriage-broke-because-of-the-dog-bride-and-groom-party-clashed-in-the-mandap-201771577405777.html",
+      "summary": "फतेहपुर में एक शादी समारोह में कुत्ते को लेकर जमकर बवाल हो गया। वर और वधू पक्ष के बीच विवाद इतना बढ़ा कि मारपीट की नौबत आ गई। जिसमें चार लोग घायल हो गए। इसके अलावा शादी भी टूट गई।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:36:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "371b5c437d451f9223ffa73113acf2ca",
+      "title": "Union Home Minister Amit Shah arrives in Silchar on two-day Assam visit",
+      "link": "https://www.thehindu.com/news/national/assam/union-home-minister-amit-shah-assam-visit/article70655326.ece",
+      "summary": "On February 21, Amit Shah will lay the foundation stone for the new campus of the 10th Assam Police Battalion at Kasutoli in Sonapur near Guwahati",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:32:57 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -66931,7 +67074,85 @@
       "link": "https://www.thehindu.com/news/national/sc-says-petitions-filed-to-use-top-court-as-a-platform-to-embarrass-states-ahead-of-polls/article70655281.ece",
       "summary": "The court was hearing a petition filed by an NGO, Human Rights Foundation, on the installation of PVC flexboards in the State of Kerala, where elections are due in 2026",
       "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 13:54:34 +0530",
+      "timestamp": "Fri, 20 Feb 2026 14:31:04 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3236b1ba370b5cb693cb4c9095d373c1",
+      "title": "India-U.S. interim trade pact likely to be operationalised in April, says Commerce Minister",
+      "link": "https://www.thehindu.com/news/national/india-us-interim-trade-pact-likely-to-be-operationalised-in-april-says-commerce-minister/article70655263.ece",
+      "summary": "He also said that India's free trade agreements (FTAs) with the U.K. and Oman are likely to be implemented in April. With New Zealand, the pact is expected to be implemented in September",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:24:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a7b002ee857c9bf899040cdd743d414d",
+      "title": "Officials of India and U.S. to begin three-day meet on February 23 to finalise legal text for interim trade pact",
+      "link": "https://www.thehindu.com/news/national/officials-of-india-and-us-to-begin-three-day-meet-on-february-23-to-finalise-legal-text-for-interim-trade-pact/article70655257.ece",
+      "summary": "Indian team will be headed by chief negotiator Darpan Jain, who is a joint secretary in the Commerce Ministry",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:21:07 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "01824193600309d304619d8ce375b25b",
+      "title": "Govt. announces seven measures to help boost exports",
+      "link": "https://www.thehindu.com/news/national/govt-announces-seven-measures-to-help-boost-exports/article70655312.ece",
+      "summary": "These measures are part of the ₹25,060-crore export promotion mission. Out of 10 components of the mission, three have already been rolled out in January",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:08:13 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4aabb4013702d7562fb668bde4dea8a4",
+      "title": "Gujarat to amend marriage registration rules, cites 'misuse' of existing norms",
+      "link": "https://www.thehindu.com/news/national/gujarat/gujarat-to-amend-marriage-registration-rules-cites-misuse-of-existing-norms/article70655313.ece",
+      "summary": "As per the proposed rules, every marriage registration application will need to be submitted before the Assistant Registrar, while applicants must attach a declaration stating whether the bride and groom have informed their parents about the marriage",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:04:47 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b7a28370bd2c2b7c2de1ace72294b0f5",
+      "title": "‘Second Case of Seetharam’: Vijay Raghavendra stars in an engaging slow-burn thriller",
+      "link": "https://www.thehindu.com/entertainment/movies/second-case-of-seetharam-movie-review-vijay-raghavendra-engaging-slow-burn-thriller-devi-prasad-shetty/article70655148.ece",
+      "summary": "Though ‘Second Case of Seetharam’, starring Vijay Raghavendra, kicks off with classic crime-thriller clichés, the movie picks up steam, showcasing stunning visuals and a dive into the mind of its villain",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:03:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "167cdd37f59685f9002b7705bfbd31fc",
+      "title": "Murder case against YSRCP MLC: Supreme Court rules ‘clear nexus between power, police’",
+      "link": "https://www.thehindu.com/news/national/supreme-court-dalit-youth-murder-case-andhra-pradesh-prime-accused-ysrcp-mlc-ananta-satya-udaya-bhaskar/article70655128.ece",
+      "summary": "The Supreme Court made the observation on the investigation of a 2022 murder case involving a Dalit youth against YSRCP MLC Ananta Satya Udaya Bhaskar",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 14:01:44 +0530",
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
@@ -67030,19 +67251,6 @@
       "lang": "en"
     },
     {
-      "id": "e5d3dc43af9a9075502764e590af014f",
-      "title": "India AI Summit 2026 Day 5 LIVE: PM Modi discusses harnessing AI in agriculture, education with AI, deeptech startup CEOs",
-      "link": "https://www.thehindu.com/sci-tech/technology/india-ai-impact-summit-2026-day-5-pm-modi-artificial-intelligence-news-delhi-updates/article70654611.ece",
-      "summary": "India formally signed the agreement to join U.S.-led coalition Pax Silica on the sidelines of the summit",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 13:40:09 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f2d82fe43373bd760965f5bd3e9603dc",
       "title": "राम मंदिर के चारों ओर होगी हाईटेक उपकरणों वाली सेंसर युक्त दीवार, बन रहे 3 दर्जन वॉच टॉवर",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-ayodhya-ram-mandir-covered-with-high-tech-sensor-equipped-wall-with-3-dozen-watch-tower-201771572730815.html",
@@ -67056,27 +67264,14 @@
       "lang": "en"
     },
     {
-      "id": "3236b1ba370b5cb693cb4c9095d373c1",
-      "title": "India-U.S. interim trade pact likely to be operationalised in April, says Commerce Minister",
-      "link": "https://www.thehindu.com/news/national/india-us-interim-trade-pact-likely-to-be-operationalised-in-april-says-commerce-minister/article70655263.ece",
-      "summary": "He also said that India's free trade agreements (FTAs) with the U.K. and Oman are likely to be implemented in April. With New Zealand, the pact is expected to be implemented in September",
+      "id": "5821ea994e385199628ac29241b7b0c6",
+      "title": "Mapping imperialism | Deepa Anappara on her new novel The Last of Earth",
+      "link": "https://www.thehindu.com/books/interview-author-deepa-anappara-novel-the-last-of-earth-colonialism-tibet/article70634966.ece",
+      "summary": "The author subverts tropes to examine colonial ambition and whitewashing of history in her new novel",
       "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 13:34:50 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "2037fbb54ed964c6a8330a97a8166108",
-      "title": "SIR hearing LIVE: Supreme Court to hear pleas challenging the EC's Special Intensive Revision of electoral rolls in West Bengal",
-      "link": "https://www.thehindu.com/news/national/sir-hearing-special-intensive-revision-supreme-court-live-updates-february-20-2026/article70654749.ece",
-      "summary": "The Supreme Court also asked West Bengal to respond to allegations of violence committed against EC officials",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 13:34:02 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
+      "timestamp": "Fri, 20 Feb 2026 13:35:34 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -67090,19 +67285,6 @@
       "timestamp": "Fri, 20 Feb 2026 13:31:02 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "a7b002ee857c9bf899040cdd743d414d",
-      "title": "Officials of India and U.S. to begin three-day meet on February 23 to finalise legal text for interim trade pact",
-      "link": "https://www.thehindu.com/news/national/officials-of-india-and-us-to-begin-three-day-meet-on-february-23-to-finalise-legal-text-for-interim-trade-pact/article70655257.ece",
-      "summary": "Indian team will be headed by chief negotiator Darpan Jain, who is a joint secretary in the Commerce Ministry",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 13:28:45 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -67205,19 +67387,6 @@
       "summary": "Visakhapatnam hosts a slate of major maritime events in February, bringing global navies to India’s east coast",
       "date": "2026-02-20",
       "timestamp": "Fri, 20 Feb 2026 13:13:38 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "32137c1509370f4cfbd44ca277f5d6a2",
-      "title": "Ailing 30-year-old female elephant undergoes treatment at Thalavadi",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/ailing30-year-oldfemale-elephantundergoes-treatment-at-thalavadi/article70655050.ece",
-      "summary": "Farmers noticed the elephant lying in the field and alerted the Thalavadi Range Office under the Hasanur Forest Division",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 13:10:22 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -67758,19 +67927,6 @@
       "lang": "en"
     },
     {
-      "id": "37862ad03d29f714b471eaf29d518194",
-      "title": "शाह मानहानि केस में राहुल गांधी कोर्ट में पेश, बोले- राजनीतिक साजिश का शिकार हूं, अगली सुनवाई 9 को",
-      "link": "https://www.patrika.com/lucknow-news/rahul-gandhi-appears-in-sultanpur-mp-mla-court-arrives-in-lucknow-amid-tight-security-20366350",
-      "summary": "Rahul Gandhi Appears in Sultanpur MP/MLA Court: कांग्रेस नेता राहुल गांधी शुक्रवार को गृह मंत्री अमित शाह पर टिप्पणी से जुड़े मामले में यूपी के सुल्तानपुर की MP/MLA कोर्ट में पेश हुए। उनके वकील ने बताया कि राहुल गांधी ने अपने ऊपर लगे सभी आरोपों को गलत बताया है। उनका कहना है कि यह मामला राजनीतिक दुर्भावना के चलते दर्ज कराया गया है और इसमें कोई ठोस आधार नहीं है।",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 12:01:46 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
-      "lang": "en"
-    },
-    {
       "id": "38c1cf8bbdbb13cc8166999218515517",
       "title": "Ayodhya News: परिजनों को सौंपे गए तस्करों के चंगुल से छूटे पांच बच्चे",
       "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/five-children-rescued-from-traffickers-handed-over-to-their-families-ayodhya-news-c-97-1-ayo1005-143524-2026-02-20",
@@ -67980,7 +68136,7 @@
     },
     {
       "id": "4a7226254c3b92fbed32150c141f823a",
-      "title": "Dr Ricky AJ: शिलांग लोकसभा सीट से सांसद डॉ. रिकी एजे का निधन, पीएम मोदी ने जताया दुख",
+      "title": "Dr Ricky AJ: शिलांग लोकसभा सांसद डॉ. रिकी एजे का निधन, फुटबॉल खेलते हुए बिगड़ी तबियत, पीएम मोदी ने जताया दुख",
       "link": "https://www.amarujala.com/india-news/dr-ricky-aj-mp-from-shillong-lok-sabha-seat-passes-away-2026-02-20",
       "summary": "शिलांग लोकसभा सीट से सांसद डॉ. रिकी एजे का निधन",
       "date": "2026-02-20",
@@ -68067,6 +68223,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "37862ad03d29f714b471eaf29d518194",
+      "title": "राहुल गांधी सुल्तानपुर एमपी-एमएलए कोर्ट में पेश, लखनऊ आगमन पर कड़ी सुरक्षा व्यवस्था",
+      "link": "https://www.patrika.com/lucknow-news/rahul-gandhi-appears-in-sultanpur-mp-mla-court-arrives-in-lucknow-amid-tight-security-20366350",
+      "summary": "Rahul Gandhi Appears in Sultanpur MP/MLA Court: लोकसभा में नेता प्रतिपक्ष और कांग्रेस सांसद Rahul Gandhi शुक्रवार को लखनऊ पहुंचे, जहां से वे सुल्तानपुर की एमपी-एमएलए कोर्ट में पेशी के लिए रवाना हुए। उनके आगमन को लेकर राजधानी और सुल्तानपुर दोनों जगह सुरक्षा के कड़े इंतजाम किए गए थे। अदालत में यह पेशी एक आपराधिक मानहानि से जुड़े मामले में निर्धारित थी।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 11:12:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -68214,9 +68383,9 @@
     },
     {
       "id": "0dc9a92dbb6ccd18d66e506aa6e79c4a",
-      "title": "UP Budget Session LIVE: बेरोजगारी पर सपा का वॉकआउट, मंत्री बोले- युवाओं को जापान, जर्मनी भेजेंगे",
+      "title": "UP Budget Session LIVE: शिवपाल का श्राप न लगे; नेता प्रतिपक्ष स्वस्थ्य रहे, विधानसभा में बोले योगी",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-budget-session-live-updates-cm-yogi-speech-sapa-congresss-bjp-201771562856829.html",
-      "summary": "UP Budget Session LIVE: यूपी बजट सत्र का आज आखिरी दिन है। सीएम योगी आदित्यानाथ बजट पर आज जवाब देंगे। इससे पहले गुरुवार को विधानसभा में कीटनाशकों पर प्रतिबंध लगाने और जिलों में उर्वरकों की कमी के मुद्दे पर सपा और कृषि मंत्री सूर्य प्रताप शाही के बीच जमकर नोकझोंक हुई।",
+      "summary": "UP Budget Session LIVE: यूपी बजट सत्र का आज आखिरी दिन है। सीएम योगी आदित्यानाथ बजट पर आज जवाब दे रहे हैं। इससे पहले नेता प्रतिपक्ष माता प्रसाद पांडेय ने शिक्षा, स्वास्थ्य और रोजगार पर सरकार को घेरा।",
       "date": "2026-02-20",
       "timestamp": "Fri, 20 Feb 2026 10:41:08 +0530",
       "section": "UP_Focus",
@@ -68513,7 +68682,7 @@
     },
     {
       "id": "1a0b44336818cf19c5e82f1a4cc733b8",
-      "title": "UP Top News Today: राहुल गांधी का कोर्ट में बयान दर्ज, 9 मार्च को होगी अगली सुनवाई",
+      "title": "UP Top News Today: राहुल गांधी का कोर्ट में बयान दर्ज, विधानसभा से सपा का वॉकआउट",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-top-news-today-20-february-2026-cm-yogi-adityanath-rahul-gandhi-mp-mla-court-sir-form-7-politics-updates-201771558959699.html",
       "summary": "UP Top News Today: राहुल गांधी आज सुल्तानपुर कोर्ट में पेश हुए और अपना बयान दर्ज करवाया है। मानहानि मामले में राहुल गांधी के बयान दर्ज किए गए हैं। वहीं, संघ प्रमुख मोहन भागवत मेरठ में आज खिलाड़ियों से संवाद करेंगे।",
       "date": "2026-02-20",
@@ -68590,6 +68759,19 @@
       "lang": "en"
     },
     {
+      "id": "ce37798b9c6782777cec2b0d9bdff71a",
+      "title": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
+      "link": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The actor, who also starred in HBO's Euphoria, battled the most common form of motor neurone disease.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 09:28:15 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "261f48d7fb57f3ccf2ac749e5fd842f0",
       "title": "UP: आगरा में गूंजेगा 'हर हर महादेव', कैलाश खेर संग शिवभक्ति का महाआयोजन ‘शिवोहम’; जल्द करें पंजीकरण",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/amar-ujala-jeevanjali-shivoham-kailash-kher-to-ignite-a-divine-musical-evening-at-bsnl-ground-2026-02-20",
@@ -68629,6 +68811,19 @@
       "lang": "en"
     },
     {
+      "id": "df9c46b749c6d2498ef7d5d08d8e2206",
+      "title": "Tax evasion of ₹37 lakhs through fake GST firm:3 accused arrested in Lucknow; 4, including mastermind absconding",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/lucknow-gst-fraud-arrests-mastermind-absconding-137253340.html",
+      "summary": "A case has emerged in Lucknow involving GST firm registration through fake documents, fraudulent transactions worth crores, and tax evasion of ₹37 lakh. Police have arrested 3 fraudsters. The main accused, along with 4 other suspects, are still at large. DCP Crime Kamlesh Dixit said that on November 3, 2025, Bhagwati Charan Verma obtained a GST number under the name M/S K S Enterprises using a fake address in Mahanagar. Purchases and sales worth crores were shown under the firm's name. Investigation revealed that there is neither an office at the given address nor does the firm exist. The property owner also confirmed it as fake. ₹4.70 Cr transactions, wrongful ITC benefit During the investigation, it was discovered that a youth named Deepak, along with his associates, conducted transactions of about ₹4 crore 70 lakh through the fake firm using their bank accounts. By wrongfully claiming Input Tax Credit (ITC), they caused a total revenue loss of ₹37,52,545 to the government. ₹15 lakh transferred by check The investigation revealed that out of the transaction amount, about ₹15 lakh was given to Prashant Tiwari through four checks, which he used for household work. Kailash Maurya is accused of creating fake seals, opening bank accounts, and assisting in GST theft. The accused created fake electricity bills in the greed of making quick money. GST registration was obtained based on these bills.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 09:21:57 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "7ad70f356eb21f7233b274a220ff1df6",
       "title": "Trump on India- Pakistan Ceasefire: ट्रंप ने फिर बोला झूठ! पीएम मोदी का लिया नाम",
       "link": "https://www.amarujala.com/video/india-news/trump-again-passes-false-statement-on-india-pakistan-ceasefire-2026-02-20",
@@ -68664,6 +68859,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e5a100c874c9dfa9bf03b5c8bc15c452",
+      "title": "Bolivia’s ex-leader Morales reappears in stronghold after 7-week absence",
+      "link": "https://www.aljazeera.com/news/2026/2/20/bolivias-ex-leader-morales-reappears-in-stronghold-after-7-week-absence?traffic_source=rss",
+      "summary": "The public appearance ends rumours that Morales fled the country following the abduction of Nicolas Maduro in Venezuela.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 09:15:20 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -68795,6 +69003,32 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a9e09758d6047b244661a190ec92c227",
+      "title": "Minister Ashish Patel sits roadside awaiting Dayashankar’s arrival:Says, 'Those surrounded by important people naturally arrive late'",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/lucknow/news/lucknow-minister-ashish-patel-waits-roadside-dayashankar-singh-late-arrival-137253044.html",
+      "summary": "In Lucknow, Minister Ashish Patel got tired waiting for Transport Minister Daya Shankar Singh. He waited for 20 minutes, standing by the roadside. When he got tired, he ordered a chair from his house, which was a short distance from the event venue. He placed the chair under a tree and sat down. Daya Shankar Singh arrived an hour later. Upon his late arrival, Technical Education Minister Ashish Patel said, Those with a big heart have important people around them. When people are important, it is natural to arrive late. The new Lucknow–Chitrakoot bus service was scheduled to begin at 10 AM from Mal Avenue-1, with Ministers Dayashankar Singh and Ashish Patel set to flag off the bus to Chitrakoot (Hanumanganj). While Ashish Patel arrived on time, Dayashankar Singh arrived at 11 AM. The two later jointly inaugurated the service. Dayashankar Singh’s habit of arriving late at events is not new. CM Yogi has previously taken a jibe at him, remarking, ‘Minister arrived on time today. It seems he will fix the bus timings too.’ 3 pictures Ashish Patel defends transport minister Minister Ashish Patel said the Transport Minister has a very big heart and never refuses anyone who approaches him with a request. He added that the Minister fulfilled his demand regarding the bus service. On the issue of the Minister’s late arrival, Patel remarked that those with big hearts have many people around them, and when leaders are important, delays are natural. He said it is in the Minister’s nature that he cannot say no to anyone. Bus to pass through these major places Religious and rural passengers to benefit Chitrakoot is an extremely important religious site. This new bus service will provide devotees and local passengers with an easy travel option. Additionally, it will facilitate access to employment, education, and medical facilities for people in rural areas. According to the Transport Department, regular operations will be ensured on this route, keeping in mind passenger demand. If necessary, the number of buses can also be increased to further strengthen regional connectivity. CM told Dayashankar Singh, ‘I thought he would arrive 1 hour late’ In September 2025, a major program of the Transport Department was held at the Indira Gandhi Pratishthan in Lucknow. It saw the inauguration of 400 new buses, 8 e-buses for Lucknow, a digital bus tracking system, and several other projects. There, CM Yogi Adityanath said on stage for Dayashankar Singh, The program was scheduled to start at 11 AM, but I believed that the minister would arrive an hour late, by 12 PM. I was in a meeting when I was informed that the minister had arrived at 10 AM. They arrived ahead of time, which is a big deal. Now they will also fix the bus timings. This means that now they also want the bus stations of the transport department to become beautiful and organized in the same way.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 08:39:25 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8fe7e0a72e2c0602f7747f7f4fa44698",
+      "title": "Hospital guards beat lawyer after parking dispute:Around 30 bouncers chase and assault advocate and his friends; several guards detained",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/lucknow-advocate-assault-hospital-guards-detained-137253030.html",
+      "summary": "Around 30 bouncers and guards of a private hospital severely beat up a lawyer and his two friends in Lucknow. The lawyer was chased and beaten. His friends were knocked to the ground and beaten with sticks, rods, and iron. The lawyer's head was split open. His friends were also injured. All 3 injured were taken to the hospital for treatment. The incident was captured on CCTV camera. The lawyer complained to the police about the matter. Police have detained several guards and started interrogation. The incident occurred on February 19, at night, at Era Hospital in the Thakurganj area. Advocate Adarsh Singh from New Haiderganj had gone to visit his friend Shubham Yadav's mother, who was undergoing treatment at Era Hospital. The guards beat him and his friends in a dispute over parking the Scorpio. Understand the sequence of events through 5 pictures... Advocate Adarsh Singh lives with his family in New Haiderganj. His friend Shubham Yadav's mother is admitted to Era Hospital. On the night of February 19, he went to Era Hospital to see Shubham Yadav's mother. Shubham Yadav and another friend, Pradeep Yadav, were also with him. They parked their Scorpio near the hospital gate. The hospital guards objected to this. Beaten up after minor argument It is alleged that an argument started between the guards and Adarsh Singh over parking the Scorpio. Soon, the minor argument turned into verbal abuse. After this, the fighting began. It is alleged that around 30 guards arrived at the spot with sticks and iron rods. They started beating Adarsh Singh, Shubham, and Pradeep. When the 3 tried to escape, the guards chased and beat them. All three fell to the ground, and the guards continued beating them. Head split, money also stolen It is alleged that lawyer Adarsh Singh's head was split due to the beating by the guards. The guards looted his ₹10K. Both his friends were also injured. All were admitted to the hospital for treatment. Adarsh Singh has received several stitches in his head. Local police arrived at the scene upon receiving information. Police took several guards into custody. They were taken to the police station for questioning. Police also questioned nearby people and examined CCTV cameras. The Incident of Violence Captured in CCTV Cameras The entire incident of violence has been captured on CCTV cameras. It shows that a dispute started with a guard regarding parking. After that, fighting begins. Several guards come running out of the hospital with sticks and rods. Then they start beating Adarsh Singh and his friends. Adarsh Singh and his friends run here and there. The guards chase and beat them. In one CCTV footage, police can be seen taking the guards into custody. Thakurganj Inspector Omvir Singh Chauhan said that there was a dispute between both parties regarding vehicle parking. A complaint has been received from the advocate's side. Legal action is being taken after investigating the matter.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 08:36:32 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -68954,6 +69188,19 @@
       "lang": "en"
     },
     {
+      "id": "94da6039e696da72bae854cdd226f39a",
+      "title": "Tunisian MP jailed for eight months over posts mocking president",
+      "link": "https://www.bbc.com/news/articles/c3v75lvgy36o?at_medium=RSS&at_campaign=rss",
+      "summary": "The MP was arrested this month after mocking the president's handling of the recent floods in the country.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 08:01:12 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "252ceb001ce3422fafaeec8e656f319e",
       "title": "Sandalwood: An expensive fragrance",
       "link": "https://www.thehindu.com/news/national/karnataka/spotlight-sandalwood-an-expensive-fragrance/article70646679.ece",
@@ -69045,19 +69292,6 @@
       "lang": "en"
     },
     {
-      "id": "ce37798b9c6782777cec2b0d9bdff71a",
-      "title": "Grey's Anatomy star Eric Dane dies at 53 after ALS diagnosis",
-      "link": "https://www.bbc.com/news/articles/c78j01n775ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The actor, who also starred in HBO's Euphoria, battled the most common form of motor neurone disease.",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 07:19:44 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e702302749de21642080d7d216ede388",
       "title": "Cough syrup-linked deaths: Do you realise what dent it caused to country's image, Supreme Court asks pharma firm",
       "link": "https://www.thehindu.com/news/national/cough-syrup-linked-deaths-do-you-realise-what-dent-it-caused-to-countrys-image-supreme-court-asks-pharma-firm/article70654545.ece",
@@ -69098,7 +69332,7 @@
     },
     {
       "id": "edaf9dc432e8d35a525b9cc1c39f9a2b",
-      "title": "Rahul Gandhi rejects charges in Amit Shah defamation case:Meets Sultanpur family of late cobbler whom he gifted a sewing machine",
+      "title": "Rahul Gandhi rejects charges in Amit Shah defamation case:Meets family of late cobbler in Sultanpur whom he gifted a sewing machine",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/rahul-gandhi-amit-shah-defamation-case-sultanpur-says-he-is-being-framed-137252518.html",
       "summary": "Congress leader Rahul Gandhi appears before the MP/MLA court in Sultanpur, Uttar Pradesh, in connection with a case over alleged remarks against Union Home Minister Amit Shah. According to his lawyer, Rahul denies all charges and says the case has been filed out of political malice and lacks any solid basis. Rahul records statement in court Rahul remains in court for about 20 minutes and records his statement. The next hearing is scheduled for March 9. Lawyers present say that upon arrival, Rahul greets the judge with folded hands and later thanks the court after the proceedings conclude. Visits Ramchet Mochi’s family After leaving the court, Rahul visits the shop of Ramchet Mochi and meets his family. He lifts Mochi’s granddaughter Shraddha in his arms and, noticing an injury on her leg, asks about her condition. The family informs him that the wound is not healing properly. Rahul then asks UP Congress president Ajay Rai to ensure proper medical treatment for the child. Ramchet Mochi had died of cancer three months ago. A year earlier, Rahul Gandhi had visited his shop, sat with him, and stitched shoes. He had later sent him a sewing machine as well. Pictures related to Rahul's hearing Arrival and security arrangements Rahul arrives in Lucknow from Delhi by flight and then travels by car to the court. Party workers attempt to garland him, but he declines. After the hearing, a crowd of around a thousand gathers outside the court premises, prompting security personnel to escort him out through another gate. Case details The matter dates back to 2018. Rahul is accused of making allegedly derogatory remarks about Amit Shah during the Karnataka Assembly elections. He had said that the party that talks about honesty has a president who is an accused in a murder case. Following the statement, BJP leader Vijay Mishra from Sultanpur filed a defamation case against Rahul Gandhi on August 4, 2018. On January 19, the Sultanpur court ordered Rahul to appear in person and warned his counsel, Kashi Shukla, that it was the final opportunity, failing which strict action would be taken.",
       "date": "2026-02-20",
@@ -69565,6 +69799,32 @@
       "lang": "en"
     },
     {
+      "id": "7e25bd9074ec9c6e8d9b2d7ee2dd8bb7",
+      "title": "UP Assembly Session 2026 Live: सीएम योगी ने ली चुटकी, बोले- माता प्रसाद पांडेय को न लगे शिवपाल यादव का श्राप",
+      "link": "https://www.amarujala.com/live/lucknow/up-assembly-budget-session-conclude-2026-live-cag-report-cm-to-address-house-updates-in-hindi-2026-02-20",
+      "summary": "यूपी विधानसभा आज हंगामेदार रहने की आशंका है। सरकार को आज कैग रिपोर्ट पेश होने के साथ-साथ राष्ट्रपति का अभिभाषण पास कराना है।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 03:05:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "506c41a33854fa547466c6823ae847ee",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-20",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 03:02:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "17926d0f2cf0578519741e362eba175e",
       "title": "Former Prince Andrew ‘released under investigation’ hours after arrest in Epstein row",
       "link": "https://www.thehindu.com/news/international/former-prince-andrew-arrest-epstein-files-row-updates/article70651359.ece",
@@ -69602,6 +69862,19 @@
       "source": "BBC World",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "4876105f32679307d293e15b969fd413",
+      "title": "Assam Elections: प्रियंका गांधी CM हिमंत पर हमलावर, कहा- सामाजिक मुद्दों पर ध्यान दें, गौरव गोगोई का किया बचाव",
+      "link": "https://www.amarujala.com/india-news/assam-elections-guwahati-priyanka-gandhi-himanta-biswa-sarma-gaurav-gogoi-controversy-congress-vs-bjp-2026-02-20",
+      "summary": "assam elections Guwahati priyanka gandhi himanta biswa sarma gaurav gogoi controversy Congress vs BJP- Assam Elections: प्रियंका गांधी CM हिमंत पर हमलावर, कहा- सामाजिक मुद्दों पर ध्यान दें, गौरव गोगोई का किया बचाव",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:51:14 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "b181a1427906ab4a925eb3da021b6cd7",
@@ -69669,6 +69942,19 @@
       "lang": "en"
     },
     {
+      "id": "74b5163607cad3c92847498ba0399b63",
+      "title": "Supreme Court: 'पुलिस-सत्ता गठजोड़ निंदनीय'; अदालत का फरमान- MLC के खिलाफ हत्या का मामला 30 नवंबर तक निपटाएं",
+      "link": "https://www.amarujala.com/india-news/supreme-court-police-government-nexus-is-reprehensible-court-orders-to-settle-murder-case-against-mlc-2026-02-20",
+      "summary": "Supreme Court: 'पुलिस-सत्ता गठजोड़ निंदनीय'; अदालत का फरमान- MLC के खिलाफ हत्या का मामला 30 नवंबर तक निपटाएं---Supreme Court Police-government nexus is reprehensible Court orders to settle murder case against MLC",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:42:19 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "fe6935cb6b1ac841b278f29816baf58c",
       "title": "Gorakhpur News: कांग्रेस कार्यकर्ताओं पर हुए लाठीचार्ज का किया विरोध",
       "link": "https://www.amarujala.com/gorakhpur/open-drains-became-the-main-reason-for-the-death-of-the-child-many-areas-in-the-city-do-not-have-slabs-on-the-drains-gorakhpur-news-c-7-gkp1038-1234878-2026-02-20",
@@ -69679,6 +69965,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "4d19c5846d8868cbbe258f85741c2507",
+      "title": "सीबीएसई 12वीं फिजिक्स परीक्षा: परीक्षार्थियों ने पेपर को बताया संतुलित, कुछ प्रश्न रहे चुनौतीपूर्ण",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-students-appeared-for-cbse-class-12-physics-exam-2026-02-20",
+      "summary": "सीबीएसई 12वीं फिजिक्स परीक्षा: परीक्षार्थियों ने पेपर को बताया संतुलित, कुछ प्रश्न रहे चुनौतीपूर्ण",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:41:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -69734,6 +70033,19 @@
       "lang": "en"
     },
     {
+      "id": "86b066408a4643adbad2bf725d05c769",
+      "title": "Gujarat: गुजरात में विवाह पंजीकरण नियमों में किया जाएगा संशोधन, सरकार ने कहा- खामियों दूर करने का है प्रयास",
+      "link": "https://www.amarujala.com/india-news/gujarat-marriage-registration-rules-to-be-amended-says-government-to-address-loopholes-2026-02-20",
+      "summary": "Gujarat: गुजरात में विवाह पंजीकरण नियमों में किया जाएगा संशोधन, सरकार ने कहा- खामियों दूर करने का है प्रयास। Gujarat marriage registration rules to be amended, says government to address loopholes",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:37:58 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "bbe744eb8a1b3b7fa0e3f27239bb8204",
       "title": "Gorakhpur News: रंग-गुलाल में केमिकल...उड़ा न दे चेहरे का रंग",
       "link": "https://www.amarujala.com/gorakhpur/adulterers-are-active-again-regarding-holi-colors-and-gulal-are-being-sold-openly-gorakhpur-news-c-7-gkp1038-1234913-2026-02-20",
@@ -69745,6 +70057,19 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
+    },
+    {
+      "id": "1b4c3fff3768cabee13732dcb3cad0bb",
+      "title": "AI Impact Summit: राहुल गांधी ने समिट को बताया पीआर स्टंट, सीएम फडणवीस ने बताया देश के लिए गौरव का क्षण",
+      "link": "https://www.amarujala.com/india-news/ai-impact-summit-rahul-gandhi-called-the-summit-a-pr-stunt-cm-fadnavis-said-its-important-for-rahul-2026-02-20",
+      "summary": "भारत में आयोजित एआई समिट को राहुल गांधी ने एक पीआर स्टंट बताया है। इसका जवबा देते हुए महाराष्ट्र के मुख्यमंत्री ने इसे भारत के लिए गौरव का समय बताया है।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:37:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "3b753066767e19a1d403cd959316de91",
@@ -69783,6 +70108,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "216151d615d1eff253c9a5dd3123efb0",
+      "title": "डाक सेवा समाधान दिवस: क्लेम, आधार कार्ड, कर्मचारियों की पीएफ सहित कई समस्याओं को सुना गया",
+      "link": "https://www.amarujala.com/video/lucknow/video-daka-sava-samathhana-thavasa-kalma-aathhara-karada-karamacaraya-ka-paefa-sahata-kaii-samasayao-ka-sana-gaya-2026-02-20",
+      "summary": "डाक सेवा समाधान दिवस: क्लेम, आधार कार्ड, कर्मचारियों की पीएफ सहित कई समस्याओं को सुना गया",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:35:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -70176,6 +70514,19 @@
       "lang": "en"
     },
     {
+      "id": "76477c1df7262364ae37b4c4544e0872",
+      "title": "'बदले के लिए हुई गिरफ्तारी?': सबरीमाला सोना चोरी मामले में तंत्री ने खोला मोर्चा, महिला प्रवेश से जोड़ा विवाद",
+      "link": "https://www.amarujala.com/india-news/sabarimala-gold-case-tantri-arrest-kerala-vigilance-court-bail-kandararu-rajeevaru-women-entry-2018-2026-02-20",
+      "summary": "'बदले के लिए हुई गिरफ्तारी?': सबरीमाला सोना चोरी मामले में तंत्री ने खोला मोर्चा, महिला प्रवेश से जोड़ा विवाद----Sabarimala gold case Tantri arrest Kerala vigilance court bail Kandararu Rajeevaru women entry 2018",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:22:33 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "4b19ec1b2cad42057dcc3f99bd990cb4",
       "title": "Lucknow News: डीसीएम से नौ गोवंश बरामद, तीन गिरफ्तार",
       "link": "https://www.amarujala.com/lucknow/nine-cattle-recovered-from-dcm-three-arrested-lucknow-news-c-13-lko1096-1613774-2026-02-20",
@@ -70203,9 +70554,9 @@
     },
     {
       "id": "bb5a5b4223d94900314bee3a6ef7c93e",
-      "title": "North Korea’s Kim Jong Un launches key party congress held every 5 years",
+      "title": "North Korea’s Kim Jong Un pledges to lift living standards at rare congress",
       "link": "https://www.aljazeera.com/news/2026/2/20/north-koreas-kim-jong-un-launches-key-party-congress-held-every-5-years?traffic_source=rss",
-      "summary": "Kim focuses on improving economic activity in opening speech at Ninth Congress of the Workers' Party of Korea.",
+      "summary": "Kim's opening speech focused on improving economic activity, with no mention of relations with the US or South Korea.",
       "date": "2026-02-20",
       "timestamp": "Fri, 20 Feb 2026 02:22:11 +0000",
       "section": "International",
@@ -70278,6 +70629,45 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
+    },
+    {
+      "id": "9d29de152ac8147dd06852e6cd431f3d",
+      "title": "IONS Chairmanship: भारत ने संभाली इंडियन ओशन नेवल सिंपोजियम की कमान, 30 से अधिक देशों के बीच बढ़ेगा आपसी सहयोग",
+      "link": "https://www.amarujala.com/india-news/india-assumes-ions-chairmanship-vice-admiral-tarun-sobti-indian-ocean-maritime-security-2026-02-20",
+      "summary": "india assumes ions chairmanship vice admiral tarun sobti indian ocean maritime security- IONS Chairmanship: भारत ने संभाली इंडियन ओशन नेवल सिंपोजियम की कमान, 30 से अधिक देशों के बीच बढ़ेगा आपसी सहयोग",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:21:00 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "7c27d73aa4e5b49c1e83cb29c15933fa",
+      "title": "Amit Shah Assam Visit : गृह मंत्री अमित शाह असम पहुंचे, वाइब्रेंट विलेजेज कार्यक्रम की करेंगे शुरुआत",
+      "link": "https://www.amarujala.com/india-news/home-minister-amit-shah-reaches-assam-will-launch-vibrant-villages-program-2026-02-20",
+      "summary": "Amit Shah Assam Visit : गृह मंत्री अमित शाह असम पहुंचे, वाइब्रेंट विलेजेज कार्यक्रम की करेंगे शुरुआत। Home Minister Amit Shah reaches Assam, will launch Vibrant Villages program",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:20:44 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b997875a36390fc207ffc1c46a93af10",
+      "title": "ECE: 25 से 27 फरवरी तक तमिलनाडु और पुडुचेरी का दौरा करेगा चुनाव आयोग, मुख्य चुनाव आयुक्त भी होंगे शामिल",
+      "link": "https://www.amarujala.com/india-news/election-commission-to-visit-tamil-nadu-and-puducherry-from-february-25-to-27-2026-02-20",
+      "summary": "चुनाव आयोग के अध्यक्ष ज्ञानेश कुमार 25 से 27 फरवरी तक तमिलनाडु और पुडुचेरी का दौरा करेंगे। इस दौरान वे वहां चुनाव की तैयारियों का जायजा लेंगे। इससे पहले आयोग ने असम का भी दौरा किया था।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:20:38 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "8969d60090864be74de3dfae9d91b9f3",
@@ -70462,6 +70852,19 @@
       "lang": "en"
     },
     {
+      "id": "d243e8ec82f3cdecc83399c70ac981e8",
+      "title": "40 परिवार व 300 लोगों ने की घर वापसी, गोवा में अखाड़ा परिषद के पूर्व अध्यक्ष की अध्यक्षता में कार्यक्रम हुआ",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-40-paravara-va-300-lga-na-ka-ghara-vapasa-gava-ma-akhaugdha-parashhatha-ka-parava-athhayakashha-ka-athhayakashhata-ma-karayakarama-haaa-2026-02-20",
+      "summary": "40 परिवार व 300 लोगों ने की घर वापसी, गोवा में अखाड़ा परिषद के पूर्व अध्यक्ष की अध्यक्षता में कार्यक्रम हुआ",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:15:19 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "c6b20380e84c67e27add45e3d043f849",
       "title": "Lucknow News: तेज रफ्तार वाहन की टक्कर से बाइक सवार की मौत",
       "link": "https://www.amarujala.com/lucknow/bike-rider-dies-after-being-hit-by-a-speeding-vehicle-lucknow-news-c-13-lko1096-1613775-2026-02-20",
@@ -70540,6 +70943,19 @@
       "lang": "en"
     },
     {
+      "id": "53a4ad7172f4bc09575dbb904c3a1541",
+      "title": "Lucknow: मंदिर में रह रहे बाबा की निर्मम हत्या, वारदात के कारणों की जांच कर रही पुलिस",
+      "link": "https://www.amarujala.com/lucknow/baba-living-in-the-temple-was-brutally-murdered-in-lucknow-2026-02-20",
+      "summary": "लखनऊ में दुबग्गा के पीरनगर बरावनकला एस दो आश्रयहीन कॉलोनी के मंदिर में रह रहे एक बुजुर्ग की हत्या कर दी गई। मामले की जानकारी पर मौके पर पुलिस पहुंची।",
+      "date": "2026-02-20",
+      "timestamp": "Fri, 20 Feb 2026 02:13:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "14f83a22d641b030e35cba914a3e8e5c",
       "title": "Proceedings for road project to be completed in a time-bound manner: Minister",
       "link": "https://www.thehindu.com/news/national/kerala/proceedings-for-road-project-to-be-completed-in-a-time-bound-manner-minister/article70653188.ece",
@@ -70605,17 +71021,17 @@
       "lang": "en"
     },
     {
-      "id": "506c41a33854fa547466c6823ae847ee",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-20",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "id": "c25d0c002e78ca22184032329165dc5b",
+      "title": "AI Impact Summit Day-5 LIVE: पीएम मोदी ने यूरोपीय देश के प्रिंस से की मुलाकात, सहयोग बढ़ाने पर हुई चर्चा",
+      "link": "https://www.amarujala.com/live/india-news/ai-impact-summit-day-5-live-updates-today-events-at-bharat-mandapam-ai-world-leaders-participation-hindi-news-2026-02-20",
+      "summary": "AI Impact Summit Day-5 LIVE: पीएम मोदी ने यूरोपीय देश के प्रिंस से की मुलाकात, सहयोग बढ़ाने पर हुई चर्चा",
       "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 02:03:06 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
+      "timestamp": "Fri, 20 Feb 2026 02:04:28 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "5826e9713dbfadb24fb028a605ff3f35",
@@ -70628,19 +71044,6 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7e25bd9074ec9c6e8d9b2d7ee2dd8bb7",
-      "title": "UP Assembly Session 2026 Live: कांग्रेस ने सरकार को दिया प्रति व्यक्ति आय का जवाब; 37500 प्रति व्यक्ति पर कर्ज",
-      "link": "https://www.amarujala.com/live/lucknow/up-assembly-budget-session-conclude-2026-live-cag-report-cm-to-address-house-updates-in-hindi-2026-02-20",
-      "summary": "यूपी विधानसभा आज हंगामेदार रहने की आशंका है। सरकार को आज कैग रिपोर्ट पेश होने के साथ-साथ राष्ट्रपति का अभिभाषण पास कराना है।",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 02:02:08 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -71107,19 +71510,6 @@
       "timestamp": "Fri, 20 Feb 2026 01:41:34 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
-      "id": "c25d0c002e78ca22184032329165dc5b",
-      "title": "AI Impact Summit Day-5 LIVE: पीएम मोदी ने यूरोपीय देश के प्रिंस से की मुलाकात, सहयोग बढ़ाने पर हुई चर्चा",
-      "link": "https://www.amarujala.com/live/india-news/ai-impact-summit-day-5-live-updates-today-events-at-bharat-mandapam-ai-world-leaders-participation-hindi-news-2026-02-20",
-      "summary": "AI Impact Summit Day-5 LIVE: पीएम मोदी ने यूरोपीय देश के प्रिंस से की मुलाकात, सहयोग बढ़ाने पर हुई चर्चा",
-      "date": "2026-02-20",
-      "timestamp": "Fri, 20 Feb 2026 01:41:09 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -82873,6 +83263,32 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dba4bde67f1be847f50e7927bad803b3",
+      "title": "Kerala elections: Won’t contest upcoming polls, says MLA K Babu",
+      "link": "https://timesofindia.indiatimes.com/india/kerala-elections-wont-contest-upcoming-polls-says-mla-k-babu/articleshow/128601164.cms",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "2026-02-20T14:44:28+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c5e7747c66275f0cf5d5badc53871eb2",
+      "title": "Everest wasn’t always a mountain! These 200 million-year-old marine fossils prove the Himalaya was once underwater",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/everest-wasnt-always-a-mountain-these-200-million-year-old-marine-fossils-prove-the-himalaya-was-once-underwater/articleshow/128597668.cms",
+      "summary": "",
+      "date": "2026-02-20",
+      "timestamp": "2026-02-20T14:25:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
