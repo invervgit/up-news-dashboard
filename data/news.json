@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-21T22:17:45.871427+00:00",
+  "generated_at": "2026-02-21T23:19:10.554372+00:00",
   "stories": [
     {
       "id": "47967d7f2c4ee67a2a514d266f0bafde",
@@ -35310,12 +35310,25 @@
       "lang": "en"
     },
     {
-      "id": "b12e78771910060e526c130cf9780f13",
-      "title": "JPMorgan concedes it closed Trump's accounts after January 6 attack",
-      "link": "https://www.thehindu.com/news/international/jpmorgan-concedes-it-closed-trumps-accounts-after-january-6-attack/article70661411.ece",
-      "summary": "In February 2021, JPMorgan informed Plaintiffs that certain accounts maintained with JPMorgan's CB and PB would be closed,” JPMorgan's former chief administrative officer Dan Wilkening wrote in the court filing.",
+      "id": "0976ea8fb3d95d6965e7883afdbbca78",
+      "title": "News Updates: तेलंगाना में बांस्वाड़ा झड़प में कांस्टेबल घायल, 12 गिरफ्तार; नागालैंड में शिक्षक आंदोलन स्थगित",
+      "link": "https://www.amarujala.com/india-news/national-news-updates-22-feb-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-02-22",
+      "summary": "News Updates: तेलंगाना में बांस्वाड़ा झड़प में कांस्टेबल घायल, 12 गिरफ्तार; नागालैंड में शिक्षक आंदोलन स्थगित---National News Updates 22 Feb North East West South India Politics Crime Latest National Hindi News",
       "date": "2026-02-22",
-      "timestamp": "Sun, 22 Feb 2026 03:43:40 +0530",
+      "timestamp": "Sun, 22 Feb 2026 04:42:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "e6a928b7552a947d9f1ffa27a3b050d1",
+      "title": "Pakistan says it struck militant hideouts along Afghan border after surge in deadly attacks",
+      "link": "https://www.thehindu.com/news/international/pakistan-military-hideout-strike-afghanistan-updates-february-22/article70661420.ece",
+      "summary": "Information Minister Attaullah Tarar wrote on X that the military conducted what he described as “intelligence-based, selective operations” against seven camps belonging to the Pakistani Taliban, also known as Tehrik-e-Taliban Pakistan, or TTP, and its affiliates.",
+      "date": "2026-02-22",
+      "timestamp": "Sun, 22 Feb 2026 04:38:20 +0530",
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
@@ -35328,7 +35341,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-22",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-02-22",
-      "timestamp": "Sun, 22 Feb 2026 03:30:30 +0530",
+      "timestamp": "Sun, 22 Feb 2026 04:30:30 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -35341,12 +35354,38 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-22",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-02-22",
-      "timestamp": "Sun, 22 Feb 2026 03:30:17 +0530",
+      "timestamp": "Sun, 22 Feb 2026 04:30:18 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "007b6f166e6fa419aaf78f01e9c2139f",
+      "title": "Secret Meeting: चीन-पाकिस्तान की नेपाल में गुप्त बैठक, अरुणाचल में माहौल बिगाड़ने की साजिश; मिले पुख्ता सबूत",
+      "link": "https://www.amarujala.com/india-news/china-pakistan-secret-meeting-in-nepal-plot-to-spoil-atmosphere-in-arunachal-2026-02-22",
+      "summary": "नेपाल में चीन-पाकिस्तान की सीक्रेट मीटिंग, अरुणाचल में माहौल खराब करने की साजिश",
+      "date": "2026-02-22",
+      "timestamp": "Sun, 22 Feb 2026 04:29:47 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b12e78771910060e526c130cf9780f13",
+      "title": "JPMorgan concedes it closed Trump's accounts after January 6 attack",
+      "link": "https://www.thehindu.com/news/international/jpmorgan-concedes-it-closed-trumps-accounts-after-january-6-attack/article70661411.ece",
+      "summary": "In February 2021, JPMorgan informed Plaintiffs that certain accounts maintained with JPMorgan's CB and PB would be closed,” JPMorgan's former chief administrative officer Dan Wilkening wrote in the court filing.",
+      "date": "2026-02-22",
+      "timestamp": "Sun, 22 Feb 2026 03:43:40 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "f31f90bdb5ec092c252e9603ecda442b",
@@ -35373,19 +35412,6 @@
       "source": "Amar Ujala",
       "district": "Noida",
       "lang": "en"
-    },
-    {
-      "id": "0976ea8fb3d95d6965e7883afdbbca78",
-      "title": "News Updates: तेलंगाना में बांस्वाड़ा झड़प में कांस्टेबल घायल, 12 गिरफ्तार; नागालैंड में शिक्षक आंदोलन स्थगित",
-      "link": "https://www.amarujala.com/india-news/national-news-updates-22-feb-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-02-22",
-      "summary": "News Updates: तेलंगाना में बांस्वाड़ा झड़प में कांस्टेबल घायल, 12 गिरफ्तार; नागालैंड में शिक्षक आंदोलन स्थगित---National News Updates 22 Feb North East West South India Politics Crime Latest National Hindi News",
-      "date": "2026-02-22",
-      "timestamp": "Sun, 22 Feb 2026 03:22:15 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "f0fab0e1e0f2c8e35a5b2f5014e5dfbe",
@@ -36672,6 +36698,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "671f9dcc296ad22dac05004c011261c6",
+      "title": "Akhilesh questions removal of NSG cover, accuses BJP government of 'playing' with his security",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/akhilesh-questions-removal-of-nsg-cover-accuses-bjp-government-of-playing-with-his-security/article70661293.ece",
+      "summary": "\"The BJP government is playing with my security. I had NSG security, but it was withdrawn. The government should have disclosed why,\" Akhilesh Yadav said, alleging that security decisions were being politicised.",
+      "date": "2026-02-22",
+      "timestamp": "Sun, 22 Feb 2026 01:35:47 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -47036,6 +47075,19 @@
       "lang": "en"
     },
     {
+      "id": "3145110e05482e30df4f7a791fb56663",
+      "title": "Once mocked for being tacky, this Korean music genre is making a comeback",
+      "link": "https://www.bbc.com/news/articles/c5y4xqlg639o?at_medium=RSS&at_campaign=rss",
+      "summary": "The traditional South Korean popular music genre is making headlines in the country once again.",
+      "date": "2026-02-21",
+      "timestamp": "Sat, 21 Feb 2026 23:06:59 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ac176f8b93547de8884a8a39253d01d5",
       "title": "‘They’ll be paying tariffs, and we will not be paying tariffs’: Trump says no changes to India-U.S. deal post court ruling",
       "link": "https://www.thehindu.com/news/international/theyll-be-paying-tariffs-and-we-will-not-be-paying-tariffs-trump-says-no-changes-to-india-us-deal-post-court-ruling/article70657726.ece",
@@ -47101,6 +47153,19 @@
       "lang": "en"
     },
     {
+      "id": "fa37fea87187dfac69244d606cdc7c28",
+      "title": "Why has NGT cleared the Nicobar project? | Explained",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/why-has-ngt-cleared-the-nicobar-project-explained/article70661022.ece",
+      "summary": "Why does the government insist that the project is of strategic importance? What will India achieve by establishing a major cargo transshipment hub? What will happen to the biodiversity of the Great Nicobar Island? What are the concerns? Can coral colonies be translocated?",
+      "date": "2026-02-21",
+      "timestamp": "Sat, 21 Feb 2026 22:46:17 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "48bfc96c447c636a32343ec5a822f170",
       "title": "Venezuela grants amnesty to 379 political prisoners",
       "link": "https://www.thehindu.com/news/international/venezuela-grants-amnesty-to-379-political-prisoners/article70661066.ece",
@@ -47110,6 +47175,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c98273e05ee9e611ee278718afc18a21",
+      "title": "Nico O’Reilly double seals key 2-1 win for Man City over Newcastle United",
+      "link": "https://www.aljazeera.com/sports/2026/2/21/nico-oreilly-double-seals-key-2-1-win-for-man-city-over-newcastle-united?traffic_source=rss",
+      "summary": "Manchester City's win cut Arsenal's lead at the top of the Premier League to two points.",
+      "date": "2026-02-21",
+      "timestamp": "Sat, 21 Feb 2026 22:36:04 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -47149,6 +47227,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "25b344ac3d37208e78b4eabb0b12858b",
+      "title": "Trump’s tariff regime has been ruled unlawful. What are the implications?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/2/21/trumps-tariff-regime-ruled-unlawful-what-are-the-implications?traffic_source=rss",
+      "summary": "The US Supreme Court has struck down President Donald Trump's central policy.",
+      "date": "2026-02-21",
+      "timestamp": "Sat, 21 Feb 2026 22:31:17 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -47279,6 +47370,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d09a24b3ccecd04b7e40fb9211b23e37",
+      "title": "Venezuela receives more than 1,500 amnesty requests under new law",
+      "link": "https://www.aljazeera.com/news/2026/2/21/venezuela-receives-more-than-1500-amnesty-requests-under-new-law?traffic_source=rss",
+      "summary": "More than 370 political prisoners have already been granted amnesty under the US-backed legislation.",
+      "date": "2026-02-21",
+      "timestamp": "Sat, 21 Feb 2026 22:12:20 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -49663,9 +49767,9 @@
     },
     {
       "id": "b1abf43bc8f540a5a728c376d5eed444",
-      "title": "LIVE: Manchester City vs Newcastle United – Premier League",
+      "title": "Manchester City vs Newcastle United 2-1: Premier League – as it happened",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/2/21/live-manchester-city-vs-newcastle-united-premier-league?traffic_source=rss",
-      "summary": "Follow the build-up, analysis and live text commentary of the game as City host Newcastle at the Etihad Stadium.",
+      "summary": "All the updates as a Nico O'Reilly brace gives City a 2-1 win over Newcastle United at Etihad Stadium.",
       "date": "2026-02-21",
       "timestamp": "Sat, 21 Feb 2026 17:00:00 +0000",
       "section": "International",
