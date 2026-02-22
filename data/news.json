@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-22T22:18:21.919483+00:00",
+  "generated_at": "2026-02-22T23:20:34.106400+00:00",
   "stories": [
     {
       "id": "47967d7f2c4ee67a2a514d266f0bafde",
@@ -35349,6 +35349,19 @@
       "lang": "en"
     },
     {
+      "id": "19d022da02f41a20fbac6cc1fc2e385a",
+      "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
+      "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nemesio Oseguera Cervantes, known as \"El Mencho\", headed one of Mexico's most powerful drug cartels.",
+      "date": "2026-02-22",
+      "timestamp": "Sun, 22 Feb 2026 23:19:30 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "259e69b86c9c91f2a3f2eb1944e26450",
       "title": "Expert panel submits report on Korapuzha dredging",
       "link": "https://www.thehindu.com/news/national/kerala/expert-panel-submits-report-on-korapuzha-dredging/article70663464.ece",
@@ -35423,6 +35436,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f49cf68606157b6951b917ec916ebc4e",
+      "title": "Brazil does not want ‘a new Cold War’, says President Lula",
+      "link": "https://www.aljazeera.com/news/2026/2/22/brazil-does-not-want-a-new-cold-war-says-lula?traffic_source=rss",
+      "summary": "Lula says he wants to tell US President Trump that Brazil wishes for all countries to be treated 'equally'.",
+      "date": "2026-02-22",
+      "timestamp": "Sun, 22 Feb 2026 23:05:38 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -35515,6 +35541,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8147461a00546176393899d6e178fe8b",
+      "title": "Mexico announces killing of drug cartel kingpin ‘El Mencho’",
+      "link": "https://www.aljazeera.com/news/2026/2/22/mexico-announces-killing-of-drug-cartel-kingpin-el-mencho?traffic_source=rss",
+      "summary": "Mexican leader Sheinbaum says government is responding to reported violence after operation against the cartel leader.",
+      "date": "2026-02-22",
+      "timestamp": "Sun, 22 Feb 2026 22:38:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -35654,19 +35693,6 @@
       "summary": "The suspect was carrying a shotgun and fuel can when he was killed, officers said. Trump was in Washington DC at the time.",
       "date": "2026-02-22",
       "timestamp": "Sun, 22 Feb 2026 22:08:03 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "19d022da02f41a20fbac6cc1fc2e385a",
-      "title": "Mexico's most wanted drug lord 'El Mencho' killed in military operation",
-      "link": "https://www.bbc.com/news/articles/cy4wywnrdd8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nemesio Oseguera Cervantes, known as \"El Mencho\", headed one of Mexico's most powerful drug cartels.",
-      "date": "2026-02-22",
-      "timestamp": "Sun, 22 Feb 2026 22:07:54 GMT",
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
@@ -66536,12 +66562,25 @@
       "lang": "en"
     },
     {
+      "id": "fdf557ecd1f6cfba4322105dfff0327b",
+      "title": "Weather: उत्तर-पश्चिम में फिर बदला मौसम का मिजाज, मैदानी क्षेत्रों में गर्मी का अहसास; इस हफ्ते बढ़ेगा पारा",
+      "link": "https://www.amarujala.com/india-news/weather-news-today-northwest-experiencing-heat-temperatures-are-expected-to-rise-this-week-imd-alert-hindi-2026-02-23",
+      "summary": "मौसम की खबरें उत्तर-पश्चिम में गर्मी पड़ रही है, इस हफ्ते तापमान बढ़ने की उम्मीद है",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 04:44:59 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "3635bc9bb8cea33bab0e6e05d37f3e2b",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 23 फ़रवरी के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-23",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-02-23",
-      "timestamp": "Mon, 23 Feb 2026 03:30:30 +0530",
+      "timestamp": "Mon, 23 Feb 2026 04:30:50 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -66554,12 +66593,77 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-23",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-02-23",
-      "timestamp": "Mon, 23 Feb 2026 03:30:19 +0530",
+      "timestamp": "Mon, 23 Feb 2026 04:30:38 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "80a40146a1416bbf240974bb975cce6a",
+      "title": "राज्यसभा चुनाव: पवार के छह दशक की सियासी यात्रा पर नहीं लगेगा विराम, कांग्रेस का समर्थन; MVA में बढ़ी एकजुटता",
+      "link": "https://www.amarujala.com/india-news/maharashtra-sharad-pawar-six-decade-political-journey-set-to-continue-congress-backs-rajya-sabha-bid-2026-02-23",
+      "summary": "राज्यसभा चुनाव: पवार के छह दशक की सियासी यात्रा पर नहीं लगेगा विराम, कांग्रेस का समर्थन; MVA में बढ़ी एकजुटता---Maharashtra Sharad Pawar Six-Decade Political Journey Set to Continue; Congress Backs Rajya Sabha Bid",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 04:30:15 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a4468d66f35eb20ee98bc3263801411a",
+      "title": "शोध: महिलाओं में लिगामेंट चोट का खतरा पुरुषों से कई गुना अधिक, हार्मोनल बदलाव भी संभावित कारक",
+      "link": "https://www.amarujala.com/india-news/women-are-at-higher-risk-of-ligament-injury-than-men-with-hormonal-changes-also-possible-factor-2026-02-23",
+      "summary": "पुरुषों की तुलना में महिलाओं को लिगामेंट इंजरी का खतरा ज़्यादा होता है, हार्मोनल बदलाव भी एक संभावित कारण है",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 04:20:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a05d3718776fe128722bb28a0f3a5a7f",
+      "title": "North Korea's Kim re-elected to lead ruling party at congress: Report",
+      "link": "https://www.thehindu.com/news/international/north-koreas-kim-re-elected-to-lead-ruling-party-at-congress-report/article70664753.ece",
+      "summary": "Under the leadership of Mr. Kim, \"the war deterrence of the country with the nuclear forces as its pivot has been radically improved,\" the KCNA report said",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 04:13:17 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7992b141d3746ab51978eadf6f513d8d",
+      "title": "KC-390: भारत के 80 सैन्य परिवहन विमान सौदे पर ब्राजीली कंपनी की नजर, केसी-390 को बताया अच्छा विकल्प",
+      "link": "https://www.amarujala.com/india-news/brazilian-firm-embraer-eyes-india-80-military-transport-aircraft-deal-says-kc-390-is-a-good-option-2026-02-23",
+      "summary": "भारत के 80 सैन्य परिवहन विमान सौदे पर ब्राजीली कंपनी की नजर, केसी-390 को बताया अच्छा विकल्प",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 04:09:24 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "37f07e02037466df7969e686328f0afc",
+      "title": "Looking forward to Israel visit: PM Modi",
+      "link": "https://www.thehindu.com/news/national/looking-forward-to-israel-visit-pm-modi/article70664531.ece",
+      "summary": "India deeply values the enduring friendship with Israel, built on trust, innovation and a shared commitment to peace and progress, says Prime Minister Narendra Modi",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 03:16:20 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "d4c7fa4e30cce504ba2e16c6950218d9",
@@ -66832,6 +66936,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "0166d79381cf69564b0435cc9af044bf",
+      "title": "Bengal unemployment aid scheme | Queuing up for cash",
+      "link": "https://www.thehindu.com/news/national/west-bengal/bengal-unemployment-aid-scheme-queuing-up-for-cash/article70663116.ece",
+      "summary": "Lakhs of people in the 21-40 age group are lining up across West Bengal to register for the Banglar Yuba Saathi scheme announced by the Trinamool Congress government ahead of the Assembly poll. Shrabana Chatterjee and Shiv Sahay Singh look into what this unemployment allowance means for those who do not have jobs and how they are surviving in meagrely paid contractual jobs offered by the State",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 02:36:23 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -67290,6 +67407,19 @@
       "lang": "en"
     },
     {
+      "id": "456de15b39093e038e8f4085086cc909",
+      "title": "'Continued delay' in restoration of Statehood to J&K is concerning: Farooq Abdullah",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/continued-delay-in-restoration-of-statehood-to-jk-is-concerning-farooq-abdullah/article70664632.ece",
+      "summary": "Repeated assurances have been made at the highest levels regarding the restoration of statehood at the earliest. However, the absence of a clear timeline has created uncertainty and disappointment among the people, says Farooq Abdullah",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 02:23:22 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2a152a5498635ce9e2de0dbccb69b3ce",
       "title": "Lucknow News: खर्राटे से हो सकती है दिल, दिमाग, बीपी और शुगर की समस्या",
       "link": "https://www.amarujala.com/lucknow/snoring-can-cause-problems-related-to-heart-brain-blood-pressure-and-sugar-lucknow-news-c-13-lko1070-1617131-2026-02-23",
@@ -67404,6 +67534,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "bbb0f543582353454849ef7a83f8f2c2",
+      "title": "Top Mexican drug cartel leader killed",
+      "link": "https://www.thehindu.com/news/international/top-mexican-drug-cartel-leader-killed/article70664630.ece",
+      "summary": "Nemesio Oseguera, the 59-year-old leader of the violent Jalisco New Generation Cartel, was wounded in a clash with soldiers in the town of Tapalpa and died while being flown to Mexico City, the army said in a statement.",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 02:17:23 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -67667,6 +67810,19 @@
       "lang": "en"
     },
     {
+      "id": "44beca0707097182eb226d3ec593d1a6",
+      "title": "Low-pressure area likely to bring rain in Western Ghat districts",
+      "link": "https://www.thehindu.com/news/cities/chennai/low-pressure-area-likelyto-bring-rainin-western-ghat-districts/article70664382.ece",
+      "summary": "",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 00:59:00 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "bc3cb1e9172bb9a281faa101bf845038",
       "title": "NIOT designs profilerto record ocean data in real time",
       "link": "https://www.thehindu.com/news/cities/chennai/niot-designs-profilerto-record-ocean-data-in-real-time/article70664240.ece",
@@ -67883,19 +68039,6 @@
       "timestamp": "Mon, 23 Feb 2026 00:22:20 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "37f07e02037466df7969e686328f0afc",
-      "title": "Looking forward to Israel visit: PM Modi",
-      "link": "https://www.thehindu.com/news/national/looking-forward-to-israel-visit-pm-modi/article70664531.ece",
-      "summary": "India deeply values the enduring friendship with Israel, built on trust, innovation and a shared commitment to peace and progress, says Prime Minister Narendra Modi",
-      "date": "2026-02-23",
-      "timestamp": "Mon, 23 Feb 2026 00:22:15 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -89789,6 +89932,97 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b62a374e938cf2036d5ea6b33b840a1a",
+      "title": "Used our talent to serve others: Pitroda; another case of Cong bashing India: BJP",
+      "link": "https://timesofindia.indiatimes.com/india/used-our-talent-to-serve-others-pitroda-another-case-of-cong-bashing-india-bjp/articleshow/128692636.cms",
+      "summary": "Sam Pitroda, head of Indian Overseas Congress, sparked a row by stating India's IT talent served global firms, not the nation. He questioned why India couldn't build its own tech giants. The BJP swiftly condemned his remarks, accusing him of anti-India rhetoric and highlighting indigenous operating systems as counter-evidence.",
+      "date": "2026-02-22",
+      "timestamp": "2026-02-23T04:26:14+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e2edcd790a466774aeece355242083c4",
+      "title": "DPI to daily life: India's AI pitch goes beyond code",
+      "link": "https://timesofindia.indiatimes.com/india/dpi-to-daily-life-indias-ai-pitch-goes-beyond-code/articleshow/128692573.cms",
+      "summary": "At the India AI Impact Summit 2026, India showcased its Digital Public Infrastructure (DPI) as a lifestyle experience, exemplified by a coffee stall where Google CEO Sundar Pichai sampled GI-tagged coffee and paid via UPI. This \"DPI-first\" approach was highlighted in a bilateral partnership with Brazil, aiming to link UPI with Brazil's Pix and establish a DPI Centre of Excellence.",
+      "date": "2026-02-22",
+      "timestamp": "2026-02-23T04:21:28+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cbca9a29df2d903885840d2cea1663c8",
+      "title": "Pilot duty exemptions weigh in heavy on DGCA’s summer plan",
+      "link": "https://timesofindia.indiatimes.com/india/pilot-duty-exemptions-weigh-in-heavy-on-dgcas-summer-plan/articleshow/128692498.cms",
+      "summary": "Aviation authorities are finalizing summer flight schedules, with pilot availability a key concern. Airlines' requests for extensions on flight duty time limitations are under review, impacting potential flight numbers. Exemptions are crucial for carriers like Air India and IndiGo to manage longer routes and night operations, but safety concerns over crew fatigue loom large.",
+      "date": "2026-02-22",
+      "timestamp": "2026-02-23T04:16:08+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "72912f90bc91d4f5bc61858d196c6711",
+      "title": "Beware of digital fraud, do KYC via official channels: PM in ‘Mann Ki Baat’",
+      "link": "https://timesofindia.indiatimes.com/india/beware-of-digital-fraud-do-kyc-via-official-channels-pm-in-mann-ki-baat/articleshow/128692463.cms",
+      "summary": "",
+      "date": "2026-02-22",
+      "timestamp": "2026-02-23T04:14:02+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b02974ddb8ed08222eae54bda86cc379",
+      "title": "1.2 lakh new seats planned in 1,000 upgraded ITIs",
+      "link": "https://timesofindia.indiatimes.com/india/1-2-lakh-new-seats-planned-in-1000-upgraded-itis/articleshow/128692033.cms",
+      "summary": "",
+      "date": "2026-02-22",
+      "timestamp": "2026-02-23T04:00:07+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "19314be18dea7302b0caae5290b112ed",
+      "title": "ED to zonal heads: Use Natgrid to file 500 chargesheets this fiscal",
+      "link": "https://timesofindia.indiatimes.com/india/ed-to-zonal-heads-use-natgrid-to-file-500-chargesheets-this-fiscal/articleshow/128691934.cms",
+      "summary": "Enforcement Directorate chief Rahul Navin urged officers to expedite chargesheets to meet the financial year's target of 500 prosecution complaints. The Guwahati meeting, attended by other central agencies, focused on emerging financial crime trends and cross-border threats. Officials were advised to leverage intelligence platforms and international cooperation to combat illicit activities, particularly in the North-East.",
+      "date": "2026-02-22",
+      "timestamp": "2026-02-23T03:56:56+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1ae3e1199a12933aba145a203d582d46",
+      "title": "Rajaji statue to replace Lutyens' at Prez house that he designed",
+      "link": "https://timesofindia.indiatimes.com/india/rajaji-statue-to-replace-lutyens-at-prez-house-that-he-designed/articleshow/128690911.cms",
+      "summary": "Prime Minister Modi announced the removal of Edwin Lutyens' statue from Rashtrapati Bhavan, replacing it with one of C Rajagopalachari. This move signifies a broader effort to shed colonial vestiges and embrace India's heritage. Modi also lauded former Tamil Nadu CM J Jayalalithaa's contributions to governance and women's empowerment.",
+      "date": "2026-02-22",
+      "timestamp": "2026-02-23T03:42:38+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
