@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T21:39:26.777815+00:00",
+  "generated_at": "2026-02-23T22:36:20.621699+00:00",
   "stories": [
     {
       "id": "47967d7f2c4ee67a2a514d266f0bafde",
@@ -11850,7 +11850,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-24",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-02-24",
-      "timestamp": "Tue, 24 Feb 2026 03:00:49 +0530",
+      "timestamp": "Tue, 24 Feb 2026 04:00:49 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -11863,7 +11863,7 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-24",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-02-24",
-      "timestamp": "Tue, 24 Feb 2026 03:00:37 +0530",
+      "timestamp": "Tue, 24 Feb 2026 04:00:36 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -59022,6 +59022,19 @@
       "lang": "en"
     },
     {
+      "id": "7d1fc3f0261fc1bcb260f5bec8939e1e",
+      "title": "'Burned and destroyed': Locals and tourists describe Mexico unrest",
+      "link": "https://www.bbc.com/news/articles/c4gqkg87293o?at_medium=RSS&at_campaign=rss",
+      "summary": "Violence has erupted across several states in Mexico after cartel leader El Mencho was killed on Sunday.",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 21:24:31 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9ab2afaaf780d3246b6de67e4010e1b9",
       "title": "Karnataka contributes one-fifth to the national bioeconomy: Report",
       "link": "https://www.thehindu.com/news/national/karnataka/karnataka-contributes-one-fifth-to-the-national-bioeconomy-report/article70667890.ece",
@@ -59188,6 +59201,32 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "0afebe1deb5c469b2e67d5409b0c3e9f",
+      "title": "Mexico sends thousands of soldiers to stop violence after death of drug lord",
+      "link": "https://www.bbc.com/news/articles/cx2lp7xwql4o?at_medium=RSS&at_campaign=rss",
+      "summary": "A wave of violence has erupted across Mexico since a powerful drug cartel boss died following his capture by special forces.",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 21:12:47 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "40d38cb6da8f050f31998d5ec160f7a3",
+      "title": "Trump threatens countries that 'play games' with existing trade deals",
+      "link": "https://www.bbc.com/news/articles/c5yvky5ldk1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The threat comes after the Supreme Court ruled on Friday that Trump had exceeded his authority in enacting a sweeping global programme of tariffs.",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 21:12:43 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -59985,9 +60024,9 @@
     },
     {
       "id": "d6225d0ac157c68db4f388e26d521f63",
-      "title": "El Mencho: Mexico officials says 25 soldiers killed after cartel raid",
+      "title": "El Mencho: Mexico officials say 25 soldiers killed after cartel raid",
       "link": "https://www.aljazeera.com/news/2026/2/23/mexican-officials-say-25-soldiers-killed-in-clashes-following-cartel-raid?traffic_source=rss",
-      "summary": "Mexican President Claudia Sheinbaum says that calm is being restored and that improvised cartel roadblocks removed.",
+      "summary": "Mexican President Claudia Sheinbaum says that calm is being restored and improvised cartel roadblocks are being removed.",
       "date": "2026-02-23",
       "timestamp": "Mon, 23 Feb 2026 20:07:12 +0000",
       "section": "International",
@@ -60721,6 +60760,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0b3ffeb29f7219d9647a83f6bf435557",
+      "title": "US partially evacuates Beirut embassy amid rising Iran tensions",
+      "link": "https://www.bbc.com/news/articles/cj32l00k47lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The State Department has ordered non-essential staff to leave the embassy in Beirut after a security review.",
+      "date": "2026-02-23",
+      "timestamp": "Mon, 23 Feb 2026 19:08:55 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -92025,6 +92077,45 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bf17594b81ee9fe5e382109e7fc50d20",
+      "title": "Taking cue from Devji, more cadres may shun Maoist ideology, join mainstream",
+      "link": "https://timesofindia.indiatimes.com/india/taking-cue-from-devji-more-cadres-may-shun-maoist-ideology-join-mainstream/articleshow/128732690.cms",
+      "summary": "Top CPI(Maoist) leaders, including de-facto general secretary Devji and central committee member Sangram, are expected to surrender, signaling a significant blow to the organization. This follows a series of surrenders by other key figures. The move is seen as a pragmatic choice over ideology, potentially encouraging remaining cadres to follow suit.",
+      "date": "2026-02-23",
+      "timestamp": "2026-02-24T03:57:04+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fc97430647733cc00c49b1028e37ee96",
+      "title": "Tensions rising between Iran and US: India explores ways to secure crude, LNG supplies",
+      "link": "https://timesofindia.indiatimes.com/india/tensions-rising-between-iran-and-us-india-explores-ways-to-secure-crude-lng-supplies/articleshow/128732243.cms",
+      "summary": "Amidst rising Iran-US tensions and fears of war, India is actively securing its energy supplies. With the Strait of Hormuz, a critical oil transit route, potentially facing closure, New Delhi is exploring alternative pipelines and has diversified imports. While availability isn't the primary concern, a surge in global crude prices remains a significant worry for the nation's import bill.",
+      "date": "2026-02-23",
+      "timestamp": "2026-02-24T03:51:26+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0e85071e0bd81a7c2b5e1cf3f1218ef3",
+      "title": "India tells citizens to leave Iran by all available means",
+      "link": "https://timesofindia.indiatimes.com/india/india-tells-citizens-to-leave-iran-by-all-available-means/articleshow/128732041.cms",
+      "summary": "",
+      "date": "2026-02-23",
+      "timestamp": "2026-02-24T03:49:04+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
