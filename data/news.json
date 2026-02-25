@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-25T21:30:49.359815+00:00",
+  "generated_at": "2026-02-25T22:27:45.361564+00:00",
   "stories": [
     {
       "id": "6e53e8c9454f09cdfc7b5517cef19ae8",
@@ -691,6 +691,19 @@
       "lang": "en"
     },
     {
+      "id": "96b1dc1185061e86c6375a82b2b7f5bd",
+      "title": "Four shot dead on US-registered speedboat by border guards, Cuba says",
+      "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Six other passengers were wounded in the incident, which took place near an island on Cuba's northern coast.",
+      "date": "2026-02-25",
+      "timestamp": "Wed, 25 Feb 2026 21:51:46 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1402db7c8d30db88bc3a1342606aa70d",
       "title": "Cusat to host State-level ‘Kutti Slam’",
       "link": "https://www.thehindu.com/news/national/kerala/cusat-to-host-state-level-kutti-slam/article70676315.ece",
@@ -934,19 +947,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "96b1dc1185061e86c6375a82b2b7f5bd",
-      "title": "Four shot dead on US-registered speedboat by border guards, Cuba says",
-      "link": "https://www.bbc.com/news/articles/c24drvj8yl2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Six other passengers were wounded in the incident, which took place near an island on Cuba's northern coast.",
-      "date": "2026-02-25",
-      "timestamp": "Wed, 25 Feb 2026 21:18:50 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -2494,6 +2494,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e8a9984040a9d432c9dcd4f7397a20d5",
+      "title": "Six months after two police officers killed, will conspiracy theorist who ran into bush ever be found?",
+      "link": "https://www.bbc.com/news/articles/cm280j2jgvyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Conspiracist Dezi Freeman hasn't been seen again – but people in the small town of Porepunkah want closure.",
+      "date": "2026-02-25",
+      "timestamp": "Wed, 25 Feb 2026 19:05:43 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -36623,12 +36636,51 @@
       "lang": "en"
     },
     {
+      "id": "4961c9c8e29c27b41fdda0d3e9d619a8",
+      "title": "Cuba coast guard kills 4 on Florida-registered boat",
+      "link": "https://www.thehindu.com/news/international/cuba-coast-guard-kills-4-on-florida-registered-boat/article70677308.ece",
+      "summary": "The Interior Ministry said the coast guard encountered the \"illegal\" Florida-registered vessel one nautical mile from Falcones Cay in Villa Clara province.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 03:43:07 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ce08189d233f8b970a915159eb479abc",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 26 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-26",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 03:30:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "d2bae01e985a52bc2866124d1466ebe0",
       "title": "पढ़ें 26 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-26",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 03:00:32 +0530",
+      "timestamp": "Thu, 26 Feb 2026 03:30:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5e670cad3438bfc46026c109594d4c9b",
+      "title": "Rajasthan Panchayat Chunav: 2 से ज्यादा बच्चे वाले भी लडेंगे राजस्थान निकाय चुनाव, भड़क उठे डोटासरा!",
+      "link": "https://www.amarujala.com/video/india-news/rajasthan-panchayat-elections-those-with-more-than-2-children-will-also-contest-rajasthan-civic-elections-do-2026-02-26",
+      "summary": "Rajasthan Panchayat Chunav: 2 से ज्यादा बच्चे वाले भी लडेंगे राजस्थान निकाय चुनाव, भड़क उठे डोटासरा!",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 03:30:03 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -36880,6 +36932,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "4f783a4c8e23638f352fbb35631627de",
+      "title": "Trump, Zelenskyy speak before Ukraine-U.S. talks in Geneva",
+      "link": "https://www.thehindu.com/news/international/trump-zelenskyy-speak-before-ukraine-us-talks-in-geneva/article70677184.ece",
+      "summary": "Our teams work intensively and I thanked them for all their work and for their active involvement in the negotiations and the efforts to end the war, says Volodymyr Zelenskyy",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:52:51 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -37517,19 +37582,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "ce08189d233f8b970a915159eb479abc",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 26 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-26",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 02:30:29 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -93975,6 +94027,58 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7209e0451472376627c7060eea0757fc",
+      "title": "UAE urgently recalls 4 health products: What every consumer must know",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-urgently-recalls-4-health-products-what-every-consumer-must-know/articleshow/128794676.cms",
+      "summary": "UAE health authorities have urgently recalled four products, including three supplements and one medical item, due to serious safety concerns like unapproved ingredients and contamination. Consumers are warned against purchasing or using these. The recall of the supplements and health product highlights the nation's commitment to public health and strict regulatory enforcement.",
+      "date": "2026-02-25",
+      "timestamp": "2026-02-26T03:06:23+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c91b08516e6b5156569629ec3911c2c1",
+      "title": "Xi's military purge raises doubts about China's readiness to go to war: Study",
+      "link": "https://timesofindia.indiatimes.com/world/china/xis-military-purge-raises-doubts-about-chinas-readiness-to-go-to-war-study/articleshow/128795079.cms",
+      "summary": "China's military is undergoing a massive shake-up, with dozens of senior officers, including top generals, detained or disappearing without explanation. This extensive purge, impacting half of the PLA's senior leadership, raises serious questions about the military's combat readiness and ability to launch major campaigns, particularly concerning Taiwan. The removals are attributed to loyalty concerns, potentially hindering future leadership development.",
+      "date": "2026-02-25",
+      "timestamp": "2026-02-26T02:58:25+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2894e1a3393bd19116d640c106596d9b",
+      "title": "Homes hit during unrest, 2 Nepal ex-PMs to skip polls",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/homes-hit-during-unrest-2-nepal-ex-pms-to-skip-polls/articleshow/128795032.cms",
+      "summary": "",
+      "date": "2026-02-25",
+      "timestamp": "2026-02-26T02:53:16+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7831ad9c69b289349374ea5999728fb3",
+      "title": "Hacker uses Claude to steal Mexican data",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/hacker-uses-claude-to-steal-mexican-data/articleshow/128794973.cms",
+      "summary": "",
+      "date": "2026-02-25",
+      "timestamp": "2026-02-26T02:46:30+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
