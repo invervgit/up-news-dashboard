@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T22:28:16.087340+00:00",
+  "generated_at": "2026-02-26T23:24:43.387586+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -24988,6 +24988,19 @@
       "lang": "en"
     },
     {
+      "id": "d271900de1962170fd33de94ecfa0979",
+      "title": "US justice department accused of withholding Trump-related Epstein files",
+      "link": "https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The top Democrat on the congressional panel investigating Epstein has called on the attorney general to publish the material.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 23:08:58 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "72345d92d184b8523e8f173e5551375e",
       "title": "Bengaluru legislators will meet soon to discuss air quality, pollution issues in city: Khandre",
       "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-legislators-will-meet-soon-to-discuss-air-quality-pollution-issues-related-to-city-khandre/article70680382.ece",
@@ -25063,6 +25076,32 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "357ec7f589d72733fce8305affd4b27e",
+      "title": "American citizen among those killed in Cuba boat shooting, US official says",
+      "link": "https://www.bbc.com/news/articles/c80j3rlp904o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cuba has accused those on board of planning \"an infiltration with terrorist aims” and firing first.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 22:58:53 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9ffaf69a3771cb249c9c08db0462c7a5",
+      "title": "Cuba says speedboat attackers from Florida planned to destabilise country",
+      "link": "https://www.aljazeera.com/news/2026/2/26/cuba-says-speedboat-attackers-from-florida-planned-to-destabilise-country?traffic_source=rss",
+      "summary": "Associates of one of the passengers killed in the alleged raid attempt said he sought to overthrow Cuba's government.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 22:58:32 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -25144,6 +25183,19 @@
       "lang": "en"
     },
     {
+      "id": "1a005bab4749122c71197051328bf54c",
+      "title": "Why are many Western leaders visiting China?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/2/26/why-are-many-western-leaders-visiting-china?traffic_source=rss",
+      "summary": "German Chancellor Friedrich Merz is in Beijing, saying he wants to reset ties.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 22:35:08 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1cde727b6f9f2942c29984032f1e4b68",
       "title": "Global order in peril from lack of cooperation, says Merkel; slams China, U.S. for resisting AI regulation",
       "link": "https://www.thehindu.com/news/national/global-order-in-peril-from-lack-of-cooperation-says-merkel-slams-china-us-for-resisting-ai-regulation/article70680705.ece",
@@ -25205,6 +25257,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8d841bdc1f24c92d5df12742650e9798",
+      "title": "Ecuador hikes tariffs on Colombian imports to 50 percent starting March 1",
+      "link": "https://www.aljazeera.com/news/2026/2/26/ecuador-hikes-tariffs-on-colombian-imports-to-50-percent-starting-march-1?traffic_source=rss",
+      "summary": "The new announcement from Quito follows an initial 30 percent tariff imposed by the Andean nation in early February.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 22:26:29 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -27848,19 +27913,6 @@
       "lang": "en"
     },
     {
-      "id": "d271900de1962170fd33de94ecfa0979",
-      "title": "US justice department accused of withholding Trump-related Epstein files",
-      "link": "https://www.bbc.com/news/articles/ckg3elr1dwpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The top Democrat on the congressional panel investigating Epstein has called on the attorney general to publish the material.",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 17:30:50 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "dfa871d961f3d2900fe839c8798fe9d4",
       "title": "Coonoor Consumer Protection Association opposes proposed hike in delivery charges for LPG cylinders in The Nilgiris",
       "link": "https://www.thehindu.com/news/cities/Coimbatore/coonoor-consumer-protection-association-opposes-proposed-hike-in-delivery-charges-for-lpg-cylinders-in-the-nilgiris/article70678906.ece",
@@ -27890,7 +27942,7 @@
       "id": "7d78348a85446c3c206ae234d5d8e7b9",
       "title": "Afghanistan launches attacks against Pakistan, draws ‘immediate response’",
       "link": "https://www.aljazeera.com/news/2026/2/26/afghanistan-says-it-launches-attacks-against-pakistan?traffic_source=rss",
-      "summary": "Afghan military source tells Al Jazeera 13 border outposts were captured as Pakistan denies that any posts were seized.",
+      "summary": "Pakistan says its response has “inflicted heavy losses across the Pakistan-Afghanistan border\".",
       "date": "2026-02-26",
       "timestamp": "Thu, 26 Feb 2026 17:20:05 +0000",
       "section": "International",
@@ -81954,12 +82006,12 @@
       "lang": "en"
     },
     {
-      "id": "829cd2d9f1e16b90ede35803a01f3609",
-      "title": "CM Yogi Japan Visit: सीएम योगी के विदेश दौरे पर उठाने वालों को वित्त मंत्री सुरेश खन्ना ने दिया ये जवाब!",
-      "link": "https://www.amarujala.com/video/india-news/cm-yogi-japan-visit-finance-minister-suresh-khanna-gave-this-answer-to-those-who-raised-questions-on-cm-yogi-2026-02-27",
-      "summary": "CM Yogi Japan Visit: सीएम योगी के विदेश दौरे पर उठाने वालों को वित्त मंत्री सुरेश खन्ना ने दिया ये जवाब!",
+      "id": "0c217bcedad58f3543ae15f8f88bd283",
+      "title": "NCP New Chief Sunetra Pawar: सुनेत्रा पवार बनीं NCP की नई राष्ट्रीय अध्यक्ष, सर्वसम्मति से हुआ चुनाव",
+      "link": "https://www.amarujala.com/video/india-news/ncp-new-chief-sunetra-pawar-sunetra-pawar-becomes-the-new-national-president-of-ncp-election-held-unanimousl-2026-02-27",
+      "summary": "NCP New Chief Sunetra Pawar: सुनेत्रा पवार बनीं NCP की नई राष्ट्रीय अध्यक्ष, सर्वसम्मति से हुआ चुनाव",
       "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 03:45:03 +0530",
+      "timestamp": "Fri, 27 Feb 2026 04:45:03 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -81967,12 +82019,38 @@
       "lang": "hi"
     },
     {
+      "id": "da7e8534dcad0e08d3b58d446a671f49",
+      "title": "News Updates: राष्ट्रपति मुर्मू आज प्रचंड हेलिकॉप्टर में भरेंगी उड़ान; इस्राइल दौरे से स्वदेश लौटे पीएम मोदी",
+      "link": "https://www.amarujala.com/india-news/national-news-updates-27-feb-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-02-27",
+      "summary": "News Updates: राष्ट्रपति मुर्मू आज प्रचंड हेलिकॉप्टर में भरेंगी उड़ान; इस्राइल दौरे से स्वदेश लौटे पीएम मोदी",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 04:41:28 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5423abf88686d703da548ddbd371b7b5",
+      "title": "Afghanistan-Pakistan conflict LIVE: Loud explosions rock Afghan capital Kabul",
+      "link": "https://www.thehindu.com/news/international/afghanistan-pakistan-clash-tension-border-live-updates/article70681565.ece",
+      "summary": "Afghanistan's military corps in the east said in a statement that “heavy clashes” had begun Thursday night “in response to the recent airstrikes carried out by Pakistani forces\" in eastern Afghanistan.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 04:38:52 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a22cbeb86f3a76a8005db8d89e1ed604",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 27 फ़रवरी के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-27",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 03:30:30 +0530",
+      "timestamp": "Fri, 27 Feb 2026 04:30:31 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -81985,7 +82063,33 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-27",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 03:30:18 +0530",
+      "timestamp": "Fri, 27 Feb 2026 04:30:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "60ea67dda363c24a082f642209a07bd4",
+      "title": "Bull Attack: नोएडा सेक्टर-2 में सांड की टक्कर से एक व्यक्ति की मौत; सेक्टर-4 में ग्राफिक्स डिजाइनर को पटका",
+      "link": "https://www.amarujala.com/delhi-ncr/road-rage-bull-terror-in-noida-one-person-killed-in-sector-2-collision-2026-02-27",
+      "summary": "सेक्टर-2 में साइकिल से घर जा रहे व्यक्ति को सांड ने टक्कर मार दी।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 04:03:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "829cd2d9f1e16b90ede35803a01f3609",
+      "title": "CM Yogi Japan Visit: सीएम योगी के विदेश दौरे पर उठाने वालों को वित्त मंत्री सुरेश खन्ना ने दिया ये जवाब!",
+      "link": "https://www.amarujala.com/video/india-news/cm-yogi-japan-visit-finance-minister-suresh-khanna-gave-this-answer-to-those-who-raised-questions-on-cm-yogi-2026-02-27",
+      "summary": "CM Yogi Japan Visit: सीएम योगी के विदेश दौरे पर उठाने वालों को वित्त मंत्री सुरेश खन्ना ने दिया ये जवाब!",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 03:45:03 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -83332,6 +83436,19 @@
       "lang": "en"
     },
     {
+      "id": "e4c27fd958ac08dfe1272e9f62a24405",
+      "title": "Indian Railway Holi Special Train: होली पर रेलवे का बड़ा तोहफा, प्रयागराज से अयोध्या चलेगी स्पेशल ट्रेन सेवा",
+      "link": "https://www.patrika.com/lucknow-news/indian-railways-announces-prayagraj-ayodhya-holi-special-train-to-handle-festival-rush-20385309",
+      "summary": "Indian Railways Announces Prayagraj-Ayodhya Holi Special Train: होली के त्योहार को देखते हुए पूर्वोत्तर रेलवे ने यात्रियों की बढ़ती भीड़ को नियंत्रित करने और सुरक्षित एवं सुगम यात्रा सुनिश्चित करने के लिए बड़ी पहल की है। रेलवे प्रशासन ने प्रयागराज रामबाग और अयोध्या कैंट के बीच विशेष होली स्पेशल ट्रेन चलाने की घोषणा की है। यह ट्रेन सीमित अवधि के लिए संचालित होगी और पूर्वांचल व अवध क्षेत्र के हजारों यात्रियों को सीधा लाभ देगी।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:56:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "87921ec5493747fb3568bc4af8346233",
       "title": "Lucknow News: टिकट चेकिंग में उत्कृष्ट योगदान के लिए 16 रेलकर्मी पुरस्कृत",
       "link": "https://www.amarujala.com/lucknow/16-railway-employees-awarded-for-their-outstanding-contribution-in-ticket-checking-lucknow-news-c-13-1-lko1028-1624621-2026-02-27",
@@ -83839,6 +83956,19 @@
       "lang": "en"
     },
     {
+      "id": "a206ddb98ed18901f35ac0e44ee61f39",
+      "title": "Lucknow Park Project: लखनऊ में बनेगा जुरासिक थीम पर मैजिकल लैंड फैंटसी पार्क, 12 करोड़ की लागत से होगा निर्माण",
+      "link": "https://www.patrika.com/lucknow-news/lucknow-to-get-magical-land-fantasy-park-with-robotic-dragons-and-unicorns-by-2026-20385188",
+      "summary": "Lucknow Jurassic Theme Park Project: लखनऊ के आशियाना क्षेत्र स्थित वनस्थली पार्क अब बच्चों और परिवारों के लिए एक अनोखी आकर्षण का केंद्र बनने जा रहा है। लखनऊ विकास प्राधिकरण (एलडीए) ने यहां ‘मैजिकल लैंड फैंटसी पार्क’ विकसित करने की योजना पर काम शुरू कर दिया है। जुरासिक पार्क की तर्ज पर तैयार होने वाले इस थीम पार्क में रोबोटिक ड्रैगन, यूनिकॉर्न और पंचतंत्र की कहानियों पर आधारित आकर्षक किरदार दर्शकों को एक अलग दुनिया का अनुभव कराएंगे।करीब 12 करोड़ रुपये की लागत से यह परियोजना पब्लिक-प्राइवेट पार्टनरशिप (PPP) मॉडल पर विकसित की जा रही है। एलडीए उपाध्यक्ष प्रथमेश कुमार ने मौके पर पहुंचकर निर्माण कार्य का निरीक्षण किया और अधिकारियों को सितंबर 2026 तक कार्य पूर्ण करने के सख्त निर्देश दिए।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 00:54:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "8ff077fbbe60529a27dbbaa76fc28364",
       "title": "SIR is a bloodless genocide of citizenship, says Parakala Prabhakar",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/sir-is-a-bloodless-genocide-of-citizenship-says-parakala-prabhakar/article70681243.ece",
@@ -83953,6 +84083,19 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "08f867f7331896947323c2e9f2f5398c",
+      "title": "UP Farmer Scheme: होली पर किसानों के लिए खुशखबरी: योगी सरकार दे रही अनुदान पर आधुनिक कृषि यंत्र, 4 मार्च तक करें आवेदन",
+      "link": "https://www.patrika.com/lucknow-news/yogi-government-announces-subsidy-farm-equipment-scheme-ahead-of-holi-farmers-get-big-relief-20385147",
+      "summary": "UP Scheme 2026: उत्तर प्रदेश की योगी सरकार इस बार होली के पर्व पर किसानों के जीवन में खुशहाली और समृद्धि के रंग भरने की तैयारी में है। प्रदेश के किसानों को आधुनिक कृषि तकनीक से जोड़ने और खेती की लागत कम करने के उद्देश्य से कृषि विभाग ने अनुदान पर कृषि यंत्र उपलब्ध कराने की प्रक्रिया शुरू कर दी है। इसके तहत किसानों को आधुनिक कृषि यंत्र, ड्रोन, फार्म मशीनरी बैंक और फसल अवशेष प्रबंधन उपकरणों का लाभ दिया जाएगा। कृषि विभाग द्वारा संचालित योजनाओं के अंतर्गत किसानों के लिए ऑनलाइन बुकिंग प्रक्रिया प्रारंभ हो चुकी है, जो 4 मार्च 2026 तक जारी रहेगी। इच्छुक किसान विभाग की आधिकारिक वेबसाइट www.agridarshan.up.gov.in पर जाकर आवेदन कर सकते हैं।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 00:09:10 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -94967,6 +95110,58 @@
       "lang": "en"
     },
     {
+      "id": "46fc94332bfd05eab92e6aced15fb896",
+      "title": "Indian young adults rank lowly 60th in 84-nation mental health study",
+      "link": "https://timesofindia.indiatimes.com/india/indian-young-adults-rank-lowly-60th-in-84-nation-mental-health-study/articleshow/128831188.cms",
+      "summary": "",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-27T04:28:44+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8ffcb5603df99de9836c6a855e325cda",
+      "title": "US weakened global organisations: Merkel",
+      "link": "https://timesofindia.indiatimes.com/india/us-weakened-global-organisations-merkel/articleshow/128830281.cms",
+      "summary": "",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-27T04:00:01+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0dcd81feb33eb879d110d987306b8569",
+      "title": "Ramadan trending staycations in UAE: Book before Suhoor for exclusive discounts",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/ramadan-2026-staycations-in-the-uae-top-trending-getaways-you-can-book-before-suhoor-for-exclusive-discounts/articleshow/128826569.cms",
+      "summary": "Ramadan staycations are booming in the UAE for 2026, offering a tranquil escape before suhoor. This trend blends family time, reflection and unique culinary experiences like sunrise meals in scenic spots. It highlights a shift towards meaningful domestic travel, prioritising cultural engagement and relaxation over traditional holidays during the holy month.",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-27T03:59:56+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "156dec99521aa631cacb9fd683a995e8",
+      "title": "Govt: Carney's visit at 'crucial juncture'",
+      "link": "https://timesofindia.indiatimes.com/india/govt-carneys-visit-at-crucial-juncture/articleshow/128830021.cms",
+      "summary": "",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-27T03:56:26+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ad3733ed15489e088de5f36deb5622ca",
       "title": "India’s standing diminished, says Congress on Modi’s Knesset address",
       "link": "https://timesofindia.indiatimes.com/india/indias-standing-diminished-says-congress-on-modis-knesset-address/articleshow/128829882.cms",
@@ -94976,6 +95171,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6e8c5cfa4089bc29b8dd3a3f04c7e180",
+      "title": "What really happened between Adam22 and DeenTheGreat? Kick streamer feud explodes after No Jumper interview argument",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/what-really-happened-between-adam22-and-deenthegreat-kick-streamer-feud-explodes-after-no-jumper-interview-argument/articleshow/128827458.cms",
+      "summary": "Adam22 and DeenTheGreat clashed during a No Jumper podcast interview that quickly turned personal. The argument began after Adam criticized Deen’s viral fame. Deen responded with sharp insults, and tensions rose. Adam later claimed a fight almost happened outside involving Rollin’ 60s members. No physical fight took place, but the feud continues online.",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-27T03:07:42+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
