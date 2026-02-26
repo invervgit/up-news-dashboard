@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-26T08:39:58.071875+00:00",
+  "generated_at": "2026-02-26T09:43:18.494301+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -918,8 +918,8 @@
       "summary": "Narendra Modi, who is visiting Israel for the second time in nine years, was received by Benjamin Netanyahu and his wife, Sara, at the airport.",
       "date": "2026-02-25",
       "timestamp": "Wed, 25 Feb 2026 21:27:31 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -24702,16 +24702,289 @@
       "lang": "en"
     },
     {
+      "id": "b6587b6dc1c3f2aecb9ba8d4d687c61c",
+      "title": "Trump calls De Niro 'sick, demented' after actor's criticism",
+      "link": "https://www.thehindu.com/news/international/trump-calls-de-niro-sick-demented-after-actors-criticism/article70679074.ece",
+      "summary": "His remarks came after De Niro criticised the President in a podcast aired on Monday (February 23, 2026), saying: \"Everybody has to stick together to get them out and get back on track.\"",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 15:09:20 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d1c134bbc4785d2e853e1456e206ecef",
+      "title": "Kerala High Court stays release of ‘The Kerala Story 2’",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-high-court-stays-release-of-the-kerala-story-2/article70679114.ece",
+      "summary": "Court says prima facie ‘there is non-application of mind by censor board’ while certifying the movie",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 15:07:43 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dfb9be1f6a835fbd61a2c36b973d9b07",
+      "title": "Two persons arrested for robbing mobile phone from passenger in Shivamogga-Yesvantpur Express",
+      "link": "https://www.thehindu.com/news/national/karnataka/two-persons-arrested-for-robbing-mobile-phone-from-passenger-in-shivamogga-yesvantpur-express/article70679111.ece",
+      "summary": "According to the complainant, an unidentified person entered the Yesvantpur-bound train near Shivamogga Halt Railway Station around 12.20 a.m. and snatched his mobile phone",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 15:06:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7483ef1745e5589c8bd547eee2884c14",
+      "title": "989 weapons seized or recovered from Maoists since 2020, Chhattisgarh Assembly told",
+      "link": "https://www.thehindu.com/news/national/chhattisgarh/989-weapons-seized-or-recovered-from-maoists-since-2020-chhattisgarh-assembly-told/article70678894.ece",
+      "summary": "Government says 4,340 Maoists surrendered, 666 killed in encounters; 70 AK-47 rifles among arms recovered",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 15:01:36 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "251c2f39dd890a2c7396e5fedc2244fa",
+      "title": "Indian armed forces need to transition from net-centric operations to intelligent warfare: CDS General Anil Chauhan",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/indian-armed-forces-need-to-transition-from-net-centric-operations-to-intelligent-warfare-cds-general-anil-chauhan/article70675451.ece",
+      "summary": "",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:56:53 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2049f627b82eb57182d8075dc09fd77e",
+      "title": "Dream of Karnataka government jobs brings youth in droves to Dharwad’s coaching centres and study halls",
+      "link": "https://www.thehindu.com/news/national/karnataka/dream-of-karnataka-govt-jobs-brings-youth-in-droves-to-dharwads-coaching-centres-and-study-halls/article70676230.ece",
+      "summary": "For long Dharwad has been the education hub of north Karnataka. Cashing on the brand name of Dharwad, over 30 coaching centres have come up here over the last few years",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:55:00 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d896bbb894e7a6dc1d60ab0b0671afd1",
+      "title": "होली पर 28 से 350 अतिरिक्त बसें चलेंगी, लखनऊ से इन शहरों के लिए यहां से मिलेंगी बसें",
+      "link": "https://www.livehindustan.com/uttar-pradesh/350-additional-buses-will-run-from-february-28-on-holi-buses-will-be-available-from-lucknow-to-these-cities-from-here-201772096972436.html",
+      "summary": "होली पर घर आने-जाने वाले यात्रियों के लिए राहत की खबर है। राजधानी लखनऊ में होली पर 28 फरवरी से 350 अतिरिक्त बसें चलेंगी। जानिए लखनऊ से इन शहरों के लिए यहां से बसें मिलेंगी।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:54:51 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "661fc0dc7c38b9fbfef7872ca4e7aae0",
+      "title": "With new data sources and process upgrades, new GDP data set to capture the economy more accurately",
+      "link": "https://www.thehindu.com/business/Economy/india-new-gdp-data-set-sources-process-upgrades-economy-accuracy/article70678814.ece",
+      "summary": "The new series of national accounts to be released on Friday is the culmination of a wide consultative process, spanning multiple sub-committees and incorporating many changes",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:53:50 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "74e8e7e9fb2e2a993de3ae1f91bdf0da",
       "title": "Mechanisation of agriculture fails to dampen demand for Killari breed bullocks in Karnataka, Maharashtra",
       "link": "https://www.thehindu.com/news/national/karnataka/killari-breed-bullocks-dominate-annual-cattle-fair-at-sri-mahanteshwar-temple-in-doranahalli-in-yadgir-district-of-karnataka/article70678796.ece",
       "summary": "According to sources, a pair of Mysuru Killari bullocks were sold for ₹5.50 lakh while Vijayapur Killari bullocks were sold for ₹3.50 lakh, which is the lowest price for Killari breeds",
       "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 14:02:25 +0530",
+      "timestamp": "Thu, 26 Feb 2026 14:51:32 +0530",
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d741f1bb2dc89f0753dd0d773cbbb103",
+      "title": "जापान में स्वच्छ ऊर्जा मॉडल से प्रभावित हुए सीएम योगी, बोले-ग्रीन हाइड्रोजन भविष्य की ऊर्जा का आधार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/impressed-by-clean-energy-model-japan-cm-yogi-green-hydrogen-basis-energy-future-201772097167658.html",
+      "summary": "जापान पहुंचे सीएम योगी ने यामानाशी की इस पहल की सराहना की और कहा कि ग्रीन हाइड्रोजन भविष्य की ऊर्जा का महत्वपूर्ण आधार बन सकता है। यह स्वच्छ ऊर्जा और हरित विकास की दिशा में एक प्रभावी मॉडल है।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:49:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "16c4f2f4589f14ef12d3cdabd3caeb04",
+      "title": "Man booked for sexual harassment on promise of film role",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/man-booked-for-sexual-harassment-on-promise-of-film-role/article70676309.ece",
+      "summary": "",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:46:17 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a4463920e250d04ff5b6bf080a854219",
+      "title": "National consultation on strengthening educational governance held",
+      "link": "https://www.thehindu.com/news/national/telangana/national-consultation-on-strengthening-educational-governance-held/article70676444.ece",
+      "summary": "",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:43:33 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d50e6daf24d9e418fcc8d41b1c7268f6",
+      "title": "The BJP’s West Bengal gamble",
+      "link": "https://www.thehindu.com/opinion/op-ed/the-bjps-west-bengal-gamble/article70675801.ece",
+      "summary": "The party’s strategy hinges on polarisation and support from the Left Front",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:43:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "be4488518ec118ba5fd54c9174e276e6",
+      "title": "जापान की मैग्लेव ट्रेन की स्पीड देख CM योगी भी दंग; 500 KM/H की रफ्तार से दौड़ी, थम्स अप किया",
+      "link": "https://www.livehindustan.com/uttar-pradesh/cm-yogi-was-stunned-by-speed-of-japan-maglev-train-500-km-per-hour-gave-a-thumbs-up-201772096401607.html",
+      "summary": "जापान दौरे पर योगी आदित्यनाथ ने यामानाशी में 500 किमी/घंटा रफ्तार वाली मैग्लेव ट्रेन में सफर किया। स्पीड देखकर वे उत्साहित दिखे और फोटो भी खिंचवाई। मैग्लेव को भविष्य की आधुनिक परिवहन तकनीक माना जा रहा है",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:43:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ec14d416343fd84a9bc7049e8c26195e",
+      "title": "Aadhaar enrolment and biometric updation drive for all Telangana govt and private school students",
+      "link": "https://www.thehindu.com/news/national/telangana/aadhaar-enrolment-and-biometric-updation-drive-for-all-telangana-govt-and-private-school-students/article70676572.ece",
+      "summary": "",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:39:07 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "390e16ef0bfc1bb23929eaf98f1db27d",
+      "title": "Tamil Nadu Assembly election: Seat-sharing talks with AIADMK after PM visit, says Nainar Nagenthran",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-election-seat-sharing-talks-with-aiadmk-after-pm-visit-says-nainar-nagenthran/article70678533.ece",
+      "summary": "The party inaugurated its election office in Chennai on Thursday",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:38:40 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "459407f4d0e61c889b4559d16cc97987",
+      "title": "PM Modi in Israel pays respects at Holocaust Memorial Yad Vashem | LIVE",
+      "link": "https://www.thehindu.com/news/national/pm-modi-in-israel-day-2-live-modi-benjamin-netanyahu-herzog-holocaust-memorial-india-israel/article70678128.ece",
+      "summary": "Earlier, PM Modi visited an exhibition in Jerusalem showcasing innovations in AI, Quantum, healthcare, and more",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:37:50 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9c23f1e5b7e3dce6899b69ea2bad3751",
+      "title": "​Demagogue salesman: On Donald Trump and 2026 State of the Union address",
+      "link": "https://www.thehindu.com/opinion/editorial/demagogue-salesman-on-donald-trump-and-2026-state-of-the-union-address/article70676086.ece",
+      "summary": "Donald Trump will need more than words to alter the bitter ground realities",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:36:03 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ff352efa81bcdbbc391415ab601a1d4e",
+      "title": "अखिलेश-राहुल आकर अपने गुरु को बचा लें, शंकराचार्य पर आरोप लगाने वाले आशुतोष ब्रह्मचारी की चुनौती",
+      "link": "https://www.livehindustan.com/uttar-pradesh/ashutosh-brahmachari-challenges-akhilesh-rahul-over-shankaracharya-sexual-harassment-case-evidence-201772095805789.html",
+      "summary": "शंकराचार्य अविमुक्तेश्वरानंद के खिलाफ पॉक्सो केस दर्ज कराने वाले आशुतोष ब्रह्मचारी ने कहा कि उनके पास यौन शोषण के डिजिटल साक्ष्य मौजूद हैं। अखिलेश यादव और राहुल गांधी को चुनौती देते हुए कहा कि आकर अपने गुरु को बचा लें। उन्होंने एक डिप्टी सीएम का धरना में संलिप्तता का भी दावा किया है।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:29:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9ec308247e50c18198e35abd4ce5efac",
+      "title": "Commerce Minister Goyal meets U.S. counterpart Lutnick and Ambassador Gor, discusses trade",
+      "link": "https://www.thehindu.com/news/national/piyush-goyal-lutnick-sergio-gor-meeting-feb-26-2026/article70679015.ece",
+      "summary": "Both countries are in the process of finalising the legal text for the first phase of a bilateral trade agreement",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:28:08 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "df2ec2ecb50360f94618555e2c895ff9",
+      "title": "UP Iftar Time Today: लखनऊ, अलीगढ़, आगरा, मेरठ, प्रयागराज समेत बड़े शहरों में आज इफ्तार का समय",
+      "link": "https://www.livehindustan.com/uttar-pradesh/ramadan-2026-roja-iftar-time-26-march-lucknow-agra-aligarh-bareilly-kanpur-meerut-varanasi-prayagraj-201772093855292.html",
+      "summary": "UP Iftar Time Today: माह-ए-रमजान का रोजा चल रहा है। आज गुरुवार को अपना रोजा रोजेदार दिन छिपने से पहले खोलेंगे। मस्जिदों और दरगाहों पर सामूहिक रूप से इफ्तार हो रही है। यूपी के शहरों में इफ्तार शाम को होगी। जानें समय।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:23:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "3986bc7275b56bc689703ec257b21f23",
+      "title": "श्रीगंगानगर-मथुरा के बीच नई स्पेशल ट्रेन; किन स्टेशनों पर रुकेगी, कितना किराया?",
+      "link": "https://www.livehindustan.com/ncr/indian-railway-special-train-for-sri-ganganagar-to-mathura-know-stoppage-and-fare-201772095141329.html",
+      "summary": "रेलवे ने श्रीगंगानगर और मथुरा के बीच एक स्पेशल ट्रेन शुरू की है। सूत्रों का कहना है कि इस ट्रेन को स्थाई किया जा सकता है। फिलहाल यह ट्रेन ट्रायल के तौर पर चलाई जा रही है। विस्तृत जानकारी के लिए पढ़ें यह रिपोर्ट...",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 14:21:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -24738,19 +25011,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "459407f4d0e61c889b4559d16cc97987",
-      "title": "PM Modi in Israel witnesses 'I love India' performance by Indian-origin Jews | LIVE",
-      "link": "https://www.thehindu.com/news/national/pm-modi-in-israel-day-2-live-modi-benjamin-netanyahu-herzog-holocaust-memorial-india-israel/article70678128.ece",
-      "summary": "He lauded the traditional Thiruvathira dance performance by Keralam's caregiver community in Israel",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 13:52:09 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -24827,19 +25087,6 @@
       "timestamp": "Thu, 26 Feb 2026 13:19:44 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "661fc0dc7c38b9fbfef7872ca4e7aae0",
-      "title": "With new data sources and process upgrades, new GDP data set to capture the economy more accurately",
-      "link": "https://www.thehindu.com/business/Economy/india-new-gdp-data-set-sources-process-upgrades-economy-accuracy/article70678814.ece",
-      "summary": "The new series of national accounts to be released on Friday is the culmination of a wide consultative process, spanning multiple sub-committees and incorporating many changes",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 13:16:12 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -25353,7 +25600,7 @@
     },
     {
       "id": "503f9dbb9afa652f0a329bcc2a3097ea",
-      "title": "Big Breaking: उमाशंकर सिंह और करीबियों के घर से 10 करोड़ कैश बरामद, ऑफिस और अन्य जगहों पर IT की कार्रवाई जारी",
+      "title": "Umashankar Singh IT Raid: BSP MLA और करीबियों के घर से 10 करोड़ कैश बरामद, ऑफिस और अन्य जगहों पर कार्रवाई जारी",
       "link": "https://www.amarujala.com/lucknow/10-crore-cash-recovered-from-bsp-mla-umashankar-singh-house-it-raids-underway-office-and-other-locations-2026-02-26",
       "summary": "राजधानी लखनऊ में बसपा के इकलौते विधायक उमाशंकर सिंह के घर पर बुधवार से जारी आयकर टीम का छापा गुरुवार को समाप्त हो गया।",
       "date": "2026-02-26",
@@ -25847,7 +26094,7 @@
     },
     {
       "id": "c364ab3eb8e1de0c364a9ac41c14c2fc",
-      "title": "NCERT Book Row: सुप्रीम कोर्ट ने एनसीईआरटी से कहा- सिर्फ माफी काफी नहीं, गरिमा को ठेस पहुंचाने की कोशिश हुई",
+      "title": "NCERT Book Row: सुप्रीम कोर्ट ने एनसीईआरटी से कहा- माफी काफी नहीं; हार्ड कॉपी वापस लें, डिजिटल कॉपी हटाएं",
       "link": "https://www.amarujala.com/india-news/supreme-court-takes-suo-motu-cognisance-on-ncert-textbook-chapter-on-corruption-in-judiciary-updates-2026-02-26",
       "summary": "NCERT: किताब में 'न्यायपालिका में भ्रष्टाचार' चैप्टर का विवाद, सुप्रीम कोर्ट स्वतः संज्ञान लेकर आज करेगा सुनवाई Supreme court takes suo motu cognisance on NCERT textbook chapter on corruption in judiciary updates",
       "date": "2026-02-26",
@@ -25883,19 +26130,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "2049f627b82eb57182d8075dc09fd77e",
-      "title": "Dream of Karnataka govt. jobs brings youth in droves to Dharwad’s coaching centres and study halls",
-      "link": "https://www.thehindu.com/news/national/karnataka/dream-of-karnataka-govt-jobs-brings-youth-in-droves-to-dharwads-coaching-centres-and-study-halls/article70676230.ece",
-      "summary": "For long Dharwad has been the education hub of north Karnataka. Cashing on the brand name of Dharwad, over 30 coaching centres have come up here over the last few years",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 11:18:54 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "1a00f91bd7a9bb480e4fda8ce6c9381a",
@@ -26003,7 +26237,7 @@
     },
     {
       "id": "42b5e52ffa664fb312ec0e443ae20427",
-      "title": "यूपी और झारखंड के लिए भोपाल से शुरू हुई दो नई ट्रेनें; जानिए कब चलेगी, किन-किन स्टेशनों पर रुकेगी",
+      "title": "झारखंड और यूपी से MPके लिए शुरू हुई दो नई ट्रेनें; जानिए कब चलेगी, किन-किन स्टेशनों पर रुकेगी",
       "link": "https://www.livehindustan.com/madhya-pradesh/two-new-trains-start-from-bhopal-for-up-and-jharkhand-know-at-which-stations-they-will-stop-201772083378888.html",
       "summary": "रेल मंत्री अश्विनी वैष्णव ने कहा कि भोपाल-धनबाद-भोपाल नई त्रि-साप्ताहिक एक्सप्रेस और भोपाल-चोपन-भोपाल नई साप्ताहिक एक्सप्रेस ट्रेन मध्यप्रदेश और आसपास के राज्यों में रेल संपर्क और यात्री सुविधा बढ़ाने की दिशा में एक महत्वपूर्ण कदम है।",
       "date": "2026-02-26",
@@ -26249,19 +26483,6 @@
       "lang": "hi"
     },
     {
-      "id": "d50e6daf24d9e418fcc8d41b1c7268f6",
-      "title": "The BJP’s West Bengal gamble",
-      "link": "https://www.thehindu.com/opinion/op-ed/the-bjps-west-bengal-gamble/article70675801.ece",
-      "summary": "The party’s strategy hinges on polarisation and support from the Left Front",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 10:12:29 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "34211d3c266d4b5a519349b784400f17",
       "title": "गर्भवती हो गई किशोरी: इमरान ने दरिंदगी की हदों को कर दिया पार, पुलिस ने दर्ज की एफआईआर",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/tenant-shows-no-mercy-assaults-minor-girl-alone-at-home-blackmails-2026-02-26",
@@ -26444,6 +26665,19 @@
       "lang": "en"
     },
     {
+      "id": "dd4702096cc5596276b4a1a89066ba73",
+      "title": "IT raid at factory of former MP’s relative in Rampur:CRPF personnel secure premises; multiple units deployed",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/crpf-deployed-rampur-income-tax-raid-former-mp-relative-factory-137303436.html",
+      "summary": "The Income Tax Department has carried out a raid at MN Industry, a factory owned by Bablu and Munna, relatives of former ST Hasan, the ex-MP from Moradabad. The factory is situated in Bagi village under the Kotwali Ganj area of Rampur. Bablu and Munna are known timber traders in the city. According to sources, multiple teams from the Income Tax Department entered the factory premises simultaneously at around 10 am to conduct the search operation. Personnel from the Central Reserve Police Force (CRPF) have been deployed at the main gate, creating a security cordon around the premises. The gate has been sealed, and entry and exit have been completely restricted. More than 12 vehicles belonging to the raid teams are reportedly stationed inside the factory compound. As of now, the Income Tax Department has not issued any official statement regarding the action. See visuals from spot Munna and Bablu are well-known timber traders from Rampur. Former Moradabad MP ST Hassan's daughter is married to Bablu's son. They operate several timber industries in the city. It has not yet been confirmed whether they were present inside the factory during the raid. Local police or district administration officials were also not seen at the spot. The operation is still ongoing.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 09:37:29 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "63bd285abf77e6c20f9c2480a392d3c4",
       "title": "छात्र नहीं दे सका परीक्षा: एडमिट कार्ड खोया, इसलिए 30 मिनट देरी से पहुंचा; जिलाधिकारी से की शिकायत",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/student-denied-board-exam-for-late-arrival-in-agra-complaint-filed-with-dm-2026-02-26",
@@ -26544,6 +26778,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "71ab57f230ab246f85e33d9fd9b2b2f4",
+      "title": "'I can't breathe any more': Inside the night a mob burned a newspaper",
+      "link": "https://www.bbc.com/news/articles/c74xge7z8gqo?at_medium=RSS&at_campaign=rss",
+      "summary": "A journalist recounts the night a mob torched the Daily Star, trapping 28 staff on the roof.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 09:16:23 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -26652,6 +26899,19 @@
       "lang": "en"
     },
     {
+      "id": "69068a6236595eae4f110da6f8c7f188",
+      "title": "Near-blind Rohingya refugee dies after US agents left him far from home",
+      "link": "https://www.aljazeera.com/news/2026/2/26/near-blind-rohingya-refugee-dies-after-us-agents-left-him-far-from-home?traffic_source=rss",
+      "summary": "Nurul Amin Shah Alam, 56, was a nearly blind Rohingya refugee from Rakhine state in Myanmar, family members said.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 08:39:46 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "065b743d55799b8e95e6c050fbd38a62",
       "title": "डिजिटल होगी जनगणना 2027: मोबाइल और जियो-टैगिंग से होगा डेटा संग्रह, पहली बार जाति गणना भी शामिल",
       "link": "https://www.amarujala.com/india-news/census-2027-will-go-digital-data-collection-will-be-done-through-mobile-and-geo-tagging-2026-02-26",
@@ -26663,6 +26923,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "cc9232c3baa5d9b105ae7c16a2510840",
+      "title": "Germany’s Merz eyes business opportunities at Chinese tech hub in Hangzhou",
+      "link": "https://www.aljazeera.com/news/2026/2/26/germanys-merz-eyes-business-opportunities-at-chinese-tech-hub-in-hangzhou?traffic_source=rss",
+      "summary": "German chancellor visits eastern city, home to AI firm DeepSeek and e-commerce giant Alibaba, with business leaders.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 08:39:30 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "4ecb0509e86f24da7db4f36c4511e003",
@@ -26688,19 +26961,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "9c23f1e5b7e3dce6899b69ea2bad3751",
-      "title": "​Demagogue salesman: On Donald Trump and 2026 State of the Union address",
-      "link": "https://www.thehindu.com/opinion/editorial/demagogue-salesman-on-donald-trump-and-2026-state-of-the-union-address/article70676086.ece",
-      "summary": "Donald Trump will need more than words to alter the bitter ground realities",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 08:29:04 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -27069,7 +27329,7 @@
     },
     {
       "id": "c377b757420bb54530b4c2de07781916",
-      "title": "US, Ukraine to meet in Geneva as Russia attacks Kyiv with missiles, drones",
+      "title": "US, Ukraine to meet in Geneva as Russia hits cities with missiles, drones",
       "link": "https://www.aljazeera.com/news/2026/2/26/us-ukraine-to-meet-in-geneva-as-russia-attacks-kyiv-with-missiles-drones?traffic_source=rss",
       "summary": "Kyiv hopes progress in talks in Geneva will pave the way for a direct meeting between Russian and Ukrainian leaders.",
       "date": "2026-02-26",
@@ -27368,9 +27628,9 @@
     },
     {
       "id": "f1f0619bb597f873738170b9d034e2b2",
-      "title": "Avimuktheshwaranand’s lawyer receives death threat:Message warns of bombing Varanasi court and killing him",
+      "title": "Sexual abuse of minors confirmed in Avimukteshwaranand case:Medical report released, victim says, 'Shankaracharya assaulted him'",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/varanasi-court-bombing-threat-avimuktheshwaranand-lawyer-death-threat-137302121.html",
-      "summary": "Shrinath Tripathi, lawyer of Shankaracharya Swami Avimuktheshwaranand and a Bar Council of India member, has received a death threat via SMS, prompting security agencies to begin an investigation. The threatening message was sent to Tripathi’s mobile phone at around 2:30 AM on Wednesday. According to Tripathi, the message warned that the Varanasi court would be bombed and threatened his life as well. He is currently representing the Shankaracharya in a case registered under the Protection of Children from Sexual Offences (POCSO) Act. Tripathi shared a screenshot of the message on social media, after which security agencies were alerted. Officials said efforts are underway to trace the sender and verify the source of the threat. This is the fourth such threat targeting the Varanasi court in the past 14 days. Earlier on Tuesday, a similar threatening email had been received, following which police carried out a search operation at the District and Sessions Court premises. First pictures- POCSO case: Police may question Shankaracharya on fourth day after FIR It is the fourth day since an FIR was registered under the Protection of Children from Sexual Offences (POCSO) Act against Swami Avimukteshwaranand Saraswati at Jhunsi police station in Prayagraj. Police have recorded statements of the complainants and their families. However, statements of the Shankaracharya and his disciple Mukulanand are yet to be taken. Police teams from Prayagraj have been in Varanasi for the past three days. Sources said officers may visit Sri Vidya Math at Kedarghat, where the Shankaracharya is staying, to record his statement. Since Wednesday morning, devotees have been gathering at the math to seek his blessings. Leaders from different political parties also visited the premises and expressed support. Shankaracharya alleges conspiracy, vows protest The Shankaracharya has alleged collusion between the complainant, Ashutosh Brahmachari, and the police. He said the case was filed to intimidate him and stop his campaign against cow slaughter. He maintained that the protest planned in Lucknow on March 11 will go ahead with the participation of saints. He dismissed the allegations, saying the children mentioned in the complaint had never stayed with him. “If the children were not with us, how could any misconduct have taken place?” he said. He added that his legal team has submitted evidence to support this claim. He also said he has initiated proceedings under Section 22 of the POCSO Act, which provides for action in case of false complaints. A petition in this regard is pending. On the possibility of arrest, he said the matter is under investigation and criticised sections of the media for reporting allegations before the probe is complete. Complainant reiterates charges, names others In Prayagraj, Ashutosh Brahmachari addressed the media for the third consecutive day and repeated allegations of sexual exploitation of young disciples at monasteries in Madhya Pradesh, Uttarakhand and Varanasi. He claimed to have evidence and said medical examinations had confirmed abuse. These claims have not been officially confirmed. He also alleged that a Deputy Chief Minister of Uttar Pradesh was linked to a “conspiracy” during the Magh Mela in Prayagraj, but did not name anyone when asked whether he was referring to Brajesh Pathak or Keshav Prasad Maurya. The allegation has not been verified. Ashutosh Brahmachari said statements of the minors mentioned the Shankaracharya, his disciple Mukundanand, and monastery officials Prakash Upadhyay and Arvind. He alleged that the role of these individuals is under investigation. Police have not issued a formal statement on these claims Background of the case The dispute between the Shankaracharya and the administration began during the Magh Mela in Prayagraj on January 18. On January 24, a complaint alleging sexual exploitation of minors was submitted to the Police Commissioner. After alleging inaction, the complainant approached a special POCSO court on February 8. Two minors were produced before the court on February 13, and their statements were recorded on February 21. On the court’s direction, an FIR was registered at Jhunsi police station the same day. The FIR names the Shankaracharya, his disciple Mukundanand and two to three unidentified persons. On February 24, the Shankaracharya accused Prayagraj Additional Commissioner Ajay Pal Sharma of conspiring against him and moved the Allahabad High Court seeking anticipatory bail.",
+      "summary": "The medical report concerning the child victims in the sexual abuse case against Shankaracharya Swami Avimukteshwaranand has been received. According to police sources, the examinations have confirmed that the minors were sexually assaulted. Police conducted medical tests on the victims on Wednesday, carried out by a panel of two doctors at a government hospital in Prayagraj. The sealed report was handed to the investigating officer on Thursday and is scheduled to be presented before the court on Friday. Police sources confirmed that the questions of who committed the assault, when, and where remain the subject of active investigation. The full extent of the allegations against Avimukteshwaranand will become clear only once the inquiry is complete. Jhunsi Station House Officer Mahesh Mishra stated that since the matter is sub judice, he was unable to disclose further details. Complainant claims confirmation of assault Earlier on Wednesday, Ashutosh Maharaj, the disciple of Jagadguru Rambhadracharya who filed the case against the Shankaracharya, stated that all evidence was in hand, that the medical examination had confirmed the assault on the young students, and that justice would be delivered swiftly. Victim speaks to media for first time One of the victim students came forward publicly for the first time, speaking to Aaj Tak. He alleged that he had gone to the ashram for study purposes, whereupon he was subjected to abuse. He claimed that other children present were also assaulted. When asked who was responsible, he named Avimukteshwaranand and his disciple Mukundananda. Confirming that the abuse also occurred at the Magh Mela, he stated that he was assaulted there on 16 January. He further alleged that the Shankaracharya's disciples, Prakash and Arvind, bring children in from outside, after which they are sexually exploited. Death threat issued to Shankaracharya's lawyer The Shankaracharya's legal counsel received a death threat via a message sent to his mobile late on Wednesday night. The message threatened to blow up the Varanasi court complex with a bomb, and to kill the lawyer as well. Prayagraj Police have been stationed in Varanasi for the past four days. Whilst the Shankaracharya may be questioned, investigators have not yet reached his ashram. Background and timeline of the case",
       "date": "2026-02-26",
       "timestamp": "Thu, 26 Feb 2026 05:29:51 +0000",
       "section": "UP_Focus",
@@ -27433,7 +27693,7 @@
     },
     {
       "id": "9fcd75c54e53c71eb45224450575894c",
-      "title": "US-Iran talks live: Nuclear talks to kick off in Geneva amid tensions",
+      "title": "US-Iran talks live: Nuclear talks kick off in Geneva amid tensions",
       "link": "https://www.aljazeera.com/news/liveblog/2026/2/26/us-iran-talks-live-nuclear-talks-to-kick-off-in-geneva-amid-tensions?traffic_source=rss",
       "summary": "Third round of indirect negotiations to take place amid a massive US military build-up in the Middle East.",
       "date": "2026-02-26",
@@ -27637,6 +27897,97 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "44fde1b95896eeb45796e8028f69557c",
+      "title": "नोएडा: बिजली विभाग के कार्यालय में किसानों ने किया प्रदर्शन",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-farmers-demonstrated-in-electricity-department-office-in-noida-2026-02-26",
+      "summary": "नोएडा: बिजली विभाग के कार्यालय में किसानों ने किया प्रदर्शन",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 03:11:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "0451afbf6fc39478d33c45cf43828a0b",
+      "title": "अमर उजाला संवाद: नोएडा में विभागों की अनदेखी, भंगेल व्यापारियों की बनी परेशानी",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-bhangel-traders-in-noida-raised-the-problem-in-amar-ujala-samvad-2026-02-26",
+      "summary": "अमर उजाला संवाद: नोएडा में विभागों की अनदेखी, भंगेल व्यापारियों की बनी परेशानी",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 03:11:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "7cee811074101bd66b181d84aaac6313",
+      "title": "नोएडा: मान्यता रद्द होने के बाद स्कूल ने मांगा एक हफ्ते का समय, अभिभावकों में असमंजस",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-one-week-time-sought-for-cancellation-of-recognition-of-uttarakhand-public-school-in-noida-2026-02-26",
+      "summary": "नोएडा: मान्यता रद्द होने के बाद स्कूल ने मांगा एक हफ्ते का समय, अभिभावकों में असमंजस",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 03:11:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "57e9f851ec9050baede618c422b11a32",
+      "title": "लविवि के गंगा हॉस्टल में मेस का खाना खाने से एक और छात्रा की तबीयत बिगड़ी, विरोध में एकत्र हुई छात्राएं",
+      "link": "https://www.amarujala.com/video/lucknow/video-lvava-ka-gaga-hasatal-ma-masa-ka-khana-khana-sa-eka-oura-chhatara-ka-tabyata-bga-varathha-ma-ekatara-haii-chhatarae-2026-02-26",
+      "summary": "लविवि के गंगा हॉस्टल में मेस का खाना खाने से एक और छात्रा की तबीयत बिगड़ी, विरोध में एकत्र हुई छात्राएं",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 03:06:13 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "6348708328703a1e8047ebda5decc92a",
+      "title": "काशी विश्वनाथ मंदिर: 200 साल तक हरा रहेगा बाबा का पीपल, उपचार में लगा 1200 लीटर गंगाजल",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/kashi-vishwanath-temple-peepal-tree-will-remain-green-for-200-years-ganga-water-used-for-treatment-in-varanasi-2026-02-26",
+      "summary": "वैज्ञानिक और पारंपरिक विधियों के समन्वय से उपचार प्रक्रिया प्रारंभ की गई, जिसमें गंगाजल, त्रिवेणी जल और जैविक औषधियों का उपयोग किया गया।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 03:04:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "ce08189d233f8b970a915159eb479abc",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 26 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-26",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 03:01:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d4a313dc88c60fb992269c462c994ceb",
+      "title": "UP: प्रधान के पति ने ही किया था मां का कत्ल, इसलिए खेला खूनी खेल; कातिल बेटे का मकसद जान पुलिस भी हैरान",
+      "link": "https://www.amarujala.com/uttar-pradesh/moradabad/pradhan-husband-had-murdered-his-mother-to-trap-his-opponents-in-sambhal-2026-02-26",
+      "summary": "संभल के बबराला थाना इलाके के ग्राम पहलवाड़ा में दो महीने पहले हुई ग्राम प्रधान की सास की हत्या के मामले में चौंकाने वाला खुलासा हुआ है।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:58:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -27874,6 +28225,19 @@
       "lang": "en"
     },
     {
+      "id": "20623a56eca3f6dd2b677037e876d7b2",
+      "title": "NCERT: 'ये संघ की शरारत, इस पर सुप्रीम कोर्ट का गुस्सा जायज', एनसीईआरटी विवाद को लेकर कांग्रेस ने साधा निशाना",
+      "link": "https://www.amarujala.com/india-news/congress-slams-rewriting-of-textbooks-amid-ncert-row-said-rss-driven-exercise-full-of-mischief-2026-02-26",
+      "summary": "NCERT: 'ये संघ की शरारत, इस पर सुप्रीम कोर्ट का गुस्सा जायज', एनसीईआरटी विवाद को लेकर कांग्रेस ने साधा निशाना Congress slams rewriting of textbooks amid NCERT row said RSS driven exercise full of mischief",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:53:21 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "16368681dba411e6345821a03d2cdc66",
       "title": "Lucknow News: आदिम संस्कृति का महत्व समझाया महत्व",
       "link": "https://www.amarujala.com/lucknow/importance-of-primitive-culture-explained-lucknow-news-c-13-knp1002-1622351-2026-02-26",
@@ -27949,6 +28313,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "2425df6fb02f27ffac939cadd0719390",
+      "title": "CM Yogi Japan Visit: यूपी-यामानाशी के बीच ग्रीन हाइड्रोजन तकनीक पर एमओयू, जापान में प्रशिक्षण लेंगे छात्र",
+      "link": "https://www.amarujala.com/lucknow/cm-yogi-japan-visit-mou-on-green-hydrogen-technology-between-up-yamanashi-students-undergo-training-in-japan-2026-02-26",
+      "summary": "उत्तर प्रदेश के सीएम योगी आदित्यनाथ जापान दौरे पर हैं। गुरुवार को यामानाशी प्रांत के साथ ग्रीन हाइड्रोजन तकनीक को लेकर एमओयू हुआ है।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:52:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -28161,15 +28538,28 @@
     },
     {
       "id": "ad8745ab24d4958b93720987b74645f1",
-      "title": "Gorakhpur News: नगालैंड की पीड़ित डॉक्टर की पोस्टः डरो मत...आवाज उठाओ, 24 घंटे में मिला इंसाफ",
+      "title": "Gorakhpur News: नगालैंड की पीड़ित डॉक्टर की पोस्ट- डरो मत...आवाज उठाओ, 24 घंटे में मिला इंसाफ",
       "link": "https://www.amarujala.com/gorakhpur/a-doctor-in-mohaddipur-who-was-subjected-to-harassment-and-racial-slurs-shared-her-ordeal-on-instagram-gorakhpur-news-c-7-1-gkp1006-1241772-2026-02-26",
-      "summary": "A doctor in Mohaddipur, who was subjected to harassment and racial slurs, shared her ordeal on Instagram.",
+      "summary": "डरो मत…अपनी आवाज उठाओ, मुझे 24 घंटे के भीतर ही इंसाफ मिल गया।",
       "date": "2026-02-26",
       "timestamp": "Thu, 26 Feb 2026 02:45:22 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "5962138023bd2dc89ee312775643c972",
+      "title": "Varanasi News: पुलिस आयुक्त बोले- सभी स्कूल, कॉलेज, हॉस्टल और कोचिंग संस्थानों में लगें सीसी कैमरे",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/police-commissioner-said-cctv-cameras-should-be-installed-in-all-school-college-hostel-and-coaching-institute-2026-02-26",
+      "summary": "महिला अपराध से संबंधित छोटे प्रकरणों की विवेचना 15 दिनों के भीतर पूर्ण करने का प्रयास किया जाएगा।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:44:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -28196,6 +28586,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "f5d98e412d7883d1270f4ead87713d27",
+      "title": "UP: दो सप्ताह पहले ही खरीदी थी कार, नैनीताल से आते समय आग का गोला बनी गाड़ी; जिंदा जली महिला सिपाही और मासूम",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/rampur-news-car-catches-fire-after-collision-with-dumper-constable-mother-and-innocent-son-burnt-alive-2026-02-26",
+      "summary": "उत्तर प्रदेश के रामपुर जिले में दर्दनाक हादसा हुआ। नैनीताल से घूमकर आ रहे मिलक इलाके के परिवार की कार बुधवार रात साढ़े दस बजे डंपर से टक्कर के बाद आग का गोला बन गई।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:41:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -28446,6 +28849,19 @@
       "lang": "en"
     },
     {
+      "id": "0dd3b9a5db2f9d5c123c84c191e07697",
+      "title": "CM Yogi Visit: काशी आ रहे सीएम योगी, डोमरी में एक घंटे में होगा तीन लाख पौधरोपण, बनेगा वर्ल्ड रिकॉर्ड",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/cm-yogi-varanasi-visit-three-lakh-saplings-will-be-planted-in-one-hour-in-domri-world-record-will-be-created-2026-02-26",
+      "summary": "इस विशाल लक्ष्य के साथ नगर निगम का उद्देश्य न केवल शहर की हरियाली बढ़ाना है, बल्कि इस उपलब्धि को गिनीज बुक ऑफ वर्ल्ड रिकॉर्ड्स में भी दर्ज कराना है।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:33:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "f166e29246ec0a0dd86c5e1fe1a01fc1",
       "title": "Lucknow News: भाईचारे के साथ मनाएं त्योहार",
       "link": "https://www.amarujala.com/lucknow/celebrate-the-festival-with-brotherhood-lucknow-news-c-13-lko1096-1621775-2026-02-26",
@@ -28456,6 +28872,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "3b5104b45284fa280a8fddee82fc03b6",
+      "title": "Holi 2026: कब होगा होलिका दहन और कब खेली जाएगी रंगों की होली? 3 या 4 मार्च; ज्योतिषाचार्य से जानें सही तिथि",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/holi-2026-date-3-or-4-march-holika-dahan-bhadra-ka-saya-shubh-muhurat-chandra-grahan-2026-02-26",
+      "summary": "होली पर पर दुर्लभ और महत्वपूर्ण खगोलीय संयोग देखने को मिलेगा। 2 मार्च की शाम को 5:56 के उपरांत पूर्णिमा तिथि प्रारंभ हो जाएगी।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:32:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -28589,6 +29018,19 @@
       "lang": "en"
     },
     {
+      "id": "80855e79211f4aed59a9994a4117e794",
+      "title": "UP: हाईटेंशन पोल से टकराकर धधकी कार, आग की लपटों के साथ धमाकों से फैली दहशत; चालक गंभीर रूप से घायल",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/car-turns-into-fireball-after-hitting-high-tension-pole-while-saving-cyclist-in-kasganj-2026-02-26",
+      "summary": "घायल को एंबुलेंस की सहायता से सामुदायिक स्वास्थ्य केंद्र गंजडुंडवारा में भर्ती कराया गया।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:26:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "333286f94ac62a0235548a83f43dbe9d",
       "title": "Lucknow News: मांझे की चपेट में आने से डाॅक्टर और युवती घायल",
       "link": "https://www.amarujala.com/lucknow/doctor-and-young-woman-injured-after-being-hit-by-manjha-lucknow-news-c-13-1-vns1028-1623195-2026-02-26",
@@ -28628,6 +29070,19 @@
       "lang": "en"
     },
     {
+      "id": "8778602fdc885507c9edca7a5db16802",
+      "title": "UP News: भाजपा के मंत्रियों के बयानों पर भड़के मौलाना शहाबुद्दीन रजवी, कहा- मदरसों पर इल्जाम लगाना गलत",
+      "link": "https://www.amarujala.com/uttar-pradesh/bareilly/maulana-shahabuddin-razvi-lashed-out-at-the-statements-of-himanta-biswa-sarma-2026-02-26",
+      "summary": "बरेली के मौलाना ने कहा- हेमंत कुमार बिस्वा सरमा, नीतीश राणे, रविंद्र जैसवाल मदरसों का इतिहास पढ़ें",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:24:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "9f25cbde9c4cc3ee47d1c6fb6ea01a44",
       "title": "Lucknow News: आरोपी बोला... गलती से हो गई थी हत्या, बहन जिम्मेदार नहीं",
       "link": "https://www.amarujala.com/lucknow/the-accused-said-the-murder-was-committed-by-mistake-the-sister-is-not-responsible-lucknow-news-c-13-lko1096-1622560-2026-02-26",
@@ -28647,6 +29102,19 @@
       "summary": "Iftar table set up at Ustad Bismillah Khan's ancestral home",
       "date": "2026-02-26",
       "timestamp": "Thu, 26 Feb 2026 02:24:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "9d16b429856debd873d4223b6e31e0d7",
+      "title": "काशी में होगी मसाने और चिता भस्म की होली?",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/will-there-be-holi-of-cremation-and-pyre-ashes-in-kashi-2026-02-26",
+      "summary": "अघोर पीठ के पीठाधीश्वर औघड़ कपाली बाबा ने कहा कि काशी की धार्मिक परंपराओं में मसाने की होली है।",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:24:19 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -28849,6 +29317,19 @@
       "lang": "en"
     },
     {
+      "id": "c6aee1baf9bd8cfbe658f7b587dca0f1",
+      "title": "लखनऊ में मांझा से मां को बचाने में कटीं बेटी की अंगुलियां, बताई आपबीती",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-majha-sa-ma-ka-bcana-ma-kata-bta-ka-agalya-btaii-aapabta-2026-02-26",
+      "summary": "लखनऊ में मांझा से मां को बचाने में कटीं बेटी की अंगुलियां, बताई आपबीती",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:14:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "6086cdd4edf7f041629ce36689c49551",
       "title": "Varanasi News: बनारस के दो खिलाड़ियों ने ही बना दिए 88 रन, 146 के लक्ष्य के सामने गाजीपुर बना पाई सिर्फ 95 रन",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/two-players-from-banaras-made-88-runs-ghazipur-could-make-only-95-runs-against-the-target-of-146-varanasi-news-c-20-vns1056-1303579-2026-02-26",
@@ -28940,6 +29421,32 @@
       "lang": "en"
     },
     {
+      "id": "1f31b847ef923acce9087f672805f596",
+      "title": "Rahul Gandhi In Kerala: 'किसान की सुरक्षा-सम्मान से ही भारत सफल होगा', राहुल ने सरकार को US ट्रेड डील पर घेरा",
+      "link": "https://www.amarujala.com/india-news/rahul-gandhi-targeted-central-government-on-trade-deal-while-addressing-farmers-conference-in-kerala-2026-02-26",
+      "summary": "लोकसभा नेता प्रतिपक्ष राहुल गांधी ने केरल में किसान सम्मेलन को संबोधित करते हुए केंद्र सरकार को घेरा",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:10:46 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "03f99f7ed5bbafa3ada5f1b69fb34a93",
+      "title": "एक मार्च से लखनऊ म्यूजियम ऑफ हेरिटेज एंड आर्ट की सैर कर सकेंगे",
+      "link": "https://www.amarujala.com/video/lucknow/video-eka-maraca-sa-lkhanauu-mayajayama-oifa-harataja-eda-aarata-ka-sara-kara-sakaga-2026-02-26",
+      "summary": "एक मार्च से लखनऊ म्यूजियम ऑफ हेरिटेज एंड आर्ट की सैर कर सकेंगे",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 02:10:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "e6deb69204e3b09724523589c81e22b4",
       "title": "अयोध्या में रोजगार मेले में दो हजार से अधिक युवा हुए शामिल",
       "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-rajagara-mal-ma-tha-hajara-sa-athhaka-yava-hae-shamal-2026-02-26",
@@ -28976,19 +29483,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "ce08189d233f8b970a915159eb479abc",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 26 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-26",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 02:02:58 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -29157,19 +29651,6 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "3b5104b45284fa280a8fddee82fc03b6",
-      "title": "Holi 2026: कब होगा होलिका दहन और कब खेली जाएगी रंगों की होली? 3 या 4 मार्च; ज्योतिषाचार्य से जानें सही तिथि",
-      "link": "https://www.amarujala.com/uttar-pradesh/agra/holi-2026-date-3-or-4-march-holika-dahan-bhadra-ka-saya-shubh-muhurat-chandra-grahan-2026-02-26",
-      "summary": "होली पर पर दुर्लभ और महत्वपूर्ण खगोलीय संयोग देखने को मिलेगा। 2 मार्च की शाम को 5:56 के उपरांत पूर्णिमा तिथि प्रारंभ हो जाएगी।",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 01:39:13 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -29525,19 +30006,6 @@
       "lang": "hi"
     },
     {
-      "id": "71ab57f230ab246f85e33d9fd9b2b2f4",
-      "title": "'I can't breathe any more': Inside the night a mob burned a newspaper",
-      "link": "https://www.bbc.com/news/articles/c74xge7z8gqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A journalist recounts the night a mob torched the Daily Star, trapping 28 staff on the roof.",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 00:54:42 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "79425b9791e1131fdbc90f5f9c2ff4fe",
       "title": "NCERT apologises, says distribution of book with section on ‘corruption’ in judiciary stopped",
       "link": "https://www.thehindu.com/news/national/ncert-apologises-says-distribution-of-book-with-section-on-corruption-in-judiciary-stopped/article70677099.ece",
@@ -29760,9 +30228,9 @@
     },
     {
       "id": "5842063616af0a3d6a93e579ca21d914",
-      "title": "US and Iran to hold talks as pressure for nuclear deal builds",
+      "title": "US and Iran begin talks seen as crucial to prevent conflict",
       "link": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The indirect negotiations are seen as a last-ditch effort to prevent a conflict, but the chances of a nuclear agreement are unclear.",
+      "summary": "The indirect negotiations are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear.",
       "date": "2026-02-26",
       "timestamp": "Thu, 26 Feb 2026 00:09:47 GMT",
       "section": "International",
@@ -85490,6 +85958,71 @@
       "lang": "en"
     },
     {
+      "id": "29d95ad9ac12fb6bfd8d8581915d17d6",
+      "title": "Kerala HC stays ‘The Kerala Story 2’ for 15 days, a day before scheduled release",
+      "link": "https://timesofindia.indiatimes.com/india/kerala-hc-stays-the-kerala-story-2-for-15-days-a-day-before-scheduled-release/articleshow/128809017.cms",
+      "summary": "The Kerala High Court has issued an interim stay on the release of 'The Kerala Story 2: Goes Beyond', scheduled for February 27. The court observed a prima facie non-application of mind by the censor board in granting certification. This decision follows petitions challenging the film's certificate, citing concerns about its portrayal of religious harmony in Kerala.",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-26T15:06:38+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ff73bd21c83d32dff2ce849305ed6228",
+      "title": "DNPA Conclave 2026: India’s digital public infrastructure puts media at heart of civic innovation",
+      "link": "https://timesofindia.indiatimes.com/india/dnpa-conclave-2026-indias-digital-public-infrastructure-puts-media-at-heart-of-civic-innovation/articleshow/128807818.cms",
+      "summary": "At the DNPA Conclave 2026, media leaders, tech experts, and policymakers emphasized the critical role of technology and verified content in India's evolving digital news ecosystem. Discussions highlighted how AI, regulatory shifts, and India's digital public infrastructure are redefining news organizations' responsibilities towards credibility, inclusion, and accessibility for a resilient future.",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-26T14:15:52+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "640d7f1c60f13ece0d6879a7c1387ebd",
+      "title": "'This is not North Korea, it is India': Rahul Gandhi targets PM Modi amid row over 'shirtless' protest",
+      "link": "https://timesofindia.indiatimes.com/india/this-is-not-north-korea-it-is-india-rahul-gandhi-targets-pm-modi-amid-row-over-shirtless-protesr/articleshow/128807760.cms",
+      "summary": "",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-26T14:09:12+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1093363902fb15a15580c149d4f0211e",
+      "title": "Beef, love jihad & more - What Malayalis think of The Kerala Story 2",
+      "link": "https://timesofindia.indiatimes.com/india/beef-love-jihad-more-what-malayalis-think-of-the-kerala-story-2/articleshow/128773489.cms",
+      "summary": "",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-26T14:00:00+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b531d45b4e067f02be185faa14e992f9",
+      "title": "DNPA Conclave 2026: Global leaders assess AI impact, discuss future of digital news",
+      "link": "https://timesofindia.indiatimes.com/india/dnpa-conclave-2026-global-leaders-assess-ai-impact-discuss-future-of-digital-news/articleshow/128807279.cms",
+      "summary": "",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-26T13:58:59+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9734d4e7ff19cc4aeac1569946057c02",
       "title": "Kuwait grants pardon to 539 inmates under Amiri decree",
       "link": "https://timesofindia.indiatimes.com/world/middle-east/kuwait-grants-pardon-to-539-inmates-under-amiri-decree/articleshow/128804410.cms",
@@ -85499,6 +86032,19 @@
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4675d3e26f7804281c9d35259b7032eb",
+      "title": "PM Modi visits Yad Vashem Memorial in Israel, pays tribute to holocaust victims",
+      "link": "https://timesofindia.indiatimes.com/india/pm-modi-visits-yad-vashem-memorial-in-israel-pays-tribute-to-holocaust-victims/articleshow/128807099.cms",
+      "summary": "Prime Minister Modi paid homage at Yad Vashem, Israel's Holocaust memorial, alongside PM Netanyahu, emphasizing respect and hope. He also explored Israeli tech advancements, urging investment in India. Earlier, the Israeli Parliament honored Modi with its highest award for strengthening bilateral ties, recognizing India's long-standing historical connections with Jewish communities.",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-26T13:41:53+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
@@ -85551,6 +86097,19 @@
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5e1ae244e27d2d8ac3c2cedb77fcf6ef",
+      "title": "Sangma vs Sangma: Watch Meghalaya CM and MLA wife's light-hearted debate in assembly",
+      "link": "https://timesofindia.indiatimes.com/india/sangma-vs-sangma-watch-meghalaya-cm-and-mla-wifes-light-hearted-debate-in-assembly/articleshow/128805971.cms",
+      "summary": "Meghalaya MLA Mehtab Chandee A Sangma questioned her husband CM Conrad K Sangma on stalled livestock education projects, including a veterinary college and fishery and dairy colleges. The CM assured that steps are being taken to expedite the process and fill manpower shortages, acknowledging the large financial requirement for the veterinary college.",
+      "date": "2026-02-26",
+      "timestamp": "2026-02-26T12:55:38+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
