@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T19:29:52.442992+00:00",
+  "generated_at": "2026-02-27T20:22:38.042402+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -47257,32 +47257,6 @@
       "lang": "hi"
     },
     {
-      "id": "03c0aabe40ce3e66ef968603b15edec5",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-28",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 12:30:30 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "2f5c01d7952e8cf7ede53afbeff35f94",
-      "title": "पढ़ें 28 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-28",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 12:30:19 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "99cafc9ff28e698846e0a0fc7c4793a7",
       "title": "Kerala High Court: अरलम फार्म में हाथी के हमले से आदिवासी की मौत, केरल हाईकोर्ट ने सरकार को लगाई कड़ी फटकार",
       "link": "https://www.amarujala.com/india-news/kerala-high-court-slams-state-govt-over-tribal-man-death-in-elephant-attack-at-aralam-farm-2026-02-28",
@@ -47306,6 +47280,240 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "6774f8c97fe79daecbc53cb23498aaec",
+      "title": "Lucknow News: वारदात की रात नशे में था अक्षत... बहन से लिपटकर खूब रोया",
+      "link": "https://www.amarujala.com/lucknow/akshat-was-drunk-on-the-night-of-the-incident-he-cried-a-lot-while-hugging-his-sister-lucknow-news-c-13-lko1096-1625147-2026-02-28",
+      "summary": "वारदात की रात नशे में था अक्षत... बहन से लिपटकर खूब रोया",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:49:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "ba24233d16841a5eed45f5c408370f8f",
+      "title": "Lucknow News: 14 मार्च को लगेगी लोक अदालत, प्रचार के लिए वाहन रवाना",
+      "link": "https://www.amarujala.com/lucknow/lok-adalat-to-be-held-on-march-14-vehicles-dispatched-for-campaigning-lucknow-news-c-13-lko1070-1625080-2026-02-28",
+      "summary": "14 मार्च को लगेगी लोक अदालत, प्रचार के लिए वाहन रवाना",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:48:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "50d448d4aca83ce73971b7e8438b5cf1",
+      "title": "Lucknow News: पुराना शहर बिजली और पानी को तरसा",
+      "link": "https://www.amarujala.com/lucknow/the-old-city-lacks-electricity-and-water-lucknow-news-c-13-lko1096-1625210-2026-02-28",
+      "summary": "पुराना शहर बिजली और पानी को तरसा",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:47:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "497868e5e341ebc6038a2af78fbfc8ca",
+      "title": "Lucknow News: होली पर विमानों का किराया आसमान पर, ट्रेनों में लंबी वेटिंग",
+      "link": "https://www.amarujala.com/lucknow/airfares-skyrocket-this-holi-long-waiting-times-for-trains-lucknow-news-c-13-lko1096-1625209-2026-02-28",
+      "summary": "होली पर विमानों का किराया आसमान पर, ट्रेनों में लंबी वेटिंग",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:46:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "ac90fb19a9273e405ebb4a2d648a1fd3",
+      "title": "Lucknow News: पांच विधानसभा क्षेत्रों में बनेंगी 23 सड़कें",
+      "link": "https://www.amarujala.com/lucknow/23-roads-will-be-built-in-five-assembly-constituencies23-roads-will-be-built-in-five-assembly-constituencies-lucknow-news-c-13-lko1070-1625637-2026-02-28",
+      "summary": "पांच विधानसभा क्षेत्रों में बनेंगी 23 सड़कें",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:44:47 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "5448583852b651f976ffbd33eb79d055",
+      "title": "Varanasi News: 15 दिन बाद अब तक नहीं आई जांच रिपोर्ट",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/the-investigation-report-has-not-yet-arrived-after-15-days-varanasi-news-c-20-vns1021-1306100-2026-02-28",
+      "summary": "15 दिन बाद अब तक नहीं आई जांच रिपोर्ट",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:41:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "ea6ede2d478c6b89451c72fedd5c400d",
+      "title": "Varanasi News: बीएचयू प्रशासन ने काटी हॉस्टल की बिजली, डीजे न बजने पर छात्रों का प्रदर्शन",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/bhu-administration-cuts-off-hostel-electricity-students-protest-against-dj-ban-varanasi-news-c-20-vns1056-1306148-2026-02-28",
+      "summary": "बीएचयू प्रशासन ने काटी हॉस्टल की बिजली, डीजे न बजने पर छात्रों का प्रदर्शन",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:39:19 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "03c0aabe40ce3e66ef968603b15edec5",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-28",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:30:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2f5c01d7952e8cf7ede53afbeff35f94",
+      "title": "पढ़ें 28 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-28",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:30:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3e62c6f26f1d80c661e007f04ae052f5",
+      "title": "Asaduddin Owaisi On SIR : असदुद्दीन ओवैसी ने SIR पर मुसलमानों के लिए क्यों कही ये बात!",
+      "link": "https://www.amarujala.com/video/india-news/asaduddin-owaisi-on-sir-why-did-asaduddin-owaisi-say-this-about-muslims-on-sir-2026-02-28",
+      "summary": "Asaduddin Owaisi On SIR : असदुद्दीन ओवैसी ने SIR पर मुसलमानों के लिए क्यों कही ये बात!",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:29:17 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "4ac3dd4dc138c4d491c17a417d533d12",
+      "title": "Tribal Affairs Ministry set to revamp forest rights cells, form ‘one-stop’ coordinating units",
+      "link": "https://www.thehindu.com/news/national/tribal-affairs-ministry-set-to-revamp-forest-rights-cells-form-one-stop-project-monitoring-units/article70675681.ece",
+      "summary": "Govt. expands mandate of FRA cells to coordinate on all policies; Odisha shuts 50 FRA cells, Chhattisgarh officials say exploring the way forward",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:28:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ddc2077292457bc8b3d325ffbcb77371",
+      "title": "PG medical: Fourth round begins",
+      "link": "https://www.thehindu.com/news/national/karnataka/pg-medical-fourth-round-begins/article70684952.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:07:08 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "54229d10b714a681d94fbc6f431ae41c",
+      "title": "Bangalore University decides to extend village adoption to all its departments",
+      "link": "https://www.thehindu.com/news/national/karnataka/bangalore-university-decides-to-extend-village-adoption-to-all-its-departments/article70683538.ece",
+      "summary": "There are about 42 departments in Bangalore University, including Kannada, English, and performing arts; the university has asked all these departments to adopt at least two villages.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:06:53 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a426150f585c1b515bcef1f520f65ae6",
+      "title": "Amit Shah concludes his three-day visit to Bihar’s Seemanchal",
+      "link": "https://www.thehindu.com/news/national/bihar/amit-shah-concludes-his-three-day-visit-to-bihars-seemanchal/article70685609.ece",
+      "summary": "Mr. Shah directed strict enforcement of a zero-tolerance policy against illegal constructions, particularly in forest and uninhabited areas, and ordered the immediate removal of encroachments identified on No Man’s Land.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:06:47 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a50efff5ed600ea1408f44dfacf34170",
+      "title": "Kochi Corporation Budget approved amid Opposition boycott",
+      "link": "https://www.thehindu.com/news/national/kerala/kochi-corporation-budget-approved-amid-opposition-boycott/article70685549.ece",
+      "summary": "For the Budget to be viable, the Corporation must collect property tax worth ₹78 crore in a single month, which is an uphill task, says LDF",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:02:01 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ff1dd15210ee6519139892b49df197ab",
+      "title": "Warner Bros signs $110 billion deal with Paramount, its executive discloses in townhall",
+      "link": "https://www.thehindu.com/news/international/warner-bros-signs-110-billion-deal-with-paramount-its-executive-discloses-in-townhall/article70685822.ece",
+      "summary": "Netflix had the legal right to match the PSKY ⁠offer. As you all know, they ultimately decided not to do that. That then resulted in a signed agreement with PSKY as of this morning, says Bruce Campbell, ‌Warner Bros’ chief revenue and strategy officer",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 00:56:39 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7fdf42d031a0c03bed18c5f4097e463f",
+      "title": "An intelligent and non-lethal solution to wildlife threat at ‘Agri Rural Ideathon 2026’",
+      "link": "https://www.thehindu.com/news/national/kerala/farm-guard-wins-first-prize-at-agri-rural-ideathon-2026/article70685277.ece",
+      "summary": "‘Farm Guard,’ as per its creators, is a portable device meant for ‘intelligent and non-lethal deterrence.’ It has been designed keeping in mind farmers in regions prone to human-wildlife conflict",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 00:56:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "432283c9eedff77df4392b91d3da5acd",
+      "title": "Vizhinjam ‘seafood poisoning’: searching for marine algal toxins in fish becoming an onerous task, say officials",
+      "link": "https://www.thehindu.com/news/national/kerala/vizhinjam-seafood-poisoning-searching-for-marine-algal-toxins-in-fish-becoming-an-onerous-task-say-officials/article70685008.ece",
+      "summary": "Food Safety officials point out that the forensic report on the viscera samples of those who died of “seafood poisoning” alone can provide clarity. However, no stool or blood samples seem to have been collected from the deceased",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 00:55:59 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -47380,6 +47588,19 @@
       "summary": "India flags breach of security of Indian dignitaries and diplomatic missions in U.K",
       "date": "2026-02-28",
       "timestamp": "Sat, 28 Feb 2026 00:22:12 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5b74394a37fd5d5cb12f0fe9f25e8989",
+      "title": "Trinamool nominates former DGP, Supreme Court lawyer to Rajya Sabha",
+      "link": "https://www.thehindu.com/news/national/west-bengal/trinamool-nominates-former-dgp-supreme-court-lawyer-to-rajya-sabha/article70685729.ece",
+      "summary": "Other nominees are State Minister Babul Supriyo and actor Koel Mallick",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 00:19:23 +0530",
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
@@ -70644,19 +70865,6 @@
       "lang": "en"
     },
     {
-      "id": "4ac3dd4dc138c4d491c17a417d533d12",
-      "title": "Tribal Affairs Ministry set to revamp forest rights cells, form ‘one-stop’ project monitoring units",
-      "link": "https://www.thehindu.com/news/national/tribal-affairs-ministry-set-to-revamp-forest-rights-cells-form-one-stop-project-monitoring-units/article70675681.ece",
-      "summary": "Govt. expands mandate of FRA cells to coordinate on all policies; Odisha shuts 50 FRA cells, Chhattisgarh officials say exploring the way forward",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 22:56:53 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "546bd6939a042a2e06b26a2f06b6dd09",
       "title": "Strong tremors jolt Kolkata, adjoining districts",
       "link": "https://www.thehindu.com/news/international/magnitude-54-earthquake-strikes-bangladesh-tremors-felt-in-kolkata-adjacent-wb-districts/article70683234.ece",
@@ -71034,19 +71242,6 @@
       "lang": "en"
     },
     {
-      "id": "7fdf42d031a0c03bed18c5f4097e463f",
-      "title": "‘Farm Guard’ wins first prize at ‘Agri Rural Ideathon 2026’",
-      "link": "https://www.thehindu.com/news/national/kerala/farm-guard-wins-first-prize-at-agri-rural-ideathon-2026/article70685277.ece",
-      "summary": "‘Farm Guard,’ as per its creators, is a portable device meant for ‘intelligent and non-lethal deterrence.’ It has been designed keeping in mind farmers in regions prone to human-wildlife conflict",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 22:00:24 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e7622b497643fd381f8dfbffe0da71e6",
       "title": "Habitual offender convicted for sexually assaulting 15-year-old boy",
       "link": "https://www.thehindu.com/news/national/kerala/habitual-offender-convicted-for-sexually-assaulting-15-year-old-boy/article70685092.ece",
@@ -71406,45 +71601,6 @@
       "timestamp": "Fri, 27 Feb 2026 21:19:51 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "432283c9eedff77df4392b91d3da5acd",
-      "title": "Vizhinjam “seafood poisoning”: searching for marine algal toxins in fish becoming an onerous task, say officials",
-      "link": "https://www.thehindu.com/news/national/kerala/vizhinjam-seafood-poisoning-searching-for-marine-algal-toxins-in-fish-becoming-an-onerous-task-say-officials/article70685008.ece",
-      "summary": "Food Safety officials point out that only the forensic report on the viscera samples of those who died of “seafood poisoning” alone can provide clarity. However, no stool or blood samples seem to have been collected from the deceased",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 21:19:29 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "ddc2077292457bc8b3d325ffbcb77371",
-      "title": "PG medical: Fourth round begins",
-      "link": "https://www.thehindu.com/news/national/karnataka/pg-medical-fourth-round-begins/article70684952.ece",
-      "summary": "",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 21:13:39 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "54229d10b714a681d94fbc6f431ae41c",
-      "title": "Bangalore University decides to extend village adoption to all its departments",
-      "link": "https://www.thehindu.com/news/national/karnataka/bangalore-university-decides-to-extend-village-adoption-to-all-its-departments/article70683538.ece",
-      "summary": "There are about 42 departments in Bangalore University, including Kannada, English, and performing arts; the university has asked all these departments to adopt at least two villages.",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 21:12:09 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -72113,6 +72269,19 @@
       "lang": "en"
     },
     {
+      "id": "a8fdb8227eceb5399918d1ada76b2109",
+      "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
+      "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 20:05:04 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1aa2accd841d701ed23e574d6ee9a912",
       "title": "Keralam to become India’s first dumpsite-free State in two years, says Minister",
       "link": "https://www.thehindu.com/news/national/kerala/keralam-to-become-indias-first-dumpsite-free-state-in-two-years-says-minister/article70684086.ece",
@@ -72243,6 +72412,19 @@
       "lang": "en"
     },
     {
+      "id": "33efd11d5d373ae3766856bbe701bd44",
+      "title": "Drone jammed near French aircraft carrier was Russian, says Sweden",
+      "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
+      "summary": "Sweden's prime minister said it was a serious but not unexpected incident - and a \"Russian way of acting that we recognise from other places\".",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 19:58:25 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "776b34cfa53f862cd26838e87a6179e6",
       "title": "Four instalments of DA/DR sanctioned in KSEB",
       "link": "https://www.thehindu.com/news/national/kerala/four-instalments-of-dadr-sanctioned-in-kseb/article70684244.ece",
@@ -72252,6 +72434,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5dbc32683b22cb96a8800f0496ea314c",
+      "title": "Trump says ‘friendly takeover of Cuba’ possible",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/trump-says-friendly-takeover-of-cuba-possible?traffic_source=rss",
+      "summary": "Donald Trump said “we could very well end up having a friendly takeover of Cuba\" by the US.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 19:56:02 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -72555,6 +72750,32 @@
       "lang": "en"
     },
     {
+      "id": "a725b0a89755bc3194c036ac4ed9b66a",
+      "title": "Rubio plans Israel trip as Trump says he’s ‘not happy’ with US-Iran talks",
+      "link": "https://www.aljazeera.com/news/2026/2/27/marco-rubio-plans-israel-trip-as-trump-says-hes-not-happy-with-iran-talk?traffic_source=rss",
+      "summary": "Trump tells reporters he would 'love not to use' military force against Iran but added, 'Sometimes you have to.'",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 19:30:38 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "97d63ddfee0124e62d717686bb17f11e",
+      "title": "Why did Bad Bunny’s Super Bowl show hit a nerve?",
+      "link": "https://www.aljazeera.com/video/the-stream/2026/2/27/why-did-bad-bunnys-super-bowl-show-hit-a-nerve?traffic_source=rss",
+      "summary": "Bad Bunny as a case study in global relevance and diaspora power.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 19:30:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "add082d1ccf986fe8c94a11f498a936b",
       "title": "Institutions under Cooperation Department draw criticism for impeding CAG audit",
       "link": "https://www.thehindu.com/news/national/kerala/institutions-under-cooperation-department-draw-criticism-for-impeding-cag-audit/article70683968.ece",
@@ -72594,6 +72815,19 @@
       "lang": "en"
     },
     {
+      "id": "1996d88af6750f9f6fda17fd5b77703c",
+      "title": "‘I did nothing wrong’: Bill Clinton testifies in House Epstein inquiry",
+      "link": "https://www.aljazeera.com/news/2026/2/27/i-did-nothing-wrong-bill-clinton-testifies-in-house-epstein-inquiry?traffic_source=rss",
+      "summary": "Clinton is deposed by the House Oversight Committee over Epstein ties, a day after Hillary testified.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 19:25:03 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "46b5963f083c2e863e998a21a2286318",
       "title": "Former head priest of Chilkur Balaji temple no more",
       "link": "https://www.thehindu.com/news/national/telangana/former-head-priest-of-chilkur-balaji-temple-no-more/article70684190.ece",
@@ -72629,6 +72863,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8ffcad3063e923c2813aefe67671f677",
+      "title": "Pakistan, Afghanistan release conflicting death tolls amid ‘open war’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/pakistan-afghanistan-release-conflicting-death-tolls-amid-open?traffic_source=rss",
+      "summary": "Pakistan and Afghanistan are disputing death tolls from their cross-border attacks.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 19:20:43 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -72889,19 +73136,6 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "a8fdb8227eceb5399918d1ada76b2109",
-      "title": "Trump 'not thrilled' with Iran after latest talks on nuclear programme",
-      "link": "https://www.bbc.com/news/articles/c309vz0z893o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump said he was not happy with Iran's stance, but had not yet decided whether to attack.",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 18:45:41 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -73877,19 +74111,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "33efd11d5d373ae3766856bbe701bd44",
-      "title": "Drone jammed near French aircraft carrier was probably Russian, says Sweden",
-      "link": "https://www.bbc.com/news/articles/c1mj3e2nz8ko?at_medium=RSS&at_campaign=rss",
-      "summary": "Sweden's prime minister said it was a serious but not expected incident - and a \"Russian way of acting that we recognise from other places\".",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 15:29:37 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -79220,7 +79441,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -79246,7 +79467,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -79272,7 +79493,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -79441,7 +79662,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -92935,6 +93156,32 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "32ede5d5769545c76922d8d6c78c5f78",
+      "title": "Pakistan-Afghanistan war: Trump praises PM Shehbaz Sharif and General Asim Munir, says 'gets along very well' with Islamabad",
+      "link": "https://timesofindia.indiatimes.com/world/us/pakistan-afghanistan-war-trump-praises-pm-shehbaz-sharif-and-general-asim-munir-says-gets-along-very-well-with-islamabad/articleshow/128863631.cms",
+      "summary": "Former President Donald Trump's past praise for Pakistan's leadership signals a potential diplomatic tilt amid escalating tensions with Afghanistan. Recent cross-border clashes, including air and artillery strikes, have marked an unprecedented deterioration in relations between the two neighboring countries.",
+      "date": "2026-02-27",
+      "timestamp": "2026-02-28T01:16:40+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "87a50b95b0676ac1d531899eda810a2a",
+      "title": "Husband or parents' income for OBC creamy layer? SC to rule",
+      "link": "https://timesofindia.indiatimes.com/india/husband-or-parents-income-for-obc-creamy-layer-sc-to-rule/articleshow/128864106.cms",
+      "summary": "Aspiring Judicial Officer's Caste Cert Rejected By District Panel",
+      "date": "2026-02-27",
+      "timestamp": "2026-02-28T01:04:59+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
