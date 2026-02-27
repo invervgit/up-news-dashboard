@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T07:42:20.747191+00:00",
+  "generated_at": "2026-02-27T08:35:19.958106+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -25241,8 +25241,8 @@
       "summary": "Former German Chancellor delivers first Manmohan Singh lecture, praises former PM for economic reforms; says governments must hold big tech firms, social media platforms, AI developers to account",
       "date": "2026-02-26",
       "timestamp": "Thu, 26 Feb 2026 22:33:33 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -25387,6 +25387,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "26c8e388d8eefd6a1eb98813deb1a203",
+      "title": "Watch dramatic rescue of skier buried in deep snow",
+      "link": "https://www.bbc.com/news/videos/cde4gyl7rp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The skier was buried under at least four feet of snow, his arm already limp, rescuers said.",
+      "date": "2026-02-26",
+      "timestamp": "Thu, 26 Feb 2026 22:09:34 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -70228,14 +70241,40 @@
       "lang": "en"
     },
     {
-      "id": "260b99dea5fb24cc09f79bc62d595ee5",
-      "title": "President Murmu flies sortie in LCH 'Prachand' near India-Pakistan border in Jaisalmer",
-      "link": "https://www.thehindu.com/news/national/president-murmu-flies-sortie-in-lch-prachand-near-india-pakistan-border-in-jaisalmer/article70682778.ece",
-      "summary": "Before the sortie, the captain briefed the President. Dressed in an olive green uniform and helmet, she waved from the cockpit before departing",
+      "id": "86dfb0fc9081c4467d8eb46dcbb00719",
+      "title": "कौन था वो करीबी? जिसके कहने पर अक्षत ने पिता के टुकड़े करने के बाद सरेंडर का इरादा बदला",
+      "link": "https://www.livehindustan.com/uttar-pradesh/on-whose-advice-akshat-change-his-mind-about-surrendering-after-his-father-murder-in-lucknow-201772179152395.html",
+      "summary": "लखनऊ के बंगला बाजार में पिता मानवेंद्र की हत्या के बाद आरोपी बेटे अक्षत ने पहले सरेंडर का मन बनाया, लेकिन करीबी के कहने पर गुमशुदगी की साजिश रची। पुलिस ने शव ड्रम से बरामद कर लिया है, कॉल डिटेल के आधार पर जांच जारी है।",
       "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 13:03:57 +0530",
+      "timestamp": "Fri, 27 Feb 2026 13:55:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "89ffe067c5c24d3687401274b2ef75ab",
+      "title": "Embarrassing defeat for U.K.'s Starmer as Greens seize Labour stronghold",
+      "link": "https://www.thehindu.com/news/international/embarrassing-defeat-for-uks-starmer-as-greens-seize-labour-stronghold/article70683039.ece",
+      "summary": "The Green Party won 40.7% of the vote, Nigel Farage's Reform Party came second ‌with 28.7% of the votes and Labour finished third with 25.4%",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:51:43 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f8b6f38fa04e52ab067bbcd51e14d081",
+      "title": "India focused on getting best trade deal with U.S., Indian Trade Minister says",
+      "link": "https://www.thehindu.com/news/national/india-focused-on-getting-best-trade-deal-with-us-indian-trade-minister-says/article70683077.ece",
+      "summary": "“The South Asian ‌nation is ​focused on engaging ⁠to ensure it secures ‌the best deal in terms of competitive ‌advantage compared to peers,” ​says Piyush ‌Goyal",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:51:25 +0530",
       "section": "National",
-      "report_category": "National_General",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -70246,9 +70285,230 @@
       "link": "https://www.thehindu.com/news/national/karnataka/citing-potential-of-20-lakh-jobs-in-5-years-karnataka-cm-urges-making-avgc-xr-skills-part-of-mainstream-education-at-gafx-conference-in-bengaluru/article70683049.ece",
       "summary": "Bengaluru is a city where creativity finds capital, says Chief Minister Siddaramaiah",
       "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 13:03:32 +0530",
+      "timestamp": "Fri, 27 Feb 2026 13:44:39 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2f6812bff2c4810b21eddf31baf33a26",
+      "title": "सीएम योगी को एक साल और सलाह देंगे अवनीश अवस्थी, यूपी सरकार ने चौथी बार बढ़ाया कार्यकाल",
+      "link": "https://www.livehindustan.com/uttar-pradesh/cm-yogi-advisor-avnish-awasthi-service-extension-till-february-2027-governor-approval-up-news-201772179750939.html",
+      "summary": "मुख्यमंत्री योगी आदित्यनाथ के सलाहकार और रिटायर्ड आईएएस अधिकारी अवनीश अवस्थी का कार्यकाल एक साल के लिए बढ़ा दिया गया है। राज्यपाल की अनुमति के बाद जारी आदेश के अनुसार, वह अब फरवरी 2027 तक इस पद पर रहेंगे।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:43:51 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "52a8aa8c13da4133d55904c3cee058f0",
+      "title": "NCERT textbook row: Kerala Education Minister welcomes SC intervention, seeks probe",
+      "link": "https://www.thehindu.com/news/national/kerala/ncert-textbook-row-kerala-education-minister-welcomes-sc-intervention-seeks-probe/article70683167.ece",
+      "summary": "In a Facebook post, Minister V. Sivankutty welcomes apex court’s stand against references that allegedly undermined the judiciary",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:41:14 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7030507a9ffdc2d5d26e842156432b4a",
+      "title": "Sustainable practices adopted in space offer lessons for NE States in renewable energy: Shukla",
+      "link": "https://www.thehindu.com/news/national/sustainable-practices-adopted-in-space-offer-lessons-for-ne-states-in-renewable-energy-shukla/article70682928.ece",
+      "summary": "He commended Meghalaya's efforts to promote clean energy in rural and remote regions where conventional electricity supply remains a challenge",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:40:20 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "45073b7c99cdc6ac0eda88b17a977ddb",
+      "title": "Kavitha says ‘Satyameva Jayate’ after court discharges her in Delhi liquor policy case",
+      "link": "https://www.thehindu.com/news/national/telangana/kavitha-says-satyameva-jayate-after-court-discharges-her-in-delhi-liquor-policy-case/article70683130.ece",
+      "summary": "",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:31:13 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9594978d2da676e2e52dee3febbbd9db",
+      "title": "कफ सिरप तस्करी में शुभम जायसवाल का करीबी मनोज यादव भी गिरफ्तार, करोड़ों की संपत्ति बनाई",
+      "link": "https://www.livehindustan.com/uttar-pradesh/varanasi-cough-syrup-smuggling-manoj-yadav-arrest-bahraich-police-custody-death-murder-case-up-news-201772176424349.html",
+      "summary": "वाराणसी की कोतवाली पुलिस ने करोड़ों के नशीले Cough Syrup तस्करी सिंडिकेट के अहम सदस्य मनोज यादव और उसके बेटे लक्ष्य को गिरफ्तार किया है। मनोज, सरगना शुभम जायसवाल के लिए हवाला नेटवर्क चलाता था और बोगस फर्मों के जरिए काले धन को सफेद करता था।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:30:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7146bf0fd087060fd91a1a5d55554501",
+      "title": "Last rites of former soldier exposes practice of untouchability in Karnataka village",
+      "link": "https://www.thehindu.com/news/national/karnataka/officials-visit-village-in-bagalkot-district-of-karnataka-following-complaints-of-practice-of-untouchability/article70683134.ece",
+      "summary": "Officials visit village in Bagalkot district of Karnataka following complaints of shops being closed during final rites of Hanumanthappa Harijan",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:24:51 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7dd418d20595f7a421a75d5b1e5ecc56",
+      "title": "Ready for narco test to establish truth in POCSO case: Swami Avimukteshwaranand",
+      "link": "https://www.thehindu.com/news/national/swami-avimukteshwaranand-pocso-sexual-assault-case-updates/article70683113.ece",
+      "summary": "Avimukteshwaranand said even if any wrongdoing had occurred, it would not automatically establish who was responsible. “The child who never came to us cannot be easily linked to our name,” he said.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:24:26 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "99c113f2f81a043c4fef83cff96c3f3f",
+      "title": "Priority to Kannada in administration emphasised at 12th Dharwad Taluk Kannada Sahitya Sammelana",
+      "link": "https://www.thehindu.com/news/national/karnataka/priority-to-kannada-in-administration-emphasised-at-12th-dharwad-taluk-kannada-sahitya-sammelana/article70680277.ece",
+      "summary": "Dharwad Taluk 12th Kannada Sahitya Sammelana was held at Alur Venkatrao Bhavan in Dharwad on February 26",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:22:54 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b3293cb13c7fba407d6c1295ce9a25d8",
+      "title": "यूपी बोर्ड: एक छात्रा की परीक्षा को लगे 15 शिक्षक-कर्मी, पूरे कमरे में अकेले दिया एग्जाम",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-board-exam-etawah-15-teachers-and-workers-over-one-female-student-during-optional-subject-exams-201772178243765.html",
+      "summary": "यूपी बोर्ड परीक्षा के दौरान एक अजब-गजब मामला देखने को मिला है। बोर्ड परीक्षा के दौरान आमतौर पर भीड़, अफरा-तफरी और सख्त निगरानी की तस्वीर सामने आती है, लेकिन गुरुवार को भरथना के एक परीक्षा केंद्र पर इसका बिल्कुल उलटा नजारा देखने को मिला।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:22:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "af0eb1dec3eb72af2b79f6aed16bbb08",
+      "title": "Excise policy case: Delhi court discharges Kejriwal, Sisodia, Kavitha; CBI to appeal in Delhi HC",
+      "link": "https://www.thehindu.com/news/cities/Delhi/excise-corruption-liquor-policy-case-kejriwal-sisodia-discharged/article70682814.ece",
+      "summary": "Kejriwal says, “AAP is ‘Kattar Imandaar’, I am not corrupt”; Kavitha tweets, “Satyamev Jayate”",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:17:14 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f3dd83140194e329dfc79f339f2ad575",
+      "title": "Supreme Court collegium recommends Justice Sushrut Arvind Dharmadhikari as next CJ of Madras HC",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-collegium-recommends-justice-sushrut-arvind-dharmadhikari-as-next-chief-justice-of-madras-hc/article70682423.ece",
+      "summary": "Hailing from Madhya Pradesh, Justice Dharmadhikari was born on July 8, 1966, in Raipur and obtained his Bachelor’s degree in commerce and law from Nagpur University",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:17:04 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0475db8b569141f3987b2c70fdf5535d",
+      "title": "SC collegium decides to transfer judges proposed to be CJs of HCs well in advance",
+      "link": "https://www.thehindu.com/news/national/sc-collegium-decides-to-transfer-judges-proposed-to-be-cjs-of-hcs-well-in-advance/article70683141.ece",
+      "summary": "The collegium, headed by Chief Justice of India Surya Kant, said the decision was taken so that the judge, becomes well conversant with the affairs of that High Court and assumes charge of the office of the Chief Justice",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:15:52 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e185555e6dd1b5267f09e91306f4f281",
+      "title": "Family courts can’t be liberal in giving adjournments only because litigant is a woman: Karnataka High Court",
+      "link": "https://www.thehindu.com/news/national/karnataka/family-courts-cant-be-liberal-in-giving-adjournments-only-because-litigant-is-a-woman-karnataka-high-court/article70679779.ece",
+      "summary": "The High Court imposed cost on a woman for intentionally dragging the matter and wasting time of courts",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:14:51 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5b6bbb047ce77d319456f8d2908cf4b1",
+      "title": "UP SIR में फॉर्म छह जमा करने को अब चार दिन ही बचे, 10 अप्रैल को आएगी अंतिम सूची",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-sir-last-date-6-march-four-days-to-submit-form-6-last-list-publish-on-10-april-201772177616123.html",
+      "summary": "मतदाता सूची के विशेष प्रगाढ़ पुनरीक्षण (एसआईआर) अभियान के क्रम में छह मार्च तक ही दावे और आपत्तियां स्वीकार किए जाएंगे। ऐसे में अब मतदाताओं के पास बीएलओ से मिलकर फॉर्म छह जमा करने के लिए चार दिन ही शेष बचे हैं।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:12:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "88c3d1bdd314f8ae91b551700f2f71ae",
+      "title": "Iraq armed group tells fighters to prepare for long Iran-U.S. war",
+      "link": "https://www.thehindu.com/news/international/iraq-armed-group-tells-fighters-to-prepare-for-long-iran-us-war/article70683004.ece",
+      "summary": "\"Amid American threats and military build-up indicating a dangerous escalation in the region, all fighters must prepare for a potentially long war of attrition,\" says Kataeb Hezbollah",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:10:31 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7b5f9f56229df93ca5a0fe093ee826db",
+      "title": "Afghanistan-Pakistan conflict LIVE: China 'deeply concerned' about Pakistan's 'open war' over Taliban neighbour",
+      "link": "https://www.thehindu.com/news/international/afghanistan-pakistan-clash-tension-border-the-hindu-live-updates/article70681565.ece",
+      "summary": "Pakistan's Prime Minister Shehbaz Sharif said on Friday his country's armed forces can \"crush\" aggressors, following air strikes on neighbouring Afghanistan",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:04:02 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "260b99dea5fb24cc09f79bc62d595ee5",
+      "title": "President Murmu flies sortie in LCH 'Prachand' near India-Pakistan border in Jaisalmer",
+      "link": "https://www.thehindu.com/news/national/president-murmu-flies-sortie-in-lch-prachand-near-india-pakistan-border-in-jaisalmer/article70682778.ece",
+      "summary": "Before the sortie, the captain briefed the President. Dressed in an olive green uniform and helmet, she waved from the cockpit before departing",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 13:03:57 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -70275,19 +70535,6 @@
       "timestamp": "Fri, 27 Feb 2026 13:02:39 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "af0eb1dec3eb72af2b79f6aed16bbb08",
-      "title": "Excise policy case: Delhi court discharges Kejriwal, Sisodia, Kavitha; CBI to appeal in Delhi HC",
-      "link": "https://www.thehindu.com/news/cities/Delhi/excise-corruption-liquor-policy-case-kejriwal-sisodia-discharged/article70682814.ece",
-      "summary": "Kejriwal says, “AAP is ‘Kattar Imandaar’, I am not corrupt”; Kavitha tweets, “Satyamev Jayate”",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 12:59:43 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -70342,19 +70589,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "89ffe067c5c24d3687401274b2ef75ab",
-      "title": "Embarrassing defeat for U.K.'s Starmer as Greens seize Labour stronghold",
-      "link": "https://www.thehindu.com/news/international/embarrassing-defeat-for-uks-starmer-as-greens-seize-labour-stronghold/article70683039.ece",
-      "summary": "The Green Party won 40.7% of the vote, Nigel Farage's Reform Party came second ‌with 28.7% of the votes and Labour finished third with 25.4%",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 12:54:15 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -70423,19 +70657,6 @@
       "lang": "en"
     },
     {
-      "id": "7b5f9f56229df93ca5a0fe093ee826db",
-      "title": "Afghanistan-Pakistan conflict LIVE: Russia, Iran urge diplomatic end to Pakistan's 'open war' over Taliban neighbour",
-      "link": "https://www.thehindu.com/news/international/afghanistan-pakistan-clash-tension-border-the-hindu-live-updates/article70681565.ece",
-      "summary": "Pakistan's Prime Minister Shehbaz Sharif said on Friday his country's armed forces can \"crush\" aggressors, following air strikes on neighbouring Afghanistan",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 12:48:04 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "6ca095cdf225eae2ca2d3a28de9556c7",
       "title": "PM Modi on NCERT: 'किताब में कैसे छपा'? गरमाए पीएम मोदी का बड़ा एक्शन",
       "link": "https://www.amarujala.com/video/india-news/pm-modi-will-take-strict-action-on-ncert-book-controversy-2026-02-27",
@@ -70483,19 +70704,6 @@
       "timestamp": "Fri, 27 Feb 2026 12:42:59 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "88c3d1bdd314f8ae91b551700f2f71ae",
-      "title": "Iraq armed group tells fighters to prepare for long Iran-U.S. war",
-      "link": "https://www.thehindu.com/news/international/iraq-armed-group-tells-fighters-to-prepare-for-long-iran-us-war/article70683004.ece",
-      "summary": "\"Amid American threats and military build-up indicating a dangerous escalation in the region, all fighters must prepare for a potentially long war of attrition,\" says Kataeb Hezbollah",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 12:42:43 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -70618,19 +70826,6 @@
       "lang": "en"
     },
     {
-      "id": "99c113f2f81a043c4fef83cff96c3f3f",
-      "title": "Priority to Kannada in administration emphasised at 12th Dharwad Taluk Kannada Sahitya Sammelana",
-      "link": "https://www.thehindu.com/news/national/karnataka/priority-to-kannada-in-administration-emphasised-at-12th-dharwad-taluk-kannada-sahitya-sammelana/article70680277.ece",
-      "summary": "Dharwad Taluk 12th Kannada Sahitya Sammelana was held at Alur Venkatrao Bhavan in Dharwad on February 26",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 12:23:54 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "c2544291342a59d15fd46428d107241c",
       "title": "5 साल की बच्ची को सौतेली मां ने मार डाला; छत पर मिला शव, प्रतापगढ़ में रिश्तों का कत्ल",
       "link": "https://www.livehindustan.com/uttar-pradesh/five-year-old-girl-killed-by-stepmother-body-found-on-rooftop-case-of-kinship-murder-in-pratapgarh-201772174363008.html",
@@ -70717,19 +70912,6 @@
       "timestamp": "Fri, 27 Feb 2026 12:16:12 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7030507a9ffdc2d5d26e842156432b4a",
-      "title": "Sustainable practices adopted in space offer lessons for NE States in renewable energy: Shukla",
-      "link": "https://www.thehindu.com/news/national/sustainable-practices-adopted-in-space-offer-lessons-for-ne-states-in-renewable-energy-shukla/article70682928.ece",
-      "summary": "He commended Meghalaya's efforts to promote clean energy in rural and remote regions where conventional electricity supply remains a challenge",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 12:15:58 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -71425,9 +71607,9 @@
     },
     {
       "id": "4d807f86c7a473bb4d2a2667f3b54151",
-      "title": "UP Top News Today: शंकराचार्य अविमुक्तेश्वरानंद की अग्रिम जमानत पर आज सुनवाई, युवती की हत्या में कांग्रेस नेता पकड़ा",
+      "title": "UP Top News Today: सीएम योगी के सलाहकार का चौथी बार बढ़ा कार्यकाल, कफ सिरप केस में एक और गिरफ्तार",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-top-news-today-27-february-2026-shankaracharya-avimukteshwaranand-cm-yogi-adityanath-crime-politics-201772165760607.html",
-      "summary": "UP Top News Today: शंकराचार्य अविमुक्तेश्वरानंद की अग्रिम जमानत अर्जी पर आज इलाहाबाद हाईकोर्ट में सुनवाई होगी। मेरठ में कांग्रेस नेता चंचल कुमार ने अपने साथियों के साथ मिलकर दिल्ली की युवती अर्चिता अरोड़ा की हत्या कर दी।",
+      "summary": "UP Top News Today: मुख्यमंत्री योगी आदित्यनाथ के सलाहकार और रिटायर्ड आईएएस अधिकारी अवनीश अवस्थी का कार्यकाल एक साल के लिए बढ़ा दिया गया है। वाराणसी की कोतवाली पुलिस ने करोड़ों के नशीले कफ सिरप तस्करी सिंडिकेट के अहम सदस्य मनोज यादव और उसके बेटे लक्ष्य को गिरफ्तार किया है।",
       "date": "2026-02-27",
       "timestamp": "Fri, 27 Feb 2026 10:04:01 +0530",
       "section": "UP_Focus",
@@ -71562,19 +71744,6 @@
       "timestamp": "Fri, 27 Feb 2026 09:46:41 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "e185555e6dd1b5267f09e91306f4f281",
-      "title": "Family courts can’t be liberal in giving adjournments only because litigant is a woman: Karnataka High Court",
-      "link": "https://www.thehindu.com/news/national/karnataka/family-courts-cant-be-liberal-in-giving-adjournments-only-because-litigant-is-a-woman-karnataka-high-court/article70679779.ece",
-      "summary": "The High Court imposed cost on a woman for intentionally dragging the matter and wasting time of courts",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 09:46:37 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -71840,19 +72009,6 @@
       "lang": "hi"
     },
     {
-      "id": "f3dd83140194e329dfc79f339f2ad575",
-      "title": "Supreme Court collegium recommends Justice Sushrut Arvind Dharmadhikari as next Chief Justice of Madras HC",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-collegium-recommends-justice-sushrut-arvind-dharmadhikari-as-next-chief-justice-of-madras-hc/article70682423.ece",
-      "summary": "Hailing from Madhya Pradesh, Justice Dharmadhikari was born on July 8, 1966 at Raipur and obtained his bachelor’s degree in commerce and law from the Nagpur University",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 09:07:37 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ada7e5323829498fdf442a796b183403",
       "title": "Pakistan bombs Kabul in 'open war' on Afghanistan's Taliban government",
       "link": "https://www.thehindu.com/news/international/pakistan-bombs-kabul-in-open-war-on-afghanistans-taliban-govt/article70682511.ece",
@@ -71996,6 +72152,19 @@
       "lang": "en"
     },
     {
+      "id": "cc45c6172d9d71eedac655db31e9f4b1",
+      "title": "Lineman burnt alive in Sonbhadra:Climbed 25-foot pole to replace transformer, fire engulfed him for 10 minutes",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/lineman-electrocuted-fire-sonbhadra-transformer-replacement-137311590.html",
+      "summary": "A lineman died after suffering an electric shock and catching fire while replacing a transformer in Sonbhadra district of Uttar Pradesh. The incident occurred on a 25-foot-high electricity pole in Lohota village under the Ghorawal police station area. According to eyewitnesses, the lineman had climbed the pole to install a new transformer. During the work, he reportedly received a powerful shock of 11,000 volts. The electric shock caused a short circuit, and flames broke out immediately. Within seconds, the lineman’s body caught fire. His helper present at the spot tried to rescue him, but the lineman had already suffered severe burns. Villagers alleged that the lineman had taken an official shutdown of the power supply before starting the work. However, the electricity supply was allegedly restored while he was still working on the pole, leading to the accident. A video of the incident has also surfaced, showing the lineman engulfed in flames on the pole. Authorities have been informed, and further investigation is underway to determine how the power supply was restored during maintenance work. Heart-wrenching images- Lineman dies after high-voltage shock in Sonbhadra: complete sequence of events Santosh Kumar (40), a resident of Bisahar village, was working as a contract lineman with the electricity department. He lived with his wife Bindu (35) and two sons, Adarsh (15) and Shivam (18). On Thursday evening, Santosh went to Lohota village to install a new transformer. He reached the spot at around 7 pm and began preparations for the work. Shutdown taken before starting work According to his colleagues, Santosh had followed safety procedures. Before climbing the pole, he informed the power house and requested a shutdown to ensure there was no electricity supply during the installation. After receiving confirmation, he climbed the 25-foot-high pole and started mounting the transformer. Power supply suddenly restored While Santosh was working on the pole, the 11,000-volt high-tension supply was suddenly restored without any notice, colleagues alleged. He received a powerful electric shock and got stuck to the pole. A short circuit occurred immediately, and flames broke out. Within moments, Santosh was engulfed in fire while still on the pole. Helper called department, but rescue came too late As soon as the incident happened, helper Matrulal called the electricity department and requested an urgent shutdown. After the supply was cut, he climbed the pole to put out the fire. However, Santosh had already suffered severe burns. With the help of local villagers, he was brought down from the pole and rushed to the district hospital. Doctors referred him to the Trauma Centre in Varanasi due to his critical condition, but Santosh died on the way. The incident has triggered anger among villagers and colleagues, who alleged negligence in restoring the power supply during maintenance work. Authorities have started an investigation into the matter. In this case, the helper who was present with Santosh accused the electricity department of negligence. He said the lineman was working on the line at the time. The department was aware of this, so he questioned on whose orders and why the power supply was restored. Negligence claimed to have cost a life Sonbhadra’s Executive Engineer (XEN) M.B. Thakur said two linemen were working at different locations. Santosh and Matru were together at one site, while Rajesh Sahu was working at another. According to Thakur, after completing his task, Rajesh Sahu restored the power supply. The line became live, leading to the accident. He said the matter is under investigation and further action will be taken based on the findings.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 08:29:05 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "4ad124a6864a5820030949a065b228e4",
       "title": "Anthropic says won't give U.S. military unconditional AI use",
       "link": "https://www.thehindu.com/news/international/anthropic-says-wont-give-us-military-unconditional-ai-use/article70682418.ece",
@@ -72087,6 +72256,32 @@
       "lang": "en"
     },
     {
+      "id": "93c915a25d3e9085d3d0e7367211cf53",
+      "title": "‘A dangerous thing’: S Africa’s gang-ridden townships fear army deployment",
+      "link": "https://www.aljazeera.com/features/2026/2/27/a-dangerous-thing-s-africas-gang-ridden-townships-fear-army-deployment?traffic_source=rss",
+      "summary": "Critics wary of President Cyril Ramaphosa's move to send military to tackle crime, drugs and gangs in three provinces.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 08:04:18 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bf42365560cd534b0001730943d6c01f",
+      "title": "UK investigating whether Epstein used air force bases for sex trafficking",
+      "link": "https://www.aljazeera.com/news/2026/2/27/uk-investigating-whether-epstein-used-air-force-bases-for-sex-trafficking?traffic_source=rss",
+      "summary": "Probe of Royal Air Force bases comes amid concerns trafficked women were brought to UK on board Epstein's private jets.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 08:01:40 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "5da221ff024fe3317d774bd1e1c47d5e",
       "title": "Scrap EAPCET, English medium from Class 1 and no automatic promotions to teachers; Education Commission recommends",
       "link": "https://www.thehindu.com/news/national/telangana/scrap-eapcet-english-medium-from-class-1-and-no-automatic-promotions-to-teachers-education-commission-recommends/article70680949.ece",
@@ -72100,6 +72295,19 @@
       "lang": "en"
     },
     {
+      "id": "537025eb211500f4ae5fb654ab7bdd3d",
+      "title": "Inside Israel’s airport interrogations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/inside-israels-airport-interrogations?traffic_source=rss",
+      "summary": "At Ben Gurion airport, invasive security checks are routine for many Palestinians, journalists and other travellers.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 08:01:19 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "87d1fd45d14b5d8f5f53270c2936adeb",
       "title": "CM Stalin lays foundation for construction of elevated corridor from Thiruvanmiyur to Uthandi",
       "link": "https://www.thehindu.com/news/cities/chennai/cm-stalin-lays-foundation-for-construction-of-elevated-corridor-from-thiruvanmiyur-to-uthandi/article70680580.ece",
@@ -72109,6 +72317,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "76e245575f4ff892dfb3f22f698b6627",
+      "title": "The AI videos supercharging Russia's online disinformation campaigns",
+      "link": "https://www.bbc.com/news/articles/cx2r7grrdwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Security experts have warned that Western governments are poorly equipped to counter a new frontier of online disinformation.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 07:53:39 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -72135,6 +72356,32 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2de47fe4b800e01252d635ac55a02f23",
+      "title": "RAMpocalypse Hits Global Tech",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/27/rampocalypse-hits-global-tech?traffic_source=rss",
+      "summary": "Tensions in the global tech market are rising as AI fuels unprecedented demand for memory chips.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 07:44:14 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ece7e8a1980e88f5513be124ca331ac",
+      "title": "Maduro seeks dismissal of charges, claims US blocked legal defence funds",
+      "link": "https://www.aljazeera.com/news/2026/2/27/maduro-seeks-dismissal-of-charges-claims-us-blocked-legal-defence-funds?traffic_source=rss",
+      "summary": "President Maduro's lawyer said his client's right to legal counsel of choice has been denied by US government actions.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 07:39:57 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -72776,19 +73023,6 @@
       "lang": "hi"
     },
     {
-      "id": "da7e8534dcad0e08d3b58d446a671f49",
-      "title": "News Updates: राष्ट्रपति मुर्मू आज प्रचंड हेलिकॉप्टर में भरेंगी उड़ान; इस्राइल दौरे से स्वदेश लौटे पीएम मोदी",
-      "link": "https://www.amarujala.com/india-news/national-news-updates-27-feb-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-02-27",
-      "summary": "News Updates: राष्ट्रपति मुर्मू आज प्रचंड हेलिकॉप्टर में भरेंगी उड़ान; इस्राइल दौरे से स्वदेश लौटे पीएम मोदी",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 04:41:28 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "5423abf88686d703da548ddbd371b7b5",
       "title": "Afghanistan-Pakistan conflict LIVE: Loud explosions rock Afghan capital Kabul",
       "link": "https://www.thehindu.com/news/international/afghanistan-pakistan-clash-tension-border-live-updates/article70681565.ece",
@@ -72803,7 +73037,7 @@
     },
     {
       "id": "48dd0f73120e2b41110f561393199b00",
-      "title": "Netflix drops bid for Warner Bros, clearing way for Paramount takeover",
+      "title": "Paramount set for $111bn Warner Bros takeover after Netflix drops bid",
       "link": "https://www.bbc.com/news/articles/c5y6p5ypgmzo?at_medium=RSS&at_campaign=rss",
       "summary": "Netflix's decision to back down from the bidding war clears the path for Paramount to win the takeover battle.",
       "date": "2026-02-27",
@@ -73985,6 +74219,19 @@
       "lang": "en"
     },
     {
+      "id": "da7e8534dcad0e08d3b58d446a671f49",
+      "title": "News Updates: मणिपुर में पांच उग्रवादी गिरफ्तार; राष्ट्रपति मुर्मू ने भरी प्रचंड हेलिकॉप्टर में उड़ान",
+      "link": "https://www.amarujala.com/india-news/national-news-updates-27-feb-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-02-27",
+      "summary": "News Updates: राष्ट्रपति मुर्मू आज प्रचंड हेलिकॉप्टर में भरेंगी उड़ान; इस्राइल दौरे से स्वदेश लौटे पीएम मोदी",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 02:03:46 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "14ada4fbd4d967797e9020e02178bf26",
       "title": "Lucknow News: मंच पर सजी रिवायत, प्रतिभाओं ने बिखेरे रंग",
       "link": "https://www.amarujala.com/lucknow/traditions-adorned-the-stage-talents-spread-colors-lucknow-news-c-13-1-lko1028-1624613-2026-02-27",
@@ -74063,6 +74310,19 @@
       "lang": "en"
     },
     {
+      "id": "a22cbeb86f3a76a8005db8d89e1ed604",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 27 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-27",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 02:01:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "0322f8eb84fb9318e09fb3fc283f48cf",
       "title": "Lucknow News: ट्रेन की चपेट में आकर युवक की मौत",
       "link": "https://www.amarujala.com/lucknow/youth-dies-after-being-hit-by-a-train-lucknow-news-c-13-lko1096-1623273-2026-02-27",
@@ -74074,6 +74334,19 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
+    },
+    {
+      "id": "a40540da5884ec01cc37994a3dd597da",
+      "title": "पढ़ें 27 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-27",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 02:01:38 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "c24cfa166ec1cca6f338949df1a6a545",
@@ -74219,6 +74492,19 @@
       "lang": "en"
     },
     {
+      "id": "4cd61ca334e0bf9f11161421765fda9e",
+      "title": "Rampur: पूर्व सपा सांसद एसटी हसन के समधी की फैक्टरियों पर आयकर का डेरा, चाैबीस घंटे से खंगाले जा रहे रिकॉर्ड",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/rampur/rampur-income-tax-raids-factories-of-former-sp-mp-st-hasan-s-brother-in-law-records-being-scrutinised-2026-02-27",
+      "summary": "रामपुर के दो बड़े कारोबारियों की तीन प्लाईवुड फैक्टरियों पर बृहस्पतिवार सुबह आठ बजे से आयकर की टीमों डेरा डाले हुए हैं। इन फैक्टरियों में लगातार दूसरे दिन शुक्रवार को भी जांच जारी रही।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:57:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "e72f0960472d52bb5a8d71ba8dcfb00f",
       "title": "Lucknow News: अमृतसर से पटना वाया लखनऊ होली स्पेशल ट्रेन आज से",
       "link": "https://www.amarujala.com/lucknow/amritsar-to-patna-via-lucknow-holi-special-train-from-today-lucknow-news-c-13-1-vns1028-1624624-2026-02-27",
@@ -74307,6 +74593,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "d5fa6af546f1d43681f843c49852d521",
+      "title": "UP: 'यह रोड मुसलमानों के लिए नहीं है', एक्सप्रेसवे की एलिवेटेड रोड पर हिंदू रक्षा दल के लोगों ने लिखा, रिपोर्ट",
+      "link": "https://www.amarujala.com/uttar-pradesh/saharanpur/up-this-road-is-not-for-muslims-hindu-raksha-dal-people-wrote-on-the-elevated-road-of-the-expressway-2026-02-27",
+      "summary": "Saharanpur News: बिहारीगढ़ स्थित दिल्ली-देहरादून एक्सप्रेसवे की एलिवेटेड रोड पर देर रात हिंदू रक्षा दल के कार्यकर्ताओं ने पेंट से यह आपत्तिजनक वाक्य लिख दिया। दल के उत्तराखंड प्रदेश अध्यक्ष ने इसकी जिम्मेदारी ली है।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:51:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a67f5c3cfe260bf56d365c7c23bf5335",
+      "title": "रंगभरी एकादशी पर गोवर्धन धाम पर अबीर- गुलाल के साथ रंगोत्सव का आगाज",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-rangbhari-ekadashi-festival-of-colours-begins-with-abir-gulal-at-govardhan-dham-2026-02-27",
+      "summary": "रंगभरी एकादशी पर गोवर्धन धाम पर अबीर- गुलाल के साथ रंगोत्सव का आगाज",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:51:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -74440,6 +74752,19 @@
       "lang": "en"
     },
     {
+      "id": "aab4a24f44c09f65a43851ec64393695",
+      "title": "UP News: पुलिस हिरासत में आरोपी की मौत, परिजनों ने थाने में किया हंगामा; एसओ और पुलिसकर्मियों पर एफआईआर दर्ज",
+      "link": "https://www.amarujala.com/uttar-pradesh/bahraich/accused-dies-in-police-custody-in-bahraich-fir-filed-against-so-and-policemen-2026-02-27",
+      "summary": "यूपी के बहराइच में गुरुवार की रात दुष्कर्म के आरोपी की रामगांव थाने में मौत हो गई। आक्रोशित परिजनों ने थाने में जमकर हंगामा किया।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:46:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "4c45c541b7e02fbf57e33eaae0ca43d9",
       "title": "Varanasi News: बजट बढ़ा, पुराने 18 वार्डों की सीवर समस्या होगी दूर",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/budget-increased-sewer-problem-of-old-18-wards-will-be-solved-varanasi-news-c-20-vns1056-1304669-2026-02-27",
@@ -74466,6 +74791,19 @@
       "lang": "en"
     },
     {
+      "id": "27c08e24edd78a100a6e5c211d021975",
+      "title": "Delhi Excise Scam: दिल्ली आबकारी नीति मामले में पूर्व सांसद के. कविता बरी, कोर्ट के फैसले पर कहा- सत्यमेव जयते",
+      "link": "https://www.amarujala.com/india-news/telangana-ex-mp-k-kavitha-after-court-clears-her-name-in-delhi-excise-scam-says-satyameva-jayate-2026-02-27",
+      "summary": "Delhi Excise Scam: दिल्ली आबकारी नीति मामले में पूर्व सांसद के. कविता बरी, कोर्ट के फैसले पर कहा- सत्यमेव जयते Telangana EX MP K Kavitha after court clears her name in Delhi excise scam says Satyameva Jayate",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:45:43 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "f10754af033c87062b8654555313ba5f",
       "title": "Varanasi News: शराब न दिलाने पर दुकानदार को पीटा, आठ पर प्राथमिकी दर्ज",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/shopkeeper-beaten-up-for-not-providing-liquor-fir-registered-against-eight-varanasi-news-c-20-vns1056-1304815-2026-02-27",
@@ -74477,6 +74815,19 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
+    },
+    {
+      "id": "30c842ac2d176c6d2eb27b44a020c955",
+      "title": "Odisha Rajya Sabha Polls: ओडिशा राज्यसभा चुनाव में सियासी चाल तेज, बीजद ने छह नामांकन फॉर्म लेकर बढ़ाई हलचल",
+      "link": "https://www.amarujala.com/india-news/odisha-rajya-sabha-elections-bjd-rising-political-heat-by-collected-six-nomination-form-2026-02-27",
+      "summary": "ओडिशा राज्यसभा चुनाव: बीजेडी ने छह नॉमिनेशन फॉर्म लेकर बढ़ाई राजनीतिक गर्मी",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:45:29 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "e6bba7a75337d6c42271501e586ca670",
@@ -74544,6 +74895,19 @@
       "lang": "en"
     },
     {
+      "id": "538897c158d5cce3302250ce9e06957f",
+      "title": "UP: सीएम योगी के मुख्य सलाहकार अवनीश अवस्थी का कार्यकाल एक साल बढ़ा, अब फरवरी 2027 तक रहेंगे",
+      "link": "https://www.amarujala.com/lucknow/up-cm-yogi-s-chief-advisor-avnish-awasthi-s-tenure-extended-by-one-year-2026-02-27",
+      "summary": "मुख्यमंत्री योगी आदित्यनाथ के मुख्य सलाहकार अवनीश कुमार अवस्थी का कार्यकाल एक साल के लिए और बढ़ा दिया गया है। अब वह 28 फरवरी 2027 तक अपने पद पर बने रहेंगे।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:42:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "f3338545226dfca0ce9204834de8008c",
       "title": "Varanasi News: सारनाथ में मधुमक्खियों ने श्रीलंका के 15 पर्यटकों को काटा",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/15-sri-lankan-tourists-stung-by-bees-in-sarnath-varanasi-news-c-20-vns1056-1304190-2026-02-27",
@@ -74554,6 +74918,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "d5838e29fa8925466052726c9a91bf08",
+      "title": "नमामि गंगे ने गंगा किनारे महादेव संग खेली होली, उतारी आरती",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-namami-gange-celebrated-holi-with-mahadev-on-the-banks-of-the-ganges-and-performed-aarti-2026-02-27",
+      "summary": "नमामि गंगे ने गंगा किनारे महादेव संग खेली होली, उतारी आरती",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:41:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "c0aadcb7f2c70681cc8589e16a0990cd",
+      "title": "ये हैं उरई के 'सुपर स्टूडेंट': पंचायती राज विभाग में तैनाती, 15वीं बार दी बोर्ड परीक्षा; नवाचार में भी माहिर",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/orai-super-student-posted-in-the-panchayati-raj-department-took-board-exam-for-15th-time-2026-02-27",
+      "summary": "उरई में यूपी बोर्ड की हाईस्कूल एवं इंटरमीडिएट परीक्षाएं जिले में शांतिपूर्ण ढंग से संपन्न हुईं। हाईस्कूल की पहली पाली में बंगला विषय की परीक्षा आर्य कन्या इंटर कॉलेज केंद्र पर आयोजित हुई। इसमें केवल एक परीक्षार्थी दिनेश कुमार शामिल हुए।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:39:23 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -74568,6 +74958,32 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
+    },
+    {
+      "id": "fc632d12ad8189f94d7b63254d873477",
+      "title": "Bengal Politics: खिलाड़ी स्वप्ना बर्मन टीएमसी में हुई शामिल, राजबोंगशी वोट बैंक साधने की कोशिश? क्या होगा असर",
+      "link": "https://www.amarujala.com/india-news/athlete-swapna-barman-joins-tmc-trying-to-woo-the-rajbongshi-vote-bank-what-will-be-the-impact-2026-02-27",
+      "summary": "Bengal Politics: खिलाड़ी स्वप्ना बर्मन टीएमसी में हुई शामिल, राजबोंगशी वोट बैंक साधने की कोशिश? क्या होगा असर Athlete Swapna Barman joins TMC, trying to woo the Rajbongshi vote bank? What will be the impact?",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:39:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5b1c64cda9a6b7f93fd8919907132387",
+      "title": "Earthquake: बांग्लादेश में 5.4 तीव्रता का भूकंप, कोलकाता समेत बंगाल के कई जिलों में महसूस किए गए तेज झटके",
+      "link": "https://www.amarujala.com/india-news/earthquake-jolts-kolkata-intensity-measured-at-5-2026-02-27",
+      "summary": "Earthquake: कोलकाता में भूकंप से तेज झटके, 5.0 मापी गई तीव्रता; दहशत में लोग",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:38:55 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "b0b1d82d1b9f36f179b5a77ca62aad83",
@@ -74661,6 +75077,19 @@
       "lang": "en"
     },
     {
+      "id": "790888050ba711ac8f16d9a6782e35d7",
+      "title": "EC: सियासी दलों की एक चरण में तमिलनाडु चुनाव कराने की मांग, सीईसी बोले- सारी चीजें ध्यान में रखकर लेंगे फैसला",
+      "link": "https://www.amarujala.com/india-news/cec-gyanesh-kumar-on-tamil-nadu-elections-says-decision-will-be-taken-on-plea-to-hold-single-phase-polls-2026-02-27",
+      "summary": "EC: सियासी दलों की एक चरण मे तमिलनाडु चुनाव कराने की मांग, सीईसी बोले- सारी चीजें ध्यान में रखकर लेंगे फैसला CEC Gyanesh Kumar on Tamil Nadu elections says Decision will be taken on plea to hold single phase polls",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:24:19 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "74f2a4cc834c57a76c4164a7541563fa",
       "title": "BIS hold awareness session on hallmarking for jewellery traders in Ranipet",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/bis-hold-awareness-session-on-hallmarking-for-jewellery-traders-in-ranipet/article70679687.ece",
@@ -74671,6 +75100,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6a1a180a81bbe020f5e2c6fb88f4c1e4",
+      "title": "काशी में रंगोत्सव का आगाज: नमामि गंगे ने गंगा किनारे महादेव संग खेली होली, उतारी आरती",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/namami-gange-celebrated-holi-with-mahadev-on-ganga-ghat-and-performed-aarti-in-varanasi-2026-02-27",
+      "summary": "विविध रंगों के मेल से रंगोली आर्टिस्ट चांदनी विश्वकर्मा ने आकर्षक रंगोली में बाबा श्री काशी विश्वनाथ व माता गौरा की सुंदर कलाकृति बनाई।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:19:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -74711,6 +75153,19 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "4becaccb344a6ef29ec86a1ac8f5cca4",
+      "title": "Rinku Singh Father Death: पिता की ये आखिरी ख्वाहिश पूरी नहीं कर पाए रिंकू सिंह",
+      "link": "https://www.amarujala.com/video/india-news/emotional-story-of-rinku-singh-father-explained-2026-02-27",
+      "summary": "रिंकू सिंह के पिता खानचंद सिंह का निधन हो गया. खान चंद्र सिंह उत्तर प्रदेश के अलीगढ़ में एलपीजी गैस सिलेंडर सप्लाई करने का काम करते थे. रिंकू सिंह को उनके पिता दुल्हा बनते देखना चाहते थे।",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 01:15:48 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "2c26086976409f8b936adbcbbbbe99f2",
@@ -74817,32 +75272,6 @@
       "lang": "en"
     },
     {
-      "id": "a22cbeb86f3a76a8005db8d89e1ed604",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 27 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-27",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 01:02:21 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "a40540da5884ec01cc37994a3dd597da",
-      "title": "पढ़ें 27 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-27",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 01:01:40 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "941698f4657401e6e2f03aaf27a80b4e",
       "title": "US tax agency broke privacy law ‘approximately 42,695 times’, judge says",
       "link": "https://www.aljazeera.com/news/2026/2/27/us-tax-agency-broke-privacy-law-approximately-42695-times-judge-says?traffic_source=rss",
@@ -74892,6 +75321,19 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "4d64b7f83ed142d17881d6170c74121f",
+      "title": "BBC explains the Trump-related Epstein files the DOJ is accused of withholding",
+      "link": "https://www.bbc.com/news/videos/ckgzyvzprj4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Tom Bateman explains what Trump-Related Epstein files the Department of Justice is accused of withholding.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 00:40:37 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -86084,6 +86526,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "db287754b2e0556818a56a27282d6b3f",
+      "title": "'Now it is open war': Taliban military posts, HQs, ammo depots hit; details of Pakistan strikes on Afghanistan",
+      "link": "https://timesofindia.indiatimes.com/world/south-asia/now-it-is-open-war-taliban-military-posts-hqs-ammo-depots-hit-details-of-pakistan-strikes-on-afghanistan/articleshow/128840015.cms",
+      "summary": "Pakistan launched overnight airstrikes in Afghanistan, claiming 133 killed in retaliation for Afghan strikes that reportedly killed 55 Pakistani troops. The military escalation, involving bombing key cities and targeting Afghan military facilities, casts uncertainty over peace efforts. Both sides presented conflicting casualty figures amidst ongoing border tensions.",
+      "date": "2026-02-27",
+      "timestamp": "2026-02-27T13:30:13+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
