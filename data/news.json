@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-27T21:24:37.456379+00:00",
+  "generated_at": "2026-02-27T22:18:24.555559+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -25339,19 +25339,6 @@
       "lang": "en"
     },
     {
-      "id": "a1e03700a7ebfefb8e5c1a729e1135d1",
-      "title": "How Ghislaine Maxwell brought Bill Clinton into Epstein's orbit",
-      "link": "https://www.bbc.com/news/articles/cp85jdqdyq7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Documents in the Epstein files reveal how Maxwell nurtured the connection between the two men after Clinton left the White House.",
-      "date": "2026-02-26",
-      "timestamp": "Thu, 26 Feb 2026 22:14:56 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "653e925b1014f1b64f0b3e2702b82dbb",
       "title": "Four members of inter-State ganja smuggling gang arrested, 408 kg ganja seized",
       "link": "https://www.thehindu.com/news/national/telangana/four-members-of-inter-state-ganja-smuggling-gang-arrested-408-kg-ganja-seized/article70680999.ece",
@@ -47283,6 +47270,110 @@
       "lang": "en"
     },
     {
+      "id": "03c0aabe40ce3e66ef968603b15edec5",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-28",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 03:30:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2f5c01d7952e8cf7ede53afbeff35f94",
+      "title": "पढ़ें 28 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-28",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 03:30:21 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "282a99ff8e853444b490159b4b1adb3f",
+      "title": "Swami Avimukteshwaranand Controversy: अविमुक्तेश्वरानंद को कोर्ट से मिली राहत, समर्थकों ने मनाई होली",
+      "link": "https://www.amarujala.com/video/india-news/swami-avimukteshwaranand-controversy-court-grants-relief-to-avimukteshwaranand-supporters-celebrate-holi-2026-02-28",
+      "summary": "Swami Avimukteshwaranand Controversy: अविमुक्तेश्वरानंद को कोर्ट से मिली राहत, समर्थकों ने मनाई होली",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 03:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "4e18747f6f889b00f01113c86d62f8b1",
+      "title": "Iran designated as a state sponsor of wrongful detention, says Rubio",
+      "link": "https://www.thehindu.com/news/international/iran-designated-as-a-state-sponsor-of-wrongful-detention-says-rubio/article70686012.ece",
+      "summary": "“The ‌Iranian ⁠regime must ⁠stop taking hostages and release all Americans unjustly ​detained in ‌Iran, steps that could end this designation and associated ‌actions,” Mr. Rubio said ​in a statement.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 03:12:15 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fb0f53952a6552a585eede33648247df",
+      "title": "Odisha police’s final push to bring CPI (Maoist) insurgency to end",
+      "link": "https://www.thehindu.com/news/national/odisha/odisha-polices-final-push-to-bring-cpi-maoist-insurgency-to-end/article70684958.ece",
+      "summary": "Security forces have launched operation to nab Sukru, a State Committee Member, who is leading a small group of Left Wing Extremist in Odisha",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 02:59:45 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9d7d70af3155eb759441be2058348125",
+      "title": "Gorakhpur News: धूमधाम से मनी रंगभरी एकादशी, फूलों और गुलाल से खेली होली",
+      "link": "https://www.amarujala.com/gorakhpur/the-program-took-place-at-baba-mukteshwarnath-temple-rajghat-gorakhpur-news-c-7-gkp1062-1242844-2026-02-28",
+      "summary": "The program took place at Baba Mukteshwarnath Temple, Rajghat.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 02:58:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "d2f8ebbc2e59bddbeec9ae8a47c4ec0b",
+      "title": "Gorakhpur News: घोष कंपनी से अंबेडकर चौक तक चला अतिक्रमण हटाओ अभियान",
+      "link": "https://www.amarujala.com/gorakhpur/municipal-corporation-enforcement-team-takes-action-removes-illegal-encroachments-issues-challan-of-rs-2100-gorakhpur-news-c-7-gkp1062-1242966-2026-02-28",
+      "summary": "Municipal Corporation enforcement team takes action, removes illegal encroachments, issues challan of Rs 2100",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 02:58:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "8ebe84b11f2e443ed4e322f9cbed0492",
+      "title": "बीआरडी : दूसरे दिन हंगामा, आरोपी इंटर्न और नर्सिंग स्टाफ को ड्यूटी से रोका",
+      "link": "https://www.amarujala.com/gorakhpur/other-medical-college-employees-came-in-support-of-the-nursing-staff-gorakhpur-news-c-7-gkp1062-1243471-2026-02-28",
+      "summary": "Other medical college employees came in support of the nursing staff.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 02:57:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
       "id": "db5dfc2bd9eb5eb361d338f2acd01bc2",
       "title": "Gorakhpur News: कल से बदलेगा मौसम, चार दिन चलेंगी तेज हवाएं",
       "link": "https://www.amarujala.com/gorakhpur/surface-winds-will-blow-at-a-speed-of-20-30-kmh-gorakhpur-news-c-7-gkp1062-1243086-2026-02-28",
@@ -47423,6 +47514,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "e00b0369efad75272efe29e48d8176d3",
+      "title": "Bill Clinton denies wrongdoing at grilling on Epstein ties",
+      "link": "https://www.thehindu.com/news/international/i-saw-nothing-and-i-did-nothing-wrong-bill-clinton-testifies-to-us-congress-committee-about-epstein/article70685635.ece",
+      "summary": "Former U.S. President has acknowledged extensive interactions with Epstein but said he never visited the financier’s infamous private Caribbean island.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 02:42:26 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -47840,32 +47944,6 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
-    },
-    {
-      "id": "03c0aabe40ce3e66ef968603b15edec5",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-28",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 02:30:29 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "2f5c01d7952e8cf7ede53afbeff35f94",
-      "title": "पढ़ें 28 फरवरी के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-02-28",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 02:30:18 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "1425fab9b83d79e6f45a9d8171bad1a9",
@@ -48745,6 +48823,19 @@
       "summary": "Govt. expands mandate of FRA cells to coordinate on all policies; Odisha shuts 50 FRA cells, Chhattisgarh officials say exploring the way forward",
       "date": "2026-02-28",
       "timestamp": "Sat, 28 Feb 2026 01:28:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "89683e6d123eb37f1a8d37f3d7d86daa",
+      "title": "Japan will connect Northeast India to the Bay of Bengal: Dy Foreign Minister Horii Iwao",
+      "link": "https://www.thehindu.com/news/national/japan-will-connect-northeast-india-to-the-bay-of-bengal-dy-foreign-minister-horii-iwao/article70685390.ece",
+      "summary": "Japan will support connectivity linking Northeast India to the Bay of Bengal and the Indian Ocean. Northeast India is located in a pivotal geopolitical position as a gateway to Southeast Asia, says Horii Iwao",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 01:26:52 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -72282,19 +72373,6 @@
       "lang": "en"
     },
     {
-      "id": "e00b0369efad75272efe29e48d8176d3",
-      "title": "‘I saw nothing, and I did nothing wrong’: Bill Clinton testifies to U.S. Congress committee about Epstein",
-      "link": "https://www.thehindu.com/news/international/i-saw-nothing-and-i-did-nothing-wrong-bill-clinton-testifies-to-us-congress-committee-about-epstein/article70685635.ece",
-      "summary": "The former President’s testimony follows that of his wife, ⁠former Secretary of State Hillary Clinton, who told the House of Representatives Oversight Committee that she did not remember ever meeting Epstein and had nothing to share ‌about his sex crimes.",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 22:46:42 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ea79b9fe7becfaeae4d080b6154d164c",
       "title": "Restoration of Domakonda palace fuels weaving, literature and community life",
       "link": "https://www.thehindu.com/news/national/telangana/restoration-of-domakonda-palace-fuels-weaving-literature-and-community-life/article70684701.ece",
@@ -72646,6 +72724,19 @@
       "lang": "en"
     },
     {
+      "id": "a1e03700a7ebfefb8e5c1a729e1135d1",
+      "title": "How Ghislaine Maxwell brought Bill Clinton into Epstein's orbit",
+      "link": "https://www.bbc.com/news/articles/cp85jdqdyq7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Documents in the Epstein files reveal how Maxwell nurtured the connection between the two men after Clinton left the White House.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 21:48:24 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2d8c22a69cc2d8b8e00816eafd59a916",
       "title": "State’s first large-scale battery energy storage system to come up at Mylatti",
       "link": "https://www.thehindu.com/news/national/kerala/states-first-large-scale-battery-energy-storage-system-to-come-up-at-mylatti/article70684720.ece",
@@ -72776,6 +72867,19 @@
       "lang": "en"
     },
     {
+      "id": "b02e3ba28a419fe237e48b5bd3284b4e",
+      "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
+      "link": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Canada's AI minister will meet CEO Sam Altman next week after the suspect's ChatGPT account was not flagged to police despite internal company concerns.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 21:30:10 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "aad38bae853831a056fb37c84c368910",
       "title": "Chellanam reeling under acute drinking water crisis",
       "link": "https://www.thehindu.com/news/national/kerala/chellanam-reeling-under-acute-drinking-water-crisis/article70680450.ece",
@@ -72850,6 +72954,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "78ebbde0fcb10c28a8615ed2cb251ed5",
+      "title": "Trump suggests a ‘friendly takeover’ of Cuba amid US fuel blockade",
+      "link": "https://www.aljazeera.com/news/2026/2/27/trump-suggests-a-friendly-takeover-of-cuba-amid-us-fuel-blockade?traffic_source=rss",
+      "summary": "The Republican leader, who has sought to expand US influence across Latin America, said of Cuba: 'They want our help.'",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 21:24:01 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -73097,6 +73214,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d93fe7d60b54cff32b9336e579fd393e",
+      "title": "Ukraine claws back southern territory as Russia’s war enters fifth year",
+      "link": "https://www.aljazeera.com/news/2026/2/27/ukraine-claws-back-southern-territory-as-russias-war-enters-fifth-year?traffic_source=rss",
+      "summary": "Ukraine made limited territorial gains in December and February, highlighting weaknesses in Russian offensive ability.",
+      "date": "2026-02-27",
+      "timestamp": "Fri, 27 Feb 2026 21:00:11 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -73544,7 +73674,7 @@
     },
     {
       "id": "965ebcccd3200a3ac7d0b97c02690ebc",
-      "title": "Oman’s foreign minister meets with US’s Vance as Middle East tensions rise",
+      "title": "Oman’s foreign minister meets with US’s Vance as Iran tensions rise",
       "link": "https://www.aljazeera.com/news/2026/2/27/omans-foreign-minister-meets-with-uss-vance-as-middle-east-tensions-rise?traffic_source=rss",
       "summary": "Badr bin Hamad Al Busaidi, the key mediator in US-Iran nuclear talks, meets with JD Vance in Washington, DC.",
       "date": "2026-02-27",
@@ -75256,19 +75386,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "b02e3ba28a419fe237e48b5bd3284b4e",
-      "title": "OpenAI vows safety policy changes after Tumbler Ridge shooting",
-      "link": "https://www.bbc.com/news/articles/cr73m4x8r2lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The tech firm has been criticised for not reporting the suspect's ChatGPT account to police despite it being flagged internally due to concerns over content.",
-      "date": "2026-02-27",
-      "timestamp": "Fri, 27 Feb 2026 16:15:30 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
