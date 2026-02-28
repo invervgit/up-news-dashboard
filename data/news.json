@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-28T12:34:32.440025+00:00",
+  "generated_at": "2026-02-28T13:33:17.859791+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -47231,14 +47231,365 @@
       "lang": "en"
     },
     {
+      "id": "2dd258d501cc9b4b8c43b9f71692aaee",
+      "title": "15 injured in RTC bus and lorry collision on NH 65 bypass near Sangareddy",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/15-injured-in-rtc-bus-and-lorry-collision-on-nh-65-bypass-near-sangareddy/article70687506.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:58:08 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "aef6a13182ee04e6af87131fd1960e31",
+      "title": "Ajit Pawar plane crash: AAIB submits interim probe report, calls for stricter oversight of operations at smaller airfields",
+      "link": "https://www.thehindu.com/news/national/ajit-pawar-plane-crash-baramati-aaib-preliminary-report-dgca/article70688091.ece",
+      "summary": "The report comes exactly a month after a Learjet-45 aircraft owned by VSR Ventures crashed at Baramati airfield on January 28",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:57:55 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "42fe10103072d0bfd8979148c2a0878a",
+      "title": "Middle East airspace disruptions lead to cancellation of eight flights from Hyderabad airport",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/middle-east-airspace-disruptions-lead-to-cancellation-of-eight-flights-from-hyderabad-airport/article70688062.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:56:59 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4f2d273f3858a28a6a85edae1a1f9069",
+      "title": "Two students hurt as private school bus hits tree in Konaseema",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/two-students-hurt-as-private-school-bus-hits-tree-in-konaseema/article70687285.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:55:38 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2381a593d0c713d3f33fd1a1c0e04087",
+      "title": "Chittoor police organise ‘Palle Nidra’ initiative to strengthen community relations",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/chittoor-police-organises-palle-nidra-initiative-to-strengthen-community-relations/article70687892.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:54:31 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "14f00d545d7f36ea45237bc67fdab378",
+      "title": "बसपा MLA उमाशंकर के ठिकानों के बाद अब खदानों तक पहुंची आयकर, ड्रोन-सैटेलाइट की मदद ली",
+      "link": "https://www.livehindustan.com/uttar-pradesh/after-bsp-mla-umashankar-house-income-tax-raids-now-reach-mines-using-drones-and-satellites-201772283915021.html",
+      "summary": "यूपी में इकलौते बसपा विधायक उमाशंकर के ठिकानों के बाद अब खदानों तक आयकर पहुंची है। पहली बार जांच में आयकर विभाग ने ड्रोन, सैटेलाइट इमेजिंग और जियो टैगिंग की मदद ली है। लखनऊ में भी एक और जगह छापा पड़ा है।",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:54:10 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ae9eb4c4b89e2e3be9bfc027249e3554",
+      "title": "Iran strikes U.S. bases: Complete list of bases under attack",
+      "link": "https://www.thehindu.com/news/international/iran-strikes-us-bases-complete-list-of-bases-under-attack/article70688056.ece",
+      "summary": "Iran struck U.S. military bases across six Middle Eastern countries after U.S.-Israel joint operation. Here’s the full list of locations targeted",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:52:19 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f61557cd1ecb8edb512ed6e43efb9e28",
+      "title": "HMWS&SB gets 3.5-acre land near Neopolis for future water supply infra",
+      "link": "https://www.thehindu.com/news/national/telangana/hmwsampsb-gets-35-acre-land-near-neopolis-for-future-water-supply-infra/article70688013.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:50:40 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8d1bd8569e826a75c1a0be4c48fc7861",
+      "title": "Screening of ‘The Kerala Story 2’ disrupted in Kottayam by DYFI protest",
+      "link": "https://www.thehindu.com/news/national/kerala/screening-of-the-kerala-story-2-disrupted-in-kottayam-by-dyfi-protest/article70687775.ece",
+      "summary": "The protesters alleged that the film misrepresented the State’s secular credentials; they urged the audience to leave the theatre and assured that their ticket money would be refunded",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:49:23 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "13caa5a7d235e10fe80ceeb8016e38b7",
+      "title": "People manhandle woman suspected to be child lifter in Belagavi",
+      "link": "https://www.thehindu.com/news/national/karnataka/people-manhandle-woman-suspected-to-be-child-lifter-in-belagavi/article70687930.ece",
+      "summary": "The crowd that saw the burkha-clad woman running with a crying child in her arms grew suspicious and caught her",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:48:38 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cac1224fef3b94255d2d8de050e9d05b",
+      "title": "साले ने जीजा के क्यों सटाकर मार दी गोली? महिला जज के पिता के मर्डर की सामने आई ये वजह",
+      "link": "https://www.livehindustan.com/uttar-pradesh/why-did-brother-in-law-shoot-his-brother-in-law-at-close-range-reason-behind-murder-woman-judge-father-in-moradabad-201772281835952.html",
+      "summary": "यूपी के मुरादाबाद में महिला जज के पिता और कारोबारी की गोली मारकर हत्या कर दी गई। घटना मस्जिद जाते समय हुई। बाइक से आए साले ने घटना को अंजाम दिया था।",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:45:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c72391c3e49536ea6090571441a3c0ab",
+      "title": "Beyond Bengaluru: Shivamogga has potential to become a hub for IT companies, opine experts",
+      "link": "https://www.thehindu.com/news/national/karnataka/beyond-bengaluru-shivamogga-has-potential-to-become-a-hub-for-it-companies-opine-experts/article70687646.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:44:06 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "088394c873de249ec8d1eb323cef1b8a",
+      "title": "768 garbage blackspots across Bengaluru to be cleared daily",
+      "link": "https://www.thehindu.com/news/national/karnataka/768-garbage-blackspots-across-bengaluru-to-be-cleared-daily/article70684195.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:43:42 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "03a370c7c0ef6c3cf16d9246a2dd4643",
-      "title": "Justice Unplugged 2026 LIVE: 'Level of intolerance after 2014 never existed in the history of India': Sibal",
+      "title": "Justice Unplugged 2026 LIVE: 'Reservation is important in judiciary,' says Karuna Nundy",
       "link": "https://www.thehindu.com/news/national/justice-unplugged-2026-the-hindu-vit-chennai-legal-education-delhi-live-updates/article70687007.ece",
       "summary": "\"Don’t say that Article 21 protects liberty and freedom, then deny bail to Sharjeel Imam,\" says Gopal Sankaranarayanan",
       "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 17:36:48 +0530",
+      "timestamp": "Sat, 28 Feb 2026 18:43:27 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "aa79d6cf014a8ce3b41ddf775652f119",
+      "title": "Iran-Israel conflict LIVE: Iran says its armed forces are 'prepared for this day'; vows to 'teach aggressors the lesson they deserve'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-usa-conflict-strikes-attack-west-asia-us-trump-live-updates-february-28-2026/article70687247.ece",
+      "summary": "\"The aim of the operation is to put an end to the threat from the Ayatollah regime in Iran,\" says Israeli PM Netanyahu; Iran has targeted U.S. military bases in Kuwait, Qatar, the UAE, and Jordan",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:42:26 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "edcf236940802ed1679e7f5bada72e58",
+      "title": "Man accused in recent rowdy-sheeter murder case, shot in the leg and arrested",
+      "link": "https://www.thehindu.com/news/national/karnataka/man-accused-in-recent-rowdy-sheeter-murder-case-shot-in-the-leg-and-arrested/article70687347.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:41:09 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d43608f10197671aca1589c1d09d889f",
+      "title": "Kerala on its toes as Iran attacks U.S. bases in West Asia; panic calls following air traffic suspension",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-on-its-toes-as-iran-attacks-us-bases-in-west-asia-panic-calls-following-air-traffic-suspension/article70687874.ece",
+      "summary": "Kerala, which has over 30 lakh overseas diaspora members in the Gulf alone, has opened help desks to assist Keralites in Bahrain, Qatar, the UAE, Saudi Arabia, Kuwait, and Israel following the conflict",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:40:37 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "64eefab76a48ba693d44bbfc26c710d2",
+      "title": "Explosion at firecracker unit: Governor, Chief Minister express shock over loss of lives",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/explosion-at-firecracker-unit-governor-chief-minister-express-shock-over-loss-of-lives/article70687895.ece",
+      "summary": "The Chief Minister instructs the authorities to extend all assistance to the injured and to the next of kin of the deceased; Deputy Chief Minister Pawan Kalyan asks officials to maintain constant surveillance on firecracker units",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:39:37 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b1de171d86db0568e43e2050311d244f",
+      "title": "Elderly man loses ₹76.65 lakh to cyber fraud",
+      "link": "https://www.thehindu.com/news/national/karnataka/elderly-man-loses-7665-lakh-to-cyber-fraud/article70687435.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:34:51 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "65dffbcb602470061ca17ba5fc3d38cb",
+      "title": "Central Railway to continue Daund-Kalaburagi special trains till July 15",
+      "link": "https://www.thehindu.com/news/national/karnataka/central-railway-to-continue-daund-kalaburagi-special-trains-till-july-15/article70687869.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:32:04 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "da4f0cf5c2ed812927b6c9de1c1f0409",
+      "title": "World holds breath as U.S., Israel strike Iran",
+      "link": "https://www.thehindu.com/news/international/world-holds-breath-as-us-israel-strike-iran/article70687884.ece",
+      "summary": "Calling on Iranians to stand up to their government, Mr. Trump added, “The hour of your freedom is at hand”;",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:26:59 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c5d20ba927cab51a811b4520d7b2f466",
+      "title": "TTD approves ₹5,456.26 crore budget for 2026-27 financial year",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ttd-approves-a-545626-crore-budget-for-2026-27-financial-year/article70687910.ece",
+      "summary": "Temple ‘hundi’ collection tops the revenue chart with an estimated income of ₹1,880 crore, an increase of ₹142 crore more than that of the 2025-26 fiscal",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:24:00 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "be35847d62209c4964adc2902f264b04",
+      "title": "Inquiry ordered into fake abortion registrations in tribal villages of Eluru district",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/inquiry-ordered-into-fake-abortion-registrations-in-tribal-villages-of-eluru-district/article70687798.ece",
+      "summary": "More than 70 suspected bogus entries detected after ITDA report flags 281 abortions in nine months; Women’s Commission cites lapses in mandatory pregnancy tests and issuance of MCP cards",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:23:09 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c6d6ab68c52286ceb90f57754118478c",
+      "title": "Yadgir ZP appoints nodal officers, sets up helplines to attend to complaints on drinking water issues",
+      "link": "https://www.thehindu.com/news/national/karnataka/yadgir-zp-appoints-nodal-officers-sets-up-helplines-to-attend-to-complaints-on-drinking-water-issues/article70687861.ece",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:22:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9129aac3643f3feb3c56e17431a65223",
+      "title": "Above-normal heatwave days likely in most parts of India during March-May: IMD",
+      "link": "https://www.thehindu.com/news/national/above-normal-heatwave-most-parts-india-march-may-imd/article70688002.ece",
+      "summary": "“No cold wave was recorded across the country during February,” the IMD said",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:16:29 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8d6bb909cf3a729f1651cc24a80d92a5",
+      "title": "Modi's Israel visit 'ill-timed', creates perception of political endorsement of military action: Congress",
+      "link": "https://www.thehindu.com/news/national/modi-israel-visit-congress-political-endorsement-of-military-action/article70687912.ece",
+      "summary": "It also said it risks conveying alignment with and endorsement of an incumbent government ahead of national elections",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:14:09 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0d0c4eca1dc6d610948b8ab96211bbcb",
+      "title": "India-U.S. trade deal will destroy Indian farmers: Rahul Gandhi",
+      "link": "https://www.thehindu.com/news/national/india-us-trade-deal-will-destroy-indian-farmers-rahul-gandhi/article70687554.ece",
+      "summary": "“PM Modi gave a guarantee to U.S. President Donald Trump that every year India will buy U.S. products worth ₹9 lakh crore,” says Rahul Gandhi",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:13:02 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9b71c920b63313a2878dfd292035c562",
+      "title": "West Bengal’s voter count in post-SIR rolls at 7.04 crore after deletions, additions; about 60 lakh ‘under adjudication’",
+      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-post-sir-phased-publication-of-electoral-rolls-eci-bankura/article70687298.ece",
+      "summary": "The number of electors before the SIR was about 7.66 crore, CEO Manoj Agarwal said",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 18:04:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -47322,19 +47673,6 @@
       "lang": "en"
     },
     {
-      "id": "aa79d6cf014a8ce3b41ddf775652f119",
-      "title": "Iran-Israel conflict LIVE: 40 killed in U.S.-Israeli attack on girls' school in southern Iran, IRNA news agency reports",
-      "link": "https://www.thehindu.com/news/international/iran-israel-usa-conflict-strikes-attack-west-asia-us-trump-live-updates-february-28-2026/article70687247.ece",
-      "summary": "UAE, Bahrain, Qatar temporarily close airspace as explosions ring out; Air India, IndiGo cancel all flights to West Asia; Trump urges uprising against Iranian regime",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 17:25:29 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "fb98184ac75e7725b9575077896da161",
       "title": "OPEC+ may consider larger oil output boost, sources say after Israel-U.S. strikes on Iran",
       "link": "https://www.thehindu.com/news/international/opec-may-consider-larger-oil-output-boost-sources-say-after-israel-us-strikes-on-iran/article70687842.ece",
@@ -47343,19 +47681,6 @@
       "timestamp": "Sat, 28 Feb 2026 17:21:51 +0530",
       "section": "International",
       "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "8d1bd8569e826a75c1a0be4c48fc7861",
-      "title": "Screening of ‘The Kerala Story 2’ disrupted in Kottayam by DYFI protest",
-      "link": "https://www.thehindu.com/news/national/kerala/screening-of-the-kerala-story-2-disrupted-in-kottayam-by-dyfi-protest/article70687775.ece",
-      "summary": "The protesters alleged that the film misrepresented the State’s secular credentials; they urged the audience to leave the theatre and assured that their ticket money would be refunded",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 17:07:29 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -47668,19 +47993,6 @@
       "timestamp": "Sat, 28 Feb 2026 16:05:37 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "0d0c4eca1dc6d610948b8ab96211bbcb",
-      "title": "India-U.S. trade deal will destroy Indian farmers: Rahul Gandhi",
-      "link": "https://www.thehindu.com/news/national/india-us-trade-deal-will-destroy-indian-farmers-rahul-gandhi/article70687554.ece",
-      "summary": "“PM Modi gave a guarantee to U.S. President Donald Trump that every year India will buy U.S. products worth ₹9 lakh crore,” says Rahul Gandhi",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 16:05:32 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -48154,6 +48466,19 @@
       "lang": "en"
     },
     {
+      "id": "b6a70eddecd847745e9507289003c839",
+      "title": "UP Evening Wrap:US, Israel attack Iran; over 50 Iranian students killed; Chargesheet against Dr. Rameez at KGMU more",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/uttar-pradesh-evening-wrap-28022026-us-israel-joint-attack-iran-chargesheet-dr-rameez-kgmu-137321377.html",
+      "summary": "Bhaskar English brings you the biggest news updates from Uttar Pradesh and around the world. Here are the top headlines: 1. US, Israel attack Iran; over 50 Iranian students killed Israel struck multiple Iranian cities, including Tehran, on Saturday morning. According to IRNA, over 50 female students were killed and several were injured in southern Iran. In retaliation, Iran launched counterattacks, reportedly firing around 400 missiles at Israel, escalating tensions between the two nations. 2. Chargesheet against Dr. Rameez at KGMU Lucknow police file an 800-page chargesheet against Dr Rameezuddin Nayak and three others, citing obscene videos, victim statements and forensic evidence. He is accused of sexual assault, forced abortion and pressuring women for religious conversion. 3. Slogans raised against former Deputy CM: Brahmin community halts Lucknow address BJP and Congress leaders came together on the same stage in Lucknow today. The Brahmin community organised an intellectual gathering at the Indira Gandhi Foundation. During this, Brahmin leaders from all parties were invited. 4. Blast at Andhra Pradesh firecracker factory kills 20 A blast occurred at a cracker-making unit in Vetlapalem village, Kakinada district, Andhra Pradesh, on Saturday. The accident killed 20 people and left several others critically injured. 5. Rinku Singh’s father’s last words move fans Cricketer Rinku Singh’s father, Khanchand, passed away after urging his son to play bravely and with dedication. His emotional message from a Noida hospital has deeply touched family members and supporters. 6. ₹12-crore Lamborghini released on ₹8-crore bond A luxury car accused of injuring six people is released from a police station after a Kanpur court accepts a bond of over ₹8 crore. The vehicle was taken away on a truck at midnight. 7. EC releases WB final voter list after SIR The final electoral roll has been published in the Hooghly district of West Bengal. According to district administration sources, the number of voters has decreased by nearly 16,000 in the final list compared to the draft roll. 8. YouTuber stabbed 14 times at Ghaziabad home Masked attackers stormed YouTuber Salim Vastik’s house and stabbed him repeatedly, leaving him seriously injured. The assailants fled the scene, and police have launched an investigation. 9. Constable assaults devotee at Kashi Vishwanath temple Police personnel allegedly slapped a young devotee and pulled his hair at the temple premises, barring him from darshan. A female journalist present at the site also reported harassment during the incident. 10. Delhi liquor industry sees strong growth, earns over ₹8,250 cr in FY25 The liquor industry in Delhi is growing rapidly and remains a major source of income for the government. In the financial year 2024–25 (FY25), it generated more than ₹8,250 crore in excise revenue.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 13:25:00 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "f5e78ca4a68a90d28b73c07c0abbfa53",
       "title": "UP IAS: देवेश चतुर्वेदी समेत यूपी कॉडर के 4 आईएएस आज हो जाएंगे रिटायर, इनके हुए तबादले",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-ias-devesh-chaturvedi-along-with-four-other-ias-officers-of-up-cadre-retire-today-while-3-ias-3-pcs-transferred-201772264666753.html",
@@ -48164,19 +48489,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "9b71c920b63313a2878dfd292035c562",
-      "title": "ECI begins phased publication of post-SIR rolls in West Bengal; 1.18 lakh names deleted in Bankura",
-      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-post-sir-phased-publication-of-electoral-rolls-eci-bankura/article70687298.ece",
-      "summary": "Hard copies of the updated rolls were put up in districts including Bankura and Cooch Behar, even as the lists were yet to be made available online on the designated EC portals and mobile application",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 13:18:48 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -48193,6 +48505,19 @@
       "lang": "en"
     },
     {
+      "id": "c071bbb0a6d9b78d6e0292f016493aaf",
+      "title": "Israel strikes two schools in Iran, killing more than 50 people",
+      "link": "https://www.aljazeera.com/news/2026/2/28/israel-strikes-two-schools-in-iran-killing-more-than-50-people?traffic_source=rss",
+      "summary": "State media says Israeli attack on girls' school in the city of Minab in the south of the country kills dozens.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 13:06:29 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e377f9298e485ea7bb8a5f2c0d905617",
       "title": "यूपी के जिलों में बीजेपी ने शुरू की नए पदाधिकारी बनाने की कवायद, भेजे जाएंगे पर्यवेक्षक; लिस्ट तैयार",
       "link": "https://www.livehindustan.com/uttar-pradesh/bjp-begins-process-to-appoint-new-office-bearers-in-up-districts-will-send-observers-list-ready-201772261444842.html",
@@ -48203,6 +48528,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "30587bc19f87fee00b55b0165dc1693c",
+      "title": "At least 20 killed after military plane carrying banknotes crashes in Bolivia",
+      "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
+      "summary": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 13:00:39 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -48281,6 +48619,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "413938ef9e07cc7cdaab0283cc5ea70c",
+      "title": "India vs West Indies: T20 World Cup Super Eights – teams, start, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/2/28/india-vs-west-indies-t20-world-cup-super-eights-teams-start-lineups?traffic_source=rss",
+      "summary": "Defending champions India will face fellow record winners West Indies for a place in the semifinals of the 2026 edition.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 12:53:52 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -48401,6 +48752,32 @@
       "lang": "en"
     },
     {
+      "id": "c7b0ba471c081cbb5bf11c57902830e1",
+      "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
+      "link": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
+      "summary": "Huge plumes of black smoke were seen rising from an area near the headquarters of the US Navy's Fifth Fleet in Manama, Bahrain.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 12:41:49 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ce0e2312fb36c478ea9fcbb953243a6",
+      "title": "LIVE: Barcelona vs Villarreal – La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/2/28/live-barcelona-vs-villarreal-la-liga?traffic_source=rss",
+      "summary": "Follow the build-up, analysis and live text commentary of the game as league leaders Barca host third-placed Villarreal.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 12:40:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f494cd75e3fb2d05fc5685b1af81d253",
       "title": "UP: 'सात साल से था अफेयर, रिश्ता होते ही बदल गई प्रेमिका', सोशल मीडिया पर डीएम के नाम छोड़ा पत्र; फिर दी जान",
       "link": "https://www.amarujala.com/uttar-pradesh/hapur/young-man-accused-of-cheating-on-his-girlfriend-commits-suicide-in-hapur-2026-02-28",
@@ -48424,6 +48801,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "640efd1b922a02bd2d980d1226ed3349",
+      "title": "Israeli defence system intercepts Iranian missiles over Haifa",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/israeli-defence-system-intercepts-iranian-missiles-over-haifa?traffic_source=rss",
+      "summary": "Israeli air defence systems intercepted Iranian missiles over Haifa, as they retaliated for US-Israeli attacks on Iran.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 12:34:25 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -48661,19 +49051,6 @@
       "lang": "en"
     },
     {
-      "id": "c7b0ba471c081cbb5bf11c57902830e1",
-      "title": "Iran says it has hit US base in Bahrain, as it launches strikes across region",
-      "link": "https://www.bbc.com/news/articles/c204px4zddro?at_medium=RSS&at_campaign=rss",
-      "summary": "Huge plumes of black smoke were seen rising from an area near the headquarters of the US Navy's Fifth Fleet in Manama, Bahrain.",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 12:12:01 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "eccb608d367dac1bab0b432317223d36",
       "title": "पश्चिम बंगाल में SIR के बाद मतदाता सूची: कई जिलों में हार्ड कॉपी जारी, कट सकते हैं इतने लाख मतदाताओं के नाम",
       "link": "https://www.amarujala.com/india-news/west-bengal-voter-list-released-after-sir-find-out-how-many-voters-names-have-been-deleted-2026-02-28",
@@ -48736,6 +49113,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "f6159e46687efe659124d2d6b733b49a",
+      "title": "Al Jazeera reporter on the streets of Tehran as missiles hit the city",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/al-jazeera-reporter-on-the-streets-of-tehran-as-missiles-hit-the-city?traffic_source=rss",
+      "summary": "Missiles fired by the US and Israel have struck multiple targets in the Iranian capital Tehran.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 12:07:38 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -49130,7 +49520,7 @@
     },
     {
       "id": "9629cb5f7709181577a48ccbfa55582d",
-      "title": "Multiple Gulf Arab states that host US assets targeted in Iran retaliation",
+      "title": "Multiple Arab states that host US assets targeted in Iran retaliation",
       "link": "https://www.aljazeera.com/news/2026/2/28/multiple-gulf-arab-states-that-host-us-assets-targeted-in-iran-retaliation?traffic_source=rss",
       "summary": "Iran confirms targeting US bases across the Middle East.",
       "date": "2026-02-28",
@@ -50520,6 +50910,32 @@
       "lang": "en"
     },
     {
+      "id": "3138f8d70bae4c82d73cc5e367178860",
+      "title": "UP: मनबढ़ ने 45 दिन पहले स्कूटी फूंकी, अब चाय की दुकान में लगाई आग; चाय विक्रेता ने पुलिस को दी थी सूचना",
+      "link": "https://www.amarujala.com/uttar-pradesh/chandauli/rowdy-set-scooter-on-fire-and-then-set-tea-stall-on-fire-tea-vendor-had-informed-chandauli-police-2026-02-28",
+      "summary": "मुगलसराय कोतवाली क्षेत्र अंतर्गत पीडीडीयू नगर में एक मनबढ़ की हरकतों से चाय विक्रेता और उसका पूरा परिवार दहशत में आ गया है।",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 07:01:59 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "03c0aabe40ce3e66ef968603b15edec5",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 फ़रवरी के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-28",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 07:01:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "6b87edfeb73361de17d601ecc9b88512",
       "title": "Israel launches what it calls a ‘preventative’ attack against Iran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/2/28/israel-launches-what-it-calls-a-preventative-attack-against-iran?traffic_source=rss",
@@ -50546,6 +50962,71 @@
       "lang": "en"
     },
     {
+      "id": "b8bae65d43f9fb135ee177f35df72fe0",
+      "title": "लखनऊ के विक्रांतखंड में रोटरी क्लब की ओर से प्री होली पार्टी सेलिब्रेशन का आयोजन",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ka-vakaratakhada-ma-ratara-kalb-ka-ora-sa-para-hal-parata-salbrashana-ka-aayajana-2026-02-28",
+      "summary": "लखनऊ के विक्रांतखंड में रोटरी क्लब की ओर से प्री होली पार्टी सेलिब्रेशन का आयोजन",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:58:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "a9c3259420e5f5b2ee723e20cfe55388",
+      "title": "लखनऊ में वंदे मातरम के 150वें वर्ष पर उत्सव का आयोजन",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-vatha-matarama-ka-150va-varashha-para-utasava-ka-aayajana-2026-02-28",
+      "summary": "लखनऊ में वंदे मातरम के 150वें वर्ष पर उत्सव का आयोजन",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:58:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "cfd68eca4318c5032d44d9b3a42c0379",
+      "title": "लखनऊ में होली पार्टी का आयोजन",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-hal-parata-ka-aayajana-2026-02-28",
+      "summary": "लखनऊ में होली पार्टी का आयोजन",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:58:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "3092827550992d08bf1f89a46a5ae663",
+      "title": "लखनऊ में रोजा इफ्तार पार्टी का आयोजन",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-raja-ifatara-parata-ka-aayajana-2026-02-28",
+      "summary": "लखनऊ में रोजा इफ्तार पार्टी का आयोजन",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:58:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "8af93412936f77a47932c6c296eb8993",
+      "title": "लखनऊ में प्री होली रंग दे गुलाल मोहे कार्यक्रम का आयोजन",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-para-hal-raga-tha-gall-maha-karayakarama-ka-aayajana-2026-02-28",
+      "summary": "लखनऊ में प्री होली रंग दे गुलाल मोहे कार्यक्रम का आयोजन",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:58:19 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "48cc6db5aba227bc0fe33de71573eacf",
       "title": "UP Weather: फरवरी में गर्मी ने छुड़ाए पसीने, तेजी से बढ़ रहा तापमान 33 डिग्री के पार",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-weather-report-today-imd-predicts-early-summer-with-temperature-increase-hot-sunny-day-201772240746810.html",
@@ -50556,6 +51037,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "4ee36c659228c2f56a07fcf22da2ef70",
+      "title": "Noida News: हाईटेक पिचकारियों की मांग, रंग खरीदते वक्त चेहरे की भी चिंता",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/demand-for-rafale-sprayers-concern-about-face-while-buying-paint-noida-news-c-23-1-lko1064-88960-2026-02-28",
+      "summary": "Demand for Rafale sprayers, concern about face while buying paint",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:48:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -50572,6 +51066,19 @@
       "lang": "en"
     },
     {
+      "id": "a04e14d37ff3eaec24739aa031c5e4f1",
+      "title": "UP News: पीडीडीयू जंक्शन पर बरामद हुए 1.75 करोड़ कैश, दो गिरफ्तार; बंगाल चुनाव में खपाने की चर्चा",
+      "link": "https://www.amarujala.com/uttar-pradesh/chandauli/cash-seized-at-puducherry-junction-two-arrested-rumours-suggest-it-could-be-used-for-bengal-elections-2026-02-28",
+      "summary": "जीआरपी और आरपीएफ की संयुक्त टीम ने शुक्रवार की रात स्थानीय रेलवे स्टेशन पर चेकिंग के दौरान अकाल तख्त एक्सप्रेस ट्रेन से 1.75 करोड़ रुपये नकद बरामद किए।",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:45:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "4e5daa4bcf6e87267bc386bc392674f1",
       "title": "Varanasi woman ends life citing in-laws’ torture:Bank manager husband absconds, FIR lodged against 10 relatives",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/varanasi-woman-suicide-bank-manager-husband-relatives-torture-137319846.html",
@@ -50583,6 +51090,32 @@
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "35ea109eefd05e33ce1d66e9c3640a21",
+      "title": "गुजरात में SIR विवाद को लेकर सरकार पर क्या आरोप लगे?: विधानसभा में विपक्ष ने भाजपा को घेरा, EC पर उठाए सवाल",
+      "link": "https://www.amarujala.com/india-news/gujarat-assembly-debate-over-sir-voter-list-revision-electoral-rolls-form-7-controversy-congress-aap-protest-2026-02-28",
+      "summary": "गुजरात में SIR विवाद को लेकर सरकार पर क्या आरोप लगे?: विधानसभा में विपक्ष ने भाजपा को घेरा, EC पर उठाए सवाल",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:38:58 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "7e7e7c0b36dfdac5d24822ce6aed8601",
+      "title": "Baramati Plane Crash: अजित पवार विमान हादसे पर AAIB की प्रारंभिक रिपोर्ट जारी; दुर्घटना में पांच की हुई थी मौत",
+      "link": "https://www.amarujala.com/india-news/maharashtra-baramati-plane-crash-aaib-preliminary-report-aircraft-accident-probe-agency-findings-hindi-updates-2026-02-28",
+      "summary": "Baramati Plane Crash: अजित पवार विमान हादसे पर AAIB की प्रारंभिक रिपोर्ट जारी; दुर्घटना में पांच की हुई थी मौत",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:37:59 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "2b40a4f6b17f4032d7d86a7e4e9a9bef",
@@ -50598,6 +51131,19 @@
       "lang": "en"
     },
     {
+      "id": "db4cc4e82bc0c9193b8642a86e82ea36",
+      "title": "Noida News: चार के खिलाफ एफआईआर",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/fir-against-four-grnoida-news-c-23-1-lko1064-88952-2026-02-28",
+      "summary": "FIR against four",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:37:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "81213e775a725e4d08a605f5f4877aa7",
       "title": "थाने के बाहर दो लड़कियों का हाईवोल्टेज ड्रामा, सरेआम किया प्यार का इजहार, बोलीं- हमने शादी कर ली है...",
       "link": "https://www.livehindustan.com/uttar-pradesh/two-lesbian-girls-confessed-their-love-to-firozabad-police-and-insisted-on-living-together-201772239659035.html",
@@ -50607,6 +51153,19 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d991aa7bf34114b34c10ff48fdc956c7",
+      "title": "Banda: पैर में पोकलैंड चढ़ाने की रंजिश में गोली मारकर की थी हत्या, आरोपी गिरफ्तार",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/banda-murder-by-shooting-due-to-a-dispute-over-pokland-being-inserted-in-the-leg-accused-arrested-2026-02-28",
+      "summary": "कोलावल खदान में पोकलैंड ऑपरेटर की पैर में पोकलैंड चढ़ाने की रंजिश के चलते गोली मारकर हत्या की गई थी। हत्यारोपी खदान कर्मी ने इस घटना को अंजाम दिया था। पुलिस ने तकनीकी साक्ष्यों, भौतिक सत्यापन के बाद आरोपी को गिरफ्तार किया है।",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:35:09 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -50650,6 +51209,32 @@
       "lang": "hi"
     },
     {
+      "id": "aa96e15b6c19c5e2df361f6090994f8e",
+      "title": "Baghpat: 'तेरे बाप का ऑफिस नहीं है ये', नगर पालिका में ईओ ने की सभासद से तू-तड़ाक, देखते रहे चेयरमैन",
+      "link": "https://www.amarujala.com/uttar-pradesh/baghpat/baghpat-eo-told-the-councilor-in-the-municipality-this-is-not-your-father-s-office-you-kept-on-snapping-t-2026-02-28",
+      "summary": "आउटसोर्सिंग कर्मचारियों को तीन माह से वेतन नहीं मिला है। वेतन की मांग को लेकर सभासद संजय रुहेल कर्मचारियों को लेकर धरने पर बैठ गए। ईओ केके भड़ाना गुस्से में आए और सबके सामने सभासद के साथ अभद्रता की।",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:28:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "6acbc3680989b913f2e28dbe36f63efa",
+      "title": "UP: बेपटरी सफाई व्यवस्था...बोर्ड की बैठक में सभासदों का हंगामा, सफाई नहीं होने का लगाया आरोप; ऐसे शांत हुए",
+      "link": "https://www.amarujala.com/uttar-pradesh/chandauli/derailed-sanitation-system-councilors-create-ruckus-at-board-meeting-allege-lack-of-cleanliness-2026-02-28",
+      "summary": "नगर पालिका कार्यालय परिसर स्थित सभागार में आयोजित जनप्रतिनिधि बोर्ड की बैठक में सभासद शहर में गंदगी को लेकर मुखर रहे। बैठक में उपस्थित सभी सभासदों ने एक साथ मिलकर गंदगी के मुद्दे पर अधिकारियों को घेरा।",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:27:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "6594ed295257bf6e3c7fc06c813b2b45",
       "title": "UP: भगोड़े राशिद नसीम पर सात साल में 127 प्राथमिकी, सस्ते प्लॉट और आकर्षक स्कीम का लालच दे करता था ठगी",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/fugitive-rashid-naseem-faces-127-firs-in-seven-years-cheat-people-luring-cheap-plots-attractive-schemes-2026-02-28",
@@ -50660,6 +51245,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "2ec1b6335da846cfd9e12e79daa847df",
+      "title": "Noida News: विज्ञान, चित्रकला व सामान्य ज्ञान प्रतियोगिता हुई",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/science-painting-and-general-knowledge-competitions-were-held-grnoida-news-c-23-1-lko1064-88956-2026-02-28",
+      "summary": "Science, painting and general knowledge competitions were held",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:24:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -50728,6 +51326,19 @@
       "lang": "hi"
     },
     {
+      "id": "9ffee85a1898160c067fbd2f4d8a6b4e",
+      "title": "Noida News: फिजियोथेरेपी शिविर का आयोजन",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/organizing-physiotherapy-camps-grnoida-news-c-23-1-lko1064-88951-2026-02-28",
+      "summary": "Organizing physiotherapy camps",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:15:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "614b795ed81ac9e10fb41e601b076ff4",
       "title": "यूपी के खजाने में बढ़ोतरी, फरवरी तक 1.96 लाख करोड़ से अधिक का प्राप्त हुआ रेवेन्यू कलेक्शन",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-revenue-collection-till-february-was-over-rs-1-lakh-96-thousand-crore-201772239132853.html",
@@ -50754,6 +51365,19 @@
       "lang": "hi"
     },
     {
+      "id": "19359c9b76b7dd716a7897d10c915e03",
+      "title": "Noida News: गौड़ पूर्णिमा महोत्सव आज से",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/gaud-purnima-festival-starts-today-grnoida-news-c-23-1-lko1064-88969-2026-02-28",
+      "summary": "Gaud Purnima festival starts today",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:13:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "60cd6b4572d1dcec879bfb1ca2f22b94",
       "title": "आज खुले रहेंगे बैंक: सोमवार से तीन दिन तक छुट्टी, चार मार्च को BHU, ट्रॉमा सेंटर की OPD और सर्जरी रहेगी बंद",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/banks-open-today-holidays-observed-for-three-days-starting-monday-opd-and-surgery-services-at-bhu-2026-02-27",
@@ -50764,6 +51388,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "ba8a007747c907fe71a04f3ad71d8eab",
+      "title": "Noida News: दावत-ए-जीबीयू का आयोजन",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/organising-daawat-e-gbu-grnoida-news-c-23-1-lko1064-88968-2026-02-28",
+      "summary": "Organising Daawat-e-GBU",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:11:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -50780,6 +51417,32 @@
       "lang": "en"
     },
     {
+      "id": "bb7a284abe4649a8dd21927ae31c05d0",
+      "title": "काशी विश्वनाथ धाम में रंगोत्सव, दर्शन को उमड़े भक्त; VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-rangotsav-at-kashi-vishwanath-dham-devotees-flock-to-see-festival-2026-02-28",
+      "summary": "काशी विश्वनाथ धाम में रंगोत्सव, दर्शन को उमड़े भक्त; VIDEO",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:09:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "e11adba27995dcaf3a4d9148c9236454",
+      "title": "Noida News: साइबर सुरक्षा व एआई की जानकारी दी",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/information-on-cyber-security-and-ai-grnoida-news-c-23-1-lko1064-88958-2026-02-28",
+      "summary": "Information on cyber security and AI",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:09:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "58602728aea381946dabcfb17c2af305",
       "title": "Varanasi News Today: युवक से 19,500 रुपये की साइबर ठगी, थानेदार लाइन हाजिर, शिवपुर थाना प्रभारी हटे; खबरें",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-news-today-youth-cyber-cheated-of-19-500-sho-on-line-duty-shivpur-police-station-in-charge-removed-2026-02-28",
@@ -50791,6 +51454,19 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
+    },
+    {
+      "id": "f691e0c9c88b0f86ac2fa07b55f4bde4",
+      "title": "ED: डेवलपर्स ने एक ही जमीन कई खरीदारों को बेची, रजिस्ट्री कराने का झूठा वादा, 14.63 करोड़ की आपराधिक आय",
+      "link": "https://www.amarujala.com/india-news/ed-developers-sold-the-same-land-to-multiple-buyers-criminal-proceeds-of-rs-14-63-crore-2026-02-28",
+      "summary": "साई सूर्या डेवलपर्स के सतीश चंद्र गुप्ता ने एक ही जमीन कई निवेशकों को बेचकर 14.63 करोड़ ठगे। ईडी ने पीएमएलए तहत संपत्तियां जब्त कर मनी लॉन्ड्रिंग जांच शुरू की।",
+      "date": "2026-02-28",
+      "timestamp": "Sat, 28 Feb 2026 06:06:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "6acc5c59633da978772788b46476c863",
@@ -50806,19 +51482,6 @@
       "lang": "en"
     },
     {
-      "id": "03c0aabe40ce3e66ef968603b15edec5",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 फ़रवरी के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-02-28",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 06:02:07 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "4cd304c542d744b6ca30e7aef37ed7f3",
       "title": "How credible are the sexual harassment allegations against Shankaracharya?:Lawyer questions lone witness, highlights age contradiction",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/allahabad-hc-stays-shankaracharya-arrest-sexual-harassment-prayagraj-137319652.html",
@@ -50829,19 +51492,6 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "30587bc19f87fee00b55b0165dc1693c",
-      "title": "At least 15 killed after military plane carrying banknotes crashes in Bolivia",
-      "link": "https://www.bbc.com/news/articles/c0rjpxxpp49o?at_medium=RSS&at_campaign=rss",
-      "summary": "Police fire tear gas to disperse crowds allegedly trying to take banknotes from the crash site.",
-      "date": "2026-02-28",
-      "timestamp": "Sat, 28 Feb 2026 06:01:03 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -50924,7 +51574,7 @@
     },
     {
       "id": "16e9473575c11f3ff37c524dc492bfdb",
-      "title": "West Bengal SIR: बंगाल में कटे 5.46 लाख वोटर्स के नाम, निर्वाचन आयोग के आंकड़े जारी; नई सूची में 70.45+ मतदाता",
+      "title": "West Bengal SIR: बंगाल में कटे 5.46 लाख वोटर्स के नाम, ECI के आंकड़े जारी; नई सूची में 7.04 करोड़+ मतदाता",
       "link": "https://www.amarujala.com/india-news/west-bengal-sir-5-lakh-plus-voters-deleted-election-commission-hindi-news-updates-current-list-70-lac-voters-2026-02-28",
       "summary": "West Bengal SIR: बंगाल में कटे 5.46 लाख वोटर्स के नाम, निर्वाचन आयोग के आंकड़े जारी; नई सूची में 70.45+ मतदाता",
       "date": "2026-02-28",
@@ -51444,7 +52094,7 @@
     },
     {
       "id": "7f1c4b46241bd66c417b1012523db50b",
-      "title": "Andhra Pradesh Explosion: आंध्र प्रदेश पटाखा फैक्टरी धमाके में 18 लोग हताहत, छह की हालत गंभीर; रेस्क्यू जारी",
+      "title": "Andhra Pradesh Explosion: आंध्र प्रदेश पटाखा फैक्टरी धमाके में 21 लोगों की मौत, आठ लोगों की हालत गंभीर",
       "link": "https://www.amarujala.com/india-news/andhra-pradesh-firecracker-unit-blast-casualties-rescue-operation-hindi-news-updates-2026-02-28",
       "summary": "Andhra Pradesh Explosion: आंध्र प्रदेश पटाखा फैक्टरी धमाके में 18 लोग हताहत, छह की हालत गंभीर; रेस्क्यू जारी",
       "date": "2026-02-28",
@@ -88675,6 +89325,45 @@
       "lang": "en"
     },
     {
+      "id": "e16db9aae1dc70e8dfaef9306067d968",
+      "title": "Pakistani refugee who returned home six times secures chance to keep Canadian status",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/marriage-birth-of-child-deaths-of-parents-pakistani-refugee-who-returned-home-six-times-secures-chance-to-keep-canadian-status/articleshow/128885288.cms",
+      "summary": "",
+      "date": "2026-02-28",
+      "timestamp": "2026-02-28T18:49:21+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "75d2f6aca1e10087a7d137828dd9cf84",
+      "title": "‘Gotta get out of here’: American reacts to Iranian attack on naval base in Bahrain — watch",
+      "link": "https://timesofindia.indiatimes.com/world/us/gotta-get-out-of-here-american-reacts-to-iranian-attack-on-naval-base-in-bahrain-watch/articleshow/128884770.cms",
+      "summary": "Iran launched missile strikes targeting the US Navy's Fifth Fleet base in Bahrain, causing panic among residents, including Americans. Bahrain confirmed the attack as a violation of its sovereignty. This incident followed a coordinated US-Israel military operation against Iran, which reported explosions and retaliatory drone and missile launches.",
+      "date": "2026-02-28",
+      "timestamp": "2026-02-28T18:28:03+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ea939000f61192bee1f845e9614cd09f",
+      "title": "West Bengal SIR: 5.46 lakh names deleted, 1.82 lakh added in voter roll update",
+      "link": "https://timesofindia.indiatimes.com/india/west-bengal-sir-5-46-lakh-names-deleted-1-82-lakh-added-in-voter-roll-update/articleshow/128885831.cms",
+      "summary": "West Bengal's electoral rolls now list over 7.04 crore voters following a Special Intensive Revision. During this process, over 5.46 lakh names were removed, while more than 1.82 lakh new voters were added. Over 58 lakh enumeration forms were not received, and more than 60 lakh electors remain in the 'under adjudication' category but are included in the updated rolls.",
+      "date": "2026-02-28",
+      "timestamp": "2026-02-28T18:04:51+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ede73ecc0596b83860c1f4cd4a802eea",
       "title": "Evening news wrap: Middle East on boil after US-Israel strikes in Iran; Tehran hits American bases in the region & more",
       "link": "https://timesofindia.indiatimes.com/india/evening-news-wrap-middle-east-on-boil-after-us-israel-strikes-in-iran-tehran-hits-american-bases-in-the-region-more/articleshow/128884458.cms",
@@ -88845,7 +89534,7 @@
     },
     {
       "id": "6c35e163ff52be6e02197421afd7a345",
-      "title": "Israel Attack Iran Live Updates: Missiles strike US navy headquarters in Bahrain; explosions heard in Abu Dhabi",
+      "title": "Araghchi says Trump turned ‘America First’ into ‘Israel First’; 51 Iranian students killed in strikes",
       "link": "https://timesofindia.indiatimes.com/world/middle-east/israel-iran-war-news-live-udates-conflict-attack-state-of-emergency-explosions-tehran-us-ali-khamenei/liveblog/128877850.cms",
       "summary": "",
       "date": "2026-02-28",
