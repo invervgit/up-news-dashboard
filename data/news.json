@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T17:39:19.700442+00:00",
+  "generated_at": "2026-03-03T18:40:22.557769+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -12482,6 +12482,45 @@
       "lang": "en"
     },
     {
+      "id": "6d218c2ff06214d9cc379dfc03e25a68",
+      "title": "पढ़ें 4 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-04",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 12:00:49 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "69801486bc0e74e7f61c5cf16fcdf366",
+      "title": "Ancient laterite rock-cut chamber unearthed at Panayal in Kasaragod",
+      "link": "https://www.thehindu.com/news/national/kerala/ancient-laterite-rock-cut-chamber-unearthed-at-panayal-in-kasaragod/article70694853.ece",
+      "summary": "",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 00:07:29 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f3daf20bd13231d8d61c61e914d6ff37",
+      "title": "Stray dogs injure 15 people in Vemulawada",
+      "link": "https://www.thehindu.com/news/national/telangana/stray-dogs-injure-15-people-in-vemulawada/article70700659.ece",
+      "summary": "",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 00:02:05 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c58f2129d87100dd51241630336b919c",
       "title": "Asha Kirana vision care initiative reaches 1.4 crore people across State",
       "link": "https://www.thehindu.com/news/national/karnataka/asha-kirana-vision-care-initiative-reaches-14-crore-people-across-state/article70671775.ece",
@@ -24728,14 +24767,53 @@
       "lang": "en"
     },
     {
-      "id": "e6ff7104d3a2e1f2b93ec30163829e1c",
-      "title": "Gaurav Gogoi among 42 candidates in Congress first list for Assam polls",
-      "link": "https://www.thehindu.com/elections/assam-assembly/gaurav-gogoi-among-42-candidates-in-congress-first-list-for-assam-polls/article70700762.ece",
-      "summary": "Five sitting MLAs have been re-nominated, while former State party president Ripun Borah makes a comeback",
+      "id": "3f8a0736a11eca65e35306bd081426ef",
+      "title": "Three held for selling duplicate tea, detergent and mosquito repellents in Hyderabad",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/three-held-for-selling-fake-tea-detergent-and-mosquito-repellents-in-hyderabad/article70699991.ece",
+      "summary": "",
       "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 23:02:32 +0530",
+      "timestamp": "Tue, 03 Mar 2026 23:58:53 +0530",
       "section": "National",
-      "report_category": "National_Opposition",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ddb978150b4bfed5f316ffc700efed7",
+      "title": "Andhra Premier League expands to Mangalagiri and Kadapa for Season 5, first match on June 3",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-premier-league-expands-to-mangalagiri-and-kadapa-for-season-5-first-match-on-june-3/article70700054.ece",
+      "summary": "",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:55:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d5b3bff8b0bb4db9e2451195a0bb8dde",
+      "title": "Two jewellers arrested for cheating man of 101 grams of gold with false promise of high returns",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/two-jewellers-arrested-for-cheating-man-of-101-grams-of-gold-with-false-promise-of-high-returns/article70700353.ece",
+      "summary": "",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:44:53 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f99b92eb349530a4d850baa1bee9ea60",
+      "title": "Putin and Orban discuss Hungarian POWs captured fighting for Ukraine",
+      "link": "https://www.thehindu.com/news/international/putin-and-orban-discuss-hungarian-pows-captured-fighting-for-ukraine/article70700842.ece",
+      "summary": "The Russian Defence Ministry published a video last week purporting to show a dual Hungarian-Ukrainian citizen captured as a prisoner of war, alleging he had been forced to enlist in the Ukrainian army",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:44:51 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -24746,9 +24824,165 @@
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-live-updates-march-3-2026/article70697758.ece",
       "summary": "Seven injured in Israel after Iranian missiles hit central Israel, says Israeli military; Indian Embassy in Tehran issues fresh advisory; Israeli military \"unlikely\" to deploy ground forces to Iran",
       "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 23:00:37 +0530",
+      "timestamp": "Tue, 03 Mar 2026 23:44:35 +0530",
       "section": "International",
       "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ad747435cb7a268a98813ac6e7b15cae",
+      "title": "U.S.-U.K. relationship ‘not like it used to be’: Trump",
+      "link": "https://www.thehindu.com/news/international/us-uk-relationship-not-like-it-used-to-be-trump/article70699968.ece",
+      "summary": "Keir Starmer had not permitted the U.S. access to U.K. bases initially, later, permitting access for “agreed defensive purposes” only",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:41:52 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "045987d71ced7410b7cd41be66df0495",
+      "title": "NATO 'welcomes' Macron's nuclear drive",
+      "link": "https://www.thehindu.com/news/international/nato-welcomes-macrons-nuclear-drive/article70700831.ece",
+      "summary": "NATO’s nuclear deterrence relies on the United States, while France remains independent of the alliance’s nuclear planning group",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:38:06 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e6eeb9b6c3516355d83a1031665a7b69",
+      "title": "Canada PM's visit to India built strong foundation for truly renewed partnership: Modi",
+      "link": "https://www.thehindu.com/news/national/canada-pms-visit-to-india-built-strong-foundation-for-truly-renewed-partnership-modi/article70700904.ece",
+      "summary": "The Canadian Prime Minister was in India from February 27 to March 2, during which India and Canada sealed key pacts on supplies of Uranium and critical minerals and agreed to conclude a comprehensive economic partnership agreement soon.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:29:55 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a6147d3b7cb536cea5b558b1bf8670dc",
+      "title": "Paramilitary drone strike causes blackout in Sudan's El-Obeid",
+      "link": "https://www.thehindu.com/news/international/paramilitary-drone-strike-causes-blackout-in-sudans-el-obeid/article70700836.ece",
+      "summary": "North Kordofan state capital El-Obeid lies on a key crossroads that connects RSF-controlled Darfur in the west with the army-controlled east, including the capital Khartoum",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:24:11 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f17a151bed67ad66fbfc3893bdb9261f",
+      "title": "Organs of 19-year-old Kochi accident victim donated to save four lives",
+      "link": "https://www.thehindu.com/news/national/kerala/organs-of-19-year-old-kochi-accident-victim-donated-to-save-four-lives/article70700281.ece",
+      "summary": "",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:23:25 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4bd703401ce180edda5dfbc37fbaddb1",
+      "title": "योगी करेंगे अगुवाई, निकलेगी भगवान नृसिंह की रंगभरी शोभायात्रा; गोरखपुर में यूं मनेगी होली",
+      "link": "https://www.livehindustan.com/uttar-pradesh/cm-yogi-will-lead-procession-of-lord-narasimha-a-colorful-procession-will-be-held-holi-celebration-in-gorakhpur-201772559995277.html",
+      "summary": "होली पर मुख्यमंत्री योगी आदित्यनाथ की मौजूदगी गोरखपुर के रंगोत्सव को बेहद खास बनाती है। इसका माध्यम बनती है घंटाघर से श्री होलिकोत्सव समिति और राष्ट्रीय स्वयंसेवक संघ (आरएसएस) के बैनर तले निकलने वाली भगवान नृसिंह की रंगभरी शोभायात्रा। यह परंपरा दशकों से जारी है।",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:23:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "45017ea1e8368ff2a39ee4f5287344df",
+      "title": "Experts Urge Early Hearing Detection to Prevent Childhood Hearing Loss",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/experts-urge-early-hearing-detection-to-prevent-childhood-hearing-loss/article70700639.ece",
+      "summary": "World Hearing Day is observed on March 3 every year to create awareness",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:19:01 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "57040464b95e0db23291fef298481e30",
+      "title": "जालसाज को कैसे पता चला कि वहां CCTV कैमरा था ही नहीं? हॉस्पिटल संचालक से ऐसे वसूले 15 लाख",
+      "link": "https://www.livehindustan.com/uttar-pradesh/how-did-fraudster-know-there-was-no-cctv-camera-this-is-how-he-extorted-15-lakh-rupees-from-hospital-operator-201772559196501.html",
+      "summary": "इस हाईटेक अस्पताल में लगे मोतियाबिंद सर्जरी कैंप में 30 मरीजों के ऑपरेशन के बाद फैले संक्रमण में नौ मरीजों की आंख निकालनी पड़ी थी। जांच से बचने को राजेश राय कई लोगों से संपर्क कर रहे थे। इसका फायदा उठाते हुए जालसाज ने पांच दिन पहले अलग-अलग नंबरों से फोन किया।",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:13:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ad1daa00101a0cbdba1fbc6360c5766f",
+      "title": "Karnataka HC directs State government to formulate policy for accurate content management on govt. websites",
+      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-hc-directs-state-government-to-formulate-policy-for-accurate-content-management-on-govt-websites/article70700366.ece",
+      "summary": "Justice Suraj Govindaraj has issued the directions while dismissing a petition filed in 2016 by Jain International Residential School raising certain disputes over correctness of levy of water charges",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:10:31 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c27d6902916983bb53b624e8f892083d",
+      "title": "यूपी में मामूली शिकायत की जांच में पकड़ी 250 करोड़ की टैक्स चोरी, 38 बोगस फर्मों का भी खुलासा",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-kanpur-investigation-into-a-minor-complaint-uncovers-itc-theft-worth-rs-250-crore-38-bogus-firms-also-exposed-201772558955579.html",
+      "summary": "यूपी के कानपुर में मामूली शिकायत की जांच में 250 करोड़ की टैक्स चोरी पकड़ी गई। गिरोह ने 38 फर्जी फर्में खोलकर करीब 250 करोड़ रुपये की आईटीसी (इनपुट टैक्स क्रेडिट) हड़प ली।",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:10:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "94de8b01514b99289859b5c4a9d2e7a3",
+      "title": "IBC represents legislative choice to privilege speed over exhaustive judicial scrutiny: Supreme Court judgment",
+      "link": "https://www.thehindu.com/news/national/ibc-represents-legislative-choice-to-privilege-speed-over-exhaustive-judicial-scrutiny-supreme-court-judgment/article70700619.ece",
+      "summary": "‘Courts need to remain vigilant against any temptation to expand the scope of review beyond the narrow boundaries prescribed by the Insolvency and Bankruptcy Code,’ the judgment says",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:03:27 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e6ff7104d3a2e1f2b93ec30163829e1c",
+      "title": "Gaurav Gogoi among 42 candidates in Congress first list for Assam polls",
+      "link": "https://www.thehindu.com/elections/assam-assembly/gaurav-gogoi-among-42-candidates-in-congress-first-list-for-assam-polls/article70700762.ece",
+      "summary": "Five sitting MLAs have been re-nominated, while former State party president Ripun Borah makes a comeback",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 23:02:32 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -25443,19 +25677,6 @@
       "lang": "en"
     },
     {
-      "id": "3f8a0736a11eca65e35306bd081426ef",
-      "title": "Three held for selling fake tea, detergent and mosquito repellents in Hyderabad",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/three-held-for-selling-fake-tea-detergent-and-mosquito-repellents-in-hyderabad/article70699991.ece",
-      "summary": "",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 21:10:09 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e8a332a4430f54b213ee80823420a74d",
       "title": "‘Rahu-Ketu kshetram’: Srikalahasti temple remains open during lunar eclipse",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/rahu-ketu-kshetram-srikalahasti-temple-remains-open-during-lunar-eclipse/article70700355.ece",
@@ -25464,19 +25685,6 @@
       "timestamp": "Tue, 03 Mar 2026 21:10:02 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "ad747435cb7a268a98813ac6e7b15cae",
-      "title": "U.S.-U.K. relationship ‘not like it used to be’: Trump",
-      "link": "https://www.thehindu.com/news/international/us-uk-relationship-not-like-it-used-to-be-trump/article70699968.ece",
-      "summary": "Keir Starmer had not permitted the U.S. access to U.K. bases initially, later, permitting access for “agreed defensive purposes” only",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 21:07:40 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -26002,6 +26210,19 @@
       "lang": "en"
     },
     {
+      "id": "04ca5adae28dd8120a660e41994f0201",
+      "title": "Lucknow Birthday Party Shooting: जन्मदिन की पार्टी में चली गोली, छात्र की मौत; पूर्व भाजपा एमएलसी के भतीजे पर हत्या का आरोप",
+      "link": "https://www.patrika.com/lucknow-news/lucknow-birthday-party-turns-fatal-minor-dies-in-shooting-murder-case-filed-20397584",
+      "summary": "Lucknow Birthday Party Turns Fatal: लखनऊ में एक दर्दनाक घटना ने पूरे शहर को झकझोर दिया है। जन्मदिन की खुशी कुछ ही मिनटों में मातम में बदल गई, जब 13 वर्षीय छात्र उनैज की गोली लगने से मौत हो गई। इस मामले में पुलिस ने हत्या की एफआईआर दर्ज कर जांच शुरू कर दी है। घटना में आरोपी एक नाबालिग बताया जा रहा है, जो प्रदेश के उपमुख्यमंत्री ब्रजेश पाठक के रिश्तेदार का बेटा बताया जा रहा है। घटना सोमवार दोपहर की है, जब आरोपी छात्र अपने जन्मदिन के मौके पर दोस्तों के साथ जश्न मनाने निकला था। लेकिन कार में हुई कथित पार्टी के दौरान चली गोली ने एक मासूम की जिंदगी खत्म कर दी।",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 19:58:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "c3b85a791534d22e273118a05d101e11",
       "title": "Students taken on flight trip to Bengaluru for Minister’s birthday celebration",
       "link": "https://www.thehindu.com/news/national/karnataka/students-taken-on-flight-trip-to-bengaluru-for-ministers-birthday-celebration/article70699931.ece",
@@ -26049,19 +26270,6 @@
       "timestamp": "Tue, 03 Mar 2026 19:51:52 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7ddb978150b4bfed5f316ffc700efed7",
-      "title": "Andhra Premier League expands to Mangalagiri and Kadapa for Season 5, first match on June 3",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-premier-league-expands-to-mangalagiri-and-kadapa-for-season-5-first-match-on-june-3/article70700054.ece",
-      "summary": "",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 19:50:54 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -26730,6 +26938,19 @@
       "lang": "en"
     },
     {
+      "id": "9adb423de57b3e4a10a1f8acabcdaa1e",
+      "title": "उत्तर प्रदेश में गर्मी का सितम शुरू, कई जिलों में पारा 33 डिग्री के पार, ये जिला रहा सबसे ज्यादा गर्म",
+      "link": "https://www.patrika.com/lucknow-news/up-weather-update-today-mercury-crosses-33-degrees-in-many-districts-forecast-20397227",
+      "summary": "UP Weather: उत्तर प्रदेश में मौसम का मिजाज तेजी से बदल रहा है और गर्मी ने अपनी दस्तक दे दी है। प्रदेश के कई हिस्सों में अब दिन चढ़ने के साथ ही चिलचिलाती धूप और तल्खी महसूस की जा रही है। आंचलिक मौसम विज्ञान केंद्र के अनुसार, आने वाले दिनों में अधिकतम तापमान में और वृद्धि होने की संभावना है जिससे गर्मी का असर और बढ़ेगा।",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 18:51:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "f28d860503844fe7754630f64b9667cd",
       "title": "Relocation plans under way for Carpenters Colony residents, says R&B Minister",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/relocation-plans-for-carpenters-colony-residents-under-way-says-rb-minister/article70699503.ece",
@@ -26938,6 +27159,19 @@
       "lang": "en"
     },
     {
+      "id": "15d25dde30047ca9e5e603a5068a1a37",
+      "title": "Pathology Owner Murder Case : रामलीला का रावण बना असली कातिल! बेटे ने रची पिता की मौत की खौफनाक पटकथा",
+      "link": "https://www.patrika.com/lucknow-news/lucknow-murder-shock-son-scripts-fathers-killing-like-a-crime-thriller-20396866",
+      "summary": "Pathology Owner Murder Case Follow-Up: लखनऊ में हुए चर्चित वर्धमान पैथोलॉजी मालिक मानवेंद्र सिंह हत्याकांड ने अब ऐसा मोड़ ले लिया है जिसने पूरे शहर को झकझोर कर रख दिया है। पुलिस जांच में सामने आए खुलासों ने इस वारदात को सामान्य हत्या से कहीं अधिक खौफनाक और योजनाबद्ध अपराध बना दिया है। आरोप है कि बेटे अक्षत प्रताप सिंह उर्फ ‘राजा’ ने अपने ही पिता की हत्या कर ऐसी कहानी गढ़ी, जिसने शुरुआती जांच को पूरी तरह भटका दिया।",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 18:29:58 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "5d7f60d853f9841c032b9fc246cd3c41",
       "title": "One-man panel begins probe into TTD ghee-tender irregularities",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/one-man-panel-begins-probe-into-ttd-ghee-tender-irregularities/article70699461.ece",
@@ -27107,6 +27341,19 @@
       "lang": "en"
     },
     {
+      "id": "2c2cbc621bcf63d40d222f96c7b4222b",
+      "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
+      "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
+      "summary": "Markets react as the conflict in the Middle East intensifies and concerns grow over how long it will last.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 17:48:08 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0c711d7482f61f4b050361fbe396a8b5",
       "title": "DMK plays hard, now it is for AICC high command to decide: TNCC leadership",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-plays-hard-now-it-is-for-aicc-high-command-to-decide-tncc-leadership/article70699231.ece",
@@ -27146,6 +27393,19 @@
       "lang": "en"
     },
     {
+      "id": "55115ed47037f44b824456cf485b0e93",
+      "title": "LIVE: Barcelona vs Atletico Madrid – Copa del Rey semifinal, second leg",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/3/3/live-barcelona-vs-atletico-madrid-copa-del-rey-semifinal-second-leg?traffic_source=rss",
+      "summary": "Follow the build-up and live text commentary of the game as Barca attempt to come back from a 4-0 first-leg defeat.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 17:40:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "3ef971517f5fdcfaf1a970cd4b882dd7",
       "title": "कल होली पर लखनऊ में मेट्रो कितने बजे से चलेगी? यात्रियों से ये अनुरोध भी",
       "link": "https://www.livehindustan.com/uttar-pradesh/will-the-lucknow-metro-run-from-2-30-pm-on-holi-4-march-passengers-also-have-this-request-201772538945947.html",
@@ -27156,6 +27416,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d7f002debc776c189c5eb7887c0cec3d",
+      "title": "Trump contradicts Rubio, says Israel didn’t force him to launch war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/trump-contradicts-rubio-says-israel-didnt-force-him-to-launch-war?traffic_source=rss",
+      "summary": "Donald Trump denied that Israel forced him into attacking Iran, contradicting his own Secretary of State.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 17:35:39 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -27363,19 +27636,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "2c2cbc621bcf63d40d222f96c7b4222b",
-      "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
-      "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
-      "summary": "Markets react as the conflict in the Middle East intensifies and concerns grow over how long it will last.",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 16:41:06 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -27962,19 +28222,6 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "15d25dde30047ca9e5e603a5068a1a37",
-      "title": "Pathology Owner Murder Case : रामलीला का रावण बना असली कातिल! बेटे ने रची पिता की मौत की खौफनाक पटकथा",
-      "link": "https://www.patrika.com/lucknow-news/lucknow-murder-shock-son-scripts-fathers-killing-like-a-crime-thriller-20396866",
-      "summary": "Pathology Owner Murder Case Follow-Up: लखनऊ में हुए चर्चित वर्धमान पैथोलॉजी मालिक मानवेंद्र सिंह हत्याकांड ने अब ऐसा मोड़ ले लिया है जिसने पूरे शहर को झकझोर कर रख दिया है। पुलिस जांच में सामने आए खुलासों ने इस वारदात को सामान्य हत्या से कहीं अधिक खौफनाक और योजनाबद्ध अपराध बना दिया है। आरोप है कि बेटे अक्षत प्रताप सिंह उर्फ ‘राजा’ ने अपने ही पिता की हत्या कर ऐसी कहानी गढ़ी, जिसने शुरुआती जांच को पूरी तरह भटका दिया।",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 14:45:27 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -29317,6 +29564,19 @@
       "lang": "hi"
     },
     {
+      "id": "c9eaa067f55fd59a21477e8261dc43dd",
+      "title": "पश्चिम एशिया संकट: फंसे यात्रियों की घर वापसी की तैयारी, भारत सरकार ने बनाई योजना; आज संचालित होंगी 58 उड़ानें",
+      "link": "https://www.amarujala.com/india-news/west-asia-tensions-indian-government-plans-relief-stranded-travelers-find-what-the-full-plan-is-for-4-march-2026-03-03",
+      "summary": "पश्चिम एशिया संकट: फंसे यात्रियों की घर वापसी की तैयारी, भारत सरकार ने बनाई योजना; संचालित होंगी 58 उड़ानें, West Asia tensions Indian government plans relief stranded travelers find what the full plan is for 4 march",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 11:40:16 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "e66020a5e013d981eba05c3b900f8527",
       "title": "Dubai-bound Emirates returns to Bengaluru, 42 flights cancelled on March 3, help desk set up in KIA",
       "link": "https://www.thehindu.com/news/national/karnataka/dubai-bound-emirates-returns-to-bengaluru-42-flights-cancelled-on-march-3/article70698074.ece",
@@ -29356,12 +29616,38 @@
       "lang": "en"
     },
     {
+      "id": "60e0a88d7a42cd5f74a20e8740aec257",
+      "title": "पीडीए की काट के लिए ‘दलित उपमुख्यमंत्री’ ला सकती है बीजेपी, तीसरे डिप्टी सीएम पर चर्चा तेज",
+      "link": "https://www.patrika.com/lucknow-news/up-cabinet-expansion-after-holi-new-faces-likely-deputy-cm-post-may-expand-20394702",
+      "summary": "Holi After Cabinet Expansion: उत्तर प्रदेश की राजनीति में होली के बाद बड़ा राजनीतिक बदलाव देखने को मिल सकता है। सूत्रों के अनुसार प्रदेश सरकार चुनावी रणनीति को मजबूत करने के उद्देश्य से जल्द ही मंत्रिमंडल विस्तार की तैयारी कर रही है। माना जा रहा है कि होली के बाद मुख्यमंत्री के नेतृत्व में होने वाला यह विस्तार आगामी चुनावों को ध्यान में रखते हुए संतुलन साधने वाला होगा।",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 11:32:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "d8ccabef99380aa04e231624b6db1a74",
       "title": "Kasganj: होलिका दहन को लेकर आक्रोश, अमांपुर में परंपरा तोड़ने के आरोप से गरमाया माहौल; जानें पूरा मामला",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/tension-in-amanpur-as-early-holika-ignition-sparks-protest-over-tradition-in-kasganj-2026-03-03",
       "summary": "अमांपुर के गुड़मंडी में होलिका दहन का आयोजन किया जाता है। स्थानीय लोगों का आरोप है कि पंडित गुड्डू और पंडित हरिओम ने परंपरागत समय और क्षेत्र के लोगों को सूचित किए बिना ही होलिका में आग लगा दी।",
       "date": "2026-03-03",
       "timestamp": "Tue, 03 Mar 2026 11:32:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "4671fc8fc1a955d6b9082bb6a4f9d441",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 3 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-03",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 11:30:33 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -29421,6 +29707,19 @@
       "lang": "en"
     },
     {
+      "id": "5e2af6dbcd6a46ffb757d24900c9ee2c",
+      "title": "सियासत: CM सिद्धारमैया ने की स्टालिन की सराहना, कहा- केंद्र-राज्य के बेहतर संबंध के लिए राष्ट्रीय संवाद जरूरी",
+      "link": "https://www.amarujala.com/india-news/karnataka-cm-siddaramaiah-praises-mk-stalin-backs-national-dialogue-on-centre-state-relations-2026-03-03",
+      "summary": "सियासत: CM सिद्धारमैया ने की स्टालिन की सराहना, कहा- केंद्र-राज्य के बेहतर संबंध के लिए राष्ट्रीय संवाद जरूरी, karnataka cm siddaramaiah praises mk stalin backs national dialogue on centre state relations",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 11:28:45 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "30cf3c5d1d331c3ee1e4288a19ebab92",
       "title": "Israel, the U.S. and a war to build a unipolar West Asia",
       "link": "https://www.thehindu.com/opinion/lead/israel-the-us-and-a-war-to-build-a-unipolar-west-asia/article70696555.ece",
@@ -29473,6 +29772,19 @@
       "lang": "en"
     },
     {
+      "id": "4a09962c33fe1a1284f1f513a008dbb8",
+      "title": "Gorakhpur News: होली पर स्वाद के चक्कर में न बिगाड़ें अपना स्वास्थ्य, सेहत का रखें ख्याल",
+      "link": "https://www.amarujala.com/gorakhpur/excessive-sweets-and-fried-foods-may-increase-the-risk-for-diabetes-patients-gorakhpur-news-c-7-gkp1006-1247145-2026-03-03",
+      "summary": "अधिक मिठाई और तले भोजन से मधुमेह रोगियों में बढ़ सकता है खतरा",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 11:17:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
       "id": "6394847741847dd0ffea2b91aeeb7e44",
       "title": "यूट्यूब पर बजा पीएम मोदी का डंका: छुआ 30 मिलियन सब्सक्राइबर का आंकड़ा, ट्रंप से सात गुना ज्यादा फोलोअर्स",
       "link": "https://www.amarujala.com/india-news/pm-modi-has-30-million-youtube-subscribers-seven-times-more-followers-than-trump-2026-03-03",
@@ -29512,6 +29824,19 @@
       "lang": "en"
     },
     {
+      "id": "c4fd04bac5419d2c3c070f438af23563",
+      "title": "Gorakhpur News: सीएम योगी ने की गोसेवा, खिलाया गुड़-रोटी",
+      "link": "https://www.amarujala.com/gorakhpur/during-his-stay-at-the-gorakhnath-temple-chief-minister-yogi-adityanath-visited-the-temples-cowshed-on-tuesday-morning-and-offered-cow-service-gorakhpur-news-c-7-gkp1062-1247010-2026-03-03",
+      "summary": "गोरखनाथ मंदिर प्रवास के दौरान मंगलवार सुबह मुख्यमंत्री योगी आदित्यनाथ ने मंदिर की गोशाला में जाकर गो-सेवा की",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 11:13:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
       "id": "c68467c7048e16fbee957b5d1d251abb",
       "title": "Israel army issues new evacuation warnings in Lebanon",
       "link": "https://www.thehindu.com/news/international/israel-army-issues-new-evacuation-warnings-in-lebanon/article70697979.ece",
@@ -29522,6 +29847,19 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ff0dd38779986e510c8a21516a87fa43",
+      "title": "Gorakhpur News: मुनाफे के खेल में सेहत से खिलवाड़ा...धंधेबाजों ने खपा दिए मिलावटी खोआ",
+      "link": "https://www.amarujala.com/gorakhpur/if-the-khoya-appears-very-white-or-smooth-then-understand-that-it-is-adulterated-when-heated-pure-khoya-gives-off-aroma-and-releases-ghee-gorakhpur-news-c-7-gkp1062-1246968-2026-03-03",
+      "summary": "बहुत सफेद या चिकना दिखे तो समझिए खोआ है मिलावटी, गरम करने पर शुद्ध खोआ से आता है सुगंध, छोड़ता है घी",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 11:11:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
       "lang": "en"
     },
     {
@@ -29613,19 +29951,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
-      "lang": "en"
-    },
-    {
-      "id": "4671fc8fc1a955d6b9082bb6a4f9d441",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 3 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-03",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 11:01:10 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -72165,19 +72490,6 @@
       "lang": "en"
     },
     {
-      "id": "60e0a88d7a42cd5f74a20e8740aec257",
-      "title": "Holi के बाद UP में बड़ा मंत्रिमंडल विस्तार संभव, पूजा-मनोज समेत नए चेहरों को मिल सकती है जिम्मेदारी",
-      "link": "https://www.patrika.com/lucknow-news/up-cabinet-expansion-after-holi-new-faces-likely-deputy-cm-post-may-expand-20394702",
-      "summary": "Holi After Cabinet Expansion: उत्तर प्रदेश की राजनीति में होली के बाद बड़ा राजनीतिक बदलाव देखने को मिल सकता है। सूत्रों के अनुसार प्रदेश सरकार चुनावी रणनीति को मजबूत करने के उद्देश्य से जल्द ही मंत्रिमंडल विस्तार की तैयारी कर रही है। माना जा रहा है कि होली के बाद मुख्यमंत्री के नेतृत्व में होने वाला यह विस्तार आगामी चुनावों को ध्यान में रखते हुए संतुलन साधने वाला होगा।",
-      "date": "2026-03-02",
-      "timestamp": "Mon, 02 Mar 2026 14:10:55 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
-      "lang": "en"
-    },
-    {
       "id": "e6158dcfb3756493a0b04eb3499a3c28",
       "title": "‘Outrage over US-Israel attacks on Iran may have sparked violence in Texas’",
       "link": "https://www.aljazeera.com/video/quotable/2026/3/2/outrage-over-us-israel-attacks-on-iran-may-have-sparked-violence-in?traffic_source=rss",
@@ -92181,6 +92493,19 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bdd640a1ee60e38154c97ef8dbd82b00",
+      "title": "'Everything knocked out': Trump on Iran strikes, says he 'might have forced Israel's hand'",
+      "link": "https://timesofindia.indiatimes.com/world/us/everything-knocked-out-trump-on-iran-strikes-says-he-might-have-forced-israels-hand/articleshow/128984143.cms",
+      "summary": "US President Donald Trump asserted that Iran's military capabilities have been significantly degraded, with \"everything knocked out\" following a joint operation with Israel that resulted in the death of Supreme Leader Khamenei. He suggested this action preempted an imminent Iranian attack, stating, \"I might have forced Israel's hand. He further called the Iran regime \"evil\"",
+      "date": "2026-03-03",
+      "timestamp": "2026-03-03T23:13:31+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
