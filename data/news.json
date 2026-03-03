@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T19:38:22.300102+00:00",
+  "generated_at": "2026-03-03T20:27:32.047897+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -12508,25 +12508,12 @@
       "lang": "hi"
     },
     {
-      "id": "70f74f9a133343d5e8769fc858151deb",
-      "title": "Indian airlines plan to operate 58 flights to West Asia on March 4: Govt",
-      "link": "https://www.thehindu.com/news/national/indian-airlines-plan-to-operate-58-flights-to-west-asia-on-march-4-govt/article70700968.ece",
-      "summary": "\"Indian carriers are further planning 58 flights on 4th March, including 30 by IndiGo and 23 by Air India and Air India Express,\" Civil Aviation Ministry said.",
-      "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 01:04:36 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "00d0232798efb0d01f1b3b8dfc68d99e",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 4 मार्च के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-04",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 01:01:00 +0530",
+      "timestamp": "Wed, 04 Mar 2026 01:30:28 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -12539,12 +12526,116 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-04",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 01:00:49 +0530",
+      "timestamp": "Wed, 04 Mar 2026 01:30:18 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "1478b4cd528197603900c156f3572fe3",
+      "title": "AI Summit Protest: युवा कांग्रेस अध्यक्ष उदय भानु हुए तिहाड़ से रिहा, सरकार पर बोला बड़ा हमला!",
+      "link": "https://www.amarujala.com/video/india-news/ai-summit-protest-youth-congress-president-uday-bhanu-released-from-tihar-launches-a-major-attack-on-the-gov-2026-03-04",
+      "summary": "AI Summit Protest: युवा कांग्रेस अध्यक्ष उदय भानु हुए तिहाड़ से रिहा, सरकार पर बोला बड़ा हमला!",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:29:05 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "be90b5da90206a90a45b1c13e6485b2c",
+      "title": "Election Commission set to announce poll dates for West Bengal, Tamil Nadu, Assam, Kerala, Puducherry after panel’s Bengal visit",
+      "link": "https://www.thehindu.com/elections/election-commission-set-to-announce-poll-dates-for-west-bengal-tamil-nadu-assam-kerala-puducherry-after-bengal-visit/article70699562.ece",
+      "summary": "The terms of the Assemblies in all these States end between May and June; the schedule could be announced any time after March 10 when the poll body completes its visit to West Bengal",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:24:22 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "22b66a5913e1ba1a80e59d69b418f53a",
+      "title": "4 from Chennai killed after car falls into roadside well near Gingee",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/4-from-chennai-killed-after-car-falls-into-roadside-well-near-gingee/article70698923.ece",
+      "summary": "The police said the group was returning to Chennai after visiting Tiruvananmalai for girivalam",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:19:47 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f43413eafc2d4ac51b8cbd54946b8e46",
+      "title": "Congress, DMK stand their ground, fail to seal pact",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-dmk-congress-seat-sharing-talks/article70700733.ece",
+      "summary": "Sources said the DMK raised its offer from 25 to 27 Assembly seats and one Rajya Sabha seat, while the Congress leadership is demanding 30 Assembly seats and a Rajya Sabha seat.",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:18:44 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d041e18c82448c89fff732b97b13ae81",
+      "title": "Human-animal conflict at Aralam farm: HC directs Chief Secretary to submit roadmap",
+      "link": "https://www.thehindu.com/news/national/kerala/human-animal-conflict-at-aralam-farm-hc-directs-chief-secretary-to-submit-roadmap/article70696424.ece",
+      "summary": "",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:18:24 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3539fdf5e845868fd8501d386a5df45c",
+      "title": "TVK yet to transform into political party: Karti Chidambaram",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-yet-to-transform-into-political-party-karti-chidambaram/article70699567.ece",
+      "summary": "He adds that actor’s Vijay’s outfit still operated like a “fan club” and doesn’t have “a command and control structure”",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:17:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "697b197fc7954190d0c432e20555608f",
+      "title": "Stalin thanks Siddaramaiah for Karnataka’s support to call for renewed national conversation on Union-State relations",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/stalin-thanks-siddaramaiah-for-karnatakas-support-to-call-for-renewed-national-conversation-on-union-state-relations/article70699525.ece",
+      "summary": "In a communication dated March 2, he wrote to the T.N. Chief Minister expressing Karnataka’s strong support on the issue",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:10:46 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "70f74f9a133343d5e8769fc858151deb",
+      "title": "Indian airlines plan to operate 58 flights to West Asia on March 4: Govt",
+      "link": "https://www.thehindu.com/news/national/indian-airlines-plan-to-operate-58-flights-to-west-asia-on-march-4-govt/article70700968.ece",
+      "summary": "\"Indian carriers are further planning 58 flights on 4th March, including 30 by IndiGo and 23 by Air India and Air India Express,\" Civil Aviation Ministry said.",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:04:36 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "493be8a2d3e66531f5067f3d7679fd51",
@@ -25365,19 +25456,6 @@
       "lang": "en"
     },
     {
-      "id": "f43413eafc2d4ac51b8cbd54946b8e46",
-      "title": "Congress and DMK fail to seal pact as both remain firm on seat positions",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-dmk-congress-seat-sharing-talks/article70700733.ece",
-      "summary": "DMK allots one Rajya Sabha seat to DMDK",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 22:31:39 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "14128234da28f022121e8e5e845c6132",
       "title": "Leaders call for swift action to combat rising drug crisis",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/leaders-call-for-swift-action-to-combat-rising-drug-crisis/article70700279.ece",
@@ -25698,19 +25776,6 @@
       "timestamp": "Tue, 03 Mar 2026 21:36:09 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "be90b5da90206a90a45b1c13e6485b2c",
-      "title": "ECI set to announce poll dates for West Bengal, Tamil Nadu, Assam, Kerala, Puducherry after Bengal visit",
-      "link": "https://www.thehindu.com/elections/election-commission-set-to-announce-poll-dates-for-west-bengal-tamil-nadu-assam-kerala-puducherry-after-bengal-visit/article70699562.ece",
-      "summary": "The terms of the Assemblies in all these States end between May and June; the schedule could be announced any time after March 10 when the poll body completes its visit to West Bengal",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 21:33:37 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -26249,19 +26314,6 @@
       "lang": "en"
     },
     {
-      "id": "22b66a5913e1ba1a80e59d69b418f53a",
-      "title": "4 from Chennai killed after car falls into roadside well near Gingee",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/4-from-chennai-killed-after-car-falls-into-roadside-well-near-gingee/article70698923.ece",
-      "summary": "The police said the group was returning to Chennai after visiting Tiruvananmalai for girivalam",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 20:22:35 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f28641f583637e84c5b3ad3f61252e67",
       "title": "Brahmapuram, Manakkakadavu stretches of Kadambrayar hit by high coliform levels",
       "link": "https://www.thehindu.com/news/national/kerala/brahmapuram-manakkakadavu-stretches-of-kadambrayar-hit-by-high-coliform-levels/article70700113.ece",
@@ -26379,6 +26431,19 @@
       "lang": "en"
     },
     {
+      "id": "bf32d3236b3319fd46d6e7cc059e0775",
+      "title": "Ukraine offers defence swap help to Gulf states",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/ukraine-offers-defence-swap-help-to-gulf-states?traffic_source=rss",
+      "summary": "Ukrainian President Volodymyr Zelenskyy has offered Gulf states a ‘swap’ deal to enhance defence capabilities.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 20:03:16 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b284210133f10d91c6fe5cafe8fd250d",
       "title": "Former prosecutor P.K. Haridas passes away",
       "link": "https://www.thehindu.com/news/national/kerala/former-prosecutor-pk-haridas-passes-away/article70700195.ece",
@@ -26470,6 +26535,19 @@
       "lang": "en"
     },
     {
+      "id": "1cf47c8a5914adfe6b05e01c88a4003b",
+      "title": "UK allows US to use British bases for ‘defensive strikes’ on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/uk-allows-us-to-use-british-bases-for-defensive-strikes-on-iran?traffic_source=rss",
+      "summary": "UK Prime Minister Keir Starmer has allowed the US to use British bases for so-called “defensive strikes” targeting Iran.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 19:50:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "08bac15180196401415bf7fe18dbdb7e",
       "title": "A spices route to tribal empowerment",
       "link": "https://www.thehindu.com/news/national/kerala/a-spices-route-to-tribal-empowerment/article70700004.ece",
@@ -26479,6 +26557,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "acbb396afe54b0161c418af55a9de084",
+      "title": "Trump threatens to halt trade with Spain over military base access",
+      "link": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump lashed out after Spain barred the US from using its military bases to carry out strikes on Iran.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 19:48:05 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -26557,6 +26648,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "14d5864f3316e150397f1fafee75640b",
+      "title": "Trump says Iran navy, air force destroyed, Germany ‘helping out’",
+      "link": "https://www.aljazeera.com/news/2026/3/3/trump-says-iran-navy-air-force-destroyed-germany-helping-out?traffic_source=rss",
+      "summary": "Trump contradicts Rubio by saying US attacked Iran because 'he had a feeling' Tehran would attack Washington first.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 19:38:16 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -92779,6 +92883,45 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f71f043c70201155b957e90c618d7345",
+      "title": "West Asia crisis: 38 Indian ships stuck in Persian Gulf; 3 sailors dead",
+      "link": "https://timesofindia.indiatimes.com/india/west-asia-crisis-38-indian-ships-stuck-in-persian-gulf-3-sailors-dead/articleshow/128989621.cms",
+      "summary": "Thirty-eight Indian-flagged ships, carrying crude and LNG with nearly 1,100 seafarers, are stranded in the Persian Gulf due to the West Asia conflict. Three Indian sailors died and one was injured on foreign-flagged vessels in recent attacks off Oman. Shipping authorities are prioritizing seafarer safety and maritime asset security.",
+      "date": "2026-03-03",
+      "timestamp": "2026-03-04T01:20:09+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "70ac6572209a7e594db6dd8d7321ea49",
+      "title": "'Hearts broken beyond words': Indian-origin Savitha Shan's parents breaks silence after daughter killed in Austin shooting",
+      "link": "https://timesofindia.indiatimes.com/world/us/hearts-broken-beyond-words-indian-origin-savitha-shans-parents-breaks-silence-after-daughter-killed-in-austin-shooting/articleshow/128989489.cms",
+      "summary": "",
+      "date": "2026-03-03",
+      "timestamp": "2026-03-04T01:19:05+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "43e244bcb5c67b7482c5259852b71447",
+      "title": "GoPro trail in Pahalgam terror attack leads to Chinese city, court allows NIA to seek Beijing help",
+      "link": "https://timesofindia.indiatimes.com/india/gopro-trail-in-pahalgam-terror-attack-leads-to-chinese-city-court-allows-nia-to-seek-beijing-help/articleshow/128988692.cms",
+      "summary": "NIA has requested China's assistance to identify the buyer of a GoPro camera, crucial evidence in a Lashkar-e-Taiba attack. Activated in Dongguan, China, the camera's origin is vital for tracing terrorist reconnaissance and operational links. This move highlights international cooperation efforts in combating terror.",
+      "date": "2026-03-03",
+      "timestamp": "2026-03-04T01:10:22+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
