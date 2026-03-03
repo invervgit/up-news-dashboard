@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T21:29:11.278665+00:00",
+  "generated_at": "2026-03-03T22:23:17.451212+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -12508,12 +12508,12 @@
       "lang": "hi"
     },
     {
-      "id": "b35b337b7670c11b61d581e2a674730c",
-      "title": "Fire near U.S. consulate in Dubai after drone attack: govt statement",
-      "link": "https://www.thehindu.com/news/international/fire-near-us-consulate-in-dubai-after-drone-attack-govt-statement/article70701012.ece",
-      "summary": "U.S. Secretary of State Marco Rubio confirmed the drone strike adjacent to the U.S. consulate in Dubai and said all personnel were safe",
+      "id": "4bc3fb9c520e3bf3f4e98619a8ad8a8d",
+      "title": "Macron orders France’s nuclear-powered aircraft carrier to Mediterranean",
+      "link": "https://www.thehindu.com/news/international/macron-orders-frances-nuclear-powered-aircraft-carrier-to-mediterranean/article70701126.ece",
+      "summary": "Macron said “the United States ⁠of America and Israel have decided to launch military operations; they were conducted ‌outside international law, which we cannot approve.”",
       "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 02:46:49 +0530",
+      "timestamp": "Wed, 04 Mar 2026 03:49:00 +0530",
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
@@ -12521,12 +12521,25 @@
       "lang": "en"
     },
     {
+      "id": "abc01762b86a4e6c02e2f495b3559508",
+      "title": "Delhi Holi 2026:होली पर अलर्ट मोड में पुलिस, 15 हजार जवान तैनात, ड्रोन और CCTV से होगी निगरानी",
+      "link": "https://www.amarujala.com/video/india-news/delhi-holi-2026-police-on-alert-for-holi-15-000-personnel-deployed-drones-and-cctv-surveillance-2026-03-04",
+      "summary": "Delhi Holi 2026:होली पर अलर्ट मोड में पुलिस, 15 हजार जवान तैनात, ड्रोन और CCTV से होगी निगरानी",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 03:45:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "00d0232798efb0d01f1b3b8dfc68d99e",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 4 मार्च के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-04",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 02:30:29 +0530",
+      "timestamp": "Wed, 04 Mar 2026 03:30:29 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -12539,12 +12552,77 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-04",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 02:30:18 +0530",
+      "timestamp": "Wed, 04 Mar 2026 03:30:18 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "6675b967545faac903000312df29b72d",
+      "title": "Iran-Israel war LIVE: Fire near U.S. consulate in Dubai after drone attack; all personnel are safe, says Marco Rubio",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-live-updates-march-3-2026/article70697758.ece",
+      "summary": "Seven injured in Israel after Iranian missiles hit central Israel, says Israeli military; Indian Embassy in Tehran issues fresh advisory; Israeli military \"unlikely\" to deploy ground forces to Iran",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 03:28:57 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d15131f518df34adc001d39d39943c7b",
+      "title": "US Israel Iran War: कांग्रेस सांसद इमरान मसूद ने ईरान प्रतिनिधि से की मुलाकात, जताई अपनी संवेदना!",
+      "link": "https://www.amarujala.com/video/india-news/us-israel-iran-war-congress-mp-imran-masood-met-the-iranian-representative-and-expressed-his-condolences-2026-03-04",
+      "summary": "US Israel Iran War: कांग्रेस सांसद इमरान मसूद ने ईरान प्रतिनिधि से की मुलाकात, जताई अपनी संवेदना!",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 03:25:22 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "4bd55eaf4654bf50c25703e7512e4fb4",
+      "title": "J&K Police lodge FIR against Kashmir MP Ruhullah, former Srinagar mayor Mattu",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-police-lodge-fir-against-kashmir-mp-ruhullah-former-srinagar-mayor-mattu/article70700941.ece",
+      "summary": "Junaid Azim Mattu said in a Kashmir today fellow mainstream leaders have “surrendered and sold their tongues to the BJP-led Government and chosen to sound shamefully diplomatic over the assassination of Khamenei and the brutal war on Iran and Palestine”.",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 03:05:37 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b35b337b7670c11b61d581e2a674730c",
+      "title": "Fire near U.S. consulate in Dubai after drone attack: govt statement",
+      "link": "https://www.thehindu.com/news/international/fire-near-us-consulate-in-dubai-after-drone-attack-govt-statement/article70701012.ece",
+      "summary": "U.S. Secretary of State Marco Rubio confirmed the drone strike adjacent to the U.S. consulate in Dubai and said all personnel were safe",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 02:46:49 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b333823aa88a5f4de460282f8107a097",
+      "title": "Rural jobs scheme workers flag glitches in monitoring app",
+      "link": "https://www.thehindu.com/news/national/workers-flag-glitches-in-job-scheme-app/article70699998.ece",
+      "summary": "Workers’ union Mazdoor Kisan Shakti Sangathan reports widespread failures in National Mobile Monitoring System’s facial recognition update; government officials claim that over 22 lakh workers successfully recorded their attendance using the new facial recognition feature",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 02:27:23 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "d509f15a1813bee8db4d8553b2ae5d9e",
@@ -12581,19 +12659,6 @@
       "timestamp": "Wed, 04 Mar 2026 01:58:26 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "6675b967545faac903000312df29b72d",
-      "title": "Iran-Israel war LIVE: Trump claims Iran was to attack first, not Israel",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-live-updates-march-3-2026/article70697758.ece",
-      "summary": "Seven injured in Israel after Iranian missiles hit central Israel, says Israeli military; Indian Embassy in Tehran issues fresh advisory; Israeli military \"unlikely\" to deploy ground forces to Iran",
-      "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 01:57:18 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -25586,19 +25651,6 @@
       "lang": "en"
     },
     {
-      "id": "b333823aa88a5f4de460282f8107a097",
-      "title": "Workers flag glitches in job scheme app",
-      "link": "https://www.thehindu.com/news/national/workers-flag-glitches-in-job-scheme-app/article70699998.ece",
-      "summary": "Mazdoor Kisan Shakti Sangathan reports widespread failures in National Mobile Monitoring System’s facial recognition update; the government says over 22 lakh workers successfully used the feature on Tuesday",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 22:21:52 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "66651757ed34b75c0e61c40aa91f3fce",
       "title": "Mother and Child Super Speciality Block inaugurated at Ernakulam MCH",
       "link": "https://www.thehindu.com/news/national/kerala/mother-and-child-super-speciality-block-inaugurated-at-ernakulam-mch/article70700479.ece",
@@ -25664,6 +25716,32 @@
       "lang": "en"
     },
     {
+      "id": "608a4e1a5e5c9792395c07e393e79bf5",
+      "title": "Qatar announces arrest of Iranian IRGC sleeper cells",
+      "link": "https://www.aljazeera.com/news/2026/3/3/qatar-announces-arrest-of-iranian-irgc-sleeper-cells?traffic_source=rss",
+      "summary": "This is a breaking news story.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 22:13:33 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6ccf1f02ca1e1c9ab0fad106922c7c75",
+      "title": "European allies rush to bolster Cyprus defences after drones target British base",
+      "link": "https://www.bbc.com/news/articles/c4g74npdwnyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Cypriot government suspects the Iran-backed group Hezbollah in Lebanon targeted the UK's RAF Akrotiri base in Cyprus.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 22:10:09 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8789ab89ee63b45ad9791ab333eb68c1",
       "title": "Boy lynched over suspicion of stealing goats in Odisha",
       "link": "https://www.thehindu.com/news/national/odisha/boy-lynched-over-suspicion-of-stealing-goats-in-odisha/article70700218.ece",
@@ -25725,6 +25803,32 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8252734aa113d1fa752bc76dc8a3b295",
+      "title": "Spain baulks at Trump’s threat to cut off all trade over NATO, Iran stance",
+      "link": "https://www.aljazeera.com/news/2026/3/3/spain-baulks-at-trumps-threat-to-cut-off-all-trade-over-nato-iran-stance?traffic_source=rss",
+      "summary": "The US has relocated 15 aircraft, including refuelling tankers, from military bases in southern Spain.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 22:00:46 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fb1132931045cb1a3f10f2a5d31571b7",
+      "title": "Travellers stranded, airlines under pressure as Iran war escalates",
+      "link": "https://www.aljazeera.com/economy/2026/3/3/travellers-stranded-airlines-under-pressure-as-iran-war-escalates?traffic_source=rss",
+      "summary": "Thousands are stranded as major Gulf hubs, including Dubai, remain closed or severely restricted for a fourth day.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 21:59:34 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -25820,6 +25924,19 @@
       "lang": "en"
     },
     {
+      "id": "2c2cbc621bcf63d40d222f96c7b4222b",
+      "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
+      "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
+      "summary": "Markets react as the conflict in the Middle East intensifies and concerns grow over how long it will last.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 21:44:31 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "aa24554ef85b379c93f261da7f00fb3e",
       "title": "मरीज के साथ डॉक्टर के अपाइंटमेंट के नाम पर बड़ा धोखा, ऐप डाउनलोड करा 18 लाख उड़ाए",
       "link": "https://www.livehindustan.com/uttar-pradesh/a-patient-duped-in-name-of-a-doctor-s-appointment-and-18-lakh-rupees-siphoned-off-after-he-downloaded-an-app-201772553557339.html",
@@ -25872,6 +25989,19 @@
       "lang": "en"
     },
     {
+      "id": "fea2a8b1e66295db4588e0d3451ce899",
+      "title": "Rubio says Iran was ‘playing’ US in negotiations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/rubio-says-iran-was-playing-us-in-negotiations?traffic_source=rss",
+      "summary": "US Secretary of State Marco Rubio defended joint US-Israeli strikes on Iran, saying “the world will be safer”.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 21:28:47 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "196d2e5cae6ad5c208d78a40ceb5bfd7",
       "title": "DMK allots one Rajya Sabha seat to DMDK",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-allots-one-rajya-sabha-seat-to-dmdk/article70700532.ece",
@@ -25920,6 +26050,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ce8ff325d32e6fd4f199ba523c365bd4",
+      "title": "Oman renews push for diplomacy, says ‘off-ramps available’ in Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/3/oman-calls-for-immediate-ceasefire-says-off-ramps?traffic_source=rss",
+      "summary": "Oman had been mediating talks between Iran and the US before Washington attacked Tehran.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 21:22:47 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -25998,6 +26141,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0e7c9c65f9a97912b9440e2c5101f5fa",
+      "title": "What are the implications of Iran’s strikes on Gulf Arab states?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/3/what-are-the-implications-of-irans-strikes-on-gulf-arab-states?traffic_source=rss",
+      "summary": "Iran is launching attacks across the Gulf region after the US-Israel operation against the country.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 21:13:29 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -27913,19 +28069,6 @@
       "lang": "en"
     },
     {
-      "id": "2c2cbc621bcf63d40d222f96c7b4222b",
-      "title": "Gas and oil prices soar and shares tumble on fears conflict could escalate",
-      "link": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
-      "summary": "Markets react as the conflict in the Middle East intensifies and concerns grow over how long it will last.",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 17:48:08 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "0c711d7482f61f4b050361fbe396a8b5",
       "title": "DMK plays hard, now it is for AICC high command to decide: TNCC leadership",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-plays-hard-now-it-is-for-aicc-high-command-to-decide-tncc-leadership/article70699231.ece",
@@ -27966,7 +28109,7 @@
     },
     {
       "id": "55115ed47037f44b824456cf485b0e93",
-      "title": "LIVE: Barcelona vs Atletico Madrid – Copa del Rey semifinal, second leg",
+      "title": "LIVE: Barcelona vs Atletico Madrid 3-0 (3-4 on agg) – Copa del Rey semi",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/3/3/live-barcelona-vs-atletico-madrid-copa-del-rey-semifinal-second-leg?traffic_source=rss",
       "summary": "Follow the build-up and live text commentary of the game as Barca attempt to come back from a 4-0 first-leg defeat.",
       "date": "2026-03-03",
@@ -93043,6 +93186,19 @@
       "lang": "en"
     },
     {
+      "id": "2f3ae8fffdb058bc4d908a9b5bf9614a",
+      "title": "Pahalgam case: NIA seeks China's help to trace GoPro cam info",
+      "link": "https://timesofindia.indiatimes.com/india/pahalgam-case-nia-seeks-chinas-help-to-trace-gopro-cam-info/articleshow/128991733.cms",
+      "summary": "A special NIA court has issued a letter rogatory to China seeking assistance in tracing the supply chain of a GoPro camera seized in the Pahalgam terror attack case. The camera, activated in China, is crucial for establishing pre-attack reconnaissance and the movement of the Pakistani terror module.",
+      "date": "2026-03-03",
+      "timestamp": "2026-03-04T02:39:50+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "825bbe67756dcd5368de40001bce765c",
       "title": "After 41 years, Supreme Court finds accused guilty but waives prison term",
       "link": "https://timesofindia.indiatimes.com/india/after-41-years-supreme-court-finds-accused-guilty-but-waives-prison-term/articleshow/128991415.cms",
@@ -93746,7 +93902,7 @@
     },
     {
       "id": "8054f95ac3853b7eaf72a0440fcb5cad",
-      "title": "US-Israel-Iran War Live Updates: Iran launches 'massive missile' strike at US airbase in Bahrain; Israel bombs Beirut",
+      "title": "Ayatollah's son Mojtaba Khamenei elected as Iran's next Supreme Leader: Report",
       "link": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-conflict-attack-middle-east-state-dubai-qatar-airways-of-emergency-explosions-tehran-gulf-countries-netanyahu-trump-us-ali-khamenei/liveblog/128959227.cms",
       "summary": "",
       "date": "2026-03-03",
