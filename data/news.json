@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-03T20:27:32.047897+00:00",
+  "generated_at": "2026-03-03T21:29:11.278665+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -12508,12 +12508,25 @@
       "lang": "hi"
     },
     {
+      "id": "b35b337b7670c11b61d581e2a674730c",
+      "title": "Fire near U.S. consulate in Dubai after drone attack: govt statement",
+      "link": "https://www.thehindu.com/news/international/fire-near-us-consulate-in-dubai-after-drone-attack-govt-statement/article70701012.ece",
+      "summary": "U.S. Secretary of State Marco Rubio confirmed the drone strike adjacent to the U.S. consulate in Dubai and said all personnel were safe",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 02:46:49 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "00d0232798efb0d01f1b3b8dfc68d99e",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 4 मार्च के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-04",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 01:30:28 +0530",
+      "timestamp": "Wed, 04 Mar 2026 02:30:29 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -12526,12 +12539,77 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-04",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 01:30:18 +0530",
+      "timestamp": "Wed, 04 Mar 2026 02:30:18 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "d509f15a1813bee8db4d8553b2ae5d9e",
+      "title": "पश्चिम एशिया संकट: देशभर के हवाई अड्डों पर ईंधन भंडार को लेकर सतर्कता, क्या AAI ने मांगी जानकारी? जानें सबकुछ",
+      "link": "https://www.amarujala.com/india-news/aai-seeks-info-on-fuel-stocks-from-international-airport-operators-amid-middle-east-crisis-2026-03-04",
+      "summary": "AAI seeks info on fuel stocks from international airport operators amid Middle East crisis - पश्चिम एशिया संकट: देशभर के हवाई अड्डों पर ईंधन भंडार को लेकर सतर्कता, क्या AAI ने मांगी जानकारी? जानें सबकुछ",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 02:09:24 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "1d1541855a42e20c540455cf7f6af329",
+      "title": "Trump says Germany helping with Iran strikes, meets Merz at White House",
+      "link": "https://www.thehindu.com/news/international/trump-says-germany-helping-with-iran-strikes-meets-merz-at-white-house/article70700965.ece",
+      "summary": "Mr. Trump told reporters that Germany had been “helping ⁠out” by allowing U.S. forces to access certain bases, and drew a sharp contrast to the actions of two other European countries: Britain and Spain",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 02:06:19 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "668ef7100da7074a97c92576f55fb31b",
+      "title": "District administration offers comprehensive assistance to Aneesh’s family",
+      "link": "https://www.thehindu.com/news/national/kerala/district-administration-offers-comprehensive-assistance-to-aneeshs-family/article70700334.ece",
+      "summary": "",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:58:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6675b967545faac903000312df29b72d",
+      "title": "Iran-Israel war LIVE: Trump claims Iran was to attack first, not Israel",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-live-updates-march-3-2026/article70697758.ece",
+      "summary": "Seven injured in Israel after Iranian missiles hit central Israel, says Israeli military; Indian Embassy in Tehran issues fresh advisory; Israeli military \"unlikely\" to deploy ground forces to Iran",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:57:18 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6a61ea0786c7a937af8006c99b5d74b9",
+      "title": "Madras High Court grants bail to woman accused of sponsoring BSP leader Armstrong’s murder",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-high-court-grants-bail-to-woman-accused-of-sponsoring-bsp-leader-armstrongs-murder/article70699907.ece",
+      "summary": "Justice K. Rajasekar however denies bail to an advocate, cancels the bail granted by a sessions court to 12 other co-accused and confirms the bail granted to two more of the 30 accused persons",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 01:54:30 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "1478b4cd528197603900c156f3572fe3",
@@ -25157,19 +25235,6 @@
       "lang": "en"
     },
     {
-      "id": "6675b967545faac903000312df29b72d",
-      "title": "Iran-Israel war LIVE: Trump claims Iran was to attack first, not Israel",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-live-updates-march-3-2026/article70697758.ece",
-      "summary": "Seven injured in Israel after Iranian missiles hit central Israel, says Israeli military; Indian Embassy in Tehran issues fresh advisory; Israeli military \"unlikely\" to deploy ground forces to Iran",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 23:44:35 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ad747435cb7a268a98813ac6e7b15cae",
       "title": "U.S.-U.K. relationship ‘not like it used to be’: Trump",
       "link": "https://www.thehindu.com/news/international/us-uk-relationship-not-like-it-used-to-be-trump/article70699968.ece",
@@ -25833,6 +25898,19 @@
       "lang": "en"
     },
     {
+      "id": "acbb396afe54b0161c418af55a9de084",
+      "title": "Trump threatens to halt trade with Spain over military base access",
+      "link": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump lashed out after Spain barred the US from using its military bases to carry out strikes on Iran.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 21:25:33 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "467642715f7318dd8de272cc549a150a",
       "title": "Arjun Pandian takes charge as Kasaragod Collector",
       "link": "https://www.thehindu.com/news/national/kerala/arjun-pandian-takes-charge-as-kasaragod-collector/article70700475.ece",
@@ -26145,6 +26223,32 @@
       "lang": "en"
     },
     {
+      "id": "32393ae3976e4777ba320f2601b57e65",
+      "title": "‘Worst-case scenario’: Trump weighs replacing Khamenei as leader of Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/3/worst-case-scenario-trump-weighs-replacing-khamenei-as-leader-of-iran?traffic_source=rss",
+      "summary": "Trump appeared to dismiss Reza Pahlavi as an option and sketched a vision of Iran's government similar to Venezuela's.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 20:50:38 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bc15f8c07cb95d9106b19a2c5111df47",
+      "title": "Trump mulls exiled Iranian dissident Reza Pahlavi as regime successor",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/trump-mulls-exiled-iranian-dissident-reza-pahlavi-as-regime-successor?traffic_source=rss",
+      "summary": "US President Donald Trump said Iranian dissident Reza Pahlavi could be a possible successor to Ayatollah Ali Khamenei.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 20:49:32 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8f0de82a573d17b278016d86edd27d2d",
       "title": "हर हाल में जाममुक्त बनाएं, सीएम योगी ने किस शहर के लिए अफसरों को दिए सख्त निर्देश?",
       "link": "https://www.livehindustan.com/uttar-pradesh/make-gorakhpur-city-jam-free-at-all-costs-cm-yogi-gave-strict-instructions-to-the-officers-201772549969501.html",
@@ -26193,6 +26297,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b1c295f7cb510b69a4c307e94bbdfa77",
+      "title": "US sends planes to evacuate nationals from Middle East as Iran conflict spreads",
+      "link": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US State Department says Americans should \"depart now via commercial means\" as strikes continue.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 20:43:05 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -26288,6 +26405,19 @@
       "lang": "en"
     },
     {
+      "id": "1ad5e5d784788ebb311a834e2d64cefc",
+      "title": "US midterm primary season kicks off in shadow of Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/3/us-midterm-primary-season-kicks-off-in-shadow-of-iran-war?traffic_source=rss",
+      "summary": "Primaries will determine party candidates in November race to control Congress, give early window into voter sentiment.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 20:30:43 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "45f63360971c1494cb254403f48d1dfc",
       "title": "Restoration of temple pond in Kurinjipadi a start to citizen-driven revival of Chola-era waterbodies",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/restoration-of-temple-pond-in-kurinjipadi-a-start-to-citizen-driven-revival-of-chola-era-waterbodies/article70698755.ece",
@@ -26327,6 +26457,19 @@
       "lang": "en"
     },
     {
+      "id": "a3747e535a0ca0a609b8b130e8b09c37",
+      "title": "US will provide insurance for ships in Gulf amid Iranian attacks: Trump",
+      "link": "https://www.aljazeera.com/news/2026/3/3/us-will-provide-insurance-for-ships-in-gulf-amid-iranian-attacks-trump?traffic_source=rss",
+      "summary": "US Navy 'will begin escorting' oil tankers through the Strait of Hormuz, a strategic waterway, if necessary, Trump says.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 20:22:01 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0bded9f834e6155d63f06d4b5e02a8e6",
       "title": "Khadi Utsava held at Sahyadri College in Shivamogga receives good response",
       "link": "https://www.thehindu.com/news/national/karnataka/khadi-utsava-held-at-sahyadri-college-receives-good-response/article70699075.ece",
@@ -26350,6 +26493,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7e26b1532d404f17052ab6a595fa5fc7",
+      "title": "UK, France send warships, air defence assets to Cyprus after drone attack",
+      "link": "https://www.aljazeera.com/news/2026/3/3/uk-sending-warship-helicopters-to-cyprus-after-drone-attack?traffic_source=rss",
+      "summary": "The development comes after an Iranian-made drone crashed into the UK's military base in Cyprus.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 20:19:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -26392,6 +26548,19 @@
       "lang": "en"
     },
     {
+      "id": "0329ee9bdacb70a9bdec3c0f634f8faa",
+      "title": "Flames, smoke rise from US Consulate in Dubai after suspected attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/flames-smoke-rise-from-us-consulate-in-dubai-after-suspected-attack?traffic_source=rss",
+      "summary": "Flames and black smoke were seen rising from the US Consulate in Dubai after a suspected attack.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 20:15:17 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "65aca605bedaad2c2b3f5e8ab7581f99",
       "title": "NIMHANS launches Kannada version of ManoSandesh",
       "link": "https://www.thehindu.com/news/national/karnataka/nimhans-launches-kannada-version-of-manosandesh/article70700200.ece",
@@ -26401,6 +26570,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ca74c089ee5d9bc249e8aa5e8e8ddafa",
+      "title": "Iran mourns 165 girls, staff killed in US-Israel strike on Minab school",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/3/iran-mourns-165-girls-staff-killed-in-us-israel-strike-on-minab-school?traffic_source=rss",
+      "summary": "Thousands gathered in Minab, Iran, for a mass funeral of 165 schoolgirls and staff killed in a US-Israeli airstrike.",
+      "date": "2026-03-03",
+      "timestamp": "Tue, 03 Mar 2026 20:12:45 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -26557,19 +26739,6 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "acbb396afe54b0161c418af55a9de084",
-      "title": "Trump threatens to halt trade with Spain over military base access",
-      "link": "https://www.bbc.com/news/articles/c8r1mzd8vygo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump lashed out after Spain barred the US from using its military bases to carry out strikes on Iran.",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 19:48:05 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -27994,7 +28163,7 @@
       "id": "3878f6ae947d834ded2af95dd3d8eb5c",
       "title": "Andrew gives up lease on Crown Estate property",
       "link": "https://www.bbc.com/news/articles/cd9gepe7z4yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former Prince Andrew hands back a property in Ascot, with lease documents showing an annual rent of £13,000.",
+      "summary": "The former prince hands back a property in Ascot, with lease documents showing an annual rent of £13,000.",
       "date": "2026-03-03",
       "timestamp": "Tue, 03 Mar 2026 16:51:53 GMT",
       "section": "International",
@@ -29170,19 +29339,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "b1c295f7cb510b69a4c307e94bbdfa77",
-      "title": "US nationals urged to leave Middle East as conflict spreads",
-      "link": "https://www.bbc.com/news/articles/c2lrgwl8n7go?at_medium=RSS&at_campaign=rss",
-      "summary": "The US State Department says Americans should \"depart now via commercial means\" as strikes continue.",
-      "date": "2026-03-03",
-      "timestamp": "Tue, 03 Mar 2026 13:12:53 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -92883,6 +93039,58 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "825bbe67756dcd5368de40001bce765c",
+      "title": "After 41 years, Supreme Court finds accused guilty but waives prison term",
+      "link": "https://timesofindia.indiatimes.com/india/after-41-years-supreme-court-finds-accused-guilty-but-waives-prison-term/articleshow/128991415.cms",
+      "summary": "Curtains Come Down On 777 Foreign-Made Wristwatches Smuggling Case",
+      "date": "2026-03-03",
+      "timestamp": "2026-03-04T02:27:35+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5ce032647d1c5a45b15f09bfef8cba66",
+      "title": "‘I’m not happy with the UK’: Donald Trump criticizes Keir Starmer over military access",
+      "link": "https://timesofindia.indiatimes.com/world/us/im-not-happy-with-the-uk-donald-trump-criticizes-keir-starmer-over-military-access/articleshow/128990391.cms",
+      "summary": "President Trump has sharply criticized UK Prime Minister Starmer for initially withholding UK bases for US strikes on Iran, stating the \"special relationship\" has weakened. Starmer later agreed to limited defensive use of two bases after a UK base in Cyprus was attacked. The UK emphasizes acting on a legal basis and in its national interest, recalling Iraq war lessons.",
+      "date": "2026-03-03",
+      "timestamp": "2026-03-04T02:23:35+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "38f66b4565ffef14c049d2a4d8595029",
+      "title": "US, Israel attacks Iran: Scheduled, charter flights to be used for repatriation",
+      "link": "https://timesofindia.indiatimes.com/india/us-israel-attacks-iran-scheduled-charter-flights-to-be-used-for-repatriation/articleshow/128990843.cms",
+      "summary": "India is actively working to repatriate thousands of its citizens stranded in West Asian countries like the UAE and Qatar. The government is utilizing a combination of charter and scheduled flights, with airlines warned against fare hikes. This effort follows a high-level review of the West Asia crisis.",
+      "date": "2026-03-03",
+      "timestamp": "2026-03-04T02:06:05+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ed55c85799ae9d7e163081b85f3d6cb1",
+      "title": "'4 days without a plan': Trump admin slammed as it issues helpline numbers for Americans stranded in Middle East",
+      "link": "https://timesofindia.indiatimes.com/world/us/4-days-without-a-plan-trump-admin-slammed-as-it-issues-helpline-numbers-for-americans-stranded-in-middle-east/articleshow/128990370.cms",
+      "summary": "",
+      "date": "2026-03-03",
+      "timestamp": "2026-03-04T02:01:35+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
