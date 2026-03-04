@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T20:27:31.067208+00:00",
+  "generated_at": "2026-03-04T21:29:09.228776+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -12586,19 +12586,6 @@
       "lang": "en"
     },
     {
-      "id": "097090fd180e6de6b50706ad8715742d",
-      "title": "Iran-Israel war LIVE: Hegseth says U.S. sub sank Iranian warship off Sri Lanka",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-trump-netanyahu-live-updates/article70701838.ece",
-      "summary": "At least 83 people were killed in the torpedo attack",
-      "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 23:34:28 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ffa8dd330dfe6edf7c15b2228dc7608c",
       "title": "Nepal goes to polls amid domestic upheaval and regional power plays",
       "link": "https://www.thehindu.com/news/international/nepal-goes-to-polls-amid-domestic-upheaval-and-regional-power-plays/article70703974.ece",
@@ -12776,19 +12763,6 @@
       "timestamp": "Wed, 04 Mar 2026 22:39:14 +0530",
       "section": "International",
       "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "4bf8b68f1d71722dbb8097b9e17f2f74",
-      "title": "NCP (SP) scotches merger speculations",
-      "link": "https://www.thehindu.com/news/national/maharashtra/ncp-sp-scotches-merger-speculations/article70704579.ece",
-      "summary": "Jayant Patil says reunification talks had been initiated at Ajit Pawar’s insistence and are no longer on the table.",
-      "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 22:38:04 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -13288,6 +13262,32 @@
       "lang": "en"
     },
     {
+      "id": "c77d751b20c64f5be7b9843d08b8250e",
+      "title": "Why Washington can’t stop Trump on Iran",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/4/aje-onl-tt_usa_usairanwed_av_v2-040326?traffic_source=rss",
+      "summary": "Trump has launched strikes on Iran while Congress debates war powers.",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 21:05:37 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "877298fe58847740f4e5e7e80d6462a9",
+      "title": "Russia accuses Ukraine of drone attack as gas tanker sinks in Mediterranean",
+      "link": "https://www.aljazeera.com/news/2026/3/4/russia-accuses-ukraine-of-drone-attack-as-gas-tanker-sinks-in-mediterranean?traffic_source=rss",
+      "summary": "Russian President Vladimir Putin accuses Ukraine of carrying out a 'terrorist attack.'",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 21:04:34 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d027ff14963a946dc6e057bb79a5a104",
       "title": "Seat-sharing talks progressed well, LDF to announce candidates soon: Ramakrishnan",
       "link": "https://www.thehindu.com/news/national/kerala/seat-sharing-talks-progressed-well-ldf-to-announce-candidates-soon-ramakrishnan/article70704091.ece",
@@ -13375,6 +13375,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3595fb81699cb54dfe6a23d8405e12d5",
+      "title": "How depleted weapons stockpiles could affect the Iran conflict",
+      "link": "https://www.bbc.com/news/articles/cdxzzqe82d2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Weapons stocks will not alone decide the outcome of this conflict, but it's certainly a significant factor, writes the BBC's Jonathan Beale.",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 20:57:50 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -13509,6 +13522,19 @@
       "lang": "en"
     },
     {
+      "id": "27ab1e0b72502cd0ac02317ab01f851e",
+      "title": "Why Iran’s system may endure the US–Israel strikes",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/3/4/aje-onl-tt_irn_usirantuesday_av_v3-030326?traffic_source=rss",
+      "summary": "Why Iran’s Islamic Republic is more prepared than Washington expected.",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 20:44:09 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "bf246b0fe79887d76375347adba0b245",
       "title": "It is a riot of colours in Dharwad",
       "link": "https://www.thehindu.com/news/national/karnataka/it-is-a-riot-of-colours-in-dharwad/article70704164.ece",
@@ -13518,6 +13544,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "531510804d67c600cf8a1d7ad0622e31",
+      "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
+      "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country.",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 20:42:35 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -13648,6 +13687,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "70658ede93d695291aee5faadcb4ff7c",
+      "title": "Israeli attacks, threats fuel mass displacement crisis in southern Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/3/4/israeli-attacks-threats-fuel-mass-displacement-crisis-in-southern-lebanon?traffic_source=rss",
+      "summary": "Tens of thousands have fled their homes in Lebanon's south as Israel issues forced evacuation order for entire area.",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 20:22:35 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -16105,19 +16157,6 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "531510804d67c600cf8a1d7ad0622e31",
-      "title": "Spain's Pedro Sánchez hits back at Trump threat to sever trade saying 'no to war'",
-      "link": "https://www.bbc.com/news/articles/c93wwq1n542o?at_medium=RSS&at_campaign=rss",
-      "summary": "Spain's prime minister delivers a strong rebuttal to US President Donald Trump's threat to end trade with his country.",
-      "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 12:30:50 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -43149,6 +43188,84 @@
       "lang": "en"
     },
     {
+      "id": "96ca88a3283af42693dd203329c38268",
+      "title": "Hezbollah says will confront Israel-U.S. ‘aggression’, will not surrender",
+      "link": "https://www.thehindu.com/news/international/hezbollah-says-will-confront-israel-us-aggression-will-not-surrender/article70704873.ece",
+      "summary": "\"We are facing aggression... our choice is to confront it until the ultimate sacrifice, and we will not surrender,\" said Hezbollah",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 02:44:04 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a11769a5d1cd97bbc1a895ed2db5ba5a",
+      "title": "Nitish Kumar Rajya Sabha : मुख्यमंत्री नीतीश कुमार जाएंगे राज्यसभा, बिहार को मिलेगा अब नया मुख्यमंत्री!",
+      "link": "https://www.amarujala.com/video/india-news/nitish-kumar-rajya-sabha-chief-minister-nitish-kumar-will-go-to-rajya-sabha-bihar-will-now-get-a-new-chief-m-2026-03-05",
+      "summary": "Nitish Kumar Rajya Sabha : मुख्यमंत्री नीतीश कुमार जाएंगे राज्यसभा, बिहार को मिलेगा अब नया मुख्यमंत्री!",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 02:43:48 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "02d4d47a804969186cbff5f92b2e6047",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 5 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-05",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 02:30:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d70558d233ac656798d7355fc3b9807a",
+      "title": "पढ़ें 5 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-05",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 02:30:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "26da36e48d27071341b4c30e5a106db8",
+      "title": "Spain denies U.S. claim of military cooperation on Iran as rift deepens",
+      "link": "https://www.thehindu.com/news/international/spain-denies-us-claim-of-military-cooperation-on-iran-as-rift-deepens/article70704863.ece",
+      "summary": "\"We will not be complicit in something that is harmful to the world and contrary to our values and interests, simply out of fear of retaliation,\" Spain's Socialist Prime Minister Pedro Sanchez said after Trump had lashed out at Sanchez's government, calling Spain a \"terrible\" ally",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 02:00:47 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4bf8b68f1d71722dbb8097b9e17f2f74",
+      "title": "No possibility of merger of NCP factions any more, our position is clear, says Jayant Patil",
+      "link": "https://www.thehindu.com/news/national/maharashtra/ncp-sp-scotches-merger-speculations/article70704579.ece",
+      "summary": "Jayant Patil says reunification talks had been initiated at Ajit Pawar’s insistence and are no longer on the table.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 01:59:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c91779eacf023937b4e5e6c2d88e4f7e",
       "title": "Holi In India: होली पर उल्लास, फ्रांस के राष्ट्रपति पर चढ़ा हिंदी का रंग, पीएम ने कहा धन्यवाद; देखें झलकियां",
       "link": "https://www.amarujala.com/live/india-news/holi-2026-celebration-live-updates-festival-of-color-bjp-congress-aap-pm-modi-rahul-gandhi-world-leaders-delhi-2026-03-04",
@@ -43175,6 +43292,19 @@
       "lang": "hi"
     },
     {
+      "id": "097090fd180e6de6b50706ad8715742d",
+      "title": "Iran-Israel war LIVE: Hegseth says U.S. submarine sank Iranian warship off Sri Lanka",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-trump-netanyahu-live-updates/article70701838.ece",
+      "summary": "At least 83 people were killed in the torpedo attack; Iranian frigate was returning from a maritime exercise in Visakhapatnam",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 01:39:32 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ec0ef5fcb67d6cf83333e2d8a7e54947",
       "title": "The SIR conundrum in West Bengal",
       "link": "https://www.thehindu.com/news/national/west-bengal/the-sir-conundrum-in-west-bengal/article70704815.ece",
@@ -43186,32 +43316,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "02d4d47a804969186cbff5f92b2e6047",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 5 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-05",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-05",
-      "timestamp": "Thu, 05 Mar 2026 01:30:31 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "d70558d233ac656798d7355fc3b9807a",
-      "title": "पढ़ें 5 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-05",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-05",
-      "timestamp": "Thu, 05 Mar 2026 01:30:18 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "d6e6f191e8b47b18289b8f09f5857f77",
@@ -88116,6 +88220,45 @@
       "lang": "en"
     },
     {
+      "id": "f56c5e4dab37a317e7062b0b9cfa3b5b",
+      "title": "Arkansas father accused of killing daughter’s alleged rapist wins GOP nomination for sheriff",
+      "link": "https://timesofindia.indiatimes.com/world/us/arkansas-father-accused-of-killing-daughters-alleged-rapist-wins-gop-nomination-for-sheriff/articleshow/129049586.cms",
+      "summary": "An Arkansas father, awaiting trial for allegedly killing his daughter's accused sexual predator, has won the Republican nomination for county sheriff. Aaron Spencer defeated the incumbent, securing over 53% of the vote.",
+      "date": "2026-03-04",
+      "timestamp": "2026-03-05T02:35:26+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cc006d6aa0976411c74a5d66fd87f074",
+      "title": "What is Indian-American Voter Atlas? Political strategist launches tool to track diaspora",
+      "link": "https://timesofindia.indiatimes.com/world/us/what-is-indian-american-voter-atlas-political-strategist-anang-mittal-launches-tool-to-track-diaspora/articleshow/129047882.cms",
+      "summary": "",
+      "date": "2026-03-04",
+      "timestamp": "2026-03-05T02:15:41+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bea4c8c61ca6572adaa13b099f298c30",
+      "title": "West Asia crisis: 1,500 flights cancelled in four days, Air India to add capacity on key long routes",
+      "link": "https://timesofindia.indiatimes.com/india/west-asia-crisis-1500-flights-cancelled-in-four-days-air-india-to-add-capacity-on-key-long-routes/articleshow/129048937.cms",
+      "summary": "Airlines are intensifying evacuation efforts with special flights as Middle East air travel disruptions continue for the fourth day. Indian carriers planned 58 flights on Wednesday, with IndiGo and Air India increasing capacity on long-haul routes. Airports in Dubai and Abu Dhabi are handling limited repatriation flights, while services in Bahrain, Doha, and Kuwait remain suspended.",
+      "date": "2026-03-04",
+      "timestamp": "2026-03-05T01:50:18+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d90bcf0ecbd2b0daef3bc11ac7d914d9",
       "title": "UAE flights resume but not fully: 5 airlines begin limited services amid Iran–US–Israel conflict",
       "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-flights-resume-but-not-fully-5-airlines-begin-limited-services-amid-iranusisrael-conflict/articleshow/129045257.cms",
@@ -88125,6 +88268,19 @@
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "af164b9792b04d0329ef705a83e6b5b1",
+      "title": "Nitish Kumar heads for Rajya Sabha, paves way for BJP CM in Bihar",
+      "link": "https://timesofindia.indiatimes.com/india/nitish-kumar-heads-for-rajya-sabha-paves-way-for-bjp-cm-in-bihar/articleshow/129048390.cms",
+      "summary": "To File Nomination In Patna Today In Shah's Presence",
+      "date": "2026-03-04",
+      "timestamp": "2026-03-05T01:35:13+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
