@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-04T21:29:09.228776+00:00",
+  "generated_at": "2026-03-04T22:26:11.078174+00:00",
   "stories": [
     {
       "id": "41d7128ac4ab35650e6afc8bd75b6295",
@@ -12911,6 +12911,19 @@
       "lang": "en"
     },
     {
+      "id": "c5af6a17cdb4fc0c971002363f880054",
+      "title": "Higher tariffs likely this week, says US Treasury",
+      "link": "https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Scott Bessent says that \"likely sometime this week\" the US will increase its global tariff on imports from the existing 10%.",
+      "date": "2026-03-04",
+      "timestamp": "Wed, 04 Mar 2026 22:11:17 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "64a364046bb81b8d6a7b784084e47cc4",
       "title": "Spain's Sanchez stands firm on opposition to war in Iran despite Trump's trade threat",
       "link": "https://www.thehindu.com/news/international/spains-sanchez-stands-firm-on-opposition-to-war-in-iran-despite-trumps-trade-threat/article70702934.ece",
@@ -15075,19 +15088,6 @@
       "summary": "Videos, including of glasses-wearers using the toilet or having sex, are sometimes reviewed by a Kenya-based subcontractor.",
       "date": "2026-03-04",
       "timestamp": "Wed, 04 Mar 2026 16:23:17 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "c5af6a17cdb4fc0c971002363f880054",
-      "title": "Higher tariffs likely this week, says US Treasury",
-      "link": "https://www.bbc.com/news/articles/cjwzzq70qgvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Scott Bessent says that \"likely sometime this week\" the US will increase its global tariff on imports from the existing 10%.",
-      "date": "2026-03-04",
-      "timestamp": "Wed, 04 Mar 2026 16:22:22 GMT",
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
@@ -43188,6 +43188,71 @@
       "lang": "en"
     },
     {
+      "id": "97f3f752fb064de06cad1754751c147f",
+      "title": "U.S. House committee votes to subpoena Attorney General Bondi to answer questions over the Epstein files",
+      "link": "https://www.thehindu.com/news/international/us-house-committee-votes-to-subpoena-attorney-general-bondi-to-answer-questions-over-the-epstein-files/article70704883.ece",
+      "summary": "Five Republicans joined Democrats to support the subpoena proposed by GOP Rep. Nancy Mace of South Carolina in a sign of continued frustration with the department's review and release of a tranche of documents regarding the disgraced financier",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 03:32:53 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "02d4d47a804969186cbff5f92b2e6047",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 5 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-05",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 03:30:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d70558d233ac656798d7355fc3b9807a",
+      "title": "पढ़ें 5 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-05",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 03:30:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "097090fd180e6de6b50706ad8715742d",
+      "title": "Iran-Israel war LIVE: Hegseth says U.S. submarine sank Iranian warship off Sri Lanka",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-trump-netanyahu-live-updates/article70701838.ece",
+      "summary": "At least 83 people were killed in the torpedo attack; Iranian frigate was returning from a maritime exercise in Visakhapatnam",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 03:15:47 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "86f627545f7d9c92b7e7975d9099baae",
+      "title": "Holi Celebration in Bihar: लालू के अंदाज में पटना में तेज प्रताप ने समर्थकों के बीच खेली गरदा होली",
+      "link": "https://www.amarujala.com/video/india-news/holi-celebration-in-bihar-tej-pratap-played-a-grand-holi-with-his-supporters-in-patna-in-the-style-of-lalu-2026-03-05",
+      "summary": "Holi Celebration in Bihar: लालू के अंदाज में पटना में तेज प्रताप ने समर्थकों के बीच खेली गरदा होली",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 03:00:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "96ca88a3283af42693dd203329c38268",
       "title": "Hezbollah says will confront Israel-U.S. ‘aggression’, will not surrender",
       "link": "https://www.thehindu.com/news/international/hezbollah-says-will-confront-israel-us-aggression-will-not-surrender/article70704873.ece",
@@ -43207,32 +43272,6 @@
       "summary": "Nitish Kumar Rajya Sabha : मुख्यमंत्री नीतीश कुमार जाएंगे राज्यसभा, बिहार को मिलेगा अब नया मुख्यमंत्री!",
       "date": "2026-03-05",
       "timestamp": "Thu, 05 Mar 2026 02:43:48 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
-      "id": "02d4d47a804969186cbff5f92b2e6047",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 5 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-05",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-05",
-      "timestamp": "Thu, 05 Mar 2026 02:30:30 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "d70558d233ac656798d7355fc3b9807a",
-      "title": "पढ़ें 5 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-05",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-05",
-      "timestamp": "Thu, 05 Mar 2026 02:30:18 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -43290,19 +43329,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "097090fd180e6de6b50706ad8715742d",
-      "title": "Iran-Israel war LIVE: Hegseth says U.S. submarine sank Iranian warship off Sri Lanka",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-trump-netanyahu-live-updates/article70701838.ece",
-      "summary": "At least 83 people were killed in the torpedo attack; Iranian frigate was returning from a maritime exercise in Visakhapatnam",
-      "date": "2026-03-05",
-      "timestamp": "Thu, 05 Mar 2026 01:39:32 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "ec0ef5fcb67d6cf83333e2d8a7e54947",
@@ -88216,6 +88242,45 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "789f5b880c3ee95e54a8adaf7987b8f7",
+      "title": "Oxford museum set to return 500-year-old bronze statue taken from Tamil Nadu temple",
+      "link": "https://timesofindia.indiatimes.com/india/oxford-museum-set-to-return-500-year-old-bronze-statue-taken-from-tamil-nadu-temple/articleshow/129053181.cms",
+      "summary": "A 16th-century bronze statue of Saint Tirumankai Alvar, taken from a Tamil Nadu temple, is returning to India from the UK. Acquired by the Ashmolean Museum in 1967, its provenance became questionable after a 2019 discovery. Following an investigation and a formal claim by India, the museum has agreed to its repatriation, highlighting a commitment to ethical collections.",
+      "date": "2026-03-04",
+      "timestamp": "2026-03-05T03:33:10+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4a1681d332c50c9ff393a317bf6995c2",
+      "title": "Middle East crisis: Trump rates US war effort ‘15 out of 10’; vows to push on against Iran",
+      "link": "https://timesofindia.indiatimes.com/world/us/middle-east-crisis-donald-trump-rates-us-war-effort-15-out-of-10-vows-to-push-on-against-iran/articleshow/129051534.cms",
+      "summary": "US President Trump declared the campaign against Iran \"about a 15\" on a scale of 10, citing success in decimating Iranian leadership and missile capabilities. He reiterated the goal of preventing nuclear weapons, vowing to continue joint operations with Israel despite escalating regional conflict, rising oil prices, and domestic criticism.",
+      "date": "2026-03-04",
+      "timestamp": "2026-03-05T03:14:24+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0b27d233071b52dc83c6b88cfbdf48e8",
+      "title": "Indian-origin elderly couple loses £2,500 in fake flight ticket fraud at Heathrow: 'Don’t know how scammers got our number'",
+      "link": "https://timesofindia.indiatimes.com/world/uk/indian-origin-elderly-couple-loses-2500-in-fake-flight-ticket-fraud-at-heathrow-dont-know-how-scammers-got-our-number/articleshow/129051238.cms",
+      "summary": "",
+      "date": "2026-03-04",
+      "timestamp": "2026-03-05T02:59:55+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
