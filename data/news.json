@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T22:26:27.988317+00:00",
+  "generated_at": "2026-03-05T23:46:54.822322+00:00",
   "stories": [
     {
       "id": "4ad0c4f736ccb9b4324515d7226ec68c",
@@ -30747,6 +30747,32 @@
       "lang": "en"
     },
     {
+      "id": "4c9d589937488956fff14cf699a314bb",
+      "title": "Suspected Iranian missile debris ignites fires in central Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/suspected-iranian-missile-debris-ignites-fires-in-central-israel?traffic_source=rss",
+      "summary": "Debris from an intercepted Iranian missile has landed near Petach Tikva in central Israel.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 23:17:34 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6f71c21950bb67c163e8df1b3bec25bc",
+      "title": "'What is the game plan?': The Iran war is unsettling China and its ambitions",
+      "link": "https://www.bbc.com/news/articles/c2044vzrdpzo?at_medium=RSS&at_campaign=rss",
+      "summary": "China is not feeling the shock of war in the Middle East - yet. But it is feeling the ripples.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 23:13:57 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8c16c7d2191bf8b03992eb5d5cc1c6b3",
       "title": "Nepal election: Voting concludes with preliminary turnout around 60%",
       "link": "https://www.thehindu.com/news/national/nepal-election-voting-concludes-turnout/article70708346.ece",
@@ -30756,6 +30782,32 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ef018ce698ea1ccdf35599f940f3a3a",
+      "title": "Finland plans to lift decades-old ban on hosting nuclear weapons",
+      "link": "https://www.bbc.com/news/articles/c14m5llnrlpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government says the nation's defence environment has \"significantly changed\" since Russia's invasion of Ukraine.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 23:12:16 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "27ed6d9a3bb05a28a782da9da93415b1",
+      "title": "Trump offers immunity to IRGC, Iranian police who ‘lay down their arms’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/5/trump-offers-immunity-to-irgc-iranian-police-who-lay-down-their?traffic_source=rss",
+      "summary": "US President Donald Trump offered immunity to Iranian police and members of the Islamic Revolutionary Guard Corps.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 23:06:36 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -30838,6 +30890,32 @@
       "lang": "en"
     },
     {
+      "id": "7c9e6c2cf4725c5447563f7d937ff30f",
+      "title": "US House narrowly rejects resolution to end Trump’s Iran war",
+      "link": "https://www.aljazeera.com/news/2026/3/5/us-house-narrowly-rejects-resolution-to-end-trumps-iran-war?traffic_source=rss",
+      "summary": "The US House votes 219-212 against a resolution requiring Congress's approval for further military action on Iran.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 22:38:37 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3d830039ce6df5baae8112b549006e73",
+      "title": "Trump says regime change in Cuba is ‘question of time’ after Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-regime-change-in-cuba-is-question-of-time-after-iran?traffic_source=rss",
+      "summary": "Trump administration has tightened sanctions meant to degrade Cuban economy and threatened to topple government.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 22:37:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "19fd9aa78d239f5288b7ec908a1783bf",
       "title": "Iran-Israel war grounds IndiGo’s Europe flights",
       "link": "https://www.thehindu.com/news/national/iran-israel-war-grounds-indigos-europe-flights/article70708188.ece",
@@ -30912,6 +30990,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ecf035f28d0f4bcaf7eb5e8eeb558907",
+      "title": "Trump cuts his losses on Noem after controversial tenure at homeland security",
+      "link": "https://www.bbc.com/news/articles/c2e4v7yvjx8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Noem was one of the administration's brightest stars when she stepped into the role, but has faced a mounting backlash in recent months.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 22:16:24 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -84476,6 +84567,71 @@
       "lang": "en"
     },
     {
+      "id": "c7dc64148289408d7d0ed078eb465f7f",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 6 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-06",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 05:00:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ab260dd13978c76823011ec023b99290",
+      "title": "पढ़ें 6 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-06",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 05:00:22 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "8b27e267f3278480592468a6712454b7",
+      "title": "U.S. House rejects war powers resolution, backs Trump on Iran war",
+      "link": "https://www.thehindu.com/news/international/us-house-rejects-war-powers-resolution-backs-trump-on-iran-war/article70709119.ece",
+      "summary": "The vote was 219 to 212, largely along party lines, in the House, where Mr. Trump’s fellow Republicans ‌control a narrow majority of seats; two Republicans voted in favor of the resolution and four Democrats voted against it",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 04:43:46 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d5e2238059bd7653b1dcdd69a085b23d",
+      "title": "पश्चिम एशिया संकट: बड़े पैमाने पर प्रभावित हो रही हवाई यात्रा, भारतीय एयरलाइंस ने रद्द की 281 विदेशी उड़ानें",
+      "link": "https://www.amarujala.com/india-news/west-asia-conflict-impacts-air-travel-indian-airlines-cancel-281-international-flights-2026-03-06",
+      "summary": "पश्चिम एशिया संकट: बड़े पैमाने पर प्रभावित हो रही हवाई यात्रा, भारतीय एयरलाइंस ने रद्द की 281 विदेशी उड़ानें, West Asia conflict impacts air travel Indian airlines cancel 281 international flights",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 04:01:43 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a6aad779ae2a9e5726ce3dd5248a8edd",
+      "title": "Suspension of flights, shipping surcharge push exporters from south India to the edge",
+      "link": "https://www.thehindu.com/business/suspension-of-flights-shipping-surcharge-push-exporters-from-south-india-to-the-edge/article70707389.ece",
+      "summary": "Suspension of flights from India to West Asia disrupts supply chain for vegetables, fruits, and seafood exported from South India",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 03:58:03 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f30a4462aaa302f046282ce438d077fa",
       "title": "Four TMC, one BJP candidate file nominations for Rajya Sabha elections in West Bengal",
       "link": "https://www.thehindu.com/news/national/west-bengal/four-tmc-one-bjp-candidate-file-nominations-for-rajya-sabha-elections-in-west-bengal/article70707611.ece",
@@ -84500,32 +84656,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "c7dc64148289408d7d0ed078eb465f7f",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 6 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-06",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-06",
-      "timestamp": "Fri, 06 Mar 2026 03:30:31 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "ab260dd13978c76823011ec023b99290",
-      "title": "पढ़ें 6 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-06",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-06",
-      "timestamp": "Fri, 06 Mar 2026 03:30:20 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "e83f441d2c649fef7b3800b77a75ee6a",
@@ -84785,6 +84915,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "5405ec83a43e4b7ced56ff8fcfdf9c87",
+      "title": "Iran-Israel war LIVE: Ground invasion would be 'disaster' for U.S.-Israel, says Iran FM Abbas Araghchi; Sri Lanka evacuates crew of second Iranian ship",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-lebanon-trump-netanyahu-live-updates/article70705745.ece",
+      "summary": "\"The ship that was sunk in the Indian Ocean was unarmed and full of training officers. Attacking such ship is a war crime,\" says Iran FM Abbas Araghchi; the Sri Lankan Navy would take the crew of the second Iranian naval ship to the Colombo Port, while the vessel will be diverted to the eastern Trincomalee harbour, President Dissanayake said.",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 02:45:40 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -85279,19 +85422,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "5405ec83a43e4b7ced56ff8fcfdf9c87",
-      "title": "Iran-Israel war LIVE: Ground invasion would be 'disaster' for U.S.-Israel, says Iran FM Abbas Araghchi; Sri Lanka evacuates crew of second Iranian ship",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-attacks-strikes-west-asia-lebanon-trump-netanyahu-live-updates/article70705745.ece",
-      "summary": "\"The ship that was sunk in the Indian Ocean was unarmed and full of training officers. Attacking such ship is a war crime,\" says Iran FM Abbas Araghchi; the Sri Lankan Navy would take the crew of the second Iranian naval ship to the Colombo Port, while the vessel will be diverted to the eastern Trincomalee harbour, President Dissanayake said.",
-      "date": "2026-03-06",
-      "timestamp": "Fri, 06 Mar 2026 02:26:41 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -86227,6 +86357,97 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "825e3e8fa144af5f3a01e0d29ecabf03",
+      "title": "Bihar: JDU cadre bet on Nishant to fill in father Nitish Kumar's shoes",
+      "link": "https://timesofindia.indiatimes.com/india/bihar-jdu-cadre-bet-on-nishant-to-fill-in-father-nitish-kumars-shoes/articleshow/129121055.cms",
+      "summary": "Bihar's ruling party, JDU, anticipates Nishant Kumar's political debut as his father, Nitish Kumar, prepares to step down. This move aims to reassure party workers and maintain the JDU's traditional support base, particularly among the Kurmi community. Nishant, an engineering graduate, is reportedly being considered for a Deputy Chief Minister role, signaling continuity as Nitish shifts to the Rajya Sabha.",
+      "date": "2026-03-05",
+      "timestamp": "2026-03-06T04:51:57+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "adc02e8e61e5edc195e66984bb6bc3cb",
+      "title": "Nitish Kumar a wily strategist who made CM seat his own",
+      "link": "https://timesofindia.indiatimes.com/india/nitish-kumar-a-wily-strategist-who-made-cm-seat-his-own/articleshow/129120839.cms",
+      "summary": "Nitish Kumar exits Bihar CM post after two decades, sparking political upheaval. Known for his strategic alliances and ideological shifts, Kumar carved a unique niche as an OBC leader focusing on \"Mandal-plus\" policies and women's welfare. His political maneuvering, including caste-based strategies and welfarism, sustained his dominance for years.",
+      "date": "2026-03-05",
+      "timestamp": "2026-03-06T04:45:15+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "366e80b346ae74249b3c7f0cda4d7e08",
+      "title": "Dubai's KHDA moves Indian schools to distance learning till term end amid US-Israel war on Iran",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/dubais-khda-moves-indian-schools-to-distance-learning-till-term-end-amid-us-israel-war-on-iran/articleshow/129119780.cms",
+      "summary": "Dubai's education regulator has extended distance learning for Indian curriculum schools until the end of the academic term. This decision, impacting CBSE and ICSE students, is a precautionary measure amid regional security concerns due to the Iran-Israel-US war. The new academic year will commence on April 6, 2026, ensuring continuity and safety for thousands of students.",
+      "date": "2026-03-05",
+      "timestamp": "2026-03-06T04:39:31+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "65292974d56c0e017cb893a0f30b961c",
+      "title": "'Hasn't taken a day off in 25 years': Mark Carney praises PM Modi's work ethic",
+      "link": "https://timesofindia.indiatimes.com/india/hasnt-taken-a-day-off-in-25-years-mark-carney-praises-pm-modis-work-ethic/articleshow/129120659.cms",
+      "summary": "Canadian Prime Minister Mark Carney lauded Indian Prime Minister Narendra Modi's dedication to citizen welfare. Carney highlighted Modi's focus on direct delivery of programs to ordinary Indians. He also noted Modi's relentless work ethic, stating he has not taken a day off in 25 years. Carney's remarks followed recent meetings aimed at strengthening bilateral ties.",
+      "date": "2026-03-05",
+      "timestamp": "2026-03-06T04:39:09+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cd3216264eb1ba30093946c4504c6c8f",
+      "title": "Gulf conflict: LNG squeeze may impact urea output ahead of kharif season",
+      "link": "https://timesofindia.indiatimes.com/india/gulf-conflict-lng-squeeze-may-impact-urea-output-ahead-of-kharif-season/articleshow/129120254.cms",
+      "summary": "India's fertilizer supply faces potential disruptions for the upcoming kharif season if the Strait of Hormuz blockade persists. While current stocks are healthy, reduced LNG imports for urea production could impact output. Rising global prices due to shipping route blockades may also increase government subsidy expenses.",
+      "date": "2026-03-05",
+      "timestamp": "2026-03-06T04:26:49+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5b9e5e9168b6cd0ceba12804dbdd6134",
+      "title": "Over 60% turnout as Nepal votes in 'historic' polls powered by Gen Z",
+      "link": "https://timesofindia.indiatimes.com/world/south-asia/over-60-turnout-as-nepal-votes-in-historic-polls-powered-by-gen-z/articleshow/129119847.cms",
+      "summary": "Nepal's Gen Z voters turned out in large numbers for snap parliamentary elections, a significant development following September protests that reshaped the country's politics. Despite logistical challenges in the mountainous nation, preliminary turnout exceeded 60%, with young activists viewing election day as the next phase of their movement for change and accountability.",
+      "date": "2026-03-05",
+      "timestamp": "2026-03-06T04:17:17+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9ed9bc4bb840af091aa4aa0c4f932117",
+      "title": "Abu Dhabi on edge: 6 injured as drone debris from Iran and US-Israel conflict crashes into industrial zone",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/abu-dhabi-on-edge-6-injured-as-drone-debris-from-iran-and-us-israel-conflict-crashes-into-industrial-zone/articleshow/129113774.cms",
+      "summary": "Six people were injured in Abu Dhabi by falling drone debris after air defences intercepted projectiles amid escalating Iran-Israel-US tensions. This incident highlights the risks of falling fragments even during successful interceptions. The UAE is urging residents to stay informed and follow safety advisories as regional conflicts spill into civilian areas.",
+      "date": "2026-03-05",
+      "timestamp": "2026-03-06T04:09:59+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
