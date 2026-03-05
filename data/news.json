@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-05T21:29:03.563462+00:00",
+  "generated_at": "2026-03-05T22:26:27.988317+00:00",
   "stories": [
     {
       "id": "4ad0c4f736ccb9b4324515d7226ec68c",
@@ -30877,19 +30877,6 @@
       "lang": "en"
     },
     {
-      "id": "98228d127f9e7025965fc3354a675b9f",
-      "title": "NMC tells medical college hospitals to integrate digital health records of all patients",
-      "link": "https://www.thehindu.com/sci-tech/health/nmc-tells-medical-college-hospitals-to-integrate-digital-health-records-of-all-patients/article70707435.ece",
-      "summary": "All patients coming for OPD, emergency, or hospital admissions must now have linked Ayushman Bharat Health Account IDs; this is aimed at weeding out the fake patients that some colleges submit during the NMC assessment",
-      "date": "2026-03-05",
-      "timestamp": "Thu, 05 Mar 2026 22:31:35 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "26c33a0be78c6cd606a756a982173e66",
       "title": "West Asia conflict: Dubai’s Emirates to restart partial flight operations",
       "link": "https://www.thehindu.com/news/national/west-asia-conflict-dubais-emirates-announces-partial-resumption-of-flights/article70707036.ece",
@@ -30938,6 +30925,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6a1b7bba3689417eddb0ff01f91c548a",
+      "title": "Trump says he must be ‘involved’ in choosing Iran’s next supreme leader",
+      "link": "https://www.aljazeera.com/news/2026/3/5/trump-says-he-must-be-involved-in-choosing-irans-next-supreme-leader?traffic_source=rss",
+      "summary": "Analyst says US president will not find an Iranian Delcy Rodriguez from within the existing Islamic Republic system.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 22:12:45 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -31016,6 +31016,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "46451deebb75d230496796514b20a8f5",
+      "title": "Celta Vigo vs Real Madrid: La Liga – teams, start, kickoff time, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/3/5/celta-vigo-vs-real-madrid-la-liga-teams-start-kickoff-time-lineups?traffic_source=rss",
+      "summary": "Real Madrid have lost their last two La Liga matches but can close the gap to leaders Barcelona when they play in Vigo.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 22:01:44 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -31137,6 +31150,19 @@
       "lang": "en"
     },
     {
+      "id": "0601782344610fffbf423e1aea7b264a",
+      "title": "US states sue to stop Trump’s latest global tariffs",
+      "link": "https://www.aljazeera.com/economy/2026/3/5/us-states-sue-to-stop-trumps-latest-global-tariffs?traffic_source=rss",
+      "summary": "Lawsuit is to stop the 10% tariffs that Trump immediately imposed after US Supreme Court struck down previous tariffs.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 21:39:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9e30c2c6a612c6c4fdb76c847b3427ee",
       "title": "Karnataka High Court suggests State govt. to evolve mechanism for verification of migrant labourers",
       "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-suggests-state-govt-to-evolve-mechanism-for-verification-of-migrant-labourers/article70707615.ece",
@@ -31150,6 +31176,32 @@
       "lang": "en"
     },
     {
+      "id": "33c60880d6c08d4b7092e015098cc2db",
+      "title": "Azerbaijan says Iran struck its territory, as war spills over border",
+      "link": "https://www.bbc.com/news/articles/c1e9qpy90g3o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Ilham Aliyev says drone strikes are \"act of terror\" as he places armed forces on high alert.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 21:33:48 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "32d8feafb4fce0f078b2a9e4344887e3",
+      "title": "Iran fires more missiles, drones across Gulf region amid US-Israeli attacks",
+      "link": "https://www.aljazeera.com/news/2026/3/5/iran-fires-more-missiles-drones-across-gulf-region-amid-us-israeli-attacks?traffic_source=rss",
+      "summary": "Gulf countries face continued barrage of Iranian attacks as US, Israel pledge to continue military assault against Iran.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 21:31:45 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f939f35bfaa88f52e05c78d08f1e7ade",
       "title": "Researchers, industry urged to focus on seaweed sector",
       "link": "https://www.thehindu.com/news/national/kerala/researchers-industry-urged-to-focus-on-seaweed-sector/article70708054.ece",
@@ -31159,6 +31211,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4a1b78dcd2cc9ab862d6a09b35bae0cf",
+      "title": "Why has Hezbollah joined Middle East war?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/5/why-has-hezbollah-joined-middle-east-war?traffic_source=rss",
+      "summary": "Hezbollah has been attacking Israel as it pummels southern Lebanon and parts of Beirut.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 21:28:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -31315,6 +31380,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9f3aa2ba01ca09862a7f0f39a3a607bd",
+      "title": "Trump voices support for possible Kurdish offensive in Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/5/trump-voices-support-for-possible-kurdish-offensive-in-iran?traffic_source=rss",
+      "summary": "US president says he'd be 'all for' Kurdish ground assault on Iran amid reports that Washington is egging on rebellion.",
+      "date": "2026-03-05",
+      "timestamp": "Thu, 05 Mar 2026 21:06:01 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -84398,6 +84476,123 @@
       "lang": "en"
     },
     {
+      "id": "f30a4462aaa302f046282ce438d077fa",
+      "title": "Four TMC, one BJP candidate file nominations for Rajya Sabha elections in West Bengal",
+      "link": "https://www.thehindu.com/news/national/west-bengal/four-tmc-one-bjp-candidate-file-nominations-for-rajya-sabha-elections-in-west-bengal/article70707611.ece",
+      "summary": "The ruling Trinamool Congress is set to secure four seats in the upper house and the BJP one",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 03:50:00 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "78fa6d4ad7f41b96c23c134b149620aa",
+      "title": "Ashok Gehlot slams Centre’s silence on U.S. attack on Iranian warship in Indian Ocean",
+      "link": "https://www.thehindu.com/news/national/ashok-gehlot-slams-centres-silence-on-us-attack-on-iranian-warship-in-indian-ocean/article70707811.ece",
+      "summary": "An emerging superpower should not remain a mute spectator to such violent incidents in its own region, says Mr. Gehlot; if we are the true protectors of the Indian Ocean, we must put our autonomy and safety of our guests above all else, he adds",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 03:37:37 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c7dc64148289408d7d0ed078eb465f7f",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 6 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-06",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 03:30:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ab260dd13978c76823011ec023b99290",
+      "title": "पढ़ें 6 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-06",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 03:30:20 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "e83f441d2c649fef7b3800b77a75ee6a",
+      "title": "Matuas pushed into ‘confusing situation’, deliberately excluded from voter list by SIR, says Mamata",
+      "link": "https://www.thehindu.com/news/national/west-bengal/matuas-pushed-into-confusing-situation-deliberately-excluded-from-voter-list-by-sir-says-mamata/article70707913.ece",
+      "summary": "West Bengal Chief Minister Mamata Banerjee alleges that political games are being played in the name of giving citizenship and questions are being raised about their identity",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 03:25:03 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "729ae17546fa08a41e03b5b338e086b7",
+      "title": "Mumbai: बॉम्बे हाईकोर्ट ने एयरपोर्ट पर नमाज की अनुमति से किया इनकार, सुरक्षा को बताया सर्वोपरि; जानें मामला",
+      "link": "https://www.amarujala.com/india-news/bombay-high-court-denies-permission-for-prayers-at-airport-citing-security-paramount-learn-more-about-matter-2026-03-06",
+      "summary": "Mumbai: बॉम्बे हाईकोर्ट ने एयरपोर्ट पर नमाज की अनुमति से किया इनकार, सुरक्षा को बताया सर्वोपरि; जानें मामला, Bombay High Court denies permission for prayers at airport citing security paramount learn more about matter",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 03:18:34 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "20802424fb79a9d8058eb64cb3e7593b",
+      "title": "Bombay HighCourt: 'सिर्फ व्हाट्सएप चैट के आधार पर नहीं खत्म हो सकता रिश्ता', पति-पत्नी विवाद पर बोला हाईकोर्ट",
+      "link": "https://www.amarujala.com/india-news/bombay-high-court-on-husband-wife-dispute-relationship-cannot-end-merely-on-the-basis-of-whatsapp-chats-2026-03-06",
+      "summary": "Mumbai: 'सिर्फ व्हाट्सएप चैट के आधार पर नहीं खत्म हो सकता रिश्ता', पति-पत्नी विवाद पर बॉम्बे हाईकोर्ट, Bombay High Court on husband-wife dispute Relationship cannot end merely on the basis of WhatsApp chats",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 03:11:29 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a8f5bd2737655f0c5227236d91332f40",
+      "title": "The promise of a bridge to development in Odisha’s Kalahandi",
+      "link": "https://www.thehindu.com/news/national/odisha/the-promise-of-a-bridge-to-development-in-odishas-kalahandi/article70707044.ece",
+      "summary": "For tribal and Dalit families stranded on a landmass within the vast Indravati reservoir in Odisha’s Kalahandi district, life remains in limbo. Satyasundar Barik travels to this remote, rarely visited region to examine how a project widely credited with ushering in prosperity has failed to positively transform the lives of the people there",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 03:08:22 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5b732e0ad23077293c17ed680783aa19",
+      "title": "Nitish Kumar files nomination papers for Rajya Sabha, ending 20 years as Bihar CM",
+      "link": "https://www.thehindu.com/news/national/bihar/nitish-kumar-files-nomination-papers-for-rajya-sabha-ending-20-years-as-bihar-cm/article70707624.ece",
+      "summary": "Confirming speculation about the end of his 20-year rule in Bihar with a post on social media, Mr. Kumar declared that he had a “desire in his heart” to become a member of both the Houses of Parliament.",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 02:59:19 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d9cf13aea7a992a9c22b699a30a30970",
       "title": "West Bengal Governor Resigns: बंगाल के राज्यपाल के इस्तीफे पर भाजपा-TMC में मचा सियासी घमासान!",
       "link": "https://www.amarujala.com/video/india-news/west-bengal-governor-resigns-political-turmoil-erupts-between-bjp-and-tmc-over-the-resignation-of-bengal-gove-2026-03-06",
@@ -84473,6 +84668,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "1d6d283af0646e18c4c5a3fd561ab417",
+      "title": "Kalyan Singh told an ‘utter lie’: K.K. Venugopal on Babri Masjid demolition",
+      "link": "https://www.thehindu.com/news/national/kalyan-singh-told-an-utter-lie-kk-venugopal-on-babri-masjid-case/article70708475.ece",
+      "summary": "In a candid conversation with The Hindu, K.K. Venugopal discusses the “command from political masters” that triggered the anti-Sikh riots in the 1980s, his sense of betrayal when he realised then-UP CM Kalyan Singh had told him an “utter lie” that the Babri Masjid would not be demolished in the 1990s.",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 02:48:09 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -84671,6 +84879,19 @@
       "lang": "en"
     },
     {
+      "id": "48ecd825cc8b76befc04304e2b832819",
+      "title": "SU-30 MKI aircraft of IAF crashes in Assam’s Karbi Anglong, search operations underway",
+      "link": "https://www.thehindu.com/news/national/assam/sukhoi30-iaf-fighter-aircraft-missing-assam-search-operations/article70708619.ece",
+      "summary": "The aircraft had taken off from Jorhat and was last in contact at 7.42 p.m.",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 02:38:22 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "5bdab6d6d1dadaa7cea728f3a45846e6",
       "title": "Lucknow News: ग्राम प्रधान के घर के सामने हवाई फायरिंग, दहशत",
       "link": "https://www.amarujala.com/lucknow/aerial-firing-in-front-of-the-village-heads-house-panic-lucknow-news-c-13-lko1070-1631481-2026-03-06",
@@ -84772,6 +84993,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "98228d127f9e7025965fc3354a675b9f",
+      "title": "Medical colleges asked to link patients’ digital health records",
+      "link": "https://www.thehindu.com/sci-tech/health/nmc-tells-medical-college-hospitals-to-integrate-digital-health-records-of-all-patients/article70707435.ece",
+      "summary": "All patients coming for OPD, emergency, or hospital admissions must now have linked Ayushman Bharat Health Account IDs; this is aimed at weeding out the fake patients that some colleges submit during the NMC assessment",
+      "date": "2026-03-06",
+      "timestamp": "Fri, 06 Mar 2026 02:33:31 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -84877,32 +85111,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "c7dc64148289408d7d0ed078eb465f7f",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 6 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-06",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-06",
-      "timestamp": "Fri, 06 Mar 2026 02:30:32 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "ab260dd13978c76823011ec023b99290",
-      "title": "पढ़ें 6 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-06",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-06",
-      "timestamp": "Fri, 06 Mar 2026 02:30:20 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "9b79ea7e3837a47b0787f972ca3348df",
@@ -85438,19 +85646,6 @@
       "lang": "en"
     },
     {
-      "id": "48ecd825cc8b76befc04304e2b832819",
-      "title": "SU-30 MKI aircraft of IAF crashes in Assam’s Karbi Anglong, search operations underway",
-      "link": "https://www.thehindu.com/news/national/assam/sukhoi30-iaf-fighter-aircraft-missing-assam-search-operations/article70708619.ece",
-      "summary": "The aircraft had taken off from Jorhat and was last in contact at 7.42 p.m.",
-      "date": "2026-03-06",
-      "timestamp": "Fri, 06 Mar 2026 01:58:57 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ff5536a39b068e5a7921eacd6560fb70",
       "title": "Varanasi News: रवि के निर्णायक गोल से गंगापुर की टीम जीती",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/gangapurs-team-won-with-ravis-decisive-goal-varanasi-news-c-20-vns1103-1310514-2026-03-06",
@@ -85828,19 +86023,6 @@
       "lang": "en"
     },
     {
-      "id": "1d6d283af0646e18c4c5a3fd561ab417",
-      "title": "Kalyan Singh told an ‘utter lie’: K.K. Venugopal on Babri Masjid case",
-      "link": "https://www.thehindu.com/news/national/kalyan-singh-told-an-utter-lie-kk-venugopal-on-babri-masjid-case/article70708475.ece",
-      "summary": "In a candid conversation with The Hindu, K.K. Venugopal discusses the “command from political masters” that triggered the anti-Sikh riots in the 1980s, his sense of betrayal when he realised then-UP CM Kalyan Singh had told him an “utter lie” that the Babri Masjid would not be demolished in the 1990s.",
-      "date": "2026-03-06",
-      "timestamp": "Fri, 06 Mar 2026 01:09:49 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e3eafc35b29b06efe40cd04b5dee226f",
       "title": "अमेरिकी हमले में डूबा ईरानी युद्धपोत: बचाव अभियान में श्रीलंका के साथ उतरी भारतीय नौसेना, दो जहाजों की तैनाती",
       "link": "https://www.amarujala.com/india-news/iranian-warship-indian-navy-deployed-two-ships-and-surveillance-aircraft-to-rescue-ship-news-in-hindi-2026-03-06",
@@ -86049,6 +86231,45 @@
       "lang": "en"
     },
     {
+      "id": "b52659f5324d94f9a042d176c00565d9",
+      "title": "Middle East tensions: PM Modi, Emmanuel Macron discuss need for dialogue & diplomacy",
+      "link": "https://timesofindia.indiatimes.com/india/middle-east-tensions-pm-modi-emmanuel-macron-discuss-need-for-dialogue-diplomacy/articleshow/129116822.cms",
+      "summary": "Prime Minister Modi held discussions with French President Macron, emphasizing a return to dialogue and diplomacy for the West Asia region. Both leaders committed to close engagement and coordinated efforts to restore peace and stability. Concurrently, External Affairs Minister S Jaishankar engaged with his counterparts from Saudi Arabia and Oman, underscoring India's active diplomatic outreach.",
+      "date": "2026-03-05",
+      "timestamp": "2026-03-06T03:35:39+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bd4dc09d76575138e6a2b6c7939bc3ce",
+      "title": "India finally condoles killing of Iran's Khamenei; foreign ministers talk",
+      "link": "https://timesofindia.indiatimes.com/india/india-finally-condoles-killing-of-irans-khamenei-foreign-ministers-talk/articleshow/129115765.cms",
+      "summary": "Foreign Secretary Vikram Misri signed a condolence book at the Iranian embassy following the killing of Iran's supreme leader, amid criticism over India's initial silence. This move follows a telephonic conversation between External Affairs Minister S Jaishankar and his Iranian counterpart, with a potential high-level meeting scheduled.",
+      "date": "2026-03-05",
+      "timestamp": "2026-03-06T03:10:54+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5fa748d32ffdba767c537d74f9c17774",
+      "title": "'Always wished to be in both Houses': Nitish Kumar files Rajya Sabha papers",
+      "link": "https://timesofindia.indiatimes.com/india/always-wished-to-be-in-both-houses-nitish-kumar-files-rajya-sabha-papers/articleshow/129115298.cms",
+      "summary": "Nitish Kumar filed for Rajya Sabha, signaling a potential end to his Bihar CM tenure despite family and party objections. His move, supported by Amit Shah, has sparked unrest within JD(U), with workers protesting. Discussions within NDA are underway for a successor, possibly a Dalit leader or JD(U) deputy CM, as RJD criticizes the political maneuvering.",
+      "date": "2026-03-05",
+      "timestamp": "2026-03-06T02:56:05+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f65d08210a170f370d1e543654b51df1",
       "title": "Who is Zobaidul Amin? Bangladeshi national arrested in US over global child exploitation charges",
       "link": "https://timesofindia.indiatimes.com/world/us/who-is-zobaidul-amin-bangladeshi-national-arrested-in-us-over-global-child-exploitation-charges-could-face-life-in-prison/articleshow/129113776.cms",
@@ -86219,13 +86440,13 @@
     },
     {
       "id": "3d03c9aa535d9cc3845453c607a63b4a",
-      "title": "Ending Ukraine war in everyone's interest, UNSC seat for India crucial: Finland President Alexander Stubb",
+      "title": "No issue can be resolved just through conflict: PM Modi meets Finnish President Alexander Stubb; calls for Ukraine peace",
       "link": "https://timesofindia.indiatimes.com/india/ending-ukraine-war-in-everyones-interest-unsc-seat-for-india-crucial-finland-president-alexander-stubb/articleshow/129110320.cms",
       "summary": "India and Finland emphasized that ending the Russia-Ukraine war is crucial for global stability and called for UN reform. Both nations agreed to support a just peace in Ukraine through diplomacy. A new Migration and Mobility Agreement was signed, fostering cooperation in technology, defense, and critical minerals, strengthening bilateral ties and global supply chains.",
       "date": "2026-03-05",
       "timestamp": "2026-03-06T00:47:19+05:30",
       "section": "National",
-      "report_category": "National_Judicial",
+      "report_category": "National_Govt",
       "source": "TOI India",
       "district": "",
       "lang": "en"
