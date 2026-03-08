@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T21:18:36.868470+00:00",
+  "generated_at": "2026-03-08T22:18:31.670621+00:00",
   "stories": [
     {
       "id": "4ad0c4f736ccb9b4324515d7226ec68c",
@@ -27315,6 +27315,19 @@
       "lang": "en"
     },
     {
+      "id": "5851dadf22eede5d44b6da3b25cbbdde",
+      "title": "Death behind bars in Chhattisgarh",
+      "link": "https://www.thehindu.com/news/national/chhattisgarh/death-behind-bars-in-chhattisgarh/article70716848.ece",
+      "summary": "The custodial death of a tribal leader lodged in a jail in Chhattisgarh’s Kanker district has sparked a debate over prisoner safety across the State. A report on what transpired in the Assembly and the family’s claims",
+      "date": "2026-03-08",
+      "timestamp": "Sun, 08 Mar 2026 23:10:53 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2e21573eddaf45788649ee1dd929187f",
       "title": "Workshop on modern drug design concludes in Mysuru",
       "link": "https://www.thehindu.com/news/national/karnataka/workshop-on-modern-drug-design-concludes-in-mysuru/article70719144.ece",
@@ -27375,19 +27388,6 @@
       "timestamp": "Sun, 08 Mar 2026 22:57:14 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "af7641796111ef2d04ca277f98d00f00",
-      "title": "Indian national among two killed after projectile falls in Saudi residential area",
-      "link": "https://www.thehindu.com/news/international/indian-national-among-two-killed-after-projectile-falls-in-saudi-residential-area/article70719923.ece",
-      "summary": "The incident killed one Indian national and one Bangladeshi national, while 12 Bangladeshi residents were injured, Al-Arabiya news reported",
-      "date": "2026-03-08",
-      "timestamp": "Sun, 08 Mar 2026 22:57:00 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -27601,6 +27601,19 @@
       "lang": "en"
     },
     {
+      "id": "a760e9cad157c9c52cae9e7a0a2fc741",
+      "title": "Who is Mojtaba Khamenei, Iran's new supreme leader?",
+      "link": "https://www.bbc.com/news/articles/c78xxg05w0zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Many expect the 56-year-old, who has largely kept a low profile, to continue his father's hardline policies.",
+      "date": "2026-03-08",
+      "timestamp": "Sun, 08 Mar 2026 21:51:48 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b8e8a6d1f8faad6adf0ab1575f734d8d",
       "title": "NCB busts pan-India darknet drug network called ‘Team Kalki’",
       "link": "https://www.thehindu.com/news/national/ncb-busts-pan-india-darknet-drug-network-called-team-kalki/article70718910.ece",
@@ -27662,6 +27675,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5bd3dc2abcad0ee0e95eedf736e55dd9",
+      "title": "One ‘party state’: Guinea dissolves main opposition parties",
+      "link": "https://www.aljazeera.com/news/2026/3/8/one-party-state-guinea-dissolves-main-opposition-parties?traffic_source=rss",
+      "summary": "Decree strips parties of legal status and assets, as opposition leader calls on Guineans to resist.",
+      "date": "2026-03-08",
+      "timestamp": "Sun, 08 Mar 2026 21:45:02 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -27744,6 +27770,32 @@
       "lang": "en"
     },
     {
+      "id": "666c30447f5ccbd666186990d8bfbee8",
+      "title": "Palestinians killed during Israeli settler attack in the occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/8/palestinians-killed-during-israeli-settler-attack-in-the-occupied-west-bank?traffic_source=rss",
+      "summary": "Palestinians were killed after armed Israeli settlers attacked the village of Abu Falah in the occupied West Bank.",
+      "date": "2026-03-08",
+      "timestamp": "Sun, 08 Mar 2026 21:25:08 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "06a5304e96c6d2f50f59ebf46f25890c",
+      "title": "Iran names Khamenei’s son as new supreme leader after father’s killing",
+      "link": "https://www.aljazeera.com/news/2026/3/8/iran-names-khameneis-son-as-new-supreme-leader-after-fathers-killing-2?traffic_source=rss",
+      "summary": "Mojtaba Khamenei will now be charged with leading Islamic Republic through the biggest crisis in its 47-year history.",
+      "date": "2026-03-08",
+      "timestamp": "Sun, 08 Mar 2026 21:21:28 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7f55ca494ca5695adbbacd5fe84f4e9a",
       "title": "One killed in accident",
       "link": "https://www.thehindu.com/news/national/kerala/one-killed-in-accident/article70719595.ece",
@@ -27779,6 +27831,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a165077dd704b5d722b9e56e1beb5b55",
+      "title": "‘Explosive device’ thrown at protest outside NYC Mayor Mamdani home: NYPD",
+      "link": "https://www.aljazeera.com/news/2026/3/8/explosive-device-thrown-at-protest-outside-nyc-mayor-mamdani-home-nypd?traffic_source=rss",
+      "summary": "Two people have been arrested after the device was thrown, as far-right demonstrators clashed with counterprotesters.",
+      "date": "2026-03-08",
+      "timestamp": "Sun, 08 Mar 2026 21:18:35 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -27949,6 +28014,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "4e5becb1d2c076bad67a8729f97b5cca",
+      "title": "Marches for International Women’s Day denounce war, abuse and oppression",
+      "link": "https://www.aljazeera.com/news/2026/3/8/marches-for-international-womens-day-denounce-war-abuse-and-oppression?traffic_source=rss",
+      "summary": "Marches on 115th anniversary of IWD place focus on issues like US-Israeli war on Iran and Trump's links with Epstein.",
+      "date": "2026-03-08",
+      "timestamp": "Sun, 08 Mar 2026 20:58:20 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -56630,6 +56708,110 @@
       "lang": "en"
     },
     {
+      "id": "611e830b835f375e1728e1bee87b1345",
+      "title": "Iran names Khamenei's son, Mojtaba, as new supreme leader: state media",
+      "link": "https://www.thehindu.com/news/international/mojtaba-khamenei-iran-new-supreme-leader/article70720317.ece",
+      "summary": "It said that the clerical body “did not hesitate for a minute” in choosing a new leader, despite “the brutal aggression of the criminal America and the evil Zionist regime”",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:34:34 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "84fdc9199dd2478cbc9d74cc2b541e55",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 9 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-09",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:30:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5f62de435869d0b73381cc1f7276e097",
+      "title": "पढ़ें 9 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-09",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "71d629b86c43a3b7728c8f058d933f42",
+      "title": "Who is Mojtaba Khamenei? Iran’s new Supreme Leader set to suceed his father Ayatollah Ali Khamenei",
+      "link": "https://www.thehindu.com/news/international/mojtaba-khamenei-iran-next-supreme-leader-who-is-he-ayatollah-khamenei-world-news/article70702310.ece",
+      "summary": "The selection is historic as Iran’s establishment has long rejected the idea of hereditary succession from father to son",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:23:54 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "291a7ee82a9b0041c5908d327ca6cac7",
+      "title": "Dehradun-Haridwar Highway Accident: देहरादून-हरिद्वार हाईवे पर हुआ दर्दनाक हादसा, कई वाहन जले",
+      "link": "https://www.amarujala.com/video/india-news/dehradun-haridwar-highway-accident-tragic-accident-occurred-on-dehradun-haridwar-highway-many-vehicles-burnt-2026-03-09",
+      "summary": "Dehradun-Haridwar Highway Accident: देहरादून-हरिद्वार हाईवे पर हुआ दर्दनाक हादसा, कई वाहन जले",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:11:56 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "21cddfd5434c533b670035eabd58511b",
+      "title": "Fans Celebration: भारत की ऐतिहासिक जीत पर जश्न में डूबा देश, सड़कों पर उतरे लोग; तस्वीरों में देखें माहौल",
+      "link": "https://www.amarujala.com/india-news/fans-celebration-pictures-india-historic-win-nation-erupt-in-celebration-people-cracking-dance-in-streets-2026-03-09",
+      "summary": "Fans Celebration: भारत की ऐतिहासिक जीत पर जश्न में डूबा देश, सड़कों पर उतरे लोग; तस्वीरों में देखें माहौल",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:04:21 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "e7ec1f59c67301a333790251bb134430",
+      "title": "Israel-Iran war LIVE: ‌Iran names Khamenei's son, Mojtaba, as new supreme leader, state media reports",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-west-asia-conflict-march-8-2026-trump-west-asia-crisis-oil-prices-air-strikes-drone-attacks/article70717992.ece",
+      "summary": "Trump says new Iran leader 'won't last long' without his approval; toll of American troop casualties rises to seven",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:55:46 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "49df61f22c8332c9537b6e94f182f092",
+      "title": "Osman Hadi: बंगाल में पकड़े गए दो बांग्लादेशी नागिरक, बांग्लादेश के युवा नेता हादी की हत्या में थे शामिल",
+      "link": "https://www.amarujala.com/india-news/osman-hadi-murder-case-two-bangladeshi-nationals-arrested-by-west-bengal-police-stf-2026-03-09",
+      "summary": "Osman Hadi: बंगाल में पकड़ गए दो बांग्लादेशी नागिरक, बांग्लादेश के युवा नेता उस्मान हादी की हत्या में थे शामिल",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:51:39 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "b61f105d41381a03f90f3d0e851da2f5",
       "title": "Gorakhpur News: महानगर के पांच प्रमुख चौराहों का होगा सुंदरीकरण",
       "link": "https://www.amarujala.com/gorakhpur/five-major-intersections-of-the-metropolis-will-be-beautified-gorakhpur-news-c-7-gkp1038-1251554-2026-03-09",
@@ -57072,6 +57254,19 @@
       "lang": "en"
     },
     {
+      "id": "5c8c6860799253c58d2f708a158ec9b9",
+      "title": "ISRO and ESA sign agreement for Earth Observation missions",
+      "link": "https://www.thehindu.com/sci-tech/science/isro-and-esa-sign-agreement-for-earth-observation-missions/article70719746.ece",
+      "summary": "The agreement was signed on March 4 by M. Ganesh Pillai, scientific secretary, ISRO, and Simonetta Cheli, director, Earth Observation Programme, ESA, in a virtual meeting mode",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:30:55 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a30ebc60fe93be18b2a5b7c898fa1bf3",
       "title": "Lucknow News: कुल्हाड़ी से चेहरे और सिर पर वार कर पत्नी की हत्या",
       "link": "https://www.amarujala.com/lucknow/wife-murdered-by-hitting-face-and-head-with-an-axe-lucknow-news-c-13-knp1002-1635932-2026-03-09",
@@ -57082,19 +57277,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "84fdc9199dd2478cbc9d74cc2b541e55",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 9 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-09",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 02:30:25 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -57122,19 +57304,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "5f62de435869d0b73381cc1f7276e097",
-      "title": "पढ़ें 9 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-09",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 02:30:13 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "8ebdcdf0ee0f2ed9b14185f8f06606ae",
@@ -57904,6 +58073,19 @@
       "lang": "en"
     },
     {
+      "id": "af7641796111ef2d04ca277f98d00f00",
+      "title": "Indian national among two killed after projectile falls in Saudi residential area",
+      "link": "https://www.thehindu.com/news/international/indian-national-among-two-killed-after-projectile-falls-in-saudi-residential-area/article70719923.ece",
+      "summary": "The incident killed one Indian national and one Bangladeshi national, while 12 Bangladeshi residents were injured, Al-Arabiya news reported; India assures assistance to its nationals in Saudi Arabia",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 01:41:22 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "196ab763b783766c6bab47ec0799d6df",
       "title": "Varanasi News: मां से झगड़े के बाद युवक ने फंदे से लटकर दी जान, पत्नी ने सास को ठहराया जिम्मेदार",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/young-man-commits-suicide-by-hanging-after-quarrel-with-mother-wife-blames-mother-in-law-varanasi-news-c-20-vns1056-1314100-2026-03-09",
@@ -58014,19 +58196,6 @@
       "summary": "Nepal’s voters upend old political order as RSP faces governance test",
       "date": "2026-03-09",
       "timestamp": "Mon, 09 Mar 2026 01:32:58 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "e7ec1f59c67301a333790251bb134430",
-      "title": "Israel-Iran war LIVE: Iran launches fresh salvo of missiles targeting Israel's Tel Aviv, U.S. bases; toll of American troop casualties rises to seven",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-west-asia-conflict-march-8-2026-trump-west-asia-crisis-oil-prices-air-strikes-drone-attacks/article70717992.ece",
-      "summary": "Trump says new Iran leader 'won't last long' without his approval as Iran's Assembly of Experts met privately and chose their next leader",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 01:31:42 +0530",
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
@@ -81716,6 +81885,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b5833688f5b2c6fed63118c9a385491a",
+      "title": "Historian reveals why Epstein still haunts the royal family: 'The problem is British government...'",
+      "link": "https://timesofindia.indiatimes.com/world/us/historian-reveals-why-epstein-still-haunts-the-royal-family-the-problem-is-british-government-/articleshow/129290490.cms",
+      "summary": "",
+      "date": "2026-03-08",
+      "timestamp": "2026-03-09T02:44:15+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
