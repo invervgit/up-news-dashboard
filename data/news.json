@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T17:43:12.990315+00:00",
+  "generated_at": "2026-03-09T18:43:56.771032+00:00",
   "stories": [
     {
       "id": "4ad0c4f736ccb9b4324515d7226ec68c",
@@ -7460,6 +7460,45 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c2f8e41615cb1a684b3effa1394d6175",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 10 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-10",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-10",
+      "timestamp": "Tue, 10 Mar 2026 12:01:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "1c91a5b6feaea84a5dec09d98a13e3c4",
+      "title": "पढ़ें 10 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-10",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-10",
+      "timestamp": "Tue, 10 Mar 2026 12:01:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b8fad7caebb6e35d9eac501c880c284a",
+      "title": "PM Modi speaks to Nepal leaders Rabi Lamichhane, Balendra Shah",
+      "link": "https://www.thehindu.com/news/national/pm-modi-speaks-to-nepal-leaders-rabi-lamichhane-balendra-shah/article70723928.ece",
+      "summary": "The PM congratulated the Rastriya Swatantra Party leaders on their election victory and conveyed India's commitment to work with them for mutual prosperity, progress and well-being of the two countries",
+      "date": "2026-03-10",
+      "timestamp": "Tue, 10 Mar 2026 00:00:44 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -47140,6 +47179,201 @@
       "lang": "en"
     },
     {
+      "id": "03ed2fbfce68822cfe2190dc9f65ea5a",
+      "title": "We will have to approach court against Centre to seek justice on devolution of funds, says CM",
+      "link": "https://www.thehindu.com/news/national/karnataka/we-will-have-to-approach-court-against-centre-to-seek-justice-on-devolution-of-funds-says-cm/article70723507.ece",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:57:10 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ac63dcdc4a5f697d78089bb8d121b8ca",
+      "title": "Israel-Iran war LIVE: Trump says 'too soon to talk about' seizing Iran's oil; 'they made big mistake' choosing Mojtaba Khamenei",
+      "link": "https://www.thehindu.com/news/international/israel-iran-war-live-march-9-2026-mojtaba-khamenei-chosen-as-next-supreme-leader-missiles-fired-world-news-updates/article70720987.ece",
+      "summary": "France, allies preparing 'defensive' mission to reopen Strait of Hormuz, says President Macron",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:55:23 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "751eaf680685f5603ec26ca047bac896",
+      "title": "KSIC planning to double capacity at its filature factory in T. Narsipura",
+      "link": "https://www.thehindu.com/news/national/karnataka/ksic-planning-to-double-capacity-at-its-filature-factory-in-t-narsipura/article70723078.ece",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:54:24 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4e49262339e9caa16e92d8140433283a",
+      "title": "खतौनी-कागजों की जांच के बाद ही रजिस्ट्री, योगी कैबिनेट में 27 से अधिक प्रस्तावों पर लग सकती है मुहर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/registry-will-be-done-only-after-checking-the-documents-yogi-cabinet-may-approve-more-than-27-proposals-201773079927400.html",
+      "summary": "यूपी में खतौनी-कागजों की जांच के बाद ही रजिस्ट्री होगी। योगी सरकार गड़बड़ियों पर लगाम लगाने के लिए महत्वपूर्ण कदम उठाने जा रही है। योगी कैबिनेट में 27 अहम फैसलों पर मुहर लगेगी।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:54:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ffe30ca1fda29388806e6a45b9859e53",
+      "title": "Tamil Nadu can never be painted in saffron, says CM Stalin",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-can-never-be-painted-in-saffron-says-cm-stalin/article70723924.ece",
+      "summary": "The BJP will never be able to rule the State even if it comes wearing the mask of the AIADMK, the DMK president says at the 12th State conference of the party at Siruganur on the outskirts of Tiruchi",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:48:07 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bebe3fdceb98c5eb11f33ebbb49c5b06",
+      "title": "Police must upgrade themselves to tackle cybercrime, drug menace: CM",
+      "link": "https://www.thehindu.com/news/national/telangana/police-must-upgrade-themselves-to-tackle-cybercrime-drug-menace-cm/article70723686.ece",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:46:04 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fb1e706bcb662dd3e88aa2465fe488e7",
+      "title": "India will not raise petrol prices despite global crude headwinds: Government sources",
+      "link": "https://www.thehindu.com/business/Economy/india-will-not-raise-petrol-prices-despite-global-crude-headwinds-government-sources/article70723329.ece",
+      "summary": "The minimum gap for booking a domestic LPG refill has been increased to 25 days from the current 21 days, a move aimed at preventing hoarding and ensuring equitable distribution of cylinders",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:44:13 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2029c827927b6d250e66fbb3a8fcda3e",
+      "title": "DCC stages protest for Ganesh Kumar’s resignation",
+      "link": "https://www.thehindu.com/news/national/kerala/dcc-stages-protest-for-ganesh-kumars-resignation/article70723846.ece",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:39:51 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8ac8a6cd27a466cd36244c328cb2cbea",
+      "title": "6 माह की सैलरी से अधिक पैसा शेयर में लगाने पर देनी होगी जानकारी, योगी कैबिनेट में होगा फैसला",
+      "link": "https://www.livehindustan.com/uttar-pradesh/state-employees-will-disclose-if-they-invest-more-than-six-months-salary-in-shares-decision-will-taken-in-yogi-cabinet-201773078881771.html",
+      "summary": "यूपी में राज्यकर्मियों को 6 माह की सैलरी से अधिक पैसा शेयर में लगाने पर जानकारी देनी होगी। इसके लिए सरकारी कर्मचारियों की आचरण नियमावली, 1956 में संशोधन किया जा रहा है। वर्तमान नियमावली में इसका कोई प्रावधान नहीं है।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:36:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "78b00ec1f7e6e98c7299c9ba153e5eb1",
+      "title": "Madras HC directs GRH Dean to complete post-mortem in alleged ‘custodial’ death of youth in Sivaganga",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/madras-hc-directs-grh-dean-to-complete-post-mortem-in-alleged-custodial-death-of-youth-in-sivaganga/article70723185.ece",
+      "summary": "During the course of the hearing, Additional Advocate General M. Ajmal Khan submitted that there was no custodial torture as alleged and that the youth was never taken to the Manamadurai police station",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:34:34 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "834e2eceaeb330f445ea560a14a7fa35",
+      "title": "Women employees urged to lead in public and social service",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/women-employees-urged-to-lead-in-public-and-social-service/article70723687.ece",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:31:57 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1deffe067f2691f7ab20e2176d2467fa",
+      "title": "CM accuses Modi of ‘surrendering’ to U.S.",
+      "link": "https://www.thehindu.com/news/national/karnataka/cm-accuses-modi-of-surrendering-to-us/article70723633.ece",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:27:27 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3cfffb9a82235d1792047ef7d0f54dfc",
+      "title": "Farmers urged to prepare for potential El Nino impact",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/farmers-urged-to-prepare-for-potential-el-nino-impact/article70723606.ece",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:20:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ac0a2ab117754020d5202c6c2627b4d8",
+      "title": "Mobilisation for a column on denotified tribes in Census forms picks up pace",
+      "link": "https://www.thehindu.com/society/mobilisation-for-a-column-on-denotifiedtribesin-census-forms-picks-up-pace/article70723119.ece",
+      "summary": "Associations of denotified, nomadic, and semi-nomadic tribes in north India form a central action committee; community leaders demand meeting with Census officers",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:20:07 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fe47124ada42f2e1084788c1ebe80e1c",
+      "title": "JPC on higher education Bill to interact with UGC, AICTE, NCTE officials this week",
+      "link": "https://www.thehindu.com/news/national/jpc-on-higher-education-bill-to-interact-with-ugc-aicte-ncte-officials-this-week/article70722714.ece",
+      "summary": "The Viksit Bharat Shiksha Adhishthan Bill was introduced to ‘overhaul the regulatory framework’ of higher education in India by replacing the UGC, AICTE, and NCTE with a single regulatory body",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 23:14:46 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "43df815f9ec557ecc89c0e1cb1ac8df3",
       "title": "सीएम योगी ने विधायकों से मांगे पांच-पांच करोड़ के विकास कार्य के प्रस्ताव, हफ्तेभर का दिया समय",
       "link": "https://www.livehindustan.com/uttar-pradesh/cm-yogi-asks-mlas-for-development-work-proposals-worth-rs-5-crore-each-gives-them-a-week-time-201773077501561.html",
@@ -47200,6 +47434,19 @@
       "timestamp": "Mon, 09 Mar 2026 23:00:19 +0530",
       "section": "National",
       "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "611e830b835f375e1728e1bee87b1345",
+      "title": "Iran picks Mojtaba Khamenei as new leader",
+      "link": "https://www.thehindu.com/news/international/mojtaba-khamenei-iran-new-supreme-leader/article70720317.ece",
+      "summary": "The 57-year-old will be the third Supreme Leader of the Republic, after Khomeini and Khamenei; U.S. President Donald Trump had said last week the new leader should be acceptable to him",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 22:56:05 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -47387,19 +47634,6 @@
       "lang": "en"
     },
     {
-      "id": "ac63dcdc4a5f697d78089bb8d121b8ca",
-      "title": "Israel-Iran war LIVE: Israel says killed head of Hezbollah unit in south Lebanon",
-      "link": "https://www.thehindu.com/news/international/israel-iran-war-live-march-9-2026-mojtaba-khamenei-chosen-as-next-supreme-leader-missiles-fired-world-news-updates/article70720987.ece",
-      "summary": "Iran’s security chief Ali Larijani says it is “unlikely” that any security can be achieved in the Strait of Hormuz as long as the war with the United States and Israel continues",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 22:32:53 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e5ad06ed941f529d48bfc02666f4bcf2",
       "title": "बदनामी के डर से मां-भाई बने कातिल, रेप पीड़िता को खेत में ले जाकर मार डाला",
       "link": "https://www.livehindustan.com/uttar-pradesh/due-to-fear-of-defamation-the-mother-and-brother-killed-the-rape-victim-201773074296781.html",
@@ -47445,19 +47679,6 @@
       "summary": "The government is looking into bringing an amendment to the 106th Constitutional Amendment Act to remove the requirement of delimitation for reserving seats for women in Lok Sabha and State Assemblies",
       "date": "2026-03-09",
       "timestamp": "Mon, 09 Mar 2026 22:28:43 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "fb1e706bcb662dd3e88aa2465fe488e7",
-      "title": "India will not raise petrol prices despite global crude headwinds: Government sources",
-      "link": "https://www.thehindu.com/business/Economy/india-will-not-raise-petrol-prices-despite-global-crude-headwinds-government-sources/article70723329.ece",
-      "summary": "The minimum gap for booking a domestic LPG refill has been increased to 25 days from the current 21 days, a move aimed at preventing hoarding and ensuring equitable distribution of cylinders",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 22:28:19 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -47694,19 +47915,6 @@
       "timestamp": "Mon, 09 Mar 2026 21:44:06 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "03ed2fbfce68822cfe2190dc9f65ea5a",
-      "title": "We will have to approach court against Centre to seek justice on devolution of funds, says CM",
-      "link": "https://www.thehindu.com/news/national/karnataka/we-will-have-to-approach-court-against-centre-to-seek-justice-on-devolution-of-funds-says-cm/article70723507.ece",
-      "summary": "",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 21:43:54 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -48316,19 +48524,6 @@
       "summary": "",
       "date": "2026-03-09",
       "timestamp": "Mon, 09 Mar 2026 20:37:49 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "751eaf680685f5603ec26ca047bac896",
-      "title": "KSIC planning to double capacity at its filature factory in T. Narsipura",
-      "link": "https://www.thehindu.com/news/national/karnataka/ksic-planning-to-double-capacity-at-its-filature-factory-in-t-narsipura/article70723078.ece",
-      "summary": "",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 20:35:08 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -49454,6 +49649,19 @@
       "lang": "en"
     },
     {
+      "id": "72171a2818665d6135e1a9420c8f43dd",
+      "title": "Istanbul's mayor on trial for corruption charges",
+      "link": "https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ekrem Imamoglu is seen as Turkish President Recep Tayyip Erdogan's main political rival.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 18:35:32 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2d1dcf0e41493145344fa283684e4b88",
       "title": "TVK flags series of crimes, accuses govt. of law and order failure",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/tvk-flags-series-of-crimes-accuses-govt-of-law-and-order-failure/article70722205.ece",
@@ -49558,6 +49766,19 @@
       "lang": "en"
     },
     {
+      "id": "c4d1d8f78b8efb545fbfad98d4d16eb9",
+      "title": "WHO chief raises alarm after Israeli attacks on Iranian oil facilities",
+      "link": "https://www.aljazeera.com/news/2026/3/9/who-chief-raises-alarm-after-israeli-attacks-on-iranian-oil-facilities?traffic_source=rss",
+      "summary": "Tedros Adhanom Ghebreyesus says children, the elderly at particular risk after damage to Iranian petroleum facilities.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 18:10:10 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ccb2522b06e7a19c17c44ac7a66c5298",
       "title": "First phase of Mananchira-Vellimadukunnu road project opened to traffic",
       "link": "https://www.thehindu.com/news/national/kerala/first-phase-of-mananchira-vellimadukunnu-road-project-opened-to-traffic/article70722118.ece",
@@ -49584,6 +49805,19 @@
       "lang": "en"
     },
     {
+      "id": "b46a6bac19e15e0b1f3728b60f052f18",
+      "title": "How the Iran war is affecting Africa",
+      "link": "https://www.aljazeera.com/video/africa-now/2026/3/9/how-the-iran-war-is-affecting-africa?traffic_source=rss",
+      "summary": "Before the start of the war between Israel, US and Iran, Africa was on track for its biggest economic moment in history.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 17:58:11 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f968759027b09b2da49f32bcf977865e",
       "title": "Ramadan 2026: लखनऊ, कानपुर, बरेली समेत यूपी के शहरों में 10 मार्च को सहरी का सही समय जानें",
       "link": "https://www.livehindustan.com/uttar-pradesh/ramadan-2026-know-the-exact-time-of-sehri-on-10th-march-in-the-cities-of-up-including-lucknow-kanpur-meerut-201773058692668.html",
@@ -49606,6 +49840,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9cf903a58533e8392cdf4a3207f2e387",
+      "title": "Trump says Australia has ‘taken care of’ some Iranian women footballers",
+      "link": "https://www.aljazeera.com/news/2026/3/9/trump-says-australia-has-taken-care-of-iranian-women-football-players?traffic_source=rss",
+      "summary": "Players' union FIFPRO expressed serious concerns for team after criticism for not singing anthem before first match.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 17:46:02 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -50858,19 +51105,6 @@
       "lang": "en"
     },
     {
-      "id": "72171a2818665d6135e1a9420c8f43dd",
-      "title": "Istanbul's ex-mayor on trial for corruption charges",
-      "link": "https://www.bbc.com/news/articles/c204ymjnn80o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ekrem Imamoglu is seen as Turkish President Recep Tayyip Erdogan's main political rival.",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 13:19:31 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b280877b45fe1ce43fd3815a9af36645",
       "title": "21 रमजान पर लखनऊ में निकला बड़ा मातमी जुलूस, ड्रोन निगरानी और भारी पुलिस बल तैनात",
       "link": "https://www.patrika.com/lucknow-news/muharram-style-mourning-procession-on-21st-ramzan-in-lucknow-massive-security-with-drones-and-raf-deployment-20410814",
@@ -51404,6 +51638,19 @@
       "lang": "en"
     },
     {
+      "id": "2deb148df38d1fcaa1fda5c39f0c608c",
+      "title": "राज्यसभा चुनाव: पवार-सिंघवी समेत 26 नेता निर्विरोध निर्वाचित; बिहार, ओडिशा और हरियाणा की 11 सीटों पर चुनाव तय",
+      "link": "https://www.amarujala.com/india-news/rajya-sabha-elections-pawar-athawale-singhvi-among-26-elected-unopposed-elections-held-11-seats-three-states-2026-03-09",
+      "summary": "राज्यसभा चुनाव: पवार-सिंघवी समेत 26 नेता निर्विरोध निर्वाचित; बिहार, ओडिशा और हरियाणा की 11 सीटों पर चुनाव तय",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 11:57:06 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "6d181892aa557047133809b5f4cce70f",
       "title": "Mayawati expels leader who brought criminals into BSP:Wasim with 56 cases; history-sheeter given party membership",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/wasim-history-sheeter-bsp-membership-mayawati-expels-vikram-up-137390649.html",
@@ -51453,6 +51700,32 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "23cf594d35e9ea399cd2a6bbcae35221",
+      "title": "नोएडा में महिला कलाकारों ने महिला शक्ति, संवेदनाओं और सामाजिक अनुभवों को कैनवास पर उकेरा",
+      "link": "https://www.amarujala.com/video-shots/short-videos/video-women-artists-in-noida-capture-women-power-emotions-and-social-experiences-on-canvas-2026-03-09",
+      "summary": "नोएडा में महिला कलाकारों ने महिला शक्ति, संवेदनाओं और सामाजिक अनुभवों को कैनवास पर उकेरा",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 11:51:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "c32f3ccbd8ee803adb62c052169af683",
+      "title": "नोएडा में सत्यम फैशन इंस्टीट्यूट में वार्षिक ग्रेजुएशन डिजाइन शो ‘सत्यम्स तृप्तिक’ का आयोजन",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-satyam-fashion-institute-in-noida-organised-its-annual-graduation-design-show-satyams-triptik-2026-03-09",
+      "summary": "नोएडा में सत्यम फैशन इंस्टीट्यूट में वार्षिक ग्रेजुएशन डिजाइन शो ‘सत्यम्स तृप्तिक’ का आयोजन",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 11:51:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -51521,6 +51794,19 @@
       "lang": "en"
     },
     {
+      "id": "0ccbaf6ede2ad9aba839b70263a8115a",
+      "title": "बंगाल में परिवर्तन यात्रा: भाजपा समर्थकों की भीड़ उमड़ी, विपक्षी दल का दावा- चुनाव के बाद होगा सत्ता परिवर्तन",
+      "link": "https://www.amarujala.com/india-news/bjp-parivartan-yatra-in-west-bengal-crowd-gathered-to-see-leaders-opposition-claim-change-of-power-ousting-tmc-2026-03-09",
+      "summary": "बंगाल में परिवर्तन यात्रा: भाजपा समर्थकों की भीड़ उमड़ी, विपक्षी दल का दावा- चुनाव के बाद होगा सत्ता परिवर्तन",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 11:42:46 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "c66e4265f7663798b42bdb6efdec00ec",
       "title": "Lucknow News: गृहकर जमा न करने वाले तीन सरकारी दफ्तर सील",
       "link": "https://www.amarujala.com/lucknow/lucknow-news-lucknow-news-c-13-1-lko1069-1636104-2026-03-09",
@@ -51531,6 +51817,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "a56da571f24e1f96cffd2ffb9dd60c97",
+      "title": "बाबा कालभैरव: रजत मुखौटा में दिए दर्शन, सवा लाख बत्तियों से उतारी आरती; चारों वेदों का हुआ पारायण",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/baba-kalbhairav-appearance-in-silver-mask-aarti-performed-about-1-lakh-lamps-recitation-of-all-four-vedas-2026-03-09",
+      "summary": "काशी के कोतवाल बाबा कालभैरव की नैयनाभिराम झांकी के दर्शन कर भक्त निहाल हुए। बाबा कालभैरव रजत मुखौटे से सजे थे। चारों वेदों का पारायण और सवा लाख बातियों से उनकी आरती उतारी गई।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 11:42:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -51651,6 +51950,19 @@
       "lang": "en"
     },
     {
+      "id": "84fdc9199dd2478cbc9d74cc2b541e55",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 9 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-09",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 11:30:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "066754072f75d0d7dfe490b628b03ca4",
       "title": "टी-20 जीत का जश्न: मुरादाबाद में मिठाई बांटकर मनाई खुशी, सड़क पर होली के बाद मनी दिवाली, पटाखों की गूंज",
       "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/t20-victory-celebrations-moradabad-celebrates-with-sweets-celebrates-diwali-after-holi-on-the-streets-2026-03-09",
@@ -51674,6 +51986,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7f78944079c67952c999740d9e5326e6",
+      "title": "UP: घर में घुसकर मां-बेटों को बनाया बंधक, लूटे नगदी समेत गहने, दो घंटे तक अंदर रहे; पुलिस अस्पताल लेकर भागी",
+      "link": "https://www.amarujala.com/lucknow/up-mother-and-sons-held-hostage-in-home-robbed-of-cash-and-jewellery-remained-inside-for-two-hours-police-2026-03-09",
+      "summary": "मड़ियांव में गुड्डी देवी के घर चार बदमाश घुसे और उन्हें व उनके दो बेटों को बंधक बनाकर पीटा। बदमाशों ने लाखों रुपये के जेवर और नकदी लूटकर भाग गए। जंगल में घर होने और आसपास कोई नहीं होने के कारण घटना अंजाम दी गई।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 11:27:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -51869,19 +52194,6 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "84fdc9199dd2478cbc9d74cc2b541e55",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 9 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-09",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 11:01:12 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -53454,19 +53766,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "611e830b835f375e1728e1bee87b1345",
-      "title": "Iran names Khamenei's son, Mojtaba, as new supreme leader: state media",
-      "link": "https://www.thehindu.com/news/international/mojtaba-khamenei-iran-new-supreme-leader/article70720317.ece",
-      "summary": "It said that the clerical body “did not hesitate for a minute” in choosing a new leader, despite “the brutal aggression of the criminal America and the evil Zionist regime”",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 08:44:40 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -81443,6 +81742,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "694e21671cdd5d758b2cb83b5743a2c2",
+      "title": "Kashmir netas meet Iran envoy, slam Khamenei’s killing",
+      "link": "https://timesofindia.indiatimes.com/india/kashmir-netas-meet-iran-envoy-slam-khameneis-killing/articleshow/129350024.cms",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "2026-03-09T23:48:37+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "06baafff4993dcd2ebb08f47d2d45240",
+      "title": "Protection plea by teen bride raises J&K HC’s suspicion",
+      "link": "https://timesofindia.indiatimes.com/india/protection-plea-by-teen-bride-raises-jk-hcs-suspicion/articleshow/129349850.cms",
+      "summary": "A Jammu and Kashmir high court judge's suspicion during a routine protection petition led to an investigation into a criminal network allegedly luring young girls. The court discovered the 'husband' was already married and ordered a probe into the moulvi and the advocate involved, highlighting a moment of judicial vigilance to prevent a teenage girl's life from being wasted.",
+      "date": "2026-03-09",
+      "timestamp": "2026-03-09T23:45:31+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1813da3d982614b488b3f73f56b3905a",
+      "title": "Soldier goes missing during training in J&K’s Rajouri",
+      "link": "https://timesofindia.indiatimes.com/india/soldier-goes-missing-during-training-in-jks-rajouri/articleshow/129349700.cms",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "2026-03-09T23:42:37+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "76818b76400d04423ef626c3edc33a6e",
+      "title": "Middle East crisis: Hospitality industry seeks urgent government action over commercial LPG supply disruption",
+      "link": "https://timesofindia.indiatimes.com/india/middle-east-crisis-hospitality-industry-seeks-urgent-government-action-over-commercial-lpg-supply-disruption/articleshow/129348886.cms",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "2026-03-09T23:31:33+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
