@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T22:23:14.709749+00:00",
+  "generated_at": "2026-03-09T23:23:04.242702+00:00",
   "stories": [
     {
       "id": "4ad0c4f736ccb9b4324515d7226ec68c",
@@ -7620,6 +7620,45 @@
       "lang": "en"
     },
     {
+      "id": "c2f8e41615cb1a684b3effa1394d6175",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 10 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-10",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-10",
+      "timestamp": "Tue, 10 Mar 2026 04:30:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "1c91a5b6feaea84a5dec09d98a13e3c4",
+      "title": "पढ़ें 10 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-10",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-10",
+      "timestamp": "Tue, 10 Mar 2026 04:30:21 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5af2e11043262a155a77906d69396aca",
+      "title": "Rajasthan Assembly passes Bill to scrap two-child norm for panchayat elections",
+      "link": "https://www.thehindu.com/news/national/rajasthan/rajasthan-assembly-passes-bill-to-scrap-two-child-norm-for-panchayat-elections/article70723089.ece",
+      "summary": "The Rajasthan Panchayati Raj (Amendment) Bill, 2026, was passed in the House after an acrimonious debate, in which the Opposition Congress MLAs questioned the need for reversing the decision taken three decades ago",
+      "date": "2026-03-10",
+      "timestamp": "Tue, 10 Mar 2026 04:27:15 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ac63dcdc4a5f697d78089bb8d121b8ca",
       "title": "Israel-Iran war LIVE: Israel launches new 'broad wave' of strikes on Tehran even as Trump says operations 'very complete'",
       "link": "https://www.thehindu.com/news/international/israel-iran-war-live-march-9-2026-mojtaba-khamenei-chosen-as-next-supreme-leader-missiles-fired-world-news-updates/article70720987.ece",
@@ -7644,32 +7683,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "c2f8e41615cb1a684b3effa1394d6175",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 10 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-10",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-10",
-      "timestamp": "Tue, 10 Mar 2026 03:30:28 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "1c91a5b6feaea84a5dec09d98a13e3c4",
-      "title": "पढ़ें 10 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-10",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-10",
-      "timestamp": "Tue, 10 Mar 2026 03:30:16 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "34c92e2968c14c905145ed2661e60e3f",
@@ -8791,7 +8804,7 @@
     },
     {
       "id": "cc71810fb238e196561e3dc0c39f58db",
-      "title": "News Updates: पश्चिम बंगाल में विभागों का फेरबदल, मुख्यमंत्री ममता बनर्जी ने कानून विभाग की जिम्मेदारी संभाली",
+      "title": "News Updates: पश्चिम बंगाल में सीएम बनर्जी ने कानून विभाग की जिम्मेदारी संभाली; आईडीएफसी बैंक में एक और घोटाला",
       "link": "https://www.amarujala.com/india-news/news-updates-10-march-west-bengal-mamata-banerjee-pm-modi-crime-politics-2026-03-10",
       "summary": "News Updates: पश्चिम बंगाल में विभागों का फेरबदल, मुख्यमंत्री ममता बनर्जी ने कानून विभाग की जिम्मेदारी संभाली news updates 10 march west bengal mamata banerjee crime politics",
       "date": "2026-03-10",
@@ -9422,6 +9435,19 @@
       "timestamp": "Tue, 10 Mar 2026 00:43:58 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1e071af0708de37c1e8bda00c35bb00e",
+      "title": "Commercial LPG cylinders remain unfilled at bottling plants of OMC’s",
+      "link": "https://www.thehindu.com/news/cities/chennai/commercial-lpg-cylinders-remain-unfilledat-bottling-plants-of-omcs/article70723543.ece",
+      "summary": "Distributors of Indian Oil, Bharat Petroleum, and Hindustan Petroleum confirm that bottling of commercial cylinders had been stopped at the plants. Hotels, restaurants, small eateries, and tea stalls take the hit and initiate stringency measures",
+      "date": "2026-03-10",
+      "timestamp": "Tue, 10 Mar 2026 00:43:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -49636,6 +49662,19 @@
       "lang": "en"
     },
     {
+      "id": "0741057e26543875e8c9d3e6eb9bfbea",
+      "title": "Where do the 35 million foreigners living in the GCC come from?",
+      "link": "https://www.aljazeera.com/news/2026/3/9/where-do-the-35-million-foreigners-living-in-the-gcc-come-from?traffic_source=rss",
+      "summary": "More than half of the 62 million people in the six Gulf Cooperation Council (GCC) countries are foreign workers.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 22:20:17 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d6d77efdb51bab6d00917d6ebd707158",
       "title": "U.S. military announces death of seventh service member in Iran war",
       "link": "https://www.thehindu.com/news/international/us-military-announces-death-of-seventh-service-member-in-iran-war/article70722956.ece",
@@ -51875,7 +51914,7 @@
       "id": "9cf903a58533e8392cdf4a3207f2e387",
       "title": "Australia grants asylum to five Iranian women footballers",
       "link": "https://www.aljazeera.com/news/2026/3/9/trump-says-australia-has-taken-care-of-iranian-women-football-players?traffic_source=rss",
-      "summary": "Players' union FIFPRO expressed serious concerns for team after criticism for not singing anthem before first match.",
+      "summary": "Players' union FIFPRO expresses serious concerns for team after criticism of them not singing anthem before first match.",
       "date": "2026-03-09",
       "timestamp": "Mon, 09 Mar 2026 17:46:02 +0000",
       "section": "International",
@@ -83731,6 +83770,45 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9b3d16f2a6691fc789d451a960624cd0",
+      "title": "Left politicians raise Rahul’s ‘CJP’ comments at opposition meet",
+      "link": "https://timesofindia.indiatimes.com/india/left-politicians-raise-rahuls-cjp-comments-at-opposition-meet/articleshow/129361914.cms",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "2026-03-10T04:32:43+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b60f303f28805fb7ab01af151427b442",
+      "title": "Birla motion can be taken up after Gulf debate: Congress",
+      "link": "https://timesofindia.indiatimes.com/india/birla-motion-can-be-taken-up-after-gulf-debate-congress/articleshow/129361855.cms",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "2026-03-10T04:30:35+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cddc4b0aab75e517c8499d61bc83eb8c",
+      "title": "Care economy, telemedicine key to future health jobs: PM Modi",
+      "link": "https://timesofindia.indiatimes.com/india/care-economy-telemedicine-key-to-future-health-jobs-pm-modi/articleshow/129359998.cms",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "2026-03-10T03:52:46+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
