@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-09T08:38:16.293456+00:00",
+  "generated_at": "2026-03-09T09:43:25.421479+00:00",
   "stories": [
     {
       "id": "4ad0c4f736ccb9b4324515d7226ec68c",
@@ -27773,7 +27773,7 @@
       "id": "06a5304e96c6d2f50f59ebf46f25890c",
       "title": "Iran names Mojtaba Khamenei as new supreme leader after father’s killing",
       "link": "https://www.aljazeera.com/news/2026/3/8/iran-names-khameneis-son-as-new-supreme-leader-after-fathers-killing-2?traffic_source=rss",
-      "summary": "The son of Ali Khamenei will now be charged with leading Islamic Republic through biggest crisis in its history.",
+      "summary": "The son of slain Supreme Leader Ali Khamenei will be charged with leading Iran through biggest crisis in its history.",
       "date": "2026-03-08",
       "timestamp": "Sun, 08 Mar 2026 21:21:28 +0000",
       "section": "International",
@@ -47153,6 +47153,149 @@
       "lang": "en"
     },
     {
+      "id": "c7209bd3bae9cd1967ef123ca2a06caa",
+      "title": "Jaipur-based businessman killed in road accident in Rajasthan's Alwar",
+      "link": "https://www.thehindu.com/news/national/rajasthan/jaipur-businessman-vallabh-maheshwari-killed-in-road-accident-in-alwar/article70721807.ece",
+      "summary": "According to the police, the driver lost control of the car, and it broke through the roadside barricades and crashed into the median before hitting the wall of a culvert",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 15:08:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d4d9100f65b34bf31a6d9d68047a5bc7",
+      "title": "Chaos erupts as actor Jr. NTR mobbed by fans during Bengaluru visit, police lathi-charge crowd",
+      "link": "https://www.thehindu.com/news/cities/bangalore/chaos-erupts-as-actor-jr-ntr-mobbed-by-fans-during-bengaluru-visit-police-lathi-charge-crowd/article70721884.ece",
+      "summary": "The actor was in the city to attend the inauguration of KIMS Super Speciality Hospital at Mahadevapura. As news of his arrival spread, thousands of fans rushed to the venue to catch a glimpse of the actor.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 15:03:54 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "98746ed2d54656385ef3175afa5eea8f",
+      "title": "Chief Election Commissioner Gyanesh Kumar shown black flags, faces ‘go back’ slogans in Kolkata",
+      "link": "https://www.thehindu.com/news/national/west-bengal/cec-gyanesh-kumar-faces-go-back-slogans-shown-black-flags-outside-kalighat-temple-in-kolkata/article70721360.ece",
+      "summary": "The full bench of the Election Commission of India (ECI) was at Kalighat to offer their prayers at the Kali temple, which is also close to the residence of Chief Minister Mamata Banerjee",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 14:53:20 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "69741f614df59934f4d09ea29d303364",
+      "title": "Parliament Budget session LIVE: Rajya Sabha discusses Union Environment Ministry's working; Opposition protests disrupt Lok Sabha proceedings",
+      "link": "https://www.thehindu.com/news/national/parliament-budget-session-march-9-2026-live-motion-to-remove-speaker-om-birla-sets-stage-for-fiery-session/article70721097.ece",
+      "summary": "Lok Sabha disrupted by continuous Opposition protests for discussion on various issues; External Affairs Minister Jaishankar lists Centre's three 'guiding factors' in its approach towards the war in West Asia; Leader of House in Rajya Sabha, J.P. Nadda, and Parliamentary Affairs Minister Kiren Rijiju slam Opposition for their behaviour inside Parliament",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 14:49:04 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5e74d5e24d9a7a35db2fb16838adfd53",
+      "title": "Kerala’s CPI legislator C.C. Mukundan accuses party leadership of trading seats for election funding",
+      "link": "https://www.thehindu.com/news/national/kerala/keralas-cpi-legislator-cc-mukundan-accuses-party-leadership-of-trading-seats-for-election-funding/article70721768.ece",
+      "summary": "Mukundan accuses CPI State leadership of preferring his party compatriot Geetha Gopi to him for Nattika Assembly seat, which he currently represents, as ‘she could raise funds to fill CPI’s election war chest’",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 14:47:54 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "967dc41e4b30d8248faaf66bf8959b15",
+      "title": "Parliament Budget Session: BJP slams Opposition walkout during Jaishankar’s statement on West Asia war",
+      "link": "https://www.thehindu.com/news/national/parliament-budget-session-jaishankar-statement-on-west-asia-war-opposition-walkout-jp-nadda-kiren-rijiju/article70721681.ece",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 14:32:48 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "74b1217c132e78dd1746006292d61017",
+      "title": "लखनऊ से बहराइच-गोंडा जाने वाले जान लें, जर्जर होने से घाघरा पुल पर बड़े वाहन पर रोक",
+      "link": "https://www.livehindustan.com/uttar-pradesh/travelling-from-lucknow-to-bahraich-gonda-should-know-that-heavy-vehicles-are-prohibited-on-ghaghra-bridge-201773045964652.html",
+      "summary": "लखनऊ से बहराइच-गोंडा, श्रावस्ती और बलरामपुर जाने वाले जान लीजिए। घाघरा नदी पर बना संजय सेतु की जर्जर हालत को देखते इससे गुजरने वाले बड़े लोडेड वाहनों को बंद कर दिया गया है।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 14:30:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "cb2ad6150b7427474af0ac6fa70826c9",
+      "title": "Namibian cheetah gives birth to five cubs in Kuno National Park; total count rises to 53",
+      "link": "https://www.thehindu.com/news/national/namibian-cheetah-gives-birth-to-five-cubs-in-kuno-national-park-total-count-rises-to-53/article70721781.ece",
+      "summary": "In a post on X, Environmental Minister Bhupender Yadav said this marks an important milestone in India’s cheetah conservation journey",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 14:27:29 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3b37e7ee9c45e860726639119bf33e8c",
+      "title": "West Asia conflict: India favours peace, return to dialogue, prioritises Indians’ safety, says Jaishankar in Parliament",
+      "link": "https://www.thehindu.com/news/national/west-asia-conflict-india-favours-peace-return-to-dialogue-diplomacy-says-eam-jaishankar/article70721441.ece",
+      "summary": "Every effort is being made to bring back Indians stuck in West Asia, he said",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 14:19:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "80756d082f0cfe2c9cab02a0ab19f705",
+      "title": "लखनऊ में 5 बच्चों की मां की निर्मम हत्या, घरेलू विवाद में पति ने ही कुल्हाड़ी से काट डाला",
+      "link": "https://www.livehindustan.com/uttar-pradesh/mother-of-five-kids-was-brutally-murdered-in-lucknow-by-her-husband-with-an-axe-following-a-domestic-dispute-201773044792595.html",
+      "summary": "लखनऊ के निगोहां के शेखनखेड़ा गांव में घरेलू विवाद के बाद पति राजेश रावत ने पत्नी राजेश्वरी (46) की कुल्हाड़ी से हत्या कर दी। वारदात के समय बच्चे घर से बाहर थे। घटना के बाद आरोपी फरार हो गया। पुलिस ने शव पोस्टमार्टम के लिए भेजकर आरोपी की तलाश में कई टीमें लगा दी हैं।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 14:15:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b327fa7cbc206b6fe758aef41fa48dcf",
+      "title": "CBI summons Vijay on March 10 for further questioning on Karur stampede",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/karur-stampede-case-cbi-summons-vijay-on-march-10-for-further-questioning/article70721675.ece",
+      "summary": "“During the probe, the CBI has gathered material that needs further questioning and clarification from the actor,” a CBI officials said",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 14:08:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "294868f3d27939b67f138722b3b9ff85",
       "title": "SIR in W.B.: Supreme Court to consider plea against deletion of electors from electoral rolls",
       "link": "https://www.thehindu.com/news/national/sir-in-wb-supreme-court-to-consider-plea-against-deletion-of-electors-from-electoral-rolls/article70721548.ece",
@@ -47176,19 +47319,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "69741f614df59934f4d09ea29d303364",
-      "title": "Parliament Budget session LIVE: Opposition protests disrupt Lok Sabha proceedings, House adjourns till 3 p.m.",
-      "link": "https://www.thehindu.com/news/national/parliament-budget-session-march-9-2026-live-motion-to-remove-speaker-om-birla-sets-stage-for-fiery-session/article70721097.ece",
-      "summary": "Lok Sabha disrupted by continuous Opposition protests for discussion on various issues; External Affairs Minister Jaishankar lists Centre's three 'guiding factors' in its approach towards the war in West Asia; Leader of House in Rajya Sabha, J.P. Nadda, and Parliamentary Affairs Minister Kiren Rijiju slam Opposition for their behaviour inside Parliament",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 14:04:42 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -47265,19 +47395,6 @@
       "timestamp": "Mon, 09 Mar 2026 13:35:38 +0530",
       "section": "International",
       "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "b327fa7cbc206b6fe758aef41fa48dcf",
-      "title": "CBI summons Vijay on March 10 for further questioning on Karur stampede",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/karur-stampede-case-cbi-summons-vijay-on-march-10-for-further-questioning/article70721675.ece",
-      "summary": "“During the probe, the CBI has gathered material that needs further questioning and clarification from the actor,” a CBI officials said",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 13:33:42 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -47491,19 +47608,6 @@
       "lang": "en"
     },
     {
-      "id": "3b37e7ee9c45e860726639119bf33e8c",
-      "title": "West Asia conflict: India favours peace, return to dialogue, prioritises Indian’s safety says EAM Jaishankar in Parliament",
-      "link": "https://www.thehindu.com/news/national/west-asia-conflict-india-favours-peace-return-to-dialogue-diplomacy-says-eam-jaishankar/article70721441.ece",
-      "summary": "Every effort is being made to bring back Indians stuck in West Asia, he said",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 13:04:16 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "1412c4ed3073854f6840a497da584679",
       "title": "Karnataka’s guarantee schemes have made women self reliant, says Minister H.K. Patil",
       "link": "https://www.thehindu.com/news/national/karnataka/karnatakas-guarantee-schemes-have-made-women-self-reliant-says-minister-hk-patil/article70719757.ece",
@@ -47562,19 +47666,6 @@
       "summary": "गुजरात के नरेंद्र मोदी स्टेडियम में टी20 विश्वकप में भारत को मिली शानदार जीत का जश्न पूरे देश के साथ-साथ उत्तर प्रदेश में भी मनाया जा रहा है।",
       "date": "2026-03-09",
       "timestamp": "Mon, 09 Mar 2026 12:48:45 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "881bde6a183a13ddd43d693af4d46d40",
-      "title": "Mohanlalganj: कलियुगी बेटे ने पिता को लाठी से पीट-पीटकर मौत के घाट उतार दिया",
-      "link": "https://www.amarujala.com/lucknow/mohanlalganj-kaliyuga-son-beats-father-to-death-with-a-stick-2026-03-09",
-      "summary": "मोहनलालगंज कोतवाली क्षेत्र के खुजेहटा गांव में एक कलयुगी बेटे ने अपने पिता की हत्या कर दी। बेटे ने लाठी से पीट-पीटकर पिता को मौत के घाट उतार दिया।",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 12:48:16 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -47709,19 +47800,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "98746ed2d54656385ef3175afa5eea8f",
-      "title": "Chief Election Commissioner Gyanesh Kumar shown black flags, faces ‘go back’ slogans in Kolkata",
-      "link": "https://www.thehindu.com/news/national/west-bengal/cec-gyanesh-kumar-faces-go-back-slogans-shown-black-flags-outside-kalighat-temple-in-kolkata/article70721360.ece",
-      "summary": "The full bench of the Election Commission of India (ECI) was at Kalighat to offer their prayers at the Kali temple, which is also close to the residence of Chief Minister Mamata Banerjee",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 12:28:58 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -48609,6 +48687,32 @@
       "lang": "en"
     },
     {
+      "id": "b48def980f413ffb0599d17ebe12140b",
+      "title": "Ashutosh Maharaj approaches POCSO court again against Shankaracharya:Seeks to stop yatra reaching Sitapur, says Batuk victim in fear",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/ashutosh-maharaj-seeks-stop-yatra-sitapur-pocso-court-shankracharya-137389589.html",
+      "summary": "Ashutosh Maharaj has once again approached the court against Swami Avimukteshwaranand. On Monday, he filed a petition in the special POCSO court in Prayagraj seeking a halt to the ‘Gau Pratishtha Dharmayuddh Yatra’. He said the Shankaracharya should be stopped from reaching Sitapur because the batuk who recorded a statement against him belongs to the neighbouring Hardoi district. According to him, the batuk is living in fear due to the yatra. In the same court earlier, Ashutosh Maharaj had filed a case accusing the Shankaracharya of sexually harassing batuks. The Shankaracharya had started his yatra from Varanasi on 7 March. After passing through Raebareli and Unnao, the procession is scheduled to reach Sitapur on Monday evening. The yatra, demanding that the cow be declared ‘Rashtra Mata’ (National Mother), will conclude in Lucknow on 11 March. Meanwhile, police have registered an FIR against unidentified persons in connection with a life-threatening attack on Ashutosh Maharaj in a moving train on Sunday. Police have questioned four passengers who were present in the train at the time of the incident. However, what information has emerged from the questioning is not yet clear. Ashutosh Maharaj was travelling from Ghaziabad to Prayagraj on the Rewa Express. His reservation was in the AC First Class coach. Near Sirathu railway station, an unidentified person attacked him near the toilet. The attacker allegedly tried to slit his nose with a sharp weapon. Ashutosh Maharaj is the same person who had earlier filed an FIR accusing the Shankaracharya of sexually harassing batuks. Know what Ashutosh Maharaj said after the attack... Ashutosh Maharaj had said- I was traveling from Ghaziabad to Prayagraj on the Rewa Express train. I was sitting in the First AC coach. On the way, near Sirathu railway station around 5 AM, I got up to use the toilet. A man was standing near the gate. As soon as I moved forward, he attacked me from behind. He tried to cut my nose with a sharp weapon and made several strikes on my face and hands. This caused me serious injuries and a lot of bleeding. I somehow managed to save my life and locked myself in the train's toilet. From there, I called the GRP and informed them about the incident. Ashutosh Maharaj said - Avimukteshwaranand got the attack done After filing a complaint with the GRP, Ashutosh Maharaj went to the circuit house. Speaking there, he said he was travelling in the H1 coach of the First AC with West UP coordinator Sudhanshu Som. He said the attack happened when he went to the bathroom in the morning. He claimed he had a scuffle with the attacker to save his life. According to him, the attacker was alone and looked like a bodybuilder. The man was not wearing a mask. He said he would recognise the attacker if he saw him again and suspected that the man might have been following him from Ghaziabad. Ashutosh Maharaj also expressed suspicion that more attackers could have been waiting outside the train. He said he first informed the GRP before coming out of the bathroom. Launching a sharp attack on the Shankaracharya, he alleged the attack was carried out so that he would not be able to present evidence in court. He claimed the Shankaracharya knew he would not get bail once the evidence was presented. Ashutosh Maharaj is a disciple of Jagadguru Rambhadracharya Ashutosh Brahmachari Maharaj was born in a Brahmin family in Kandla town of Shamli district. His father Rajendra Pandey worked as a conductor on private buses running on the Delhi Road. Ashutosh Maharaj later became associated with the committee of the ancient Shakumbhari Siddhpeeth temple in Kandla and currently serves as its manager. His uncle Pradeep Pandey is a priest at the temple. Now Know About The Dispute Between Shankaracharya And Ashutosh Maharaj Now read what Shankaracharya said after the attack on Ashutosh Maharaj? Reacting to the attack on Sunday, the Shankaracharya said the train attendant claimed Ashutosh Maharaj was fine when he went to the bathroom but came out injured later. He asked who attacked him after he came out and alleged that the incident appeared staged to create an atmosphere and obtain security. He also questioned whether trains run by the Government of India were no longer safe. He said if someone is travelling with a valid ticket, the Government Railway Police responsible for security should explain how such an attack could happen. The Centre, he said, should answer this. Responding to the allegation that the attack was carried out to stop evidence from being presented in court, he said a fair investigation should be conducted so that the truth becomes clear. He added that someone who supports the investigation from the beginning would have no reason to get such an attack carried out. He said they were busy with the yatra and had no knowledge of where Ashutosh Maharaj was travelling. He claimed the accusations were meant only to gain media attention and divert focus from the yatra.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 09:35:57 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c79f19f1570356d28c4ef69fe9df1342",
+      "title": "‘We are going make a tonne of money’: US Senator Graham on US war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/3/9/we-are-going-make-a-tonne-of-money-us-senator-graham-on-us-war-on-iran?traffic_source=rss",
+      "summary": "The veteran GOP senator appears to suggest that the war on Iran was launched to gain control over its oil supplies.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 09:30:54 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b13cf0860b2ad64761311ee203f69eb7",
       "title": "Lucknow Civic Crackdown: हाउस टैक्स वसूली में लापरवाही पर सख्ती, नगर आयुक्त Gaurav Kumar ने दो इंस्पेक्टर निलंबित",
       "link": "https://www.patrika.com/lucknow-news/lucknow-civic-crackdown-two-tax-inspectors-suspended-over-poor-house-tax-recovery-20410411",
@@ -48648,6 +48752,19 @@
       "lang": "en"
     },
     {
+      "id": "26cf5d20137907ec6df9ffaf90428a3b",
+      "title": "Dimple asks govt to clear India's stand on Iran war:Akhilesh says, 'Govt has mortgaged foreign policy'",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/akhilesh-says-govt-mortgaged-foreign-policy-dimple-asks-india-iran-us-war-stand-137389523.html",
+      "summary": "There was a huge uproar in the Lok Sabha and Rajya Sabha on the first day of the second phase of Parliament's budget session. The SP and other opposition parties created an uproar, demanding a discussion on the US-Israel war with Iran and the no-confidence motion against Lok Sabha Speaker Om Birla. There was intense sloganeering. In fact, 118 MPs from the opposition, including Congress, had submitted a signed notice to the Lok Sabha Secretariat on February 10. They had alleged that the Speaker was not maintaining impartiality in the proceedings of the House. Not giving adequate opportunity to the opposition. Speaking to the media in the Parliament House on this, SP chief Akhilesh Yadav says, ‘There will be a meeting of floor leaders now, after which it will be decided how to proceed further’. He criticized the Modi government regarding Indians stranded in Gulf countries. says, ' The BJP government has mortgaged our foreign policy. Inflation keeps rising. What is the Government of India doing for our people who are stranded abroad? SP MP Dimple Yadav says, 'While a motion to remove the Lok Sabha Speaker is coming, what's more important is where India stands in the war between Iran and America, what our policy says, and what our Foreign Ministry is saying'. The way it is still working under American pressure, many such important issues will be raised in this session. Meanwhile, BJP MP Hema Malini says, ‘This time we were hoping something good would happen’. The opposition has brought a proposal; now, let's see what happens. BJP MP Arun Govil says, ‘We have faith, our party has faith in our Lok Sabha Speaker’. Let the opposition say whatever they want to say.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 09:27:35 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "ec684004a5db53b523c289cad3448ae3",
       "title": "विमान के शौचालय में बीड़ी पीने लगा यात्री: मच गया हड़कंप; सुरक्षा खतरा के आरोप पर पुलिस ने दर्ज किया मामला",
       "link": "https://www.amarujala.com/india-news/delhi-to-goa-flight-man-suddenly-started-smoking-a-beedi-in-the-toilet-police-registered-a-case-2026-03-09",
@@ -48684,6 +48801,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c22256480ca82b1dac9899b16adcb7da",
+      "title": "Volunteers rebuild Sudan’s oldest psychiatric hospital destroyed by war",
+      "link": "https://www.aljazeera.com/features/2026/3/9/volunteers-rebuild-sudans-oldest-psychiatric-hospital-destroyed-by-war?traffic_source=rss",
+      "summary": "Sudanese family returning home from displacement, struggles to help son overcome drug addiction.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 09:17:34 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -48752,6 +48882,19 @@
       "lang": "en"
     },
     {
+      "id": "e98ef9706e0d4d4fc26714f6618f00ef",
+      "title": "Iran war: What is happening on day 10 of US-Israel attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/9/iran-war-what-is-happening-on-day-10-of-us-israel-attacks?traffic_source=rss",
+      "summary": "Mojtaba Khamenei has been selected as Iran’s new supreme leader. Attacks continue and oil prices have spiked.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 08:59:56 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "426502939dd6ddf545142b35da1974f8",
       "title": "UP: सात साल पहले शादी, रोजाना विवाद, दो मासूम बच्चों का कत्ल कर SSB की सफाईकर्मी के पति ने दी जान; पूरी कहानी",
       "link": "https://www.amarujala.com/photo-gallery/gorakhpur/husband-of-ssb-sweeper-kills-two-children-and-commits-suicide-in-maharajganj-2026-03-09",
@@ -48765,6 +48908,19 @@
       "lang": "en"
     },
     {
+      "id": "6a433e9e93ffa01cfc45f4c276a5abd8",
+      "title": "G7 nations to hold emergency meeting on oil as stock markets sink",
+      "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Chancellor Rachel Reeves will join talks amid reports that oil reserves could be released to lower prices.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 08:57:06 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "850d1e1aeb9072df0488a37def297c73",
       "title": "Lucknow: 1090 चौराहे पर फ्लाईओवर के निर्माण के लिए हरी झंडी, आईआईएम रोड से आने जाने में होगी सहूलियत",
       "link": "https://www.amarujala.com/lucknow/lucknow-green-signal-given-for-construction-of-flyover-at-1090-intersection-2026-03-09",
@@ -48775,6 +48931,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "0b28ce259690767c88608ac4ff35e696",
+      "title": "Crowd chants ‘save our girls’ at bus carrying Iran women’s team",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/9/crowd-chants-save-our-girls-at-bus-carrying-iran-womens-team?traffic_source=rss",
+      "summary": "Crowds chased a bus carrying Iran’s women’s football team in Australia, chanting 'save our girls'.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 08:44:46 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -48817,6 +48986,19 @@
       "lang": "en"
     },
     {
+      "id": "73015b2790054d9301bd951b8855d4e3",
+      "title": "Carney confirms: When Washington whistles, Ottawa salutes",
+      "link": "https://www.aljazeera.com/opinions/2026/3/9/carney-confirms-when-washington-whistles-ottawa-salutes?traffic_source=rss",
+      "summary": "The Canadian prime minister was quick to jump on the Iran war bandwagon, seemingly forgetting his own speech at Davos.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 08:26:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "968448b17687e1b2df7fcac59a8bcff9",
       "title": "नेता प्रतिपक्ष अचानक सरकारी अस्पताल पहुंचे, हाथ में लगी थी चोट; जाते ही डॉक्टर को मिल गई नोटिस",
       "link": "https://www.livehindustan.com/uttar-pradesh/leader-of-opposition-mata-prasad-pandey-suddenly-arrived-at-government-hospital-doctor-received-a-notice-immediately-201773024346700.html",
@@ -48836,19 +49018,6 @@
       "summary": "Ekrem Imamoglu is seen as Turkish President Recep Tayyip Erdogan's main political rival.",
       "date": "2026-03-09",
       "timestamp": "Mon, 09 Mar 2026 08:23:41 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "6a433e9e93ffa01cfc45f4c276a5abd8",
-      "title": "G7 nations to hold emergency meeting on oil as stock markets sink",
-      "link": "https://www.bbc.com/news/articles/c79542n0grwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Chancellor Rachel Reeves will join talks amid reports that oil reserves could be released to lower prices.",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 08:22:56 GMT",
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
@@ -49259,19 +49428,6 @@
       "lang": "en"
     },
     {
-      "id": "d3dc2eeeca77a2fd7906d2a8bbd053e4",
-      "title": "Maharashtra: हाजी अली दरगाह पर लगेगा दुनिया का सबसे ऊंचा तिरंगा, पढ़ें महाराष्ट्र से जुड़ीं बड़ी सुर्खियां",
-      "link": "https://www.amarujala.com/india-news/maharashtra-news-updates-9-march-cm-devendra-fadnavis-crime-politics-2026-03-09",
-      "summary": "Maharashtra: हाजी अली दरगाह पर लगेगा दुनिया का सबसे ऊंचा तिरंगा maharashtra news updates 9 march cm devendra fadnavis crime politics",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 06:13:31 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "d8aa6fdfe4870e9ecc857d6a3af59c07",
       "title": "LDF seeks to punch holes in Rahul Gandhi’s election promises",
       "link": "https://www.thehindu.com/news/national/kerala/ldf-seeks-to-punch-holes-in-rahul-gandhis-election-promises/article70718832.ece",
@@ -49519,12 +49675,77 @@
       "lang": "hi"
     },
     {
+      "id": "af5b51a96894e41a9831eb92713c0689",
+      "title": "UP: लिवर, किडनी और हार्ट छलनी, चाकू के 80 वार; बहन का बर्बरता से कत्ल करने वाले हार्दिक की क्रूरता की कहानी",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/moradabad-murder-case-liver-kidney-and-heart-sieved-more-than-80-knife-wounds-youtuber-kills-his-sister-2026-03-09",
+      "summary": "मुरादाबाद शहर की पॉश कॉलोनी बुद्धि विहार में चाकू के ताबड़तोड़ 80 से ज्यादा वार कर बहन की हत्या करने वाले आरोपी इंजीनियर यूट्यूबर हार्दिक की जेल में विशेष निगरानी की जा रही है।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:10:59 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "eb3e976850cbd77e519239d34b30408d",
+      "title": "UP: चोर ने रसोई में खाए पकवान, फिर घर से उड़ाया माल, सीसीटीवी में कैद हुआ आरोपी; पुलिस के हाथ लगे अहम सुराग",
+      "link": "https://www.amarujala.com/uttar-pradesh/bulandshahr/thief-ate-food-in-kitchen-then-stole-goods-from-house-in-bulandshahr-accused-was-caught-on-cctv-2026-03-09",
+      "summary": "बुलंदशहर के राधिका एन्क्लेव में होली के दिन एक बंद मकान में चोरी की वारदात हुई। पुलिस को इस मामले में अहम सुराग हाथ लगे हैं। चोर करीब पांच लाख रुपये से अधिक के आभूषण और नकदी ले गया है।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:10:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "47a43590cd339744e560bffadbaf4888",
+      "title": "News Updates: बंगाल पहुंचे सीईसी ज्ञानेश कुमार; सहपाठियों पर छात्र के हमले में एक की मौत, सात घायल",
+      "link": "https://www.amarujala.com/india-news/news-updates-9-march-cec-gyanesh-kumar-in-bengal-crime-politics-karnataka-bellari-2026-03-09",
+      "summary": "News Updates: बंगाल पहुंचे सीईसी ज्ञानेश कुमार; सहपाठियों पर छात्र के हमले में एक की मौत, सात घायल news updates 9 march cec gyanesh kumar in bengal crime politics karnataka bellari",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:06:11 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "1672f36a161c61ef63de6cf1fb7d655a",
+      "title": "West Bengal: 'सिर्फ सुप्रीम कोर्ट में तय होगा SIR मामला', TMC ने चुनाव आयोग से सुनवाई न होने पर जताई नाराजगी",
+      "link": "https://www.amarujala.com/india-news/west-bengal-tmc-alleges-concerns-over-sir-ignored-election-commission-says-supreme-court-will-decide-2026-03-09",
+      "summary": "West Bengal: 'सिर्फ सुप्रीम कोर्ट में तय होगा SIR मामला', TMC ने चुनाव आयोग से सुनवाई न होने पर जताई नाराजगी",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:06:11 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "21cddfd5434c533b670035eabd58511b",
       "title": "Fans Celebration: भारत की ऐतिहासिक जीत पर जश्न में डूबा देश, सड़कों पर उतरे लोग; तस्वीरों में देखें माहौल",
       "link": "https://www.amarujala.com/india-news/fans-celebration-pictures-india-historic-win-nation-erupt-in-celebration-people-cracking-dance-in-streets-2026-03-09",
       "summary": "Fans Celebration: भारत की ऐतिहासिक जीत पर जश्न में डूबा देश, सड़कों पर उतरे लोग; तस्वीरों में देखें माहौल",
       "date": "2026-03-09",
       "timestamp": "Mon, 09 Mar 2026 03:04:21 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d3dc2eeeca77a2fd7906d2a8bbd053e4",
+      "title": "Maharashtra: हाजी अली दरगाह पर लगेगा दुनिया का सबसे ऊंचा तिरंगा, पढ़ें महाराष्ट्र से जुड़ीं बड़ी सुर्खियां",
+      "link": "https://www.amarujala.com/india-news/maharashtra-news-updates-9-march-cm-devendra-fadnavis-crime-politics-2026-03-09",
+      "summary": "Maharashtra: हाजी अली दरगाह पर लगेगा दुनिया का सबसे ऊंचा तिरंगा maharashtra news updates 9 march cm devendra fadnavis crime politics",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:03:00 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -49545,6 +49766,19 @@
       "lang": "en"
     },
     {
+      "id": "84fdc9199dd2478cbc9d74cc2b541e55",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 9 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-09",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:01:13 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "e2bf7262a038ac62a8dd8321515088e4",
       "title": "Rihanna's Beverly Hills home hit by gunfire, police say",
       "link": "https://www.bbc.com/news/articles/ckg2pm2kvkeo?at_medium=RSS&at_campaign=rss",
@@ -49558,6 +49792,45 @@
       "lang": "en"
     },
     {
+      "id": "5f62de435869d0b73381cc1f7276e097",
+      "title": "पढ़ें 9 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-09",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 03:00:57 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "ad902db20306b3d44a5db55f8be62a7d",
+      "title": "Parliament Budget Session Live: संसद में विदेश मंत्री की बैठक, NSA अजीत डोभाल और CDS अनिल चौहान भी मौजूद",
+      "link": "https://www.amarujala.com/live/india-news/parliament-budget-session-second-phase-day-1-live-updates-bjp-congress-west-asia-crisis-om-birla-jaishankar-2026-03-09",
+      "summary": "Parliament Budget Session Live: संसद में विदेश मंत्री की बैठक, NSA अजीत डोभाल और CDS अनिल चौहान भी मौजूद---Parliament Budget Session Second Phase Day 1 LIVE Updates BJP Congress West Asia Crisis Om Birla Jaishankar",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:58:41 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "881bde6a183a13ddd43d693af4d46d40",
+      "title": "Mohanlalganj: कलियुगी बेटे ने पिता को लाठी से पीट-पीटकर मौत के घाट उतार दिया",
+      "link": "https://www.amarujala.com/lucknow/mohanlalganj-kaliyuga-son-beats-father-to-death-with-a-stick-2026-03-09",
+      "summary": "मोहनलालगंज कोतवाली क्षेत्र के खुजेहटा गांव में एक कलयुगी बेटे ने अपने पिता की हत्या कर दी। बेटे ने लाठी से पीट-पीटकर पिता को मौत के घाट उतार दिया।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:56:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "49df61f22c8332c9537b6e94f182f092",
       "title": "Osman Hadi: बंगाल में पकड़े गए दो बांग्लादेशी नागरिक, बांग्लादेश के युवा नेता हादी की हत्या में थे शामिल",
       "link": "https://www.amarujala.com/india-news/osman-hadi-murder-case-two-bangladeshi-nationals-arrested-by-west-bengal-police-stf-2026-03-09",
@@ -49566,6 +49839,32 @@
       "timestamp": "Mon, 09 Mar 2026 02:51:39 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "178146beb88231ee1596723abbe61043",
+      "title": "Chandauli News: मिठाई कारखाने में लगी भीषण आग, तंग गलियों से दमकल को जूझना पड़ा; सुरक्षा मानकों पर सवाल",
+      "link": "https://www.amarujala.com/uttar-pradesh/chandauli/massive-fire-broke-out-in-sweet-factory-fire-brigade-team-extinguished-in-chandauli-2026-03-09",
+      "summary": "करीब कई घंटे की कड़ी मशक्कत के बाद दमकल कर्मियों ने आग पर काबू पा लिया। समय रहते आग बुझा लिए जाने से आसपास के घरों और व्यावसायिक प्रतिष्ठानों को बड़े नुकसान से बचा लिया गया।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:50:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "d0a4ea46efcc37d9ad2ef946f67fd51a",
+      "title": "'आधी रात में याचिका लिखी थी क्या?': PIL में वकील ने ऐसा क्या कहा, जिससे नाराज हुआ सुप्रीम कोर्ट; लगा दी फटकार",
+      "link": "https://www.amarujala.com/india-news/supreme-court-bins-five-frivolous-pils-filed-by-a-lawyer-asks-if-he-drafted-them-at-midnight-2026-03-09",
+      "summary": "'आधी रात में याचिका लिखी थी क्या?': PIL में वकील ने ऐसा क्या कहा, जिससे नाराज हुआ सुप्रीम कोर्ट; लगा दी फटकार, Supreme Court bins five frivolous PILs filed by a lawyer asks if he drafted them at midnight",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:45:55 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -49831,6 +50130,19 @@
       "lang": "en"
     },
     {
+      "id": "db2a4f456f24953aee332cf6417161e4",
+      "title": "Hathras News: विवाहिता की संदिग्ध अवस्था में मौत, कमरे में फंदे से लटका मिला शव, पुलिस जांच में जुटी",
+      "link": "https://www.amarujala.com/uttar-pradesh/hathras/married-woman-dies-under-suspicious-circumstances-in-chirayal-2026-03-09",
+      "summary": "सिकंदराराऊ कोतवाली अंतर्गत गांव चिरायल में 9 मार्च सुबह विवाहिता का शव घर के अंदर कमरे में फंदे से लटका मिला। सूचना पर पहुंची पुलिस ने किबाड़ तोड़कर शव को नीचे उतारा और पोस्टमार्टम के लिए भेजा।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:35:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "1a774377b5f04a9a3dd6cb52d71f4cdc",
       "title": "Lucknow News: महिलाओं को किया सम्मानित",
       "link": "https://www.amarujala.com/lucknow/honored-women-lucknow-news-c-13-1-lko1028-1636090-2026-03-09",
@@ -50026,6 +50338,19 @@
       "lang": "en"
     },
     {
+      "id": "1c41737fecbe18dea2435b3fb65c9316",
+      "title": "VIDEO : घरेलू गैस सिलेंडर है तो पर खाली है... बुकिंग वालों को दो-तीन दिन बाद मिलेगा",
+      "link": "https://www.amarujala.com/video/lucknow/video-video-gharal-gasa-saldara-ha-ta-para-khal-ha-bkaga-val-ka-tha-tana-thana-btha-malga-2026-03-09",
+      "summary": "VIDEO : घरेलू गैस सिलेंडर है तो पर खाली है... बुकिंग वालों को दो-तीन दिन बाद मिलेगा",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:30:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "a30ebc60fe93be18b2a5b7c898fa1bf3",
       "title": "Lucknow News: कुल्हाड़ी से चेहरे और सिर पर वार कर पत्नी की हत्या",
       "link": "https://www.amarujala.com/lucknow/wife-murdered-by-hitting-face-and-head-with-an-axe-lucknow-news-c-13-knp1002-1635932-2026-03-09",
@@ -50182,6 +50507,19 @@
       "lang": "en"
     },
     {
+      "id": "13425f3ea5051135e8b4f89b76b68c8f",
+      "title": "UP: विज्ञान घर में 10 दिन तक तकनीक की शक्ति बताएंगे उत्कर्ष, देशभर के 20 बाल वैज्ञानिकों का किया गया है चयन",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/utkarsh-got-selected-in-vigyan-ghar-season-5-2026-03-09",
+      "summary": "ग्रेटर नोएडा के दादरी के छांयसा गांव के रहने वाले उत्कर्ष का चयन विज्ञान घर सीजन-5 में हुआ है।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:28:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "90eed609041ae69c8f398e5d46c4469d",
       "title": "Lucknow News: लखनऊ व्यापार मंडल ने किया उत्कृष्ट महिलाओं का सम्मान",
       "link": "https://www.amarujala.com/lucknow/lucknow-chamber-of-commerce-honored-outstanding-women-lucknow-news-c-13-1-lko1028-1636081-2026-03-09",
@@ -50283,6 +50621,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "b2839289ecb6f6ac30609c56fbf77980",
+      "title": "नोएडा के डूब क्षेत्र में बिजली कनेक्शन को लेकर महिलाओं ने किया प्रदर्शन",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-women-protest-in-noida-over-electricity-connection-2026-03-09",
+      "summary": "नोएडा के डूब क्षेत्र में बिजली कनेक्शन को लेकर महिलाओं ने किया प्रदर्शन",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:26:58 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -50469,9 +50820,9 @@
     },
     {
       "id": "608904788ad2cccb6cbbb8414ea94fc9",
-      "title": "Gorakhpur News: राप्ती नदी में जल भरने गया युवक डूबा, नाविकों की मदद से तलाश",
+      "title": "Gorakhpur News: राप्ती नदी में जल भरने गया युवक...लगा नहाने, डूबा; नाविकों की मदद से तलाश",
       "link": "https://www.amarujala.com/gorakhpur/a-young-man-drowned-while-fetching-water-from-the-rapti-river-boatmen-are-searching-for-him-gorakhpur-news-c-7-gkp1038-1250985-2026-03-09",
-      "summary": "A young man drowned while fetching water from the Rapti River; boatmen are searching for him.",
+      "summary": "कैंपियरगंज थाना क्षेत्र के बरईपार गांव में आयोजित विष्णु महायज्ञ के लिए कलश में पानी भरने के दौरान युवक जयप्रकाश यादव (35) नहाने के लगा और डूब गया।",
       "date": "2026-03-09",
       "timestamp": "Mon, 09 Mar 2026 02:19:37 +0530",
       "section": "UP_Focus",
@@ -50495,9 +50846,9 @@
     },
     {
       "id": "a165109d8e41186c54fae158945c51a0",
-      "title": "Gorakhpur News: फर्जी सुलहनामा बनाकर जमीन हड़पने का आरोपी गिरफ्तार",
+      "title": "UP: मृतकों को जिंदा दिखाकर करता था नाम से फर्जी हस्ताक्षर, जमीनों की करता था धोखाधड़ी- आरोपी गिरफ्तार",
       "link": "https://www.amarujala.com/gorakhpur/accused-arrested-for-grabbing-land-by-making-fake-settlement-deed-gorakhpur-news-c-7-gkp1038-1251094-2026-03-09",
-      "summary": "Accused arrested for grabbing land by making fake settlement deed",
+      "summary": "गीडा थाना पुलिस ने हरैया गांव निवासी रिजवान अहमद की जमीन का फर्जी सुलहनामा बनाकर जमीन हड़पने वाले एक आरोपी को क्षेत्र से गिरफ्तार कर लिया है।",
       "date": "2026-03-09",
       "timestamp": "Mon, 09 Mar 2026 02:17:44 +0530",
       "section": "UP_Focus",
@@ -50543,6 +50894,45 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "7be5f78707bdc9c8c0bbdcdd14392666",
+      "title": "VIDEO : जिला स्तरीय खेल प्रतियोगिता में वॉलीबॉल मैच का आयोजन",
+      "link": "https://www.amarujala.com/video/lucknow/video-video-jal-sataraya-khal-paratayagata-ma-valbl-maca-ka-aayajana-2026-03-09",
+      "summary": "VIDEO : जिला स्तरीय खेल प्रतियोगिता में वॉलीबॉल मैच का आयोजन",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:15:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "b3bfcf1a8dd335126b235afc4fe18708",
+      "title": "VIDEO : मृत्यु प्रमाण पत्र के लिए सीएमओ ऑफिस में भटक रहे फरियादी",
+      "link": "https://www.amarujala.com/video-shots/short-videos/video-video-mataya-paramanae-patara-ka-le-saemao-oifasa-ma-bhataka-raha-farayatha-2026-03-09",
+      "summary": "VIDEO : मृत्यु प्रमाण पत्र के लिए सीएमओ ऑफिस में भटक रहे फरियादी",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:14:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "cbe7a021b18b990bba62353c4b1d1887",
+      "title": "VIDEO : एजेंसी को कम मिल रहे सिलिंडर, लोगों को हो रही मुश्किल",
+      "link": "https://www.amarujala.com/video/lucknow/video-video-ejasa-ka-kama-mal-raha-saldara-lga-ka-ha-raha-mashakal-2026-03-09",
+      "summary": "VIDEO : एजेंसी को कम मिल रहे सिलिंडर, लोगों को हो रही मुश्किल",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:14:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -50637,19 +51027,6 @@
       "lang": "en"
     },
     {
-      "id": "ad902db20306b3d44a5db55f8be62a7d",
-      "title": "Parliament Budget Session Live: संसद में विदेश मंत्री की बैठक, NSA अजीत डोभाल और CDS अनिल चौहान भी मौजूद",
-      "link": "https://www.amarujala.com/live/india-news/parliament-budget-session-second-phase-day-1-live-updates-bjp-congress-west-asia-crisis-om-birla-jaishankar-2026-03-09",
-      "summary": "Parliament Budget Session Live: संसद में विदेश मंत्री की बैठक, NSA अजीत डोभाल और CDS अनिल चौहान भी मौजूद---Parliament Budget Session Second Phase Day 1 LIVE Updates BJP Congress West Asia Crisis Om Birla Jaishankar",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 02:07:53 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "faf28c60a8457e72eab08ebe8db18132",
       "title": "Varanasi News: विकसित भारत के रंग कला के संग प्रतियाेगिता में नीतू को पहला स्थान",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/neetu-got-first-place-in-the-competition-with-rang-kala-of-developed-india-varanasi-news-c-20-vns1056-1314030-2026-03-09",
@@ -50669,6 +51046,19 @@
       "summary": "Women recited poems and also played Holi",
       "date": "2026-03-09",
       "timestamp": "Mon, 09 Mar 2026 02:07:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "9f7e40711cb042db9473d5f85becaed4",
+      "title": "Ballia News: सब्जी की दुकान लगाने को लेकर दो पक्षों में जमकर हुई मारपीट, एक की मौत; कई घायल",
+      "link": "https://www.amarujala.com/uttar-pradesh/ballia/young-man-died-in-fight-between-two-groups-over-setting-up-vegetable-stall-in-ballia-2026-03-09",
+      "summary": "मारपीट की सूचना पर थानाध्यक्ष अनुपम जायसवाल मौके पर पहुंच मामला शांत कर सभी घायलों को इलाज को सीएचसी रेवती ले जाया गया, जहां चिकित्सक ने धनजी तुरहा को मृत घोषित कर दिया।",
+      "date": "2026-03-09",
+      "timestamp": "Mon, 09 Mar 2026 02:06:29 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -50780,19 +51170,6 @@
       "lang": "en"
     },
     {
-      "id": "84fdc9199dd2478cbc9d74cc2b541e55",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 9 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-09",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 02:01:55 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "dcbc509b92dd042c0c1a7a840edefeb5",
       "title": "जुड़वां बहन का कत्ल: यूट्यूबर के हर ब्लॉग में होती थी बहन हिमशिखा, वीडियो में साफ झलकती थी ये बात; नया खुलासा",
       "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/moradabad-murder-sister-himshikha-was-present-in-every-blog-of-youtuber-hardik-2026-03-09",
@@ -50806,19 +51183,6 @@
       "lang": "en"
     },
     {
-      "id": "5f62de435869d0b73381cc1f7276e097",
-      "title": "पढ़ें 9 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-09",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 02:01:38 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "ed1be32ab714e2c325a11d4e3ef0c9ef",
       "title": "Varanasi News: सिंपी ने तीन किलो का गोला 33 फीट दूर फेंक हासिल किया पहला स्थाल",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/simpi-threw-a-three-kg-ball-33-feet-to-win-first-place-varanasi-news-c-20-vns1021-1313903-2026-03-09",
@@ -50830,19 +51194,6 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
-    },
-    {
-      "id": "47a43590cd339744e560bffadbaf4888",
-      "title": "News Updates: बंगाल पहुंचे सीईसी ज्ञानेश कुमार; सहपाठियों पर छात्र के हमले में एक की मौत, सात घायल",
-      "link": "https://www.amarujala.com/india-news/news-updates-9-march-cec-gyanesh-kumar-in-bengal-crime-politics-karnataka-bellari-2026-03-09",
-      "summary": "News Updates: बंगाल पहुंचे सीईसी ज्ञानेश कुमार; सहपाठियों पर छात्र के हमले में एक की मौत, सात घायल news updates 9 march cec gyanesh kumar in bengal crime politics karnataka bellari",
-      "date": "2026-03-09",
-      "timestamp": "Mon, 09 Mar 2026 02:00:38 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "d73ae07f1ac54720ba76aea3487a5289",
@@ -74995,6 +75346,32 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "939a53d5bf6490f09bb603dfd06d26c9",
+      "title": "Battle of the rolls: How Mamata vs EC over SIR has set stage for 2026 Bengal assembly elections",
+      "link": "https://timesofindia.indiatimes.com/india/battle-of-the-rolls-how-mamata-vs-ec-over-sir-has-set-stage-for-2026-bengal-assembly-elections/articleshow/129274600.cms",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "2026-03-09T14:15:00+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fb2658b088b6ef923f71a14c1d6e395a",
+      "title": "Can chickpeas grow in Moon soil? New study reveals surprising results for space farming",
+      "link": "https://timesofindia.indiatimes.com/science/can-chickpeas-grow-in-moon-soil-new-study-reveals-surprising-results-for-space-farming/articleshow/129318097.cms",
+      "summary": "",
+      "date": "2026-03-09",
+      "timestamp": "2026-03-09T14:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
