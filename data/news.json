@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-13T06:44:21.276847+00:00",
+  "generated_at": "2026-03-13T07:41:09.861162+00:00",
   "stories": [
     {
       "id": "130e0c02adf248edc77172262651fd1f",
@@ -23853,19 +23853,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "c506d102f86b5be27fb49cdde119413b",
-      "title": "Domestic LPG refill booking systems tested amid customer rush",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/domestic-lpg-refill-booking-systems-tested-amid-customer-rush/article70736429.ece",
-      "summary": "",
-      "date": "2026-03-12",
-      "timestamp": "Thu, 12 Mar 2026 23:08:20 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -66926,6 +66913,123 @@
       "lang": "en"
     },
     {
+      "id": "4973a27b17f65c599fb2bd7f5c70ec36",
+      "title": "Did Andhra take a 14.59% swig of beer sales in Karnataka?",
+      "link": "https://www.thehindu.com/news/national/karnataka/beer-sales-drop-by-1459-in-karnataka-govt-cites-andhra-excise-policy-weather/article70735157.ece",
+      "summary": "Beer sales drop by 14.59% in Karnataka; State Government cites Andhra Pradesh excise policy, weather",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 13:09:23 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "06e85a056607fd982051eaeebe6a88e3",
+      "title": "Karnataka’s ₹391 crore plan to dump pollution from Bengaluru on farmers in Kanakapura",
+      "link": "https://www.thehindu.com/news/cities/bangalore/391-crore-byramangalareservoir-reboot-plan-of-karnataka-government-ignores-root-causes-polluting-vrishabhavati-river-in-bengaluru-report/article70738320.ece",
+      "summary": "The report by Mapping Malnad alleges that the government is trying to solve a problem by geographical displacement of pollution",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 13:07:58 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "77a2f5406e81408497775a951fae9c6a",
+      "title": "जान से मार दो इसको, हाथ में पत्थर लिए डांसर उकसाती रही; सड़क पर भिड़े दो युवक",
+      "link": "https://www.livehindustan.com/uttar-pradesh/kill-him-a-dancer-with-a-stone-in-her-hand-urged-two-young-men-clashed-on-the-street-in-jhansi-201773386233161.html",
+      "summary": "झांसी के नवाबाद थाना क्षेत्र के एलाइट चौराहे पर दो गाड़ियों की टक्कर के बाद सड़क पर मारपीट और हंगामा हो गया। वायरल वीडियो में एक महिला डांसर पत्थर लेकर युवकों को लड़ने के लिए उकसाती दिख रही है। पुलिस ने महिला समेत उसके साथियों को हिरासत में लेकर कार्रवाई शुरू की है।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 13:07:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "362fc767a8caee453e5a063dec68627f",
+      "title": "Supreme Court takes suo motu cognisance of illegal sand mining in National Chambal Sanctuary",
+      "link": "https://www.thehindu.com/news/national/supreme-court-takes-suo-motu-cognisance-of-illegal-sand-mining-in-national-chambal-sanctuary/article70738307.ece",
+      "summary": "The bench said that even areas where the Madhya Pradesh Chief Minister had released gharials have come under illegal mining",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 13:04:46 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6383cc9e6d47c3fbf5b5ab8ba1e39822",
+      "title": "Parliament Budget session LIVE: Lok Sabha adjourns twice as Opposition protests LPG crisis; Rajya Sabha adjourns after discussion on railway projects",
+      "link": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-march-13-2026/article70737883.ece",
+      "summary": "The Rajya Sabha is to continue the discussion on the working of the Ministry of Rural Development",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 13:03:00 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "99d6a7817d66e9918ce01136db993e2a",
+      "title": "Technopark IT firms in Kerala mull shifting to WFH as LPG shortage hits food services",
+      "link": "https://www.thehindu.com/news/national/kerala/technopark-it-firms-in-kerala-mull-shifting-to-wfh-as-lpg-shortage-hits-food-services/article70738218.ece",
+      "summary": "Crisis due to LPG shortage hits paying guest accommodations and hostels in Kazhakuttam area, where young IT professionals from other districts and States stay",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 13:01:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8adf8625a7b61937ea9346815fa430db",
+      "title": "U.S., Israel wanted quick win, but they failed: Mohammad Marandi",
+      "link": "https://www.thehindu.com/news/international/us-israel-wanted-quick-win-but-they-failed-mohammad-marandi/article70738322.ece",
+      "summary": "“As time goes on, the price of oil is going to go up. And the world knows that this is not Iran’s fault. This is the fault of the Trump regime and Netanyahu,” says Marandi",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 13:01:09 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "40399ca6fa2efaad2bae71e765916545",
+      "title": "Russia accuses Ukraine of 'reckless' strikes on major gas pipeline",
+      "link": "https://www.thehindu.com/news/international/russia-accuses-ukraine-of-reckless-strikes-on-major-gas-pipeline/article70738406.ece",
+      "summary": "State-owned Russian gas producer Gazprom earlier said that the Russkaya and Beregovaya stations were targeted",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 13:00:35 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e4501df7f1d759bbe34bce5fe96bc01c",
+      "title": "Sun TV Network sues Chennai Super Kings for using Jailer, Jailer 2 and Coolie songs in its jersey promo",
+      "link": "https://www.thehindu.com/news/cities/chennai/sun-tv-network-sues-chennai-super-kings-for-using-jailer-jailer-2-and-coolie-songs-in-its-jersey-promo/article70738197.ece",
+      "summary": "Justice Senthilkumar Ramamoorthy adjourns the hearing of the copyright infringment suit to Monday for CSK Limited to file an affidavit that it shall not use the songs without authorisation",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:59:25 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c39bb919cc2788bb6e96694aa74ece0f",
       "title": "Varanasi News: संस्कृत बोर्ड की 3687 उत्तर पुस्तिकाओं का हुआ मूल्यांकन",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/3687-answer-sheets-of-sanskrit-board-were-evaluated-varanasi-news-c-192-1-svns1033-150101-2026-03-13",
@@ -66952,6 +67056,19 @@
       "lang": "en"
     },
     {
+      "id": "23db935478224472880961e33e0c81d8",
+      "title": "DRI officials raid illegal Alprazolam manufacturing unit in A.P., seize drugs, worth ₹47 Crore",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/dri-officials-raid-illegal-alprazolam-manufacturing-unit-in-ap-seize-drugs-worth-47-crore/article70738353.ece",
+      "summary": "Under ‘Operation White Hammer’, the DRI officials conducted searches on a private chemicals manufacturing factory, which was manufacturing Alprazolam tablets, which comes under psychotropic substance",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:57:47 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ebade25191b92f549050f32e34bfc8af",
       "title": "Varanasi News: मौला अली की यौमे शहादत पर निकला ताबूत व अलम का जुलूस",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/a-procession-of-coffin-and-flags-was-taken-out-on-the-martyrdom-day-of-maula-ali-varanasi-news-c-192-1-svns1035-150102-2026-03-13",
@@ -66962,6 +67079,45 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "958294de87f71617ff99eb4e3e2288c9",
+      "title": "Iran-Israel war LIVE: Israel says struck over 200 targets in Iran in past day",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-13-2026-live-updates/article70737821.ece",
+      "summary": "“Watch what happens to these deranged scumbags today, Iran’s Navy is gone, their Air Force is no longer, missiles, drones and everything else are being decimated, and their leaders have been wiped from the face of the earth.” says Donald Trump",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:56:37 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "868c738d8fd6e8a98a8bf9ee53bf178c",
+      "title": "Aligarh News: फायरिंग में भाजपा नेता हर्षद हिंदू समेत दोनों गुटों से सात गिरफ्तार, 120 लोगों पर मुकदमा दर्ज",
+      "link": "https://www.amarujala.com/uttar-pradesh/aligarh/seven-people-including-a-bjp-leader-arrested-in-the-firing-incident-2026-03-13",
+      "summary": "अलीगढ़ शहर के रसलगंज क्षेत्र में हुए सनसनीखेज गोलीकांड में पुलिस ने बड़ी कार्रवाई की है। इस मामले में पुलिस ने भाजपा युवा मोर्चा के महानगर मंत्री हर्षद हिंदू समेत दोनों पक्षों के कुल सात लोगों को गिरफ्तार किया है।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:56:10 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "0712a9bac9d526dff6665a19a30c4693",
+      "title": "Paid menstrual pain leave may cost women their careers, Supreme Court apprehends",
+      "link": "https://www.thehindu.com/news/national/paid-menstrual-pain-leave-may-cost-women-their-careers-supreme-court-apprehends/article70738379.ece",
+      "summary": "Chief Justice Kant distinguished between creating a legally enforceable statutory right and a spontaneous act or policy from employers towards their women employees",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:55:19 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -66978,6 +67134,32 @@
       "lang": "en"
     },
     {
+      "id": "4755090bebd0832c381f3ca31285bcfd",
+      "title": "LPG संकट को लेकर अखिलेश यादव ने सरकार को घेरा",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/akhilesh-yadav-surrounded-the-government-over-the-lpg-crisis-2026-03-13",
+      "summary": "समाजवादी पार्टी प्रमुख अखिलेश यादव ने कहा, “LPG- लापता गैस, इसी की वजह से आज सिलेंडर नहीं है। इसी की वजह से KGMU में संकट आ रहा है या और जगह संकट आ रहा है",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:54:40 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "a938c32b533250c1c2f0e1eb01a5e4d3",
+      "title": "Pakistan bombs airline fuel depot near Kandahar airport: Afghan Taliban",
+      "link": "https://www.thehindu.com/news/international/pakistan-bombs-airline-fuel-depot-near-kandahar-airport-afghan-taliban/article70738161.ece",
+      "summary": "Pakistan's military did not ‌respond to a request for comment",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:54:37 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0a819fea04c971390ac5889cf36c4b4d",
       "title": "Varanasi News: निमिया के डार मईया झूलेली झूलनवा...देवी गीत पर झूमे श्रोता",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/nimiya-ke-dar-maiya-jhuleli-jhulanwaaudience-danced-to-the-devi-song-varanasi-news-c-192-1-svns1034-150075-2026-03-13",
@@ -66988,6 +67170,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "832b47656d8376708ec616702625e82f",
+      "title": "LPG cylinder stolen from restaurant in Kerala capital amid shortage",
+      "link": "https://www.thehindu.com/news/national/kerala/lpg-cylinder-stolen-from-restaurant-in-kerala-capital-amid-shortage/article70738238.ece",
+      "summary": "Hotel owner says accused entered the premises after breaking open the door of the kitchen area and took away a filled LPG cylinder",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:52:58 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -67004,6 +67199,58 @@
       "lang": "en"
     },
     {
+      "id": "b59f21e86dbb3c0b723dcd51db987793",
+      "title": "Chhattisgarh सरकार ने दी बिजली उपभोक्ताओं को राहत, बकाया बिजली बिल भुगतान पर मिलेगी भारी छूट",
+      "link": "https://www.amarujala.com/video/india-news/chhattisgarh-government-gives-relief-to-electricity-consumers-huge-discount-will-be-given-on-payment-of-outst-2026-03-13",
+      "summary": "Chhattisgarh सरकार ने दी बिजली उपभोक्ताओं को राहत, बकाया बिजली बिल भुगतान पर मिलेगी भारी छूट",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:52:26 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "75e6d3d3ece0040107ca5bb38a3cfa8a",
+      "title": "Ujjain में LPG Crisis से हाल क्या? अधिकारी क्या बोले? जानें कैसी है हालिया स्थिति?",
+      "link": "https://www.amarujala.com/video/india-news/what-is-the-situation-regarding-the-lpg-crisis-in-ujjain-what-did-the-officials-say-what-is-the-current-situ-2026-03-13",
+      "summary": "Ujjain में LPG Crisis से हाल क्या? अधिकारी क्या बोले? जानें कैसी है हालिया स्थिति?",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:50:59 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "6d51663397a4db8532bac818e574f5b0",
+      "title": "Ganga Aarti: 19 मार्च से ललिता घाट से गूंजेगी गंगा आरती, दो और घाटों पर भी तैयारी में जुटा मंदिर प्रशासन",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/ganga-aarti-will-resonate-from-lalita-ghat-from-march-19-preparations-at-two-more-ghats-also-varanasi-news-c-20-noi1138-1318547-2026-03-13",
+      "summary": "मंदिर प्रशासन गंगा आरती के दायरे को और बढ़ाने की योजना पर काम कर रहा है। ललिता घाट पर आरती शुरू होने के बाद दो और घाटों पर आरती शुरू कराने की तैयारी है।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:50:09 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "1fe64d779bb336e082497c0900237610",
+      "title": "Amid war, U.S. President Donald Trump pushes for SIR-type electoral overhaul",
+      "link": "https://www.thehindu.com/news/international/amid-war-us-president-donald-trump-pushes-for-sir-type-electoral-overhaul/article70738261.ece",
+      "summary": "A Bill passed by the U.S. House of Representatives and stuck in the Senate proposes a nationwide requirement for each voter to provide documentary proof of citizenship",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:49:54 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9f6ed677a79a7558c167faf51f127e03",
       "title": "Varanasi News: उर्स करने और अदृश्य मजार पर चादर चढ़ाने के मामले में सुनवाई 30 मार्च को",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/hearing-on-march-30-in-the-case-of-urs-and-offering-chadar-at-the-invisible-shrine-varanasi-news-c-20-vns1021-1319009-2026-03-13",
@@ -67014,6 +67261,123 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "9737898fff8eb515bf007256c65d903d",
+      "title": "86% of LPG supply in Telangana used domestically; problems in commercial supply come to our notice: Uttam",
+      "link": "https://www.thehindu.com/news/national/telangana/86-of-lpg-supply-in-telangana-used-domestically-problems-in-commercial-supply-come-to-our-notice-uttam/article70738135.ece",
+      "summary": "Telangana Civil Supplies Minister called for a meeting with the representatives of Oil Marketing Companies (OMC) on Friday",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:49:53 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fe3d61ef7a3a31fbac7c2ec873b5deb4",
+      "title": "सीएम विष्णु देव ने की बिजली बिल भुगतान समाधान योजना 2026 शुरुआत, जानें कैसे मिलेगा फायदा?",
+      "link": "https://www.amarujala.com/video/india-news/cm-vishnu-dev-launched-the-electricity-bill-payment-solution-scheme-2026-know-how-to-avail-the-benefit-2026-03-13",
+      "summary": "सीएम विष्णु देव ने की बिजली बिल भुगतान समाधान योजना 2026 शुरुआत, जानें कैसे मिलेगा फायदा?",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:49:53 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "77642a2c313edaf991f11de0a5bce53c",
+      "title": "U.S. wants to 'divide Europe': EU's Kallas",
+      "link": "https://www.thehindu.com/news/international/us-wants-to-divide-europe-eus-kallas/article70738368.ece",
+      "summary": "“EU countries should not be looking to deal ‌with Mr. Trump bilaterally,” she said",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:49:10 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7c9dd21930a187222cbd94befd90b5ca",
+      "title": "UP: 18 मार्च से यूपी बोर्ड परीक्षा की कॉपियां का मूल्यांकन, उत्तरपुस्तिका में मिले रुपये राजकोष में होंगे जमा",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/up-board-answer-sheet-evaluation-to-begin-from-march-18-at-15-centers-in-agra-division-2026-03-13",
+      "summary": "18 से 1 अप्रैल तक चलेगा मूल्यांकन का कार्य, परीक्षक 16 मार्च को दर्ज कराएंगे उपस्थिति",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:49:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "fc0784d7c5319dcaa82b017bd68fdf5d",
+      "title": "LPG crisis: Malayalam film industry starts feeling the heat as production schedules hit",
+      "link": "https://www.thehindu.com/news/national/kerala/lpg-crisis-malayalam-film-industry-starts-feeling-the-heat-as-production-schedules-hit/article70738345.ece",
+      "summary": "With nearly 18 films in production, Kerala Film Producers’ Association warns of a potential ₹5 crore loss if the crisis continues",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:48:47 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6eb2c2eeb8bb4bffaacc4aea263035aa",
+      "title": "LPG crisis: Shortage of commercial gas hits more sectors in Kerala’s Kozhikode district",
+      "link": "https://www.thehindu.com/news/national/kerala/lpg-crisis-shortage-of-commercial-gas-hits-more-sectors-in-keralas-kozhikode-district/article70738174.ece",
+      "summary": "Hoteliers, drivers of LPG-powered auto-rickshaws, charity organisations engaged in supply of free meals worst hit. Two gas crematoriums in Kozhikode city have stopped bookings",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:48:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "97e25c9bfd5e645445dc4017b5611828",
+      "title": "सराफा की रंगत पर पड़ने लगा है गैस संकट का असर, भुट्टे का किस और गराडू हुए ठंडे",
+      "link": "https://www.amarujala.com/video/india-news/the-gas-crisis-has-begun-to-impact-the-bullion-market-with-corn-kisses-and-garadoos-cooling-off-2026-03-13",
+      "summary": "सराफा की रंगत पर पड़ने लगा है गैस संकट का असर, भुट्टे का किस और गराडू हुए ठंडे",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:48:20 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d9cc9810a670efaecefa7be263e99c48",
+      "title": "Parliament: एलपीजी संकट पर हंगामे के बीच लोकसभा दो बजे तक स्थगित; बाढ़ प्रभावित राज्यों को केंद्र से बड़ी राहत",
+      "link": "https://www.amarujala.com/live/india-news/parliament-budget-session-day-5-second-phase-live-updates-impeachment-notice-against-cec-bjp-vs-congress-hind-2026-03-13",
+      "summary": "Parliament: बजट सत्र के पांचवे दिन विपक्ष की तैयारी, CEC पर महाभियोग और गैस संकट पर हंगामा के आसार, Parliament Budget Session Day 5 Second Phase LIVE Updates Impeachment Notice Against CEC BJP vs Congress Hind",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:47:54 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "109b2cb663c9fe74c1e2e1c292d547ca",
+      "title": "70 साल के बुजुर्ग की देर रात अचानक मौत, हत्या के आरोपों के बाद दामाद हिरासत में",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-varanasi-70-year-old-man-found-dead-at-night-son-in-law-accused-of-killing-for-property-201773384379486.html",
+      "summary": "यूपी के वाराणसी में एक बुजुर्ग की अचानक मौत होने से हड़कंप मच गया। मौत के कारणों का पता किया जा रहा है। वहीं, बुजुर्ग के दामाद पर हत्या के आरोप लगे हैं। बता दें कि हत्या के आरोपों के चलते दामाद को हिरासत में लेकर जांच शुरू की गई है।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:47:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -67030,6 +67394,84 @@
       "lang": "en"
     },
     {
+      "id": "8e3fa2a5be60434ea7deae8ae586365d",
+      "title": "Shravasti: डंपर ने एसयूवी को मारी टक्कर, एक की मौत और चार लोग घायल; शादी कार्यक्रम के लिए सब्जी लेने जा रहे थे",
+      "link": "https://www.amarujala.com/uttar-pradesh/shravasti/dumper-collides-with-suv-in-shravasti-one-dead-while-four-injured-2026-03-13",
+      "summary": "यूपी के श्रावस्ती में शुक्रवार की सुबह डंपर ने एसयूवी को टक्कर मार दी। हादसे में एक युवक की मौत हो गई।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:47:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "ab08c4d42c8d10d478ae1660ffb7236b",
+      "title": "गर्मी से हुआ हाल-बेहाल, पारा 38 डिग्री पार; मार्च में ही होने लगा मई की तपन का एहसास",
+      "link": "https://www.amarujala.com/video/india-news/the-heat-has-taken-a-toll-with-temperatures-reaching-38-degrees-celsius-the-heat-of-may-is-felt-in-march-2026-03-13",
+      "summary": "गर्मी से हुआ हाल-बेहाल, पारा 38 डिग्री पार; मार्च में ही होने लगा मई की तपन का एहसास",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:47:06 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3a1024d630d474bb9480118d1874269e",
+      "title": "यूपी बोर्ड परीक्षा: 10 सचल दल नहीं पकड़ सके एक भी नकलची, खड़े हो रहे हैं ये सवाल",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/up-board-exams-10-flying-squads-fail-to-catch-a-single-cheater-in-agra-2026-03-13",
+      "summary": "एक फर्जी परीक्षार्थी और कक्ष निरीक्षकों पर मोबाइल मिलने तक रही कार्रवाई, डीआईओएस समेत अन्य दलों ने मिली शिकायतों को दबा दिया।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:46:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "55bb010c74671521c28cb01b74644644",
+      "title": "China passes new ethnic minority law, prioritise use of Mandarin language",
+      "link": "https://www.thehindu.com/news/international/china-passes-new-ethnic-minority-law-prioritise-use-of-mandarin-language/article70736694.ece",
+      "summary": "Called \"Promoting Ethnic Unity and Progress\", the ethnic minority law aims to forge national unity ‌and advance the rejuvenation of the Chinese nation with the Chinese Communist Party (CCP) at its core, a draft copy of the law showed",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:46:45 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c57defa72f32187b90bcd98f0a376188",
+      "title": "कानपुर के अस्पतालों में चूल्हे बुझने की नौबत, उर्सला में आज भर की गैस, हैलट में पांच दिन का ही स्टॉक",
+      "link": "https://www.livehindustan.com/uttar-pradesh/kanpur-hospitals-face-lpg-shortage-ursula-has-enough-gas-today-while-hallet-has-only-five-day-stock-201773385224307.html",
+      "summary": "रसोई गैस की किल्लत अब घरों और बाजार से निकलकर अस्पताल तक पहुंच गई। कानपुर के उर्सला, हैलट और जीएसवीएम मेडिकल कॉलेज में संचालित मेस संचालकों के सामने गैस सिलेंडर की कमी बड़ी चिंता बनती जा रही है। उर्सला में तो सिर्फ आज शाम तक का ही स्टॉक बचा है।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:46:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8f6ad0be7ff60e42e09262f3733f32e8",
+      "title": "महिलाओं को कोई काम नहीं देगा: पीरियड्स लीव पर CJI की टिप्पणी, अनिवार्य छुट्टी की याचिका पर सुनवाई से इनकार",
+      "link": "https://www.amarujala.com/india-news/supreme-court-refused-to-hear-pil-seeking-policy-menstrual-leave-for-women-2026-03-13",
+      "summary": "महिलाओं को कोई काम नहीं देगा: पीरियड्स लीव पर CJI की अहम टिप्पणी, अनिवार्य छुट्टी की याचिका पर सुनवाई से इनकार supreme Court refused to hear pil seeking policy menstrual leave for women",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:45:57 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "be83230369a99aad0c9bc74e5f7a4aae",
       "title": "Varanasi News: सीएम की मां पर अभद्र टिप्पणी के विरोध में पुतला फूंका, प्राथमिकी दर्ज करने की मांग",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/accused-in-kidnapping-of-teenager-arrested-varanasi-news-c-20-vns1022-1319243-2026-03-13",
@@ -67040,6 +67482,71 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "3b4ac46c8c479375648b9200f689e68d",
+      "title": "'We're not wombs': Japan women seek rights to sterilisation",
+      "link": "https://www.thehindu.com/news/international/were-not-wombs-japan-women-seek-rights-to-sterilisation/article70738128.ece",
+      "summary": "Women in Japan are challenging the constitutionality of Japan's decades-old \"maternity protection\" law, one of the world's most restrictive barriers to sterilisation",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:44:58 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8ea0602b6ac59bd05043e2bfc3f9a581",
+      "title": "राज्यसभा चुनाव से पहले सियासी हलचल: कांग्रेस ने ओडिशा के 8 विधायक कर्नाटक भेजे, क्रॉस वोटिंग का सता रहा डर",
+      "link": "https://www.amarujala.com/india-news/rajya-sabha-elections-congress-sends-8-odisha-mlas-to-karnataka-amid-fears-of-cross-voting-2026-03-13",
+      "summary": "राज्यसभा चुनाव से पहले सियासी हलचल: कांग्रेस ने ओडिशा के 8 विधायक कर्नाटक भेजे, क्रॉस वोटिंग का सता रहा डर, Rajya Sabha Elections Congress Sends 8 Odisha MLAs to Karnataka Amid Fears of Cross-Voting",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:44:25 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "dfc356d2ed5952a6201dc17ca59966ee",
+      "title": "लापरवाही का ये है आलम: बिना रजिस्ट्रेशन 12 साल से दौड़ रही थी स्कूल बस, छात्रा की मौत के बाद जागे अधिकारी",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/official-negligence-exposed-after-school-bus-tragedy-in-agra-2026-03-13",
+      "summary": "आरटीओ, पुलिस और शिक्षा विभाग के बीच नहीं वाहनों पर कोई तालमेल, खटारा और अनफिट वाहन चलाने वाले उठा रहे फायदा, नहीं होता रिकॉर्ड।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:44:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f7e5ff377afab3fbd665453c716f1f02",
+      "title": "Section of Bengal govt employees on ‘cease-work’ over dearness allowance dues",
+      "link": "https://www.thehindu.com/news/national/west-bengal/section-of-bengal-govt-employees-on-cease-work-over-dearness-allowance-dues/article70738332.ece",
+      "summary": "The protest, called by the ‘Sangrami Joutha Mancha’ to press the State government for payment of DA arrears, and implementation of a recent Supreme Court direction on the issue",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:43:56 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8d89a780f1782f84b4e9cab925044192",
+      "title": "संभल में कड़ी चौकसी: ड्रोन से की जा रही निगरानी, तीन कंपनी पीएसी तैनात, अलविदा जुमे पर मस्जिदों में भीड़",
+      "link": "https://www.amarujala.com/uttar-pradesh/moradabad/tight-vigil-in-sambhal-surveillance-conducted-via-drones-three-companies-of-pac-deployed-2026-03-13",
+      "summary": "रमजान माह के आखिरी जुमे यानी अलविदा जुमे की नमाज को लेकर शुक्रवार को संभल में पुलिस-प्रशासन पूरी तरह सतर्क है। शहर की जामा मस्जिद समेत प्रमुख मस्जिदों के आसपास सुरक्षा के व्यापक इंतजाम किए गए हैं।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:43:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -67056,6 +67563,45 @@
       "lang": "en"
     },
     {
+      "id": "d6a16f8bc019a9b47c8b0bbc9397d885",
+      "title": "Kanpur Accident: रजबहे में गिरी तेज रफ्तार कार, दूसरे वाहन को बचाने में हुआ हादसा, चालक समेत चार गंभीर घायल",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-speeding-car-plunges-into-canal-crash-occurs-while-swerving-to-avoid-another-vehicle-four-injured-2026-03-13",
+      "summary": "कानपुर में घाटमपुर क्षेत्र के जिठौली रोड पर गुरुवार को एक भीषण सड़क हादसा हो गया। भदरस रजबहा के गौरनपुर पुल के पास एक तेज रफ्तार कार बेकाबू होकर रजबहे में जा गिरी। इस हादसे में कार सवार चार लोग गंभीर रूप से घायल हो गए।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:41:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "3ed15b33286f1af7d2946de39eae595d",
+      "title": "UP: नैना की मौत से रो पड़ा नगला लाले, बेसुध हुई मां; पिता बोले- हर महीने चेताया, फिर भी नहीं सुधरी बस",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/agra-bus-tragedy-naina-s-village-in-mourning-family-demands-strict-action-2026-03-13",
+      "summary": "बेसुध हुई मां, बार-बार बेटी को पुकार रही, पिता बोले- संचालक को हर महीने टोका, फिर भी नहीं माना।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:41:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f41a9f715bb131991bc7828e1ecb7e8d",
+      "title": "Agra: ताजमहल पर अपनों से बिछड़ गया इटली का पर्यटक, गूगल की ली मदद; पुलिस ने होटल तक पहुंचाया",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/agra-police-helps-lost-italian-tourist-reunite-with-group-near-taj-mahal-2026-03-13",
+      "summary": "बिछड़े विदेशी पर्यटक को पुलिस ने होटल पहुंचाया।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:38:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "4d2549b581abf72d25787d73f315d64f",
       "title": "Noida News: मेडिकल कॉलेज में ईसीजी का कागज भी उपलब्ध नहीं",
       "link": "https://www.amarujala.com/delhi-ncr/noida/ecg-paper-is-also-not-available-in-the-medical-college-noida-news-c-25-1-mwt1009-110497-2026-03-13",
@@ -67069,6 +67615,19 @@
       "lang": "en"
     },
     {
+      "id": "08a8a2f4649617292e5b0e4813c044ad",
+      "title": "India-US Partnership: भारत-अमेरिका में महत्वपूर्ण खनिजों पर समझौता जल्द, US राजदूत सर्जियो गोर ने दिया संकेत",
+      "link": "https://www.amarujala.com/india-news/india-us-critical-minerals-deal-soon-sergio-gor-announcement-strategic-partnership-trade-supply-chain-2026-03-13",
+      "summary": "india us critical minerals deal soon sergio gor announcement strategic partnership trade supply chain- India-US Partnership: भारत-अमेरिका में महत्वपूर्ण खनिजों पर समझौता जल्द, US राजदूत सर्जियो गोर ने दिया संकेत",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:37:37 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "a54186e2c7c881017973c0e6d5827608",
       "title": "Noida News: लीड- तेजी से बढ़ते तापमान से सूखने लगी गेहूं की फसल",
       "link": "https://www.amarujala.com/delhi-ncr/noida/the-wheat-crop-started-drying-up-due-to-the-rapidly-increasing-temperature-noida-news-c-25-1-mwt1001-110507-2026-03-13",
@@ -67079,6 +67638,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "5b37151bc5baba864280310973f4c472",
+      "title": "Taiwan Parliament authorises government to sign stalled U.S. arms deals",
+      "link": "https://www.thehindu.com/news/international/taiwan-parliament-authorises-government-to-sign-stalled-us-arms-deals/article70738202.ece",
+      "summary": "The back and forth on Taiwan’s defence spending has provoked concern in the United States, as it is the ‌most important international backer and arms supplier of the Chinese-claimed island",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:36:36 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "03498440a74710998f8c1ff09e2cd77f",
+      "title": "शिक्षिका से धोखाधड़ी: कंप्यूटर ऑपरेटर की करतूत जान रह जाएंगे हैरान, म्यूचुअल फंड के नाम पर लिया 9 लाख का लोन",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/computer-operator-accused-of-taking-9-lakh-loan-by-cheating-teacher-2026-03-13",
+      "summary": "आगरा के थाना हरीपर्वत में दर्ज हुई प्राथमिकी, पुलिस ने जांच शुरू की, धमकी देने का भी आरोप।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:36:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -67108,17 +67693,238 @@
       "lang": "en"
     },
     {
-      "id": "d9cc9810a670efaecefa7be263e99c48",
-      "title": "Parliament: एलपीजी संकट पर हंगामे के बीच लोकसभा दो बजे तक स्थगित; बाढ़ प्रभावित राज्यों को केंद्र से बड़ी राहत",
-      "link": "https://www.amarujala.com/live/india-news/parliament-budget-session-day-5-second-phase-live-updates-impeachment-notice-against-cec-bjp-vs-congress-hind-2026-03-13",
-      "summary": "Parliament: बजट सत्र के पांचवे दिन विपक्ष की तैयारी, CEC पर महाभियोग और गैस संकट पर हंगामा के आसार, Parliament Budget Session Day 5 Second Phase LIVE Updates Impeachment Notice Against CEC BJP vs Congress Hind",
+      "id": "1cf3655a2db59de98aaa0b6adae833ee",
+      "title": "Aligarh Nagar Nigam: पूर्व अधिकारियों के खिलाफ रिपोर्ट दर्ज, पेंशन रोकने की संस्तुति का भेजा जा रहा पत्र",
+      "link": "https://www.amarujala.com/uttar-pradesh/aligarh/report-filed-against-former-officials-of-aligarh-municipal-corporation-2026-03-13",
+      "summary": "अलीगढ़ नगर निगम ने 18 करोड़ रुपये की भूमि विवाद में निगम के पूर्व मुख्य नगर अधिकारी डॉ. नंद किशोर और तत्कालीन संपत्ति अधिकारी/अवर अभियंता गय्यूर अहमद के खिलाफ थाना सिविल लाइंस में रिपोर्ट दर्ज कराई है।",
       "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 12:11:53 +0530",
+      "timestamp": "Fri, 13 Mar 2026 12:34:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9145d3ee440c368ff7dc272dd449b30e",
+      "title": "Pakistan court rejects plea to shift Imran Khan to private hospital",
+      "link": "https://www.thehindu.com/news/international/pakistan-court-rejects-plea-to-shift-imran-khan-to-private-hospital/article70738360.ece",
+      "summary": "The court refused to grant the petition to shift Khan to a private hospital. It, however, directed Islamabad Chief Commissioner Muhammad Ali Randhawa to constitute a medical board to check Khan",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:33:49 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c3fc65cbeb2d580a792327cf86e68602",
+      "title": "हत्या और दलित उत्पीड़न का मामला: 18 साल बाद बरी हुआ आरोपी, साक्ष्य के अभाव में सुनाया गया फैसला",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/murder-accused-acquitted-after-18-years-due-to-lack-of-evidence-in-agra-2026-03-13",
+      "summary": "साक्ष्य के अभाव में 18 साल बाद बरी हुआ हत्यारोपी, हरीपर्वत थाने में वर्ष 2007 में दर्ज हुई थी प्राथमिकी।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:33:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "bdaaf3f7d23c3cb8c45e040f56006084",
+      "title": "Stronger air defence takeaway for India from West Asia conflict: Ex IAF chief",
+      "link": "https://www.thehindu.com/news/national/stronger-air-defence-takeaway-for-india-from-west-asia-conflict-ex-iaf-chief/article70738067.ece",
+      "summary": "“Drones are going to play a “huge role” in any forthcoming future conflict that we can envisage,” the former IAF chief said",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:32:59 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b942725b3c012e8d1c45b742eee392a5",
+      "title": "Tracking ship attacks in the Strait of Hormuz and the Gulf: Timeline",
+      "link": "https://www.thehindu.com/news/international/tracking-ship-attacks-in-the-strait-of-hormuz-and-the-gulf/article70737841.ece",
+      "summary": "A wave of attacks on commercial vessels in and around the Strait of Hormuz has heightened tensions along one of the world’s busiest shipping routes.",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:32:44 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "524ce32593cfb8dbf145e2479603188f",
+      "title": "World Sleep Day 2026: आपको वास्तव में कितनी नींद की जरूरत है?, जानिए उम्र के हिसाब से कितने घंटे सोना चाहिए",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/world-sleep-day-2026-following-the-body-s-biological-clock-is-key-to-better-health-2026-03-13",
+      "summary": "युवाओं को 7 से 8 और 45 उम्र पार के लिए 5 से छह घंटे नींद लेनी चाहिए।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:31:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "162656b2810d9748aadede3405e0d785",
+      "title": "UP: क्या बराती और क्या घराती, बस दे दनादन, नहीं देखा होगा बरात का ऐसा स्वागत, VIDEO",
+      "link": "https://www.amarujala.com/uttar-pradesh/mathura/wedding-turns-violent-in-mathura-clash-chairs-thrown-and-firing-sparks-panic-2026-03-13",
+      "summary": "शादी समारोह में दो पक्षों में विवाद, फायरिंग से मची अफरा-तफरी।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:27:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8e18a52c4b53e51f20adbfbac1f28f6e",
+      "title": "PRSU : राज्य विश्वविद्यालय में छात्रों का जमकर हंगामा, पुलिस को धक्का देकर परिसर में घुसे",
+      "link": "https://www.amarujala.com/uttar-pradesh/allahabad/prsu-students-created-ruckus-in-the-state-university-pushed-the-police-and-entered-the-campus-2026-03-13",
+      "summary": "प्रोफेसर राजेंद्र सिंह (रज्जू भैया) विश्वविद्यालय पर बड़ी संख्या में छात्रों ने शुक्रवार को प्रदर्शन किया। प्रतापगढ़, कौशाम्बी, भदोही, मिर्जापुर और फतेहपुर सहित कई जिलों से बड़ी संख्या में छात्र-छात्राएं सुबह से ही विवि गेट पर पहुंचने लगे।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:26:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "632092f1dfa56264103e4c5df433dccb",
+      "title": "LPG Crisis: आजादी के बाद पहली बार राम रसोई बंद हुई; अवधेश प्रसाद बोले- अयोध्या में धरना दूंगा",
+      "link": "https://www.livehindustan.com/uttar-pradesh/lpg-crisis-ram-rasoi-closed-for-the-first-time-since-independence-awadhesh-prasad-said-i-will-protest-in-ayodhya-201773383791147.html",
+      "summary": "एलपीजी किल्लत पर सपा सांसद अवधेश प्रसाद ने कहा कि अयोध्या में गैस की कमी से राम रसोई बंद हो गई है। उन्होंने इसे दुर्भाग्यपूर्ण बताते हुए कहा कि मुद्दा संसद में उठाया गया है और राम रसोई दोबारा शुरू कराने के लिए 15 तारीख से अयोध्या में धरना देंगे।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:25:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9218eaee760a6e839b201eefd3d45e55",
+      "title": "Ukraine opens battlefield data access to allies' AI models",
+      "link": "https://www.thehindu.com/sci-tech/technology/ukraine-opens-battlefield-data-access-to-allies-ai-models/article70737918.ece",
+      "summary": "Defence Minister Mykhailo Fedorov said ⁠a platform had been created to safely train AI models without giving away sensitive data",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:25:10 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0bc6b349988d4a92a8738ca281facb36",
+      "title": "Kanpur: युवक ने कुत्ते को ईंट से कूंचकर मार डाला, आंखे तक निकल आईं बाहर, लोग बोले- देर तक तड़पता रहा बेजुबान",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-youth-bludgeons-dog-to-death-with-a-brick-its-eyes-popped-out-of-their-sockets-2026-03-13",
+      "summary": "कानपुर के कर्नलगंज थाना क्षेत्र में एक युवक ने बेजुबान डॉग पर ईंट से ताबड़तोड़ हमला कर बेरहमी से मार डाला। आरोपी की क्रूरता का अंदाजा इसी बात से लगाया जा सकता है कि ईंट के वार से कुत्ते की आंखें तक बाहर निकल आईं।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:23:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "4ac15a7a69cbce82e48e4105c76bac31",
+      "title": "Lucknow: गैस सिलिंडर के लिए लोग रो रहे, आपूर्ति के जिम्मेदार सो रहे, जमकर चल रहा कालाबाजारी का धंधा",
+      "link": "https://www.amarujala.com/lucknow/lucknow-people-are-crying-for-gas-cylinders-those-responsible-for-supply-are-sleeping-2026-03-13",
+      "summary": "केंद्र सरकार ने देश में गैस उत्पादन बढ़ाने के आदेश दिए हैं। इधर, अफसर भी कह रहे हैं कि प्रदेश में गैस सिलिंडर, पेट्रोल-डीजल की कोई कमी नहीं है।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:22:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "fbc21716586de21845645835bf2850ae",
+      "title": "Israeli Military drops charges against soldiers accused of sexually assaulting Palestinian detainee",
+      "link": "https://www.thehindu.com/news/international/israeli-military-drops-charges-against-soldiers-accused-of-sexually-assaulting-palestinian-detainee/article70738120.ece",
+      "summary": "Prime Minister Benjamin Netanyahu hailed the announcement, while human rights groups accused the military of ignoring one of the gravest instances of abuse in the country’s network of wartime prisons",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:17:29 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bd03eb3b691d6e39b6459331105d586d",
+      "title": "इच्छामृत्यु की इजाजत: 'मेरी नहीं, उन मां-बाप की जीत, जिन्होंने...', बिना फीस HC से SC तक लड़ी हरीश की लड़ाई",
+      "link": "https://www.amarujala.com/photo-gallery/delhi-ncr/ghaziabad/harish-rana-case-lawyer-manish-jain-calls-parents-victory-news-in-hindi-2026-03-13",
+      "summary": "अधिवक्ता मनीष जैन ने बिना किसी फीस के हाईकोर्ट से सुप्रीम कोर्ट तक हरीश राणा का केस लड़ा। वह कहते हैं कि यह मेरी जीत नहीं, बल्कि उन माता-पिता की जीत है, जो अपने जिगर के टुकड़े के लिए 13 वर्षों तक संघर्ष करते रहे।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:16:59 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "16f2cfe39f490426ca6e482e28b8d13c",
+      "title": "Six MPs urge Centre to include reservation Act of Karnataka in Ninth Schedule",
+      "link": "https://www.thehindu.com/news/national/karnataka/six-mps-urge-centre-to-include-reservation-act-of-karnataka-in-ninth-schedule/article70736059.ece",
+      "summary": "The MPs expressed concern that the proposal sent by the government of Karnataka to include the Act in the Ninth Schedule has been pending with the Union government for more than three years",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:15:30 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5df29d897904129a553319ccf2776558",
+      "title": "यूपी में दो फर्मों ने सवा छह करोड़ का लगाया चूना, नकली कंपनी खड़ी करके किया जीएसटी चोरी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-moradabad-fake-firms-company-6-crore-25-lakh-rupees-gst-fraud-with-interest-investigation-begin-201773383768923.html",
+      "summary": "यूपी के मुरादाबाद जिले में बोगस फर्म बनाकर बिल ट्रेडिंग के जरिए फर्जीवाड़ा कर जीएसटी चोरी के दो और बड़े मामले समाने आए हैं। फर्मों के कारोबार और टर्न ओवर की जांच करने के बाद राज्यकर (जीएसटी) विभाग ने यह फर्जीवाड़ा पकड़ा है। इस मामले में मझोला थाने में दो अलग-अलग मुकदमे दर्ज किए गए हैं।",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:13:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a5b4ca254a177bdcc6576496440af5ed",
+      "title": "T.N. CM Stalin seeks PM Modi’s intervention to release pending Jal Jeevan Mission funds",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-seeks-pm-modis-intervention-to-release-pending-jal-jeevan-mission-funds/article70738075.ece",
+      "summary": "Mr. Stalin, in a letter to the Prime Minister, also sought approval for projects",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:12:44 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "Amar Ujala",
+      "source": "The Hindu",
       "district": "",
-      "lang": "hi"
+      "lang": "en"
+    },
+    {
+      "id": "2e455a02b5743b1121a93566ee8a699a",
+      "title": "Donald Trump threatens Iran following new wave of attacks on Gulf states and Israel",
+      "link": "https://www.thehindu.com/news/international/donald-trump-threatens-iran-following-new-wave-of-attacks-on-gulf-states-and-israel/article70738292.ece",
+      "summary": "Iran has launched multiple attacks on Gulf Arab states, including sending dozens of drones toward Saudi Arabia, following warnings from its new supreme leader about hosting American bases",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:11:12 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "0a71bd14cbfd7b8f1c1b66088e09b92b",
@@ -67147,6 +67953,19 @@
       "lang": "en"
     },
     {
+      "id": "524121e828a198ff927ac6c064af43c5",
+      "title": "Supreme Court verdict on OBC creamy layer a victory for social justice: T.N. CM Stalin",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-verdict-on-obc-creamy-layer-a-victory-for-social-justice-tn-cm-stalin/article70735008.ece",
+      "summary": "M.K. Stalin said the judgment was a decisive victory for OBC justice after years of struggle",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 12:07:05 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f7ba5ee2b1c95deca20acf7ce7af5b34",
       "title": "भाजपाई गुटों में फायरिंग: सुरक्षा पर उठे सवाल, मिशन 2027 में पार्टी पर भारी न पड़ जाए भाजपाइयों की लड़ाई",
       "link": "https://www.amarujala.com/uttar-pradesh/aligarh/firing-between-bjp-groups-in-aligarh-2026-03-13",
@@ -67160,29 +67979,16 @@
       "lang": "en"
     },
     {
-      "id": "6383cc9e6d47c3fbf5b5ab8ba1e39822",
-      "title": "Parliament Budget session LIVE: Lok Sabha adjourns immediately after commencement; Rajya Sabha MPs table committee reports",
-      "link": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-march-13-2026/article70737883.ece",
-      "summary": "The Rajya Sabha is to continue the discussion on the working of the Ministry of Rural Development",
+      "id": "c506d102f86b5be27fb49cdde119413b",
+      "title": "Domestic LPG refill booking systems tested amid customer rush",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/domestic-lpg-refill-booking-systems-tested-amid-customer-rush/article70736429.ece",
+      "summary": "",
       "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 12:04:00 +0530",
+      "timestamp": "Fri, 13 Mar 2026 12:05:12 +0530",
       "section": "National",
-      "report_category": "National_Judicial",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3f29619c547289063eaa061b9e4ca93e",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 13 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-13",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 12:03:03 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -67197,19 +68003,6 @@
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
-    },
-    {
-      "id": "3837fa286a6f20495306ea89a3c9ca22",
-      "title": "पढ़ें 13 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-13",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 12:02:47 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "1274c3b1cbc9903f8b3c9f07eac2c423",
@@ -67303,19 +68096,6 @@
       "lang": "en"
     },
     {
-      "id": "524121e828a198ff927ac6c064af43c5",
-      "title": "Supreme Court verdict on OBC creamy layer a victory for social justice: T.N. CM Stalin",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/supreme-court-verdict-on-obc-creamy-layer-a-victory-for-social-justice-tn-cm-stalin/article70735008.ece",
-      "summary": "M.K. Stalin said the judgment was a decisive victory for OBC justice after years of struggle",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 11:55:20 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "1a1a282797778df64e1aafaf574ed7e3",
       "title": "Deploying specialist doctors in PHCs not illegal, rules Madras High Court",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/deploying-specialist-doctors-in-phcs-not-illegal-rules-madras-high-court/article70735243.ece",
@@ -67342,19 +68122,6 @@
       "lang": "en"
     },
     {
-      "id": "832b47656d8376708ec616702625e82f",
-      "title": "LPG cylinder stolen from restaurant in Kerala capital amid shortage",
-      "link": "https://www.thehindu.com/news/national/kerala/lpg-cylinder-stolen-from-restaurant-in-kerala-capital-amid-shortage/article70738238.ece",
-      "summary": "Hotel owner says accused entered the premises after breaking open the door of the kitchen area and took away a filled LPG cylinder",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 11:52:06 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "c2a2436d4e453e91e17f63d2e5dbdbc0",
       "title": "Experts clash over HALEU-Th fuel for Indian nuclear reactors",
       "link": "https://www.thehindu.com/sci-tech/science/experts-clash-over-haleu-th-fuel-for-indian-nuclear-reactors/article70736279.ece",
@@ -67363,19 +68130,6 @@
       "timestamp": "Fri, 13 Mar 2026 11:51:58 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "5b37151bc5baba864280310973f4c472",
-      "title": "Taiwan Parliament authorises government to sign stalled U.S. arms deals",
-      "link": "https://www.thehindu.com/news/international/taiwan-parliament-authorises-government-to-sign-stalled-us-arms-deals/article70738202.ece",
-      "summary": "The back and forth on Taiwan’s defence spending has provoked concern in the United States, as it is the ‌most important international backer and arms supplier of the Chinese-claimed island",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 11:50:56 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -67433,32 +68187,6 @@
       "lang": "en"
     },
     {
-      "id": "9737898fff8eb515bf007256c65d903d",
-      "title": "86% of LPG supply in Telangana used domestically; problems in commercial supply come to our notice: Uttam",
-      "link": "https://www.thehindu.com/news/national/telangana/86-of-lpg-supply-in-telangana-used-domestically-problems-in-commercial-supply-come-to-our-notice-uttam/article70738135.ece",
-      "summary": "Telangana Civil Supplies Minister called for a meeting with the representatives of Oil Marketing Companies (OMC) on Friday",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 11:46:19 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "958294de87f71617ff99eb4e3e2288c9",
-      "title": "Iran-Israel war LIVE: 'Watch what happens....': Donald Trump threatens Iran after attacks on Israel, Gulf countries",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-13-2026-live-updates/article70737821.ece",
-      "summary": "Explosions rattled buildings in Dubai and a large cloud of smoke hung over a central area of West Asia financial hub",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 11:46:05 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f197dfb4de9605c2912f0234d9ed86f5",
       "title": "UP: अमेरिकी डेलिगेशन पहुंचा आगरा, विकास कार्यों का करेगा अध्ययन; तीन दिन शहर में रहेगा दल",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/us-delegation-arrives-in-agra-to-review-urban-development-projects-2026-03-13",
@@ -67493,19 +68221,6 @@
       "timestamp": "Fri, 13 Mar 2026 11:44:12 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "a938c32b533250c1c2f0e1eb01a5e4d3",
-      "title": "Pakistan bombs airline fuel depot near Kandahar airport: Afghan Taliban",
-      "link": "https://www.thehindu.com/news/international/pakistan-bombs-airline-fuel-depot-near-kandahar-airport-afghan-taliban/article70738161.ece",
-      "summary": "Pakistan's military did not ‌respond to a request for comment",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 11:43:05 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -67576,19 +68291,6 @@
       "lang": "en"
     },
     {
-      "id": "6eb2c2eeb8bb4bffaacc4aea263035aa",
-      "title": "LPG crisis: Shortage of commercial gas hits more sectors in Kerala’s Kozhikode district",
-      "link": "https://www.thehindu.com/news/national/kerala/lpg-crisis-shortage-of-commercial-gas-hits-more-sectors-in-keralas-kozhikode-district/article70738174.ece",
-      "summary": "Hoteliers, drivers of LPG-powered auto-rickshaws, charity organisations engaged in supply of free meals worst hit. Two gas crematoriums in Kozhikode city have stopped bookings",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 11:35:26 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ec3c66c348b4ca9467a87fdd5e0d0bc8",
       "title": "Rise in temperatures across Maharashtra, showers predicted post-March 14",
       "link": "https://www.thehindu.com/news/national/maharashtra/rise-in-temperatures-across-maharashtra-showers-predicted-post-march-14/article70734619.ece",
@@ -67651,19 +68353,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "3b4ac46c8c479375648b9200f689e68d",
-      "title": "'We're not wombs': Japan women seek rights to sterilisation",
-      "link": "https://www.thehindu.com/news/international/were-not-wombs-japan-women-seek-rights-to-sterilisation/article70738128.ece",
-      "summary": "Women in Japan are challenging the constitutionality of Japan's decades-old \"maternity protection\" law, one of the world's most restrictive barriers to sterilisation",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 11:30:52 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -67758,19 +68447,6 @@
       "lang": "hi"
     },
     {
-      "id": "fbc21716586de21845645835bf2850ae",
-      "title": "Israeli Military drops charges against soldiers accused of sexually assaulting Palestinian detainee",
-      "link": "https://www.thehindu.com/news/international/israeli-military-drops-charges-against-soldiers-accused-of-sexually-assaulting-palestinian-detainee/article70738120.ece",
-      "summary": "Prime Minister Benjamin Netanyahu hailed the announcement, while human rights groups accused the military of ignoring one of the gravest instances of abuse in the country’s network of wartime prisons",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 11:10:29 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "99563a97f273f56be6c3c31ad9a1c55c",
       "title": "यूपी में LPG किल्लत के बीच जमाखोरी; हापुड़ में एक घर से 32 सिलेंडर जब्त, केस दर्ज",
       "link": "https://www.livehindustan.com/uttar-pradesh/hoarding-amid-lpg-shortage-in-up-32-cylinders-seized-from-a-house-in-hapur-case-registered-201773379493462.html",
@@ -67820,19 +68496,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "4973a27b17f65c599fb2bd7f5c70ec36",
-      "title": "Beer sales drop by 14.59% in Karnataka; govt. cites Andhra excise policy, weather",
-      "link": "https://www.thehindu.com/news/national/karnataka/beer-sales-drop-by-1459-in-karnataka-govt-cites-andhra-excise-policy-weather/article70735157.ece",
-      "summary": "As per the latest figures, the State had generated ₹37,531 crore in excise revenue, which is about ₹4,000 crore short of the target set for the current financial year",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 11:05:42 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -67898,19 +68561,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "bdaaf3f7d23c3cb8c45e040f56006084",
-      "title": "Stronger air defence takeaway for India from West Asia conflict: Ex IAF chief",
-      "link": "https://www.thehindu.com/news/national/stronger-air-defence-takeaway-for-india-from-west-asia-conflict-ex-iaf-chief/article70738067.ece",
-      "summary": "“Drones are going to play a “huge role” in any forthcoming future conflict that we can envisage,” the former IAF chief said",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 10:56:19 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -68106,19 +68756,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "16f2cfe39f490426ca6e482e28b8d13c",
-      "title": "Six MPs urge Centre to include reservation Act of Karnataka in Ninth Schedule",
-      "link": "https://www.thehindu.com/news/national/karnataka/six-mps-urge-centre-to-include-reservation-act-of-karnataka-in-ninth-schedule/article70736059.ece",
-      "summary": "In the memorandum dated March 10, the MPs expressed concern that the proposal sent by the government of Karnataka to include the Act in the Ninth Schedule has been pending with the Union Government for more than three years",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 10:23:13 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -68616,19 +69253,6 @@
       "lang": "en"
     },
     {
-      "id": "b942725b3c012e8d1c45b742eee392a5",
-      "title": "Tracking ship attacks in the Strait of Hormuz and the Gulf: Timeline",
-      "link": "https://www.thehindu.com/news/international/tracking-ship-attacks-in-the-strait-of-hormuz-and-the-gulf/article70737841.ece",
-      "summary": "A wave of attacks on commercial vessels in and around the Strait of Hormuz has heightened tensions along one of the world’s busiest shipping routes.",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 09:07:48 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "883bf82da81da0242757394962319d22",
       "title": "Four killed as bus overturns on NH-44 in Nizamabad district",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/four-killed-as-bus-overturns-on-nh-44-in-nizamabad-district/article70737914.ece",
@@ -69019,6 +69643,19 @@
       "lang": "en"
     },
     {
+      "id": "0ebb5b5fe68cfe44279a42d7f27c6424",
+      "title": "Agra fashion designer commits suicide:Accuses constable of exploitation, threats in video; claims police refused to register FIR",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/agra-fashion-designer-suicide-exploited-by-constable-fir-not-filed-137422754.html",
+      "summary": "A 34-year-old fashion designer died by suicide in Agra after recording an emotional video in which she accused a police constable of exploiting her and threatening her when she sought help. In the video, the woman is seen crying and saying that the constable took advantage of her and later refused to marry her. She claimed she had approached the police station to file a complaint, but no FIR was registered. She also alleged that the constable told her that nothing would happen to a policeman and questioned whether there were any laws to protect women, saying she hoped to receive justice after her death. She ended her life. According to police, the woman had been in a live-in relationship with the constable for nearly 4 years. She reportedly wanted to marry him, but he refused, which left her deeply distressed. On Wednesday night, she was found hanging at her residence. Police said the video surfaced later and went viral, after which action was taken. The accused constable, Jentar Babu alias JB Gautam, has now been arrested and sent to jail. DCP City Syed Ali Abbas said that the woman had not submitted any written complaint at the police station earlier. The accused constable works as a computer operator at Tajganj police station. He is a resident of Sardarpur village in Kanpur, while the woman was originally from Kasganj. She was divorced from her husband and had been living with the constable in Agra. The incident took place in the Sainik Nagar area under the Sadar police station. What did the young woman say in the video? Read Police told me, ‘If you file an FIR, you will face trouble.’ Two videos of the young woman have emerged. The first video is 1 minute 13 seconds long. In this, she is saying that one thing has become clear: nothing happens anywhere. Boys can do anything to girls, but nothing happens to boys. I tried to file an FIR at Tajganj police station, but the police said if you file a case, you'll be the one who suffers. Leave it alone, you'll only face trouble. After this, the FIR was not registered. In such a situation, we have no option but to die. Are there no laws for girls? When those who are meant to protect us say nothing can be done, where should we go? I had been living as a wife with JB Gautam for 4 years, but he has made false accusations against me. Constable mentally and physically harassed me The second video is 2 minutes long. In it, she says that the constable's elder brother is telling me to get married, while the constable says his family won't allow the marriage. Don't marry, but at least don't deceive any girl. I am living with him like a wife. Still, I was wrong because he is a policeman. No action is taken against police officers. I have no hope from such laws. JB Gautam and his entire family are the reason for my death. I was mentally tortured. The constable mentally and physically harassed me. I am giving up my life, but I want that person to receive harsh punishment, and I get justice. Divorced husband 6 years ago, then had affair with constable The fashion designer from Kasganj got married 13 years ago. After 6 years of marriage, she got divorced from her husband. After this, the fashion designer started working in a hospital in Agra. During this time, she got acquainted with computer operator (constable) Jenter Babu aka JB Gautam. The two started talking and then had an affair. Both began living in a flat in Tajganj. It is being reported that the fashion designer was pressuring the constable for marriage, but he kept avoiding it. Frustrated by this, the fashion designer complained at the Tajganj police station, but no action was taken. On Wednesday afternoon, the fashion designer went to her younger sister's house at Rajpur Chungi. At night, her sister was sleeping in a separate room with the children, while the fashion designer was in another room. At 12:30 at night, when the sister went to the room, she found the fashion designer hanging from the fan hook. After this, the sister informed the police and family members. Upon receiving the information, the police reached the spot and sent the body for a post-mortem. Family members also arrived after getting the information. The father filed a case at the Sadar police station. Police registered a case for abetment to suicide and establishing relations under false promise of marriage, and arrested the constable. Brother says, ‘Sister did not mention anything at home’ Brother says, ‘We are two brothers and three sisters’. I did not know what kind of problems my sister was struggling with. She had not mentioned it at home either. Sister had done a fashion design course from Lucknow. She was active on Instagram. Several videos with the constable are present on her account. In one video, the constable is seen filling her hair parting with sindoor.",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 06:58:14 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "67f2b196a3b6aa3fb81db73a0e488fbe",
       "title": "यूपी बोर्ड : 2.87 लाख ने छोड़ी परीक्षा, 12 जिलों के 16 केंद्रों पर मिली नकल की शिकायत; अब 18 से मूल्यांकन",
       "link": "https://www.amarujala.com/lucknow/up-board-2-87-lakh-students-skipped-the-exam-complaints-of-cheating-were-received-at-16-centres-in-12-distr-2026-03-13",
@@ -69055,6 +69692,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "72da12a0d196f1d26558efcaf018d89d",
+      "title": "Force majeure: What is it and why have some Gulf countries invoked it?",
+      "link": "https://www.aljazeera.com/news/2026/3/13/force-majeure-what-is-it-and-why-have-some-gulf-countries-invoked-it?traffic_source=rss",
+      "summary": "Several Gulf nations have declared force majeure on oil and gas shipment since the US-Israel’s war on Iran was launched.",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 06:52:32 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -69256,7 +69906,7 @@
       "id": "74568fa20bed230f85e1ab1f0628eee7",
       "title": "400-metre-long queue for gas cylinders in Lucknow:DM inspects Mamta gas agency on Kanpur road, orders timely supply to consumers",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/lucknow-dm-inspects-mamta-gas-agency-kanpur-road-orders-timely-supply-137422433.html",
-      "summary": "Amidst the shortage of domestic gas cylinders, the administration has become active in Lucknow. District Magistrate Vishakh G inspected the Mamta Gas Agency located on Kanpur Road amid reports of long queues and commotion outside gas agencies in many areas of the city. During this, while reviewing the supply and distribution system, he directed officials to ensure the timely delivery of cylinders to consumers. Meanwhile, the effect of gas shortage is also visible in the market, where the demand for induction stoves and electric kitchen appliances has increased rapidly.",
+      "summary": "The shortage of cooking gas cylinders in UP continues for the 4th consecutive day, causing trouble for people. Even after booking, many consumers are not receiving cylinders, and long queues are being seen outside gas agencies. Cylinders are being distributed in the presence of police. Meanwhile, a scuffle broke out in Barabanki over a cylinder. People were standing in line at a gas agency when a truck carrying cylinders arrived. A young man tried to enter the queue from the middle, and when another man tried to stop him, a fight broke out. In Ghaziabad, people created a commotion while trying to get cylinders. As soon as the truck reached the agency, people rushed forward to grab cylinders. Police somehow managed to control the situation. In Maharajganj, people blocked the road after they were unable to make bookings. Police later convinced them and cleared the blockade. In Gomtinagar Extension in Lucknow, a 400-metre-long queue was seen outside a gas agency. Due to the shortage, the demand for induction cooktops and electric stoves has increased in the market. The impact is also visible at restaurants and hotels, where prices of several food items have started rising. In Agra, tea that earlier cost ₹20 is now being sold for ₹25. In many districts of the state, black marketing of gas cylinders has also started. People are being forced to buy cylinders at double the price. However, gas companies have denied any shortage. Meanwhile, Chief Minister Yogi Adityanath has ordered strict action against the black marketing of gas and fuel. He directed officials to monitor the situation round the clock. Considering the shortage, the central government had supplied 80 lakh litres of kerosene to the UP government. The state has 4.26 crore domestic LPG connections, including 1.87 crore under the Pradhan Mantri Ujjwala Yojana. On average, 5 to 6 lakh cylinders are consumed daily in UP.",
       "date": "2026-03-13",
       "timestamp": "Fri, 13 Mar 2026 05:58:12 +0000",
       "section": "UP_Focus",
@@ -69644,9 +70294,9 @@
     },
     {
       "id": "2f0bc53e108138d97c80dedabb98231b",
-      "title": "King expressed 'concern' over Alberta separatists, say First Nations chiefs after meeting",
+      "title": "King expressed 'concern' over Alberta separatists, say First Nations chiefs",
       "link": "https://www.bbc.com/news/articles/cd9g4dpjwgvo?at_medium=RSS&at_campaign=rss",
-      "summary": "One First Nation has sued the province of Alberta, arguing that allowing a possible referendum on separating from Canada is a violation of indigenous rights.",
+      "summary": "Indigenous leaders made Charles aware of the \"threat\" posed by the movement during a meeting in London, they say.",
       "date": "2026-03-13",
       "timestamp": "Fri, 13 Mar 2026 03:04:28 GMT",
       "section": "International",
@@ -70917,19 +71567,6 @@
       "lang": "en"
     },
     {
-      "id": "6d51663397a4db8532bac818e574f5b0",
-      "title": "Varanasi News: 19 मार्च से ललिता घाट से गूंजेगी गंगा आरती, दो और घाटों पर भी तैयारी",
-      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/ganga-aarti-will-resonate-from-lalita-ghat-from-march-19-preparations-at-two-more-ghats-also-varanasi-news-c-20-noi1138-1318547-2026-03-13",
-      "summary": "Ganga Aarti will resonate from Lalita Ghat from March 19, preparations at two more ghats also",
-      "date": "2026-03-13",
-      "timestamp": "Fri, 13 Mar 2026 01:15:48 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Varanasi",
-      "lang": "en"
-    },
-    {
       "id": "a9001f4d50eece8b729e82eb783a3027",
       "title": "सिलिंडर संकट: चूल्हों पर लौटी काशी की रसोई, होटल, मठ, भंडारे से लेकर अन्नक्षेत्रों तक की बढ़ीं मुश्किलें",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/cylinder-crisis-kashis-kitchens-returned-to-the-stoves-problems-increased-from-hotels-monasteries-bhandaras-to-food-fields-varanasi-news-c-20-noi1138-1318769-2026-03-13",
@@ -70982,6 +71619,19 @@
       "lang": "en"
     },
     {
+      "id": "4ca39841d1086f621d46630465d40547",
+      "title": "'देश को एकजुट रहने की जरूरत': LPG की कमी वाली खबरों पर शशि थरूर बोले- समस्या का जल्द समाधान निकालना चाहिए",
+      "link": "https://www.amarujala.com/india-news/lpg-shortages-reports-shashi-tharoor-says-the-country-needs-to-stay-united-news-in-hindi-2026-03-13",
+      "summary": "'देश को एकजुट रहने की जरूरत': LPG की कमी वाली खबरों पर शशि थरूर बोले- समस्या का जल्द समाधान निकालना चाहिए, LPG Shortages Reports Shashi Tharoor Says The Country Needs to Stay United News In Hindi",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 01:07:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "c1ecebde673ac375e52178fab2ae3662",
       "title": "HC disqualification of SNDP Yogam director board a test of Kerala govt.’s mettle",
       "link": "https://www.thehindu.com/news/national/kerala/hc-disqualification-of-sndp-yogam-director-boarda-test-of-kerala-govts-mettle/article70735868.ece",
@@ -71021,6 +71671,19 @@
       "lang": "en"
     },
     {
+      "id": "3f29619c547289063eaa061b9e4ca93e",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 13 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-13",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 01:04:47 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "56b444e43d572b65fad63a1bba2ac161",
       "title": "Varanasi News: छात्रों के कौशल विकास को प्रोत्साहित करने के लिए विंध्य विवि ने किए एमओयू",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/vindhya-university-signs-mou-to-promote-skill-development-of-students-varanasi-news-c-192-1-svns1033-150099-2026-03-13",
@@ -71032,6 +71695,19 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
+    },
+    {
+      "id": "3837fa286a6f20495306ea89a3c9ca22",
+      "title": "पढ़ें 13 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-13",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-13",
+      "timestamp": "Fri, 13 Mar 2026 01:03:54 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "a14d867756bf92411979c9c60da88f68",
@@ -82578,6 +83254,45 @@
       "lang": "en"
     },
     {
+      "id": "3a418ef3dbf56d8a937cc23f57762965",
+      "title": "Middle East conflict: Sirens heard at Turkey’s US-stationed Incirlik base, residents fear missile threat",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/middle-east-conflict-sirens-heard-at-turkeys-us-stationed-incirlik-base-residents-fear-missile-threat/articleshow/129542126.cms",
+      "summary": "Sirens wailed at Turkey's Incirlik airbase, a key NATO facility housing US troops, early Friday. Residents reported seeing smoke and a glowing object, with a red alert issued. This follows recent NATO interceptions of Iranian-fired missiles and heightened regional tensions.",
+      "date": "2026-03-13",
+      "timestamp": "2026-03-13T12:48:01+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "59a5c79207fb16d59219813f52a32b13",
+      "title": "'These are plans to call women inferior': CJI led-Supreme Court bench rejects plea on menstrual leave",
+      "link": "https://timesofindia.indiatimes.com/india/these-are-plans-to-call-women-inferior-cji-led-supreme-court-bench-rejects-plea-on-menstrual-leave/articleshow/129540882.cms",
+      "summary": "The Supreme Court has declined to mandate nationwide menstrual leave for women, citing concerns that it could reinforce gender stereotypes and harm employment prospects. While acknowledging voluntary policies are welcome, the court directed authorities to consider the petitioner's representation on the matter, emphasizing potential negative career impacts if made compulsory.",
+      "date": "2026-03-13",
+      "timestamp": "2026-03-13T12:21:06+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b4473a48bef602cc236a67c64c81ce15",
+      "title": "'Corrupt, dangerous administration': Sole Muslim woman on Trump's religious committee resigns in protest",
+      "link": "https://timesofindia.indiatimes.com/world/us/corrupt-dangerous-administration-sole-muslim-woman-on-trumps-religious-committee-resigns-in-protest/articleshow/129540414.cms",
+      "summary": "",
+      "date": "2026-03-13",
+      "timestamp": "2026-03-13T12:02:29+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d562cad5b080bab60d6b385e0a92f8f0",
       "title": "'Why hesitancy now?': Congress reiterates 'compromised PM' charge over silence on Ayatollah Khamenei's death",
       "link": "https://timesofindia.indiatimes.com/india/why-hesitancy-now-congress-reiterates-compromised-pm-charge-over-silence-on-ayatollah-khameneis-death/articleshow/129540040.cms",
@@ -82597,6 +83312,19 @@
       "summary": "President Trump declared a decisive campaign against Iran, vowing to \"destroy the terrorist regime\" militarily and economically. He asserted US military superiority, claiming Iran's capabilities are being \"decimated.\" Trump issued a stern warning to Tehran's leadership, highlighting the US's \"unparalleled firepower\" and his personal resolve as the 47th President to counter Iran's global actions.",
       "date": "2026-03-13",
       "timestamp": "2026-03-13T11:05:07+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "612c6a650b69c411993cb42b25e219e1",
+      "title": "Did Iran hit US warship Abraham Lincoln? What we know",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/did-iran-hit-us-warship-abraham-lincoln-what-we-know/articleshow/129538505.cms",
+      "summary": "Iran's IRGC Navy claimed to have struck the USS Abraham Lincoln with ballistic missiles, rendering it non-operational. However, the US has denied this, stating the carrier continues its operations. Separately, a US Navy vessel reportedly fired on an Iranian ship that approached the Abraham Lincoln, with the Iranian vessel's status unknown.",
+      "date": "2026-03-13",
+      "timestamp": "2026-03-13T10:50:04+05:30",
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
