@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T22:28:08.027421+00:00",
+  "generated_at": "2026-03-17T23:27:43.264533+00:00",
   "stories": [
     {
       "id": "d119916ef6281de6016b8b4b514a96ef",
@@ -80,6 +80,162 @@
       "lang": "hi"
     },
     {
+      "id": "606542bf47d810ca035986becbc88f48",
+      "title": "Macron says France could help secure Hormuz only after bombing stops",
+      "link": "https://www.thehindu.com/news/international/macron-says-france-could-help-secure-hormuz-only-after-bombing-stops/article70755618.ece",
+      "summary": "Macron stressed any mission would require “discussions and de-escalation with Iran”",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:49:13 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2745f20cd0d71ce633062a1d3e7f6c0b",
+      "title": "Iran-Israel war LIVE: Iran confirms security chief Ali Larijani's death",
+      "link": "https://www.thehindu.com/news/international/iran-israel-usa-war-live-updates-march-17-2026/article70752382.ece",
+      "summary": "Iran keeps up attacks on neighbors after Israel says it killed two of its top officials",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:47:00 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "26176fea45936e8a8cee74097a852cc5",
+      "title": "Iran confirms security chief Larijani killed as Israel vows to target new Supreme Leader",
+      "link": "https://www.thehindu.com/news/international/iran-confirms-security-chief-larijani-killed-as-israel-vows-to-target-new-supreme-leader/article70755862.ece",
+      "summary": "The death of Ali Larijani represents a major blow to Iran, whose long-serving leader Ayatollah Ali Khamenei was killed less than three weeks ago in US-Israeli strikes that ignited the war in West Asia",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:42:18 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c50ba81d6e12c756d407b61168b236ef",
+      "title": "Florida man executed for killing a young mom who called 911 from his car begging for help",
+      "link": "https://www.thehindu.com/news/international/florida-man-executed-for-killing-a-young-mom-who-called-911-from-his-car-begging-for-help/article70755863.ece",
+      "summary": "King's execution was the fourth this year in Florida and the seventh overall in 2026 including two executions in Texas and one in Oklahoma",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:39:12 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8f47cc8795c1ba0c49691453902eee19",
+      "title": "पाकिस्तान की AI साजिश बेनकाब: डीपफेक से भारत की छवि बिगाड़ने की कोशिश, बद्री 313 साइबर नेटवर्क का खुलासा",
+      "link": "https://www.amarujala.com/india-news/pakistan-s-ai-propaganda-exposed-deepfake-campaign-targeting-india-revealed-2026-03-18",
+      "summary": "पाकिस्तान की AI साजिश बेनकाब: डीपफेक से भारत की छवि बिगाड़ने की कोशिश, बद्री 313 साइबर नेटवर्क का खुलासा",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:38:21 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "aa4772d812dacbe4694be5b37a7221ee",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 18 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-18",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:30:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "6896f94af0abe7cfc72035ca365cb7e6",
+      "title": "पढ़ें 18 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-18",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:30:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "6719b7fbd8b754c6417cf991b5f0f540",
+      "title": "Israel says striking Basij militia in Tehran after leader killed",
+      "link": "https://www.thehindu.com/news/international/israel-says-striking-basij-militia-in-tehran-after-leader-killed/article70755866.ece",
+      "summary": "The military launched new strikes targeting \"more than 10 different posts across Tehran\".",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:29:15 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1ecd743e3a5c070147e1c3766924f22f",
+      "title": "Projectile hits area near Iran’s Bushehr nuclear power plant",
+      "link": "https://www.thehindu.com/news/international/projectile-hits-area-near-irans-bushehr-nuclear-power-plant/article70755865.ece",
+      "summary": "The projectile ‌hit the ​vicinity of the nuclear ⁠power plant in the ‌port city of Bushehr at around 7 ‌p.m. local time",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:29:13 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "25fca390a9065774d760654daca4c372",
+      "title": "Peru’s Prime Minister resigns ahead of congressional confirmation vote",
+      "link": "https://www.thehindu.com/news/international/perus-prime-minister-resigns-ahead-of-congressional-confirmation-vote/article70755864.ece",
+      "summary": "Denisse Miralles was appointed as Prime Minister in late February, after Interim President José Jerí was removed from his post following corruption allegations and replaced by congressman Jose María Balcázar",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:29:12 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "debec9dc644a92eb29e313d9dc3c1028",
+      "title": "Weather: बढ़ती गर्मी के बीच पश्चिमी विक्षोभ सक्रिय, देशभर में फिर बारिश-आंधी और तापमान में उतार-चढ़ाव के आसार",
+      "link": "https://www.amarujala.com/india-news/weather-updates-western-disturbance-active-amid-rising-heat-rain-storms-temperature-fluctuations-imd-alert-2026-03-18",
+      "summary": "Weather: बढ़ती गर्मी के बीच पश्चिमी विक्षोभ सक्रिय, देशभर में फिर बारिश-आंधी और तापमान में उतार-चढ़ाव के आसार Weather Updates Western disturbance active amid rising heat rain storms temperature fluctuations IMD Alert",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:09:49 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a3986fb9a0a4de3ef5a8dace2a83aca5",
+      "title": "Parliament Budget Session News:अश्विनी वैष्णव ने बताई रेलवे की उपलब्धियां,रेल दुर्घटनाओं में 90% कमी",
+      "link": "https://www.amarujala.com/video/india-news/parliament-budget-session-news-ashwini-vaishnav-told-about-the-achievements-of-railways-90-reduction-in-rai-2026-03-18",
+      "summary": "Parliament Budget Session News:अश्विनी वैष्णव ने बताई रेलवे की उपलब्धियां,रेल दुर्घटनाओं में 90% कमी",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 04:00:03 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "6823e38570eacc03920b501e4272c13a",
       "title": "News Updates: कांग्रेस ने DCC अध्यक्ष चयन के लिए पर्यवेक्षक नियुक्ति किए; इंडिगो ने जारी की ट्रैवल एडवाइजरी",
       "link": "https://www.amarujala.com/india-news/national-news-updates-18-march-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-03-18",
@@ -104,45 +260,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "aa4772d812dacbe4694be5b37a7221ee",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 18 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-18",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-18",
-      "timestamp": "Wed, 18 Mar 2026 03:30:25 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "6896f94af0abe7cfc72035ca365cb7e6",
-      "title": "पढ़ें 18 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-18",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-18",
-      "timestamp": "Wed, 18 Mar 2026 03:30:13 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
-      "id": "2745f20cd0d71ce633062a1d3e7f6c0b",
-      "title": "Iran-Israel war LIVE: Iran confirms security chief Ali Larijani's death",
-      "link": "https://www.thehindu.com/news/international/iran-israel-usa-war-live-updates-march-17-2026/article70752382.ece",
-      "summary": "Iran keeps up attacks on neighbors after Israel says it killed two of its top officials",
-      "date": "2026-03-18",
-      "timestamp": "Wed, 18 Mar 2026 03:24:38 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "83d374e516e6597f8ed3ace5a9e7ed5f",
@@ -367,9 +484,9 @@
     },
     {
       "id": "6f99a4507488b52638311e501bea6119",
-      "title": "Assam: कांग्रेस में अपमान और अकेलेपन से थककर सांसद प्रद्युत बोरदोलोई ने दिया इस्तीफा; चुनाव से पहले बड़ा झटका",
+      "title": "Assam: 'कांग्रेस में अपमान और अकेलेपन से थका', इस्तीफे पर बोले सांसद प्रद्युत बोरदोलोई; सीएम सरमा ने क्या कहा?",
       "link": "https://www.amarujala.com/india-news/assam-congress-mp-pradyut-bordoloi-resigns-reaction-says-cites-isolation-and-lack-of-support-2026-03-18",
-      "summary": "Assam: कांग्रेस में अपमान और अकेलेपन से थककर सांसद प्रद्युत बोरदोलोई ने दिया इस्तीफा; चुनाव से पहले बड़ा झटका",
+      "summary": "Assam: 'कांग्रेस में अपमान और अकेलेपन से थका', इस्तीफे पर बोले सांसद प्रद्युत बोरदोलोई; सीएम सरमा ने क्या कहा?",
       "date": "2026-03-18",
       "timestamp": "Wed, 18 Mar 2026 02:55:04 +0530",
       "section": "National",
@@ -13431,6 +13548,32 @@
       "lang": "en"
     },
     {
+      "id": "0aa4409658a8bace28bcd4a39058254b",
+      "title": "CAF strips Senegal of AFCON title, Morocco declared African champions",
+      "link": "https://www.aljazeera.com/sports/2026/3/17/caf-strips-senegal-of-afcon-title-morocco-declared-african-champions?traffic_source=rss",
+      "summary": "Governing body's appeal board rules Senegal forfeited final after players walked off pitch over referring decision.",
+      "date": "2026-03-17",
+      "timestamp": "Tue, 17 Mar 2026 22:57:33 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "68f1b74ca6f6a9c30e5f739cae994505",
+      "title": "Ireland’s Micheal Martin and Trump in awkward St Patrick’s Day exchange",
+      "link": "https://www.aljazeera.com/news/2026/3/17/irelands-micheal-martin-and-trump-in-awkward-st-patricks-day-exchange?traffic_source=rss",
+      "summary": "Ireland, which took strong stance on Gaza genocide, is similarly robust on Iran, but Martin is criticised for passivity.",
+      "date": "2026-03-17",
+      "timestamp": "Tue, 17 Mar 2026 22:53:11 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6a14723f668e0e02b226ad3463fd1c54",
       "title": "SEC pushes for live webcasting from all polling booths during GBA polls to ensure transparency",
       "link": "https://www.thehindu.com/news/cities/bangalore/sec-pushes-live-webcasting-from-all-polling-booths-during-gba-polls-fd-turns-down-proposal/article70754627.ece",
@@ -13496,6 +13639,19 @@
       "lang": "en"
     },
     {
+      "id": "2e903400d5f7a9f0309020bf52c34a04",
+      "title": "Iranian security chief Ali Larijani killed in air strike",
+      "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
+      "summary": "His death is confirmed on state TV, alongside that of another senior figure, Gholamreza Soleimani",
+      "date": "2026-03-17",
+      "timestamp": "Tue, 17 Mar 2026 22:49:03 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1b032968660413b510ee5d15793f3543",
       "title": "Audi launches SQ8 for ₹1.77 crore",
       "link": "https://www.thehindu.com/news/national/audi-launches-sq8-for-177-crore/article70755233.ece",
@@ -13545,6 +13701,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "21797e0b6a8ee7c1589a8915e651dcf1",
+      "title": "Vinicius Jr scores twice as Real Madrid knock Man City out of UCL last 16",
+      "link": "https://www.aljazeera.com/sports/2026/3/17/vinicius-jr-scores-twice-as-real-madrid-knock-man-city-out-of-ucl-last-16?traffic_source=rss",
+      "summary": "Madrid ease into quarterfinals by beating 10-man City 2-1 at the Etihad to complete a 5-1 aggregate victory.",
+      "date": "2026-03-17",
+      "timestamp": "Tue, 17 Mar 2026 22:30:35 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -14247,19 +14416,6 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "2e903400d5f7a9f0309020bf52c34a04",
-      "title": "Iranian security chief Ali Larijani killed in air strike",
-      "link": "https://www.bbc.com/news/articles/c24deezq6meo?at_medium=RSS&at_campaign=rss",
-      "summary": "His death is confirmed on state TV, alongside that of another senior figure, Gholamreza Soleimani",
-      "date": "2026-03-17",
-      "timestamp": "Tue, 17 Mar 2026 21:14:35 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -15667,6 +15823,19 @@
       "lang": "en"
     },
     {
+      "id": "c0f2390f88df681943efd75023ea3dce",
+      "title": "Italy warns Russian tanker could explode in Mediterranean at any time",
+      "link": "https://www.bbc.com/news/articles/cn9e9dxw3e1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Italy is one of nine EU countries urging the European Commission to act over the Arctic Metagaz, drifting out of control in the Mediterranean Sea.",
+      "date": "2026-03-17",
+      "timestamp": "Tue, 17 Mar 2026 19:21:00 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7a9eda3d4a6472368d8c81159721d08a",
       "title": "No govt job through employment offices in five years in Rajasthan; 22 lakh candidates registered, says RTI",
       "link": "https://www.thehindu.com/news/national/rajasthan/no-govt-job-through-employment-offices-in-five-years-in-rajasthan-22-lakh-candidates-registered-says-rti/article70754168.ece",
@@ -16001,6 +16170,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2f42b3df40b01ae8afd07315d5779626",
+      "title": "US Attorney General Bondi formally summoned to Congress in Epstein case",
+      "link": "https://www.bbc.com/news/articles/cwyky51jwl0o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes weeks after a Republican lawmaker accused the justice department of a \"cover-up\" in releasing the Epstein files.",
+      "date": "2026-03-17",
+      "timestamp": "Tue, 17 Mar 2026 18:59:17 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -16671,7 +16853,7 @@
       "id": "e83a0c00e8a7aadf9c7270ea94a60278",
       "title": "Man City vs Real Madrid 1-2 (1-5 on agg): Champions League – as it happened",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/3/17/live-manchester-city-vs-real-madrid-champions-league-last-16?traffic_source=rss",
-      "summary": "Follow the build-up, analysis and live text commentary of the game as City try to overturn a 3-0 first-leg defeat.",
+      "summary": "All the updates as Real Madrid book quarterfinal spot with convincing win over Manchester City.",
       "date": "2026-03-17",
       "timestamp": "Tue, 17 Mar 2026 17:00:33 +0000",
       "section": "International",
@@ -94690,6 +94872,32 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ce0fcbd05b7e1a33a872c2ed8c84015f",
+      "title": "Iran confirms death of national security chief Ali Larijani, president Pezeshkian offers condolences",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/iran-confirms-death-of-national-security-chief-ali-larijani-president-pezeshkian-offers-condolences/articleshow/129642155.cms",
+      "summary": "Iran confirmed the death of national security chief Ali Larijani and military figure Gholamreza Soleimani, hours after Israel claimed responsibility for airstrikes. Prime Minister Netanyahu identified Larijani as a key leader of the Revolutionary Guards. Iran's president mourned the loss and vowed revenge, while vowing to continue resistance.",
+      "date": "2026-03-17",
+      "timestamp": "2026-03-18T04:13:30+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f09f1d0207b0fe0c0087f901cff0c7c4",
+      "title": "Eid ul Fitr 2026 free parking for 3 days: Metro, tram, full schedule of public transport timings by Dubai RTA inside",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/eid-ul-fitr-2026-free-parking-for-3-days-metro-tram-full-schedule-of-public-transport-timings-by-dubai-rta-inside/articleshow/129642413.cms",
+      "summary": "Dubai's Eid ul Fitr 2026 celebrations will see extended metro and tram services, running until 1:00 am daily, with earlier starts for morning prayers. Free public parking will be available for the first three days of Eid, excluding multi-storey facilities. These adjusted timings aim to manage the festive rush and enhance mobility across the emirate.",
+      "date": "2026-03-17",
+      "timestamp": "2026-03-18T04:03:11+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
