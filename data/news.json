@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T21:33:04.685499+00:00",
+  "generated_at": "2026-03-17T22:28:08.027421+00:00",
   "stories": [
     {
       "id": "d119916ef6281de6016b8b4b514a96ef",
@@ -80,6 +80,71 @@
       "lang": "hi"
     },
     {
+      "id": "6823e38570eacc03920b501e4272c13a",
+      "title": "News Updates: कांग्रेस ने DCC अध्यक्ष चयन के लिए पर्यवेक्षक नियुक्ति किए; इंडिगो ने जारी की ट्रैवल एडवाइजरी",
+      "link": "https://www.amarujala.com/india-news/national-news-updates-18-march-north-east-west-south-india-politics-crime-latest-national-hindi-news-2026-03-18",
+      "summary": "News Updates: कांग्रेस ने DCC अध्यक्ष चयन के लिए पर्यवेक्षक नियुक्ति किए; इंडिगो ने जारी की ट्रैवल एडवाइजरी",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 03:54:42 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "dbe2e740565dbaed9e95212eb040a9f0",
+      "title": "NIA: म्यांमार में सैन्य प्रशिक्षण देने वाले एक अमेरिकी और छह यूक्रेनी गिरफ्तार, यूक्रेन ने जताया विरोध",
+      "link": "https://www.amarujala.com/india-news/ukraine-protests-nia-arrests-an-american-and-six-ukrainians-who-were-providing-military-training-in-myanmar-2026-03-18",
+      "summary": "NIA: म्यांमार में सैन्य प्रशिक्षण देने वाले एक अमेरिकी और छह यूक्रेनी गिरफ्तार, यूक्रेन ने जताया विरोध Ukraine protests NIA arrests an American and six Ukrainians who were providing military training in Myanmar",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 03:52:19 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "aa4772d812dacbe4694be5b37a7221ee",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 18 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-18",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 03:30:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "6896f94af0abe7cfc72035ca365cb7e6",
+      "title": "पढ़ें 18 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-18",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 03:30:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "2745f20cd0d71ce633062a1d3e7f6c0b",
+      "title": "Iran-Israel war LIVE: Iran confirms security chief Ali Larijani's death",
+      "link": "https://www.thehindu.com/news/international/iran-israel-usa-war-live-updates-march-17-2026/article70752382.ece",
+      "summary": "Iran keeps up attacks on neighbors after Israel says it killed two of its top officials",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 03:24:38 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "83d374e516e6597f8ed3ace5a9e7ed5f",
       "title": "Lucknow News: बच्चे में डेंगू की पुष्टि, भाई-बहन व तीन अन्य बुखार से ग्रस्त",
       "link": "https://www.amarujala.com/lucknow/dengue-confirmed-in-child-siblings-and-three-others-suffering-from-fever-lucknow-news-c-13-1-vns1028-1650585-2026-03-18",
@@ -91,19 +156,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "6896f94af0abe7cfc72035ca365cb7e6",
-      "title": "पढ़ें 18 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-18",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-18",
-      "timestamp": "Wed, 18 Mar 2026 03:00:46 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "e6df2d2805aa14f8f24f70919e8a032c",
@@ -181,6 +233,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "8dd112850bea382ba551199f3f30902a",
+      "title": "Gorakhpur News: चारित्रिक दृढ़ता के साथ दें राष्ट्र निर्माण में योगदान",
+      "link": "https://www.amarujala.com/gorakhpur/awareness-programme-organised-jointly-by-mmmut-and-ncb-gorakhpur-news-c-7-gkp1038-1261060-2026-03-18",
+      "summary": "एमएमएमयूटी और एनसीबी के संयुक्त तत्वावधान में जागरूकता कार्यक्रम का आयोजन",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 02:59:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
       "lang": "en"
     },
     {
@@ -743,19 +808,6 @@
       "lang": "en"
     },
     {
-      "id": "2745f20cd0d71ce633062a1d3e7f6c0b",
-      "title": "Iran-Israel war LIVE: Iran confirms security chief Ali Larijani's death",
-      "link": "https://www.thehindu.com/news/international/iran-israel-usa-war-live-updates-march-17-2026/article70752382.ece",
-      "summary": "The resignation of Joe Kent, director of the National Counterterrorism Centre, is a \"good thing,\" says Donald Trump; Iran “posed no imminent threat to our nation,\" says Mr. Kent",
-      "date": "2026-03-18",
-      "timestamp": "Wed, 18 Mar 2026 02:34:47 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "80c9cc827b577dc2427fed67b73c4b24",
       "title": "Armed Forces Tribunal stays retirement of Colonel Purohit, acquitted in 2008 Malegaon blast case",
       "link": "https://www.thehindu.com/news/national/maharashtra/tribunal-stays-retirement-of-colonel-purohit-acquitted-in-2008-malegaon-blast-case/article70755422.ece",
@@ -779,19 +831,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "aa4772d812dacbe4694be5b37a7221ee",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 18 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-18",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-18",
-      "timestamp": "Wed, 18 Mar 2026 02:30:24 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -1143,6 +1182,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "99da54efe4f8c85fd3b9856c941b2e7c",
+      "title": "Sara Ali Khan can come to Kedarnath if she submits affidavit that she is Sanatani, says BKTC chief",
+      "link": "https://www.thehindu.com/news/national/uttarakhand/sara-ali-khan-can-come-to-kedarnath-if-she-submits-affidavit-that-she-is-sanatani-says-bktc-chief/article70755242.ece",
+      "summary": "Dwivedi’s response came during a press conference held in Dehradun where he shared the recent proposal passed by the temple committee which bars entry of ‘non-sanatani’ into Kedarnath and Badrinath shrines",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 01:39:12 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c6d8c7029ae6698f55322895008be3f8",
+      "title": "Those threatening peace to pay a very heavy price: J&K L-G Manoj Sinha",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/those-threatening-peace-to-pay-a-very-heavy-price-jk-l-g-manoj-sinha/article70755218.ece",
+      "summary": "The remarks assume significance in the wake of recent protests against the killing of Iran’s supreme leader Ali Khamenei in Kashmir and the detention of scores of protesters thereafter.",
+      "date": "2026-03-18",
+      "timestamp": "Wed, 18 Mar 2026 01:29:11 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -13548,6 +13613,19 @@
       "lang": "en"
     },
     {
+      "id": "a8cee79928678418f256c4d405bed629",
+      "title": "Argentina officially withdraws from World Health Organization, following US",
+      "link": "https://www.aljazeera.com/news/2026/3/17/argentina-officially-withdraws-from-world-health-organization-following-us?traffic_source=rss",
+      "summary": "Argentinian President Javier Milei has criticised the global health body for its response to the COVID-19 pandemic.",
+      "date": "2026-03-17",
+      "timestamp": "Tue, 17 Mar 2026 22:22:20 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0d9ea1e98318046c174ae29aee0ccae2",
       "title": "Karnataka High Court seeks stock of commercial LPG as State government restricts supply only to 1,000 cylinders for hotels per day",
       "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-seeks-stock-of-commercial-lpg-as-state-government-restricts-supply-only-to-1000-cylinders-for-hotels-per-day/article70754984.ece",
@@ -13609,6 +13687,32 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4eaf6f4e5aec404915296a552f7dc4a4",
+      "title": "Pakistan denies hospital strike in Afghanistan as death toll hits 400",
+      "link": "https://www.aljazeera.com/news/2026/3/17/pakistan-denies-hospital-strike-in-afghanistan-as-death-toll-hits-400?traffic_source=rss",
+      "summary": "Pakistani minister 'strongly rejects' Afghan government's accusation, saying his country only targets military sites.",
+      "date": "2026-03-17",
+      "timestamp": "Tue, 17 Mar 2026 22:06:38 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "25e4e011bbc65a97f706f78af307d355",
+      "title": "Tipster claims to have seen ‘grave-like plots’ at Epstein’s Zorro Ranch",
+      "link": "https://www.aljazeera.com/news/2026/3/17/tipster-claims-to-have-seen-grave-like-plots-at-epsteins-zorro-ranch?traffic_source=rss",
+      "summary": "Member of the public shares photos with lawmakers, speculating they are dug-up burial sites, emails show.",
+      "date": "2026-03-17",
+      "timestamp": "Tue, 17 Mar 2026 22:06:10 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -13752,6 +13856,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4ee6d7ac5b16f022ea05589bc9ebe5e9",
+      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
+      "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
+      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
+      "date": "2026-03-17",
+      "timestamp": "Tue, 17 Mar 2026 21:48:08 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -14097,7 +14214,7 @@
       "id": "f7fee89c16f2ec573d8879cbb527fab8",
       "title": "Trump says US does not ‘need’ Strait of Hormuz help, despite appeal",
       "link": "https://www.aljazeera.com/news/2026/3/17/trump-says-us-does-not-need-strait-of-hormuz-help-despite-appeal?traffic_source=rss",
-      "summary": "US president strikes defiant tone as allies reject joining coalition, does not name countries he said 'on their way'.",
+      "summary": "US president strikes defiant tone as allies reject joining coalition, does not name countries he says 'on their way'.",
       "date": "2026-03-17",
       "timestamp": "Tue, 17 Mar 2026 21:17:56 +0000",
       "section": "International",
@@ -16552,7 +16669,7 @@
     },
     {
       "id": "e83a0c00e8a7aadf9c7270ea94a60278",
-      "title": "LIVE: Manchester City vs Real Madrid – Champions League last 16",
+      "title": "Man City vs Real Madrid 1-2 (1-5 on agg): Champions League – as it happened",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/3/17/live-manchester-city-vs-real-madrid-champions-league-last-16?traffic_source=rss",
       "summary": "Follow the build-up, analysis and live text commentary of the game as City try to overturn a 3-0 first-leg defeat.",
       "date": "2026-03-17",
@@ -16612,19 +16729,6 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "4ee6d7ac5b16f022ea05589bc9ebe5e9",
-      "title": "Top US counterterrorism official resigns over Iran war, urging Trump to 'reverse course'",
-      "link": "https://www.bbc.com/news/articles/cg4g66r3z40o?at_medium=RSS&at_campaign=rss",
-      "summary": "National Counterterrorism Center Director Joe Kent says Trump \"started this war due to pressure from Israel and its powerful American lobby\".",
-      "date": "2026-03-17",
-      "timestamp": "Tue, 17 Mar 2026 16:43:34 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -94586,6 +94690,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8bbb0d4fdc6a7ee0b1486defb1b39112",
+      "title": "After revocation of suspension, Congress MPs insist protest was for Opposition rights, question Speaker",
+      "link": "https://timesofindia.indiatimes.com/india/after-revocation-of-suspension-congress-mps-insist-protest-was-for-opposition-rights-question-speaker/articleshow/129642129.cms",
+      "summary": "Congress MPs, whose suspension was revoked, asserted their dignified protest aimed at securing the right for LoP Rahul Gandhi and other opposition members to speak in Parliament. They highlighted perceived discrimination and biased decisions by the Speaker, arguing for equal application of parliamentary traditions and rules for all MPs.",
+      "date": "2026-03-17",
+      "timestamp": "2026-03-18T03:21:44+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
