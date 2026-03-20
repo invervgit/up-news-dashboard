@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T11:27:17.584505+00:00",
+  "generated_at": "2026-03-20T12:46:08.742805+00:00",
   "stories": [
     {
       "id": "a90a4b7d2eb4303857423d8bfe541f3a",
@@ -26504,19 +26504,6 @@
       "timestamp": "Thu, 19 Mar 2026 17:47:52 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3a72b7a566f0bba5df7589550492128b",
-      "title": "Exiled Iranian writer Shahrnush Parsipur on her International Booker Prize-nominated novella",
-      "link": "https://www.thehindu.com/books/iran-writer-shahrnush-parsipur-women-without-men-international-booker-prize/article70752442.ece",
-      "summary": "Published in 1989, the book was seen as an act of insurrection and Parsipur was jailed, while the novella was banned",
-      "date": "2026-03-19",
-      "timestamp": "Thu, 19 Mar 2026 17:47:49 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -59438,19 +59425,6 @@
       "lang": "en"
     },
     {
-      "id": "8827e2c5182390a1c20360b1e07f0cf2",
-      "title": "Opposition questions govt.’s plan to introduce Bill to codify deputation of IPS officers in Central Armed Police Forces",
-      "link": "https://www.thehindu.com/news/national/opposition-questions-govts-plan-to-introduce-bill-to-codify-deputation-of-ips-officers-in-central-armed-police-forces/article70750290.ece",
-      "summary": "The decision comes despite a Supreme Court ruling to progressively reduce IPS deputation up to the rank of Inspector General in CAPFs",
-      "date": "2026-03-16",
-      "timestamp": "Mon, 16 Mar 2026 20:18:03 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "39b98e91b8c75d2836003ca036ac27a4",
       "title": "Andhra Pradesh set to become first State to get Pramaan certification for forest produce",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-set-to-become-first-state-to-get-pramaan-certification-for-forest-produce/article70750261.ece",
@@ -69279,12 +69253,64 @@
       "lang": "en"
     },
     {
-      "id": "3205d94a484a5132528b40efd07ec270",
-      "title": "Assembly elections 2026 LIVE: Himanta Biswa Sarma files nomination from Assam's Jalukbari constituency",
-      "link": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-20-2026/article70764086.ece",
-      "summary": "Himanta Biswa Sarma laid down his objective for Assam, centred around the identity and development of Assam",
+      "id": "497228508fbcd57c9c1b43305b941da4",
+      "title": "Mamata woos voters with 10 commitments, says Bengal will be ‘destination for industry’",
+      "link": "https://www.thehindu.com/news/national/mamata-woos-voters-with-10-commitments-says-bengal-will-be-destination-for-industry/article70765593.ece",
+      "summary": "Mamata Banerjee’s promises range from industrial infrastructure, upgraded schools, better healthcare and 24/7 power supply among others",
       "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 16:56:11 +0530",
+      "timestamp": "Fri, 20 Mar 2026 18:11:47 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8827e2c5182390a1c20360b1e07f0cf2",
+      "title": "Opposition questions govt.’s plan to introduce Bill to codify deputation of IPS officers in Central Armed Police Forces",
+      "link": "https://www.thehindu.com/news/national/opposition-questions-govts-plan-to-introduce-bill-to-codify-deputation-of-ips-officers-in-central-armed-police-forces/article70750290.ece",
+      "summary": "The decision comes despite a Supreme Court ruling to progressively reduce IPS deputation up to the rank of Inspector General in CAPFs",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:11:33 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0eeece96e557a77adebd7a9cec809785",
+      "title": "Telangana Budget 2026-27: BRS legislators stage protest demanding Congress’s ‘six guarantees’ poll promise",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-budget-2026-27-brs-legislators-stage-protest-demanding-congresss-six-guarantees-poll-promise/article70764575.ece",
+      "summary": "They displayed placards in the name of “debt cards” with slogans on the unkept promises made as part of the Six Guarantees and a large number of other promises made by the Congress party before the 2023 Assembly elections",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:10:49 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7e2991e09ce13f3284c2c872d9f7ebf9",
+      "title": "At ₹13,679 crore, health sector gets ₹1,286 crore more in Telangana budget 2026-27; infrastructure and preventive care in focus",
+      "link": "https://www.thehindu.com/news/national/telangana/health-sector-gets-1286-crore-more-in-telangana-budget-2026-27-infrastructure-and-preventive-care-in-focus/article70764712.ece",
+      "summary": "The government is also taking up construction of 17 medical colleges",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:10:12 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1aa0594073d598f709bba4588f6a7704",
+      "title": "Telangana Budget 2026-27: ₹11907 crore allocated to Home Department for Maoist rehabilitation",
+      "link": "https://www.thehindu.com/news/national/telangana/budget-report-budget-gives-massive-fillip-to-maoist-rehabilitation-11907-crore-allocated-to-home-department/article70764701.ece",
+      "summary": "“The previous government and the present Central Government treated Maoism merely as a law-and-order problem and tried to suppress it through police and armed forces,” says Deputy Chief Minister",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:09:24 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -69297,11 +69323,297 @@
       "link": "https://www.thehindu.com/news/national/telangana/telangana-state-budget-2026-27-live-updates-march-20-2026/article70764126.ece",
       "summary": "Panchayat Raj and Rural Development, Municipal Administration and Urban Development, Irrigation and other sectors get highest allocations",
       "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 16:54:16 +0530",
+      "timestamp": "Fri, 20 Mar 2026 18:05:01 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "13b21ad5cc478c52eb6309bf7dd4f3f1",
+      "title": "NICE opens 1.5-km link road near Deepanjali Nagar in Bengaluru",
+      "link": "https://www.thehindu.com/news/cities/bangalore/nice-opens-15-km-link-road-near-deepanjali-nagar-in-bengaluru/article70764988.ece",
+      "summary": "The newly constructed four-lane stretch directly links Deepanjali Nagar junction (BHEL Circle) to NICE Road near Hosakerehalli PES College, and is expected to ease traffic flow towards Challaghatta and adjoining areas.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:01:49 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b4d8b1d58e891e15b94bb6d3eb93c2e7",
+      "title": "BJP slams Telangana budget as recycled and directionless",
+      "link": "https://www.thehindu.com/news/national/telangana/bjp-slams-telangana-budget-as-recycled-and-directionless/article70765517.ece",
+      "summary": "",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:01:47 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d0fe4475afc6e44c3a7911676dfd11d5",
+      "title": "Ramzan holiday shifted to March 21 in Andhra Pradesh",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ramzan-holiday-shifted-to-march-21-in-andhra-pradesh/article70764686.ece",
+      "summary": "The decision follows the request of the Waqf Board’s Chief Executive Officer as the crescent moon has not been sighted on March 20",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:01:43 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "be441cc21f3843e4b3a3091d0003a709",
+      "title": "EC directs political parties to get s pre-certified",
+      "link": "https://www.thehindu.com/news/national/ec-directs-political-parties-to-get-advertisements-pre-certified/article70765172.ece",
+      "summary": "Besides, the Commission has directed candidates to share the details of their authentic social media accounts in their affidavits at the time of filing nomination; individual candidates can apply for certification of s with District Media Certification and Monitoring Committees",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:00:29 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f81bef2d82afcd68d50c148c620e9950",
+      "title": "नाव-नाविक को हाईजैक कर गंगा में इफ्तार; कोर्ट में कान पकड़ कर रोए आरोपी, रिहाई की गुहार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/hijacked-boat-sailor-iftar-in-the-ganga-accused-wept-in-court-pleading-for-release-in-varanasi-201774008194292.html",
+      "summary": "वाराणसी में गंगा में नाव पर इफ्तार पार्टी मामले में पुलिस ने नाविक और नाव को हाईजैक करने का आरोप लगाया है। कोर्ट ने 14 आरोपियों की जमानत खारिज कर दी है। सभी को न्यायिक हिरासत में भेजा गया है। इस दौरान कोर्ट में आरोपी कान पकड़कर रोते दिखे। अगली सुनवाई 23 मार्च को होगी।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:57:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "6c8b0f291d2e9148b2c18668cfcf4cdf",
+      "title": "Tamil Nadu Assembly election 2026: Can you vote if your voter ID card has spelling mistakes?",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-can-you-vote-if-your-voter-id-card-has-spelling-mistakes/article70765458.ece",
+      "summary": "ECI says, clerical errors, spelling mistakes, etc., in the EPIC could be ignored “provided the identity of the elector can be established by the EPIC.”",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:55:42 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "975e3ba77703261d0c934b7095a58ea7",
+      "title": "Loud singing on Bengaluru Metro: Young passengers deboarded, 14 penalised by police",
+      "link": "https://www.thehindu.com/news/cities/bangalore/loud-singing-on-bengaluru-metro-young-passengers-deboarded-14-penalised-by-police/article70765371.ece",
+      "summary": "A viral clip shows a group occupying the ladies’ coach, sitting on the floor and singing Hindi songs, in violation of norms. The video drew widespread criticism from commuters online.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:51:50 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5aaca8fa3a8068d2ea2e371500ed1255",
+      "title": "TDP office employee dies in midnight brawl in Srikakulam",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-office-employee-dies-in-midnight-brawl-in-srikakulam/article70765300.ece",
+      "summary": "",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:51:43 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3205d94a484a5132528b40efd07ec270",
+      "title": "Assembly elections 2026 LIVE: Mamata releases TMC manifesto, claims 'unofficial President's Rule' imposed in poll-bound Bengal",
+      "link": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-20-2026/article70764086.ece",
+      "summary": "Himanta Biswa Sarma files nomination from Assam's Jalukbari constituency; Mr. Sarma laid down his objective for Assam, centred around the identity and development of Assam",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:49:39 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8be92c764366064864e02d36ee57698d",
+      "title": "Government blocks 300 ‘illegal’ gambling and betting platforms",
+      "link": "https://www.thehindu.com/news/national/government-blocks-300-illegal-gambling-and-betting-platforms/article70765367.ece",
+      "summary": "Banned entities include sports betting portals, casino platforms offering slots and roulette, live dealer tables, betting exchanges functioning like peer-to-peer betting marketplaces, “satta/matka” gambling networks, and “real-money” cards and casino game applications.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:48:30 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3a72b7a566f0bba5df7589550492128b",
+      "title": "Exiled Iranian writer Shahrnush Parsipur on her International Booker Prize-nominated novella",
+      "link": "https://www.thehindu.com/books/iran-writer-shahrnush-parsipur-women-without-men-international-booker-prize/article70752442.ece",
+      "summary": "Published in 1989, the book was seen as an act of insurrection and Parsipur was jailed, while the novella was banned",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:42:57 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0abf77540cce1347bd11e1e293246197",
+      "title": "China welcomes Vikram Doraiswami's appointment as India's new Envoy",
+      "link": "https://www.thehindu.com/news/national/china-welcomes-vikram-doraiswamis-appointment-as-indias-new-envoy/article70765472.ece",
+      "summary": "Chinese Foreign Ministry spokesman Lin Jian told a media briefing that envoys are an important bridge for fostering friendly and cooperative relations between nations",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:41:46 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ea322f5fcba537d7d86f7c055af54d6f",
+      "title": "LPG shortage brings Nagapattinam boatyards to a halt; hundreds lose work",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/lpg-shortage-brings-nagapattinam-boatyards-to-a-halt-hundreds-lose-work/article70765444.ece",
+      "summary": "Of the four yards, one has shut down while work in the others has slowed drastically; the repair segment — which engages at least 500 workers — has come to a standstill",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:41:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3523413ff32c5529b39105b019cf23de",
+      "title": "CM’s office should not directly entertain requests for posting and transfer: Karnataka High Court",
+      "link": "https://www.thehindu.com/news/national/karnataka/cms-office-should-not-directly-entertain-requests-for-posting-and-transfer-karnataka-high-court/article70765280.ece",
+      "summary": "‘The highest authority of the State has better and more important work to perform than interfering with the transfer’",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:41:42 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "aa1b58b711294e21a3fd20bc77ee0cca",
+      "title": "BRS terms Telangana’s 2026-27 budget highly disappointing with no cheer to any section or sector",
+      "link": "https://www.thehindu.com/news/national/telangana/brs-terms-budget-highly-disappointing-with-no-cheer-to-any-section-or-sector/article70765366.ece",
+      "summary": "Party’s Deputy Floor Leader Harish Rao says all key indicators of growth slipped compared to the previous government",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:38:03 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "027d9879fb4b5a17f687fe470075a673",
+      "title": "Telangana Budget 2026-27| 10.4% of total outlay allocated to Rural Development department, up by ₹2,083 crore from 2025-26",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-budget-2026-27-104-of-total-outlay-allocated-to-rural-development-dept-2083-crore-more-than-2025-26/article70765224.ece",
+      "summary": "",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:36:59 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "019e767bea2ee70a89bb36bb4ffdd042",
+      "title": "‘Aadu 3’ movie review: Flogging a dead goat through multiple timelines",
+      "link": "https://www.thehindu.com/entertainment/movies/aadu-3-movie-review-jayasurya-midhun-manuel-thomas-vinayakan/article70765322.ece",
+      "summary": "Despite its ambitious scope and comedic potential, the nearly three-hour movie only offers a series of character introductions rather than a cohesive narrative, ultimately leaving viewers yearning for a satisfying conclusion",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:32:54 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e23e301be66f27cbe93809fda1d22114",
+      "title": "Telangana Budget 2026-27| 5% increase in allocation to Minorities Welfare",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-budget-2026-27-5-increase-in-allocation-to-minorities-welfare/article70765242.ece",
+      "summary": "The ₹3,769 crore allocation is ₹184 crore more than the financial year 2025-26",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:31:47 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3a62735249e328a364c657c208c51206",
+      "title": "Post Congress-Raijor Dal alliance, BJP eyes Sibsagar seat",
+      "link": "https://www.thehindu.com/news/national/assam/post-congress-raijor-dal-alliance-bjp-eyes-sibsagar-seat/article70765327.ece",
+      "summary": "NDA constituent Asom Gana Parishad has nominated MLA Prodip Hazarika against Akhil Gogoi in the eastern Assam constituency; CM Himanta Sarma says a BJP candidate would be better placed to defeat Mr. Gogoi in Sibsagar than an AGP candidate",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:30:53 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4d0f58787d68c8fbcc695389f65e763a",
+      "title": "French artist Olympe Ramakrishna’s exhibition in Thiruvananthapuram celebrates Malayali women away from home",
+      "link": "https://www.thehindu.com/entertainment/art/french-artist-olympe-ramakrishnas-exhibition-in-thiruvananthapuram-celebrates-malayali-women-away-from-home/article70760715.ece",
+      "summary": "Voices of the Western Coast exhibition displays on fabric the portrait of three Malayali mothers and their daughters who reside outside the State",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:21:43 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3771bc74e06b82d183463f1987cd5a2e",
+      "title": "हज 2026 के लिए यात्रियों को बड़ी राहत, अब पासपोर्ट यात्रा से पहले जमा नहीं करना होगा",
+      "link": "https://www.livehindustan.com/uttar-pradesh/hajj-2026-pilgrims-get-major-relief-as-passports-will-no-longer-be-required-to-be-submitted-before-travel-201774007032878.html",
+      "summary": "हज यात्रा 2026 के लिए यात्रियों को बड़ी राहत मिली है। हज कमेटी ऑफ इंडिया ने अपने नियमों में बदलाव करते हुए घोषणा की है कि अब हज यात्रियों को पहले से पासपोर्ट जमा करने की आवश्यकता नहीं होगी।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:21:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "796c3527428c41e1972d395dc936aba6",
+      "title": "कैसे बनेगा खाना? गैस किल्लत के बीच घर में हो गया कांड, भरा सिलेंडर उठा ले गया चोर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/how-will-food-get-cooked-amidst-gas-shortage-domestic-disaster-strikes-as-thief-makes-off-with-full-cylinder-in-basti-201774006906949.html",
+      "summary": "बस्ती में बड़ी मुश्किल से मिला गैस का सिलेंडर ही चोर ने पार कर दिया। भरा सिलेंडर ले जाते हुए चोर सीसीटीवी फुटेज में कैद हो गया। परिवार वालों को जब इसकी खबर लगी तो हड़कंप मच गया।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 17:21:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -69310,7 +69622,7 @@
       "link": "https://www.thehindu.com/news/national/indian-killed-in-riyadh-due-to-recent-events-of-march-18-says-embassy/article70765316.ece",
       "summary": "The Indian embassy said that it is in contact with the deceased’s family and local authorities but the circumstances regarding the Indian national’s death remain unclear",
       "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 16:54:14 +0530",
+      "timestamp": "Fri, 20 Mar 2026 17:01:47 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -69318,12 +69630,12 @@
       "lang": "en"
     },
     {
-      "id": "027d9879fb4b5a17f687fe470075a673",
-      "title": "Telangana Budget 2026-27| 10.4% of total outlay allocated to Rural Development dept, ₹2,083 crore more than 2025-26",
-      "link": "https://www.thehindu.com/news/national/telangana/telangana-budget-2026-27-104-of-total-outlay-allocated-to-rural-development-dept-2083-crore-more-than-2025-26/article70765224.ece",
-      "summary": "",
+      "id": "bef08b3b2d65892ba99305e9e9ed7b38",
+      "title": "Uttam Nagar violence: Mehbooba Mufti seeks PM Modi's intervention ahead of Id",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/uttam-nagar-violence-mehbooba-mufti-seeks-pm-modis-intervention-ahead-of-id/article70765408.ece",
+      "summary": "Mehbooba Mufti urged the Prime Minister and Union Home Minister Amit Shah to intervene \"before the situation worsens, leading to loss of innocent lives.”",
       "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 16:53:54 +0530",
+      "timestamp": "Fri, 20 Mar 2026 17:01:46 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -69336,9 +69648,22 @@
       "link": "https://www.thehindu.com/news/national/cji-to-shift-challenge-to-2023-cec-appointment-law-to-another-bench/article70765178.ece",
       "summary": "Advocate Prashant Bhushan, appearing for one of the petitioners, Association for Democratic Reforms, suggests the case be shifted to a Bench that does not have a prospective Chief Justice of India either as the lead or associate judge.",
       "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 16:51:48 +0530",
+      "timestamp": "Fri, 20 Mar 2026 17:01:37 +0530",
       "section": "National",
       "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c7acfd8542d0f675629185cff37c3b2b",
+      "title": "Iran-Israel war updates on March 19, 2026: Netanyahu says Iran has no capacity to enrich uranium, make ballistic missiles",
+      "link": "https://www.thehindu.com/news/international/iran-israel-usa-war-live-updates-march-19-2026/article70760463.ece",
+      "summary": "The Pentagon is seeking $200 billion in additional funds for the Iran war, a senior administration official says",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 16:58:57 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -69370,19 +69695,6 @@
       "lang": "en"
     },
     {
-      "id": "be441cc21f3843e4b3a3091d0003a709",
-      "title": "EC directs political parties to get s pre-certified",
-      "link": "https://www.thehindu.com/news/national/ec-directs-political-parties-to-get-advertisements-pre-certified/article70765172.ece",
-      "summary": "Besides, the Commission has directed candidates to share the details of their authentic social media accounts in their affidavits at the time of filing nomination; individual candidates can apply for certification of s with District Media Certification and Monitoring Committees",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 16:45:52 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b249b83613417645aa0dcab8f4a482e9",
       "title": "ईरान-इजरायल जंग का असर स्टेशनरी तक पहुंचा; पेन की थोक कीमतों में इजाफा, PVC रोल भी मंहगा",
       "link": "https://www.livehindustan.com/uttar-pradesh/iran-israel-war-affected-stationery-wholesale-prices-of-pens-and-pvc-rolls-have-risen-201774004234317.html",
@@ -69393,19 +69705,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "c7acfd8542d0f675629185cff37c3b2b",
-      "title": "Iran-Israel war updates on March 19, 2026: Netanyahu says Iran has no capacity to enrich uranium, make ballistic missiles",
-      "link": "https://www.thehindu.com/news/international/iran-israel-usa-war-live-updates-march-19-2026/article70760463.ece",
-      "summary": "The Pentagon is seeking $200 billion in additional funds for the Iran war, a senior administration official says",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 16:43:21 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -69469,19 +69768,6 @@
       "timestamp": "Fri, 20 Mar 2026 16:15:52 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7e2991e09ce13f3284c2c872d9f7ebf9",
-      "title": "Health sector gets ₹1,286 crore more in Telangana budget 2026-27; infrastructure and preventive care in focus",
-      "link": "https://www.thehindu.com/news/national/telangana/health-sector-gets-1286-crore-more-in-telangana-budget-2026-27-infrastructure-and-preventive-care-in-focus/article70764712.ece",
-      "summary": "The government is also taking up construction of 17 medical colleges",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 16:11:41 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -69682,19 +69968,6 @@
       "lang": "en"
     },
     {
-      "id": "1aa0594073d598f709bba4588f6a7704",
-      "title": "Telangana Budget 2026-27: ₹11907 crore allocated to Home Department for Maoist rehabilitation",
-      "link": "https://www.thehindu.com/news/national/telangana/budget-report-budget-gives-massive-fillip-to-maoist-rehabilitation-11907-crore-allocated-to-home-department/article70764701.ece",
-      "summary": "“The previous government and the present Central Government treated Maoism merely as a law-and-order problem and tried to suppress it through police and armed forces,” says Deputy Chief Minister",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 15:41:45 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b2013c79663eb2f3b164e4420dcf14d9",
       "title": "Power Minister stresses energy security amid global tensions",
       "link": "https://www.thehindu.com/news/national/power-minister-stresses-energy-security-amid-global-tensions/article70765105.ece",
@@ -69781,19 +70054,6 @@
       "timestamp": "Fri, 20 Mar 2026 15:24:21 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "0eeece96e557a77adebd7a9cec809785",
-      "title": "Telangana Budget 2026-27: BRS legislators stage protest demanding Congress’s ‘six guarantees’ poll promise",
-      "link": "https://www.thehindu.com/news/national/telangana/telangana-budget-2026-27-brs-legislators-stage-protest-demanding-congresss-six-guarantees-poll-promise/article70764575.ece",
-      "summary": "They displayed placards in the name of “debt cards” with slogans on the unkept promises made as part of the Six Guarantees and a large number of other promises made by the Congress party before the 2023 Assembly elections",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 15:22:28 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -70462,6 +70722,19 @@
       "lang": "hi"
     },
     {
+      "id": "3b9b07099a4201af6622e50a787ec423",
+      "title": "I didn't know Epstein was a predator - Norway's crown princess",
+      "link": "https://www.bbc.com/news/videos/c78l5x0zl0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Norway's Crown Princess Mette-Marit has said that she wishes she had never met late US sex offender Jeffrey Epstein",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 12:38:01 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6b74c7b2c23ffec0cfc91f9506dae23d",
       "title": "Shashi Tharoor: 'खामेनेई की मौत पर समय पर जताना चाहिए था शोक', भारत सरकार के रुख पर थरूर ने कही बड़ी बात",
       "link": "https://www.amarujala.com/india-news/shashi-tharoor-on-khamenei-death-india-should-have-sent-condolences-diplomatic-response-2026-03-20",
@@ -70839,6 +71112,19 @@
       "lang": "en"
     },
     {
+      "id": "faab02546193bc5addb8f2b93da299ee",
+      "title": "Slovenia heads to polls with diverging views on Israel in focus",
+      "link": "https://www.aljazeera.com/news/2026/3/20/slovenia-heads-to-polls-with-diverging-views-on-israel-in-focus?traffic_source=rss",
+      "summary": "Slovenia's election sees the centre-left coalition take on the populist right amid claims of foreign meddling.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:51:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "443d5ea2ca98a3867bee6400feea3afb",
       "title": "Political tug of war over Iranian women's football team prompts criticism in Australia",
       "link": "https://www.thehindu.com/news/international/political-tug-of-war-over-iranian-womens-football-team-prompts-criticism-in-australia/article70764424.ece",
@@ -70862,6 +71148,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5a7289a62315c352ff5cbf93ed8ddc7f",
+      "title": "Israel says it hit Syrian army camps in the south after Druze ‘attacked’",
+      "link": "https://www.aljazeera.com/news/2026/3/20/israel-says-it-hit-syrian-army-camps-in-the-south-after-druze-attacked?traffic_source=rss",
+      "summary": "Israeli air strikes target army camps in response to alleged attacks on the Druze community in Suwayda on Thursday.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:46:30 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -70953,6 +71252,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8827ca719dfa31c8b31fa5fe3e2f7cd2",
+      "title": "Hungary's Orbán accused of disloyalty and blackmail over Ukraine loan veto",
+      "link": "https://www.bbc.com/news/articles/cq6jrvgqeejo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Hungarian leader says a pipeline carrying Russian oil through Ukraine to Hungary must be repaired before any funds can be released.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:33:17 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -71070,6 +71382,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c38bd644130059defc6f457ac68b1b93",
+      "title": "Refugee Council questions Australia’s Iran strategy at Women’s Asian Cup",
+      "link": "https://www.aljazeera.com/sports/2026/3/20/refugee-council-questions-australias-iran-strategy-at-womens-asian-cup?traffic_source=rss",
+      "summary": "Women's Asian Cup hosts Australia face criticism for the political tug of war over the Iranian women's football team.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:21:01 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -72516,6 +72841,19 @@
       "lang": "en"
     },
     {
+      "id": "715cb10697aee130f55d104aebba46af",
+      "title": "Noida News: पूर्व कर्मचारी को कंपनी का सामान चोरी करते दबोचा",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/gsfdg-grnoida-news-c-23-1-lko1064-90448-2026-03-20",
+      "summary": "सूरजपुर कोतवाली क्षेत्र में एक फाइबर केबल बिछाने वाली कंपनी का लाखों रुपये का सामान चोरी करने वाले पूर्व कर्मचारी को रंगे हाथ पकड़ लिया। पुलिस ने बृहस्पतिवार को",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 06:15:09 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "6343b3a321d458ec2cabb80907e6e2df",
       "title": "Bangkok return man's nude body found on terrace in Gorakhpur:Clothes found hanging 25 metres away on tree; mother alleges murder, demands probe",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/gorakhpur-murder-allegation-bangkok-return-youth-dead-body-137485659.html",
@@ -72526,6 +72864,19 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f80a08e2691304826c7329d12435294a",
+      "title": "UP: हाइवे पर दर्दनाक हादसा...युवक की मौत, एक साल पहले हादसे में पिता ने भी तोड़ दिया था दम; मची चीख-पुकार",
+      "link": "https://www.amarujala.com/uttar-pradesh/bhadohi/tragic-accident-on-highway-young-man-dies-father-also-lost-his-life-in-an-accident-just-year-ago-2026-03-20",
+      "summary": "भदोही जिले के औराई कोतवाली क्षेत्र में गुरुवार देर रात एक दर्दनाक सड़क हादसे में युवक की मौत हो गई। हादसा कटका गोदाम के पास वाराणसी-प्रयागराज राजमार्ग पर हुआ, जहां सड़क पार कर रहे युवक को तेज रफ्तार ट्रेलर ने जोरदार टक्कर मार दी।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 06:12:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -72542,6 +72893,19 @@
       "lang": "en"
     },
     {
+      "id": "c990334b47f3236919609ab3d903e32f",
+      "title": "Noida News: ग्रेजुएशन डे समारोह का आयोजन",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/organizing-graduation-day-ceremony-noida-news-c-23-1-lko1064-90449-2026-03-20",
+      "summary": "Organizing Graduation Day Ceremony",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 06:11:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "a4028339851eba4673b7741fe93d657b",
       "title": "यूपी विधानसभा चुनाव के लिए सपा ने तय किया टिकट वितरण फार्मूला, दावेदारों को साफ संदेश",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-assembly-election-2027-samajwadi-party-ticket-distribution-formula-pda-strategy-image-building-201773966474306.html",
@@ -72555,6 +72919,19 @@
       "lang": "en"
     },
     {
+      "id": "05b6cba98bdf5fabf2d575543f38b405",
+      "title": "वन्यजीवों के घर उजाड़े तो गिरेगी गाज: चंबल अभयारण्य में अवैध खनन पर सुप्रीम कोर्ट सख्त; तीन राज्यों को नोटिस",
+      "link": "https://www.amarujala.com/india-news/supreme-court-on-illegal-sand-mining-in-national-chambal-sanctuary-notice-issued-rajasthan-mp-up-govt-2026-03-20",
+      "summary": "वन्यजीवों के घर उजाड़े तो गिरेगी गाज: चंबल अभयारण्य में अवैध खनन पर सुप्रीम कोर्ट सख्त; तीन राज्यों को नोटिस supreme court on illegal sand mining in national chambal sanctuary notice issued rajasthan mp up govt",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 06:09:52 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "ef143a6d3994f58929db4b3e6d724251",
       "title": "आज के दिन: इंजीनियर युवराज मेहता की मौत के मामले में सुनवाई, दुनिया में कई जगह आज मनाई जाएगी ईद",
       "link": "https://www.amarujala.com/india-news/20-march-2026-major-events-2026-03-19",
@@ -72563,6 +72940,19 @@
       "timestamp": "Fri, 20 Mar 2026 06:09:34 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "32173c161a9ddb68afc542f89b05c3a6",
+      "title": "SC: दिव्यांग व्यक्तियों के लिए कैब में हो जरूरी बदलाव, व्हीलचेयर या सहायक उपकरण ले जाने के लिए हो जगह",
+      "link": "https://www.amarujala.com/india-news/necessary-modifications-made-to-cabs-persons-with-disabilities-space-to-accommodate-wheelchairs-2026-03-20",
+      "summary": "सुप्रीम कोर्ट ने दिव्यांगों की सुविधा के लिए कैब सेवाओं में व्हीलचेयर-अनुकूल व्यवस्था पर जोर दिया। कोर्ट ने विशेष कैब और ऐप में विकल्प जोड़ने का सुझाव दिया, सुनवाई 24 मार्च को होगी।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 06:09:28 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -72581,6 +72971,19 @@
       "lang": "en"
     },
     {
+      "id": "d5bcb62b5c080a540887f971c581aabf",
+      "title": "UPTET 2026: यूपी शिक्षक पात्रता परीक्षा के लिए 27 मार्च से शुरू होगा पंजीकरण, जारी हुआ शॉर्ट नोटिस; यहां देखें",
+      "link": "https://www.amarujala.com/education/uptet-2026-notification-out-registration-from-march-27-exam-on-july-2-3-and-4-otr-mandatory-2026-03-20",
+      "summary": "UPESSC UPTET 2026 Notification: यूपी शिक्षा सेवा चयन आयोग ने शिक्षक पात्रता परीक्षा 2026 का नोटिफिकेशन जारी कर दिया है। आवेदन 27 मार्च से शुरू होंगे और 26 अप्रैल तक किए जा सकेंगे। परीक्षा जुलाई महीने में आयोजित की जाएगी।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 06:07:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "558721a9f976dc1796a0a039ed3c27a7",
       "title": "Railway News:गर्मी में मुंबई, पुणे के लिए रेलवे चलाएगा स्पेशल ट्रेन, यात्रियों को राहत; जान लें संचालन का समय",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/railway-news-run-special-trains-to-mumbai-and-pune-during-summer-offering-relief-passengers-2026-03-19",
@@ -72591,6 +72994,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "970a7200cc33b1a035e77304ce103941",
+      "title": "Noida News: प्रदेशीय कबड्डी प्रतियोगिता में जिले को स्वर्ण",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/the-district-won-gold-in-the-state-kabaddi-competition-noida-news-c-23-1-lko1064-90440-2026-03-20",
+      "summary": "The district won gold in the state Kabaddi competition",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 06:05:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -72620,6 +73036,19 @@
       "lang": "en"
     },
     {
+      "id": "d076c053b9e858402edb2933115baaf1",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-20",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 06:02:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "2e402e63f3453446e1b884473bb0952c",
       "title": "Nasa's Moon rocket Artemis rolls back to pad for possible April launch",
       "link": "https://www.bbc.com/news/articles/ckgrw045pg7o?at_medium=RSS&at_campaign=rss",
@@ -72630,6 +73059,19 @@
       "report_category": "International",
       "source": "BBC World",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "43fcd870734dd04a09a9b78bede06275",
+      "title": "UP Big News: राष्ट्रपति संत प्रेमानंद से मिलीं, छात्र की हत्या पर बवाल; कार में सनी मिलीं पांच लाशें",
+      "link": "https://www.amarujala.com/lucknow/up-big-news-president-meets-saint-premanand-uproar-over-student-s-murder-five-bodies-found-inside-a-car-2026-03-20",
+      "summary": "UP Big News: उत्तर प्रदेश में आज दिनभर राजनीति से लेकर प्रशासन, अपराध, विकास, शिक्षा, स्वास्थ्य और मौसम तक कई अहम घटनाएं सामने आईं। राज्य के अलग-अलग जिलों से जुड़ी कई बड़ी खबरें सुर्खियों में रहीं।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 06:00:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -72656,6 +73098,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "66a1b741e694fe1176fad9eff97a6875",
+      "title": "Noida News: 70 रन से जीता शिवाजी रिवॉल्ट क्लब",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/shivaji-revolt-club-won-by-70-runs-noida-news-c-23-1-lko1064-90439-2026-03-20",
+      "summary": "Shivaji Revolt Club won by 70 runs",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 05:58:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -72802,6 +73257,19 @@
       "lang": "en"
     },
     {
+      "id": "dabf3066c57c3bbb45435b61ad79673b",
+      "title": "Bengal Election: भाजपा के टिकट पर चुनाव लड़ना चाहती हैं आरजी कर पीड़िता की मां, कांग्रेस ने किया समर्थन",
+      "link": "https://www.amarujala.com/india-news/rg-kar-victim-mother-to-contest-bengal-polls-bjp-congress-support-panihati-2026-03-20",
+      "summary": "कांग्रेस पार्टी ने इस फैसले का खुला समर्थन किया है। कांग्रेस नेता राकेश सिन्हा ने कहा कि अगर एक पीड़ित मां व्यवस्था को चुनौती देने और अपनी बेटी जैसी अन्य बेटियों के लिए न्याय सुनिश्चित करने के इरादे से राजनीति में आ रही है, तो इसका स्वागत होना चाहिए।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 05:40:47 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "d97877b718b8ce5a28283903d933b831",
       "title": "नवरात्र: पहले दिन आम दिनों से 4 गुना 253 रजिस्ट्री हुईं, सबसे बड़ी महिला के नाम; शुभ मुहूर्त में संपत्ति खरीदी",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/navratri-253-property-registrations-four-times-usual-daily-volume-were-recorded-auspicious-time-2026-03-19",
@@ -72880,6 +73348,19 @@
       "lang": "en"
     },
     {
+      "id": "2e44dfeba7f68cdb5e5cbe199894ca34",
+      "title": "दीदी की बढ़ी टेंशन: हुमायूं कबीर ने ओवैसी से मिलाया हाथ, बोले- बिना हमारे नहीं बनेगी अगली सरकार",
+      "link": "https://www.amarujala.com/india-news/west-bengal-election-2026-humayun-kabir-muslim-cm-demand-ajup-aimim-alliance-babri-masjid-issue-2026-03-20",
+      "summary": "हुमायूं कबीर ने कहा कि आजादी के बाद पहली बार पश्चिम बंगाल में कोई मुस्लिम मुख्यमंत्री या कम से कम डिप्टी सीएम बनेगा।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 05:10:48 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "d1d24ce30e52308df043d3e4de04c7fd",
       "title": "UN shipping body calls for ‘safe maritime framework’ in Gulf",
       "link": "https://www.thehindu.com/news/international/un-shipping-bodycalls-for-safe-maritime-framework-in-gulf/article70763348.ece",
@@ -72890,6 +73371,19 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a8793e2ea454aa2d5b9b40af6fc14fa9",
+      "title": "UP News: जंगल में खजाना मिलने का दिया झांसा, सोने के सिक्के बेचने के नाम पर अस्पताल संचालिका से 20 लाख ठगे",
+      "link": "https://www.amarujala.com/lucknow/hospital-operator-swindled-out-of-20-lakh-in-lucknow-under-pretext-of-selling-gold-coins-2026-03-20",
+      "summary": "राजधानी लखनऊ में जालसाजों ने सोने के सिक्के बेचने के नाम पर अस्पताल संचालिका से 20 लाख रुपये ऐंठ लिए।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 05:01:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -72943,6 +73437,32 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
+    },
+    {
+      "id": "62bdc8018f2d68359528405ec364c3be",
+      "title": "खामेनेई की मौत को लेकर भारत सरकार के रुख पर शशि थरूर का बड़ा बयान",
+      "link": "https://www.amarujala.com/video/india-news/shashi-tharoor-on-indian-government-s-stance-regarding-khamenei-s-death-2026-03-20",
+      "summary": "Shashi Tharoor News: शशि थरूर ने शुक्रवार को एक बड़ा बयान दिया। उन्होंने कहा कि ईरान के सर्वोच्च नेता अयातुल्ला अली खामेनेई की मौत पर भारत को समय पर शोक संदेश भेजना चाहिए था।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 04:54:30 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "e6d3a549989ba1157101e7a4eef6d7a4",
+      "title": "बंगाल के लिए ममता की 10 प्रतिज्ञा: महिलाओं और युवाओं को मिलेंगे 18 हजार सालाना, हर परिवार को मिलेगा पक्का घर",
+      "link": "https://www.amarujala.com/india-news/west-bengal-assembly-election-tmc-releases-manifesto-mamata-says-undeclared-president-s-rule-in-bengal-2026-03-20",
+      "summary": "West Bengal Assembly Election: TMC releases manifesto; Mamata says, Undeclared President's rule in Bengal - बंगाल के लिए ममता की 10 प्रतिज्ञा: महिलाओं और युवाओं को मिलेंगे 18 हजार सालाना, हर परिवार को मिलेगा पक्का घर",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 04:54:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "e0b76dfef22c40c49c88af9b51e3ae1e",
@@ -73099,19 +73619,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "d076c053b9e858402edb2933115baaf1",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-20",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 04:30:29 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
     },
     {
       "id": "a08f3af924799df03c794b39ab659cdd",
@@ -75637,7 +76144,7 @@
     },
     {
       "id": "10af06ffd108a899edf6ee48e4fce9a8",
-      "title": "Desperate for food drought-stricken Kenyans turn to the gingerbread tree",
+      "title": "Desperate for food, drought-stricken Kenyans turn to the gingerbread tree",
       "link": "https://www.bbc.com/news/articles/cvg521yj9lvo?at_medium=RSS&at_campaign=rss",
       "summary": "Some 26 million people are \"facing extreme hunger\" in Kenya, Ethiopia and Somalia, warns humanitarian organisation Oxfam.",
       "date": "2026-03-20",
@@ -75689,7 +76196,7 @@
     },
     {
       "id": "146b2c8cb729094d7fdd82d63ef97590",
-      "title": "Why UK governing Labour's Brexit focus has shifted from Leavers to Remainers",
+      "title": "Why the UK Labour party's Brexit focus has shifted from Leavers to Remainers",
       "link": "https://www.bbc.com/news/articles/c4gjn1d74jlo?at_medium=RSS&at_campaign=rss",
       "summary": "Will the pursuit of a closer relationship with the EU risk courting electoral disaster by alienating Brexit-backing voters?",
       "date": "2026-03-20",
@@ -87661,12 +88168,129 @@
       "lang": "en"
     },
     {
+      "id": "e1c2becf138ad06761ffc2583b2c10f1",
+      "title": "Gag order on Mohammad Deepak: HC refuses to quash FIR against gym owner",
+      "link": "https://timesofindia.indiatimes.com/india/gag-order-on-mohammad-deepak-hc-refuses-to-quash-fir-against-gym-owner/articleshow/129700806.cms",
+      "summary": "Uttarakhand High Court imposed a gag order on gym owner Mohammad Deepak, restraining him from social media statements amid an ongoing investigation. The court refused to quash the FIR against him, citing his status as a \"suspected accused\" and deeming his requests for police protection and action against officials as attempts to pressure the investigation.",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-20T18:05:20+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "913d69f05512e9af557d69953f473057",
+      "title": "‘Rejected in two minutes’: Indian-origin student Bhuvana Chilukuri describes AI-led job screening after 100 rejections, calls it 'brutal'",
+      "link": "https://timesofindia.indiatimes.com/world/uk/rejected-in-two-minutes-indian-origin-student-bhuvana-chilukuri-describes-ai-led-job-screening-after-100-rejections-calls-it-brutal/articleshow/129700178.cms",
+      "summary": "A 20-year-old Indian-origin student finds AI-driven job hunting impersonal and brutal after over 100 rejections. With job vacancies shrinking and employers increasingly using AI for screening, many graduates feel the career ladder is out of reach. While firms cite efficiency, candidates lament the loss of human connection in the hiring process.",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-20T17:53:08+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "93a1aa87e29162b67d50f6295b89af20",
+      "title": "Entered US on student visa, now in ICE custody: Australian man convicted of rape arrested in Florida",
+      "link": "https://timesofindia.indiatimes.com/world/us/entered-us-on-student-visa-obtained-green-card-now-in-ice-custody-australian-man-convicted-of-rape-arrested-in-florida/articleshow/129700398.cms",
+      "summary": "",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-20T17:40:49+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1363b4a322326173b5d43fb1cefc064d",
+      "title": "Evening news wrap: ​​Indian national dies in Saudi Arabia amid Iran war; Rupee sinks to all-time low of 93.71 vs US dollar, & more",
+      "link": "https://timesofindia.indiatimes.com/india/evening-news-wrap-indian-national-dies-in-saudi-arabia-amid-iran-war-rupee-sinks-to-all-time-low-of-93-71-vs-us-dollar-more/articleshow/129700032.cms",
+      "summary": "",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-20T17:34:28+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "518a4dc3ced8ac3d62bb2f8dc4bb34ab",
+      "title": "CJI Surya Kant recuses from hearing pleas against 2023 EC appointments law; cites conflict of interest",
+      "link": "https://timesofindia.indiatimes.com/india/cji-surya-kant-recuses-from-hearing-pleas-against-2023-ec-appointments-law-cites-conflict-of-interest/articleshow/129698922.cms",
+      "summary": "Chief Justice of India Surya Kant recused himself from hearing petitions challenging the 2023 law on appointing election commissioners, citing a conflict of interest. The law removed the CJI from the selection panel, a change stemming from a previous Supreme Court ruling. The matter will now be heard by a bench without a prospective CJI.",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-20T17:31:57+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "70d7cb3e201a0d73bf22be1b7f612a95",
+      "title": "10 'Protigya' for Bengal: Mamata launches TMC manifesto, flags 'deep conspiracy' by BJP ahead of polls",
+      "link": "https://timesofindia.indiatimes.com/india/10-protigya-for-bengal-mamata-launches-tmc-manifesto-flags-deep-conspiracy-by-bjp-ahead-of-polls/articleshow/129699959.cms",
+      "summary": "West Bengal CM Mamata Banerjee released the TMC's election manifesto, accusing the BJP of conspiracies to capture the state and weaken institutions. She unveiled '10 Protigya' pledges focusing on welfare, jobs, housing, and infrastructure, promising enhanced financial aid for women and support for youth and farmers. Elections are scheduled for April 23 and April 29.",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-20T17:31:12+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0a5da0eeba3b3e75dcc905c4cdfcc737",
+      "title": "'Denied but not defeated': Congress leader Shama Mohamed flags fewer women candidates in Kerala poll list",
+      "link": "https://timesofindia.indiatimes.com/india/denied-but-not-defeated-congress-leader-shama-mohamed-flags-fewer-women-candidates-in-kerala-poll-list/articleshow/129700065.cms",
+      "summary": "Congress leader Shama Mohamed has expressed concern over the low representation of women in the party's candidate list for the Kerala assembly elections, with only nine out of 92 tickets allotted to women. She appealed to Rahul Gandhi to intervene and support women leaders in the state unit. The party has finalized all 95 nominees for the upcoming polls.",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-20T17:17:26+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cb78ee85cf9c3b43b114ffbd65d51a93",
+      "title": "“I want an apology”: Piers Morgan feud explodes as HSTikkyTokky threatens wife’s photo leak unless he apologizes",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/i-want-an-apology-piers-morgan-feud-explodes-as-hstikkytokky-threatens-wifes-photo-leak-unless-he-apologizes/articleshow/129693566.cms",
+      "summary": "A heated clash between Piers Morgan and influencer Harrison Sullivan has escalated into a personal online feud. Sullivan shared photos of Morgan’s wife, Celia Walden, mocking him and demanding a public apology within 24 hours. He threatened to release more images if ignored. The controversy has sparked backlash, highlighting concerns over privacy, online harassment, and the growing toxicity of viral confrontations.",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-20T17:06:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2c35a2fa8d585de75b150bb3975c4060",
       "title": "American student James Gracey found dead off Barcelona’s beach after disappearing from Shoko nightclub — here’s what we know",
       "link": "https://timesofindia.indiatimes.com/world/us/american-student-james-gracey-found-dead-off-barcelonas-beach-after-disappearing-from-shoko-nightclub-heres-what-we-know/articleshow/129697875.cms",
       "summary": "A 20-year-old American student, James Gracey, was found dead in shallow ocean waters in Barcelona after going missing during a night out clubbing. While initial signs suggest an accidental death, the circumstances remain unclear. Gracey, from Illinois, was on spring break and became separated from friends at a beachfront club. His phone was later recovered, having been stolen.",
       "date": "2026-03-20",
       "timestamp": "2026-03-20T16:37:19+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "41048a8bc294673dce39336262e83dd8",
+      "title": "“I was the closest person to Charlie”: Candace Owens makes explosive claims about Charlie Kirk amid growing controversy",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/i-was-the-closest-person-to-charlie-candace-owens-makes-explosive-claims-about-charlie-kirk-amid-growing-controversy/articleshow/129691100.cms",
+      "summary": "Candace Owens has sparked fresh controversy by claiming Charlie Kirk was unaware of key details during his relationship with Erika Kirk. She alleges Erika misrepresented connections to Kanye West’s circle, raising questions about credibility and hidden truths. The remarks have triggered intense online debate, with critics demanding evidence while supporters cite Owens’ proximity as reason to take her claims seriously.",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-20T16:32:00+05:30",
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
