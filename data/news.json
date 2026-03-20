@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-20T17:32:13.455918+00:00",
+  "generated_at": "2026-03-20T18:40:20.877395+00:00",
   "stories": [
     {
       "id": "a90a4b7d2eb4303857423d8bfe541f3a",
@@ -46204,6 +46204,58 @@
       "lang": "en"
     },
     {
+      "id": "01ba7e46746897f7392c498b3ffce287",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 21 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-21",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 12:01:23 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9c86415802bb1a83172fd46f1958d930",
+      "title": "पढ़ें 21 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-21",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 12:01:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "49f0adabcf75e518815842547e8f7843",
+      "title": "Bengaluru-based firm Bluspring to buy German energy firm’s India arm for ₹180 crore",
+      "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-based-firm-bluspring-to-buy-german-energy-firms-india-arm-for-180-crore/article70766455.ece",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 00:04:53 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "335080a503f8e3da02c9b98ae5016725",
+      "title": "Habitual offender arrested",
+      "link": "https://www.thehindu.com/news/national/kerala/habitual-offender-arrested/article70767039.ece",
+      "summary": "Biju alias Attingal Ayyappan, has multiple criminal cases pending in his name",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 00:04:17 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "fdf873f3b533cafcf064ddd688c96220",
       "title": "Retailers in Chennai likely to stock kerosene oil to tide over LPG crisis",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/retailers-in-chennai-likely-to-stock-kerosene-to-tide-over-lpg-crisis/article70744306.ece",
@@ -69227,14 +69279,222 @@
       "lang": "en"
     },
     {
+      "id": "fb3fe15c01a1c9de848278833b50ac98",
+      "title": "यूपी में पांचवी की छात्रा पर कुत्तों का हमला, बीच सड़क पर दौड़ाकर गिराया, शोर मचाने पर बची जान",
+      "link": "https://www.livehindustan.com/uttar-pradesh/dogs-attack-5th-grade-student-meerut-chased-and-knocked-down-middle-road-saved-after-raising-alarm-201774030805985.html",
+      "summary": "यूपी के मेरठ में आवारा कुत्तों ने पांचवी की छात्रा पर हमला कर दिया। कुत्तों ने बच्ची को बीच सड़क पर दौड़ाकर गिरा दिया। बच्ची ने शोर मचाकर मदद के लिए लोगों को बुलाया तब जाकर उसकी जान बच सकी।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:54:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "321a7a0642190aecea69843e051fb97d",
+      "title": "Scores of trees being felled in Manikonda to make way for road project",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/hundreds-of-trees-being-felled-in-manikonda-to-make-way-for-road-project/article70766355.ece",
+      "summary": "",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:54:37 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0b070bc55dbd3649e6fd146e6faf1c88",
+      "title": "कानपुर मेट्रो विस्तारीकरण का काम कब तक होगा पूरा और शुरू होंगी सेवाएं? आया लेटेस्ट अपडेट",
+      "link": "https://www.livehindustan.com/uttar-pradesh/when-will-the-kanpur-metro-expansion-be-completed-and-services-resume-latest-update-201774030129278.html",
+      "summary": "कानपुर मेट्रो विस्तारीकरण का काम कब तक होगा पूरा और शुरू होंगी सेवाएं? इसको लेकर लेटस्ट अपडेट आया है। कॉरिडोर-2 में सीएसए यूनिवर्सिटी से बर्रा मेट्रो स्टेशन तक निर्माण कार्य मार्च 2027 तक पूरा होगा।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:49:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "488cce9e4e785aea1a54b659752c8f80",
+      "title": "SC says people have a right to criticise its judgments",
+      "link": "https://www.thehindu.com/news/national/sc-says-people-have-a-right-to-criticise-its-judgments/article70766831.ece",
+      "summary": "The Chief Justice said that the textbook edition in question had also balanced criticism by highlighting meaningful interventions made by the apex court in the past",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:44:20 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a9287625f32a89ba2b1d0733ab3d44cf",
+      "title": "Lok Ayukta orders Kerala govt. to rehabilitate families displaced for Veli tourist village",
+      "link": "https://www.thehindu.com/news/national/kerala/lok-ayukta-orders-kerala-govt-to-rehabilitate-families-displaced-for-veli-tourist-village/article70766860.ece",
+      "summary": "The panel directs the State government to file an Action Taken Report on September 3, when it again considers the case.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:44:18 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4fe81ac9a61e7493fae4b821a5da41d9",
+      "title": "भाई की नाबालिग साली को भगा ले गया चार बच्चों का पिता, दोनों ने होटल में खाया जहर, मौत",
+      "link": "https://www.livehindustan.com/uttar-pradesh/father-four-elopes-with-brother-minor-sister-in-law-couple-consumes-poison-hotel-dies-201774029585928.html",
+      "summary": "शामली में मुजफ्फरनगर निवासी सीमेंट कारोबारी एवं चार बच्चों का पिता दो दिन पहले अपने छोटे भाई की नाबालिग साली को लेकर फरार हो गया था। शुक्रवार को इन दोनों सहारनपुर के ननौता स्थित एक होटल में जहर खा लिया।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:39:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "57ad60330b06297c71c80611c6baadf2",
+      "title": "One held for murder in Thiruvananthapuram",
+      "link": "https://www.thehindu.com/news/national/kerala/one-held-for-murder-in-thiruvananthapuram/article70767037.ece",
+      "summary": "",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:34:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7d9d5405b95dc3db4186308be25f924b",
+      "title": "Crucial meeting scheduled in Delhi to shortlist DGP candidates for Tamil Nadu deferred",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-crucial-meeting-scheduled-in-delhi-to-shortlist-dgp-candidates-deferred/article70766960.ece",
+      "summary": "Chief Secretary was in Delhi for the Empanelment Committee Meeting scheduled on Friday",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:34:17 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e1a0faff3e5e18a1e234842d1dbcf474",
+      "title": "Azharuddin greets people of TG on Eid",
+      "link": "https://www.thehindu.com/news/national/telangana/azharuddin-greets-people-of-tg-on-eid/article70766948.ece",
+      "summary": "",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:34:16 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e905c6a7836c542446cfa11918592816",
       "title": "Kerala’s fisherfolk hope to be heard this election season",
       "link": "https://www.thehindu.com/elections/kerala-assembly/keralas-fisherfolk-hope-to-be-heard-this-election-season/article70765442.ece",
       "summary": "Their wish list includes government-backed price fixing mechanism to ensure fair returns, stringent enforcement of rules, optimum use of available Central assistance, better rehabilitation schemes and student scholarships",
       "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 22:57:21 +0530",
+      "timestamp": "Fri, 20 Mar 2026 23:26:28 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "45c9bdb6f822385efc9c2434786d9a4a",
+      "title": "Czechs investigate fire at warehouse after reports of anti-Israel group claiming responsibility",
+      "link": "https://www.thehindu.com/news/international/czechs-investigate-fire-at-warehouse-after-reports-of-anti-israel-group-claiming-responsibility/article70767085.ece",
+      "summary": "The company had previously said it was planning to open a center to develop and produce drones and train personnel in cooperation with Israeli Elbit Systems, a military technology company",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:24:21 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4cf3014752a5a70398ddc16f5b845670",
+      "title": "आउटसोर्सिंग भर्तियों में आरक्षण का पूरा ख्याल रखेगी UP सरकार, BJP-RSS बैठक में और क्या बोले योगी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-government-will-take-care-of-reservation-in-outsourcing-recruitments-what-else-did-cm-yogi-say-at-bjp-rss-meeting-201774028200773.html",
+      "summary": "आउटसोर्सिंग से होने वाली भर्तियों में भी सरकार आरक्षण का पूरा ख्याल रखेगी। मुख्यमंत्री आवास पर हुई BJP-RSS की मीटिंग में योगी आदित्यनाथ ने यें बातें कहीं। इस मीटिंग कैबिनेट विस्तार समेत कई मुद्दों पर चर्चा हुई।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:20:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7120d8932ee1ec3855658efc24bf9731",
+      "title": "यूपी में बेमौसम बारिश को लेकर ऐक्शन में आए सीएम योगी, सभी जिलों के डीएम को जारी किए आदेश",
+      "link": "https://www.livehindustan.com/uttar-pradesh/cm-yogi-swings-into-action-over-unseasonal-rains-up-issues-orders-to-dm-all-districts-201774028518804.html",
+      "summary": "मुख्यमंत्री योगी आदित्यनाथ ने सभी जिलाधिकारियों को निर्देशित किया है कि वे स्वयं फील्ड में निकलकर स्थिति का जायजा लें और प्रभावित क्षेत्रों में फसलों को हुए नुकसान का तत्काल आकलन कराएं।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:20:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ba89c1cd11e895c8f4cba2bbb53a724e",
+      "title": "Amit Shah reviews security situation in Manipur",
+      "link": "https://www.thehindu.com/news/national/manipur/amit-shah-reviews-security-situation-in-manipur/article70767050.ece",
+      "summary": "Home Minister asks new CM to crackdown on drug cartels, recover looted police weapons",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:14:23 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "74d7b1b163c446d14e06743d301e29a4",
+      "title": "CBI questions Anil Ambani for second day in connection with ₹2,929-crore cheating case",
+      "link": "https://www.thehindu.com/news/national/cbi-questions-anil-ambani-for-second-day-in-connection-with-2929-crore-cheating-case/article70765499.ece",
+      "summary": "His statement was earlier recorded in the same case on Thursday (March 19, 2026)",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:08:50 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3205d94a484a5132528b40efd07ec270",
+      "title": "Assembly elections 2026 updates: Mamata releases TMC manifesto, claims 'unofficial President's Rule' imposed in poll-bound Bengal",
+      "link": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-20-2026/article70764086.ece",
+      "summary": "Himanta Biswa Sarma files nomination from Assam's Jalukbari constituency; Mr. Sarma laid down his objective for Assam, centred around the identity and development of Assam",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:08:25 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "279e379f8cf6b8f0bdecaddd72d91c0a",
+      "title": "Iran-Israel war LIVE: Ayatollah Mojtaba Khamenei says Iran dealt enemies 'dizzying blow' in war",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-trump-netanyahu-live-updates-march-20-2026/article70764069.ece",
+      "summary": "\"The IDF now confirms that in this strike Ismaeil Ahmadi, who served as head of the intelligence directorate of the Basij unit, was also eliminated,\" the military said",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:07:23 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -69245,9 +69505,35 @@
       "link": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-govt-intends-to-invest-3000-crore-in-tourism-chief-minister-woos-industry/article70765233.ece",
       "summary": "During CII conference, Mr. Sukhu assured that harassment of industrialists would not be tolerated and their grievances could be brought directly to his notice; he adds that all clearances for industries should be provided at one place and the Industries department should actively facilitate investors",
       "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 22:56:39 +0530",
+      "timestamp": "Fri, 20 Mar 2026 23:04:28 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "624c844523880448560e28d73653f54e",
+      "title": "Abu Dhabi police arrest over 100 for filming, posting 'misleading' information during war",
+      "link": "https://www.thehindu.com/news/international/abu-dhabi-police-arrest-over-100-for-filming-posting-misleading-information-during-war/article70765853.ece",
+      "summary": "Similar measures have been taken across the Gulf as Iran hits U.S. assets but also civilian infrastructure including landmarks, oil and gas facilities, airports and residential areas",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:04:17 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "103b5332a779d075b397ffddda5ef180",
+      "title": "Trump administration sues Harvard over treatment of Jewish and Israeli students, seeks billions of dollars",
+      "link": "https://www.thehindu.com/news/international/trump-administration-us-sues-harvard-over-treatment-of-jewish-israeli-students/article70766371.ece",
+      "summary": "Harvard will defend against the lawsuit, which a spokesperson called “yet another ‌pretextual ⁠and retaliatory action by the administration for refusing to turn over control of Harvard to the federal ⁠government”",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 23:01:12 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -69409,6 +69695,19 @@
       "lang": "en"
     },
     {
+      "id": "7ff658b69606022ae78d8f088f8f5abe",
+      "title": "लखनऊ से अमरीका तक ‘जूट’ की उड़ान, जूट वाली दीदी के थैले बना रहे अंतरराष्ट्रीय पहचान",
+      "link": "https://www.patrika.com/lucknow-news/success-story-of-jute-wali-didi-anjali-singh-lucknow-to-usa-20440446",
+      "summary": "लखनऊ। सोलह साल पहले एक मशीन से काम शुरू करने वाली जूट वाली दीदी ऊर्फ अंजली सिंह का छोटा सा प्रयास अब वैश्विक पहचान में बदलता नजर आ रहा है। खादी ग्रामोद्योग मिशन के तहत जूट फॉर लाइफ परिजोजना के तहत तैयार किए गए उनके जूट बैग और अन्य उत्पाद न केवल स्थानीय बाजार तक सीमित नहीं हैं बल्कि अमरीका के बाजारों में भी अपनी जगह बना रहे हैं।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 22:16:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "7f9321819f8df493bb0ec67e5e64a426",
       "title": "West Bengal’s two-cornered contest is one between continuity and change",
       "link": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengals-two-cornered-contest-is-one-between-continuity-and-change/article70764900.ece",
@@ -69430,19 +69729,6 @@
       "timestamp": "Fri, 20 Mar 2026 22:13:28 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "279e379f8cf6b8f0bdecaddd72d91c0a",
-      "title": "Iran-Israel war LIVE: Ayatollah Mojtaba Khamenei says Iran dealt enemies 'dizzying blow' in war",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-usa-west-asia-trump-netanyahu-live-updates-march-20-2026/article70764069.ece",
-      "summary": "\"The IDF now confirms that in this strike Ismaeil Ahmadi, who served as head of the intelligence directorate of the Basij unit, was also eliminated,\" the military said",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 22:09:55 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -69705,6 +69991,19 @@
       "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5b0928c17958ab0ea36e1dd33639d0ae",
+      "title": "अभी नहीं मिलेगा यूपी को स्थायी DGP, यूपीएससी ने प्रस्ताव ठुकराया, कहा- दोबारा भेजे",
+      "link": "https://www.patrika.com/lucknow-news/upsc-rejects-uttar-pradesh-permanent-dgp-proposal-seeks-fresh-panel-20440411",
+      "summary": "लखनऊ: उत्तर प्रदेश में स्थायी डीजीपी की नियुक्ति प्रक्रिया एक बार फिर अधर में लटक गई है। राज्य सरकार ने हाल ही में वरिष्ठ आईपीएस अधिकारियों की एक सूची यूपीएससी को भेजी थी, ताकि सुप्रीम कोर्ट के निर्देशों के अनुसार एक पूर्णकालिक पुलिस प्रमुख की नियुक्ति की जा सके। हालांकि, यूपीएससी ने इस प्रस्ताव पर आपत्ति जताते हुए इसे वापस कर दिया है।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 21:18:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -70267,19 +70566,6 @@
       "lang": "en"
     },
     {
-      "id": "321a7a0642190aecea69843e051fb97d",
-      "title": "Hundreds of trees being felled in Manikonda to make way for road project",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/hundreds-of-trees-being-felled-in-manikonda-to-make-way-for-road-project/article70766355.ece",
-      "summary": "",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 20:34:21 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "17488f88f46f8c037c0431ec2a5bbd4a",
       "title": "Poll officials seize ₹15.5 lakh in cash",
       "link": "https://www.thehindu.com/news/national/karnataka/poll-duty-officials-seize-155-lakh-in-cash/article70766419.ece",
@@ -70457,19 +70743,6 @@
       "timestamp": "Fri, 20 Mar 2026 20:20:56 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "103b5332a779d075b397ffddda5ef180",
-      "title": "Trump administration sues Harvard over treatment of Jewish and Israeli students, seeks billions of dollars",
-      "link": "https://www.thehindu.com/news/international/trump-administration-us-sues-harvard-over-treatment-of-jewish-israeli-students/article70766371.ece",
-      "summary": "This lawsuit comes less than two ‌months after President Trump said his administration was seeking $1 billion from Harvard to settle probes into school policies",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 20:14:03 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -71528,19 +71801,6 @@
       "lang": "en"
     },
     {
-      "id": "74d7b1b163c446d14e06743d301e29a4",
-      "title": "CBI questions Anil Ambani for second day in connection with ₹2,929-crore cheating case",
-      "link": "https://www.thehindu.com/news/national/cbi-questions-anil-ambani-for-second-day-in-connection-with-2929-crore-cheating-case/article70765499.ece",
-      "summary": "On Thursday (March 19, 2026), the CBI sought his responses on alleged fund diversion, misappropriation and other irregularities in the loan funds issued to the company by the bank, they said",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 18:41:48 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ec4d8d8c94250fe83c58743b31d1c765",
       "title": "Vizianagaram Collector directs municipal officials to focus on drinking water and sanitation",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-collector-directs-municipal-officials-to-focus-on-drinking-water-and-sanitation/article70764315.ece",
@@ -71560,19 +71820,6 @@
       "summary": "Borrowings constitute a major chunk of revenue receipts",
       "date": "2026-03-20",
       "timestamp": "Fri, 20 Mar 2026 18:38:14 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3205d94a484a5132528b40efd07ec270",
-      "title": "Assembly elections 2026 LIVE: Mamata releases TMC manifesto, claims 'unofficial President's Rule' imposed in poll-bound Bengal",
-      "link": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-20-2026/article70764086.ece",
-      "summary": "Himanta Biswa Sarma files nomination from Assam's Jalukbari constituency; Mr. Sarma laid down his objective for Assam, centred around the identity and development of Assam",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 18:37:27 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -71645,6 +71892,32 @@
       "lang": "en"
     },
     {
+      "id": "20321b7e93fdf996a942a608f03e7ddb",
+      "title": "Iran: From Khamenei to Khamenei",
+      "link": "https://www.aljazeera.com/video/featured-documentaries/2026/3/20/iran-from-khamenei-to-khamenei?traffic_source=rss",
+      "summary": "How Iran’s power structure was built, and how it survives its architect.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:30:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "010ac31df4311adecfec6c3bf03470f6",
+      "title": "Trump administration seeks billions from Harvard over anti-Semitism claims",
+      "link": "https://www.aljazeera.com/news/2026/3/20/trump-administration-seeks-billions-from-harvard-over-anti-semitism-claims?traffic_source=rss",
+      "summary": "Harvard University has rejected the complaint as 'another pretextual and retaliatory action' from the Trump White House.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:28:44 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "76e40d46b9409305303dedaadfcaee2e",
       "title": "यूपी में बिना पर्ची गैस लेने पर बवाल, युवकों के उत्पात के बाद एजेंसी पर पथराव, दो कर्मचारी घायल",
       "link": "https://www.livehindustan.com/uttar-pradesh/uproar-over-gas-cylinder-connection-without-slip-youths-pelted-agency-with-stones-in-maharajganj-201774010999543.html",
@@ -71710,6 +71983,19 @@
       "lang": "en"
     },
     {
+      "id": "b0da5fcf3bd52ecb1a0820c88ebad13b",
+      "title": "Explosion hits Jerusalem’s Old City after Iran missile alert",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/20/explosion-hits-jerusalems-old-city-after-iran-missile-alert?traffic_source=rss",
+      "summary": "An explosion struck Jerusalem’s Old City seconds after sirens warned of an incoming Iranian missile.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:15:27 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7b5d1decaae2cd46494618a804c4b36c",
       "title": "1,228 नवचयनित नर्सिंग अधिकारियों को इस डेट को मिलेगा ज्वाइनिंग लेटर, 492 को योगी खुद सौंपेंगे",
       "link": "https://www.livehindustan.com/uttar-pradesh/1228-newly-selected-nursing-officers-will-receive-joining-letters-on-22-march-yogi-personally-handover-to-492-youngster-201774009848354.html",
@@ -71745,6 +72031,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bc49c87813311bf072718b2ecfe13df3",
+      "title": "Cuba ‘categorically’ rejects prospect of removing Diaz-Canel in US talks",
+      "link": "https://www.aljazeera.com/news/2026/3/20/cuba-categorically-rejects-prospect-of-removing-diaz-canel-in-us-talks?traffic_source=rss",
+      "summary": "Minister Carlos Fernandez de Cossio says he is open to US trade talks but refused to entertain a leadership shake-up.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 18:10:24 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -73413,6 +73712,19 @@
       "lang": "en"
     },
     {
+      "id": "2a0648f4b033fa92c4d6e822c96db9a4",
+      "title": "Noida News: 12वीं मंजिल से गिरकर तीन साल के मासूम की मौत, खेलते समय हुआ हादसा",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/3-years-kids-fall-12th-floor-grnoida-news-c-1-1-noi1365-4074149-2026-03-20",
+      "summary": "12वीं मंजिल से गिरकर तीन साल के मासूम की मौत, खेलते समय हुआ हादसा",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:58:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "a3a2f2a613b1beeb49a67d84e353adf1",
       "title": "Kerala Assembly polls: K. Sudhakaran returns to Kannur; T.O. Mohanan set to launch campaign",
       "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-k-sudhakaran-returns-to-kannur-to-mohanan-set-to-launch-campaign/article70764221.ece",
@@ -73595,6 +73907,45 @@
       "lang": "en"
     },
     {
+      "id": "d105d4c66b21763cd41648051c140cef",
+      "title": "Ayodhya News: चांद दिखते ही छाई ईद की खुशी, देर तक गुलजार रहे बाजार",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/the-moon-was-sighted-bringing-joy-to-eid-markets-remained-busy-for-long-ayodhya-news-c-97-1-ayo1002-145515-2026-03-20",
+      "summary": "चांद दिखते ही छाई ईद की खुशी, देर तक गुलजार रहे बाजार",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:45:39 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "334b1e56c1b6dd271f212ab96d46a714",
+      "title": "Rupee: रुपये की गिरावट पर थरूर का केंद्र सरकार पर निशाना, बोले- दिखाएं UPA की आलोचनाओं को वापस लेने की शालीनता",
+      "link": "https://www.amarujala.com/india-news/shashi-tharoor-on-fall-of-rupee-says-central-government-should-have-grace-to-withdraw-criticism-when-upa-ruled-2026-03-20",
+      "summary": "Rupee: रुपये की गिरावट पर थरूर का केंद्र सरकार पर निशाना, बोले- दिखाएं UPA की आलोचनाओं को वापस लेने की शालीनता Shashi Tharoor on fall of Rupee says central government should have grace to withdraw criticism when UPA ruled",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:44:58 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "897f072a6c446977a10bd49c9884db55",
+      "title": "Ayodhya News: गौरैया संरक्षण के लिए बच्चों ने लिया संकल्प, लगाएं पौधे",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/children-pledge-to-plant-trees-to-protect-sparrows-ayodhya-news-c-97-1-ayo1034-145472-2026-03-20",
+      "summary": "गौरैया संरक्षण के लिए बच्चों ने लिया संकल्प, लगाएं पौधे",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:44:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "e90fd9f034927c24a984680abb37b6fd",
       "title": "Congress, Raijor Dal finalise alliance; State party gets 11 seats",
       "link": "https://www.thehindu.com/elections/congress-raijor-dal-finalise-alliance-state-party-gets-11-seats/article70764317.ece",
@@ -73608,6 +73959,84 @@
       "lang": "en"
     },
     {
+      "id": "3840b9c972869ceba177df3e13256574",
+      "title": "Ayodhya News: कामाख्या महोत्सव में विवाह के बंधन में बंधे 238 युगल",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/238-couples-tied-the-knot-at-the-kamakhya-festival-ayodhya-news-c-97-1-ayo1010-145495-2026-03-20",
+      "summary": "कामाख्या महोत्सव में विवाह के बंधन में बंधे 238 युगल",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:42:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "1448e37570ccace3ad36a5dadf101706",
+      "title": "Ayodhya News: राम नवमी बाद उप मंदिरों को खोलने की तैयारी",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/preparations-to-open-sub-temples-after-ram-navami-ayodhya-news-c-97-1-ayo1002-145509-2026-03-20",
+      "summary": "राम नवमी बाद उप मंदिरों को खोलने की तैयारी",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:41:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "6f7c7aa627edd1cbd568e88f49ed8621",
+      "title": "Ayodhya News: आंधी-पानी के साथ गिरे ओले, खेतों में बिछी फसल",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/rain-and-storm-accompanied-by-hailstorm-crops-scattered-in-the-fields-ayodhya-news-c-97-1-ayo1002-145466-2026-03-20",
+      "summary": "आंधी-पानी के साथ गिरे ओले, खेतों में बिछी फसल",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:41:13 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "078d93c45d6089a16da73c74f31e1881",
+      "title": "Ayodhya News: स्पोर्ट्स स्टेडियम की टीम ने जीता खिताब",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/sports-stadium-team-won-the-title-ayodhya-news-c-97-1-slko1023-145483-2026-03-20",
+      "summary": "स्पोर्ट्स स्टेडियम की टीम ने जीता खिताब",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:40:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "7084f1d9492e17fed831496e4d502a3e",
+      "title": "Ayodhya News: प्रश्नपत्र में पूछे सड़क पर सुरक्षित चलने के नियम",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/rules-for-safe-walking-on-the-road-asked-in-the-question-paper-ayodhya-news-c-97-1-ayo1034-145496-2026-03-20",
+      "summary": "प्रश्नपत्र में पूछे सड़क पर सुरक्षित चलने के नियम",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:39:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "947555ae90b8c8adf9f41adbd13a8a21",
+      "title": "Ayodhya News: नवरात्र-ईद पर अयोध्या रूट की ट्रेनों में वेटिंग सौ के पार",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/waiting-for-trains-on-the-ayodhya-route-during-navratri-eid-crosses-100-ayodhya-news-c-97-1-ayo1034-145467-2026-03-20",
+      "summary": "नवरात्र-ईद पर अयोध्या रूट की ट्रेनों में वेटिंग सौ के पार",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:38:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "b419280bea1ea319c2cca67ed79f9798",
       "title": "Fighting a looming threat of erasure: The outrage over amendments to trans rights law",
       "link": "https://www.thehindu.com/news/national/the-long-walk/article70762269.ece",
@@ -73618,6 +74047,19 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4459eaefa498f299aaa7f0e15a6512d8",
+      "title": "Ayodhya News: अम्मा जी की यात्रा के निकाले जा रहे सियासी मायने",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/political-meanings-are-being-drawn-from-amma-jis-visit-ayodhya-news-c-97-1-ayo1002-145461-2026-03-20",
+      "summary": "अम्मा जी की यात्रा के निकाले जा रहे सियासी मायने",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:37:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
       "lang": "en"
     },
     {
@@ -73686,6 +74128,19 @@
       "lang": "hi"
     },
     {
+      "id": "d076c053b9e858402edb2933115baaf1",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-20",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:30:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "e8c3e778749f69cf4bf44f95c72a92f3",
       "title": "Exclusive: बीएचयू में एलएलबी के 36 और बीए-एलएलबी के 60 पेपर में भारतीय विधिशास्त्र, पढ़ें- खास",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/indian-jurisprudence-in-36-llb-and-60-ba-llb-papers-at-bhu-in-varanasi-2026-03-20",
@@ -73697,6 +74152,19 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
+    },
+    {
+      "id": "dce8b0b48aba5859148154d8af06c101",
+      "title": "Airfares: 60% मुफ्त सीट चयन नियम पर एयरलाइंस का विरोध, कहा- बढ़ेंगे हवाई किराए, यात्रियों पर पड़ेगा बोझ",
+      "link": "https://www.amarujala.com/india-news/airlines-oppose-govt-rule-on-60-free-seat-selection-warn-of-higher-airfares-2026-03-20",
+      "summary": "Airfares: 60% मुफ्त सीट चयन नियम पर एयरलाइंस का विरोध, कहा- बढ़ेंगे हवाई किराए, यात्रियों पर पड़ेगा बोझ--Airlines Oppose Govt Rule on 60% Free Seat Selection, Warn of Higher Airfares",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:30:04 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "441c0f4e0c502ebddd4fecb7928e37d4",
@@ -73803,6 +74271,19 @@
       "lang": "en"
     },
     {
+      "id": "28836e49b1bc57de17ce0aa833e1d59f",
+      "title": "UP News: कुएं में गिरा तीन साल का मासूम, लाश देख बिलख पड़े परिजन; कलेजे के टुकड़े से लिपटकर रोई मां",
+      "link": "https://www.amarujala.com/uttar-pradesh/sonebhadra/innocent-three-year-old-falls-into-well-relatives-wail-upon-seeing-dead-body-mother-clutches-2026-03-20",
+      "summary": "सोनभद्र जिले के बीजपुर थाना क्षेत्र अंतर्गत रजमिलान गांव के टोला मेनहवा में शुक्रवार को एक दर्दनाक हादसे में तीन वर्षीय मासूम की डूबने से मौत हो गई। घटना के बाद पूरे गांव में शोक का माहौल है और परिजनों का रो-रोकर बुरा हाल है।",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:18:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "f8f5740237b59ad173ddcfb4c4181346",
       "title": "Weather in UP: लखनऊ सहित कई जिलों में दिन में छाया अंधेरा, गरज चमक के साथ हुई बारिश, तापमान गिरा, तस्वीरें",
       "link": "https://www.amarujala.com/photo-gallery/lucknow/up-several-districts-including-lucknow-experienced-darkness-during-the-day-weather-changed-in-uttar-prades-2026-03-20",
@@ -73827,6 +74308,19 @@
       "source": "Al Jazeera",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "c235919c49d40e5a7235eee1e15b989c",
+      "title": "West Asia Conflict: होर्मुज से रवाना होने के लिए तैयार दो भारतीय टैंकर, जानें अभी कहां खड़े हैं दोनों गैस वाहक",
+      "link": "https://www.amarujala.com/india-news/west-asia-conflict-indian-gas-tankers-prepare-to-sail-through-strait-of-hormuz-report-2026-03-20",
+      "summary": "West Asia Conflict: Indian gas tankers prepare to sail through Strait of Hormuz: Report - West Asia Conflict: होर्मुज से रवाना होने के लिए तैयार दो भारतीय टैंकर, जानें अभी कहां खड़े हैं दोनों गैस वाहक",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:07:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "cfb92ac03a5bfa4401dd5b5c1b9a1a6c",
@@ -73868,6 +74362,19 @@
       "lang": "en"
     },
     {
+      "id": "f6c7f23724b5fd6e6143ac51b7d9d828",
+      "title": "Speedboat Accident: मालदीव में स्पीडबोट पलटी, रेमंड ग्रुप के अध्यक्ष गौतम सिंघानिया घायल; दो भारतीय लापता",
+      "link": "https://www.amarujala.com/india-news/gautam-singhania-injured-in-speedboat-accident-in-maldives-recovering-in-mumbai-hospital-2026-03-20",
+      "summary": "Speedboat Accident: मालदीव में स्पीडबोट पलटी, रेमंड ग्रुप के अध्यक्ष गौतम सिंघानिया घायल; दो भारतीय लापता",
+      "date": "2026-03-20",
+      "timestamp": "Fri, 20 Mar 2026 11:02:58 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "9c27495339bfb54e0c2043af4e16d894",
       "title": "Jaunpur Weather: मौसम का कहर, हल्की बारिश, आसमान में छाए बादल; बिजली की चपेट में आने से एक की मौत",
       "link": "https://www.amarujala.com/uttar-pradesh/jaunpur/jaunpur-weather-update-young-man-died-after-struck-by-lightning-2026-03-20",
@@ -73904,19 +74411,6 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "d076c053b9e858402edb2933115baaf1",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-20",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 11:00:57 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -74958,19 +75452,6 @@
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
       "lang": "en"
-    },
-    {
-      "id": "c235919c49d40e5a7235eee1e15b989c",
-      "title": "West Asia Conflict: होर्मुज से रवाना होने के लिए तैयार दो भारतीय टैंकर, जानें अभी कहां खड़े हैं दोनों गैस वाहक",
-      "link": "https://www.amarujala.com/india-news/west-asia-conflict-indian-gas-tankers-prepare-to-sail-through-strait-of-hormuz-report-2026-03-20",
-      "summary": "West Asia Conflict: Indian gas tankers prepare to sail through Strait of Hormuz: Report - West Asia Conflict: होर्मुज से रवाना होने के लिए तैयार दो भारतीय टैंकर, जानें अभी कहां खड़े हैं दोनों गैस वाहक",
-      "date": "2026-03-20",
-      "timestamp": "Fri, 20 Mar 2026 09:25:17 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "024eded02759cb3bb8afce96195f6f13",
@@ -92025,6 +92506,32 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d836e35a1bd4d3f2af928be0889e5bda",
+      "title": "ISRO’s alarming reality: 129 pieces of Indian space junk are now orbiting Earth, posing collision risks and raising global concerns",
+      "link": "https://timesofindia.indiatimes.com/science/isros-alarming-reality-129-pieces-of-indian-space-junk-are-now-orbiting-earth-posing-collision-risks-and-raising-global-concerns/articleshow/129704651.cms",
+      "summary": "",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-21T00:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1ff53cf887ba889878a4d28baf6455ab",
+      "title": "AIIMS-Delhi to study link between lung cancer and air pollution",
+      "link": "https://timesofindia.indiatimes.com/india/aiims-delhi-to-study-link-between-lung-cancer-and-air-pollution/articleshow/129706593.cms",
+      "summary": "",
+      "date": "2026-03-20",
+      "timestamp": "2026-03-20T23:20:34+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
