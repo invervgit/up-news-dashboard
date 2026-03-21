@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T17:21:30.817425+00:00",
+  "generated_at": "2026-03-21T18:29:02.245851+00:00",
   "stories": [
     {
       "id": "a90a4b7d2eb4303857423d8bfe541f3a",
@@ -46165,12 +46165,194 @@
       "lang": "en"
     },
     {
+      "id": "fe7541b8029509e0f4c3b39977df6cf4",
+      "title": "Centre removes caps on airfares after three months",
+      "link": "https://www.thehindu.com/news/national/centre-removes-caps-on-airfares-after-three-months/article70770279.ece",
+      "summary": "The removal of the caps, introduced when widespread cancellation of IndiGo flights triggered a spike in fares, comes at a time when West Asia conflict has lead to increase in aviation turbine fuel (ATF)",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:43:03 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3a27ea1257acf8478e01a08d49cc2366",
+      "title": "KLU releases Management Aptitude Test results",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/klu-releases-management-aptitude-test-results/article70769885.ece",
+      "summary": "The university will conduct an entrance examination for engineering courses for three days from March 27",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:33:06 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "20da3a28a4806200fa1f38b0fd2b86b8",
+      "title": "Untreated waste, poor civic infra mar Erode (East) Assembly constituency",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/constituency-watch-erode-east-assembly-constituency/article70768501.ece",
+      "summary": "Pollution, traffic congestion, and poor urban infrastructure remain key concerns for voters, who are looking for concrete outcomes",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:28:51 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1d77a1c82b4d56f0197cf57787c4c503",
+      "title": "Religious fervour and prayers for harmony mark Eid-Ul-Fitr",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/religious-fervour-and-prayers-for-harmony-mark-eid-ul-fitr/article70769031.ece",
+      "summary": "Andhra Pradesh Governor S. Abdul Nazeer conveys Eid greetings; Eidgah Committee calls for promotion of humanity over caste and religious differences",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:23:05 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "da33d4d9ba942f8f25b473afd5f102e9",
+      "title": "Supreme Court concerned over cops uploading videos online, says poses threat to fair trial",
+      "link": "https://www.thehindu.com/news/national/supreme-court-concerned-over-cops-uploading-videos-online-says-poses-threat-to-fair-trial/article70768980.ece",
+      "summary": "The senior counsel flagged the recent trend of police posting the images of accused persons being handcuffed, tied by ropes, paraded, forced to kneel, etc, on social media, which, apart from causing an affront to personal dignity, adds to the public bias.",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:23:02 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "448b48def01bebfbf0c072316ed64677",
+      "title": "Police warn people against APK downloads, suspicious links",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-warn-people-against-apk-downloads-suspicious-links/article70769981.ece",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:13:11 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ffeefd0349e889610d9f158c748dfba",
+      "title": "Process of issuance of PRs to FMGs begins in Andhra Pradesh",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/process-of-issuance-of-prs-to-fmgs-begins/article70769395.ece",
+      "summary": "Around 30 graduates who approached the High Court on the delay have received PRs from March 12 till date; uncertainty continues as the APMC asks for Indian Embassy’s apostille on compensatory certificates",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:13:09 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b39259930484733833d232f33f9598ca",
+      "title": "IIT Madras launches M.Tech and MA programmes in frontier technologies and governance",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-launches-mtech-and-ma-programmes-in-frontier-technologies-and-governance/article70769491.ece",
+      "summary": "The programmes have been designed to equip students with interdisciplinary skills and knowledge to address challenges in the fields of governance, industry, and technology",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:13:05 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6c11999d7b51ce8bdc753e749ce6dbef",
+      "title": "CM reviews Bhadrachalam temple development plans",
+      "link": "https://www.thehindu.com/news/national/telangana/cm-reviews-bhadrachalam-temple-development-plans/article70770245.ece",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:03:07 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f0305928637cf3587e35ac640b688d39",
+      "title": "SRMIST honours scientists in advanced materials research",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/srmist-honours-scientists-in-advanced-materials-research/article70769644.ece",
+      "summary": "This was part of the second International Conference on Advanced Functional Materials and Devices organised by its Nanotechnology Research Centre",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:03:05 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fe7c2d59e2443163eba80f994942ba67",
+      "title": "यूपी में ईद पर डबल मर्डर: प्रधान के दो भाइयों की तलवार से काटकर हत्या, एक घंटे तक चला खूनी संघर्ष",
+      "link": "https://www.livehindustan.com/uttar-pradesh/double-murder-in-meerut-on-eid-two-brothers-gram-pradhan-hacked-to-death-with-swords-bloody-clash-lasted-for-an-hour-201774113925585.html",
+      "summary": "यूपी के मेरठ में ईद पर दो पक्षों में खूनी संघर्ष हो गया। एक घंटे तक चले इस विवाद में प्रधान के दो भाइयों की तलवार से काटकर हत्या कर दी गई। घटना को देखते हुए भारी संख्या में पुलिस फोर्स को तैनात कर दिया गया।",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:02:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5ca0bb966890acebcd267b3c57fb6235",
+      "title": "Assembly election highlights: BJP out to claim its share in Bihar: Prashant Kishor on Nitish's exit as CM",
+      "link": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-21-2026/article70768264.ece",
+      "summary": "The Election Commission of India announces the completion of the first randomisation of EVMs and VVPATs in Assam, Kerala, and Puducherry",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:01:54 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "701bcbfbec804679ea29a270f686ab4e",
+      "title": "यूपी: पुलिस की पूछताछ से घबराकर भागे युवक की कुएं में गिरकर मौत, भड़के ग्रामीण",
+      "link": "https://www.livehindustan.com/uttar-pradesh/youth-who-fled-from-police-interrogation-dies-after-falling-into-a-well-enraged-villagers-201774113176393.html",
+      "summary": "पुलिस की पूछताछ से घबराकर भागे युवक की कुएं में गिरकर जान चली गई। घटना से गुस्साए ग्रामीणों ने शनिवार सुबह शव को सड़क पर रखकर जाम लगा दिया। उनकी मांग थी कि आरोपित थानाध्यक्ष समेत पांच पुलिस कर्मियों के खिलाफ केस दर्ज किया जाए।",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 22:54:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b7e453e6f3491d6f974e5a96be570d41",
+      "title": "Tribals near Tirupattur town threaten to boycott polls due to lack of basic facilities",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tribals-near-tirupattur-town-threaten-to-boycott-polls-due-to-lack-of-basic-facilities/article70769035.ece",
+      "summary": "Lack of good roads affects bus services, ambulances and access to healthcare, say residents",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 22:53:06 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6c375789cb0d70cd8a80910c02adc156",
       "title": "Three persons arrested for killing a trader in Tiruvannamalai",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/three-persons-arrested-for-killing-a-trader-in-tiruvannamalai/article70769034.ece",
       "summary": "The victim was stabbed by the suspect after the two were disputing a financial issue",
       "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 22:48:09 +0530",
+      "timestamp": "Sat, 21 Mar 2026 22:53:03 +0530",
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
@@ -46305,19 +46487,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "5ca0bb966890acebcd267b3c57fb6235",
-      "title": "Assembly election LIVE: BJP out to claim its share in Bihar: Prashant Kishor on Nitish's exit as CM",
-      "link": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-21-2026/article70768264.ece",
-      "summary": "The Election Commission of India announces the completion of the first randomisation of EVMs and VVPATs in Assam, Kerala, and Puducherry",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 22:28:26 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -47029,8 +47198,8 @@
       "summary": "UAE Ambassador to India Abdulnasser Alshaali said PM Modi called the UAE President before any resolution was drafted and before any multilateral statement",
       "date": "2026-03-21",
       "timestamp": "Sat, 21 Mar 2026 20:23:18 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -48220,7 +48389,7 @@
     },
     {
       "id": "7a07183256a258c7f7e8e6a6878e6023",
-      "title": "शहजाद भट्टी: पाकिस्तान का गैंगस्टर, भारत में युवाओं को कर रहा कॉल; पढ़ें इनसाइड स्टोरी",
+      "title": "शहजाद भट्टी: पाकिस्तान का गैंगस्टर, भारत में युवाओं को क्यों कर रहा है कॉल; पढ़ें इनसाइड स्टोरी",
       "link": "https://www.livehindustan.com/uttar-pradesh/shahzad-bhatti-pakistani-gangster-making-calls-to-youth-in-india-read-the-inside-story-201774096155140.html",
       "summary": "खुफिया एजेंसियों ने पाकिस्तानी गैंगस्टर शहजाद भट्टी के संपर्क में रहे युवकों को लेकर छानबीन तेज कर दी है। UP ATS और IB ने 18 मार्च 2026 को हापुड़ निवासी अजीम राणा और उसके भांजे मेरठ के भावनपुर के जेई गांव निवासी आजाद अली को गिरफ्तार किया था। वे पिछले छह महीने से शहजाद भट्टी के संपर्क में थे।",
       "date": "2026-03-21",
@@ -48245,6 +48414,19 @@
       "lang": "en"
     },
     {
+      "id": "76be813aff767c082a18f7470d72d226",
+      "title": "Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people",
+      "link": "https://www.aljazeera.com/news/2026/3/21/flash-flooding-swamps-hawaii-prompting-evacuation-orders-for-5500-people?traffic_source=rss",
+      "summary": "Oahu's emergency office has ordered residents in the Waialua area to 'leave now' amid risk of road failures.",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 18:01:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1c0fb4c4268cab441ac780ce561011db",
       "title": "पत्नी से कर रहा था बात, बंद हो गया मोबाइल; सऊदी में सीतापुर के युवक की मिसाइल हमले में मौत",
       "link": "https://www.livehindustan.com/uttar-pradesh/while-talking-to-his-wife-mobile-went-dead-sitapur-youth-killed-in-missile-attack-in-saudi-arabia-201774094473570.html",
@@ -48255,6 +48437,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "6434d7bd9b2741232ddad4ab0af717f8",
+      "title": "Former FBI chief, Robert Mueller, dead at 81",
+      "link": "https://www.aljazeera.com/news/2026/3/21/former-fbi-chief-robert-mueller-dead-at-81?traffic_source=rss",
+      "summary": "Robert Mueller oversaw the probe into alleged Russian interference in the 2016 United States election.",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 17:42:27 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -48695,19 +48890,6 @@
       "timestamp": "Sat, 21 Mar 2026 15:22:40 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "20da3a28a4806200fa1f38b0fd2b86b8",
-      "title": "Untreated waste, poor civic infra mar Erode (East) Assembly constituency",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/constituency-watch-erode-east-assembly-constituency/article70768501.ece",
-      "summary": "Pollution, traffic congestion, and poor urban infrastructure remain key concerns for voters, who are looking for concrete outcomes",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 15:12:47 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -50065,6 +50247,19 @@
       "lang": "en"
     },
     {
+      "id": "bc23394211a079da371431a7d1148ef1",
+      "title": "Noida News: धुरंधर-2 का शो नहीं चलने पर हंगामा, लौटे दर्शक",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/uproar-over-dhurandhar-2-show-not-running-audience-returns-noida-news-c-23-1-lko1064-90569-2026-03-21",
+      "summary": "Uproar over Dhurandhar 2 show not running, audience returns",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:36:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "39f3bef92849cc4abd0bc351659d530d",
       "title": "President Draupadi Murmu: राष्ट्रपति द्रौपदी मुर्मू ने किए गिरिराज जी के दर्शन, शुरू की सप्तकोसी परिक्रमा",
       "link": "https://www.amarujala.com/uttar-pradesh/mathura/president-droupadi-murmu-visits-govardhan-offers-prayers-and-begins-sacred-parikrama-2026-03-21",
@@ -50075,6 +50270,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2790008ddf6f6901f0020e053b645246",
+      "title": "कार्रवाई की मांग पर अड़े छात्रों ने सूर्य प्रताप के लिए मौन रहकर जताया शोक, VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-students-adamant-in-demand-for-action-observe-silent-vigil-to-mourn-surya-pratap-2026-03-21",
+      "summary": "कार्रवाई की मांग पर अड़े छात्रों ने सूर्य प्रताप के लिए मौन रहकर जताया शोक, VIDEO",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:33:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -50104,6 +50312,19 @@
       "lang": "hi"
     },
     {
+      "id": "01ba7e46746897f7392c498b3ffce287",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 21 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-21",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:30:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "90ebe0588cfb714603597ff02f8c3a40",
       "title": "मथुरा हत्याकांड: DIG के समझाने पर भी नहीं माने लोग, गुस्साई भीड़ ने एसडीएम की गाड़ी पर किया पथराव",
       "link": "https://www.livehindustan.com/uttar-pradesh/farsa-wale-baba-murder-case-even-after-dig-persuasion-people-did-not-agree-and-angry-mob-threw-stones-at-the-sdm-vehicle-201774072145715.html",
@@ -50117,6 +50338,19 @@
       "lang": "en"
     },
     {
+      "id": "8d44113d806b435fdc775f7d4f0f496b",
+      "title": "RRU-SSB MoU: राष्ट्रीय सुरक्षा प्रशिक्षण को बढ़ावा देने के लिए RRU-SSB के बीच समझौता; क्या है इसका उद्देश्य?",
+      "link": "https://www.amarujala.com/india-news/mou-agreement-to-promote-national-security-training-aims-to-strengthen-border-security-training-2026-03-21",
+      "summary": "MoU: Agreement to promote national security training; aims to strengthen border security training - RRU-SSB MoU: राष्ट्रीय सुरक्षा प्रशिक्षण को बढ़ावा देने के लिए RRU-SSB के बीच समझौता; क्या है इसका उद्देश्य?",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:29:33 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "9104a163175c88e7d69f480d392f6582",
       "title": "Mau Accident: पूर्वांचल एक्सप्रेसवे पर पोल तोड़ते हुए खाई में पलटी कार, एयर बैग खुलने से बची दो युवकों की जान",
       "link": "https://www.amarujala.com/uttar-pradesh/mau/car-overturns-into-ditch-on-purvanchal-expressway-after-smashing-through-pole-2026-03-21",
@@ -50128,6 +50362,19 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
+    },
+    {
+      "id": "62aea11e01aa157add0ac65c33018ba4",
+      "title": "India-Canada Ties: 'ट्रूडो को मिली गलत-सियासत प्रेरित सलाह', पूर्व राजदूत ने RCMP आयुक्त के बयान पर खुशी जताई",
+      "link": "https://www.amarujala.com/india-news/india-canada-ties-ex-envoy-sanjay-kr-verma-on-rcmp-comm-duheme-statement-trudeau-ill-advised-hindi-news-update-2026-03-21",
+      "summary": "India-Canada Ties: 'ट्रूडो को मिली गलत-सियासत प्रेरित सलाह', पूर्व राजदूत ने RCMP आयुक्त के बयान पर खुशी जताई",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:26:46 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "eebb54b530c68fc06f2dec80eea2e527",
@@ -50182,6 +50429,45 @@
       "lang": "en"
     },
     {
+      "id": "faf887ca27826b15caa98f18848f59e0",
+      "title": "गो रक्षा के नाम पर वोट की राजनीति कर रही है प्रदेश सरकार, VIDEO",
+      "link": "https://www.amarujala.com/video-shots/short-videos/video-state-government-is-engaging-in-vote-bank-politics-in-name-of-cow-protection-2026-03-21",
+      "summary": "गो रक्षा के नाम पर वोट की राजनीति कर रही है प्रदेश सरकार, VIDEO",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:21:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "3a763a23d13a15972fc5174e84018904",
+      "title": "नमो घाट पर नाविकों की मनबढ़ई, बजड़ा लगाने से मना करने पर मैनेजर को बेरहमी से पीटा; VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-boatmen-high-handedness-at-namo-ghat-manager-brutally-beaten-for-refusing-permission-to-dock-barge-2026-03-21",
+      "summary": "नमो घाट पर नाविकों की मनबढ़ई, बजड़ा लगाने से मना करने पर मैनेजर को बेरहमी से पीटा; VIDEO",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:21:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "11466f511f24a9b2e6c11da75053788c",
+      "title": "Supreme Court: जेलों में भीड़भाड़ पर सुप्रीम कोर्ट सख्त, सभी राज्यों-केंद्र शासित प्रदेशों से मांगा ताजा डाटा",
+      "link": "https://www.amarujala.com/india-news/supreme-court-strict-on-overcrowding-in-prisons-sought-fresh-data-from-all-states-and-union-territories-2026-03-21",
+      "summary": "Supreme Court: जेलों में भीड़भाड़ पर सुप्रीम कोर्ट सख्त, सभी राज्यों-केंद्र शासित प्रदेशों से मांगा ताजा डाटा",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:20:49 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "baea54c7f2de87ac945b47dfce5d962d",
       "title": "मौत को मात: आंध्र प्रदेश में धूं-धूं कर जली बस, बाल-बाल बचे विधायक और 36 यात्री",
       "link": "https://www.amarujala.com/india-news/odisha-mla-mangu-khila-narrow-escape-bus-fire-andhra-pradesh-2026-03-21",
@@ -50218,6 +50504,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "79d416eaed41faa9789e5c25ff4f6e3b",
+      "title": "Noida News: 2028 तक बॉटनिकल गार्डन के खुलने की संभावना",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/botanical-garden-likely-to-open-by-2028-noida-news-c-1-noi1095-4074997-2026-03-21",
+      "summary": "2028 तक बॉटनिकल गार्डन के खुलने की संभावना",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:16:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -50258,6 +50557,32 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
+    },
+    {
+      "id": "402ba71d48ae338d3a808599ccde0f35",
+      "title": "Noida News: सरकार थामे उद्यमियों के हाथ, महंगाई पर करे काबू",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/government-should-hold-the-hands-of-entrepreneurs-and-control-inflation-noida-news-c-1-noi1095-4076417-2026-03-21",
+      "summary": "Government should hold the hands of entrepreneurs and control inflation",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:07:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "f34a824ade138e2c3b99b1d5c2f89ff3",
+      "title": "Civil Aviation: सरकार ने घरेलू हवाई किराये पर लगी सीमा हटाई, इंडिगो संकट के कारण दिसंबर 2025 में हुआ था फैसला",
+      "link": "https://www.amarujala.com/india-news/india-withdraws-temporary-domestic-airfare-caps-from-march-23-civil-aviation-ministry-dgca-2026-03-21",
+      "summary": "Civil Aviation: सरकार ने घरेलू हवाई किराये पर लगी सीमा हटाई, इंडिगो संकट के कारण दिसंबर 2025 में हुआ था फैसला India withdraws temporary domestic airfare caps from March 23 Civil Aviation Ministry dgca",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 11:06:37 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "6f14a985b898f3f2e702159e377d9452",
@@ -50310,6 +50635,19 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
+    },
+    {
+      "id": "eacdcdbd1d1be73d0480446d707ef74d",
+      "title": "पश्चिम एशिया संकट: होर्मुज बंद होन से कतर बंदरगाह पर फंसा ओडिशा का नाविक, पत्नी ने लगाई मदद की गुहार",
+      "link": "https://www.amarujala.com/india-news/west-asia-crisis-odisha-sailor-stranded-at-qatar-port-due-to-strait-of-hormuz-closure-wife-pleads-for-help-2026-03-21",
+      "summary": "पश्चिम एशिया संकट: होर्मुज बंद होन से कतर बंदरगाह पर फंसा ओडिशा का नाविक, पत्नी ने लगाई मदद की गुहार",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 10:55:25 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "74c9e1dff47f3e2f22024e56b3e9a446",
@@ -50582,19 +50920,6 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "01ba7e46746897f7392c498b3ffce287",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 21 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-21",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 10:30:27 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -89533,6 +89858,58 @@
       "lang": "en"
     },
     {
+      "id": "0b0a720670fb7e228aab4e6e98493617",
+      "title": "BJP announces nine candidates for Puducherry polls",
+      "link": "https://timesofindia.indiatimes.com/india/bjp-announces-nine-candidates-for-puducherry-polls/articleshow/129723446.cms",
+      "summary": "The Bharatiya Janata Party (BJP) has announced nine candidates for the Puducherry Legislative Assembly elections, contesting in alliance with the All India NR Congress. The Election Commission of India has also completed the first randomisation of EVMs and VVPATs for the upcoming polls in Puducherry, Assam, and Kerala, as well as for bye-elections in other states.",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T23:25:37+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ac2970088144e956277b8f43783ef0ae",
+      "title": "UK says Cyprus bases won't be used for Iran attacks",
+      "link": "https://timesofindia.indiatimes.com/world/uk/security-of-cyprus-fundamental-to-uk-keir-starmer-says-cyprus-bases-wont-be-used-for-iran-attacks/articleshow/129722986.cms",
+      "summary": "Britain has assured Cyprus its military bases won't be used for offensive action in the Iran conflict, despite bolstering island defenses after a drone incident. Prime Minister Starmer conveyed this commitment, emphasizing Cyprus's security. This comes as the UK allows limited US defensive use of other bases, drawing warnings from Iran.",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T23:06:06+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "772e12f5fd6d35605ca0a313870e21c4",
+      "title": "Power distribution companies in Delhi, Noida emerge top performers in government survey",
+      "link": "https://timesofindia.indiatimes.com/india/power-distribution-companies-in-delhi-noida-emerge-top-performers-in-govt-survey/articleshow/129722665.cms",
+      "summary": "Mumbai, Delhi, and Noida power companies lead in performance for 2024-25. Adani Electricity Mumbai, TPDDL, and NPCL secured top positions. Delhi's discoms also excelled in consumer service. These rankings highlight operational efficiency and customer satisfaction. The surveys aim to drive improvements across the power sector.",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T22:50:11+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "786ba893bda1ef1c5d009b0b73a3086a",
+      "title": "Meet Anant Yardi: Indian-origin billionaire alumnus donates $8 million to IIT Delhi",
+      "link": "https://timesofindia.indiatimes.com/world/us/meet-anant-yardi-indian-origin-billionaire-alumnus-donates-8-million-to-iit-delhi/articleshow/129722358.cms",
+      "summary": "Indian-origin entrepreneur Anant Yardi has pledged an additional $8 million to IIT Delhi, bringing his total donation to approximately $16 million. This significant contribution will bolster artificial intelligence research at the Yardi School of Artificial Intelligence and support the institute's campus infrastructure development, enhancing its academic and research ecosystem.",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T22:41:30+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "46df3ecbda97212241f4e9422d0ba625",
       "title": "Malayali county judge KP George convicted of money laundering in US, spent campaign fund on his home",
       "link": "https://timesofindia.indiatimes.com/world/us/malayali-county-judge-kp-george-convicted-of-money-laundering-in-us-spent-campaign-money-on-his-home/articleshow/129722172.cms",
@@ -89672,6 +90049,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "58abe61caae85723ac21e5870e4fad8e",
+      "title": "Cartoon character Dooly comes to life? South Korea finds rare ‘baby’ dinosaur from 100 million years ago",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/cartoon-character-dooly-comes-to-life-south-korea-finds-rare-baby-dinosaur-from-100-million-years-ago/articleshow/129718148.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T18:30:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
