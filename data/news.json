@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-21T18:29:02.245851+00:00",
+  "generated_at": "2026-03-21T19:20:14.691599+00:00",
   "stories": [
     {
       "id": "a90a4b7d2eb4303857423d8bfe541f3a",
@@ -31904,19 +31904,6 @@
       "lang": "en"
     },
     {
-      "id": "364d8f992318aacb316c5c67415bf1e5",
-      "title": "Iranian missile causes “extensive damage” at Qatar’s Ras Laffan",
-      "link": "https://www.thehindu.com/news/international/qatarenergy-reports-extensive-damage-after-missile-attacks-on-ras-laffan-industrial-city/article70759501.ece",
-      "summary": "Qatar condemned in a statement the attack saying that it represents a “direct ​threat” to its ‌national security",
-      "date": "2026-03-19",
-      "timestamp": "Thu, 19 Mar 2026 06:01:44 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e1e5e10f561f084770edc295ee38b069",
       "title": "लखनऊ: टीले वाली मस्जिद पर टेंट बंधा, कुछ देर में चांद देखा जाएगा...फिर पता चलेगा ईद कब?",
       "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-tal-val-masajatha-para-tata-bthha-kachha-thara-ma-catha-thakha-jaegafara-pata-calga-iitha-kab-2026-03-19",
@@ -36034,6 +36021,240 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "48bd2b6436998f8d5c75d79012bcc081",
+      "title": "Assembly Polls 2026: बंगाल में चुनावी सरगर्मियों के बीच भिड़े BJP-TMC समर्थक; पुडुचेरी में AIADMK को दो सीटें",
+      "link": "https://www.amarujala.com/india-news/assembly-elections-updates-west-bengal-assam-tamil-nadu-kerala-puducherry-candidate-lists-rally-manifesto-news-2026-03-22",
+      "summary": "Assembly Polls 2026: बंगाल में चुनावी सरगर्मियों के बीच भिड़े BJP-TMC समर्थक; पुडुचेरी में AIADMK को दो सीटें Assembly Elections Updates West Bengal Assam Tamil Nadu Kerala Puducherry Candidate lists Rally manifesto news",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 12:47:04 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "91ef35f9cff7f7e50dd32221ddae2990",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 22 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-22",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 12:30:23 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "17062fcc460d30a12973209572a13df6",
+      "title": "यूपी बोर्ड: विज्ञान, गणित और कंप्यूटर के शिक्षकों की कमी, प्रभावित हो रहा मूल्यांकन; 3 दिन में 2342 अनुपस्थित",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/up-board-shortage-of-science-mathematics-computer-teachers-evaluation-process-affected-2026-03-22",
+      "summary": "यूपी बोर्ड कॉपियों का मूल्यांकन बीते 18 मार्च से शुरू है। हाईस्कूल और इंटरमीडिएट की कुल 6 लाख 21 हजार 668 कॉपियां चार केंद्रों पर जांची जानी हैं। इन कॉपियों को जांचने के लिए 2874 शिक्षकों की ड्यूटी लगाई गई है।",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 12:24:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "157c6d833f5075af1cba6a8384913663",
+      "title": "बिस्मिल्लाह खां: अजय राय बोले- गंगा-जमुनी तहजीब के प्रतीक थे उस्ताद, मकबरे पर अकीदत; नम हुईं आंखें",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/bismillah-khan-ajay-rai-says-ustad-symbol-of-ganga-jamuni-tehzeeb-tributes-paid-at-his-tomb-2026-03-22",
+      "summary": "सिगरा स्थित फरमान दरगाह पर शनिवार को भारतरत्न शहनाई वादक उस्ताद बिस्मिल्लाह खां की 110वीं जयंती मनाई गई। कांग्रेस के प्रदेश अध्यक्ष अजय राय ने उनकी मजार पर फूल चढ़ाकर उन्हें नमन किया।",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 12:17:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "00063b74534b710029858ddcd4ca1b6d",
+      "title": "बच्चों ने हिंद के सरदार नामक कठपुतली नाटक प्रस्तुत किया, VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-children-presented-puppet-show-titled-hind-ke-sardar-2026-03-22",
+      "summary": "बच्चों ने हिंद के सरदार नामक कठपुतली नाटक प्रस्तुत किया, VIDEO",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 12:17:10 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "7ecc67d6fd21d1602aefcf0109a649ea",
+      "title": "उस्ताद बिस्मिल्लाह खां के मकबरे पर अकीदत पेश की, VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-homage-paid-at-ustad-bismillah-khans-tomb-in-varanasi-2026-03-22",
+      "summary": "उस्ताद बिस्मिल्लाह खां के मकबरे पर अकीदत पेश की, VIDEO",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 12:07:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "a93cb815512702637bc0c58706167c5a",
+      "title": "Parties must avoid excessive freebies, focus on development, says ex-Minister Semmalai",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/parties-must-avoid-excessive-freebies-focus-on-development-says-ex-minister-semmalai/article70769698.ece",
+      "summary": "Contending that these handouts being announced as part of electoral promises by major parties will not facilitate T.N.’s development, he criticises the DMK government for not increasing the capital expenditure substantially over the last 5 years and ‘frittering away’ funds for distributing freebies",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:43:07 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c967a2506460d08e38136bbfe998434d",
+      "title": "No blanket exemption for women teachers above 50 from SIR and census: Revenue Department",
+      "link": "https://www.thehindu.com/news/national/karnataka/no-blanket-exemption-for-women-teachers-above-50-from-sir-and-census-teachers-disgruntled/article70769093.ece",
+      "summary": "A senior woman teacher at a government school in Bengaluru says that teachers will meet School Education and Literacy Minister Madhu Bangarappa and seek a blanket exemption again.",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:40:24 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "56d09a163abb5b2351f1e486f65a7ead",
+      "title": "For second time, Pottalurani residents to boycott polls over fish waste processing units",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/for-second-time-pottalurani-residents-to-boycott-polls-over-fish-waste-processing-units/article70769594.ece",
+      "summary": "The residents have been demanding the closure of fish waste processing units near the village since 2019, and have submitted multiple petitions in this regard. However, the protest intensified in early 2024 ahead of the Lok Sabha election",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:33:05 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ae5bb03c96d27f953a2fbc5d26cceced",
+      "title": "Union Minister Kiren Rijiju interacts with Bishops and pastors",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/union-minister-kiren-rijiju-interacts-with-bishops-and-pastors/article70769968.ece",
+      "summary": "",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:33:02 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e5cff66120afc2f07117e160cb41336a",
+      "title": "Social Welfare Department found dead",
+      "link": "https://www.thehindu.com/news/cities/bangalore/social-welfare-department-officer-dies-at-his-office-in-tumakuru-alleges-harassment-by-senior-in-a-video/article70769730.ece",
+      "summary": "",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:32:33 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "71208b36d28af1b534dc3b51d1b2b73d",
+      "title": "Will Vadakara witness consolidation of anti-CPI(M) votes again?",
+      "link": "https://www.thehindu.com/news/national/kerala/will-vadakara-witness-consolidation-of-anti-cpim-votes-again/article70769714.ece",
+      "summary": "",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:28:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6c67cf1c66f8d29d51f7375be2835694",
+      "title": "UP Crime: अवैध रिश्ते में रोड़ा बनी सास की हत्या, बहू ने प्रेमी संग मिलकर तोड़ा हर रिश्ता और भरोसा",
+      "link": "https://www.patrika.com/lucknow-news/daughter-in-law-kills-mother-in-law-with-lover-in-lucknow-shocking-crime-exposes-illicit-affair-20442975",
+      "summary": "UP Crime News: राजधानी लखनऊ के निशातगंज इलाके में एक दिल दहला देने वाली वारदात ने पूरे शहर को हिला कर रख दिया है। यहां अवैध संबंधों में बाधा बन रही सास की बहू ने अपने प्रेमी के साथ मिलकर गला दबाकर हत्या कर दी। घटना के बाद घर के अंदर से जो सच्चाई सामने आई, उसने रिश्तों को शर्मसार कर दिया। मृतका की पहचान 69 वर्षीय निर्मला देवी के रूप में हुई है, जो सचिवालय से सेवानिवृत्त थीं। उनका शव घर के एक कमरे में हाथ-पैर बंधे हुए हालत में मिला। घटना के समय वह घर पर अकेली थीं।",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:27:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "651fd322a09d43ec4f60a647a4d61851",
+      "title": "‘Cash, goods worth ₹75 cr. seized in T.N.’",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/cash-goods-worth-75-cr-seized-in-tn/article70769434.ece",
+      "summary": "",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:23:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fe7541b8029509e0f4c3b39977df6cf4",
+      "title": "Centre removes caps on airfares after three months",
+      "link": "https://www.thehindu.com/news/national/centre-removes-caps-on-airfares-after-three-months/article70770279.ece",
+      "summary": "The removal of the caps, introduced when widespread cancellation of IndiGo flights triggered a spike in fares, comes at a time when West Asia conflict has led to increase in aviation turbine fuel (ATF)",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:19:32 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "79abf3b5ec1e4749f300417664771e5c",
+      "title": "RDG discontinuation fallout: Himachal presents ‘reduced’ budget",
+      "link": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-sukhu-presents-54928-crore-budget-for-2026-27/article70768571.ece",
+      "summary": "The Chief Minister started his budget presentation by accusing the BJP for not supporting the State’s interests; Milk procurement price hiked by ₹10",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:15:31 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d2bd8782636340a6650c64b801fc541b",
+      "title": "Lucknow Crime: लखनऊ के निशातगंज में रिटायर्ड महिला की हत्या, सीसीटीवी बंद मिलने से बढ़ा शक",
+      "link": "https://www.patrika.com/lucknow-news/retired-woman-found-murdered-in-lucknow-home-cctv-clues-under-investigation-20442965",
+      "summary": "Lucknow Murder Case: राजधानी लखनऊ के निशातगंज इलाके में शनिवार को एक दिल दहला देने वाली घटना सामने आई, जहां सचिवालय से सेवानिवृत्त एक बुजुर्ग महिला की निर्मम हत्या कर दी गई। महिला का शव उनके ही घर के एक कमरे में संदिग्ध परिस्थितियों में मिला, जिससे पूरे इलाके में सनसनी फैल गई। मृतका की पहचान 69 वर्षीय निर्मला देवी के रूप में हुई है, जो अपने बेटे, बहू और पोती के साथ रहती थीं। घटना के समय वह घर में अकेली थीं। उनके पति का दो वर्ष पूर्व निधन हो चुका था।",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:06:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "062a182ef652bb726a100751289a85d0",
+      "title": "Robert Mueller, special counsel who probed but did not charge Trump, dies at 81",
+      "link": "https://www.thehindu.com/news/international/robert-mueller-special-counsel-who-probed-but-did-not-charge-trump-dies-at-81/article70770315.ece",
+      "summary": "Trump celebrated Mueller's passing. \"Good, I'm glad he's dead,\" he wrote on the Truth Social site. \"He can no longer hurt ‌innocent people!\"",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 00:03:36 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -46165,16 +46386,16 @@
       "lang": "en"
     },
     {
-      "id": "fe7541b8029509e0f4c3b39977df6cf4",
-      "title": "Centre removes caps on airfares after three months",
-      "link": "https://www.thehindu.com/news/national/centre-removes-caps-on-airfares-after-three-months/article70770279.ece",
-      "summary": "The removal of the caps, introduced when widespread cancellation of IndiGo flights triggered a spike in fares, comes at a time when West Asia conflict has lead to increase in aviation turbine fuel (ATF)",
+      "id": "b65c6d15da325e85d9ce3a03613c0af8",
+      "title": "Women Jobs: यूपी रोडवेज में महिलाओं के लिए 2584 नौकरियां, रोजगार मेले से होगी सीधी भर्ती",
+      "link": "https://www.patrika.com/lucknow-news/up-govt-announces-2584-jobs-for-women-conductors-in-roadways-recruitment-via-job-fairs-20442943",
+      "summary": "Women Govt Announces 2584 Jobs: उत्तर प्रदेश में महिलाओं के लिए रोजगार के नए अवसर खोलते हुए राज्य सरकार ने परिवहन विभाग में बड़ी भर्ती का ऐलान किया है। Uttar Pradesh State Road Transport Corporation में 2584 महिला अभ्यर्थियों को सीधे संविदा परिचालक (कंडक्टर) के पद पर नियुक्त किया जाएगा। इस पहल को महिला सशक्तिकरण और आत्मनिर्भरता की दिशा में एक महत्वपूर्ण कदम माना जा रहा है। परिवहन राज्यमंत्री (स्वतंत्र प्रभार) Dayashankar Singh ने इस भर्ती प्रक्रिया की विस्तृत जानकारी देते हुए बताया कि योग्य महिला अभ्यर्थियों को मेरिट के आधार पर चयनित कर सीधे संविदा पर नियुक्त किया जाएगा।",
       "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 23:43:03 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
+      "timestamp": "Sat, 21 Mar 2026 23:50:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -46204,6 +46425,19 @@
       "lang": "en"
     },
     {
+      "id": "ab818d985f57ba6417cd21ddf31b30a4",
+      "title": "Iran-Israel war LIVE: In call with PM Modi, Iran's President calls on BRICS to play 'independent role in halting aggressions'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-hezbollah-oil-supply-march-21-2026/article70768245.ece",
+      "summary": "Over 20 countries say they want to contribute to efforts for safe passage in strait; U.S. military says Tehran's threat to Strait of Hormuz 'degraded'",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:25:25 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1d77a1c82b4d56f0197cf57787c4c503",
       "title": "Religious fervour and prayers for harmony mark Eid-Ul-Fitr",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/religious-fervour-and-prayers-for-harmony-mark-eid-ul-fitr/article70769031.ece",
@@ -46225,6 +46459,32 @@
       "timestamp": "Sat, 21 Mar 2026 23:23:02 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ca70ded30d9207821398f56001e3e5d",
+      "title": "UP Weather Change: लखनऊ में बढ़ेगा तापमान, एक हफ्ते में 10 डिग्री तक गर्मी बढ़ने के आसार",
+      "link": "https://www.patrika.com/lucknow-news/temperature-set-to-rise-by-10c-in-up-as-weather-clears-after-western-disturbance-20442926",
+      "summary": "UP Temperature Rise: उत्तर प्रदेश में मौसम एक बार फिर करवट लेने जा रहा है। हाल के दिनों में पश्चिमी विक्षोभ के प्रभाव से जहां प्रदेश के कई हिस्सों में बादल, हल्की बारिश और तापमान में गिरावट देखने को मिली, वहीं अब मौसम साफ होने के साथ तापमान में तेजी से बढ़ोतरी की संभावना जताई जा रही है। मौसम विभाग के अनुसार, राजधानी लखनऊ समेत पूरे प्रदेश में आगामी एक सप्ताह के दौरान अधिकतम तापमान में 7 से 10 डिग्री सेल्सियस तक की उल्लेखनीय वृद्धि हो सकती है।",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:22:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "364d8f992318aacb316c5c67415bf1e5",
+      "title": "Iranian missile causes ‘extensive damage’ at Qatar’s Ras Laffan",
+      "link": "https://www.thehindu.com/news/international/qatarenergy-reports-extensive-damage-after-missile-attacks-on-ras-laffan-industrial-city/article70759501.ece",
+      "summary": "Qatar condemned in a statement the attack saying that it represents a “direct ​threat” to its ‌national security",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:21:48 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -46295,6 +46555,19 @@
       "lang": "en"
     },
     {
+      "id": "15eb8c4fe4aa5a7c6ce29961d963e5ee",
+      "title": "UP Politics: ईद पर अखिलेश का हमला, कानून व्यवस्था पर सवाल और 2027 चुनाव को लेकर बड़ा दावा",
+      "link": "https://www.patrika.com/lucknow-news/akhilesh-yadav-targets-bjp-on-law-order-makes-big-claim-for-2027-elections-20442904",
+      "summary": "UP Politics BJP vs SP: राजधानी लखनऊ में ईद के मौके पर समाजवादी पार्टी के राष्ट्रीय अध्यक्ष Akhilesh Yadav ने जहां एक ओर लोगों को त्योहार की शुभकामनाएं दीं, वहीं दूसरी ओर प्रदेश और देश की राजनीति को लेकर कई बड़े बयान दिए। उन्होंने होली और ईद के जरिए सामाजिक एकता और भाईचारे का संदेश दिया, लेकिन साथ ही कानून व्यवस्था, राजनीतिक हालात और आगामी चुनावों को लेकर भारतीय जनता पार्टी पर जमकर निशाना साधा।",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 23:02:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "fe7c2d59e2443163eba80f994942ba67",
       "title": "यूपी में ईद पर डबल मर्डर: प्रधान के दो भाइयों की तलवार से काटकर हत्या, एक घंटे तक चला खूनी संघर्ष",
       "link": "https://www.livehindustan.com/uttar-pradesh/double-murder-in-meerut-on-eid-two-brothers-gram-pradhan-hacked-to-death-with-swords-bloody-clash-lasted-for-an-hour-201774113925585.html",
@@ -46316,6 +46589,19 @@
       "timestamp": "Sat, 21 Mar 2026 23:01:54 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c93aeba8d151ea25bd1e2c68845f8760",
+      "title": "Trump eases oil sanctions on Iran, says Hormuz should be guarded by other nations",
+      "link": "https://www.thehindu.com/news/international/trump-says-considering-winding-down-iran-war-but-rules-out-ceasefire/article70767398.ece",
+      "summary": "U.S. lifts sanctions on Iranian oil already loaded onto ships to increase the supply of oil and ease rocketing prices; Mr. Trump says U.S. is very close to meeting its objectives as Iran continues attacks on U.S. bases in the Gulf",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 22:55:07 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -46425,6 +46711,19 @@
       "lang": "en"
     },
     {
+      "id": "b7fba446d5c094e677ce6ee142730122",
+      "title": "Blockade on Cuba: Asphyxiating an island nation",
+      "link": "https://www.thehindu.com/news/international/trumps-cuba-actions-from-blockade-to-asphyxiation/article70769323.ece",
+      "summary": "Cuba’s dependence on oil is structural: it accounts for 83% of total power generation, while oil products make up 56% of total energy consumption by industry, transport, agriculture, and households",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 22:37:43 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "63a3cac4408c01b713681079e81419d9",
       "title": "Farmers’ body to enter local polls, plans protest against India-U.S. pact",
       "link": "https://www.thehindu.com/news/national/karnataka/farmers-body-to-enter-local-polls-plans-protest-against-india-us-pact/article70769808.ece",
@@ -46472,6 +46771,19 @@
       "timestamp": "Sat, 21 Mar 2026 22:33:06 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "aaf986452ccf7afc92ce58f232b6763b",
+      "title": "In call with PM Modi, Iran President proposes West Asia security framework; seeks India’s role as BRICS chair to halt hostilities",
+      "link": "https://www.thehindu.com/news/international/irans-president-says-immediate-cessation-of-us-israeli-aggression-needed-to-end-war-calls-on-brics-to-play-independent-role/article70770079.ece",
+      "summary": "Separately, Jaishankar spoke to his Iranian counterpart and discussed the conflict in West Asia and its implications for the larger region",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 22:32:29 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -46529,6 +46841,19 @@
       "lang": "en"
     },
     {
+      "id": "4cf2631b7107436f67124f4f6b56ab08",
+      "title": "Iran fired missiles at joint U.S.-U.K. base in Indian Ocean: report",
+      "link": "https://www.thehindu.com/news/international/iran-fired-missiles-at-joint-us-uk-base-in-indian-ocean-report/article70768326.ece",
+      "summary": "Neither missile hit the target, which is around 2,500 miles (4,000 kilometers) from Iranian territory, but the launch suggests that Tehran has missiles with longer ranges than previously thought",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 22:18:36 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8d69686f4c7888511c62db10efed9b35",
       "title": "Feminists, lawyers urge MPs to reject ‘unconstitutional’ amendments to transgender Act",
       "link": "https://www.thehindu.com/news/national/feminists-lawyers-urge-mps-to-reject-unconstitutional-amendmentsto-transgender-act/article70769737.ece",
@@ -46561,19 +46886,6 @@
       "summary": "Bangladesh — which imports 95% of its oil and gas needs — has not raised electricity and fuel prices despite the global surge",
       "date": "2026-03-21",
       "timestamp": "Sat, 21 Mar 2026 22:13:06 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "aaf986452ccf7afc92ce58f232b6763b",
-      "title": "In call with Modi, Iran President proposes West Asia security framework; seeks India’s role as BRICS chair to halt hostilities",
-      "link": "https://www.thehindu.com/news/international/irans-president-says-immediate-cessation-of-us-israeli-aggression-needed-to-end-war-calls-on-brics-to-play-independent-role/article70770079.ece",
-      "summary": "In call with PM Narendra Modi, Masoud Pezeshkian also proposed West Asia security framework",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 22:12:31 +0530",
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
@@ -46734,19 +47046,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "ab818d985f57ba6417cd21ddf31b30a4",
-      "title": "Iran-Israel war LIVE: In call with PM Modi, Iran's President calls on BRICS to play 'independent role in halting aggressions'",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-hezbollah-oil-supply-march-21-2026/article70768245.ece",
-      "summary": "Over 20 countries say they want to contribute to efforts for safe passage in strait; U.S. military says Tehran's threat to Strait of Hormuz 'degraded'",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 21:33:40 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -46984,6 +47283,19 @@
       "lang": "en"
     },
     {
+      "id": "50156d022213e7b73363685a327f65b9",
+      "title": "UP सरकार की बड़ी पहल, श्रमिकों की बेटियों के विवाह पर 85 हजार रुपये की मदद",
+      "link": "https://www.patrika.com/lucknow-news/up-governments-big-initiative-rs-85000-assistance-for-marriage-of-labourers-daughters-20442666",
+      "summary": "UP Govt Kanya Vivah Yojana: उत्तर प्रदेश सरकार श्रमिक वर्ग के सामाजिक और आर्थिक सशक्तिकरण के लिए लगातार नई योजनाएं लागू कर रही है। इसी क्रम में अब प्रदेश की Yogi Adityanath सरकार ने श्रमिकों की बेटियों के विवाह के लिए बड़ी राहत देने वाली पहल की है। सरकार द्वारा ‘कन्या विवाह सहायता योजना’ के तहत पंजीकृत श्रमिकों की बेटियों को विवाह के लिए 85 हजार रुपये की आर्थिक सहायता प्रदान की जाएगी।",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 20:50:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "17e5a44af3b3d6a09774cf4e25869eaa",
       "title": "यूपी में बड़ी शपथ होने जा रही, 27 को लेकर अखिलेश का दावा; PDA दांव पर फिर जताया भरोसा",
       "link": "https://www.livehindustan.com/uttar-pradesh/major-swearing-in-ceremony-set-to-take-place-2027-what-sp-planning-regarding-elections-has-akhilesh-yadav-dropped-hint-201774105701855.html",
@@ -47140,19 +47452,6 @@
       "lang": "en"
     },
     {
-      "id": "71208b36d28af1b534dc3b51d1b2b73d",
-      "title": "Will Vadakara witness consolidation of anti-CPI(M) votes again?",
-      "link": "https://www.thehindu.com/news/national/kerala/will-vadakara-witness-consolidation-of-anti-cpim-votes-again/article70769714.ece",
-      "summary": "",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 20:33:04 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "1878ad4bb19cffece905c733f63a7690",
       "title": "Telugu scholar Garikapati’s remarks on mid-day meal scheme draws flak",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/telugu-scholar-garikapatis-remarks-on-mid-day-meal-scheme-draws-flak/article70769479.ece",
@@ -47211,19 +47510,6 @@
       "summary": "Film and television personality Ramesh Pisharody is the UDF candidate, contesting against BJP State general secretary Sobha Surendran and LDF-backed Independent N.M.R. Razak",
       "date": "2026-03-21",
       "timestamp": "Sat, 21 Mar 2026 20:23:14 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "e5cff66120afc2f07117e160cb41336a",
-      "title": "Social Welfare Department officer dies at his office in Tumakuru, alleges harassment by senior in a video",
-      "link": "https://www.thehindu.com/news/cities/bangalore/social-welfare-department-officer-dies-at-his-office-in-tumakuru-alleges-harassment-by-senior-in-a-video/article70769730.ece",
-      "summary": "",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 20:23:01 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -47462,6 +47748,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "baacf539d4762355a87e24eff96ba384",
+      "title": "Aishbagh Eidgah: ऐशबाग ईदगाह में ईद की नमाज, अखिलेश यादव, दिनेश शर्मा समेत कई नेता पहुंचे मौके पर",
+      "link": "https://www.patrika.com/lucknow-news/top-leaders-attend-eid-prayers-at-lucknow-eidgah-spread-message-of-unity-20442566",
+      "summary": "Aishbagh Eidgah Update: राजधानी लखनऊ के ऐशबाग ईदगाह में ईद का पर्व पूरे धार्मिक उल्लास और सौहार्द के साथ मनाया गया। सुबह से ही बड़ी संख्या में नमाजी ईद की नमाज अदा करने के लिए ईदगाह पहुंचे। पारंपरिक परिधान में सजे लोग एक-दूसरे को गले लगाकर ईद की मुबारकबाद देते नजर आए, जिससे पूरे माहौल में भाईचारे और एकता की झलक देखने को मिली।",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 20:01:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -47920,19 +48219,6 @@
       "lang": "en"
     },
     {
-      "id": "c967a2506460d08e38136bbfe998434d",
-      "title": "No blanket exemption for women teachers above 50 from SIR and census; teachers disgruntled",
-      "link": "https://www.thehindu.com/news/national/karnataka/no-blanket-exemption-for-women-teachers-above-50-from-sir-and-census-teachers-disgruntled/article70769093.ece",
-      "summary": "A senior woman teacher at a government school in Bengaluru says that teachers will meet Department of School Education and Literacy Minister Madhu Bangarappa and seek a blanket exemption again.",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 19:03:06 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "2558e9c405d6ba37af26844491efebc2",
       "title": "Id-ul-Fitr celebrated across Yadgir and Raichur with religious fervour",
       "link": "https://www.thehindu.com/news/national/karnataka/id-ul-fitr-celebrated-across-yadgir-and-raichur-with-religious-fervour/article70769403.ece",
@@ -48167,19 +48453,6 @@
       "lang": "en"
     },
     {
-      "id": "b7fba446d5c094e677ce6ee142730122",
-      "title": "Trump’s Cuba actions: from blockade to asphyxiation",
-      "link": "https://www.thehindu.com/news/international/trumps-cuba-actions-from-blockade-to-asphyxiation/article70769323.ece",
-      "summary": "Cuba’s dependence on oil is structural: it accounts for 83% of total power generation, while oil products make up 56% of total energy consumption by industry, transport, agriculture, and households",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 18:34:21 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "1f037b9aef841892318a8c435c3ef213",
       "title": "Thousand Lights: a developed neighbourhood that struggles with parking chaos, traffic snarls",
       "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/thousand-lights-a-developed-neighbourhood-that-struggles-with-parking-chaos-traffic-snarls/article70768741.ece",
@@ -48401,6 +48674,19 @@
       "lang": "en"
     },
     {
+      "id": "a5aee3c7d7a0e50d973cc59cdc991594",
+      "title": "Eid without toys: Israeli restrictions drive up prices in Gaza",
+      "link": "https://www.aljazeera.com/features/2026/3/21/eid-without-toys-israeli-restrictions-drive-up-prices-in-gaza?traffic_source=rss",
+      "summary": "Amid war and supply restrictions, Gaza’s toy markets face shortages and high prices, leaving children without Eid gifts.",
+      "date": "2026-03-21",
+      "timestamp": "Sat, 21 Mar 2026 18:03:20 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4157cb60582d807670b17aa9e07e1f63",
       "title": "Congress reiterates its position of asking Modi govt. to condemn U.S-Israel aerial assault on Iran",
       "link": "https://www.thehindu.com/news/national/modi-govts-failure-to-condemn-attacks-on-iran-shows-moral-cowardice-of-civilisational-values-congress/article70768790.ece",
@@ -48534,7 +48820,7 @@
       "id": "60124a9c7e8d488ab275975455c7eded",
       "title": "Trump threatens to deploy ICE to airports amid Homeland Security shutdown",
       "link": "https://www.aljazeera.com/news/2026/3/21/trump-threatens-to-deploy-ice-to-airports-amid-homeland-security-shutdown?traffic_source=rss",
-      "summary": "The US president called on immigration agents to place 'heavy emphasis' on the arrests of Somali immigrants.",
+      "summary": "The US president called on immigration agents to place 'heavy emphasis' on the arrest of Somali immigrants.",
       "date": "2026-03-21",
       "timestamp": "Sat, 21 Mar 2026 16:57:54 +0000",
       "section": "International",
@@ -48591,19 +48877,6 @@
       "timestamp": "Sat, 21 Mar 2026 16:42:46 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "79abf3b5ec1e4749f300417664771e5c",
-      "title": "Himachal CM Sukhu presents ₹54,928 crore budget for FY27; blames scrapping of RDG for ₹8,000 crore loss",
-      "link": "https://www.thehindu.com/news/national/himachal-pradesh/himachal-cm-sukhu-presents-54928-crore-budget-for-2026-27/article70768571.ece",
-      "summary": "The Chief Minister started his budget presentation by accusing the BJP for not supporting the State’s interests; Milk procurement price hiked by ₹10",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 16:32:52 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -49169,7 +49442,7 @@
     },
     {
       "id": "b7e2bdc192d26fd23fc99fdc333a9630",
-      "title": "First photos as BTS make live return in front of huge crowd",
+      "title": "BTS make live return in front of huge crowd",
       "link": "https://www.bbc.com/news/articles/cge0dyjwezgo?at_medium=RSS&at_campaign=rss",
       "summary": "RM, Jin, Suga, J-Hope, Jimin, V and Jung Kook perform together for the first time since October 2022.",
       "date": "2026-03-21",
@@ -50169,19 +50442,6 @@
       "lang": "en"
     },
     {
-      "id": "c93aeba8d151ea25bd1e2c68845f8760",
-      "title": "Strait of Hormuz should be guarded by other nations, not U.S., says Trump",
-      "link": "https://www.thehindu.com/news/international/trump-says-considering-winding-down-iran-war-but-rules-out-ceasefire/article70767398.ece",
-      "summary": "Mr. Trump, in a post on Truth Social, said the United States was \"getting very close to meeting our objectives as we consider winding down our great Military efforts in the Middle East\"",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 11:43:25 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "a04196fe61efad831ccf2c3c65e838a0",
       "title": "Five of family from Thiruvananthapuram found dead in Kochi",
       "link": "https://www.thehindu.com/news/national/kerala/five-of-family-from-thiruvananthapuram-found-dead-in-kochi/article70768470.ece",
@@ -50232,19 +50492,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "4cf2631b7107436f67124f4f6b56ab08",
-      "title": "Iran fired missiles at joint U.S.-U.K. base in Indian Ocean: report",
-      "link": "https://www.thehindu.com/news/international/iran-fired-missiles-at-joint-us-uk-base-in-indian-ocean-report/article70768326.ece",
-      "summary": "Neither missile hit the target, which is around 2,500 miles (4,000 kilometers) from Iranian territory, but the launch suggests that Tehran has missiles with longer ranges than previously thought",
-      "date": "2026-03-21",
-      "timestamp": "Sat, 21 Mar 2026 11:37:21 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "bc23394211a079da371431a7d1148ef1",
@@ -50633,7 +50880,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Varanasi",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -89858,6 +90105,97 @@
       "lang": "en"
     },
     {
+      "id": "f92498968f8e6f8dea408d20bc673172",
+      "title": "100+ days, not a single H-1B slot: Indian-American community asks USCIS to stop using Indians as political tool",
+      "link": "https://timesofindia.indiatimes.com/world/us/100-days-not-a-single-h-1b-slot-indian-american-community-asks-uscis-to-stop-using-indians-as-political-tool/articleshow/129724449.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-22T00:32:52+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "84471f13edcb067d70d393c643f73571",
+      "title": "Ex-FBI director Robert Mueller, who led Trump-Russia probe as special counsel, dies at 81",
+      "link": "https://timesofindia.indiatimes.com/world/us/ex-fbi-director-robert-mueller-who-led-trump-russia-probe-as-special-counsel-dies-at-81/articleshow/129724051.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-22T00:17:30+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "73132b1a3be3648eed23306659bf2304",
+      "title": "Found unresponsive in Florida: 19-year-old Mexican teen youngest to die in ICE custody",
+      "link": "https://timesofindia.indiatimes.com/world/us/found-unresponsive-in-florida-19-year-old-mexican-teen-youngest-to-die-in-ice-custody/articleshow/129724141.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-22T00:12:04+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c828ea091b82e566c42cd21c9297327a",
+      "title": "Pierre Poilievre shuts down Trump's Canada 51st state joke on Joe Rogan show; says Alberta will never separate",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/pierre-poilievre-shuts-down-trumps-canada-51st-state-joke-on-joe-rogan-show-says-alberta-will-never-separate/articleshow/129723987.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-22T00:00:05+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8e3e520ca85c677bcf221416c56eefc3",
+      "title": "Chapter on Jinnah sparks row, Jammu University sets up probe committee",
+      "link": "https://timesofindia.indiatimes.com/india/chapter-on-jinnah-sparks-row-jammu-university-sets-up-probe-committee/articleshow/129723992.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T23:59:46+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5fb3fa0f2c0b587ebf095007b800628d",
+      "title": "Omar Abdullah slams mosque closure on Eid, questions ‘normalcy’ claim",
+      "link": "https://timesofindia.indiatimes.com/india/omar-abdullah-slams-mosque-closure-on-eid-questions-normalcy-claim/articleshow/129723608.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T23:53:24+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "da2d4eccd5e1323e112fd0efc8dc63e4",
+      "title": "'Glad he’s dead': Donald Trump on ex-FBI chief Robert Mueller's death",
+      "link": "https://timesofindia.indiatimes.com/world/us/glad-hes-dead-donald-trump-on-ex-fbi-chief-robert-muellers-death/articleshow/129723612.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T23:35:39+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0b0a720670fb7e228aab4e6e98493617",
       "title": "BJP announces nine candidates for Puducherry polls",
       "link": "https://timesofindia.indiatimes.com/india/bjp-announces-nine-candidates-for-puducherry-polls/articleshow/129723446.cms",
@@ -90248,6 +90586,19 @@
       "lang": "en"
     },
     {
+      "id": "0db53e23feafee5259024838ddac6eee",
+      "title": "Why is NASA watching the Sun 24/7 before the Artemis II launch? Astronauts face invisible danger",
+      "link": "https://timesofindia.indiatimes.com/science/why-is-nasa-watching-the-sun-24/7-before-the-artemis-ii-launch-astronauts-face-invisible-danger/articleshow/129716018.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T15:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "cf1ab7d9ea1222a9f58cd946992ba03c",
       "title": "Billion-stream ‘ghost artist’ exposed: North Carolina man pleads guilty in first-ever AI music fraud case, forfeits $8.1M",
       "link": "https://timesofindia.indiatimes.com/world/us/billion-stream-ghost-artist-exposed-north-carolina-man-pleads-guilty-in-first-ever-ai-music-fraud-case-forfeits-8-1m/articleshow/129715568.cms",
@@ -90287,6 +90638,19 @@
       "lang": "en"
     },
     {
+      "id": "1d7811c21457139d912e9b916963601c",
+      "title": "AI cyberattack warning: Experts fear a satellite apocalypse could hit Earth within 2 years",
+      "link": "https://timesofindia.indiatimes.com/science/ai-cyberattack-warning-experts-fear-a-satellite-apocalypse-could-hit-earth-within-2-years/articleshow/129713777.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T14:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "daa8b0d8d098a007061f1dad680383a9",
       "title": "‘Winnability a factor’: Shashi Tharoor on concern over less women in Kerala fray",
       "link": "https://timesofindia.indiatimes.com/india/winnability-a-factor-shashi-tharoor-on-concern-over-less-women-in-kerala-fray/articleshow/129713482.cms",
@@ -90296,6 +90660,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1425329686dd0c97edf56a4b3b79307c",
+      "title": "Marie Curie refused to patent radium and gave away a fortune: The shocking reason still stuns scientists today",
+      "link": "https://timesofindia.indiatimes.com/science/marie-curie-refused-to-patent-radium-and-gave-away-a-fortune-the-shocking-reason-still-stuns-scientists-today/articleshow/129714106.cms",
+      "summary": "",
+      "date": "2026-03-21",
+      "timestamp": "2026-03-21T11:40:11+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
