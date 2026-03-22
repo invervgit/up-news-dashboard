@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T22:20:33.806195+00:00",
+  "generated_at": "2026-03-22T23:22:38.322354+00:00",
   "stories": [
     {
       "id": "a90a4b7d2eb4303857423d8bfe541f3a",
@@ -36181,6 +36181,19 @@
       "lang": "en"
     },
     {
+      "id": "7841544c8c0e03d67a321c6db5e64788",
+      "title": "Trump says ICE agents will assist airport security as DHS shutdown continues",
+      "link": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 23:08:10 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b608c3cfe3bc7b9d991c445ee389d112",
       "title": "West Asia conflict: PM Modi reviews West Asia situation, underlines diversification imperatives",
       "link": "https://www.thehindu.com/news/national/pm-modi-ministerial-meeting-on-energy-supply-challenges-amid-west-asia-conflict/article70771872.ece",
@@ -36337,6 +36350,32 @@
       "lang": "en"
     },
     {
+      "id": "904134ec087e7d838a55b1c4e5e350a7",
+      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+      "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 22:38:24 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dfb897ae66632def9e3e3d6a55fc0f41",
+      "title": "Vinicius strikes twice as Real Madrid edge Atletico 3-2 in pulsating derby",
+      "link": "https://www.aljazeera.com/sports/2026/3/22/vinicius-strikes-twice-as-real-madrid-edge-atletico-3-2-in-pulsating-derby?traffic_source=rss",
+      "summary": "Real stay within four points of league leaders Barcelona with hard-fought win in Madrid derby.",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 22:37:57 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7026fc1c3c602e01e601f554c2b419fa",
       "title": "Trump and Iran step up threats over energy targets as war escalates",
       "link": "https://www.thehindu.com/news/international/iran-army-says-will-target-energy-desalination-infrastructure-after-us-threats/article70771400.ece",
@@ -36437,6 +36476,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ef6f52b0ee7dba79a82a7aa570db3ff3",
+      "title": "Who’s left running Iran?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/22/whos-left-running-iran?traffic_source=rss",
+      "summary": "Much of the top leadership has been eliminated, but the country is still fighting.",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 22:14:08 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -36649,19 +36701,6 @@
       "lang": "en"
     },
     {
-      "id": "904134ec087e7d838a55b1c4e5e350a7",
-      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-      "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
-      "date": "2026-03-22",
-      "timestamp": "Sun, 22 Mar 2026 21:52:28 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "0441cce16bc01829094f9f97b3afe679",
       "title": "Why is Israel targeting Lebanon's bridges?",
       "link": "https://www.bbc.com/news/videos/c2087lr223lo?at_medium=RSS&at_campaign=rss",
@@ -36811,8 +36850,8 @@
       "summary": "United States Ambassador to India Sergio Gor’s visit to Colombo and Maldives expected to strengthen U.S. regional role, all eyes on future trips to Pakistan-Afghanistan",
       "date": "2026-03-22",
       "timestamp": "Sun, 22 Mar 2026 21:22:39 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -38326,19 +38365,6 @@
       "lang": "en"
     },
     {
-      "id": "7841544c8c0e03d67a321c6db5e64788",
-      "title": "Trump says ICE agents will assist airport security as DHS shutdown continues",
-      "link": "https://www.bbc.com/news/articles/cede0qyvqz3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Travellers have faced hours-long waits at airports around the country as a partial government shutdown has left TSA agents without pay.",
-      "date": "2026-03-22",
-      "timestamp": "Sun, 22 Mar 2026 18:15:59 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "1b17aff988b28c9ef8cc803e7b5ce9d6",
       "title": "Tamil Nadu election 2026: Sarath Kumar flags lack of roles for him in BJP, voices concern over unfulfilled assurances",
       "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-election-2026-sarath-kumar-flags-lack-of-roles-for-him-in-bjp-voices-concern-over-unfulfilled-assurances/article70772179.ece",
@@ -38665,9 +38691,9 @@
     },
     {
       "id": "102c0f1b3baf3f7447b32ae9f7fe7431",
-      "title": "LIVE: Real Madrid vs Atletico Madrid – La Liga",
+      "title": "Real Madrid vs Atletico Madrid 3-2: La Liga – as it happened",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/3/22/live-real-madrid-vs-atletico-madrid-la-liga?traffic_source=rss",
-      "summary": "Follow the build-up, analysis and live text commentary of the Madrid derby as Real host Atletico at the Bernabeu.",
+      "summary": "All the updates as Real Madrid come from behind to beat Atletico and stay in touch with league leaders Barca.",
       "date": "2026-03-22",
       "timestamp": "Sun, 22 Mar 2026 17:00:00 +0000",
       "section": "International",
@@ -64313,6 +64339,58 @@
       "lang": "en"
     },
     {
+      "id": "d721ac6b202e230699cb1eab05a5f58b",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 23 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-23",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 04:30:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "dc5c4ecd6daaf8e03a046191eacebdd8",
+      "title": "पढ़ें 23 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-23",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 04:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "851356a8427553959895653030c8e5a6",
+      "title": "चुनाव से पहले ऊपरी असम में हमला सुरक्षा के लिए नई चुनौती, जानें प्रतिबंधित उग्रवादी संगठन ने क्यों किया अटैक",
+      "link": "https://www.amarujala.com/india-news/upper-assam-attack-new-security-challenge-elections-ulfa-independent-took-responsibility-demonstrate-influence-2026-03-23",
+      "summary": "चुनाव से पहले ऊपरी असम में हमला सुरक्षा के लिए नई चुनौती, जानें प्रतिबंधित उग्रवादी संगठन ने क्यों किया अटैक Upper Assam attack new security challenge elections ULFA Independent took responsibility demonstrate influence",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 04:29:16 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "9ad2a2158e77c3348913bb9ccdddea89",
+      "title": "Rupee All-Time Low: डॉलर के मुकाबले रिकॉर्ड गिरा रुपया,विपक्षी नेताओं ने सरकार पर दागे तीखे सवाल!",
+      "link": "https://www.amarujala.com/video/india-news/rupee-all-time-low-rupee-hits-record-low-against-dollar-opposition-leaders-raise-sharp-questions-on-the-gove-2026-03-23",
+      "summary": "Rupee All-Time Low: डॉलर के मुकाबले रिकॉर्ड गिरा रुपया,विपक्षी नेताओं ने सरकार पर दागे तीखे सवाल!",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 04:00:03 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "31258bb574cdb3bf2f3a9b5bbf39f1b7",
       "title": "मणिपुर: सरकार और कुकी-जो काउंसिल नेता शांति की मेज पर, बैठक में उठाए गए कई अहम मुद्दे",
       "link": "https://www.amarujala.com/india-news/manipur-government-and-kuki-zo-council-leaders-at-peace-table-several-key-issues-raised-in-meeting-2026-03-23",
@@ -64332,32 +64410,6 @@
       "summary": "Weather: पश्चिमी विक्षोभ से पहाड़ों पर बर्फबारी, दिल्ली समेत कई राज्यों में आंधी-बारिश के आसार Weather Updates western disturbance IMD Alert rain snowfall Delhi Himachal Pradesh UP punjab haryana forecast",
       "date": "2026-03-23",
       "timestamp": "Mon, 23 Mar 2026 03:33:53 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
-      "id": "d721ac6b202e230699cb1eab05a5f58b",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 23 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-23",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-23",
-      "timestamp": "Mon, 23 Mar 2026 03:30:22 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "dc5c4ecd6daaf8e03a046191eacebdd8",
-      "title": "पढ़ें 23 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-23",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-23",
-      "timestamp": "Mon, 23 Mar 2026 03:30:10 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -65756,6 +65808,19 @@
       "lang": "en"
     },
     {
+      "id": "e45e4fe98c5e6c7aa5a96e81ea817f25",
+      "title": "Kashmiris collect donations for war-hit Iran; Iranian Embassy says 'will never forget kindness'",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/kashmiris-collect-donations-for-war-hit-iran-iranian-embassy-says-will-never-forget-kindness/article70773364.ece",
+      "summary": "The donations have been collected, especially in Budgam and Baramulla, with a considerable population of Shias.",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 00:42:37 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8b5dd8f6879115cf5081c6897b8394da",
       "title": "Karnataka bypolls: Fear of rebellion looms large over Congress in Davangere",
       "link": "https://www.thehindu.com/news/national/karnataka/karnataka-bypolls-fear-of-rebellion-looms-large-over-congress-in-davangere/article70772830.ece",
@@ -65790,6 +65855,19 @@
       "timestamp": "Mon, 23 Mar 2026 00:36:44 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "918f0cfff54596d7f6deb1d2be2bd53f",
+      "title": "BJD ready for legal battle to ensure 6 suspended MLAs' disqualification from Odisha Assembly",
+      "link": "https://www.thehindu.com/news/national/odisha/bjd-ready-for-legal-battle-to-ensure-6-suspended-mlas-disqualification-from-odisha-assembly/article70773363.ece",
+      "summary": "The suspended legislators are Chakramani Kanhar, Naba Kishor Mallick, Souvic Biswal, Subasini Jena, Ramakanta Bhoi and Devi Ranjan Tripathy",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 00:32:32 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -88567,6 +88645,97 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e428d1fbfdae627fc7de21f3ed77a37d",
+      "title": "CAFE 3.0 rollout: Penalty recovery for carmakers remains a grey area",
+      "link": "https://timesofindia.indiatimes.com/india/cafe-3-0-rollout-penalty-recovery-for-carmakers-remains-a-grey-area/articleshow/129740600.cms",
+      "summary": "Government seeks clarity on recovering hefty penalties from carmakers for missing fuel efficiency targets. With stricter norms ahead, the PMO is pushing ministries to define who evaluates, approves, and recovers the dues. Over Rs 8,800 crore in penalties have been levied for past non-compliance, yet no recovery has occurred.",
+      "date": "2026-03-22",
+      "timestamp": "2026-03-23T04:28:11+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ebe262c8ddd582f4a52a081be49ad951",
+      "title": "Kilometrage allowance hiked by 25% for train crew",
+      "link": "https://timesofindia.indiatimes.com/india/kilometrage-allowance-hiked-by-25-for-train-crew/articleshow/129740589.cms",
+      "summary": "Indian Railways has boosted Kilometrage Allowance and Allowance in lieu of Kilometrage by 25% for over two lakh running staff, effective January 2024. This decision aligns compensation with the 50% Dearness Allowance hike, addressing long-standing demands for better financial benefits for essential operational personnel.",
+      "date": "2026-03-22",
+      "timestamp": "2026-03-23T04:21:32+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a79c4651587d3a461e8241feadc83770",
+      "title": "Maoist endgame nears, but no political fanfare in offing",
+      "link": "https://timesofindia.indiatimes.com/india/maoist-endgame-nears-but-no-political-fanfare-in-offing/articleshow/129740567.cms",
+      "summary": "The March 31 deadline for eliminating Left-wing extremism may pass without fanfare, having successfully created a psychological impetus for stakeholders. This pressure led to the neutralization or surrender of most CPI(Maoist) leadership, fracturing the group and pushing remaining members towards surrender.",
+      "date": "2026-03-22",
+      "timestamp": "2026-03-23T04:11:58+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2b6e2d9909029a32766d436184fdf2f9",
+      "title": "AI can never perform core job of judgment writing: SC judge",
+      "link": "https://timesofindia.indiatimes.com/india/ai-can-never-perform-core-job-of-judgment-writing-sc-judge/articleshow/129740550.cms",
+      "summary": "Supreme Court's Justice Vikram Nath asserted AI can aid judicial processes but won't replace judges' core judgment-writing role. He highlighted AI's limitations in complex cases like matrimonial disputes and constitutional matters. Other judges echoed concerns about AI's potential for bias and the need for human conscience in justice delivery, emphasizing its role as a facilitator, not a substitute.",
+      "date": "2026-03-22",
+      "timestamp": "2026-03-23T04:07:58+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "156ea99891afaec28a69cc4018685275",
+      "title": "Few women get past collegium's subjective assessment: SC judge",
+      "link": "https://timesofindia.indiatimes.com/india/few-women-get-past-collegiums-subjective-assessment-sc-judge/articleshow/129740461.cms",
+      "summary": "Supreme Court Justice Ujjal Bhuyan highlighted a stark gender disparity in higher judicial appointments, noting women excel in lower judicial services but are underrepresented in High Courts and the Supreme Court due to subjective collegium criteria. He stressed the need for greater gender parity for India to achieve developed nation status by 2047.",
+      "date": "2026-03-22",
+      "timestamp": "2026-03-23T04:03:46+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2846c3cb6e7a2b073f0df8e698239e89",
+      "title": "UAPA misuse not a model for Viksit Bharat: SC judge",
+      "link": "https://timesofindia.indiatimes.com/india/uapa-misuse-not-a-model-for-viksit-bharat-sc-judge/articleshow/129739695.cms",
+      "summary": "SC judge Ujjal Bhuyan emphasized that a developed India by 2047 requires greater tolerance for debate and dissent, without criminalizing them. He highlighted that thousands arrested under the UAPA with minuscule convictions indicate overuse or misuse of the law, hindering justice delivery and the ideal of a developed nation.",
+      "date": "2026-03-22",
+      "timestamp": "2026-03-23T03:46:24+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "984f6501e3bb1e11fdff5a8bbac10c56",
+      "title": "PM Modi is India's longest serving head of govt",
+      "link": "https://timesofindia.indiatimes.com/india/pm-modi-is-indias-longest-serving-head-of-govt/articleshow/129739205.cms",
+      "summary": "Prime Minister Narendra Modi has become the longest-serving head of government, surpassing the record previously held by Pawan Kumar Chamling. This milestone marks 25 continuous years in leadership, beginning with his tenure as Gujarat Chief Minister in October 2001 and continuing as Prime Minister since May 2014.",
+      "date": "2026-03-22",
+      "timestamp": "2026-03-23T03:39:37+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
