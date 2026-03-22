@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T21:21:31.280153+00:00",
+  "generated_at": "2026-03-22T22:20:33.806195+00:00",
   "stories": [
     {
       "id": "a90a4b7d2eb4303857423d8bfe541f3a",
@@ -36649,6 +36649,32 @@
       "lang": "en"
     },
     {
+      "id": "904134ec087e7d838a55b1c4e5e350a7",
+      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
+      "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 21:52:28 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0441cce16bc01829094f9f97b3afe679",
+      "title": "Why is Israel targeting Lebanon's bridges?",
+      "link": "https://www.bbc.com/news/videos/c2087lr223lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli forces have been instructed to destroy the crossings over the Litani river that were being used by Hezbollah to send reinforcements.",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 21:46:30 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "5ad66ba2596432b1b1804764b380bda9",
       "title": "Iran-Israel war LIVE: Will completely close Strait of Hormuz if U.S. targets power plants, says Iran",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-hezbollah-oil-supply-march-22-2026/article70771375.ece",
@@ -36727,6 +36753,19 @@
       "lang": "en"
     },
     {
+      "id": "c5d7679b6918b2a58151b6e0f52a1780",
+      "title": "National blackout hits Cuba for second time in a week",
+      "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 21:31:41 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "de54b0136216d100981bf494e17f2f91",
       "title": "Seven killed in Qatar helicopter crash due to technical malfunction, Qatari and Turkish authorities say",
       "link": "https://www.thehindu.com/news/international/qatar-military-helicopter-crashed-in-the-gulf/article70771421.ece",
@@ -36750,6 +36789,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "249a3e08f8dee5008ee2ab2270f7932d",
+      "title": "Slovenia’s Freedom Movement Party takes narrow election lead: Exit poll",
+      "link": "https://www.aljazeera.com/news/2026/3/22/slovenias-freedom-movement-party-takes-narrow-election-lead-exit-poll?traffic_source=rss",
+      "summary": "Governing liberals edge ahead of opposition conservatives in a race too close to call, according to exit poll.",
+      "date": "2026-03-22",
+      "timestamp": "Sun, 22 Mar 2026 21:22:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -38235,19 +38287,6 @@
       "lang": "en"
     },
     {
-      "id": "904134ec087e7d838a55b1c4e5e350a7",
-      "title": "Israeli settlers target Palestinian villages in occupied West Bank, attacking people and properties",
-      "link": "https://www.bbc.com/news/articles/cew719w80g7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The violence began after 18-year-old settler Yehuda Sherman was killed after reportedly being hit by a vehicle driven by a Palestinian while on his quad bike.",
-      "date": "2026-03-22",
-      "timestamp": "Sun, 22 Mar 2026 18:37:07 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b9980a648b45276688518139e3193afa",
       "title": "हमारे लोगों का वोट छीना जा..., रैली में अचानक भावुक हुए संजय निषाद; मंच पर फूट-फूटकर रोए",
       "link": "https://www.livehindustan.com/uttar-pradesh/nishad-party-chief-sanjay-nishad-broke-down-in-tears-on-stage-during-the-gorakhpur-bike-rally-201774183255705.html",
@@ -38634,19 +38673,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "c5d7679b6918b2a58151b6e0f52a1780",
-      "title": "National blackout hits Cuba for second time in a week",
-      "link": "https://www.bbc.com/news/articles/cvg0l44yxrvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Another total failure of its power grid underlines Cuba's hardship under a US-imposed fuel blockade.",
-      "date": "2026-03-22",
-      "timestamp": "Sun, 22 Mar 2026 16:59:26 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -64287,6 +64313,97 @@
       "lang": "en"
     },
     {
+      "id": "31258bb574cdb3bf2f3a9b5bbf39f1b7",
+      "title": "मणिपुर: सरकार और कुकी-जो काउंसिल नेता शांति की मेज पर, बैठक में उठाए गए कई अहम मुद्दे",
+      "link": "https://www.amarujala.com/india-news/manipur-government-and-kuki-zo-council-leaders-at-peace-table-several-key-issues-raised-in-meeting-2026-03-23",
+      "summary": "मणिपुर: सरकार और कुकी-जो काउंसिल नेता शांति की मेज पर, बैठक में उठाए गए कई अहम मुद्दे Manipur Government and Kuki-Zo Council leaders at peace table several key issues raised in meeting",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 03:47:41 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c464e68eb6c1e86824a005a36876aae3",
+      "title": "Weather: पश्चिमी विक्षोभ से पहाड़ों पर बर्फबारी, दिल्ली समेत कई राज्यों में आंधी-बारिश के आसार",
+      "link": "https://www.amarujala.com/india-news/weather-updates-western-disturbance-imd-alert-rain-snowfall-delhi-himachal-pradesh-up-punjab-haryana-forecast-2026-03-23",
+      "summary": "Weather: पश्चिमी विक्षोभ से पहाड़ों पर बर्फबारी, दिल्ली समेत कई राज्यों में आंधी-बारिश के आसार Weather Updates western disturbance IMD Alert rain snowfall Delhi Himachal Pradesh UP punjab haryana forecast",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 03:33:53 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d721ac6b202e230699cb1eab05a5f58b",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 23 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-23",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 03:30:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "dc5c4ecd6daaf8e03a046191eacebdd8",
+      "title": "पढ़ें 23 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-23",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 03:30:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a5a8335b5a6c2360a5766f71b5773a1f",
+      "title": "Opposition seeks arrest of AAP leader in Punjab",
+      "link": "https://www.thehindu.com/news/national/punjab/opposition-seeks-arrestof-aap-leader-in-punjab/article70772320.ece",
+      "summary": "Congress, BJP, and SAD demand arrest of former AAP minister after warehousing corporation official’s death",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 03:04:15 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "737f30351282422aac9d64630ee37027",
+      "title": "Opposition MPs, activists oppose amendments to Transgender Persons Act",
+      "link": "https://www.thehindu.com/news/national/opposition-mps-activists-oppose-amendments-to-transgender-persons-act/article70772965.ece",
+      "summary": "Public hearing in Delhi raises concerns over proposed changes to Transgender Persons (Protection of Rights) Act, including removal of self-perceived gender identity provision",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 03:01:18 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1d7b71f09ee3534e0f8cb30804b82f95",
+      "title": "West Bengal Assembly Election 2026: चुनाव आयोग इस दिन जारी करेगा SIR की पहली सप्लीमेंट्री लिस्ट",
+      "link": "https://www.amarujala.com/video/india-news/west-bengal-assembly-election-2026-election-commission-will-release-the-first-supplementary-list-of-sir-on-th-2026-03-23",
+      "summary": "West Bengal Assembly Election 2026: चुनाव आयोग इस दिन जारी करेगा SIR की पहली सप्लीमेंट्री लिस्ट",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 03:00:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "37c0352edd522ebfa590f39c18a73b81",
       "title": "Lucknow News: पासिंग आउट परेड में 119 प्रशिक्षु हुए शामिल",
       "link": "https://www.amarujala.com/lucknow/119-trainees-participated-in-the-passing-out-parade-lucknow-news-c-13-1-lko1028-1656997-2026-03-23",
@@ -64766,32 +64883,6 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
-    },
-    {
-      "id": "d721ac6b202e230699cb1eab05a5f58b",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 23 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-23",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-23",
-      "timestamp": "Mon, 23 Mar 2026 02:30:24 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "dc5c4ecd6daaf8e03a046191eacebdd8",
-      "title": "पढ़ें 23 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-23",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-23",
-      "timestamp": "Mon, 23 Mar 2026 02:30:12 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "21036518647612c37112e57b99456e55",
@@ -65725,6 +65816,32 @@
       "timestamp": "Mon, 23 Mar 2026 00:22:33 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2390ce244d659da29854001363689265",
+      "title": "Khandre honoured in Bidar after elevation as national president of Veerashaiva Lingayat Mahasabha",
+      "link": "https://www.thehindu.com/news/national/karnataka/khandre-honoured-in-bidar-after-elevation-as-national-president-of-veerashaiva-lingayat-mahasabha/article70773160.ece",
+      "summary": "Speaking at the function, Siddharoodha Mutt seer Shivakumar Swamiji described Mr. Khandre as a leader shaped by his virtues, combining compassion, courage and commitment to public service",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 00:12:39 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f9f57b3ca8f6beb1c86acbce59790735",
+      "title": "Turmoil within Haryana Congress over Rajya Sabha cross voting grows",
+      "link": "https://www.thehindu.com/news/national/haryana/turmoil-within-haryana-congress-over-rajya-sabha-cross-voting-grows/article70772561.ece",
+      "summary": "Two days before the Congress issued show-cause notices to five legislators for cross-voting",
+      "date": "2026-03-23",
+      "timestamp": "Mon, 23 Mar 2026 00:12:32 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -88450,6 +88567,45 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4daa8569affaf7c3d6fcb8162b394477",
+      "title": "Energy crisis: Govt pushes for PNG connections, asks all ministries to assess demand",
+      "link": "https://timesofindia.indiatimes.com/india/govt-pushes-for-png-connections-asks-all-ministries-to-assess-demand/articleshow/129738839.cms",
+      "summary": "",
+      "date": "2026-03-22",
+      "timestamp": "2026-03-23T03:28:42+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7684b7373ea1fe6921c4fa0dd02401e5",
+      "title": "CCS recognises 'significant impact' of West Asia conflict",
+      "link": "https://timesofindia.indiatimes.com/india/ccs-recognises-significant-impact-of-west-asia-conflict/articleshow/129738765.cms",
+      "summary": "Prime Minister Narendra Modi's cabinet committee on security discussed measures to diversify import sources for key sectors like chemicals and pharmaceuticals due to the West Asia conflict's global economic impact. The government is preparing short-, medium-, and long-term strategies to safeguard citizens and ensure the availability of essential goods like fertilizers and coal.",
+      "date": "2026-03-22",
+      "timestamp": "2026-03-23T03:13:23+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0a2a72a7cb4c37d0536cb9c6eb044db2",
+      "title": "Scientists discover a plant that could survive on Mars and help create a ‘Green Planet’",
+      "link": "https://timesofindia.indiatimes.com/science/scientists-discover-a-plant-that-could-survive-on-mars-and-help-create-a-green-planet/articleshow/129732350.cms",
+      "summary": "",
+      "date": "2026-03-22",
+      "timestamp": "2026-03-23T03:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
