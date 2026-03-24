@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-24T19:51:28.722854+00:00",
+  "generated_at": "2026-03-24T20:36:04.142717+00:00",
   "stories": [
     {
       "id": "32c28f5d26ca3b6cdf9292348bc3c5db",
@@ -54,14 +54,92 @@
       "lang": "en"
     },
     {
-      "id": "551b98a9156a76af46abb2b4f933db1b",
-      "title": "Statues of Kakori martyrs razed in U.P.; Oppn. terms it ‘insult’ to freedom fighters",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/statues-of-kakori-martyrs-razed-in-up-oppn-terms-it-insult-to-freedom-fighters/article70781520.ece",
-      "summary": "",
+      "id": "425c38d13ee18a454146c669b556c1e5",
+      "title": "Lucknow News: बिजली चोरी करने वालों के खिलाफ प्राथमिकी दर्ज",
+      "link": "https://www.amarujala.com/lucknow/fir-lodged-against-electricity-thieves-lucknow-news-c-13-knp1002-1659616-2026-03-25",
+      "summary": "बिजली चोरी करने वालों के खिलाफ प्राथमिकी दर्ज",
       "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 01:18:51 +0530",
+      "timestamp": "Wed, 25 Mar 2026 02:05:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "9a9980b49b07d0b626b759674bc95747",
+      "title": "Lucknow News: कैफे की आड़ में चल रहा था हुक्का बार, तीन गिरफ्तार",
+      "link": "https://www.amarujala.com/lucknow/hookah-bar-was-running-under-the-guise-of-a-cafe-three-arrested-lucknow-news-c-13-knp1002-1659087-2026-03-25",
+      "summary": "कैफे की आड़ में चल रहा था हुक्का बार, तीन गिरफ्तार",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:03:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "e10c6a687aa52fbd8d72110662a15609",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 25 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-25",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:01:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f3e52768a16be3efa36f055b14f7c120",
+      "title": "पढ़ें 25 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-25",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:00:49 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "028598114a766881d9ef21afc421228e",
+      "title": "Lucknow News: प्रधान पर लोहे की रॉड से वार",
+      "link": "https://www.amarujala.com/lucknow/pradhan-was-attacked-with-an-iron-rod-lucknow-news-c-13-1-lko1128-1660167-2026-03-25",
+      "summary": "प्रधान पर लोहे की रॉड से वार",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:00:39 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "c1daa431bea92600c4f4bc6b5ac49c71",
+      "title": "Supreme Court flags long-term bias against women in the armed forces",
+      "link": "https://www.thehindu.com/news/national/presumption-that-women-officers-had-no-long-career-in-armed-forces-led-to-unequal-playing-field-for-them-supreme-court/article70778943.ece",
+      "summary": "The Bench headed by CJI Surya Kant upheld permanent commission and consequent pensionary benefits for batches of women officers in the Army, the Air Force and the Navy",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 01:38:55 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bdc2f7b59558a732429fb6c9d41d50ec",
+      "title": "West Asia crisis: India’s foreign policy is ‘compromised’, considered a ‘universal joke’, says Rahul Gandhi",
+      "link": "https://www.thehindu.com/news/national/west-asia-crisis-rahul-slams-modi-for-covid-reference-says-pm-has-forgotten-tragedies-of-that-time/article70779132.ece",
+      "summary": "Slams PM for comparing West Asia crisis to COVID-19 pandemic; to miss all-party meet on West Asia due to poll events in Kerala; attacks Centre over reports that Pakistan may mediate between Iran, U.S.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 01:34:37 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -72,9 +150,35 @@
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-emerges-as-reliable-investment-destination-amid-global-uncertainty-says-cm/article70780664.ece",
       "summary": "",
       "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 01:15:26 +0530",
+      "timestamp": "Wed, 25 Mar 2026 01:21:56 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "551b98a9156a76af46abb2b4f933db1b",
+      "title": "Statues of Kakori martyrs razed in U.P.; Oppn. terms it ‘insult’ to freedom fighters",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/statues-of-kakori-martyrs-razed-in-up-oppn-terms-it-insult-to-freedom-fighters/article70781520.ece",
+      "summary": "",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 01:21:53 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8a24051994c5b55b8bb58e89b4ac5596",
+      "title": "​Cowardly bully: On Donald Trump and the Iran war",
+      "link": "https://www.thehindu.com/opinion/editorial/cowardly-bully-on-donald-trump-and-the-iran-war/article70780195.ece",
+      "summary": "Trump should end the war and ask Israel to leave Iran alone",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 01:18:51 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -169,32 +273,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "e10c6a687aa52fbd8d72110662a15609",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 25 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-25",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 01:01:30 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "f3e52768a16be3efa36f055b14f7c120",
-      "title": "पढ़ें 25 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-25",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 01:01:19 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "69c3521682f4d7bc797c3839c5ea79c4",
@@ -309,6 +387,19 @@
       "timestamp": "Wed, 25 Mar 2026 00:36:53 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2f343fd4978659fc89830a8f46d6ba45",
+      "title": "Iran-Israel war LIVE: Trump says Iran gave U.S. 'very big present' related to oil and gas",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-24-2026-live-updates/article70778112.ece",
+      "summary": "U.S. President Donald Trump said on Tuesday that negotiations with Iran to end the Middle East war were underway \"right now,\" adding Tehran wants to make a deal \"so badly\"",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 00:35:52 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -454,6 +545,19 @@
       "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0a9af852666f425456370583efb1355c",
+      "title": "धुरंधर-2 पर छिड़ा सियासी घमासान: रविदास मेहरोत्रा का पलटवार, कहा-नैतिकता है तो इस्तीफा दें पूजा पाल",
+      "link": "https://www.patrika.com/lucknow-news/political-turmoil-erupts-over-dhurandhar-2-ravidas-mehrotra-counters-saying-if-you-have-morals-pooja-pal-should-resign-20449503",
+      "summary": "सपा के वरिष्ठ नेता रविदास मेहरोत्रा ने भाजपा पर निशाना साधते हुए कहा कि सपा मुखिया अखिलेश यादव का जनाधार लगातार बढ़ रहा है, जिससे भाजपा और कुछ नेता घबरा हुए हैं, इसीलिए अब फिल्मों के जरिए ‘प्रोपेगेंडा’ फैलाया जा रहा है।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 00:04:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -12430,19 +12534,6 @@
       "lang": "en"
     },
     {
-      "id": "2f343fd4978659fc89830a8f46d6ba45",
-      "title": "Iran-Israel war LIVE: U.S. expected to send thousands of additional soldiers to West Asia",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-24-2026-live-updates/article70778112.ece",
-      "summary": "PM Modi speaks to Trump, says India supports de-escalation and restoration of peace at the earliest",
-      "date": "2026-03-24",
-      "timestamp": "Tue, 24 Mar 2026 23:21:57 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "51aca584cf4f1b0701ac7aca10b41df8",
       "title": "Kerala Assembly Polls 2026: Strict action to be taken against fake, misleading social media content",
       "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-2026-strict-action-to-be-taken-against-fake-misleading-social-media-content/article70781296.ece",
@@ -12477,6 +12568,19 @@
       "timestamp": "Tue, 24 Mar 2026 23:21:51 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cdc630eb008ae95ed01b5713448a9e35",
+      "title": "Puducherry Assembly elections remain a test for INDIA bloc",
+      "link": "https://www.thehindu.com/elections/puducherry-assembly/puducherry-assembly-elections-remain-a-test-for-india-bloc/article70779779.ece",
+      "summary": "Congress, DMK, CPI, and VCK are fielding candidates against each other in several of the 30 Assembly constituencies",
+      "date": "2026-03-24",
+      "timestamp": "Tue, 24 Mar 2026 23:15:09 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -12750,19 +12854,6 @@
       "timestamp": "Tue, 24 Mar 2026 22:37:45 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "bdc2f7b59558a732429fb6c9d41d50ec",
-      "title": "West Asia crisis: India’s foreign policy is “compromised”, considered a “universal joke”, says LoP Rahul Gandhi",
-      "link": "https://www.thehindu.com/news/national/west-asia-crisis-rahul-slams-modi-for-covid-reference-says-pm-has-forgotten-tragedies-of-that-time/article70779132.ece",
-      "summary": "Slams PM for comparing West Asia crisis to COVID-19 pandemic; to miss all-party meet on West Asia due to poll events in Kerala; attacks Centre over reports that Pakistan may mediate between Iran, U.S.",
-      "date": "2026-03-24",
-      "timestamp": "Tue, 24 Mar 2026 22:37:26 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -14029,6 +14120,19 @@
       "lang": "en"
     },
     {
+      "id": "131c32106a6ec10e38c04acbf41810f2",
+      "title": "Rescuers race to save stranded whale in Germany",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/24/rescuers-race-to-save-stranded-whale-in-germany?traffic_source=rss",
+      "summary": "Rescuers are trying to save a young humpback whale which is stranded in shallow waters in northern Germany.",
+      "date": "2026-03-24",
+      "timestamp": "Tue, 24 Mar 2026 20:21:47 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "116befbedde9e7d1bd7dfddb1f7d922b",
       "title": "Tourism sector emerging as key growth engine for development of A.P., says Minister",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/tourism-sector-emerging-as-key-growth-engine-for-development-of-ap-says-minister/article70780358.ece",
@@ -14038,6 +14142,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "45ced42126ba298bab1eb3694a3a6d44",
+      "title": "Russia hits Ukraine with rare daytime barrage as new offensive begins",
+      "link": "https://www.aljazeera.com/news/2026/3/24/russia-hits-ukraine-with-deadly-daytime-barrage-as-spring-offensive-starts?traffic_source=rss",
+      "summary": "Ukraine's President Zelenskyy warns that Kyiv faces a deficit of missiles as Washington is focused on its war on Iran.",
+      "date": "2026-03-24",
+      "timestamp": "Tue, 24 Mar 2026 20:15:35 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -15428,19 +15545,6 @@
       "timestamp": "Tue, 24 Mar 2026 16:11:22 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "c1daa431bea92600c4f4bc6b5ac49c71",
-      "title": "Presumption that women officers had no long career in Armed Forces led to unequal playing field for them: Supreme Court",
-      "link": "https://www.thehindu.com/news/national/presumption-that-women-officers-had-no-long-career-in-armed-forces-led-to-unequal-playing-field-for-them-supreme-court/article70778943.ece",
-      "summary": "The Bench headed by CJI Surya Kant upheld permanent commission and consequent pensionary benefits for batches of women officers in the Army, the Air Force and the Navy",
-      "date": "2026-03-24",
-      "timestamp": "Tue, 24 Mar 2026 16:03:41 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -89130,6 +89234,19 @@
       "lang": "en"
     },
     {
+      "id": "05c137be3d2e38f97a29c9bafcaf8ea9",
+      "title": "'Avoid traveling if you are...': Immigration attorney on who should be concerned as ICE agents are deployed at airports",
+      "link": "https://timesofindia.indiatimes.com/world/us/avoid-traveling-if-you-are-immigration-attorney-on-who-should-be-concerned-as-ice-agents-are-deployed-at-airports/articleshow/129786173.cms",
+      "summary": "",
+      "date": "2026-03-24",
+      "timestamp": "2026-03-25T01:15:38+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ad7e95810b14c4cb075b1ef64b19fe3a",
       "title": "VTuber AZKi joins Japanese police to promote new traffic rules",
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/vtuber-azki-joins-japanese-police-to-promote-new-traffic-rules/articleshow/129785932.cms",
@@ -89217,6 +89334,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "deea37cb40054b595ef57ab8d5be5a2e",
+      "title": "HasanAbi breaks silence after Cuba outfit backlash as Cartier glasses debate sparks fresh controversy online",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/hasanabi-breaks-silence-after-cuba-outfit-backlash-as-cartier-glasses-debate-sparks-fresh-controversy-online/articleshow/129783943.cms",
+      "summary": "Hasan Piker responded to criticism over his clothing during his Cuba visit, saying people misunderstood the situation. He explained that many items are gifted or sent to him. Social media users had questioned the cost of his outfit. Hasan denied the claims and said linking his clothes to Cuba’s problems does not make sense.",
+      "date": "2026-03-24",
+      "timestamp": "2026-03-24T23:30:37+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
