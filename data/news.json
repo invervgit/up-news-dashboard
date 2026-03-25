@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T19:42:38.641680+00:00",
+  "generated_at": "2026-03-25T20:33:44.671347+00:00",
   "stories": [
     {
       "id": "fc68923e0af1bff6415fb3d68816a956",
@@ -853,19 +853,6 @@
       "summary": "At a rally in Hojai, central Assam, Himanta Biswa Sarma promised two lakh government jobs for the youth over the next five years",
       "date": "2026-03-25",
       "timestamp": "Wed, 25 Mar 2026 22:09:21 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "bf9a65124a7d67d504d9b393770574bc",
-      "title": "Two member from National Council for Transgender Persons resign, citing ‘regressive’ Amendment Bill",
-      "link": "https://www.thehindu.com/news/national/two-member-from-national-council-for-transgender-persons-resign-citing-regressive-amendment-bill/article70784861.ece",
-      "summary": "Southern representative Kalki Subramaniam and North East representative Rituparna Neog called the amendment Bill “a step backward for our fundamental rights to self-identification and dignity”",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 22:01:12 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -1757,6 +1744,19 @@
       "lang": "en"
     },
     {
+      "id": "72a99f1da89a343ce37019d3e2042396",
+      "title": "UN votes to recognise enslavement of Africans as 'gravest crime against humanity'",
+      "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
+      "summary": "The landmark resolution calls for an apology and contributions to a reparations fund, without specifying an amount.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 20:12:31 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "91da66feed7e18aa998ac48a2b6b4265",
       "title": "Iranian strikes pose ‘existential threat’, Gulf states tell UN",
       "link": "https://www.thehindu.com/news/international/iranian-strikes-pose-existential-threat-gulf-states-tell-un/article70784495.ece",
@@ -1779,6 +1779,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cd5045172a2ed911dfc0cfb361e51560",
+      "title": "What are the US and Iran's proposals for peace?",
+      "link": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 20:07:01 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -1952,6 +1965,19 @@
       "lang": "en"
     },
     {
+      "id": "9e94bfe5e90f01bab48546f9f3318e24",
+      "title": "US jury finds Meta, Alphabet liable in landmark social media addiction case",
+      "link": "https://www.aljazeera.com/economy/2026/3/25/us-jury-finds-meta-alphabet-liable-in-landmark-social-media-addiction-case?traffic_source=rss",
+      "summary": "A California jury awarded the plaintiff $3m in damages in the case",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 19:30:22 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "681b0f9b2e506cb5d93c35a6d00a0625",
       "title": "Mango covers in demand as Kadapa farmers expect decent yield",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/mango-covers-in-demand-as-kadapa-farmers-expect-decent-yield/article70783248.ece",
@@ -2104,19 +2130,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "cd5045172a2ed911dfc0cfb361e51560",
-      "title": "What are the US and Iran's proposals for peace?",
-      "link": "https://www.bbc.com/news/articles/cly9nz5vyz4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump says he is talking to \"the right people\" in Iran, but Tehran says no such negotiations are being held.",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 19:14:19 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -2598,19 +2611,6 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "72a99f1da89a343ce37019d3e2042396",
-      "title": "UN votes to recognise slavery as 'gravest crime against humanity'",
-      "link": "https://www.bbc.com/news/articles/cvg06q36052o?at_medium=RSS&at_campaign=rss",
-      "summary": "The landmark resolution calls for an apology and contributions to a reparations fund, without specifying an amount.",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 17:51:27 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -11009,7 +11009,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -36727,6 +36727,19 @@
       "lang": "en"
     },
     {
+      "id": "bb8d437dd5245068c1ee8f7958fe24cd",
+      "title": "Supreme Court: बिना पर्यावरण मंजूरी वाली परियोजनाओं पर सुप्रीम कोर्ट में बहस, वकील ने सुरक्षा उपाय पर दिया जोर",
+      "link": "https://www.amarujala.com/world/polluter-pays-principle-should-not-become-pollute-and-pay-supreme-court-petitioner-argues-2026-03-25",
+      "summary": "Supreme Court: बिना पर्यावरण मंजूरी वाली परियोजनाओं पर सुप्रीम कोर्ट में बहस, वकील ने सुरक्षा उपाय पर दिया जोर",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 12:13:36 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "555d25f24fb4ac0c049a15b9011ddd2b",
       "title": "Morning Consult Report: पीएम मोदी का जलवा कायम, फिर से बने दुनिया के सबसे लोकप्रिय नेता; ट्रंप छूटे काफी पीछे",
       "link": "https://www.amarujala.com/india-news/morning-consult-report-pm-modi-become-world-s-most-popular-leader-once-again-donald-trump-lags-far-behind-2026-03-26",
@@ -36740,16 +36753,29 @@
       "lang": "hi"
     },
     {
-      "id": "55cee234fc260bfcbf94203024a6901c",
-      "title": "LPG shortage affects students preparing for govt. job exams in Patna",
-      "link": "https://www.thehindu.com/news/national/bihar/lpg-shortage-affects-students-preparing-for-govt-job-exams-in-patna/article70785596.ece",
-      "summary": "",
+      "id": "fc65360db79a1f4629afd180935f8341",
+      "title": "Lucknow News: आरिका और आन्या ने बनाई अंतिम 4 में जगह",
+      "link": "https://www.amarujala.com/lucknow/arika-and-anya-made-it-to-the-last-4-lucknow-news-c-13-1-lko1128-1661872-2026-03-26",
+      "summary": "आरिका और आन्या ने बनाई अंतिम 4 में जगह",
       "date": "2026-03-26",
-      "timestamp": "Thu, 26 Mar 2026 01:01:01 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
+      "timestamp": "Thu, 26 Mar 2026 02:02:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "bda0e561254c27286d6b59ec99fd678d",
+      "title": "Lucknow News: कोकिला ने पैरा जूडो वर्ल्ड कप में जीता पहला पदक",
+      "link": "https://www.amarujala.com/lucknow/kokila-wins-first-medal-in-para-judo-world-cup-lucknow-news-c-13-1-lko1128-1661877-2026-03-26",
+      "summary": "कोकिला ने पैरा जूडो वर्ल्ड कप में जीता पहला पदक",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 02:01:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -36758,7 +36784,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-26",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-03-26",
-      "timestamp": "Thu, 26 Mar 2026 01:00:58 +0530",
+      "timestamp": "Thu, 26 Mar 2026 02:00:39 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -36771,12 +36797,116 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-26",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-03-26",
-      "timestamp": "Thu, 26 Mar 2026 01:00:46 +0530",
+      "timestamp": "Thu, 26 Mar 2026 02:00:27 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "e75d275551b8f467e8fc9b5eb370cece",
+      "title": "Assembly Election 2026: बंगाल में पारदर्शिता और हिंसा-रहित मतदान पर जोर; केरल में प्रचार करेंगे माणिक साहा",
+      "link": "https://www.amarujala.com/india-news/assembly-election-2026-updates-assam-kerala-puducherry-tamilnadu-west-bengal-election-news-in-hindi-2026-03-26",
+      "summary": "Assembly Elections 2026 Updates: Assam, Kerala, Puducherry, Tamilnadu, West Bengal; Election News In Hindi - Assembly Election 2026: बंगाल में पारदर्शिता और हिंसा-रहित मतदान पर जोर; केरल में प्रचार करेंगे माणिक साहा",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 01:57:24 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b08f246a08f8b36f3dbad0d5b3fe0a6e",
+      "title": "London High Court rejects Nirav Modi’s “reopen” petition against extradition",
+      "link": "https://www.thehindu.com/news/national/london-high-court-rejects-nirav-modis-reopen-petition-against-extradition/article70785525.ece",
+      "summary": "The matter was strongly argued by the Crown Prosecution Service advocate, ably assisted by a dedicated CBI team, including investigating officers who travelled to London for the hearing, says CBI",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 01:49:40 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "97ce7acbc9764f13b7d3d1ea8aff1d1e",
+      "title": "Varanasi News: बेटे-बेटी की माैत के सदमे में 40 घंटे के भीतर मां की भी मौत",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/the-mother-also-died-within-40-hours-of-the-death-of-her-son-and-daughter-varanasi-news-c-20-vns1021-1334594-2026-03-26",
+      "summary": "The mother also died within 40 hours of the death of her son and daughter.",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 01:44:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "67b149ecffa09fcb168dfb7b075833bb",
+      "title": "NCB focuses on identifying top 10 drug syndicates in JK",
+      "link": "https://www.thehindu.com/news/national/ncb-focuses-on-identifying-top-10-drug-syndicates-in-jk/article70784935.ece",
+      "summary": "More than 4,300 drone sightings and close to 970 cases of incursions have been reported in the past five years along India’s international borders",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 01:39:39 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "54e8ba5789c7764a45f3444874a04395",
+      "title": "​Welfare and distress: On the run-up to the Kerala Assembly election 2026",
+      "link": "https://www.thehindu.com/opinion/editorial/welfare-and-distress-on-the-run-up-to-the-kerala-assembly-election-2026/article70784237.ece",
+      "summary": "The Opposition is trying to undermine the LDF’s development pitch",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 01:24:57 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ed898afd018d077771e115012c1bcb55",
+      "title": "Zero FIR in Ajit Pawar crash an attempt to defame Maharashtra, says Fadnavis",
+      "link": "https://www.thehindu.com/news/national/maharashtra/zero-fir-in-ajit-pawar-crash-an-attempt-to-defame-maharashtra-says-fadnavis/article70785555.ece",
+      "summary": "",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 01:19:42 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bf9a65124a7d67d504d9b393770574bc",
+      "title": "Two members from National Council for Transgender Persons resign, citing ‘regressive’ Amendment Bill",
+      "link": "https://www.thehindu.com/news/national/two-member-from-national-council-for-transgender-persons-resign-citing-regressive-amendment-bill/article70784861.ece",
+      "summary": "Southern representative Kalki Subramaniam and North East representative Rituparna Neog called the amendment Bill “a step backward for our fundamental rights to self-identification and dignity”",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 01:14:11 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "55cee234fc260bfcbf94203024a6901c",
+      "title": "LPG shortage affects students preparing for govt. job exams in Patna",
+      "link": "https://www.thehindu.com/news/national/bihar/lpg-shortage-affects-students-preparing-for-govt-job-exams-in-patna/article70785596.ece",
+      "summary": "",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 01:09:38 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "1f1aeb4761774cf45b64d106452c96ca",
