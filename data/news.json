@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-25T21:34:04.995331+00:00",
+  "generated_at": "2026-03-25T22:30:37.159746+00:00",
   "stories": [
     {
       "id": "fc68923e0af1bff6415fb3d68816a956",
@@ -142,19 +142,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "0dee3d94cd30659d27bfaa6a53362630",
-      "title": "Iran-Israel war LIVE: Iran issues its own ceasefire proposal, calling for war reparations and sovereignty over Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-25-2026-live-updates/article70782463.ece",
-      "summary": "Iran fires at U.S. carrier as backchannel diplomacy aims to end war",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 23:40:37 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -509,6 +496,19 @@
       "lang": "en"
     },
     {
+      "id": "93444e2313687cf38ababcbcc48fad4b",
+      "title": "Assam’s hurt valley",
+      "link": "https://www.thehindu.com/news/national/assam/assams-hurt-valley/article70772408.ece",
+      "summary": "Barak Valley is where the BJP struck roots in the northeastern part of India, comprising eight States. People in this Bengali-dominated part of Assam expected to shed their outlier tag after the party began its electoral victory march in 2014, to gradually hold the reins across the region on its own or with regional allies. Rahul Karmakar finds that many believe they have been given the short shrift, especially after the 2023 delimitation robbed the polarised valley of two Assembly seats",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 22:54:58 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "dc588e411e40306824b69ae49e377bc9",
       "title": "Consumer protection watchdog cautions hotels against ‘gas crisis levy’",
       "link": "https://www.thehindu.com/business/Industry/consumer-protection-watchdog-directs-restaurants-hotels-against-levying-any-additional-lpg-gas-crisis-charges/article70784519.ece",
@@ -595,19 +595,6 @@
       "timestamp": "Wed, 25 Mar 2026 22:47:10 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "05513f670d262d12237747a65893b210",
-      "title": "India’s newest citizens caught in SIR adjudication trap",
-      "link": "https://www.thehindu.com/elections/west-bengal-assembly/indias-newest-citizens-caught-in-sir-adjudication-trap/article70783944.ece",
-      "summary": "Thousands relocating from erstwhile enclaves got citizenship after 2015 Land Boundary Agreement, but have now been put “under adjudication” after SIR; angry voters claim this was done along communal lines",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 22:44:37 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -792,6 +779,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "26b88733a7325a069dce537497dde028",
+      "title": "Video shows Israeli strike hitting displacement camp in Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/video-shows-israeli-strike-hitting-displacement-camp-in-gaza?traffic_source=rss",
+      "summary": "Videos show the moment a strike hit a tent camp for displaced Palestinians in Deir el-Balah.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 22:12:18 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -36883,38 +36883,12 @@
       "lang": "hi"
     },
     {
-      "id": "08576f2a51cc3ad8d66e8a32956d67e9",
-      "title": "Singapore report ignites Zubeen death issue in Assam",
-      "link": "https://www.thehindu.com/elections/assam-assembly/singapore-report-ignites-zubeen-death-issue-in-assam/article70785257.ece",
-      "summary": "While Chief Minister Himanta Biswa Sarma said the Singapore court’s ruling makes the SIT case stronger, Congress leader Gaurav Gogoi terms it a gift for those accused of killing him",
-      "date": "2026-03-26",
-      "timestamp": "Thu, 26 Mar 2026 03:02:20 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "4d8200b61cb2d2664ee3d012148ac06c",
-      "title": "Game of throne: surfeit of faces for CM’s post in Congress in Kerala",
-      "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-buzz-over-congress-cm-candidate-continues-despite-leaderships-efforts-to-rein-it-in/article70783175.ece",
-      "summary": "P.J. Kurien endorses Chennithala, but leader downplays it, says final decision rests with high command; K.C. Joseph warns against potential divisiveness; Congress has ‘a galaxy of leaders’ capable of executing any political task, says Satheesan",
-      "date": "2026-03-26",
-      "timestamp": "Thu, 26 Mar 2026 03:01:24 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "dff5e7e99cf520217bc7a65c9c9ae785",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 26 मार्च के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-26",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-03-26",
-      "timestamp": "Thu, 26 Mar 2026 03:00:39 +0530",
+      "timestamp": "Thu, 26 Mar 2026 03:30:24 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -36927,12 +36901,90 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-26",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-03-26",
-      "timestamp": "Thu, 26 Mar 2026 03:00:25 +0530",
+      "timestamp": "Thu, 26 Mar 2026 03:30:12 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "cbfb5e72abeb17d2d49a6f4ec92c7cc7",
+      "title": "16 dead after bus plunges into river in Bangladesh, search on for missing",
+      "link": "https://www.thehindu.com/news/international/16-dead-after-bus-plunges-into-river-in-bangladesh-search-on-for-missing/article70785627.ece",
+      "summary": "Fire service and coastguard divers continued their search for the missing people with military and police assistance",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 03:09:41 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4d8200b61cb2d2664ee3d012148ac06c",
+      "title": "Game of throne: surfeit of faces for CM’s post in Congress in Kerala",
+      "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-buzz-over-congress-cm-candidate-continues-despite-leaderships-efforts-to-rein-it-in/article70783175.ece",
+      "summary": "P.J. Kurien endorses Chennithala, but leader downplays it, says final decision rests with high command; K.C. Joseph warns against potential divisiveness; Congress has ‘a galaxy of leaders’ capable of executing any political task, says Satheesan",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 03:08:51 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "05513f670d262d12237747a65893b210",
+      "title": "India’s ‘newest voters’ caught in SIR adjudication trap in West Bengal",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/indias-newest-citizens-caught-in-sir-adjudication-trap/article70783944.ece",
+      "summary": "Thousands relocating from erstwhile enclaves got citizenship after 2015 Land Boundary Agreement, but have now been put “under adjudication” after SIR; angry voters claim this was done along communal lines",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 03:08:19 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bcdf43624b161a457c81f6bc77521d86",
+      "title": "Lone rangers flex their muscle against alliances in Assam battle",
+      "link": "https://www.thehindu.com/elections/assam-assembly/neutral-parties-gain-traction-in-assam-fight-between-two-blocs/article70784546.ece",
+      "summary": "The “non-aligned” entities include All India United Democratic Front, United People’s Party Liberation, and All India Trinamool Congress",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 03:07:53 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bb41618fe57d610496d8806fbc603004",
+      "title": "Gorakhpur News: टैलेंट को टेक्नोलॉजी के साथ जोड़ा तो बनी यूपी की नई तस्वीर",
+      "link": "https://www.amarujala.com/gorakhpur/cm-yogi-said-the-state-government-is-also-working-on-medtech-and-agritech-gorakhpur-news-c-7-1-gkp1004-1269995-2026-03-26",
+      "summary": "मुख्यमंत्री ने एमएमएमयूटी में किया गर्ल्स हॉस्टल का शिलान्यास व साइबर फॉरेंसिक रिसर्च लैब का लोकार्पण",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 03:04:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "08576f2a51cc3ad8d66e8a32956d67e9",
+      "title": "Singapore report ignites Zubeen death issue in Assam",
+      "link": "https://www.thehindu.com/elections/assam-assembly/singapore-report-ignites-zubeen-death-issue-in-assam/article70785257.ece",
+      "summary": "While Chief Minister Himanta Biswa Sarma said the Singapore court’s ruling makes the SIT case stronger, Congress leader Gaurav Gogoi terms it a gift for those accused of killing him",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 03:02:20 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "bce224b7f587653e6cf5132a98d2e963",
@@ -38118,6 +38170,19 @@
       "lang": "en"
     },
     {
+      "id": "0dee3d94cd30659d27bfaa6a53362630",
+      "title": "Iran-Israel war LIVE: Iran issues its own ceasefire proposal, calling for war reparations and sovereignty over Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-25-2026-live-updates/article70782463.ece",
+      "summary": "Iran fires at U.S. carrier as backchannel diplomacy aims to end war",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 01:45:51 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "97ce7acbc9764f13b7d3d1ea8aff1d1e",
       "title": "Varanasi News: बेटे-बेटी की माैत के सदमे में 40 घंटे के भीतर मां की भी मौत",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/the-mother-also-died-within-40-hours-of-the-death-of-her-son-and-daughter-varanasi-news-c-20-vns1021-1334594-2026-03-26",
@@ -38178,6 +38243,19 @@
       "timestamp": "Thu, 26 Mar 2026 01:14:11 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a1ec266e12c2a02e34eb1d423c02b497",
+      "title": "Allahabad HC refuses to quash 1984 anti-Sikh riots cases in Kanpur",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-hc-refuses-to-quash-1984-anti-sikh-riots-cases-in-kanpur/article70784320.ece",
+      "summary": "The High Court observed that the nature of the incidents was “akin to a genocide against a particular community”",
+      "date": "2026-03-26",
+      "timestamp": "Thu, 26 Mar 2026 01:09:46 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -89893,6 +89971,84 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "46ca65a09863c8d68c43abd142154a53",
+      "title": "Have PNG access but not switched? Govt will stop LPG refills",
+      "link": "https://timesofindia.indiatimes.com/india/have-png-access-but-not-switched-govt-will-stop-lpg-refills/articleshow/129812559.cms",
+      "summary": "Households with access to piped natural gas but still using LPG cylinders will face a supply cut in three months. This government move aims to reduce LPG imports, with exceptions for technically infeasible PNG connections. City gas firms will notify eligible consumers, while authorities must now grant pipeline permissions within set deadlines.",
+      "date": "2026-03-25",
+      "timestamp": "2026-03-26T03:48:31+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "71113db99c1c4218a4cb5a75f6be1a1a",
+      "title": "Global boost: IITs make mark in QS top 50 rankings by subject",
+      "link": "https://timesofindia.indiatimes.com/india/global-boost-iits-make-mark-in-qs-top-50-rankings-by-subject/articleshow/129812077.cms",
+      "summary": "Indian Institutes of Technology are solidifying their global standing in engineering, with multiple disciplines ranking in the world's top 50. Management education is also advancing, as seen with IIM Ahmedabad's rise. Overall, India's higher education system shows significant quality improvement and global competitiveness.",
+      "date": "2026-03-25",
+      "timestamp": "2026-03-26T03:41:27+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e7bc6942a7c990b78ea505f7b48b2f21",
+      "title": "With Rs 1,800cr outlay, immigration scheme extended for 5 years",
+      "link": "https://timesofindia.indiatimes.com/india/with-rs-1800cr-outlay-immigration-scheme-extended-for-5-years/articleshow/129811704.cms",
+      "summary": "The Union cabinet has approved the continuation of the immigration and visa tracking scheme for five more years until March 2031 with a Rs 1,800 crore outlay. This initiative aims to enhance national security and streamline the visa and immigration process for foreign visitors by inter-linking multiple databases for informed decision-making.",
+      "date": "2026-03-25",
+      "timestamp": "2026-03-26T03:24:17+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d68f028dde9776ca7519edecd1e994d4",
+      "title": "UK court rejects Nirav Modi's bid to stall extradition",
+      "link": "https://timesofindia.indiatimes.com/india/uk-court-rejects-niravs-bid-to-stall-extradition/articleshow/129811456.cms",
+      "summary": "A UK court has dismissed fugitive diamantaire Nirav Modi's plea to reopen his extradition order, bringing him closer to facing charges in India for a Rs 6,500 crore Punjab National Bank scam. The High Court found no exceptional circumstances to revisit the earlier decision, despite Modi's concerns about ill-treatment. This development follows years of legal proceedings since his 2019 arrest.",
+      "date": "2026-03-25",
+      "timestamp": "2026-03-26T03:09:00+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0081e91cdb21af7504ca6aa407bd59b8",
+      "title": "Have enough fuel stocks, don't believe rumours, says govt",
+      "link": "https://timesofindia.indiatimes.com/india/have-enough-fuel-stocks-dont-believe-rumours-says-govt/articleshow/129811441.cms",
+      "summary": "Government and major oil companies have strongly refuted rumors of petrol and diesel shortages, urging the public to avoid panic buying. Officials confirmed ample fuel stocks nationwide and assured citizens that there are no impending price hikes.",
+      "date": "2026-03-25",
+      "timestamp": "2026-03-26T03:01:25+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "70147cb2191d26a21c6c636077d7aefa",
+      "title": "BlackRock CEO Larry Fink warns oil could hit $150 amid Iran‑US war, causing 'global recession'",
+      "link": "https://timesofindia.indiatimes.com/world/us/blackrock-ceo-larry-fink-warns-oil-could-hit-150-amid-iranus-war-causing-a-global-recession/articleshow/129811229.cms",
+      "summary": "Larry Fink, BlackRock’s CEO, warns that Iran’s ongoing threats could push oil to $150 a barrel, risking a deep global recession. Even post-ceasefire, regional instability around the Strait of Hormuz may keep prices elevated for years. He stresses the regressive impact on consumers and urges accelerated investment in alternative energy to shield economies from prolonged energy shocks.",
+      "date": "2026-03-25",
+      "timestamp": "2026-03-26T02:59:46+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
