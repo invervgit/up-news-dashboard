@@ -1,15 +1,340 @@
 {
-  "generated_at": "2026-03-25T08:43:00.847069+00:00",
+  "generated_at": "2026-03-25T09:48:30.882946+00:00",
   "stories": [
     {
-      "id": "3000316c675f4c654affa98cac5d4901",
-      "title": "Parliament Budget Session LIVE updates: Lok Sabha passes Finance Bill, 2026 by voice vote",
-      "link": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-march-25-2026/article70782676.ece",
-      "summary": "Rajya Sabha to take up discussion on Transgender Persons Amendment Bill, 2026; Foreign Contribution (Regulation) Amendment Bill, 2026 introduced in Lok Sabha",
+      "id": "56c80ac4e6897f2d51110e2084b854f9",
+      "title": "यूपी के इस जिले में बिना पर्चा कोडीन सिरप बेचने पर ऐक्शन, 3 मेडिकल स्टोर संचालक जेल गए",
+      "link": "https://www.livehindustan.com/uttar-pradesh/three-medical-store-operators-jailed-for-selling-codeine-syrup-without-a-prescription-in-santkabirnagar-up-201774431276001.html",
+      "summary": "मेडिकल स्टोर से कोडीनयुक्त सिरप 100 एमएल की 4520 शीशी तथा प्रोक्सोविन स्पॉस कैप्सूल का एक सील कार्टून मिला। उन्होंने मेडिकल स्टोर संचालक को तीन दिन के अंदर क्रय-विक्रय रिकॉर्ड प्रस्तुत करने का नोटिस दिया। इसके बावजूद मेडिकल स्टोर संचालक ने दस्तावेज उपलब्ध नहीं कराया।",
       "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:58:11 +0530",
+      "timestamp": "Wed, 25 Mar 2026 15:15:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a9842782bc8cde09162abcee59e01634",
+      "title": "Assembly Elections LIVE: BJP chief alleges namaz can be offered freely in Bengal, but court approval needed to organise pujas",
+      "link": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-25-2026/article70782473.ece",
+      "summary": "Here (West Bengal), there is permission to offer namaz, but to perform puja and erect pandals, one has to seek permission from the High Court, claims BJP chief Nitin Nabin",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:13:58 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9b717d34a1f5034b740d8cce903b825c",
+      "title": "Tamil Nadu Assembly election 2026: Kamal Haasan’s Makkal Needhi Maiam decides not to contest polls",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-kamal-haasan-makkal-needhi-maiam-decides-not-to-contest-in-polls/article70780880.ece",
+      "summary": "",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:13:15 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ac97fcf2db1038bf7cf5ebb488858676",
+      "title": "Thunderstorms forecast in 20 Telangana districts on March 26",
+      "link": "https://www.thehindu.com/news/national/telangana/thunderstorms-forecast-in-20-telangana-districts-on-march-26/article70783458.ece",
+      "summary": "",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:10:55 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "06868e4c70500c03660ea49a313cd04a",
+      "title": "ECI probing glitch that marked all Bengal voters 'under adjudication': Official",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/eci-probing-glitch-that-marked-all-bengal-voters-under-adjudication-official/article70783443.ece",
+      "summary": "\"The issue was noticed on the night of March 24 and was caused by a technical error, possibly related to the server or backend integration. It has since been rectified, and we are probing the cause behind it,\" says ECI official",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:09:47 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c3b962303f18699f8c3cb11d21328be4",
+      "title": "Activists condemn Transgender Bill passage in Lok Sabha, says haste in Rajya Sabha 'scary'",
+      "link": "https://www.thehindu.com/news/national/activists-condemn-transgender-bill-passage-in-lok-sabha-says-haste-in-rajya-sabha-scary/article70783305.ece",
+      "summary": "\"How can you have a situation where Parliament discusses and passes a law meant for a community, which is protesting right outside Parliament against the same law?\" asks Anish Gawande",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:09:03 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3000316c675f4c654affa98cac5d4901",
+      "title": "Parliament Budget Session LIVE updates: Rajya Sabha discusses Transgender Persons Amendment Bill, 2026",
+      "link": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-march-25-2026/article70782676.ece",
+      "summary": "Lok Sabha passes Finance Bill, 2026; Central Armed Police Forces (General Administration) Bill, 2026 introduced in Rajya Sabha",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:08:37 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "67dacad865fa8edd477c63cc80f6cf9d",
+      "title": "T.N. elections: Attempts to create divisions in DMK-led alliance failed, says CM Stalin",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-elections-attempts-to-create-divisions-in-dmk-led-alliance-failed-says-cm-stalin/article70783205.ece",
+      "summary": "Mr. Stalin, in a letter to his party workers, urged them to ignore rumours intended to mislead and to work together with allies to ensure victory in all 234 Assembly segments",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:08:11 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "aa507c76196a36d7f8f6eb9d77986f9d",
+      "title": "Police seize 31 commercial gas cylinders transported illegally in Madhapur",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/police-seize-31-commercial-gas-cylinders-transported-illegally-in-madhapur/article70783341.ece",
+      "summary": "A case was registered at the Madhapur Police Station, and notices will be issued to those involved in the unauthorised transport.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:06:57 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "229fca25e45c448e6eab58f91168cc23",
+      "title": "AP power dues to Telangana raised in Parliament",
+      "link": "https://www.thehindu.com/news/national/telangana/ap-power-dues-to-telangana-raised-in-parliament/article70783381.ece",
+      "summary": "",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:06:39 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b6448240069c13f95acca5065c60e069",
+      "title": "TGSRTC reduces Metro AC and Deluxe buses fares in Hyderabad by 30% in view of surging demand for fuel",
+      "link": "https://www.thehindu.com/news/national/telangana/tgsrtc-reduces-metro-ac-and-deluxe-buses-fares-in-hyderabad-by-30-in-view-of-surging-demand-for-fuel/article70783377.ece",
+      "summary": "",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:06:34 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4d93691029389a603bccc32235f704cf",
+      "title": "TMC bagged Muslim votes but did nothing for community: Owaisi in Kolkata",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/tmc-bagged-muslim-votes-but-did-nothing-for-community-owaisi-in-kolkata/article70783320.ece",
+      "summary": "The Hyderabad MP claimed that Mamata Banerjee's politics had indirectly helped the BJP expand its footprint in West Bengal",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:04:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6e4fe5d4157b753cca2c0bf31421e15f",
+      "title": "Gurugram rape case: Supreme Court criticises Haryana Police’s insensitive handling of four-year-old child’s rape case",
+      "link": "https://www.thehindu.com/news/national/gurugram-child-rape-case-supreme-court-haryana-police-haryana-child-welfare-committee/article70783384.ece",
+      "summary": "Supreme Court mandates swift action and oversight in the sensitive case, forming a SIT while condemning the Haryana Police’s failure to adequately protect and assist the young survivor",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 15:02:49 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "59e2602fc780fd0498545beb34dc9cfd",
+      "title": "CSK’s ‘Roar 26’: Nostalgia, Dhoni buzz and an AR Rahman concert light up Chepauk before IPL 2026",
+      "link": "https://www.thehindu.com/entertainment/csks-roar-26-nostalgia-dhoni-buzz-and-an-ar-rahman-concert-light-up-chepauk-before-ipl-2026/article70774437.ece",
+      "summary": "Chepauk turned into a sea of yellow as thousands of fans celebrated Chennai Super Kings’ cricketing legends in ‘Roar 26’, a perfect curtain raiser to IPL 2026",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:56:28 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "59feb700b429588fb567c26bcc4d8db0",
+      "title": "शादी के बाद ससुराल पहुंची दुल्हन, सुहागरात से पहले कर दिया कांड; दूल्हे ने पकड़ लिया माथा",
+      "link": "https://www.livehindustan.com/uttar-pradesh/dulhan-arrived-at-her-in-laws-house-after-wedding-then-eloped-with-her-lover-before-the-suhagraat-dulha-tense-201774429983230.html",
+      "summary": "शादी के बाद ससुराल पहुंची दुल्हन ने सुहागरात से पहले कर कांड दिया। प्रेमी के साथ जेवरात लेकर फरार हो गई। जानकारी होने पर दूल्ह ने माथा पकड़ लिया। पति ने मोहनलालगंज कोतवाली में शिकायत दर्ज कराई।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:54:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "afc3ebc119edc34eda970f281aa9b9b9",
+      "title": "Rahul Gandhi to skip Kerala rally due to Sonia Gandhi’s ill health; Kharge to attend Kozhikode event",
+      "link": "https://www.thehindu.com/news/national/kerala/rahul-gandhi-to-skip-kerala-rally-due-to-sonia-gandhis-ill-health-kharge-to-attend-kozhikode-event/article70783406.ece",
+      "summary": "Congress leader Sachin Pilot is likely to accompany Kharge",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:54:30 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c7f243adb7ff05187d5340e611e1b9a0",
+      "title": "Agnikul test-fires first-of-its-kind 3D-printed booster engine",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/agnikul-test-fires-first-of-its-kind-3d-printed-booster-engine/article70782689.ece",
+      "summary": "Unlike traditional engines that take several months to manufacture, Agnikul’s engines can be fully 3D printed in just seven days. This reduces production complexity and turnaround time",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:52:53 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0859a94921d45dfa1e4b451e6b64508f",
+      "title": "Tamil Nadu Assembly election: AIADMK’s first list of candidates out, no major surprises",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-aiadmks-first-list-out-no-major-surprises/article70782790.ece",
+      "summary": "Party general secretary Palaniswami to contest from Edappadi constituency (Salem district) again",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:47:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "189f3448212fdecbc31ab6ce5a3087fb",
+      "title": "Kerala State Assembly Elections 2026: Sitting CM & Ministers",
+      "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-state-assembly-elections-sitting-cm-cabinet-ministers-in-kerala/article70682870.ece",
+      "summary": "As Kerala gears up for 2026 State Assembly elections, the performance of sitting Ministers from Left Democratic Front (LDF) is in focus",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:45:18 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dd54885f0f3c40b57a4b231703f85782",
+      "title": "South Star Rail and Tour Times offers three tour packages from Mangaluru to North East by train",
+      "link": "https://www.thehindu.com/news/cities/Mangalore/south-star-rail-and-tour-times-offers-three-tour-packages-from-mangaluru-to-north-east-by-train/article70782991.ece",
+      "summary": "The North East package trains will depart from Madurai with convenient boarding points in Kerala. Tourists travelling from Mangaluru will be offered complimentary transfers to Palakkad, Ottapalam or Thrissur, based on their preference",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:44:16 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c29fcca296ec22aa1ce57a00fdbd4c9b",
+      "title": "Fuel crisis LIVE: PM's 'like Covid period' statement has panicked people, says M.K. Stalin slams Union Government over gas shortage",
+      "link": "https://www.thehindu.com/news/national/lpg-fuel-petrol-crisis-live-updates-west-asia-war-straight-of-hormuz/article70782692.ece",
+      "summary": "Oil falls more than 5%, Asian shares gain over Trump's talk of Iran negotiations",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:37:11 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e50ae3e5a1787ecf83b8c3df89e12250",
+      "title": "Compensation, interest on land acquisition payout can't be contingent on financial burden: Supreme Court",
+      "link": "https://www.thehindu.com/news/national/compensation-interest-on-land-acquisition-payout-cant-be-contingent-on-financial-burden-supreme-court/article70783163.ece",
+      "summary": "The Bench said interest payable to the landowners will be according to the land Acquisition Act, which is 9%, and not the NHAI Act, which has a 5% cap",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:32:28 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5f1a51364b7167f6ac383f98618e22eb",
+      "title": "आधी रात को नशे में घर आए पति फूटा पत्नी का गुस्सा, बेटों संग पीट-पीटकर मार डाला",
+      "link": "https://www.livehindustan.com/uttar-pradesh/husband-came-home-drunk-at-midnight-wife-s-anger-erupted-she-beat-him-and-her-sons-to-death-201774428752445.html",
+      "summary": "गोरखपुर के रामगढ़ताल थाना क्षेत्र काशीराम आवास में मंगलवार की देर रात करीब 12:30 बजे पति रमेश घर आया तो शराब के नशे में धुत था। घर आते ही वह किसी बात को लेकर पत्नी को भला-बुरा कहने लगा। पत्नी ने विरोध किया तो पति उससे उलझ गया।वह उससे गाली-गलौच करने लगा।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:31:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9514c8e471401953dc9da6684d5aa3e4",
+      "title": "Supreme Court junks plea against MHA circular on Vande Mataram, terms it 'vague apprehension of discrimination'",
+      "link": "https://www.thehindu.com/news/national/supreme-court-bins-plea-against-mha-circular-on-vande-mataram-terms-it-vague-apprehension-of-discrimination/article70783257.ece",
+      "summary": "The Bench told the petitioner that he can approach the court in case of any penal action or notice to him, and observed that at present the petition is nothing but a \"vague apprehension of discrimination\".",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:30:10 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7a1dc8d5d9542e34f73fdd50d4e812b4",
+      "title": "Fugitive Punjab AAP MLA Pathanmajra arrested from Gwalior",
+      "link": "https://www.thehindu.com/news/national/punjab/fugitive-punjab-aap-mla-pathanmajra-arrested-from-gwalior/article70783272.ece",
+      "summary": "The case was registered based on a complaint by a Zirakpur-based woman, who alleged that the MLA misrepresented himself as a divorcee, entered into a relationship with her and later married in 2021 while already being married.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:28:16 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eb838a25ca2d6e8cfdd5f71be254258c",
+      "title": "Bose Krishnamachari quit Kochi Biennale following sexual harassment allegation, says foundation",
+      "link": "https://www.thehindu.com/news/national/kerala/bose-krishnamachari-quit-kochi-biennale-following-sexual-allegation-says-foundation/article70783312.ece",
+      "summary": "KBF chairperson V. Venu says the complaint triggered an internal investigation, though no police report has been filed",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:24:42 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -20,9 +345,87 @@
       "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-buzz-over-congress-cm-candidate-continues-despite-leaderships-efforts-to-rein-it-in/article70783175.ece",
       "summary": "Veteran leader P.J. Kurien endorses Ramesh Chennithala during UDF election event. While Chennithala downplays it, stating the final decision rests with High Command, senior leader K.C. Joseph warns against potential divisiveness of such speculation. Satheesan seeks to sidestep the debate",
       "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:56:32 +0530",
+      "timestamp": "Wed, 25 Mar 2026 14:21:26 +0530",
       "section": "National",
       "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5ca09670af7aeedbaf2a41ef2c471d11",
+      "title": "Iranian military mocks Trump's claim of U.S.-Iran negotiations",
+      "link": "https://www.thehindu.com/news/international/iranian-military-mocks-trumps-claim-of-us-iran-negotiations/article70783191.ece",
+      "summary": "The one claiming to be a global superpower would have already gotten out of this mess if it could. Don't dress up your defeat as an agreement, says",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:20:59 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0255f2b4f43ab51606ec3d00e89db873",
+      "title": "3 महीने से शहर में गदर काटे हो... महंत रामचंद्र गिरी की भगवा गाड़ी से हटवाए फोक लाइट और हूटर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-azamgarh-sp-traffic-removed-hooter-and-lights-from-mahant-ramchandra-giri-saffron-car-201774427326490.html",
+      "summary": "यूपी के आजमगढ़ में एसपी ने एक महंत की गाड़ी से फोक लाइट और हूटर उतरवा दिए। चेकिंग के दौरान गाड़ी में अवैध रूप से लगे हूटर को हटवाया गया। एसपी के भड़कने का वीडियो सोशल मीडिया पर वायरल हो रहा है जिसमें वो कहते दिख रहे हैं 3 महीने से गदर काटे हो।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:14:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "0dee3d94cd30659d27bfaa6a53362630",
+      "title": "Iran-Israel war LIVE: Iran has received 15-point U.S. ceasefire proposal, says report",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-25-2026-live-updates/article70782463.ece",
+      "summary": "U.S. President Donald Trump has sent a peace plan to Iran; Tehran announced that it will let “non-hostile” oil vessels go through the Strait of Hormuz",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:10:36 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0c42af2f862b2bdab3a567359b0fad48",
+      "title": "What is Force Majeure clause?",
+      "link": "https://www.thehindu.com/news/national/force-majeure-explained-middle-east-conflict-global-gas-oil-supply-disruption/article70783107.ece",
+      "summary": "Defined as ‘Superior Force’ in French, Force Majeure is a safety valve for business parties to abstain from professional duty in extreme geo-political events",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:03:00 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "856075b4f910124f46e1df5fc7196460",
+      "title": "Paris Fashion Week 2026: WforWoman marks India’s first high-street showcase",
+      "link": "https://www.thehindu.com/life-and-style/fashion/paris-fashion-week-2026-wforwoman-marks-indias-first-high-street-showcase/article70775210.ece",
+      "summary": "WforWoman’s debut at Paris Fashion Week bridges vintage European aesthetics with the intricacy of Indian textiles",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 14:02:51 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f8c1223fca251ece915a423b49af8a42",
+      "title": "T.N. CM Stalin accuses Centre of using delimitation to divert attention from cooking gas shortage",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-accuses-centre-of-using-delimitation-to-divert-attention-from-cooking-gas-shortage/article70782742.ece",
+      "summary": "“Is the supply of gas cylinders and foreign policy under the control of the State government?” he questioned",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 13:59:32 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -42,7 +445,7 @@
     },
     {
       "id": "b2ca17ef3c1fd2f69c813daa01b9a3cb",
-      "title": "रेड टीम को बॉडी कैमरा पहनाकर ट्रैक कर रहा विभाग, बिजली चोरों से अवैध वसूली वाली चोरी बंद",
+      "title": "रेड टीम को बॉडी कैमरा पहनाकर ट्रैक कर रहा विभाग, बिजली चोरों से सेटिंग और वसूली बंद",
       "link": "https://www.livehindustan.com/uttar-pradesh/uppcl-kesco-monitors-electricity-power-theft-raid-team-movements-by-gps-with-body-worn-cameras-to-stop-corruption-201774425367817.html",
       "summary": "यूपी के कानपुर में बिजली चोरी रोकने के लिए रेड मारने वाली टीम के कर्मचारियों और पुलिस को कैमरा लगी पोशाक पहनाया गया है। इससे टीम और बिजली चोरों के झगड़े और लेन-देन पर नजर रखी जाती है।",
       "date": "2026-03-25",
@@ -67,16 +470,16 @@
       "lang": "en"
     },
     {
-      "id": "7a1dc8d5d9542e34f73fdd50d4e812b4",
-      "title": "Fugitive Punjab AAP MLA Pathanmajra arrested from Gwalior",
-      "link": "https://www.thehindu.com/news/national/punjab/fugitive-punjab-aap-mla-pathanmajra-arrested-from-gwalior/article70783272.ece",
-      "summary": "The case was registered based on a complaint by a Zirakpur-based woman, who alleged that the MLA misrepresented himself as a divorcee, entered into a relationship with her and later married in 2021 while already being married.",
+      "id": "efaf136f44fc8ba66ee66388cbbf4151",
+      "title": "Lucknow Suicide: लखनऊ में दर्दनाक घटना: युवक ने ट्रेन के आगे कूदकर दी जान, पुलिस जांच में जुटी",
+      "link": "https://www.patrika.com/lucknow-news/lucknow-tragedy-youth-dies-after-jumping-before-train-in-thakurganj-20450573",
+      "summary": "Lucknow Suicide Case: राजधानी लखनऊ के ठाकुरगंज क्षेत्र में उस समय हड़कंप मच गया, जब एक युवक ने ट्रेन के आगे कूदकर आत्महत्या कर ली। घटना की सूचना मिलते ही पुलिस मौके पर पहुंची और शव को कब्जे में लेकर पोस्टमार्टम के लिए भेज दिया। इस दर्दनाक घटना के बाद पूरे इलाके में शोक और सनसनी का माहौल बना हुआ है।",
       "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:53:32 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
+      "timestamp": "Wed, 25 Mar 2026 13:51:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -88,19 +491,6 @@
       "timestamp": "Wed, 25 Mar 2026 13:46:25 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "9514c8e471401953dc9da6684d5aa3e4",
-      "title": "Supreme Court junks plea against MHA circular on Vande Mataram, terms it 'vague apprehension of discrimination'",
-      "link": "https://www.thehindu.com/news/national/supreme-court-bins-plea-against-mha-circular-on-vande-mataram-terms-it-vague-apprehension-of-discrimination/article70783257.ece",
-      "summary": "The Bench told the petitioner that he can approach the court in case of any penal action or notice to him, and observed that at present the petition is nothing but a \"vague apprehension of discrimination\".",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:45:54 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -132,6 +522,19 @@
       "lang": "en"
     },
     {
+      "id": "fdce3d18436262b219027b2aa33c9712",
+      "title": "सीएम योगी को लेकर केशव प्रसाद मौर्य का बड़ा बयान, भरे मंच से की जमकर तारीफ",
+      "link": "https://www.patrika.com/lucknow-news/up-politics-keshav-prasad-maurya-heaped-lavish-praise-on-cm-yogi-from-crowded-stage-20450673",
+      "summary": "UP Politics: लखनऊ के लोक भवन में निवेश मित्र 3.0 पोर्टल के शुभारंभ, एलओसी वितरण और सब्सिडी हस्तांतरण का समारोह आयोजित किया गया। इस मौके पर उत्तर प्रदेश के डिप्टी मुख्यमंत्री केशव प्रसाद मौर्य ने संबोधन देते हुए मुख्यमंत्री योगी आदित्यनाथ के नेतृत्व की खूब सराहना की। उन्होंने कहा कि उन्हें सीएम योगी के नेतृत्व पर पूरा गर्व है।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 13:44:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "d9ca680f1776c8b6c09fcd088742c309",
       "title": "Namaz can be offered freely in Bengal, but court approval needed to organise pujas: Nitin Nabin",
       "link": "https://www.thehindu.com/elections/namaz-can-be-offered-freely-in-bengal-but-court-approval-needed-to-organise-pujas-nitin-nabin/article70783110.ece",
@@ -153,19 +556,6 @@
       "timestamp": "Wed, 25 Mar 2026 13:38:32 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "a9842782bc8cde09162abcee59e01634",
-      "title": "Assembly Elections LIVE: BJP chief alleges namaz can be offered freely in Bengal, but court approval needed to organise pujas",
-      "link": "https://www.thehindu.com/elections/assembly-elections-kerala-tamil-nadu-west-bengal-assam-puducherry-live-updates-march-25-2026/article70782473.ece",
-      "summary": "Here (West Bengal), there is permission to offer namaz, but to perform puja and erect pandals, one has to seek permission from the High Court, claims BJP chief Nitin Nabin",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:38:28 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -223,45 +613,6 @@
       "lang": "en"
     },
     {
-      "id": "0c42af2f862b2bdab3a567359b0fad48",
-      "title": "What is Force Majeure clause?",
-      "link": "https://www.thehindu.com/news/national/force-majeure-explained-middle-east-conflict-global-gas-oil-supply-disruption/article70783107.ece",
-      "summary": "Defined as ‘Superior Force’ in French, Force Majeure is a safety valve for business parties to abstain from professional duty in extreme geo-political events",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:27:24 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "c29fcca296ec22aa1ce57a00fdbd4c9b",
-      "title": "Fuel crisis LIVE: PM's 'like Covid period' statement has panicked people, says M.K. Stalin slams Union Government over gas shortage",
-      "link": "https://www.thehindu.com/news/national/lpg-fuel-petrol-crisis-live-updates-west-asia-war-straight-of-hormuz/article70782692.ece",
-      "summary": "Oil falls more than 5%, Asian shares gain over Trump's talk of Iran negotiations",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:27:19 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "5ca09670af7aeedbaf2a41ef2c471d11",
-      "title": "Iranian military mocks Trump's claim of U.S.-Iran negotiations",
-      "link": "https://www.thehindu.com/news/international/iranian-military-mocks-trumps-claim-of-us-iran-negotiations/article70783191.ece",
-      "summary": "The one claiming to be a global superpower would have already gotten out of this mess if it could. Don't dress up your defeat as an agreement, says",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:23:10 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b0601963efdd0db68cb8f0ef6590b8ba",
       "title": "Woman, son injured in gas cylinder fire accident in Bagalkot",
       "link": "https://www.thehindu.com/news/national/karnataka/woman-son-injured-in-gas-cylinder-fire-accident-in-bagalkot/article70783129.ece",
@@ -301,45 +652,6 @@
       "lang": "en"
     },
     {
-      "id": "0dee3d94cd30659d27bfaa6a53362630",
-      "title": "Iran-Israel war LIVE: Israel says it has struck a naval missile production site in Tehran",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-march-25-2026-live-updates/article70782463.ece",
-      "summary": "U.S. President Donald Trump has sent a peace plan to Iran; Tehran announced that it will let “non-hostile” oil vessels go through the Strait of Hormuz",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:15:51 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "e50ae3e5a1787ecf83b8c3df89e12250",
-      "title": "Compensation, interest on land acquisition payout can't be contingent on financial burden: Supreme Court",
-      "link": "https://www.thehindu.com/news/national/compensation-interest-on-land-acquisition-payout-cant-be-contingent-on-financial-burden-supreme-court/article70783163.ece",
-      "summary": "The Bench said interest payable to the landowners will be according to the land Acquisition Act, which is 9%, and not the NHAI Act, which has a 5% cap",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:14:57 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "dd54885f0f3c40b57a4b231703f85782",
-      "title": "South Star Rail and Tour Times offers three tour packages from Mangaluru to North East by train",
-      "link": "https://www.thehindu.com/news/cities/Mangalore/south-star-rail-and-tour-times-offers-three-tour-packages-from-mangaluru-to-north-east-by-train/article70782991.ece",
-      "summary": "The North East package trains will depart from Madurai with convenient boarding points in Kerala. Tourists travelling from Mangaluru will be offered complimentary transfers to Palakkad, Ottapalam or Thrissur, based on their preference",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:06:33 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "2ede0e97f4197c2861800c0a11387836",
       "title": "Supreme Court-appointed panel asks Centre to withdraw Transgender Bill that removes right to gender self-determination",
       "link": "https://www.thehindu.com/news/national/supreme-court-appointed-panel-asks-centre-to-withdraw-transgender-bill-that-removes-right-to-gender-self-determination/article70782729.ece",
@@ -348,19 +660,6 @@
       "timestamp": "Wed, 25 Mar 2026 13:05:31 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "f8c1223fca251ece915a423b49af8a42",
-      "title": "T.N. CM Stalin accuses Centre of using delimitation to divert attention from cooking gas shortage",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-accuses-centre-of-using-delimitation-to-divert-attention-from-cooking-gas-shortage/article70782742.ece",
-      "summary": "“Is the supply of gas cylinders and foreign policy under the control of the State government?” he questioned",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 13:03:12 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -938,19 +1237,6 @@
       "lang": "en"
     },
     {
-      "id": "c7f243adb7ff05187d5340e611e1b9a0",
-      "title": "Agnikul test-fires first-of-its-kind 3D-printed booster engine",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/agnikul-test-fires-first-of-its-kind-3d-printed-booster-engine/article70782689.ece",
-      "summary": "Unlike traditional engines that take several months to manufacture, Agnikul’s engines can be fully 3D printed in just seven days. This reduces production complexity and turnaround time",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 12:06:10 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "73c68d35983f70a708e90585e5e3a7af",
       "title": "यूपी कॉलेज: सूर्य प्रताप सिंह की हत्या के आरोपी मंजीत के पिता ने कहा- बेटे ने बुढ़ौती खराब कर दी",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/up-college-father-of-manjeet-accused-of-murdering-surya-pratap-singh-says-my-son-ruined-my-old-age-2026-03-25",
@@ -1380,6 +1666,19 @@
       "lang": "en"
     },
     {
+      "id": "80e0a802828bdf48779cf3a7c9898564",
+      "title": "New LPG Rules: लखनऊ में गैस बुकिंग नियम बदले: अब तय समय अंतराल के बाद ही मिलेगा सिलिंडर, जानें नए नियम",
+      "link": "https://www.patrika.com/lucknow-news/new-lpg-rules-in-lucknow-cylinder-booking-now-restricted-by-time-gap-20450155",
+      "summary": "New LPG Rules in Lucknow: देश में फ्यूल और ऊर्जा आपूर्ति को लेकर उत्पन्न हो रही चुनौतियों के बीच अब एलपीजी गैस उपभोक्ताओं के लिए नए नियम लागू कर दिए गए हैं। अंतरराष्ट्रीय स्तर पर ईरान से जुड़े युद्ध जैसे हालातों के कारण ऊर्जा आपूर्ति प्रभावित हुई है, जिसका असर अब घरेलू गैस वितरण प्रणाली पर भी देखने को मिल रहा है। इसी को ध्यान में रखते हुए तेल कंपनियों ने गैस आपूर्ति और बुकिंग से जुड़े नियमों में महत्वपूर्ण बदलाव किए हैं।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 11:08:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "fb8dd5354048fe6eca8bb2a90aa0df16",
       "title": "'U-turn Ustad': Congress slams PM bid for 'special session' to pass women quota law amendments",
       "link": "https://www.thehindu.com/news/national/u-turn-ustad-congress-slams-pm-bid-for-special-session-to-pass-women-quota-law-amendments/article70782675.ece",
@@ -1549,6 +1848,19 @@
       "lang": "en"
     },
     {
+      "id": "e934a03c83263bdb7902df5e3f2b7d3c",
+      "title": "Gold & Silver Prices: सोना-चांदी के दाम में उछाल, खरीदारी से पहले नए रेट और सावधानियां जानें",
+      "link": "https://www.patrika.com/lucknow-news/gold-silver-prices-surge-check-latest-rates-before-buying-jewelry-20450079",
+      "summary": "Gold & Silver Prices Surge: लखनऊ सर्राफा बाजार में एक बार फिर सोने और चांदी की कीमतों में तेजी देखने को मिल रही है। बढ़ती मांग और वैश्विक आर्थिक परिस्थितियों के चलते कीमती धातुओं के दाम लगातार ऊपर की ओर बढ़ रहे हैं। ऐसे में यदि आप सोना या चांदी खरीदने की योजना बना रहे हैं, तो नए रेट और सही खरीदारी स्थान के बारे में जानकारी होना बेहद जरूरी है।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 10:39:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "bf0d6490f71b79ecd57932be10cf3b78",
       "title": "बदायूं दोहरा हत्याकांड: अब दोहरे सुरक्षा कवच के बीच होगा एचपीसीएल प्लांट का संचालन, अफसरों ने बनाई रणनीति",
       "link": "https://www.amarujala.com/uttar-pradesh/budaun/badaun-double-murder-case-hpcl-plant-to-now-operate-under-a-dual-security-shield-2026-03-25",
@@ -1641,13 +1953,13 @@
     },
     {
       "id": "6ffd5193937201f55f712136e79402dd",
-      "title": "Assemply Elections 2026: भाजपा नेता दिलीप घोष के 'बिगड़े बोल' पर बवाल, चुनाव आयोग पहुंची सीएम ममता",
+      "title": "Assemply Elections 2026: चुनाव आयोग की वेबसाइट में परेशानी पर बवाल, TMC ने मतदाताओं को डराने का आरोप लगाया",
       "link": "https://www.amarujala.com/india-news/assembly-election-updates-west-bengal-assam-tamil-nadu-kerala-puducherry-candidate-lists-rally-manifesto-news-2026-03-25",
       "summary": "Assemply Elections 2026: तमिलनाडु में AIADMK के 23 प्रत्याशियों की सूची जारी; पूर्व CM पलानीस्वामी का भी नाम",
       "date": "2026-03-25",
       "timestamp": "Wed, 25 Mar 2026 10:24:00 +0530",
       "section": "National",
-      "report_category": "National_General",
+      "report_category": "National_Opposition",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -1663,6 +1975,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "4ae7b64364f5ed9fe100183312d9094c",
+      "title": "UP Elections 2027: उत्तर प्रदेश में 2027 विधानसभा चुनाव की सुगबुगाहट तेज, राजनीतिक दलों ने शुरू की तैयारी",
+      "link": "https://www.patrika.com/lucknow-news/up-elections-2027-political-heat-rises-as-parties-begin-preparations-20450028",
+      "summary": "UP Election 2027: उत्तर प्रदेश में आगामी 2027 विधानसभा चुनाव को लेकर राजनीतिक हलचल तेज होने लगी है। मुख्यमंत्री योगी आदित्यनाथ के नेतृत्व वाली सरकार ने अपने दूसरे कार्यकाल के चार वर्ष पूरे कर लिए हैं, जिसके साथ ही अब प्रदेश में चुनावी माहौल धीरे-धीरे बनता नजर आ रहा है। सभी प्रमुख राजनीतिक दलों ने अपनी-अपनी रणनीतियों पर काम शुरू कर दिया है।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 10:23:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -1871,6 +2196,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "023cfd1cec34ca6f3270751b7fc3fc25",
+      "title": "Weather: बदलेगा मौसम, 27 मार्च से बारिश और तापमान में गिरावट के आसार",
+      "link": "https://www.patrika.com/lucknow-news/weather-update-up-rain-likely-from-march-27-as-western-disturbance-hits-state-20449921",
+      "summary": "Weather Update UP: उत्तर प्रदेश में मौसम एक बार फिर करवट लेने जा रहा है। पिछले कुछ दिनों से जारी गर्मी और बदलते तापमान के बीच अब मौसम विभाग ने नई चेतावनी जारी की है। मौसम वैज्ञानिकों के अनुसार 27 मार्च से प्रदेश के विभिन्न हिस्सों में मौसम का मिजाज बदल सकता है और हल्की बारिश की शुरुआत होने की संभावना है।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 10:08:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -2147,6 +2485,19 @@
       "lang": "en"
     },
     {
+      "id": "808c367094e460597014628bf9dfcb0a",
+      "title": "Rare surgery in Kanpur:TB lump removed from child’s heart after stopping heartbeat for 4 hours, doctors call it a first case",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/kanpur-tb-lump-child-heart-surgery-rare-case-137529533.html",
+      "summary": "Doctors at Kanpur's Institute of Cardiology (LPS Cardiology) have given a new lease of life to a 12-year-old girl by operating on her for about 4 hours. A massive tuberculous mass had formed in the right atrium of Laxmi Patel, a resident of Fatehpur, which had almost blocked the blood flow. Dr. Rakesh Verma, Director of LPS Cardiology, claims that this is the first such case in the world, which will now be sent for publication in international medical journals. Breathing was difficult, the body had swollen Laxmi, a resident of Khanddevar, Fatehpur, was admitted to the CVTS department of the institute on February 24. At that time, the girl's condition was extremely critical. She was experiencing difficulty breathing while sitting, and her entire body, along with her legs, had swollen. Investigations revealed that her heartbeat was also abnormal, and there was fluid accumulation around her heart. Big revelation in echo examination When doctors performed TTE and TEE (special heart examinations) on Lakshmi, everyone was surprised to see the report. A large lump of 10x10 cm was present in the right side of the heart. This lump had completely covered the heart valve, preventing proper blood flow in the body. Along with this, the protective membrane above the heart (pericardium) had also thickened to 1 centimeter, much more than normal. Initially, it was considered a tumor. Operation lasted 4 hours on heart-lung machine Considering the critical condition of the patient, the decision for the operation was taken on March 14. Dr. Rakesh Verma and his team of doctors put the girl on a heart-lung machine and started the surgery after stopping her heartbeat. First, the thick and hard membrane accumulated on the heart was separated from the large arteries. After this, the wall of the heart was opened and that huge lump was removed. After the operation, when the lump was biopsied, it was found that it was not a tumor but a TB infection. This rare case will be reported globally Dr. Rakesh Verma, Director of LPS Cardiology, said - such a large lump of TB inside the heart and such thickening of the membrane is extremely rare. He said that he has reviewed national and international medical literature, but no other such case has come to light so far. He said - this is a great achievement for the institute. Currently, the girl is completely healthy and will be discharged from the hospital soon. Team of these doctors performed the successful operation The team that performed this complex surgery included Prof. Rakesh Verma, Dr. Saurabh, Dr. Prabhat, Dr. Sriraj and Dr. Laxman from the surgical department. The anesthesia team included Dr. Chandni, Dr. Suraj, Dr. Urvashi, Dr. Nisha and Dr. Diksha. Dr. Mubeen was in charge of the heart-lung machine, and the nursing staff included Sunita, Vaishali and Anuj. What is a Heart-Lung Machine The heart-lung machine is a life-saving device, also known as the cardiopulmonary bypass (CPB) machine. It is used during open-heart surgery when the heart needs to be stopped. This machine temporarily takes over the heart's pumping and the lungs' oxygenation functions, ensuring blood circulation throughout the body.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 09:27:33 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "66e4bdbe67627dde2da783237ba07ae0",
       "title": "Amazon says AWS' Bahrain region 'disrupted' following drone activity",
       "link": "https://www.thehindu.com/sci-tech/technology/amazon-says-aws-bahrain-region-disrupted-following-drone-activity/article70782518.ece",
@@ -2183,6 +2534,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8b7adb56672d7154de572739ec9606c0",
+      "title": "Belarus’s Lukashenko makes first visit to North Korea in bid to deepen ties",
+      "link": "https://www.aljazeera.com/news/2026/3/25/belaruss-lukashenko-makes-first-visit-to-north-korea-in-bid-to-deepen-ties?traffic_source=rss",
+      "summary": "Belarus and North Korea are expected to sign a treaty of friendship as their leaders meet in Pyongyang.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 09:23:36 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cb374835c550a22d61008298ca2dca9e",
+      "title": "US Democrats condemn war on Iran as Senate resolution fails",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/25/us-democrats-condemn-war-on-iran-as-senate-resolution-fails?traffic_source=rss",
+      "summary": "The latest war powers resolution in the US Senate to end US attacks on Iran has failed in a 47-53 vote.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 09:20:42 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -2277,6 +2654,19 @@
       "lang": "en"
     },
     {
+      "id": "427016c34fab5fe4d257bb3d90776d7a",
+      "title": "Dozens of bodies, mostly infants, discovered in Kenya mass grave",
+      "link": "https://www.bbc.com/news/articles/clydj9gj24jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some of the 32 bodies, including 25 children, are believed to have come from local hospitals and mortuaries.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 08:41:22 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c0c4382df777ff776232b1e07fb6e854",
       "title": "Kerala Assembly Elections 2026: In Muvattupuzha, Congress keen to buck the trend, saffron maths adds to poll game",
       "link": "https://www.thehindu.com/news/national/kerala/kerala-assembly-elections-2026-in-muvattupuzha-congress-keen-to-buck-the-trend-saffron-maths-adds-to-poll-game/article70775966.ece",
@@ -2303,6 +2693,19 @@
       "lang": "en"
     },
     {
+      "id": "3c263576e0042577c2f96649bb1c1e20",
+      "title": "Is Iran’s negotiating position stronger than when US-Israeli war started?",
+      "link": "https://www.aljazeera.com/news/2026/3/25/is-irans-negotiating-position-stronger-than-when-us-israeli-war-started?traffic_source=rss",
+      "summary": "Tehran believes so, and will seek to extract concessions that the US and Gulf nations can't agree to, analysts caution.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 08:38:42 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "45f5228c27027f3d66a5855a2f88fe3f",
       "title": "Mother of 7 seeking divorce brutally murdered by husband:Lover also killed, inside story of double murder in Ghaziabad",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/ghaziabad-double-murder-lover-killed-husband-brutally-murders-wife-boyfriend-137529136.html",
@@ -2313,6 +2716,19 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "49fabede292931823b5a9e936065d78f",
+      "title": "Dreams of survival: How war has restructured Gaza’s job market",
+      "link": "https://www.aljazeera.com/news/2026/3/25/dreams-of-survival-how-war-restructured-gaza-labour-market?traffic_source=rss",
+      "summary": "Gaza's professionals adapt careers to survive, shifting from arts and business to whatever they can find to make money.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 08:34:07 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -2364,6 +2780,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fffc302e2325b6ab6eb812c0ef71b6d6",
+      "title": "Graffiti conviction for Australian woman who stuck googly eyes on sculpture",
+      "link": "https://www.bbc.com/news/articles/cwydx34kzlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman had taken MDMA and three litres of vodka when she vandalised the piece nicknamed Blue Blob.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 08:17:51 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -2434,7 +2863,7 @@
     },
     {
       "id": "aaa1292defaffe7bff9510cd6020af10",
-      "title": "Warning of global recession if oil price hits $150",
+      "title": "Boss of financial giant BlackRock warns of global recession if oil price hits $150",
       "link": "https://www.bbc.com/news/articles/c9wqrdkx8ppo?at_medium=RSS&at_campaign=rss",
       "summary": "Larry Fink says if oil prices stay high for a sustained period it will have \"profound implications\" for the world economy.",
       "date": "2026-03-25",
@@ -2524,6 +2953,19 @@
       "lang": "en"
     },
     {
+      "id": "13c5dbe0a1d0304540e22634a8680801",
+      "title": "Kuldeep Yadav, Vanshika offered prayers at Banke Bihari temple:Cricketer's first visit to Vrindavan after marriage| WATCH",
+      "link": "https://www.bhaskarenglish.in/sports/cricket/news/kuldeep-yadav-visits-banke-bihari-temple-with-wife-vanshika-chadha-137528807.html",
+      "summary": "Cricketer Kuldeep Yadav visited Banke Bihari in Vrindavan with his wife Vanshika yesterday. They reached the temple at 7:30 PM on Tuesday. Both served by applying perfume on the threshold (doorframe). Then the couple offered ‘56 bhog’ to the Lord. It was their first visit to Mathura after marriage. Kuldeep arrived in Vrindavan so discreetly that no one even got a whiff of it. People came to know about it on Wednesday morning after photos and videos surfaced. Both stayed in the temple for about 25 minutes. During that period, the temple guards stood beside them and guarded them continuously. Temple priest Shailendra Goswami said that Kuldeep's family had informed them about his arrival. They had requested to keep it confidential to avoid crowd. Upon reaching the temple, Nitin Sanwariya and I performed the worship. We had the threshold worshipped by offering perfume. Then we presented the Lord's blessed garland. Subsequently after staying in Vrindavan for about an hour, the couple left for Delhi. Visuals of Kuldeep-Vanshika from Banke Bihari temple - Kuldeep Yadav became a cricketer because of his father Kuldeep was born on December 14, 1994, in a village in Unnao district. His father ran a brick kiln while his mother, Usha Yadav, is a housewife. He has 3 elder sisters. Kuldeep had a tremendous passion for cricket early in his childhood and would never miss watching matches whenever they were broadcast on TV. Kuldeep had mentioned in an interview that his father wanted to make him a cricketer, but he didn't like this game at all. He just used to play cricket with a tennis ball with friends. He was quite good in studies. Today, because of his father's hard work, he has become the charismatic off-spinner of Indian cricket.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 07:40:29 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "af7cc50f3c06bdfd6ec6c6aa9fc69dd0",
       "title": "Bareilly News: माथे पर तिलक लगाकर बाइक चुराता था रामपुर का रहमान, पुलिस ने किया गिरफ्तार",
       "link": "https://www.amarujala.com/uttar-pradesh/bareilly/police-arrested-accused-rahman-who-who-used-to-steal-bikes-while-wearing-a-tilak-on-his-forehead-in-bareilly-2026-03-25",
@@ -2547,19 +2989,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "9b717d34a1f5034b740d8cce903b825c",
-      "title": "Tamil Nadu Assembly election 2026: Kamal Haasan’s Makkal Needhi Maiam decides not to contest in polls",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tn-election-2026-kamal-haasan-makkal-needhi-maiam-decides-not-to-contest-in-polls/article70780880.ece",
-      "summary": "",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 07:28:48 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -2810,6 +3239,19 @@
       "lang": "en"
     },
     {
+      "id": "2eb2064cf7182826248f201b67f685b7",
+      "title": "In pictures: Playful lynx snatches top prize in photo competition",
+      "link": "https://www.bbc.com/news/articles/c150yl0y5vzo?at_medium=RSS&at_campaign=rss",
+      "summary": "A young lynx caught mid play has won the Wildlife Photographer of the Year People's Choice Award 2026.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 06:29:10 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "de387773ded97a8e6b5dc4fb58aa8026",
       "title": "Journalists at Australia's national broadcaster strike for first time in 20 years",
       "link": "https://www.bbc.com/news/articles/c208ngv1mz7o?at_medium=RSS&at_campaign=rss",
@@ -3032,7 +3474,7 @@
     },
     {
       "id": "2ca6e76c1ae02ffe2496d02a6ef80770",
-      "title": "As Iran war rocks global economy, Global South bears brunt of fallout",
+      "title": "From Pakistan to Egypt, Iran war drives up prices in Global South",
       "link": "https://www.aljazeera.com/economy/2026/3/25/from-pakistan-to-egypt-iran-war-drives-up-fuel-prices-in-the-global-south?traffic_source=rss",
       "summary": "Developing economies in Asia, Africa and the Middle East are most exposed to surging energy costs.",
       "date": "2026-03-25",
@@ -3369,6 +3811,19 @@
       "lang": "en"
     },
     {
+      "id": "70ff93cfbc74d6a43840fcb90f18afe1",
+      "title": "UP: 11 साल से MBBS परीक्षा दे रहा छात्र फिर फेल, नियमों के तहत इस बार भी पढ़ाई की मिली अनुमति; पिता हैं दरोगा",
+      "link": "https://www.amarujala.com/gorakhpur/brd-medical-college-gorakhpur-student-taking-mbbs-exams-for-11-years-fails-again-2026-03-25",
+      "summary": "गोरखपुर के बीआरडी मेडिकल कॉलेज में 11 साल से एमबीबीएस प्रथम वर्ष की पढ़ाई कर रहा छात्र फिर दो विषयों में फेल हो गया है।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 03:13:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
       "id": "2dbe532ecfdc7e4e7b5c26580fc4d218",
       "title": "Tamil Nadu Assembly election 2026: AIADMK releases manifesto; assures free refrigerators to women ration card-holders",
       "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/aiadmkreleases-manifesto-for-tn-assembly-election-2026-assures-free-refrigerators-to-women-ration-card-holders/article70780538.ece",
@@ -3379,6 +3834,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d90583dc26cf2b8aa90a8f9f6e745743",
+      "title": "Mau News: सरकारी राशन की दुकान को चोरों ने बनाया निशाना, ताला तोड़कर पिकअप से उठा ले गए राशन",
+      "link": "https://www.amarujala.com/uttar-pradesh/mau/thieves-arrive-in-pickup-break-lock-and-cart-away-government-ration-in-mau-2026-03-25",
+      "summary": "कोटेदार के बेटे राजित ने बताया कि बीते गांव के 688 राशन कार्डधारक और 98 अंत्योदय कार्डधारकों को अप्रैल माह में वितरित करने के लिए 18 मार्च को 129 क्विंटल चावल आया था।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 03:06:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -3538,6 +4006,19 @@
       "lang": "en"
     },
     {
+      "id": "e10c6a687aa52fbd8d72110662a15609",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 25 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-25",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 03:01:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "9cf07c271808adfcdd1e24de15f0f6e8",
       "title": "गोरखपुर के मरीज माफिया: पुलिस की सख्ती...बीआरडी में एक और एंबुलेंस सीज- 12 दिनों में 4 एंबुलेंस की गई सीज",
       "link": "https://www.amarujala.com/gorakhpur/police-crack-down-on-patient-mafiaanother-ambulance-seized-in-brd-gorakhpur-news-c-7-gkp1038-1268004-2026-03-25",
@@ -3549,6 +4030,19 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
+    },
+    {
+      "id": "f3e52768a16be3efa36f055b14f7c120",
+      "title": "पढ़ें 25 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-25",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 03:01:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "be3f75977a868100c57fa669c1adfea0",
@@ -3639,6 +4133,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "6cec88e6985c5f93d1d5b28bda752536",
+      "title": "अयोध्या में डायवर्जन का असर, रेलवे स्टेशन पर बढ़ी भीड़",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-dayavarajana-ka-asara-ralva-satashana-para-bugdhha-bhaugdha-2026-03-25",
+      "summary": "अयोध्या में डायवर्जन का असर, रेलवे स्टेशन पर बढ़ी भीड़",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:58:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
       "lang": "en"
     },
     {
@@ -3850,6 +4357,19 @@
       "lang": "en"
     },
     {
+      "id": "3acf676069ce7ac7a3612d2ee42c3715",
+      "title": "Ram Navami 2026 Date: 26 मार्च या 27 मार्च, जानें रामनवमी पर कब है अवकाश; जिलाधिकारी ने दिए ये आदेश",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/ram-navami-2026-holiday-on-know-date-district-magistrate-gave-these-orders-2026-03-25",
+      "summary": "चैत्र नवरात्रि के आखिरी दिन यानी नवमी तिथि पर राम नवमी मनाई जाती है। इसी दिन भगवान विष्णु ने मर्यादा पुरुषोत्तम श्री राम का अवतार लिया था और अयोध्या नरेश राजा दशरथ के घर में जन्मे थे।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:50:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "70ba4ce653f4f60518ad038fc1e0e797",
       "title": "शोध और नवाचार से बनाएं पहचान : प्रो. पूनम टंडन",
       "link": "https://www.amarujala.com/gorakhpur/st-andrews-college-concludes-its-126th-foundation-day-celebrations-gorakhpur-news-c-7-gkp1006-1268553-2026-03-25",
@@ -3863,12 +4383,38 @@
       "lang": "en"
     },
     {
+      "id": "0ee8e88876c7e1b4ab9567e87406d255",
+      "title": "UGC: मौलाना शहाबुद्दीन रजवी बोले- यूजीसी मुसलमानों को मंजूर नहीं; देशभर में विरोध प्रदर्शन करने का एलान",
+      "link": "https://www.amarujala.com/uttar-pradesh/bareilly/maulana-shahabuddin-razvi-says-ugc-unacceptable-to-muslims-2026-03-25",
+      "summary": "मौलाना बरेलवी ने कहा- गुजरात में समान नागरिक संहिता सीधे तौर पर शरीयत में हस्तक्षेप, अगर लागू हुआ तो समाज का ताना-बाना बिखर जायेगा",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:49:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "b8c2cd4ccc5acfdc89428c3eb48f8498",
       "title": "Lucknow News: 27 को ही रामनवमी मनाना श्रेयस्कर",
       "link": "https://www.amarujala.com/lucknow/it-is-preferable-to-celebrate-ram-navami-on-the-27th-itself-lucknow-news-c-13-1-lko1028-1660175-2026-03-25",
       "summary": "27 को ही रामनवमी मनाना श्रेयस्कर",
       "date": "2026-03-25",
       "timestamp": "Wed, 25 Mar 2026 02:48:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "3ebcd0774ee4e8b6bf9c5f7c19b2d0d6",
+      "title": "लखनऊ: शहर पहुंचे अमेरिका के रोबोटिक सर्जन डॉ. डेविन एम. गार्जा, तकनीकी के बारे में दी जानकारी",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-shahara-pahaca-amaraka-ka-rabtaka-sarajana-da-davana-ema-garaja-takanaka-ka-bra-ma-tha-janakara-2026-03-25",
+      "summary": "लखनऊ: शहर पहुंचे अमेरिका के रोबोटिक सर्जन डॉ. डेविन एम. गार्जा, तकनीकी के बारे में दी जानकारी",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:48:46 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -3967,6 +4513,19 @@
       "lang": "en"
     },
     {
+      "id": "a3b6b14d060c756882933b3adc3332cf",
+      "title": "फर्जी आईएएस की कहानी: 25 शादियां और फेक इंटरव्यू, खुद का घर बदहाल, कार पर 'भारत सरकार' लिखवा दिखाता था भौकाल",
+      "link": "https://www.amarujala.com/gorakhpur/fake-ias-officer-story-25-marriages-and-fake-interviews-pritam-nishad-arrested-in-jalaun-2026-03-25",
+      "summary": "खुद को आईएएस बताकर कैंट थाना क्षेत्र की युवती से शादी रचाने वाले प्रीतम निषाद को पुलिस ने मंगलवार को जालौन जिले से गिरफ्तार कर लिया।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:45:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
       "id": "93f1a8c98ac3397ed8c88338f95a7c5f",
       "title": "Lucknow News: महादेव प्रसाद व लक्ष्मी सिंह को ‘डॉ. दरबारी लाल अस्थाना स्मृति सम्मान’",
       "link": "https://www.amarujala.com/lucknow/mahadev-prasad-and-lakshmi-singh-receive-dr-darbari-lal-asthana-memorial-award-lucknow-news-c-13-1-lko1028-1660185-2026-03-25",
@@ -4016,6 +4575,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "3fda14d8049841fb18f0ec323945a6c9",
+      "title": "अयोध्या में एक साथ पेट्रोल भरवाने पहुंचा अधिवक्ताओं का हुजूम",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-eka-satha-pataral-bharavana-pahaca-athhavakatao-ka-hajama-2026-03-25",
+      "summary": "अयोध्या में एक साथ पेट्रोल भरवाने पहुंचा अधिवक्ताओं का हुजूम",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:43:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
       "lang": "en"
     },
     {
@@ -4108,6 +4680,19 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
+    },
+    {
+      "id": "8c362e3577659cb24f79d07f90216e22",
+      "title": "बंगाल में चुनावी पारा हाई: दिलीप घोष के 'देख लेने' वाले बयान पर बवाल, चुनाव आयोग पहुंची टीएमसी",
+      "link": "https://www.amarujala.com/india-news/tmc-files-complaint-against-bjp-dilip-ghosh-kharagpur-police-threat-wb-election-2026-2026-03-25",
+      "summary": "भाजपा नेता दिलीप घोष पर मुख्यमंत्री ममता बनर्जी की पार्टी टीएमसी ने बड़ा आरोप लगाया है। दिलीप घोष ने कथित तौर पर खड़गपुर में पुलिस कर्मियों को 'देख लेने' की बात कही थी। इसी के खिलाफ अब तृणमूल कांग्रेस ने चुनाव आयोग में शिकायत दर्ज कराई है।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:40:38 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "3f8ec7bb213b07720d883d7ecfe26cfb",
@@ -4331,6 +4916,19 @@
       "lang": "en"
     },
     {
+      "id": "718150f346afbd1c96a6975fcf0e6c3f",
+      "title": "Parliament Budget Session LIVE: तमिलनाडु के MP ने मछुआरों का मुद्दा उठाया; बिहार के JDU सांसद पर लटकी तलवार!",
+      "link": "https://www.amarujala.com/live/india-news/parliament-budget-session-live-update-ls-tn-fishermen-issue-bihar-jdu-gidhari-yadav-row-rajya-sabha-hindi-news-2026-03-25",
+      "summary": "Parliament Budget Session LIVE: तमिलनाडु के MP ने मछुआरों का मुद्दा उठाया; बिहार के JDU सांसद पर लटकी तलवार!",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:32:30 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "612ebfdea2bbb91711f44c0af384672d",
       "title": "Varanasi News: बीएचयू में 5 अप्रैल को निशुल्क सिविल सेवा कोचिंग की प्रवेश परीक्षा, प्रवेश पत्र जारी",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/bhu-to-conduct-free-civil-services-coaching-entrance-exam-on-april-5-admit-card-released-varanasi-news-c-20-vns1056-1332631-2026-03-25",
@@ -4406,6 +5004,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "e9cc4de2c83160946d818876305e177c",
+      "title": "UP: क्या अमोनिया गैस अधिक होने से हुआ हादसा, पूर्व मंत्री बोले-कोई जानकारी नहीं; अंसार अहमद से पूछे गए ये सवाल",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/allahabad/prayagraj-cold-storage-did-accident-occur-due-to-excessive-ammonia-gas-former-minister-says-no-information-2026-03-25",
+      "summary": "प्रयागराज में कोल्ड स्टोर के मालिक व पूर्व मंत्री अंसार अहमद व उसके बेटे मंजूर और भतीजे व साझेदार अलाउद्दीन को गिरफ्तार किए जाने के बाद फाफामऊ थाने ले जाया गया।",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:24:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -4487,6 +5098,19 @@
       "lang": "en"
     },
     {
+      "id": "5d56ea3742226c1f1d904f56b734bd83",
+      "title": "Supreme Court: समीर वानखेड़े को सुप्रीम कोर्ट से मिली राहत, चार्जशीट पर जवाब के लिए एक हफ्ते का समय",
+      "link": "https://www.amarujala.com/india-news/supreme-court-hearing-on-sameer-wankhede-plea-in-cordelia-cruise-case-charge-sheet-response-time-granted-2026-03-25",
+      "summary": "supreme court hearing on sameer wankhede plea in cordelia cruise case charge sheet response time granted- Supreme Court: समीर वानखेड़े को सुप्रीम कोर्ट से मिली राहत, चार्जशीट पर जवाब के लिए एक हफ्ते का समय",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:19:29 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "b4850b73f1c4f0be715f559fd15ba341",
       "title": "Varanasi News: 121 भक्तों ने प्रभात फेरी निकाल कर हनुमान चालीसा का किया पाठ",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/121-devotees-took-out-a-morning-procession-and-recited-the-hanuman-chalisa-varanasi-news-c-20-vns1056-1332455-2026-03-25",
@@ -4510,6 +5134,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "50207aa25cc0e242bf1aaa9ccf882c91",
+      "title": "लखनऊ में कई प्राथमिक विद्यालयों में अक्षय पत्र संस्था पहुंचा रही मिड डे मील, गैस किल्लत का असर नहीं",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-kaii-parathamaka-vathayalya-ma-akashhaya-patara-sasatha-pahaca-raha-mada-da-mal-gasa-kallta-ka-asara-naha-2026-03-25",
+      "summary": "लखनऊ में कई प्राथमिक विद्यालयों में अक्षय पत्र संस्था पहुंचा रही मिड डे मील, गैस किल्लत का असर नहीं",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:17:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -4549,6 +5186,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d8ae6d4d96e901e854f6ef0031d58ca1",
+      "title": "UP News: शाहजहांपुर में अमर बलिदानियों की नई प्रतिमाएं लगाने का काम शुरू, सीएम योगी ने दिए हैं सख्त निर्देश",
+      "link": "https://www.amarujala.com/uttar-pradesh/shahjahanpur/installation-of-new-statues-of-martyrs-begins-in-shahjahanpur-2026-03-25",
+      "summary": "मुख्यमंत्री के सख्त रुख के बाद नगर निगम ने शुरू कराई अमर बलिदानियों की प्रतिमाओं की पुनर्स्थापना",
+      "date": "2026-03-25",
+      "timestamp": "Wed, 25 Mar 2026 02:15:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -4680,32 +5330,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "e10c6a687aa52fbd8d72110662a15609",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 25 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-25",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 02:02:05 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "f3e52768a16be3efa36f055b14f7c120",
-      "title": "पढ़ें 25 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-25",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 02:01:48 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "0088ae0c6485c7393815ea554ea2499d",
@@ -4968,19 +5592,6 @@
       "lang": "en"
     },
     {
-      "id": "d8ae6d4d96e901e854f6ef0031d58ca1",
-      "title": "UP News: शाहजहांपुर में अमर बलिदानियों की नई प्रतिमाएं लगाने का काम शुरू, सीएम योगी ने दिए हैं सख्त निर्देश",
-      "link": "https://www.amarujala.com/uttar-pradesh/shahjahanpur/installation-of-new-statues-of-martyrs-begins-in-shahjahanpur-2026-03-25",
-      "summary": "मुख्यमंत्री के सख्त रुख के बाद नगर निगम ने शुरू कराई अमर बलिदानियों की प्रतिमाओं की पुनर्स्थापना",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 01:27:12 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "88a9d726072adcf8de201d63cca61bcc",
       "title": "बलिया में बड़ा हादसा: निर्माणाधीन पुल का ढ़ांचा गिरने से मलबे में दबे चार मजदूर, दो की मौत, दो लोग घायल",
       "link": "https://www.amarujala.com/uttar-pradesh/ballia/two-laborers-killed-after-buried-under-debris-collapse-of-an-under-construction-bridge-structure-in-ballia-2026-03-25",
@@ -5031,19 +5642,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "718150f346afbd1c96a6975fcf0e6c3f",
-      "title": "Parliament Budget Session LIVE: तमिलनाडु के MP ने मछुआरों का मुद्दा उठाया; बिहार के JDU सांसद पर लटकी तलवार!",
-      "link": "https://www.amarujala.com/live/india-news/parliament-budget-session-live-update-ls-tn-fishermen-issue-bihar-jdu-gidhari-yadav-row-rajya-sabha-hindi-news-2026-03-25",
-      "summary": "Parliament Budget Session LIVE: तमिलनाडु के MP ने मछुआरों का मुद्दा उठाया; बिहार के JDU सांसद पर लटकी तलवार!",
-      "date": "2026-03-25",
-      "timestamp": "Wed, 25 Mar 2026 01:21:42 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "8a24051994c5b55b8bb58e89b4ac5596",
@@ -22983,19 +23581,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "856075b4f910124f46e1df5fc7196460",
-      "title": "Paris Fashion Week 2026: WforWoman marks India’s first high-street showcase",
-      "link": "https://www.thehindu.com/life-and-style/fashion/paris-fashion-week-2026-wforwoman-marks-indias-first-high-street-showcase/article70775210.ece",
-      "summary": "WforWoman’s debut at Paris Fashion Week bridges vintage European aesthetics with the intricacy of Indian textiles",
-      "date": "2026-03-24",
-      "timestamp": "Tue, 24 Mar 2026 11:00:59 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -63663,19 +64248,6 @@
       "lang": "en"
     },
     {
-      "id": "59e2602fc780fd0498545beb34dc9cfd",
-      "title": "CSK’s ‘Roar 26’: Nostalgia, Dhoni buzz and an AR Rahman concert light up Chepauk before IPL 2026",
-      "link": "https://www.thehindu.com/entertainment/csks-roar-26-nostalgia-dhoni-buzz-and-an-ar-rahman-concert-light-up-chepauk-before-ipl-2026/article70774437.ece",
-      "summary": "Chepauk turned into a sea of yellow as thousands of fans celebrated Chennai Super Kings’ cricketing legends in ‘Roar 26’, a perfect curtain raiser to IPL 2026",
-      "date": "2026-03-23",
-      "timestamp": "Mon, 23 Mar 2026 13:22:08 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "803f6dfa55aef2fed63caed903b27ec5",
       "title": "Sudden Deaths in UP : यूपी में क्रिकेट खेलते-खेलते 2 की अचानक मौत, डॉक्टर ने कहा- खेलकूद करने वाले सावधान!",
       "link": "https://www.patrika.com/health-news/sudden-deaths-in-up-latest-news-2-local-cricketers-dies-after-chest-pain-breathing-issues-doctor-warns-athletes-20445818",
@@ -81941,6 +82513,19 @@
       "lang": "en"
     },
     {
+      "id": "c714ac7145251d4bbc7dfbca7101ccdd",
+      "title": "Why US supercarrier had to leave Middle East amid Iran war: Many problems of USS Gerald Ford",
+      "link": "https://timesofindia.indiatimes.com/defence/international/why-us-supercarrier-had-to-leave-middle-east-amid-iran-war-many-problems-of-uss-gerald-ford/articleshow/129791790.cms",
+      "summary": "The US Navy's most expensive aircraft carrier, USS Gerald R Ford, is facing renewed scrutiny after a fire forced its departure from a Middle East deployment. This incident highlights ongoing concerns about the $13.2 billion warship's operational readiness, with Pentagon testing revealing insufficient data on its combat effectiveness and reliability of key systems.",
+      "date": "2026-03-25",
+      "timestamp": "2026-03-25T14:18:17+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ba7ce002dac201c84f6b0dc309155ecb",
       "title": "'Anti-Bengali party': Mamata vs BJP over puja pandal permission row",
       "link": "https://timesofindia.indiatimes.com/india/anti-bengali-party-mamata-vs-bjp-over-puja-pandal-permission-row/articleshow/129795617.cms",
@@ -81950,6 +82535,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "39dd3e61d1e97665bfbf9c8e50207041",
+      "title": "Scientists have made a silkworm-inspired odour-tracking robot that can locate survivors in disaster areas",
+      "link": "https://timesofindia.indiatimes.com/science/scientists-have-made-a-silkworm-inspired-odour-tracking-robot-that-can-locate-survivors-in-disaster-areas/articleshow/129793425.cms",
+      "summary": "",
+      "date": "2026-03-25",
+      "timestamp": "2026-03-25T14:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
