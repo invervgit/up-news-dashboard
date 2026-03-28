@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T07:41:28.954996+00:00",
+  "generated_at": "2026-03-28T08:32:54.085980+00:00",
   "stories": [
     {
       "id": "fc68923e0af1bff6415fb3d68816a956",
@@ -15702,19 +15702,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "1d4b5b98975869fa443c5b84bfacd722",
-      "title": "Nepal’s new political moment",
-      "link": "https://www.thehindu.com/news/international/nepals-new-political-moment/article70778793.ece",
-      "summary": "In an era defined by digital mobilisation and anti-establishment anger, Nepal’s new political moment is an essential and illuminating read.",
-      "date": "2026-03-24",
-      "timestamp": "Tue, 24 Mar 2026 13:29:33 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -45307,14 +45294,274 @@
       "lang": "en"
     },
     {
+      "id": "246010bbf5bbd36de0cb1917a560432f",
+      "title": "अखिलेश के बाद मैदान में उतरने की तैयारी में मायावती, इस दिन होगा शक्ति प्रदर्शन",
+      "link": "https://www.livehindustan.com/uttar-pradesh/mayawati-bsp-election-campaign-14-april-akash-anand-akhilesh-yadav-pda-formula-201774685822515.html",
+      "summary": "सपा प्रमुख अखिलेश यादव रविवार को गौतमबुद्ध नगर से अपने चुनावी अभियान की शुरूआत करेंगे। इसके बाद बसपा की तैयारी है। बसपा का मुकाबला अखिलेश के PDA फॉर्मूले और चंद्रशेखर आजाद की बढ़ती सक्रियता से है।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:55:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ad36b07b5ab0b1a52dd784b505bb3e3c",
+      "title": "T.N. Assembly poll: Two ex-Ministers, three previously disqualified MLAs figure in AMMK candidate list",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-poll-two-ex-ministers-three-previously-disqualified-mlas-figure-in-ammk-candidate-list/article70795654.ece",
+      "summary": "All eleven AMMK candidates were named by party general secretary T.T.V. Dhinakaran on Saturday",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:40:19 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2628c1b2fe88dba840ad6a33ef81a564",
+      "title": "What culture supports opposing river restoration for political reasons: Telangana CM Revanth Reddy targets BRS, BJP",
+      "link": "https://www.thehindu.com/news/national/telangana/what-culture-supports-opposing-river-restoration-for-political-reasons-telangana-cm-revanth-reddy-targets-brs-bjp/article70795581.ece",
+      "summary": "Telangana CM Revanth Reddy lays foundation for reconstruction of historic temples on Musi River bank",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:40:06 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1204ecb367b9d0b4b7624d8f96eb2fa3",
+      "title": "एंबुलेंस नहीं मिलने पर एक घंटे तक तड़पता रहा युवक; चली गई जान, सड़क हादसे में घायल हुआ था",
+      "link": "https://www.livehindustan.com/uttar-pradesh/young-man-suffered-for-an-hour-after-not-getting-an-ambulance-he-died-in-etawah-201774684273889.html",
+      "summary": "इटावा में सड़क हादसे में घायल हुए युवकों को समय पर एंबुलेंस उपलब्ध नहीं हो सकी। परिजनों और स्थानीय लोगों ने कई बार एंबुलेंस के लिए कॉल किया, लेकिन काफी देर तक कोई मदद नहीं पहुंची। लगभग एक घंटे तक घायलों को मौके पर ही तड़पना पड़ा। इस दौरान उनकी हालत लगातार बिगड़ती गई। जिससे उसकी मौत हो गई।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:38:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "128b3c11f6bec226d1c9526913e5cdd2",
+      "title": "The Hindu World of Women (WoW) Awards 2026: Full list of winners",
+      "link": "https://www.thehindu.com/news/national/the-hindu-world-of-women-wow-awards-2026-full-list-of-winners/article70792055.ece",
+      "summary": "The WoW awards recognises exceptional women across business, science, arts, culture, education, sports and beyond.",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:37:40 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e48efd4bd45f78890747c255ab54bbff",
+      "title": "मैनाठेर कांड: 15 साल पुराने बवाल में बड़ा फैसला, डीआईजी पर हमले के 16 दोषियों को उम्र कैद",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-moradabad-mainather-attack-court-verdict-after-15-years-16-get-life-imprisonment-for-attacking-dig-201774684537934.html",
+      "summary": "यूपी के मुरादाबाद में हुए मैनाठेर कांड में तत्कालीन डीआईजी पर हमले के 16 दोषियों को आज सजा सुनाई गई। 15 साल पहले हुए बवाल में 16 दोषियों को उम्र कैद की सजा सुनाई गई। मुरादाबाद के पंद्रह साल पुराने बहुचर्चित मैनाठेर कांड में शनिवार को अदालत ने ऐतिहासिक फैसला सुनाया।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:34:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "cbe1dde8991f0ec984efe84da39cfc5a",
+      "title": "Amaravati resolution to be sent to Centre: Nara Lokesh on proposed amendment to Andhra Pradesh Reorganization Act",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-resolution-to-be-sent-to-centre-nara-lokesh-on-proposed-amendment-to-andhra-pradesh-reorganization-act/article70795551.ece",
+      "summary": "Nara Lokesh stated that the proposal would be sent to New Delhi by March 28",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:31:22 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "756173bccf788d000a5e4eb7ba785ca4",
+      "title": "Iran-Israel war LIVE: Israel says it intercepted first incoming missile from Yemen as war in Middle East intensifies",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-strait-of-hormuz-attacks-march-28-2026/article70795241.ece",
+      "summary": "More than two dozen U.S. troops wounded in Iranian attacks on Saudi air base in the past week, report says",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:31:08 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c77a6ee44c77508cf4fbf267abe70943",
+      "title": "India sends 38,000 metric tonnes of fuel to support Sri Lanka",
+      "link": "https://www.thehindu.com/news/national/india-sends-38000-metric-tonnes-of-fuel-to-support-sri-lanka/article70795702.ece",
+      "summary": "The fuel supply development comes after a phone call between PM Modi and Sri Lankan President Anura Kumara Dissanayake, in which they discussed the war in West Asia and the energy cooperation",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:30:59 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5212ddec4fff36956a8412a5fd9f34f3",
+      "title": "Rubio sees U.S. action in Iran completed in weeks as airstrikes rumble on",
+      "link": "https://www.thehindu.com/news/international/rubio-sees-us-action-in-iran-completed-in-weeks-as-airstrikes-rumble-on/article70795587.ece",
+      "summary": "",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:30:18 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "03731b91d223196872808f047d4a2658",
+      "title": "Pakistan, IMF strike deal over disbursement of $1.2 billion fund",
+      "link": "https://www.thehindu.com/news/international/pakistan-imf-strike-deal-over-disbursement-of-12-billion-fund/article70795507.ece",
+      "summary": "IMF mission chief Iva Petrova said, subject to IMF board approval, Pakistan will have access to about $1.0 billion (SDR 760 million) under the EFF and about $210 million (SDR 154 million) under the RSF",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:29:26 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "59c5d780000cc33d4a7939b02d14c039",
+      "title": "Goa nightclub fire: Court denies bail to Luthra brothers in forgery case",
+      "link": "https://www.thehindu.com/news/national/goa/goa-nightclub-fire-court-denies-bail-to-luthra-brothers-in-forgery-case/article70795655.ece",
+      "summary": "The owners of Birch by Romeo are currently in Colvale central jail in North Goa",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:22:25 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0d2904e0f194e91d699252544e53ed5f",
+      "title": "Thailand PM says reached deal with Iran for vessels to transit Hormuz Strait",
+      "link": "https://www.thehindu.com/news/international/thailand-pm-says-reached-deal-with-iran-for-vessels-to-transit-hormuz-strait/article70795561.ece",
+      "summary": "More than 80% of the crude oil and liquified natural gas (LNG) that passes through the Strait of Hormuz heads to Asia, according to the U.S. Energy Information Administration",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:20:47 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "291de6e2883157504098ba226113bf38",
+      "title": "CM Revanth Reddy suggests ‘People’s Credits’ policy for AI companies on the lines of carbon credits",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/cm-revanth-reddy-suggests-peoples-credits-policy-for-ai-companies-on-the-lines-of-carbon-credits/article70795614.ece",
+      "summary": "Chief Minister A Revanth Reddy addresses virtually AI symposium at Harvard Kennedy School, and unveils vision for ‘AI City’ in Telangana",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:20:18 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c77a2d84dcd4582d7fe43cbac9eb0876",
+      "title": "खाने की कमी नहीं, मिसाइलों से लग रहा डर; एलपीजी शिप पर फंसी यूपी की इंजीनियर बिटिया",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-marine-engineer-anjali-arya-trapped-on-lpg-ship-oman-gulf-iran-israel-war-2026-201774683100689.html",
+      "summary": "मैनपुरी की मैरीन इंजीनियर अंजलि आर्य ईरान-इजराइल युद्ध के चलते ओमान की खाड़ी में एक एलपीजी लाने गए शिप पर फंसी हुई हैं। उन्होंने अपने परिजनों को बताया कि पास के एक जहाज को मिसाइल से उड़ा दिया गया है, जिससे वहां अत्यधिक खौफ का माहौल है।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:18:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ef1bb8d2d93a769184f506f60f8d20c1",
+      "title": "Missile fired from Yemen as Israel and U.S. target Iran",
+      "link": "https://www.thehindu.com/news/international/missile-fired-from-yemen-as-israel-and-us-target-iran/article70795541.ece",
+      "summary": "Hours earlier, Yemen’s Iran-aligned Houthis said they were prepared to act if what the group called an escalation against Iran and the “axis of resistance” continued, but did not say what form any intervention would ‌take",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:16:55 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "608b6f1f029fe65497bb2f1fc6877ee7",
+      "title": "PM Modi lacks courage to oppose Israel's actions in West Bank: Congress leader Jairam Ramesh",
+      "link": "https://www.thehindu.com/news/national/pm-modi-lacks-courage-to-oppose-israels-actions-in-west-bank-congress-leader-jairam-ramesh/article70795441.ece",
+      "summary": "“The current West Asia war is providing cover for Israel to move ahead on its vision of Greater Israel and also finishing off any hope for a Palestinian state,” Jairam Ramesh said",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:13:56 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6f2be33f5baf778bcb60b40422cca4a4",
+      "title": "एलपीजी संकट: यूपी के होटलों में रहना-खाना महंगा, रेस्टोरेंट के आधे चूल्हे बंद, फैक्ट्रियों में तीन दिन काम",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-lpg-crisis-kanpur-hotel-prices-increased-restaurant-half-gas-burners-closed-factories-working-three-days-201774683248590.html",
+      "summary": "अगर आप इन दिनों किसी बड़े होटल में ठहरने या खाने का प्लान बना रहे हैं, तो जेब पहले से ज्यादा ढीली करनी पड़ सकती है। वजह है पीएनजी आपूर्ति में भारी कटौती, जिसने होटल मैनेजमेंट की पूरी व्यवस्था हिला दी है। शहर के बड़े होटलों में पाइप्ड नेचुरल गैस (पीएनजी) की सप्लाई करीब 45 फीसदी तक घटा दी गई है।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:10:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "b76bc1d0a646c389851fa62b03ba1c4b",
       "title": "PM Modi inaugurates Noida International Airport",
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/noida-international-airport-pm-modi-inauguration/article70795653.ece",
       "summary": "Civil Aviation Minister K. Ram Mohan Naidu said that Noida International Airport will be developed as an aerotropolis and not just an airport.",
       "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 13:06:37 +0530",
+      "timestamp": "Sat, 28 Mar 2026 13:10:16 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "90a40cdd9312b059c879a8d2bf2c8929",
+      "title": "Five killed, 30 injured as tourist bus overturns in Odisha’s Nayagarh",
+      "link": "https://www.thehindu.com/news/national/odisha/five-killed-30-injured-as-tourist-bus-overturns-in-odishas-nayagarh/article70795663.ece",
+      "summary": "Chief Minister Mohan Charan Majhi announced ₹4 lakh ex gratia from the Chief Minister's Relief Fund (CMRF) for the next of kin of the deceased",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:10:13 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1d4b5b98975869fa443c5b84bfacd722",
+      "title": "Nepal’s new political moment",
+      "link": "https://www.thehindu.com/news/international/nepals-new-political-moment/article70778793.ece",
+      "summary": "In an era defined by digital mobilisation and anti-establishment anger, Nepal’s new political moment is an essential and illuminating read.",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 13:06:50 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -45333,19 +45580,6 @@
       "lang": "en"
     },
     {
-      "id": "90a40cdd9312b059c879a8d2bf2c8929",
-      "title": "Five killed, 30 injured as tourist bus overturns in Odisha’s Nayagarh",
-      "link": "https://www.thehindu.com/news/national/odisha/five-killed-30-injured-as-tourist-bus-overturns-in-odishas-nayagarh/article70795663.ece",
-      "summary": "Chief Minister Mohan Charan Majhi announced ₹4 lakh ex gratia from the Chief Minister's Relief Fund (CMRF) for the next of kin of the deceased",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 13:04:03 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f59873afefcedf29aba7b6068ea3e510",
       "title": "VIDEO : अब नहीं दिख रहीं पेट्रोल पंप पर लाइनें, सामान्य होते हुए नजर आ रहे हालात",
       "link": "https://www.amarujala.com/video/lucknow/video-video-ab-naha-thakha-raha-pataral-papa-para-lina-samanaya-hata-hae-najara-aa-raha-halta-2026-03-28",
@@ -45356,32 +45590,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "1482cbe136a862c6fc4b7d3e9ea0403d",
-      "title": "UP: थाने में लगे पीपल के पेड़ से इस बात का था डर, जानें क्यों पुलिस ने इसे रातों रात कटवा दिया",
-      "link": "https://www.amarujala.com/uttar-pradesh/agra/peepal-tree-cut-inside-police-station-cops-cite-electric-hazard-2026-03-28",
-      "summary": "सोशल मीडिया पर वीडियो हुआ वायरल, पुलिस बोली- बिजली के तारों से डाली छूने से फैल रहा था करंट।",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 12:58:56 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "cff54fb77b9a946a836035801f205f62",
-      "title": "Noida Airport Inauguration Live: 'विकसित यूपी का नया अध्याय शुरू', उद्घाटन कार्यक्रम में बोले पीएम मोदी",
-      "link": "https://www.amarujala.com/live/delhi-ncr/noida/noida-international-airport-inauguration-live-updates-pm-narendra-modi-to-flag-off-jewar-airport-today-2026-03-28",
-      "summary": "करीब 25 वर्षों के बाद आसमान से जुड़ने का नोएडा का सपना आज पूरा हो जाएगा। शनिवार को प्रधानमंत्री नरेंद्र मोदी नोएडा अंतरराष्ट्रीय हवाईअड्डे के लोकार्पण करेंगे।",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 12:58:41 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Noida",
       "lang": "en"
     },
     {
@@ -45437,6 +45645,32 @@
       "lang": "en"
     },
     {
+      "id": "858893afb118d8b3790546cda5775dfd",
+      "title": "Twelve U.S. troops wounded in Iran strike on base in Saudi Arabia, U.S. official says",
+      "link": "https://www.thehindu.com/news/international/us-troops-wounded-in-iran-strike-on-base-in-saudi-arabia-us-official-says/article70795431.ece",
+      "summary": "Iran has kept up retaliatory attacks on Gulf nations it accuses of serving as a launchpad for U.S. strikes on the country, which began in a joint operation with Israel on February 28.",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 12:56:32 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2fad1cf65ea47875af41e272decbdd01",
+      "title": "लखनऊ PGI में बड़ी भर्ती को हरी झंडी: 614 डॉक्टरों समेत 2314 पदों पर नियुक्ति का रास्ता साफ",
+      "link": "https://www.patrika.com/lucknow-news/lucknow-pgi-approves-2314-recruitments-including-614-doctors-to-boost-healthcare-services-20457384",
+      "summary": "Lucknow PGI Job Alert: राजधानी लखनऊ स्थित PGI में स्वास्थ्य सेवाओं को और मजबूत बनाने की दिशा में बड़ा कदम उठाया गया है। संस्थान की गवर्निंग बॉडी की बैठक में कुल 2314 पदों पर भर्ती को मंजूरी दे दी गई है, जिसमें 614 डॉक्टरों के पद भी शामिल हैं। इस निर्णय के बाद लंबे समय से खाली पड़े पदों को भरने का रास्ता साफ हो गया है, जिससे मरीजों को बेहतर और समय पर इलाज मिलने की उम्मीद बढ़ गई है।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 12:55:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "d3a55732e2ab883bf2c1d969e46909e9",
       "title": "Agra University: आगरा विश्वविद्यालय का कब है दीक्षांत समारोह, 10 अप्रैल से शुरू होंगी सेमेस्टर परीक्षाएं",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/agra-university-speeds-up-convocation-plans-semester-exams-from-10-april-2026-03-28",
@@ -45476,19 +45710,6 @@
       "lang": "en"
     },
     {
-      "id": "59c5d780000cc33d4a7939b02d14c039",
-      "title": "Goa nightclub fire: Court denies bail to Luthra brothers in forgery case",
-      "link": "https://www.thehindu.com/news/national/goa/goa-nightclub-fire-court-denies-bail-to-luthra-brothers-in-forgery-case/article70795655.ece",
-      "summary": "The owners of Birch by Romeo are currently in Colvale central jail in North Goa",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 12:52:46 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "54249ef7704b8a4be7e6cc936591bb1f",
       "title": "Telangana CM Revanth Reddy conveys his resolve to go ahead with Musi development",
       "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-revanth-reddy-conveys-his-resolve-to-go-ahead-with-musi-development/article70795526.ece",
@@ -45497,6 +45718,19 @@
       "timestamp": "Sat, 28 Mar 2026 12:51:38 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "74ef551c6448443662c1ecdac1329fa3",
+      "title": "Trump says ‘Cuba is next’ in speech touting U.S. military successes",
+      "link": "https://www.thehindu.com/news/international/trump-says-cuba-is-next-in-speech-touting-us-military-successes/article70795408.ece",
+      "summary": "While the President did not ‌specify what precisely he plans to do with the island nation, he ‌has frequently said he believes the government ‌in ⁠Havana, facing a severe economic crisis, ⁠is on the verge of collapse",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 12:51:07 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -45616,19 +45850,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "0d2904e0f194e91d699252544e53ed5f",
-      "title": "Thailand PM says reached deal with Iran for vessels to transit Hormuz Strait",
-      "link": "https://www.thehindu.com/news/international/thailand-pm-says-reached-deal-with-iran-for-vessels-to-transit-hormuz-strait/article70795561.ece",
-      "summary": "More than 80% of the crude oil and liquified natural gas (LNG) that passes through the Strait of Hormuz heads to Asia, according to the U.S. Energy Information Administration",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 12:30:11 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -45866,19 +46087,6 @@
       "lang": "en"
     },
     {
-      "id": "ef1bb8d2d93a769184f506f60f8d20c1",
-      "title": "Missile fired from Yemen as Israel and U.S. target Iran",
-      "link": "https://www.thehindu.com/news/international/missile-fired-from-yemen-as-israel-and-us-target-iran/article70795541.ece",
-      "summary": "Hours earlier, Yemen’s Iran-aligned Houthis said they were prepared to act if what the group called an escalation against Iran and the “axis of resistance” continued, but did not say what form any intervention would ‌take",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 12:00:20 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e56cd6fe9068fcedd60ff5a30babdcfa",
       "title": "PLFS 2025: सरकार का दावा- 2025 में बेरोजगारी घटकर 3.1 फीसदी हुई; गांवों में सुधार, स्थायी नौकरियों में बढ़ोतरी",
       "link": "https://www.amarujala.com/india-news/plfs-2025-unemployment-dips-marginally-to-3-1-pc-in-2025-govt-survey-news-in-hindi-2026-03-28",
@@ -45902,19 +46110,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "756173bccf788d000a5e4eb7ba785ca4",
-      "title": "Iran-Israel war LIVE: Houthis launch first missile against Israel, triggers alerts across Negev, says IDF",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-strait-of-hormuz-attacks-march-28-2026/article70795241.ece",
-      "summary": "Israel military says striking 'regime targets' in Tehran; One killed in Tel Aviv amid Iranian missile attack",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 11:56:56 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -46152,32 +46347,6 @@
       "lang": "en"
     },
     {
-      "id": "608b6f1f029fe65497bb2f1fc6877ee7",
-      "title": "PM Modi lacks courage to oppose Israel's actions in West Bank: Congress leader Jairam Ramesh",
-      "link": "https://www.thehindu.com/news/national/pm-modi-lacks-courage-to-oppose-israels-actions-in-west-bank-congress-leader-jairam-ramesh/article70795441.ece",
-      "summary": "“The current West Asia war is providing cover for Israel to move ahead on its vision of Greater Israel and also finishing off any hope for a Palestinian state,” Jairam Ramesh said",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 11:30:20 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "03731b91d223196872808f047d4a2658",
-      "title": "Pakistan, IMF strike deal over disbursement of $1.2 billion fund",
-      "link": "https://www.thehindu.com/news/international/pakistan-imf-strike-deal-over-disbursement-of-12-billion-fund/article70795507.ece",
-      "summary": "IMF mission chief Iva Petrova said, subject to IMF board approval, Pakistan will have access to about $1.0 billion (SDR 760 million) under the EFF and about $210 million (SDR 154 million) under the RSF",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 11:30:09 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "c378ce08184e0fe8473a8587a055a3e3",
       "title": "UP SIR: दावे-आपत्तियों की सुनवाई पूरी, फाइनल वोटर लिस्ट में 13.25 करोड़ नाम होने की उम्मीद",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-sir-hearing-of-claims-and-objections-completed-13-crore-25-lakh-names-expected-in-final-voter-list-201774676620246.html",
@@ -46201,19 +46370,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "858893afb118d8b3790546cda5775dfd",
-      "title": "Twelve U.S. troops wounded in Iran strike on base in Saudi Arabia, U.S. official says",
-      "link": "https://www.thehindu.com/news/international/us-troops-wounded-in-iran-strike-on-base-in-saudi-arabia-us-official-says/article70795431.ece",
-      "summary": "Iran has kept up retaliatory attacks on Gulf nations it accuses of serving as a launchpad for U.S. strikes on the country, which began in a joint operation with Israel on February 28.",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 11:20:20 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -46332,19 +46488,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "74ef551c6448443662c1ecdac1329fa3",
-      "title": "Trump says ‘Cuba is next’ in speech touting U.S. military successes",
-      "link": "https://www.thehindu.com/news/international/trump-says-cuba-is-next-in-speech-touting-us-military-successes/article70795408.ece",
-      "summary": "While the President did not ‌specify what precisely he plans to do with the island nation, he ‌has frequently said he believes the government ‌in ⁠Havana, facing a severe economic crisis, ⁠is on the verge of collapse",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 11:00:00 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "6bd13cdd973498d2836c3d778bc7a19f",
@@ -46569,9 +46712,9 @@
     },
     {
       "id": "29978aaf0af8a9ea3a88434ebf32b5a8",
-      "title": "UP Top News Today: पीएम मोदी ने किया जेवर एयरपोर्ट का उद्घाटन, आगरा हत्याकांड आरोपी एनकाउंटर में ढेर",
+      "title": "UP Top News Today: पीएम मोदी ने किया जेवर एयरपोर्ट का उद्घाटन, मैनाठेर कांड के 16 दोषियों को सजा",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-top-news-today-28-march-2026-cm-yogi-adityanath-jewar-airport-bjp-reshuffle-lpg-petrol-crisis-politics-weather-live-blog-201774671756226.html",
-      "summary": "UP Top News Today: प्रधानमंत्री नरेंद्र मोदी ने आज जेवर में नोएडा इंटरनेशनल एयरपोर्ट के प्रथम चरण का उद्घाटन किया। मुख्यमंत्री योगी आदित्यनाथ ने इसे 'नए उत्तर प्रदेश' की विकास यात्रा का स्वर्णिम शिखर बताया है। वहीं, आगरा में बच्ची की हत्या करने का आरोपी यूपी पुलिस ने एनकाउंटर में ढेर कर दिया।",
+      "summary": "UP Top News Today: प्रधानमंत्री नरेंद्र मोदी ने आज जेवर में नोएडा इंटरनेशनल एयरपोर्ट का उद्घाटन किया। मुख्यमंत्री योगी आदित्यनाथ ने इसे 'नए उत्तर प्रदेश' की विकास यात्रा का स्वर्णिम शिखर बताया। वहीं, मुरादाबाद में 15 साल पहले हुए मैनाठेर कांड के 16 दोषियों को कोर्ट ने आज उम्र कैद की सजा सुनाई है।",
       "date": "2026-03-28",
       "timestamp": "Sat, 28 Mar 2026 10:02:01 +0530",
       "section": "UP_Focus",
@@ -46842,7 +46985,7 @@
     },
     {
       "id": "60c51bafd2aa0bfcf44e6917232bba83",
-      "title": "Noida Jewar Airport: जेवर एयरपोर्ट से 12 शहरों के लिए उड़ेंगी फ्लाइट्स",
+      "title": "Noida Jewar Airport:पहले चरण में जेवर एयरपोर्ट से 12 शहरों के लिए उड़ेंगी फ्लाइट्स",
       "link": "https://www.amarujala.com/video/india-news/noida-jewar-airport-flights-to-12-cities-to-take-off-from-jewar-airport-2026-03-28",
       "summary": "प्रधानमंत्री नरेंद्र मोदी की सुरक्षा व्यवस्था अब पांच लेयर की होगी। एयरपोर्ट के उद्घाटन समारोह से ठीक पहले चार लेयर सुरक्षा को बढ़ाते हुए पांच लेयर का कर दिया गया है।",
       "date": "2026-03-28",
@@ -46868,9 +47011,9 @@
     },
     {
       "id": "67f820f1d10ff7e75654d28189a3d171",
-      "title": "Jewar Airport Inauguration LIVE : समाजवादी पार्टी ने नोएडा को लूट का ATM बना दिया था : PM नरेंद्र मोदी",
+      "title": "Jewar Airport Inauguration : देश में 100 नए एयरपोर्ट-200 नए हेलिपैड बनाने की योजना : PM नरेंद्र मोदी",
       "link": "https://www.livehindustan.com/ncr/noida-international-airport-jewar-inauguration-live-update-pm-narendra-modi-cm-yogi-adityanath-speech-live-blog-201774667506337.html",
-      "summary": "Jewar Airport Inauguration Live Update : प्रधानमंत्री नरेंद्र मोदी ने आज जेवर में बने नोएडा इंटरनेशनल के पहले फेज का रिमोट दबाकर उद्घाटन किया। इसके साथ ही उत्तर प्रदेश अब 5 इंटरनेशनल एयरपोर्ट वाला देश का पहला राज्य बन गया है।",
+      "summary": "Jewar Airport Inauguration : प्रधानमंत्री नरेंद्र मोदी ने आज जेवर में बने नोएडा इंटरनेशनल के पहले फेज का रिमोट दबाकर उद्घाटन किया। इसके साथ ही उत्तर प्रदेश अब 5 इंटरनेशनल एयरपोर्ट वाला देश का पहला राज्य बन गया है।",
       "date": "2026-03-28",
       "timestamp": "Sat, 28 Mar 2026 09:12:37 +0530",
       "section": "UP_Focus",
@@ -47114,6 +47257,19 @@
       "lang": "en"
     },
     {
+      "id": "409a59814c3dbb73b2debb2c47953796",
+      "title": "US-Israel war on Iran: What’s happening on day 29 of attacks?",
+      "link": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks?traffic_source=rss",
+      "summary": "Tensions continue to rise with Iran warning a 'heavy price' will be paid after Israeli air attacks.",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 08:17:54 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "24273844530bb91085214a319bb044f6",
       "title": "नोएडा एयरपोर्ट के नाम होंगे ये रिकॉर्ड, हर साल 1.25 करोड़ यात्री भर सकेंगे उड़ान",
       "link": "https://www.livehindustan.com/ncr/noida-international-airport-at-jewar-records-and-passengers-capacity-every-year-201774663678947.html",
@@ -47164,6 +47320,32 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "c4b382bc272712177b8fd4c13f8c9745",
+      "title": "Ashutosh Brahmachari gets bomb threat from unknown number:Caller urges him to stop advocating against Shankaracharya",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/shamli-ashutosh-brahmachari-bomb-threat-shankaracharya-case-137553606.html",
+      "summary": "Ashutosh Brahmachari Maharaj, who filed an FIR against Shankaracharya Swami Avimukteshwaranand over sexual abuse of minors, has received death threats. Brahmachari stated that an unknown caller warned him to stop advocating the case, saying: “Stop representing Shankaracharya’s case, or we will blow you up with a bomb. You and your lawyer Saurabh Gupta will be eliminated.” Following the threat, Brahmachari filed a complaint with Shamli police. After receiving the complaint, a police team visited his residence on Friday evening to record his statement. According to the complaint, on 25 March, an unknown number +92 320 0605681 made the threatening call. SSP Shamli Narendra Pratap Singh said that the matter is under investigation. Ashutosh Brahmachari is the advocate for the minors in the sexual abuse case against Swami Avimukteshwaranand. He had presented the children in court and filed the FIR at Jhunsi police station, Prayagraj. Meanwhile, the Allahabad High Court granted anticipatory bail to the Shankaracharya. Now read Ashutosh Maharaj's complaint... In the police complaint, Ashutosh Brahmachari said that he is the president of Shri Krishna Janmabhoomi Mukti Nirman Trust Mathura. He is the complainant in the case registered against Shankaracharya at Jhunsi police station in Prayagraj. A petition related to this case has also been filed in the Supreme Court. After filing a petition in the Supreme Court regarding Shankaracharya's case, he received a serious threat on his mobile/WhatsApp from an unknown person with mobile number +92 320 0605681. It was stated that if I pursue the above special leave petition or do not withdraw it, both myself and my advocate Saurabh Ajay Gupta will be blown up with a bomb. Shankaracharya approached Supreme Court after anticipatory bail was granted On 25 March, the Allahabad High Court granted anticipatory bail to Swami Avimukteshwaranand. The court ruled that the Shankaracharya would not be arrested until the chargesheet is filed. The court also prohibited Brahmachari from giving media interviews or making statements. The bench raised questions regarding the FIR, noting discrepancies: the victims reported the incident on 18 January, whereas Brahmachari filed it on 24 January. The court questioned why the children were not placed in proper custody immediately and why they first approached Brahmachari, whom they did not previously know. The court observed that the case and FIR must be carefully scrutinized to ensure it is not false. After the High Court granted anticipatory bail to Shankaracharya, Brahmachari approached the Supreme Court, seeking the Shankaracharya’s arrest. Now know the full matter There was a dispute between Shankaracharya and the administration on Mauni Amavasya on January 18 at the Prayagraj Magh Mela. 8 days later on January 24, Jagadguru Rambhadracharya's disciple Ashutosh Maharaj complained to the Police Commissioner. In this, allegations of sexual exploitation of children were made during Magh Mela-2026 and Mahakumbh-2025. Alleging inaction by police, a petition was filed in the Special POCSO Court on February 8. Two children were presented in court on February 13. Their statements were recorded on February 21. On the court's order, an FIR was registered at Jhunsi police station the same day. Shankaracharya, his disciple Mukundanand and 2-3 unknown accused were named in the FIR. On February 24, Shankaracharya accused Prayagraj Additional Commissioner Ajay Pal Sharma of conspiring against him. He also filed an anticipatory bail petition in the Allahabad High Court. On February 26, medical reports came in the sexual harassment case against Shankaracharya. Police sources claim that sexual abuse of children has been confirmed. Meanwhile, a victim Batuk came in front of the media for the first time. In an interview given to a channel, he claimed - I had gone for studies, that's when I was exploited.",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 08:03:02 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e234a99ba10c1cadbccd9621d3c0886d",
+      "title": "Fuel demand in Lucknow doubles in 2 days:1.3 million cylinders booked amid rumours, officials claim no change in stock",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/lucknow-fuel-demand-doubles-rumours-cylinder-bookings-surge-137553572.html",
+      "summary": "Petrol, diesel and LPG demand suddenly surged across Uttar Pradesh, including Lucknow, on March 26–27, rising to two to three times the average. Triggered by rumours, the situation worsened, with petrol and diesel demand increasing by up to 100% (doubling). LPG cylinder bookings crossed 13 lakh. However, oil company officials said supply remains fully under control, with a standard seven-day stock available. Until March 24, petrol and diesel sales were following a normal trend, but from March 25, demand began to rise sharply. By March 26, the surge had peaked. Petrol (MS) sales were just 4% above average on March 24, but jumped to 38% on March 25 and 77% on March 26. Diesel (HSD) saw a sharper rise—from 19% on March 24 to 36% on March 25 and 75% on March 26. Over 100% surge in Lucknow Lucknow also saw a rapid change in the situation. Petrol sales rose from 3% above average on March 24 to 42% on March 25 and 109% on March 26. Diesel sales increased from 17% to 61% and then to 100% over the same period. Districts including Azamgarh, Barabanki, Bhadohi, Deoria, Gorakhpur, Kaushambi, Kushinagar, Pratapgarh, Prayagraj and Shravasti reported petrol sales rising between 170% and 222%. A similar trend was seen in diesel, with Deoria recording a 226% spike and Pratapgarh 230%. Maharajganj, Jaunpur, Gorakhpur and Azamgarh also recorded increases of over 170%. Along with petrol and diesel, LPG also saw a significant surge. On March 26, a total of 13.31 lakh cylinders were booked, while only 7.83 lakh could be delivered. Under Indian Oil, 5.25 lakh bookings were made against 4.32 lakh deliveries. Bharat Petroleum recorded 6.42 lakh bookings but only 2.11 lakh deliveries, while Hindustan Petroleum saw 1.64 lakh bookings and delivered 1.40 lakh cylinders. This created a backlog of around 5.5 lakh cylinders in a single day, which companies are now trying to clear quickly. Consumption doubled in 2 days Data shows that compared to March 26, 2025, petrol supply nearly doubled on March 26, 2026—from 15,000 kilolitres to 29,000 kilolitres (around 2.9 crore litres). Diesel followed the same trend, rising from 28,000 kilolitres to 51,000 kilolitres (around 5.01 crore litres). Some districts under pressure, situation improving now In districts like Lucknow, Sitapur, Bahraich and Gonda, demand pressure rose sharply. Meanwhile, conditions in Gorakhpur, Basti, Maharajganj and Ayodhya are gradually returning to normal. Officials said the situation in other districts is also expected to stabilise within one to two days. Supply system strong, stock sufficient There are around 13,000 petrol pumps in the state, each holding 4–5 days of stock. About 4,107 LPG distributors have an average stock of one and a half days, while bottling plants have around four days of stock. Overall, the system maintains a reserve of 15–18 days, which is considered normal. Officials' Appeal - Avoid Rumors UP coordinator for oil companies, Sanjay Bhandari, clarified that there is no shortage of petrol, diesel or LPG anywhere in the state. The supply chain is fully active and all demand is being met. People have been urged to avoid rumours and buy fuel only as needed. A seven-day backup stock is always maintained.",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 07:57:43 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
     },
     {
       "id": "ebcd3e806e19a751ce36e17830dd66ca",
@@ -47244,6 +47426,19 @@
       "lang": "en"
     },
     {
+      "id": "f71e612fa415148a1d0b378dd0fe326c",
+      "title": "Trump claims Iran wants to ‘make a deal’",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-claims-iran-wants-to-make-a?traffic_source=rss",
+      "summary": "US President Donald Trump claimed Tehran is seeking a deal and praised the strength of the the US military.",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 07:34:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ec510e27e803255fec15f69f63585af3",
       "title": "भाजपा की प्रदेश टीम में बड़े बदलाव की तैयारी, दो फार्मूले पर पार्टी का पूरा फोकस, कब होगा ऐलान?",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-bjp-organization-reshuffle-pankaj-chaudhary-new-team-social-engineering-201774662203772.html",
@@ -47280,6 +47475,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "7ec2e86a6c6e44e2ca07600eb43b78f6",
+      "title": "Yemen’s Houthis launch missile attack on Israel as war on Iran intensifies",
+      "link": "https://www.aljazeera.com/news/2026/3/28/yemens-houthis-claim-responsibility-for-a-missile-attack-on-israel-2?traffic_source=rss",
+      "summary": "Rebels say they fired a barrage of ballistic missiles targeting 'sensitive Israeli military sites' in southern Israel.",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 07:30:45 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -47427,9 +47635,9 @@
     },
     {
       "id": "db2cc17d4a4d1682cbdcdf86b9506779",
-      "title": "Doncic facing one-game ban after technical foul in Lakers win against Nets",
+      "title": "Doncic faces one-game ban after technical foul in Lakers win against Nets",
       "link": "https://www.aljazeera.com/sports/2026/3/28/doncic-facing-one-game-ban-after-technical-foul-in-lakers-win-against-nets?traffic_source=rss",
-      "summary": "Luka Doncic's 41 points against Nets was soured by his 16th technical foul of the season, resulting in a one-game ban.",
+      "summary": "Luka Doncic's 41 points against Nets was soured by his 16th technical foul of the season, triggering a one-game ban.",
       "date": "2026-03-28",
       "timestamp": "Sat, 28 Mar 2026 06:52:31 +0000",
       "section": "International",
@@ -47791,9 +47999,9 @@
     },
     {
       "id": "e175c15fd764d0ceae1ac7b86d38d750",
-      "title": "PM Modi inaugurates Noida Int'l Airport:Brought air connectivity to small cities, kept fares low, SP had turned UP into an 'ATM of loot', says PM",
+      "title": "Modi inaugurates Noida Int'l Airport:PM says it will benefit small traders, farmers; airports rose from 74 in 2014 to 160 now",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/pm-modi-inaugurate-noida-airport-jewar-uttar-pradesh-137552945.html",
-      "summary": "Prime Minister Narendra Modi inaugurates Phase-1 of Noida International Airport in Jewar, UP, at 12:30 pm on Saturday. Currently, it is the second-largest airport in Asia. Once all four phases are completed, it will become Asia’s largest airport. Phase-1 covers 3,300 acres, including the terminal and a runway. With one runway, the terminal will have an annual capacity to handle three crore passengers. The project cost is estimated at around ₹11,000 crore. The full Noida International Airport is planned over 52 sq km. Currently, China’s Beijing Daxing International Airport is Asia’s largest, covering 47 sq km. Although the complete project is scheduled for 2040, officials associated with the Noida Airport Authority said flights could begin from May. A key feature of the airport is that passengers can reach the boarding gate in under 20 minutes after entry. See these pictures of the airport",
+      "summary": "Prime Minister Narendra Modi inaugurated Phase-1 of Noida International Airport in Jewar, UP, at 12:30 pm on Saturday. Currently, it is India’s largest airport and the second-largest in Asia. Once all four phases are completed, it will become the largest airport in Asia. During the public address, PM Modi appealed to people to face the crisis arising from the Israel–US–Iran conflict in unity. He said that discussions were held yesterday with the Chief Ministers of all states, which were productive. “I urge the citizens of the country to confront this crisis calmly, patiently, and in unity. This is a crisis affecting the entire world,” he said. PM Modi says; “I earnestly appeal to all political parties to refrain from making statements during this crisis that could harm the nation. The people will never forgive actions that damage the country.” Phase-1 covers 3,300 acres, including the terminal and a runway. With one runway, the terminal will have an annual capacity to handle 3 crore passengers. The project cost is estimated at around ₹11,000 crore. : First look of Asia's largest Noida Airport The full Noida International Airport is planned over 52 sq km. Currently, China’s Beijing Daxing International Airport is the largest in Asia, covering 47 sq km. Although the complete project is scheduled for 2040, officials associated with the Noida Airport Authority said flights could begin from May. A key feature of the airport is that passengers can reach the boarding gate in under 20 minutes after entry. See these pictures of the airport",
       "date": "2026-03-28",
       "timestamp": "Sat, 28 Mar 2026 05:16:32 +0000",
       "section": "UP_Focus",
@@ -49012,19 +49220,6 @@
       "lang": "en"
     },
     {
-      "id": "c0d1c978cb7be870e90d1a21bfbc419f",
-      "title": "Varanasi News: घर के पास ही मिलेंगे डॉक्टर, जांच और रिपोर्ट भी, जल्द खुलेंगे 5 हेल्थ केयर यूनिट और 15 उप स्वास्थ्य केंद्र",
-      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/doctors-tests-and-reports-will-be-available-near-your-home-5-health-care-units-and-15-sub-health-centers-will-open-soon-varanasi-news-c-20-1-vns1056-1337132-2026-03-28",
-      "summary": "Doctors, tests and reports will be available near your home; 5 health care units and 15 sub-health centers will open soon.",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 02:08:15 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Varanasi",
-      "lang": "en"
-    },
-    {
       "id": "858b46e201c7b5b843b13623273acf43",
       "title": "Varanasi News: दो घंटे में न जुड़े कनेक्शन तो यहां करें फोन",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/if-the-connection-is-not-established-within-two-hours-please-call-here-varanasi-news-c-20-1-vns1021-1337064-2026-03-28",
@@ -49103,6 +49298,19 @@
       "lang": "en"
     },
     {
+      "id": "25725710021fca74080a963e723a7cf3",
+      "title": "Ayodhya: अयोध्या के राजघाट में हो रहे महायज्ञ में अज्ञात कारणों से लगी भीषण आग, मची अफरा-तफरी",
+      "link": "https://www.amarujala.com/lucknow/ayodhya-a-massive-fire-broke-out-due-to-unknown-reasons-during-the-mahayagna-being-held-at-rajghat-2026-03-28",
+      "summary": "अयोध्या के राजघाट में हो रहे श्री लक्ष्मी नारायण महायज्ञ में अज्ञात कारणों से भीषण आग लग गई। फायर ब्रिगेड की कई गाड़ियां मौके पर मौजूद हैं। आग लगने से अफरातफरी मच गई।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:59:13 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "33127e349a916064b08380b0963173f4",
       "title": "Lucknow News: सीएएल यूनिकॉर्न्स और किंग्स ने जीते मुकाबले",
       "link": "https://www.amarujala.com/lucknow/cal-unicorns-and-kings-won-the-match-lucknow-news-c-13-1-lko1128-1664613-2026-03-28",
@@ -49155,6 +49363,19 @@
       "lang": "en"
     },
     {
+      "id": "69a9ff987682936897cd7c69df071278",
+      "title": "बदायूं दोहरा हत्याकांड: आरोपी अजय और उसके परिजनों पर गैंगस्टर लगाने की तैयारी, अब तक दर्ज हो चुके सात मामले",
+      "link": "https://www.amarujala.com/uttar-pradesh/budaun/gangster-act-can-be-imposed-against-murder-accused-ajay-and-his-family-in-budaun-2026-03-28",
+      "summary": "आरोपी व उसके परिवारीजनों पर दर्ज हो चुके सात केस, रासुका के तहत भी हो सकती है कार्रवाई",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:56:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "a55d675061a6abf0e32020b4e3da24e1",
       "title": "Lucknow News: इंटर स्कूल क्रिकेट टूर्नामेंट शुरू",
       "link": "https://www.amarujala.com/lucknow/inter-school-cricket-tournament-begins-lucknow-news-c-13-1-lko1128-1664733-2026-03-28",
@@ -49165,6 +49386,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "d3dec848d7cd4f62bc22ec21d87aa661",
+      "title": "High Court : बिना किसी नए और ठोस परिस्थितिगत बदलाव के दूसरी जमानत अर्जी पर विचार नहीं",
+      "link": "https://www.amarujala.com/uttar-pradesh/allahabad/high-court-no-second-bail-applicationentertained-without-any-new-and-substantial-change-in-circumstances-2026-03-28",
+      "summary": "इलाहाबाद हाईकोर्ट ने कहा कि पहली जमानत याचिका खारिज होने के बाद बिना किसी नए और ठोस परिस्थितिगत बदलाव के दूसरी जमानत अर्जी पर विचार नहीं किया जा सकता। केवल नए तर्क पेश करने से जमानत नहीं दी जा सकती।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:51:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -49181,6 +49415,19 @@
       "lang": "en"
     },
     {
+      "id": "46b5ac715e3732409725999a21b2ead3",
+      "title": "ओडिशा में दर्दनाक हादसा: नयागढ़ में टूरिस्ट बस पलटी, पांच की मौत; तूफान से मयूरभंज-पुरी में तीन की गई जान",
+      "link": "https://www.amarujala.com/india-news/odisha-bus-accident-several-dead-many-injured-in-nayagarh-three-killed-as-storms-hit-mayurbhanj-and-puri-2026-03-28",
+      "summary": "ओडिशा में दर्दनाक हादसा: नयागढ़ में टूरिस्ट बस पलटी, पांच की मौत; तूफान से मयूरभंज-पुरी में तीन की गई जान",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:51:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "7de24d044285c033fe11468196a0fc7b",
       "title": "Lucknow News: फाइनल में केसीए कानपुर का दबदबा, जीती ट्रॉफी",
       "link": "https://www.amarujala.com/lucknow/kca-kanpur-dominated-the-finals-and-won-the-trophy-lucknow-news-c-13-1-lko1128-1664553-2026-03-28",
@@ -49192,6 +49439,19 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
+    },
+    {
+      "id": "dbb57686a3762d29e8b3758ccd1da58e",
+      "title": "'NCERT- UGC विवाद से बच सकते थे': धर्मेंद्र प्रधान ने माना, कमेटी सुधारेंगी पाठ्यक्रम",
+      "link": "https://www.amarujala.com/india-news/dharmendra-pradhan-on-ncert-ugc-controversy-justice-indu-malhotra-committee-2026-03-28",
+      "summary": "केंद्रीय शिक्षा मंत्री धर्मेंद्र प्रधान ने माना है कि NCERT किताबों में 'न्यायिक भ्रष्टाचार' और UGC के नए नियमों को लेकर हुए विवाद से बचा जा सकता था। उन्होंने कहा कि सरकार किसी के खिलाफ भेदभाव नहीं चाहती।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:50:15 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "e16d024ce4f4d112d2210de074851c21",
@@ -49207,6 +49467,19 @@
       "lang": "en"
     },
     {
+      "id": "0534e147f9cf73ebba402fa2a99b80a7",
+      "title": "AP: विधानसभा में अमरावती को स्थायी राजधानी बनाने का प्रस्ताव, CM नायडू ने केंद्र से की कानूनी मान्यता की मांग",
+      "link": "https://www.amarujala.com/india-news/proposal-to-make-amaravati-the-permanent-capital-in-the-assembly-cm-demands-legal-recognition-from-the-centre-2026-03-28",
+      "summary": "AP: विधानसभा में अमरावती को स्थायी राजधानी बनाने का प्रस्ताव, CM नायडू ने केंद्र से की कानूनी मान्यता की मांग Proposal to make Amaravati the permanent capital in the Assembly, CM Naidu demands legal recognition from the Centre",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:48:56 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "f745ce68622b792dd490af7b5c58ae52",
       "title": "Lucknow News: सॉफ्ट टेनिस में चमके यूपी के खिलाड़ी",
       "link": "https://www.amarujala.com/lucknow/up-players-shine-in-soft-tennis-lucknow-news-c-13-1-lko1128-1664624-2026-03-28",
@@ -49217,6 +49490,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "cff54fb77b9a946a836035801f205f62",
+      "title": "Noida Airport Inauguration: 'पहले के CM यहां आने से डरते थे, नोएडा को लूट का ATM बना लिया था', PM मोदी का हमला",
+      "link": "https://www.amarujala.com/live/delhi-ncr/noida/noida-international-airport-inauguration-live-updates-pm-narendra-modi-to-flag-off-jewar-airport-today-2026-03-28",
+      "summary": "करीब 25 वर्षों के बाद आसमान से जुड़ने का नोएडा का सपना आज पूरा हो जाएगा। शनिवार को प्रधानमंत्री नरेंद्र मोदी नोएडा अंतरराष्ट्रीय हवाईअड्डे के लोकार्पण करेंगे।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:47:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "ca40c8b08c5c92ce76e1ee592c49c9fb",
+      "title": "Fit India Carnival: नमो घाट पर योग, खेल और फिटनेस में पहलवानों ने दिखाया दमखम, आम नागरिकों ने भी लिया भाग",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/fit-india-carnival-wrestlers-showcased-their-prowess-in-yoga-sports-and-fitness-at-namo-ghat-varanasi-2026-03-28",
+      "summary": "सुबह 6 बजे से शुरू हुए इस आयोजन में योग, व्यायाम और विभिन्न खेल गतिविधियों का आयोजन किया गया।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:46:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -49233,6 +49532,19 @@
       "lang": "en"
     },
     {
+      "id": "1482cbe136a862c6fc4b7d3e9ea0403d",
+      "title": "UP: थाने में लगे पीपल के पेड़ से इस बात का था डर, जानें क्यों पुलिस ने इसे रातों रात कटवा दिया",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/peepal-tree-cut-inside-police-station-cops-cite-electric-hazard-2026-03-28",
+      "summary": "सोशल मीडिया पर वीडियो हुआ वायरल, पुलिस बोली- बिजली के तारों से डाली छूने से फैल रहा था करंट।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:43:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "dd836c780f22df6c959d8cdf8f9e2a95",
       "title": "ECI suspends police officer for failing to tackle BJP-Trinamool Congress clashes",
       "link": "https://www.thehindu.com/elections/west-bengal-assembly/eci-suspends-police-officer-for-failing-to-tackle-bjp-trinamool-congress-clashes/article70793669.ece",
@@ -49243,6 +49555,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4c546e35a946489857fa28f2b77ec4c6",
+      "title": "VIDEO : अयोध्या के राजघाट में हो रहे महायज्ञ में अज्ञात कारणों से लगी भीषण आग, मची अफरातफरी",
+      "link": "https://www.amarujala.com/video-shots/short-videos/video-video-ayathhaya-ka-rajaghata-ma-ha-raha-mahayajania-ma-ajaniata-karanae-sa-lga-bhashhanae-aaga-maca-afaratafara-2026-03-28",
+      "summary": "VIDEO : अयोध्या के राजघाट में हो रहे महायज्ञ में अज्ञात कारणों से लगी भीषण आग, मची अफरातफरी",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:39:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
       "lang": "en"
     },
     {
@@ -49298,6 +49623,45 @@
       "lang": "en"
     },
     {
+      "id": "8c44f7fa946e6766e02669b1583e25ae",
+      "title": "Politics: 'बंगाल से भाजपा का अंत तय', ममता बनर्जी का भाजपा पर बड़ा हमला, कहा- पूरे देश की सत्ता गंवानी पड़ेगी",
+      "link": "https://www.amarujala.com/india-news/mamata-banerjee-bjp-attack-west-bengal-election-rally-politics-delhi-plan-opposition-ram-navami-violence-2026-03-28",
+      "summary": "Politics: 'बंगाल से भाजपा का अंत तय', ममता बनर्जी का भाजपा पर बड़ा हमला, कहा- पूरे देश की सत्ता गंवानी पड़ेगी---",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:32:53 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d06a1d614864de2a95dec8cc708b78d9",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-28",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:30:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f1ad7f281ec3bfa3df73a401dc778be2",
+      "title": "पढ़ें 28 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-28",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "75e238a04ce899f37c18007bf592dfbb",
       "title": "Tiger Woods arrested for suspected DUI after rolling his car",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/3/28/tiger-woods-arrested-for-suspected-dui-after-rolling-his?traffic_source=rss",
@@ -49311,6 +49675,32 @@
       "lang": "en"
     },
     {
+      "id": "d2394814f40fc6637b262b31c05a8931",
+      "title": "मैनाठेर कांड: तत्कालीन डीआईजी पर हमले के 16 दोषियों को आजीवन कारावास, कोर्ट परिसर की बढ़ाई गई सुरक्षा",
+      "link": "https://www.amarujala.com/short-videos/mainather-incident-16-convicts-sentenced-to-life-imprisonment-for-attack-on-then-dig-2026-03-28",
+      "summary": "मुरादाबाद में तकरीबन 15 साल पुराने मैनाठेर कांड में तत्कालीन डीआईजी पर जानलेवा हमले के मामले में 16 दोषियों को आजीवन कारावास की सजा सुनाई गई है।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:23:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c28715f7c290d89de7089dce7c41b500",
+      "title": "लखनऊ: गोयल इंस्टीट्यूट आफ हायर स्टडीज में उमंग फाउंडेशन की ओर से 'तुगलक नाटक' का हुआ मंचन",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-gayal-isatatayata-aafa-hayara-satadaja-ma-umaga-faudashana-ka-ora-sa-tagalka-nataka-ka-haaa-macana-2026-03-28",
+      "summary": "लखनऊ: गोयल इंस्टीट्यूट आफ हायर स्टडीज में उमंग फाउंडेशन की ओर से 'तुगलक नाटक' का हुआ मंचन",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:23:19 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "34999917dd187fefc4cd7cf298d53e9a",
       "title": "Trade deal with India not far-off, but there are still gaps: U.S. official",
       "link": "https://www.thehindu.com/news/national/trade-deal-not-far-off-but-there-are-still-gaps-us-official/article70790097.ece",
@@ -49321,6 +49711,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c0d1c978cb7be870e90d1a21bfbc419f",
+      "title": "सुविधा: घर के पास ही मिलेंगे डॉक्टर, जांच और रिपोर्ट भी, खुलेंगी पांच हेल्थ केयर यूनिट",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/doctors-tests-and-reports-will-be-available-near-your-home-5-health-care-units-and-15-sub-health-centers-will-open-soon-varanasi-news-c-20-1-vns1056-1337132-2026-03-28",
+      "summary": "जिला प्रशासन की ओर से स्वास्थ्य सुविधाओं में बढ़ोतरी की जा रही है। इसके लिए जिले में 5 नए हेल्थ केयर यूनिट और 15 नए उप स्वास्थ्य केंद्र बनाने का निर्णय लिया गया है।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:22:40 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -49363,6 +49766,32 @@
       "lang": "en"
     },
     {
+      "id": "93f49f5b85769b3379b4d807e3de63bc",
+      "title": "PM Modi-CM Meeting: पीएम मोदी और मुख्यंत्रियों की बैठक की 10 बड़ी बातें",
+      "link": "https://www.amarujala.com/video/india-news/pm-modi-cm-meeting-10-key-highlights-from-the-meeting-between-pm-modi-and-chief-ministers-2026-03-28",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी शुक्रवार को राज्यों के मुख्यमंत्रियों के साथ बैठक की। यह बैठक डिजिटल माध्यम से हुई। बैठक में पश्चिम एशिया में जारी संघर्ष पर राज्यों की तैयारियों और योजनाओं की समीक्षा की गई।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:19:45 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "8e184ff73ca56399086ccbb80dcf776e",
+      "title": "पीएम मोदी बोले: यूपी अब सबसे अधिक अंतरराष्ट्रीय एयरपोर्ट वाले राज्यों में से एक; बताए अपनी खुशी के दो कारण",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/noida-airport-inauguration-pm-modi-says-up-is-one-of-the-states-with-highest-number-of-international-airports-2026-03-28",
+      "summary": "प्रधानमंत्री नरेंद्र मोदी ने शनिवार को नोएडा इंटरनेशनल एयरपोर्ट का लोकार्पण किया।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:18:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "4bfb8313687f728cdfc6d27b0117593d",
       "title": "Stronger trade corridors and supply chains needed, says Jaishankar",
       "link": "https://www.thehindu.com/news/national/jaishankar-raises-concerns-about-food-fuel-fertilizer-shortages-at-g-7-meet/article70793256.ece",
@@ -49373,6 +49802,19 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9dcf1dfa0091603561625ad8083bbe07",
+      "title": "15 वर्षीय किशोरी से दरिंदगी: मेले देखकर आ रही थी घर, गांव के ही युवकों ने बारी-बारी से लूटी आबरू",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/cruelty-to-a-15-year-old-girl-during-returning-after-seeing-the-fair-2026-03-28",
+      "summary": "मेला देखने गई किशोरी के साथ सामूहिक दुष्कर्म किया गया। गांव के ही युवक और उसके साथियों पर दरिंदगी का आरोप है। पुलिस ने मामले में छानबीन शुरू कर दी है।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:16:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -49400,6 +49842,19 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "90a0e4318feb0de247b84168db2e9c5f",
+      "title": "Kerala Election: 'पिनराई विजयन का आत्मविश्वास फर्जी', कांग्रेस नेता बोले- राज्य में CM के खिलाफ एंटी-इंकंबेंसी",
+      "link": "https://www.amarujala.com/india-news/ramesh-chennithala-claims-strong-anti-incumbency-in-kerala-calls-cm-pinarayi-vijayan-confidence-fake-2026-03-28",
+      "summary": "Kerala Election: 'पिनराई विजयन का आत्मविश्वास फर्जी', कांग्रेस नेता बोले- राज्य में CM के खिलाफ एंटी-इंकंबेंसी",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:12:07 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "4bf26578d5988de51d056fcec8bb99f0",
@@ -49493,6 +49948,19 @@
       "lang": "en"
     },
     {
+      "id": "fbd0dd16853c8a3dc2b710074f981ae4",
+      "title": "Noida Airport: 2001 में प्रस्ताव, नवंबर 2021 में PM मोदी ने रखी नींव, एयरपोर्ट का सपने से हकीकत बनने तक का सफर",
+      "link": "https://www.amarujala.com/photo-gallery/delhi-ncr/noida/noida-airport-inauguration-airport-s-journey-from-dream-to-reality-2026-03-28",
+      "summary": "करीब साढ़े चार वर्ष पहले 25 नवंबर 2021 को प्रधानमंत्री मोदी ने जेवर में जिस एयरपोर्ट की नींव रखी थी।",
+      "date": "2026-03-28",
+      "timestamp": "Sat, 28 Mar 2026 01:07:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "d2d4662a699b889a4f0881710179b6d1",
       "title": "'The gravest crime against humanity': What does the UN vote on slavery mean?",
       "link": "https://www.bbc.com/news/articles/c0rxqng5pyno?at_medium=RSS&at_campaign=rss",
@@ -49503,19 +49971,6 @@
       "report_category": "International",
       "source": "BBC World",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "fbd0dd16853c8a3dc2b710074f981ae4",
-      "title": "Noida Airport: 2001 में प्रस्ताव, नवंबर 2021 में PM मोदी ने रखी नींव, एयरपोर्ट का सपने से हकीकत बनने तक का सफर",
-      "link": "https://www.amarujala.com/photo-gallery/delhi-ncr/noida/noida-airport-inauguration-airport-s-journey-from-dream-to-reality-2026-03-28",
-      "summary": "करीब साढ़े चार वर्ष पहले 25 नवंबर 2021 को प्रधानमंत्री मोदी ने जेवर में जिस एयरपोर्ट की नींव रखी थी।",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 01:04:33 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Noida",
       "lang": "en"
     },
     {
@@ -49569,32 +50024,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "d06a1d614864de2a95dec8cc708b78d9",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-28",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 01:01:25 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "f1ad7f281ec3bfa3df73a401dc778be2",
-      "title": "पढ़ें 28 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-28",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-28",
-      "timestamp": "Sat, 28 Mar 2026 01:00:44 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "7128923fbcba9eee393ab42c3b563fee",
@@ -49975,7 +50404,7 @@
     },
     {
       "id": "496c2cfc0cc48a813fee4e99a51ceedd",
-      "title": "Iran war live: Trump again slams NATO’s lack of support for war on Tehran",
+      "title": "Iran war live: US-Israeli war on Iran widens with first attack from Yemen",
       "link": "https://www.aljazeera.com/news/liveblog/2026/3/28/iran-war-live-trump-again-slams-natos-lack-of-support-for-war-on-tehran?traffic_source=rss",
       "summary": "Iranian Red Crescent says more than 92,600 civilian units were damaged across the country in US-Israeli attacks.",
       "date": "2026-03-28",
@@ -70436,19 +70865,6 @@
       "lang": "en"
     },
     {
-      "id": "128b3c11f6bec226d1c9526913e5cdd2",
-      "title": "The Hindu World of Women (WoW) Awards 2026: Full list of winners",
-      "link": "https://www.thehindu.com/news/national/the-hindu-world-of-women-wow-awards-2026-full-list-of-winners/article70792055.ece",
-      "summary": "The WoW awards recognises exceptional women across business, science, arts, culture, education, sports and beyond.",
-      "date": "2026-03-27",
-      "timestamp": "Fri, 27 Mar 2026 21:38:23 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "7415e43a645d18f1797fdffb83a13fca",
       "title": "डीजल की फिलहाल कमी नहीं, आगे हुई तो प्लान बी के साथ तैयार है यूपी परिवहन निगम",
       "link": "https://www.livehindustan.com/uttar-pradesh/upsrtc-is-ready-with-plan-b-in-case-shortage-of-diesel-201774626405406.html",
@@ -81755,6 +82171,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c8589a43aae7ae44a97c3509cffc7a21",
+      "title": "'Why was a businessman present?': Congress questions PM Modi over Elon Musk's presence in Trump call",
+      "link": "https://timesofindia.indiatimes.com/india/why-was-a-businessman-present-congress-questions-pm-modi-over-elon-musks-presence-in-trump-call/articleshow/129861329.cms",
+      "summary": "The Congress party has sharply criticized Prime Minister Narendra Modi following reports of Elon Musk's alleged presence during a call with US President Donald Trump. The opposition questioned the transparency and protocol of a private businessman participating in a high-level diplomatic discussion on the West Asia crisis.",
+      "date": "2026-03-28",
+      "timestamp": "2026-03-28T13:51:22+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
