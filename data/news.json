@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T19:28:28.671787+00:00",
+  "generated_at": "2026-03-29T20:25:24.932226+00:00",
   "stories": [
     {
       "id": "fc68923e0af1bff6415fb3d68816a956",
@@ -37286,19 +37286,6 @@
       "lang": "en"
     },
     {
-      "id": "b92b5e71ced26ab16f6e0680ab636981",
-      "title": "TVK chief Vijay to make electoral debut from Perambur, Tiruchi East; prominent faces in Chennai",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
-      "summary": "TVK general secretary ‘Bussy’ N. Anand will contest from T. Nagar in Chennai, while K.A. Sengottaiyan will test the waters from his home turf, Gobichettipalayam. Aadhav Arjuna will contest from Villivakkam, K.G. Arunraaj from Tiruchengode and C.T.R. Nirmal Kumar from Thirupparankundram.",
-      "date": "2026-03-29",
-      "timestamp": "Sun, 29 Mar 2026 21:57:22 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "bca9338e79b5edf0f8aa7c472a96c570",
       "title": "यूपी में बड़ा फेरबदल, चार प्रमुख सचिव समेत नौ आईएएस अफसरों का तबादला, देखें लिस्ट",
       "link": "https://www.livehindustan.com/uttar-pradesh/major-reshuffle-up-nine-ias-officers-including-four-principal-secretaries-transferred-see-the-list-201774801272155.html",
@@ -38027,6 +38014,19 @@
       "lang": "en"
     },
     {
+      "id": "d52dca8253a7526a00721dced740fd27",
+      "title": "Qatari TV station hit in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/qatari-tv-station-hit-in-iran?traffic_source=rss",
+      "summary": "Qatar’s Al Araby network condemns an attack on its office in Tehran, which injured at least 10 people.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 20:11:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c0c711a205f6c35c2d2b9608eaf965b1",
       "title": "Mann ki Baat: Don’t politicise the challenges created by West Asian crisis, urges PM Modi",
       "link": "https://www.thehindu.com/news/national/prime-minister-mann-ki-baat-on-march-29-2026-west-asia-conflict/article70798896.ece",
@@ -38261,6 +38261,19 @@
       "lang": "en"
     },
     {
+      "id": "db133c88de1dc88eb96bcbbe2599986c",
+      "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
+      "link": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move drew criticism from the church, global leaders and the US ambassador. Israel's PM said it was a safety measure following recent Iranian strikes.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 19:52:56 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9ab39d7819354101fd3badf64f60eb61",
       "title": "Doctor’s family ‘attempts suicide’; wife, daughter die in Narsaraopet",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/doctors-family-attempts-suicide-wife-daughter-die-in-narsaraopet/article70799555.ece",
@@ -38339,6 +38352,19 @@
       "lang": "en"
     },
     {
+      "id": "250996b5a665683ab0afcefa144e937a",
+      "title": "Italy investigates Sephora and Benefit over marketing skincare to children",
+      "link": "https://www.bbc.com/news/articles/c3dlk93m7jyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Italian Competition Authority said luxury goods giant LVMH appears to have adopted \"particularly insidious\" marketing strategies.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 19:37:03 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "cad421915efd1870ab7edeb6c64e8b00",
       "title": "हमेशा हालात ऐसे नहीं रहेंगे...सांसद चंद्रशेखर ने यूपी के अफसरों को दी खुली चुनौती, सरकार पर भी बरसे",
       "link": "https://www.livehindustan.com/uttar-pradesh/hamesha-halat-aise-nahi-rahenge-mp-chandrashekhar-azad-upon-reaching-kheri-issued-an-open-challenge-up-officials-201774792709843.html",
@@ -38349,6 +38375,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "bca6ce63940d2b3aebf944b6b907f064",
+      "title": "Lebanon’s Catholics observe Palm Sunday under looming threat of war",
+      "link": "https://www.aljazeera.com/gallery/2026/3/29/lebanons-catholics-observe-palm-sunday-under-looming-threat-of-war?traffic_source=rss",
+      "summary": "Lebanese Christians mark Palm Sunday with prayers, stressing shared hardships for all communities amid Israel's war.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 19:36:26 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -38465,6 +38504,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6f62dad50a18245915b410c47aa16041",
+      "title": "RSF attack on Sudan’s South Kordofan kills at least 14, including children",
+      "link": "https://www.aljazeera.com/news/2026/3/29/rsf-attack-on-sudans-south-kordofan-kills-at-least-14-including-children?traffic_source=rss",
+      "summary": "Sudan Doctors Network said RSF and allies shelled residential areas in the city of Dilling for several hours.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 19:22:33 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -39103,19 +39155,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "db133c88de1dc88eb96bcbbe2599986c",
-      "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
-      "link": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move drew criticism from the church, global leaders and the US ambassador. Israel's PM said it was a safety measure following recent Iranian strikes.",
-      "date": "2026-03-29",
-      "timestamp": "Sun, 29 Mar 2026 17:09:00 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -40753,7 +40792,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -41000,7 +41039,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -41286,7 +41325,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -41468,7 +41507,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -41884,7 +41923,7 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Lucknow",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -65522,12 +65561,285 @@
       "lang": "en"
     },
     {
+      "id": "e1aeda785aa76c18106d20968a366240",
+      "title": "Noida News: एक्सप्रेसवे मेट्रो स्टेशनों पर शाम ढलते ही ऑटो का टोटा",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/autos-swarm-at-expressway-metro-stations-as-dusk-sets-in-noida-news-c-1-noi1095-4103541-2026-03-29",
+      "summary": "Autos swarm at expressway metro stations as dusk sets in",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 12:29:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "0bb99472bb7b7a49291245287e1e4d51",
+      "title": "Lucknow News: तेलीबाग में युवक ने फंदा लगाकर दी जान",
+      "link": "https://www.amarujala.com/lucknow/a-young-man-hanged-himself-to-death-in-telibagh-lucknow-news-c-13-knp1002-1667567-2026-03-30",
+      "summary": "तेलीबाग में युवक ने फंदा लगाकर दी जान",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:54:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "2b4adb005dd3bde6daee4e69e314f1a7",
+      "title": "Lucknow News: जमीन के नाम पर मौसी-मौसा ने 32 लाख ठगे",
+      "link": "https://www.amarujala.com/lucknow/aunt-and-uncle-cheated-rs-32-lakh-in-the-name-of-land-lucknow-news-c-13-lko1096-1666315-2026-03-30",
+      "summary": "जमीन के नाम पर मौसी-मौसा ने 32 लाख ठगे",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:52:47 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "c40903f60f93134b3d89433eb7654483",
+      "title": "Lucknow News: करंट से वेल्डिंग मैकेनिक की मौत",
+      "link": "https://www.amarujala.com/lucknow/welding-mechanic-dies-of-electric-shock-lucknow-news-c-13-lko1096-1666702-2026-03-30",
+      "summary": "करंट से वेल्डिंग मैकेनिक की मौत",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:52:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "17f68ace7d6df05c21583f7c2e81125a",
+      "title": "Lucknow News: बैंक के पूर्व कर्मी व दो साथियों पर कार और जेवर हड़पने का आरोप",
+      "link": "https://www.amarujala.com/lucknow/former-bank-employee-and-two-associates-accused-of-stealing-car-and-jewellery-lucknow-news-c-13-lko1096-1666327-2026-03-30",
+      "summary": "बैंक के पूर्व कर्मी व दो साथियों पर कार और जेवर हड़पने का आरोप",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:51:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "57cb4c01714231761b5ee46e21eb68d1",
+      "title": "Lucknow News: रेलवे में नौकरी दिलाने का झांसा देकर छह लाख ठगे",
+      "link": "https://www.amarujala.com/lucknow/six-lakh-rupees-were-duped-by-promising-a-job-in-the-railways-lucknow-news-c-13-lko1096-1666320-2026-03-30",
+      "summary": "रेलवे में नौकरी दिलाने का झांसा देकर छह लाख ठगे",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:51:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "efb41ba79647af0a725fcd77e108608a",
+      "title": "Lucknow News: शराब के लिए रुपये न देने पर जलाया था, आरोपी गिरफ्तार",
+      "link": "https://www.amarujala.com/lucknow/man-set-on-fire-for-not-paying-for-liquor-accused-arrested-lucknow-news-c-13-lko1096-1666334-2026-03-30",
+      "summary": "शराब के लिए रुपये न देने पर जलाया था, आरोपी गिरफ्तार",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:50:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "5f7753625f62911c1c5d9bb20cdf9777",
+      "title": "Lucknow News: लूट के आरोपी पकड़े गए, करीबी भी शक के दायरे में",
+      "link": "https://www.amarujala.com/lucknow/robbery-suspects-arrested-relatives-also-under-suspicion-lucknow-news-c-13-knp1002-1666909-2026-03-30",
+      "summary": "लूट के आरोपी पकड़े गए, करीबी भी शक के दायरे में",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:50:23 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "7cfa0811839426cee3e0f24665e694f2",
+      "title": "Bengali actor Rahul Arunoday Banerjee drowns in sea",
+      "link": "https://www.thehindu.com/news/national/bengali-actor-rahul-arunoday-banerjee-drowns-in-sea/article70800707.ece",
+      "summary": "He was 43, and left behind his 13-year-old son and actor-wife Priyanka Sarkar",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:48:31 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b92b5e71ced26ab16f6e0680ab636981",
+      "title": "TVK chief Vijay to make electoral debut from Perambur, Tiruchi East constituencies in Tamil Nadu Assembly election",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-chief-vijay-to-contest-from-perambur-tiruchi-east-constituencies-making-electoral-debut-in-tn-assembly-election-2026/article70798908.ece",
+      "summary": "TVK general secretary ‘Bussy’ N. Anand will contest from T. Nagar in Chennai, while K.A. Sengottaiyan will test the waters from his home turf, Gobichettipalayam. Aadhav Arjuna will contest from Villivakkam, K.G. Arunraaj from Tiruchengode and C.T.R. Nirmal Kumar from Thirupparankundram.",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:41:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "58c5f2b27c3dece7e3ab0adb3614e6c5",
+      "title": "Tea body seeks clarity on Assam land transfer policy for plantation workers",
+      "link": "https://www.thehindu.com/news/national/assam/tea-body-seeks-clarity-on-assam-land-transfer-policy-for-plantation-workers/article70800268.ece",
+      "summary": "Two months ahead of the elections, the BJP-led government amended a law to grant legal land rights to 3.5 lakh families of plantation workers living in the labour lines of more than 800 tea estates",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:38:31 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "176cfd2f1cf4fbc013d33233b8c5a30e",
+      "title": "Varanasi News: चकबंदी अधिकारी की पत्नी ने अपार्टमेंट की सातवीं मंजिल से कूदकर दी जान",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/the-wife-of-the-consolidation-officer-committed-suicide-by-jumping-from-the-seventh-floor-of-the-apartment-varanasi-news-c-20-vns1056-1338572-2026-03-30",
+      "summary": "The wife of the consolidation officer committed suicide by jumping from the seventh floor of the apartment.",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:38:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "5d0daeb514c2851ef9b6f0af617ef9d4",
+      "title": "Varanasi News: इंस्टाग्राम पर लिखा, आज आखिरी रात है मेरी, मेटा के अलर्ट पर पुलिस ने 17 मिनट में बचाई जान",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/wrote-on-instagram-today-is-my-last-night-police-saved-my-life-in-17-minutes-on-metas-alert-varanasi-news-c-20-vns1056-1338968-2026-03-30",
+      "summary": "Wrote on Instagram, today is my last night, police saved my life in 17 minutes on Meta's alert",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:37:23 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "3d067163764648afb74668c5f70269fd",
+      "title": "Varanasi News: बिल्डर से 16.62 करोड़ की ठगी दो आरोपी गोवा से हुए गिरफ्तार",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/two-accused-arrested-from-goa-for-duping-builder-of-rs-1662-crore-varanasi-news-c-20-vns1021-1339227-2026-03-30",
+      "summary": "Two accused arrested from Goa for duping builder of Rs 16.62 crore",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:36:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "231d9f3fefbb6c90cec742a771cce2d6",
+      "title": "Varanasi News: ट्रक-डीसीएम टक्कर में केबिन में दबकर चालक की मौत, तीन घायल, 30 बकरियां भी मरीं",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/doctor-accused-of-administering-wrong-injection-12-day-old-girl-dies-road-blockade-lasts-for-an-hour-varanasi-news-c-20-vns1021-1339374-2026-03-30",
+      "summary": "Doctor accused of administering wrong injection, 12-day-old girl dies, road blockade lasts for an hour",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:36:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "0285c592de77e2b9b2e14d3677acf8f8",
+      "title": "Varanasi News: मोबाइल चोरी में किशोर को घर से उठाया रॉड से पीटकर पुलिस चाैकी पहुंचाया, माैत",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/teenager-kidnapped-from-home-for-mobile-theft-beaten-with-rod-and-taken-to-police-station-dies-varanasi-news-c-20-vns1056-1338792-2026-03-30",
+      "summary": "Teenager kidnapped from home for mobile theft, beaten with rod and taken to police station, dies",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:35:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "1fbf5d0bbb36d9600e460b63819b71f6",
+      "title": "Bihar: सोमवार को एमएलसी पद से इस्तीफा देंगे सीएम नीतीश कुमार; जेडीयू MLA का बड़ा बयान; जानें बिहार का समीकरण",
+      "link": "https://www.amarujala.com/india-news/nitish-kumar-to-resign-from-bihar-legislative-council-tomorrow-says-jdu-leader-anant-kumar-singh-2026-03-30",
+      "summary": "Nitish Kumar to resign from Bihar Legislative Council tomorrow; says JDU leader Anant Kumar Singh - Bihar: सोमवार को एमएलसी पद से इस्तीफा देंगे सीएम नीतीश कुमार; जेडीयू MLA का बड़ा बयान; जानें बिहार का समीकरण",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:35:00 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "9de2fe746aff1a24bc8f00bdaf12fce1",
+      "title": "Varanasi News: शाइन सिटी कंपनी पर 80 लाख रुपये ठगने के आरोप में प्राथमिकी दर्ज हुई",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/fir-lodged-against-shine-city-company-for-duping-rs-80-lakh-varanasi-news-c-20-vns1056-1339012-2026-03-30",
+      "summary": "FIR lodged against Shine City company for duping Rs 80 lakh",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:34:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "20099b60fb547f739a706d488e234c0b",
+      "title": "Varanasi News: तीखी धूप ने तपाया, 24 घंटे में 2 डिग्री सेल्सियस बढ़ गया पारा",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/the-scorching-sun-scorched-the-city-with-temperatures-rising-by-2-degrees-celsius-in-24-hours-varanasi-news-c-20-vns1056-1339249-2026-03-30",
+      "summary": "The scorching sun scorched the city, with temperatures rising by 2 degrees Celsius in 24 hours.",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:33:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "529458da23c8b4efdd71ef8a0d6781bb",
+      "title": "Varanasi News: डाॅक्टर पर गलत इंजेक्शन लगाने का आरोप, 12 दिन की बच्ची की मौत, एक घंटे तक चक्काजाम",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/doctor-accused-of-administering-wrong-injection-12-day-old-girl-dies-road-blockade-lasts-for-an-hour-varanasi-news-c-20-vns1021-1339277-2026-03-30",
+      "summary": "Doctor accused of administering wrong injection, 12-day-old girl dies, road blockade lasts for an hour",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:32:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "776a9873f414ef2cd4c46dc5c9486d9b",
+      "title": "Varanasi News: एक मई तक वाराणसी सिटी से चलेगी इंटरसिटी",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/intercity-will-run-from-varanasi-city-till-may-1-varanasi-news-c-20-vns1056-1338923-2026-03-30",
+      "summary": "Intercity will run from Varanasi City till May 1",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:31:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "864e30cfc5e1c71a3658367291d081f7",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 30 मार्च के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-30",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-03-30",
-      "timestamp": "Mon, 30 Mar 2026 12:30:26 +0530",
+      "timestamp": "Mon, 30 Mar 2026 01:30:26 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -65540,7 +65852,7 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-30",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-03-30",
-      "timestamp": "Mon, 30 Mar 2026 12:30:14 +0530",
+      "timestamp": "Mon, 30 Mar 2026 01:30:14 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -65548,17 +65860,56 @@
       "lang": "hi"
     },
     {
-      "id": "e1aeda785aa76c18106d20968a366240",
-      "title": "Noida News: एक्सप्रेसवे मेट्रो स्टेशनों पर शाम ढलते ही ऑटो का टोटा",
-      "link": "https://www.amarujala.com/delhi-ncr/noida/autos-swarm-at-expressway-metro-stations-as-dusk-sets-in-noida-news-c-1-noi1095-4103541-2026-03-29",
-      "summary": "Autos swarm at expressway metro stations as dusk sets in",
+      "id": "f9c9d721c45cdd7e0c81b69dbd0806c8",
+      "title": "West Bengal Election 2026 : SIR के मुद्दे पर TMC-हुमायूं कबीर के मिले सुर, क्या है अगला सियासी प्लान?",
+      "link": "https://www.amarujala.com/video/india-news/west-bengal-election-2026-tmc-humayun-kabir-agree-on-the-issue-of-sir-what-is-the-next-political-plan-2026-03-30",
+      "summary": "West Bengal Election 2026 : SIR के मुद्दे पर TMC-हुमायूं कबीर के मिले सुर, क्या है अगला सियासी प्लान?",
       "date": "2026-03-30",
-      "timestamp": "Mon, 30 Mar 2026 12:29:03 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
+      "timestamp": "Mon, 30 Mar 2026 01:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "Amar Ujala",
-      "district": "Noida",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "639bad44871d92f32cb40d2f7debd715",
+      "title": "Firewood shortage looms as demand spikes amid LPG crisis",
+      "link": "https://www.thehindu.com/news/national/kerala/firewood-shortage-looms-as-demand-spikes-amid-lpg-crisis/article70800006.ece",
+      "summary": "",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:18:29 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
+    },
+    {
+      "id": "c17a4899967b4f04f8d91f3ecbdd17b1",
+      "title": "A sidetracked railway in Visakhapatnam",
+      "link": "https://www.thehindu.com/opinion/op-ed/a-sidetracked-railway-in-visakhapatnam/article70800480.ece",
+      "summary": "The delay in the functioning of a Railway zone has led to anxieties flaring up",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:08:59 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d7945d35542a9bb2d970b8599da0fb7c",
+      "title": "Assembly Election 2026: बंगाल चुनाव से पहले बड़ा फेरबदल: 173 थानेदारों का तबादला, BDO स्तर पर भारी बदलाव",
+      "link": "https://www.amarujala.com/india-news/ec-transfers-173-police-station-heads-across-bengal-ahead-of-assembly-polls-2026-03-30",
+      "summary": "EC transfers 173 police station heads across Bengal ahead of Assembly polls - Assembly Election 2026: बंगाल चुनाव से पहले बड़ा फेरबदल: 173 थानेदारों का तबादला, BDO स्तर पर भारी बदलाव",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 01:05:09 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "20b312e077682b97bd0714ca7f889482",
@@ -88112,6 +88463,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0a6b83e091c4e91d477b3dda74d0d9bc",
+      "title": "Florida man stopped by police after drivers report ‘missiles’ mounted on truck",
+      "link": "https://timesofindia.indiatimes.com/world/us/florida-man-stopped-by-police-after-drivers-report-missiles-mounted-on-truck-bomb-squad-dispatched/articleshow/129886631.cms",
+      "summary": "",
+      "date": "2026-03-29",
+      "timestamp": "2026-03-30T01:06:17+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
