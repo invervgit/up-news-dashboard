@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T09:31:59.280193+00:00",
+  "generated_at": "2026-03-29T10:27:34.911286+00:00",
   "stories": [
     {
       "id": "fc68923e0af1bff6415fb3d68816a956",
@@ -36584,12 +36584,155 @@
       "lang": "en"
     },
     {
+      "id": "74fe07f1ee0afe3e5a2dbc02aa9ca9d7",
+      "title": "TDP owes its existence to its cadre: Panabaka Lakshmi",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-owes-its-existence-to-its-cadre-panabaka-lakshmi/article70799089.ece",
+      "summary": "",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:54:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6bb43e5fa2d6a27e96ee1b3bee463d7d",
+      "title": "Amit Shah says curbing ‘infiltration not enough’, every illegal immigrant must be deported from Assam",
+      "link": "https://www.thehindu.com/elections/amit-shah-says-curbing-infiltration-not-enough-every-illegal-immigrant-must-be-deported-from-assam/article70799150.ece",
+      "summary": "Claiming that \"Assam State Congress president Gaurav Gogoi wants to protect infiltrators\", Amit Shah asked him to clarify his stand on the issue.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:54:41 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "334b017f836dc39055dfe1b591eef23c",
+      "title": "Assembly Elections LIVE: PM targets LDF, UDF in Kerala, says BJP will transform State with ‘Modi guarantees’",
+      "link": "https://www.thehindu.com/elections/assembly-elections-2026-live-march-29-2026-kerala-pondicherry-tamil-nadu-assam-west-bengal-pm-modi/article70798700.ece",
+      "summary": "Prime Minister Narendra Modi, in a rally in Kerala's Palakkad, said the BJP will transform Kerala into a developed State, and the State will move forward on the strength of Modi's guarantees.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:53:52 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4c0f82dac98e5c5b90d5df69ace86600",
+      "title": "Government to fill up 8,000 vacant posts in police department this year: Siddaramaiah",
+      "link": "https://www.thehindu.com/news/national/karnataka/government-to-fill-up-8000-vacant-posts-in-police-department-this-year-siddaramaiah/article70799005.ece",
+      "summary": "Calling upon the police officials to serve the society with integrity and honesty, Mr Siddaramaiah said the officers need not worry about their family members while they are on duty.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:46:34 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9ba49faa4eff144595e70c4f5856f9e9",
+      "title": "आंगनबाड़ी कार्यकत्रियों और सहायिकाओं के लिए बड़ी खुशखबरी, सीएम योगी कल देंगे कई सौगातें",
+      "link": "https://www.livehindustan.com/uttar-pradesh/good-news-for-anganwadi-workers-and-helpers-cm-yogi-to-announce-several-benefits-30-march-201774778579622.html",
+      "summary": "सोमवार को सीएम योगी लोकभवन सभागार में बाल विकास एवं पुष्टाहार विभाग की महिला सशक्तीकरण, बाल विकास और रोजगार सृजन को नई गति देने वाली कई बड़ी पहल का शुभारंभ करेंगे।",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:38:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "96ba72fbe2ceebe209bbf255e806a432",
+      "title": "Iran Parliament Speaker says U.S. plots ground attack despite diplomatic efforts",
+      "link": "https://www.thehindu.com/news/international/iran-parliament-speaker-says-us-plots-ground-attack-despite-diplomatic-efforts/article70799139.ece",
+      "summary": "Mohammad Bagher Ghalibaf called for unity among Iranians, saying the country was in “a major global war” that was “at its most critical stage”",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:34:39 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4a52670ab00a017b518a6a80196d1681",
+      "title": "यूपी के अग्निवीर की कश्मीर में मौत, ड्यूटी के दौरान 24 साल के जवान को आया हार्ट अटैक",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-agniveer-indrajeet-gupta-death-heart-attack-kashmir-duty-sitapur-201774778337905.html",
+      "summary": "यूपी के सीतापुर के रहने वाले अग्निवीर जवान इंद्रजीत गुप्ता (24) का जम्मू-कश्मीर के कुपवाड़ा में ड्यूटी के दौरान हार्ट अटैक से निधन हो गया। रविवार को राजकीय सम्मान के साथ उनके पैतृक गांव में अंतिम संस्कार किया गया।",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:34:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "19d8aa949d5b0e08dfeabc959024aa07",
+      "title": "Iran-Israel war LIVE: Pakistan Foreign Minister meets Egypt, Turkiye counterparts to discuss West Asia tensions",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-updates-live-march-29-2026/article70798605.ece",
+      "summary": "Iran Parliament speaker says U.S. plots ground attack despite diplomatic efforts",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:27:38 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4cfdc802606849f7a5a0d396067af3d6",
+      "title": "काशी विश्वनाथ का क्राउड मैनेजमेंट बना मॉ़डल, सिस्टम समझने आज खुद आ रहे सीएम मोहन यादव",
+      "link": "https://www.livehindustan.com/uttar-pradesh/mp-cm-mohan-yadav-varanasi-visit-kashi-vishwanath-crowd-management-model-201774776605540.html",
+      "summary": "मध्य प्रदेश के मुख्यमंत्री डॉ. मोहन यादव 30 मार्च को काशी पहुंच रहे हैं। वह श्री काशी विश्वनाथ धाम के सफल 'क्राउड मैनेजमेंट' मॉडल का अध्ययन करेंगे, जिसे 2028 में उज्जैन के सिंहस्थ महाकुंभ में लागू किया जाएगा।",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:18:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d19433e379ed23989f8b1903a7526f53",
+      "title": "दोनों ने मिलकर जितनी चाय नहीं पी होगी; उससे ज्यादा बार नोएडा आया; मोदी-योगी पर अखिलेश का पलटवार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/akhilesh-yadav-attacks-on-modi-and-yogi-on-noida-visit-sapa-samanta-bhaichara-rally-dadri-201774776415184.html",
+      "summary": "'अंधविश्वास के कारण सपा नेताओं के नोएडा नहीं आते थे' वाले पीएम के बयान पर पलटवार करते हुए सपा अध्यक्ष अखिलेश यादव ने मोदी-योगी का बिना नाम लिए कहा कि जितनी दोनों ने मिलकर चाय नहीं पी होगी। उससे ज्यादा बार मैं यहां अपने कार्यकर्ताओं के घर गया हूं।",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:07:59 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a83b414d5dc319203274ead66d572208",
+      "title": "AIADMK expels Dusi K. Mohan after TVK announces his candidature in Cheyyar",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/aiadmk-expels-dusi-k-mohan-after-tvk-announces-his-candidature-in-cheyyar/article70799084.ece",
+      "summary": "A communication from AIADMK general secretary Edappadi K. Palaniswami said Mr. Mohan's actions violated party discipline and brought disrepute to the organisation",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 15:05:21 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "153851eb310444bf4c11f351644effe4",
       "title": "Mysuru airport announces revised flight schedules",
       "link": "https://www.thehindu.com/news/national/karnataka/mysuru-airport-announces-revised-flight-schedules/article70799024.ece",
       "summary": "The update effective from March 29 as part of the Summer Schedule aims to streamline operations and enhance passenger connectivity",
       "date": "2026-03-29",
-      "timestamp": "Sun, 29 Mar 2026 14:55:36 +0530",
+      "timestamp": "Sun, 29 Mar 2026 15:04:36 +0530",
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
@@ -36636,6 +36779,19 @@
       "lang": "en"
     },
     {
+      "id": "8b60e8dee9c9cb36b74007762dd9159b",
+      "title": "Nepal's former Energy Minister arrested in money laundering probe",
+      "link": "https://www.thehindu.com/news/international/nepals-former-energy-minister-arrested-in-money-laundering-probe/article70798988.ece",
+      "summary": "The announcement came a day after ex-Prime Minister K.P. Sharma Oli and former Home Minister Ramesh Lekhak were arrested over their alleged roles in a deadly crackdown on anti-corruption protesters in September.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 14:51:10 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "dac9241c4a1f7508ac14d1ef574b0560",
       "title": "BJP to score hat-trick in Assam, to come to power for third term in row: Nitin Nabin",
       "link": "https://www.thehindu.com/elections/assam-assembly/bjp-to-score-hat-trick-in-assam-to-come-to-power-for-third-term-in-row-nitin-nabin/article70799085.ece",
@@ -36655,19 +36811,6 @@
       "summary": "Nicolas Maduro is only allowed to communicate by phone with his family and lawyers for a maximum of 15 minutes per call, a source said",
       "date": "2026-03-29",
       "timestamp": "Sun, 29 Mar 2026 14:43:55 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "19d8aa949d5b0e08dfeabc959024aa07",
-      "title": "Iran-Israel war LIVE: Pakistan Foreign Minister meets Egypt, Turkiye counterparts to discuss West Asia tensions",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-updates-live-march-29-2026/article70798605.ece",
-      "summary": "Iran Parliament speaker says U.S. plots ground attack despite diplomatic efforts",
-      "date": "2026-03-29",
-      "timestamp": "Sun, 29 Mar 2026 14:39:09 +0530",
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
@@ -36766,19 +36909,6 @@
       "lang": "en"
     },
     {
-      "id": "334b017f836dc39055dfe1b591eef23c",
-      "title": "Assembly Elections LIVE: Mamata alleges ‘1.2 crore voter deletions' in Bengal, warns BJP will end welfare schemes",
-      "link": "https://www.thehindu.com/elections/assembly-elections-2026-live-march-29-2026-kerala-pondicherry-tamil-nadu-assam-west-bengal-pm-modi/article70798700.ece",
-      "summary": "West Bengal Chief Minister Mamata Banerjee, during a rally in Purulia, said, \"BJP comes to power in Bengal, people won’t be able to eat non-veg.\"",
-      "date": "2026-03-29",
-      "timestamp": "Sun, 29 Mar 2026 14:17:17 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "8e909171da57b1505d98b1f006781859",
       "title": "Tamil Nadu CM Stalin to begin his election campaign in Tiruvarur on March 31",
       "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-cm-stalin-to-begin-his-election-campaign-in-tiruvarur-on-march-31/article70799040.ece",
@@ -36865,19 +36995,6 @@
       "timestamp": "Sun, 29 Mar 2026 13:08:29 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "8b60e8dee9c9cb36b74007762dd9159b",
-      "title": "Nepal's former Energy Minister arrested in money laundering probe",
-      "link": "https://www.thehindu.com/news/international/nepals-former-energy-minister-arrested-in-money-laundering-probe/article70798988.ece",
-      "summary": "The announcement came a day after ex-Prime Minister K.P. Sharma Oli and former Home Minister Ramesh Lekhak were arrested over their alleged roles in a deadly crackdown on anti-corruption protesters in September.",
-      "date": "2026-03-29",
-      "timestamp": "Sun, 29 Mar 2026 13:04:24 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -37988,6 +38105,19 @@
       "lang": "en"
     },
     {
+      "id": "0836ceda0df8e6825d064ecd730a6643",
+      "title": "‘Madam, my followers are in lakhs, you can’t answer’:Truck driver threatens woman ARTO in Unnao,",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/unnao-truck-driver-threatens-arto-pratibha-gautam-video-viral-137561953.html",
+      "summary": "A truck driver in Unnao threatened a female ARTO officer, saying he had millions of followers on social media and she would face consequences if she could not respond. The incident took place late on Saturday night when ARTO Pratibha Gautam and her team were checking overloaded vehicles. During the checking drive in the Dahi police station area, about 10 km from the district headquarters, the team stopped five vehicles and took them to a weighbridge for inspection. However, the GPS of the truck at the front got locked, which caused other trucks standing behind to get stuck as well. This led to delays and tension at the spot. Angered by the delay, one of the truck drivers started creating a ruckus. A constable from the checking team got into an argument with him. It is alleged that during the argument, a constable from the enforcement team caught the driver by his collar and started beating him. Seeing the commotion escalate, the female ARTO got out of the vehicle. It is being said that instead of stopping the constable, she herself started pushing the driver. Accusing him of drinking alcohol, she forcibly started putting him in the vehicle. At this, the truck driver got agitated. The enforcement team took him to the Dahi police station and handed him over to the police. The enforcement team says, ‘truck driver was under the influence of alcohol and violating rules’. Meanwhile, the driver alleges that he was forcibly stopped and assaulted. See 3 pictures Now read what the ARTO said According to ARTO Enforcement Pratibha Gautam, between 9:00 and 9:30 PM on Saturday night, she was checking for overloading near a factory in the Dahi police station area with her team. She was sitting in her government vehicle. Other members of the team were stopping and checking passing vehicles. The team stopped 5 overloaded trucks. All five trucks were taken to a weighbridge for overloading inspection. During weighing at the weighbridge, one truck's GPS got locked. Because of this, it stopped there. Then the truck drivers standing behind started creating a ruckus. Some of them were intoxicated. When a constable grabbed a truck driver's collar, she went to intervene, but the truck driver started misbehaving with her too, while making a video with his mobile. He started threatening her with consequences, claiming to be a social media influencer. Therefore, he was taken into custody and handed over to the police of Dahi police station. Police Station in charge said - Action will be taken upon receiving a complaint Dahi Police Station In-charge Gyanendra Singh said; The matter reached the police station late Saturday night. But so far, we have not received any complaint. The viral video has come to our attention. Further action will be taken only after receiving a complaint.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 09:42:50 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "01f5ac1388b878a39e0236e3011cd5b2",
       "title": "श्रद्धालुओं से भरी बस पेड़ से टकराई: 40 लोग घायल...4 गंभीर, अयोध्या से बलिया जा रहे थे सभी; चालक को आई थी झपकी",
       "link": "https://www.amarujala.com/uttar-pradesh/mau/bus-carrying-pilgrims-crashes-into-tree-in-mau-40-injured-4-critically-traveling-from-ayodhya-to-ballia-2026-03-29",
@@ -38024,6 +38154,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "22be0186797a8f4c16b8cac8b7b8a299",
+      "title": "Dozens detained in Tel Aviv as anti-war protest turns violent",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/3/29/dozens-detained-in-tel-aviv-as-anti-war-protest-turns-violent?traffic_source=rss",
+      "summary": "Police in Tel Aviv dispersed protesters opposing the US-Israeli war on Iran on Saturday. Up to 18 people were arrested.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 09:30:28 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -38076,6 +38219,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "95e27361bb0c681773720984341ec400",
+      "title": "Pentagon readies for weeks of US ground operations in Iran: Report",
+      "link": "https://www.aljazeera.com/news/2026/3/29/pentagon-readies-for-weeks-of-us-ground-operations-in-iran-report?traffic_source=rss",
+      "summary": "Uncertainty looms over Trump's approval of the Pentagon's plans for limited ground operations in Iran's strategic regions.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 09:15:57 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -39133,13 +39289,13 @@
     },
     {
       "id": "4bdbc2ada22e575566126767f8c244d0",
-      "title": "Maharashtra: अफवाह फैलाने वाले युवक को पुलिस ने माफी के बाद छोड़ा; एनसीबी प्रमुख पर आत्महत्या उकसाने का मामला",
+      "title": "Maharashtra: अशोक खरात की पुलिस हिरासत 1 अप्रैल तक बढ़ी; नाबालिग बच्चियों से छेड़छाड़ का आरोपी गिरफ्तार",
       "link": "https://www.amarujala.com/india-news/maharashtra-news-updates-today-crime-mumbai-police-cm-fadnavis-politics-news-in-hindi-2026-03-29",
       "summary": "Maharashtra: अफवाह फैलाने वाले युवक को पुलिस ने माफी के बाद छोड़ा; एनसीबी प्रमुख पर आत्महत्या उकसाने का मामला, Maharashtra news updates today crime mumbai police cm fadnavis politics news in hindi",
       "date": "2026-03-29",
       "timestamp": "Sun, 29 Mar 2026 04:14:23 +0530",
       "section": "National",
-      "report_category": "National_General",
+      "report_category": "National_Opposition",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -39184,6 +39340,19 @@
       "lang": "en"
     },
     {
+      "id": "0ad56f855034a98536f9ee9c4148922d",
+      "title": "UP News: राजधानी में 59 दिन में हुए 342 सड़क हादसे; 128 मरे और 321 घायल, मंडलायुक्त ने तलब की रिपोर्ट",
+      "link": "https://www.amarujala.com/lucknow/342-road-accidents-in-lucknow-in-59-days-128-dead-321-injured-lucknow-news-c-13-knp1002-1665975-2026-03-29",
+      "summary": "राजधानी लखनऊ में 59 दिन के भीतर 342 सड़क हादसे हुए। इनमें 128 लोगों की मृत्यु हुई।",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 03:55:19 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "c8af677e172483f67f88ae44f4682f65",
       "title": "Noida Airport : उद्घाटन में सीएम योगी ने कहा- प्रदेश के विकास का लॉन्च पैड बनेगा एयरपोर्ट, विकास को गति मिलेगी",
       "link": "https://www.amarujala.com/delhi-ncr/cm-yogi-said-airport-will-serve-as-a-launchpad-for-the-state-s-development-2026-03-29",
@@ -39195,6 +39364,19 @@
       "source": "Amar Ujala",
       "district": "Noida",
       "lang": "en"
+    },
+    {
+      "id": "fcc9140ef6c8fe14c815af8c4fd06be3",
+      "title": "किसने की गोडावण पक्षी के संरक्षण की पहल?: जयराम रमेश ने केंद्र के दावे पर उठाए सवाल, एक पत्र बना विवाद की जड़",
+      "link": "https://www.amarujala.com/india-news/great-indian-bustard-conservation-jairam-ramesh-statement-narendra-modi-gib-project-wildlife-news-2026-03-29",
+      "summary": "किसने की गोडावण पक्षी के संरक्षण की पहल?: जयराम रमेश ने केंद्र के दावे पर उठाए सवाल, एक पत्र बना विवाद की जड़",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 03:45:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "46c3c7ad30d925a3d5b60a46e63211a7",
@@ -39216,6 +39398,32 @@
       "summary": "उत्तर प्रदेश विधानसभा चुनाव में अभी तकरीबन 1 साल का समय है लेकिन भारतीय जनता पार्टी ने नोएडा एयरपोर्ट के लोकार्पण से विधानसभा चुनाव की उड़ान का आगाज कर दिया है।",
       "date": "2026-03-29",
       "timestamp": "Sun, 29 Mar 2026 03:41:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "afae66c9f3a84000cd919996a203af8f",
+      "title": "दादरी में पूर्व मुख्यमंत्री अखिलेश यादव रैली के बाद पत्रकारों से वार्ता करते हुए",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-former-chief-minister-akhilesh-yadav-talking-to-journalists-after-the-rally-in-dadri-2026-03-29",
+      "summary": "दादरी में पूर्व मुख्यमंत्री अखिलेश यादव रैली के बाद पत्रकारों से वार्ता करते हुए",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 03:37:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "e2b055a70175904e70141b8b0b694ba9",
+      "title": "दादरी में सपा ने की 'समाजवादी समानता भाईचारा' रैली",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-sp-organised-socialist-equality-and-brotherhood-rally-in-dadri-2026-03-29",
+      "summary": "दादरी में सपा ने की 'समाजवादी समानता भाईचारा' रैली",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 03:36:48 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -39249,6 +39457,45 @@
       "lang": "en"
     },
     {
+      "id": "8608846ac8c2e28e09e00d9569a30e7d",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 29 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-29",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 03:30:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ae6b0b2a0c8c97bcc3d3cf2fdb1bc6a4",
+      "title": "पढ़ें 29 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-29",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 03:30:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "bce8073f0518a4aa43f5bdfee9764a2b",
+      "title": "Assam: असम में घुसपैठ पर अमित शाह का सख्त रुख, बोले- हर अवैध प्रवासी को वापस भेजना होगा; SIR पर कही ये बात",
+      "link": "https://www.amarujala.com/india-news/amit-shah-tough-stand-on-infiltration-in-assam-says-every-illegal-migrant-must-be-sent-back-sir-rahul-gandhi-2026-03-29",
+      "summary": "Assam: असम में घुसपैठ पर अमित शाह का सख्त रुख, बोले- हर अवैध प्रवासी को वापस भेजना होगा; SIR पर कही ये बात Amit Shah tough stand on infiltration in Assam says every illegal migrant must be sent back SIR Rahul Gandhi",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 03:29:11 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "62511ec0e7258a7740f3136d20be89ab",
       "title": "Government’s failure responsible for supply crunch, panic among people, says Pramod Tiwari",
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/governments-failure-responsible-for-supply-crunch-panic-among-people-says-pramod-tiwari/article70796852.ece",
@@ -39275,6 +39522,19 @@
       "lang": "en"
     },
     {
+      "id": "1977d22db9131074c9fc2aaffe592cb0",
+      "title": "Bihar Board 10th Result 2026 : बिहार 10वीं टॉपर्स के लिए एक और बड़ी खुशखबरी",
+      "link": "https://www.amarujala.com/video/india-news/bihar-board-10th-result-2026-another-big-good-news-for-bihar-10th-toppers-2026-03-29",
+      "summary": "बिहार माध्यमिक शिक्षा बोर्ड (BSEB) ने 10वीं कक्षा का परिणाम आज, 29 मार्च को घोषित कर दिया है। इसके साथ ही 15 लाख से अधिक छात्रों का लंबा इंतजार खत्म हो गया है।",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 03:17:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "3bc78d162eeb3b72a11f28e88b77e37e",
       "title": "Noida News: तरक्की का उड़ान भरेगा उद्योग",
       "link": "https://www.amarujala.com/delhi-ncr/noida/industry-will-take-flight-to-progress-grnoida-news-c-1-noi1095-4099943-2026-03-28",
@@ -39286,6 +39546,19 @@
       "source": "Amar Ujala",
       "district": "Noida",
       "lang": "en"
+    },
+    {
+      "id": "cb784f59ac56a113060c7e1c6badb865",
+      "title": "'बंगाल में भाजपा आई तो मछली-मीट खाना हो जाएगा बंद': सीएम ममता ने साधा निशाना, लगाए कई गंभीर आरोप",
+      "link": "https://www.amarujala.com/india-news/mamata-banerjee-attacks-bjp-over-fish-meat-and-riots-allegations-2026-03-29",
+      "summary": "'बंगाल में भाजपा आई तो मछली-मीट खाना हो जाएगा बंद': सीएम ममता ने साधा निशाना, लगाए कई गंभीर आरोप",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 03:04:33 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "6015d040bbaa21193310e6169d74099d",
@@ -39301,17 +39574,17 @@
       "lang": "en"
     },
     {
-      "id": "8608846ac8c2e28e09e00d9569a30e7d",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 29 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-29",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "id": "b1feba5d6bc9486742eaca8c787747fc",
+      "title": "'LDF-UDF ने वर्षों तक किया सत्ता का व्यापार': केरल मे PM मोदी का विपक्ष पर हमला, कहा- लोगों से किए खोखले दावे",
+      "link": "https://www.amarujala.com/india-news/kerala-election-campaign-grand-welcome-for-pm-modi-in-palakkad-chenda-drum-bjp-nda-wave-of-change-ldf-udf-2026-03-29",
+      "summary": "kerala election campaign Grand Welcome for PM Modi in Palakkad chenda drum bjp nda wave of change LDF-UDF- 'LDF-UDF ने वर्षों तक किया सत्ता का व्यापार': केरल मे PM मोदी का विपक्ष पर हमला, कहा- लोगों से किए खोखले दावे",
       "date": "2026-03-29",
-      "timestamp": "Sun, 29 Mar 2026 03:01:07 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
+      "timestamp": "Sun, 29 Mar 2026 03:02:44 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "0dfe36ed74222b9f7436b4de458cd3aa",
@@ -39325,19 +39598,6 @@
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
-    },
-    {
-      "id": "ae6b0b2a0c8c97bcc3d3cf2fdb1bc6a4",
-      "title": "पढ़ें 29 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-29",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-29",
-      "timestamp": "Sun, 29 Mar 2026 03:00:50 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "9982fde25dbe6cf3bcfb303f6fdbbc53",
@@ -39730,6 +39990,19 @@
       "lang": "en"
     },
     {
+      "id": "226f5970c013b93fe8c5006c2d0e9688",
+      "title": "हरदोई में दर्दनाक हादसा: वैन और बाइक की जोदरदार भिड़ंत, तीन लोगों की मौत, एक की हालत गंभीर, मेडिकल कॉलेज रेफर",
+      "link": "https://www.amarujala.com/uttar-pradesh/hardoi/three-died-in-collision-between-van-and-bike-in-sawaijpur-hardoi-2026-03-29",
+      "summary": "हरदोई जिले के सवायजपुर कोतवाली क्षेत्र में रविवार को तेज रफ्तार का कहर देखने को मिला। इसमें एक वैन और बाइक मेंआमने-सामने की भीषण टक्कर हो गई।",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 02:39:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "8248b47b9e0a341028c4432f76117460",
       "title": "मैनाठेर कांड: सजा सुनते ही फूट-फूटकर रोने लगे दोषी, कोर्ट परिसर में खड़े परिजन भी बिलख पड़े, जानें पूरा केस",
       "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/mainather-kand-convicts-burst-into-tears-upon-hearing-sentence-relatives-court-premises-also-broke-down-2026-03-29",
@@ -39965,7 +40238,7 @@
     },
     {
       "id": "ad395f7158fb3fb1877a9ae7e2b24eea",
-      "title": "UP: 'किसी भी पार्टी का नेता हो गोमाता की रक्षा करनी पड़ेगी', अविमुक्तेश्वरानंद बोले-हम सरकारी नहीं असरकारी संत",
+      "title": "UP: अविमुक्तेश्वरानंद ने फिर किया गोरक्षा का आह्वान, संत होने को लेकर कही यह अहम बात",
       "link": "https://www.amarujala.com/uttar-pradesh/ambedkar-nagar/avimukteshwaranand-declared-regardless-of-which-party-leader-belongs-to-they-must-protect-cow-2026-03-29",
       "summary": "यूपी के अंबेडकरनगर में रविवार सुबह शंकराचार्य स्वामी अविमुक्तेश्वरानंद सरस्वती के चरण पादुका पूजन कार्यक्रम का आयोजन हुआ।",
       "date": "2026-03-29",
@@ -40139,19 +40412,6 @@
       "summary": "कार्यशाला में पार्टी की रीति, नीति, विचारधारा पर चर्चा",
       "date": "2026-03-29",
       "timestamp": "Sun, 29 Mar 2026 02:02:15 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "0ad56f855034a98536f9ee9c4148922d",
-      "title": "Lucknow News: लखनऊ में 59 दिन में हुए 342 सड़क हादसे, 128 मरे, 321 घायल",
-      "link": "https://www.amarujala.com/lucknow/342-road-accidents-in-lucknow-in-59-days-128-dead-321-injured-lucknow-news-c-13-knp1002-1665975-2026-03-29",
-      "summary": "लखनऊ में 59 दिन में हुए 342 सड़क हादसे, 128 मरे, 321 घायल",
-      "date": "2026-03-29",
-      "timestamp": "Sun, 29 Mar 2026 02:01:51 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -82795,6 +83055,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d59cc35cf9f101d721d08098674b255d",
+      "title": "$3 billion toll: US counts losses in aircraft, drones, defence systems",
+      "link": "https://timesofindia.indiatimes.com/defence/international/3-billion-toll-us-counts-losses-in-aircraft-drones-defence-systems/articleshow/129878775.cms",
+      "summary": "Iran's war has severely impacted US military assets, with initial losses and repairs estimated between $1.4 billion and $2.9 billion. Ballistic missiles and drone strikes have targeted advanced fighter jets, refueling tankers, and crucial surveillance systems, including expensive radars. The conflict's financial toll is escalating, even without a full ground war.",
+      "date": "2026-03-29",
+      "timestamp": "2026-03-29T15:42:36+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
