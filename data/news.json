@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T22:25:22.230791+00:00",
+  "generated_at": "2026-03-29T23:27:12.316453+00:00",
   "stories": [
     {
       "id": "fc68923e0af1bff6415fb3d68816a956",
@@ -36961,6 +36961,19 @@
       "lang": "en"
     },
     {
+      "id": "3eaa2a1bec6465c48045d8b53efbfba8",
+      "title": "How will the Houthis’ involvement shape the war?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/3/29/how-will-the-houthis-involvement-shape-the-war?traffic_source=rss",
+      "summary": "The Yemeni group has launched missiles towards Israel in support of Iran.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 22:46:09 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4fe4053a8347b44b7dd56f99882da039",
       "title": "अब गंगा एक्सप्रेसवे के उद्घाटन की तैयारी, यूपीडा के सीईओ ने मेरठ से उन्नाव तक 421 किमी दौड़ाई गाड़ी",
       "link": "https://www.livehindustan.com/uttar-pradesh/ganga-expressway-inauguration-prep-upeida-ceo-deepak-kumar-meerut-to-unnao-trial-201774803685658.html",
@@ -36983,6 +36996,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "42741ac544ced103fa126e8a3c63ce2e",
+      "title": "European nations criticise Israel’s death penalty plans",
+      "link": "https://www.aljazeera.com/news/2026/3/29/european-nations-criticise-israels-death-penalty-plans?traffic_source=rss",
+      "summary": "France, Germany, Italy and the United Kingdom raise concern over 'de facto discriminatory character of the bill.'",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 22:44:25 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -37010,6 +37036,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8ab89f5a50c7b5c4f9a0421703f04e3f",
+      "title": "Iran accuses US of plotting ground attack, as Israel steps up bombardment",
+      "link": "https://www.aljazeera.com/news/2026/3/29/iran-accuses-us-of-plotting-ground-attack-as-israel-steps-up-bombardment?traffic_source=rss",
+      "summary": "Power being restored after Iran's Ministry of Energy reported outages in the capital, Tehran following attacks.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 22:36:05 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -65483,25 +65522,25 @@
       "lang": "en"
     },
     {
-      "id": "9b634055a8108897fb6633d3202cdacd",
-      "title": "Ukrainian drones kill one, damage homes, industry in southern Russia's Taganrog",
-      "link": "https://www.thehindu.com/news/international/ukrainian-drone-strike-in-southern-russias-taganrog/article70800846.ece",
-      "summary": "\"Emergency crews are working at the site of ​the incident, where ‌the debris fell,\" Yuri Slyusar, Governor of Rostov region on Ukraine's eastern border, ‌said on Telegram. \"Fires and ​damage have occurred. People have been evacuated\"",
+      "id": "615741403c5fa39cc4033f64906db778",
+      "title": "Weather: उत्तर-पश्चिम भारत में बर्फबारी, मैदान में बारिश; जम्मू-कश्मीर में दो हाईवे बंद, हिमाचल में येलो अलर्ट",
+      "link": "https://www.amarujala.com/india-news/weather-snowfall-in-northwest-india-rain-two-highways-closed-in-jammu-kashmir-yellow-alert-in-himachal-2026-03-30",
+      "summary": "Weather: Snowfall in northwest India, rain; two highways closed in Jammu-Kashmir, yellow alert in Himachal- Weather: उत्तर-पश्चिम भारत में बर्फबारी, मैदान में बारिश; जम्मू-कश्मीर में दो हाईवे बंद, हिमाचल में येलो अलर्ट",
       "date": "2026-03-30",
-      "timestamp": "Mon, 30 Mar 2026 03:52:48 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
+      "timestamp": "Mon, 30 Mar 2026 04:43:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
       "district": "",
-      "lang": "en"
+      "lang": "hi"
     },
     {
       "id": "19d8aa949d5b0e08dfeabc959024aa07",
-      "title": "Iran-Israel war LIVE: Pakistan Foreign Minister meets Egypt, Turkiye counterparts to discuss West Asia tensions",
+      "title": "Iran-Israel war LIVE: U.N. force in southern Lebanon says peacekeeper killed",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-updates-live-march-29-2026/article70798605.ece",
       "summary": "Iran Parliament speaker says U.S. plots ground attack despite diplomatic efforts",
       "date": "2026-03-30",
-      "timestamp": "Mon, 30 Mar 2026 03:33:45 +0530",
+      "timestamp": "Mon, 30 Mar 2026 04:36:07 +0530",
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
@@ -65514,7 +65553,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-30",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-03-30",
-      "timestamp": "Mon, 30 Mar 2026 03:30:28 +0530",
+      "timestamp": "Mon, 30 Mar 2026 04:30:27 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -65527,12 +65566,51 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-30",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-03-30",
-      "timestamp": "Mon, 30 Mar 2026 03:30:15 +0530",
+      "timestamp": "Mon, 30 Mar 2026 04:30:16 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "842c388d6d98f95ad3e5e2a9b49d6b88",
+      "title": "Bengal: ध्रुवीकरण के लिए बंगाल में त्योहारों पर सियासत; रामनवमी पर जुलूस पर हमले और विरोध की घटनाओं से चिंता",
+      "link": "https://www.amarujala.com/india-news/assembly-election-2026-festivals-being-politicized-in-bengal-to-polarize-concerns-over-attacks-on-ramnavami-2026-03-30",
+      "summary": "Assembly Election 2026: Festivals being politicized in Bengal to polarize; concerns over attacks on RamNavami- Bengal: ध्रुवीकरण के लिए बंगाल में त्योहारों पर सियासत; रामनवमी पर जुलूस पर हमले और विरोध की घटनाओं से चिंता",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 04:21:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "bfa1fbba3082dca07dd9d6f3d2029491",
+      "title": "Supreme Court: 'पवन ऊर्जा प्रोत्साहन का लाभ वितरण कंपनियों को नहीं, उत्पादकों को मिले', सुप्रीम कोर्ट का फैसला",
+      "link": "https://www.amarujala.com/india-news/supreme-court-benefits-of-wind-energy-incentives-should-go-to-producers-not-distribution-companies-2026-03-30",
+      "summary": "Supreme Court: 'पवन ऊर्जा प्रोत्साहन का लाभ वितरण कंपनियों को नहीं, उत्पादकों को मिले', सुप्रीम कोर्ट",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 04:05:45 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "9b634055a8108897fb6633d3202cdacd",
+      "title": "Ukrainian drones kill one, damage homes, industry in southern Russia's Taganrog",
+      "link": "https://www.thehindu.com/news/international/ukrainian-drone-strike-in-southern-russias-taganrog/article70800846.ece",
+      "summary": "\"Emergency crews are working at the site of ​the incident, where ‌the debris fell,\" Yuri Slyusar, Governor of Rostov region on Ukraine's eastern border, ‌said on Telegram. \"Fires and ​damage have occurred. People have been evacuated\"",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 03:58:43 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "c92e17aaf14a2b462659b132eb4900e6",
