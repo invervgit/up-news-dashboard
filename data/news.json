@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T21:27:07.740155+00:00",
+  "generated_at": "2026-03-29T22:25:22.230791+00:00",
   "stories": [
     {
       "id": "fc68923e0af1bff6415fb3d68816a956",
@@ -37351,6 +37351,19 @@
       "lang": "en"
     },
     {
+      "id": "db133c88de1dc88eb96bcbbe2599986c",
+      "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
+      "link": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The move drew criticism from the church, global leaders and the US ambassador. Israel's PM said it was a safety measure following recent Iranian strikes.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 21:39:08 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b9458849f9091921c3d59d828c519d87",
       "title": "Traffic police arrest 495 motorists for drunk driving over weekend in tri-commissionerate limits",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/traffic-police-arrest-495-motorists-for-drunk-driving-over-weekend-in-tri-commissionerate-limits/article70799549.ece",
@@ -37386,6 +37399,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9bfe48910e6f328cdc3fcd690e2ecab7",
+      "title": "Renoir, Cézanne and Matisse paintings stolen in Italian job",
+      "link": "https://www.bbc.com/news/articles/cn4vw2xmpzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The paintings were taken from a museum in Parma by four masked men in the middle of the night, police say.",
+      "date": "2026-03-29",
+      "timestamp": "Sun, 29 Mar 2026 21:29:56 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -38206,19 +38232,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "db133c88de1dc88eb96bcbbe2599986c",
-      "title": "Israeli police block Latin Patriarch from Palm Sunday mass in Jerusalem",
-      "link": "https://www.bbc.com/news/articles/cvg0128z41eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The move drew criticism from the church, global leaders and the US ambassador. Israel's PM said it was a safety measure following recent Iranian strikes.",
-      "date": "2026-03-29",
-      "timestamp": "Sun, 29 Mar 2026 19:52:56 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -65470,17 +65483,69 @@
       "lang": "en"
     },
     {
-      "id": "19d8aa949d5b0e08dfeabc959024aa07",
-      "title": "Iran-Israel war LIVE: Pakistan Foreign Minister meets Egypt, Turkiye counterparts to discuss West Asia tensions",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-updates-live-march-29-2026/article70798605.ece",
-      "summary": "Iran Parliament speaker says U.S. plots ground attack despite diplomatic efforts",
+      "id": "9b634055a8108897fb6633d3202cdacd",
+      "title": "Ukrainian drones kill one, damage homes, industry in southern Russia's Taganrog",
+      "link": "https://www.thehindu.com/news/international/ukrainian-drone-strike-in-southern-russias-taganrog/article70800846.ece",
+      "summary": "\"Emergency crews are working at the site of ​the incident, where ‌the debris fell,\" Yuri Slyusar, Governor of Rostov region on Ukraine's eastern border, ‌said on Telegram. \"Fires and ​damage have occurred. People have been evacuated\"",
       "date": "2026-03-30",
-      "timestamp": "Mon, 30 Mar 2026 02:52:44 +0530",
+      "timestamp": "Mon, 30 Mar 2026 03:52:48 +0530",
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "19d8aa949d5b0e08dfeabc959024aa07",
+      "title": "Iran-Israel war LIVE: Pakistan Foreign Minister meets Egypt, Turkiye counterparts to discuss West Asia tensions",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-updates-live-march-29-2026/article70798605.ece",
+      "summary": "Iran Parliament speaker says U.S. plots ground attack despite diplomatic efforts",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 03:33:45 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "864e30cfc5e1c71a3658367291d081f7",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 30 मार्च के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-30",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 03:30:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "109fb14d0a64f2ce56602123911fc635",
+      "title": "पढ़ें 30 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-30",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 03:30:15 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c92e17aaf14a2b462659b132eb4900e6",
+      "title": "West Bengal Election 2026 :बंगाल की 284 सीटों पर कांग्रेस ने उतारे उम्मीदवार, 10 सीटों पर एलान बाकी !",
+      "link": "https://www.amarujala.com/video/india-news/west-bengal-election-2026-congress-fielded-candidates-on-284-seats-in-bengal-announcement-on-10-seats-is-yet-2026-03-30",
+      "summary": "West Bengal Election 2026 :बंगाल की 284 सीटों पर कांग्रेस ने उतारे उम्मीदवार, 10 सीटों पर एलान बाकी !",
+      "date": "2026-03-30",
+      "timestamp": "Mon, 30 Mar 2026 03:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "543bd30fdaac19b8765a2d50d298f998",
@@ -65949,32 +66014,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "864e30cfc5e1c71a3658367291d081f7",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 30 मार्च के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-03-30",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-03-30",
-      "timestamp": "Mon, 30 Mar 2026 02:30:26 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "109fb14d0a64f2ce56602123911fc635",
-      "title": "पढ़ें 30 मार्च के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-03-30",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-03-30",
-      "timestamp": "Mon, 30 Mar 2026 02:30:14 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "1d16f040f079319589b45b4ef022aec5",
