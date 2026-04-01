@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T22:32:13.287641+00:00",
+  "generated_at": "2026-04-01T23:31:41.373732+00:00",
   "stories": [
     {
       "id": "fc68923e0af1bff6415fb3d68816a956",
@@ -11819,6 +11819,19 @@
       "lang": "en"
     },
     {
+      "id": "6700e8336402b0419081595a2bdb92de",
+      "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
+      "link": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
+      "summary": "The rapper says she felt faint while performing in the Broadway show and was later diagnosed with \"extreme exhaustion\".",
+      "date": "2026-04-01",
+      "timestamp": "Wed, 01 Apr 2026 23:16:58 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d325e26d96e7043b0cffe06839daee7e",
       "title": "इस लेवल पर करनी होगी अभेद व्यूह रचना, धर्मपाल ने BJP वर्कर्स को दिया यूपी जीतने का मंत्र",
       "link": "https://www.livehindustan.com/uttar-pradesh/booth-level-requires-an-impenetrable-strategy-mahamantri-sangathan-dharampal-gives-bjp-workers-the-mantra-for-winning-up-201775064758909.html",
@@ -11972,6 +11985,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7d48f6eb3dc88478cfbb81ab7dce8ba4",
+      "title": "NASA’s Artemis II lifts off to the moon",
+      "link": "https://www.aljazeera.com/news/2026/4/1/nasas-artemis-ii-lifts-off-to-the-moon?traffic_source=rss",
+      "summary": "The mission is a major step in NASA’s plan to return humans to the moon and eventually send astronauts to Mars.",
+      "date": "2026-04-01",
+      "timestamp": "Wed, 01 Apr 2026 22:39:26 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -12218,6 +12244,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5cc4bf330436610f4c7f487029d2eb15",
+      "title": "US removes sanctions on Venezuela’s interim President Delcy Rodriguez",
+      "link": "https://www.aljazeera.com/news/2026/4/1/us-removes-sanctions-on-venezuelas-interim-president-delcy-rodriguez?traffic_source=rss",
+      "summary": "US has exerted growing influence over the Venezuelan government after abducting former President Nicolas Maduro.",
+      "date": "2026-04-01",
+      "timestamp": "Wed, 01 Apr 2026 22:12:46 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -20006,19 +20045,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "6700e8336402b0419081595a2bdb92de",
-      "title": "Megan Thee Stallion taken to hospital during Moulin Rouge performance",
-      "link": "https://www.bbc.com/news/articles/c86e1403793o?at_medium=RSS&at_campaign=rss",
-      "summary": "The rapper \"started feeling very ill\" mid-way through the show in New York, her representative told US media.",
-      "date": "2026-04-01",
-      "timestamp": "Wed, 01 Apr 2026 05:30:52 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -46326,7 +46352,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-02",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 04:00:54 +0530",
+      "timestamp": "Thu, 02 Apr 2026 05:00:49 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -46339,12 +46365,25 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-02",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 04:00:41 +0530",
+      "timestamp": "Thu, 02 Apr 2026 05:00:36 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "0c801d3bee9ac2b7599db76f06b4c2ad",
+      "title": "Delhi court dismiss defamation case filed by wife of AAP’s Somnath Bharti against Nirmala Sitharaman",
+      "link": "https://www.thehindu.com/news/national/delhi-court-dismiss-defamation-case-filed-by-wife-of-aaps-somnath-bharti-against-nirmala-sitharaman/article70811522.ece",
+      "summary": "A political opponent cannot be called to have defamed the other, when they are presenting certain scenarios against an opposite candidate, says court",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:50:54 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "2c2b3bd605dc2de935313e3bf17f48f2",
@@ -90777,6 +90816,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fc4b4db3f40837533a49b0ccfa14a20b",
+      "title": "NYC considers renting out ‘parts of’ Brooklyn Bridge to help close $6 billion budget gap",
+      "link": "https://timesofindia.indiatimes.com/world/us/nyc-considers-renting-out-parts-of-brooklyn-bridge-to-help-close-6-billion-budget-gap/articleshow/129961404.cms",
+      "summary": "New York City officials are considering leasing long-closed vaults beneath the Brooklyn Bridge to raise revenue amid a multibillion-dollar budget gap. The proposal, part of a broader City Council plan, reflects a push to generate income from underused public assets instead of raising taxes, as debates continue over how best to manage the city’s finances.",
+      "date": "2026-04-01",
+      "timestamp": "2026-04-02T04:45:37+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
