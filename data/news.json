@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T10:50:03.183184+00:00",
+  "generated_at": "2026-04-02T11:41:54.395729+00:00",
   "stories": [
     {
       "id": "33540e3fc19e9451fe5b47b37070ebe1",
@@ -353,6 +353,32 @@
       "lang": "en"
     },
     {
+      "id": "c41b62a56be0505b28b879bd21d038e1",
+      "title": "We entered Race Across the World to honour dying wish",
+      "link": "https://www.bbc.com/news/articles/c15dvelwd7qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Margo Oakley and her brother-in-law Mark Blythen bonded when their sister and wife Julia was terminally ill.",
+      "date": "2026-04-01",
+      "timestamp": "Wed, 01 Apr 2026 23:08:39 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a24c30614ab887352fd283671591fffb",
+      "title": "The delicate question of where responsibility lies for safety on UK mountains",
+      "link": "https://www.bbc.com/news/articles/cz0e105yk23o?at_medium=RSS&at_campaign=rss",
+      "summary": "Mountain rescue callouts have been steadily rising for decades.",
+      "date": "2026-04-01",
+      "timestamp": "Wed, 01 Apr 2026 23:08:09 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "694c657c8c6c54b113e125bbdedd3842",
       "title": "11.94% increase in Excise revenue in Karnataka despite drop in beer sales",
       "link": "https://www.thehindu.com/news/national/karnataka/1194-increase-in-excise-revenue-in-karnataka-despite-drop-in-beer-sales/article70812232.ece",
@@ -465,19 +491,6 @@
       "timestamp": "Wed, 01 Apr 2026 22:47:17 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "83322e8ace8fb30a8d6a2d81df662712",
-      "title": "Trump is at a strategic dead end on Iran; the war will reshape Gulf’s security architecture: Johns Hopkins professor Vali Nasr",
-      "link": "https://www.thehindu.com/news/international/trump-is-at-a-strategic-dead-end-on-iran-the-war-will-reshape-gulfs-security-architecture-vali-nasr/article70811259.ece",
-      "summary": "In an interview with The Hindu, Vali Nasr said Iran might be open for a deal on its nuclear programme but not on its missiles or its control over the Strait of Hormuz",
-      "date": "2026-04-01",
-      "timestamp": "Wed, 01 Apr 2026 22:46:13 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -3079,6 +3092,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cf6b63d2d68edee2945175db2ae26eb3",
+      "title": "Palantir UK boss says it's up to militaries to decide how AI targeting is used in war",
+      "link": "https://www.bbc.com/news/articles/cdrm52g4pl2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The company's AI platform Maven has reportedly been used by the US to identify targets in Iran.",
+      "date": "2026-04-01",
+      "timestamp": "Wed, 01 Apr 2026 16:03:20 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -34634,6 +34660,227 @@
       "lang": "en"
     },
     {
+      "id": "03e387a1cb47eb3be3b75f1ad39d8b58",
+      "title": "Assembly Election LIVE: Rahul Gandhi releases Congress manifesto for Assam polls, with focus on 11 sectors",
+      "link": "https://www.thehindu.com/elections/assembly-elections-2026-live-updates-april-4-2026-west-bengal-kerala-puducherry-assam-tamil-nadu-polls/article70814084.ece",
+      "summary": "The 11 resolutions spread across areas like governance, identity, healthcare, infrastructure development, industrialisation, agriculture, rural and urban development, climate change and secured Assam.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 17:05:55 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "80d4e27f4a78bbe47868926ea168a724",
+      "title": "Shortcut to poribortan in Bengal passes through Bhabanipur, says Amit Shah",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengals-existence-at-stake-due-to-infiltration-says-amit-shah/article70814682.ece",
+      "summary": "Top BJP leader and Union Home Minister Amit Shah turned the filing of nomination papers of Mr. Adhikari and three other BJP candidates into a high-voltage political spectacle by accompanying the BJP candidates on a roadshow",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 17:04:09 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4a6996bcde786e52f12a566b6b3e5ad2",
+      "title": "Gherao of judicial officers a ‘brazen attempt’ to hurt West Bengal SIR, challenge Supreme Court’s authority: CJI",
+      "link": "https://www.thehindu.com/news/national/holding-sir-judicial-officers-hostage-in-bengal-a-calculated-attempt-to-disrupt-elections-supreme-court/article70814426.ece",
+      "summary": "Chief Justice Kant said he had never seen such a “politically polarised State like West Bengal”",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 17:03:18 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "90fb4cf06c66b7706c5ef738562c8e94",
+      "title": "Iran-Israel war LIVE: Macron says it is 'unrealistic' to open Hormuz Strait by force",
+      "link": "https://www.thehindu.com/news/international/donald-trump-addresses-nation-on-iran-israel-war-live-updates-world-news/article70813995.ece",
+      "summary": "French President Emmanuel Macron, who has worked with ‌European and other allies to build a coalition to guarantee free passage through Hormuz once hostilities have stopped, said this could only be done by talking to Iran",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 17:01:19 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5c12cf870acb3925b2d94ba9beb8be94",
+      "title": "लखनऊ में स्कूल के अंदर घुसकर प्रिंसिपल को गोली मारी, फायरिंग से भगदड़, चीखने-चिल्लाने लगे बच्चे",
+      "link": "https://www.livehindustan.com/uttar-pradesh/a-man-shot-the-principal-inside-a-school-in-lucknow-the-firing-caused-children-started-screaming-201775128614887.html",
+      "summary": "यूपी की राजधानी लखनऊ में स्कूल के अंदर घुसकर प्रिंसिपल को गोली मारी। गोली आलमारी से टकराती हुई प्रिंसिपल अनिल कुमार सिंह के पेट में लगी है। घायल को इलाज के लिए सीएचसी मलिहाबाद भेजा गया।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:56:39 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a02cdea616060ff2a8bac86f9280526d",
+      "title": "Speaker Birla cautions ministers, members against long chats in House chamber",
+      "link": "https://www.thehindu.com/news/national/speaker-birla-cautions-ministers-members-against-long-chats-in-house-chamber/article70815406.ece",
+      "summary": "As soon as the Zero Hour began at 12 noon, Om Birla said he has seen members and ministers talking for half-an-hour with each other during House proceedings",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:53:10 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8c657995463851d4e9ef4597dbc14982",
+      "title": "Govt employees mandated to complete competency-linked courses: Centre in Rajya Sabha",
+      "link": "https://www.thehindu.com/news/national/govt-employees-mandated-to-complete-competency-linked-courses-centre-in-rajya-sabha/article70815263.ece",
+      "summary": "Union Minister of State for Personnel says the Government has adopted a competency-based capacity building approach, focusing on role-based learning and continuous skill development",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:52:27 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "96ccf4a5a67ad84369d5c05eb8dc05ec",
+      "title": "सामान्य, एससी-एसटी और ट्रांसजेंडर छात्रों को बड़ा मौका देने का तैयारी, योगी सरकार करने जा रही ये काम",
+      "link": "https://www.livehindustan.com/uttar-pradesh/general-sc-st-and-transgender-students-to-benefit-yogi-government-will-launch-portal-201775128096852.html",
+      "summary": "यूपी में छात्रवृत्ति से वंचित रह गए छात्रों को सरकार एक और बड़ा मौका देने जा रही है। समाज कल्याण विभाग जल्द ही शैक्षिक सत्र 2025-26 के अंतर्गत संचालित छात्रवृत्ति एवं शुल्क प्रतिपूर्ति योजना के छूटे हुए छात्रों के लिए पोर्टल दोबारा खोलेगा।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:52:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "dec6a2eac62f945ec3dd4f2718c90779",
+      "title": "AAP writes to Rajya Sabha Secretariat to remove Raghav Chadha as deputy leader",
+      "link": "https://www.thehindu.com/news/national/aap-raghav-chadha-deputy-leader-post-rajya-sabha-removal-ashok-milttal-updates/article70814918.ece",
+      "summary": "The move comes amid Mr. Chadha’s prolonged silence on matters related to the AAP, and his absence from several public events led by AAP supremo Arvind Kejriwal",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:50:40 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "01b7037cbe996c311a516117a3c0ae76",
+      "title": "Amaravati is people's sentiment, Jagan’s hatred for it will not change: Andhra CM Chandrababu Naidu",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-is-peoples-sentiment-jagans-hatred-for-it-will-not-change-andhra-cm-chandrababu-naidu/article70814932.ece",
+      "summary": "Andhra CM Chandrababu Naidu said the feeling that “Amaravati is our capital” should resonate with everyone",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:42:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "548f8610abf29335fc6969448bbdb53f",
+      "title": "Parliament Budget Session LIVE: RS passes Bill to make Amaravati permanent capital of A.P.; LS discusses CAPF Bill",
+      "link": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-april-4-2026-lok-sabha-to-debate-capf-bill/article70814227.ece",
+      "summary": "'Govt. violates model code of conduct of elections for political gains', says Jairam Ramesh in RS",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:38:54 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "109d8961952c8b102706bca67a151c22",
+      "title": "Nitish Kumar to get Z-Plus security",
+      "link": "https://www.thehindu.com/news/national/bihar-cm-nitish-kumar-z-plus-security/article70815210.ece",
+      "summary": "As the Bihar CM, Nitish Kumar enjoyed a special security cover provided under the State’s Bihar Special Security Act, 2000, which is modelled after the SPG Act meant for the Prime Minister",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:37:38 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d73fbc639e242620d54de3cca85b04f2",
+      "title": "चुनावी राज्यों में BJP और निर्वाचन आयोग मिलकर कर रहे काम, अखिलेश ने लगाया मिलीभगत का आरोप",
+      "link": "https://www.livehindustan.com/uttar-pradesh/bjp-and-election-commission-working-together-poll-bound-states-akhilesh-yadav-alleges-collusion-201775127250089.html",
+      "summary": "सपा प्रमुख अखिलेश यादव ने बृहस्पतिवार को भाजपा पर निर्वाचन आयोग के साथ मिलकर विभिन्न राज्यों में चुनावों को प्रभावित करने का प्रयास करने का आरोप लगाया।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:30:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "56436eb6ff435b40b59fd8fe304887cd",
+      "title": "Kerala Assembly polls: IUML rocked by Noorbina Rasheed’s resignation from Vanitha League",
+      "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-iuml-rocked-by-noorbina-rasheeds-resignation-from-vanitha-league/article70814971.ece",
+      "summary": "Her resignation as national general secretary of Vanitha League, the party’s women’s wing, follows reports of internal discontent over representation of women on IUML’s candidate list for Assembly elections",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:29:27 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "daf2d3406b2d1b024a75268bbb6d4907",
+      "title": "कौन कास्ट बा… BHU में जाति पूछकर ब्राह्मण छात्र को थप्पड़ मारा, सपा नेता हिमांशु यादव पर केस",
+      "link": "https://www.livehindustan.com/uttar-pradesh/samajwadi-party-student-wing-bhu-president-himanshu-yadav-slaps-brahmin-student-after-asking-caste-victims-claims-in-fir-201775125418371.html",
+      "summary": "BHU Brahmin Student Slapped: बनारस हिन्दू यूनिवर्सिटी में ब्राह्मण छात्र को जाति पूछकर थप्पड़ मारने के आरोप में वाराणसी पुलिस ने समाजवादी पार्टी छात्र सभा के बीएचयू अध्यक्ष हिमांशु यादव के खिलाफ एफआईआर दर्ज की है।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:24:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "af67d768b7f400a91df6a1b43c677f9a",
+      "title": "Kerala Assembly polls: UDF candidate in Kanhangad faces complaint for alleged religious appeal for votes",
+      "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-udf-candidate-in-kanhangad-faces-complaint-for-alleged-religious-appeal-for-votes/article70815132.ece",
+      "summary": "According to the complaint, the incident occurred on March 22 when the candidate visited a church. It is alleged that while canvassing for votes, he made references to religion and community, in violation of Model Code of Conduct",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:20:20 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7668be35fa03b46f64a39677a0d4eaad",
+      "title": "Iran vows ‘crushing’ attacks on U.S. and Israel after Trump’s threats",
+      "link": "https://www.thehindu.com/news/international/iran-vows-crushing-attacks-on-us-and-israel-after-trumps-threats/article70815246.ece",
+      "summary": "In an address to the nation, Donald Trump said the U.S. was “very close” to achieving its objectives but warned attacks would intensify if Iran did not reach a negotiated settlement",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 16:18:15 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9b613990bf6b305cf2a9dcbbf2d57acd",
       "title": "Mumbai BMC’s Standing Committee approves Gargai project",
       "link": "https://www.thehindu.com/news/national/maharashtra/mumbai-bmcs-standing-committee-approves-gargai-project/article70814720.ece",
@@ -34673,45 +34920,6 @@
       "lang": "en"
     },
     {
-      "id": "548f8610abf29335fc6969448bbdb53f",
-      "title": "Parliament Budget Session LIVE: RS passes Bill to make Amaravati permanent capital of A.P.; LS discusses CAPF Bill",
-      "link": "https://www.thehindu.com/news/national/parliament-budget-session-live-updates-april-4-2026-lok-sabha-to-debate-capf-bill/article70814227.ece",
-      "summary": "'Govt. violates model code of conduct of elections for political gains', says Jairam Ramesh in RS",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 16:10:15 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "03e387a1cb47eb3be3b75f1ad39d8b58",
-      "title": "Assembly Election LIVE: Rahul Gandhi releases Congress manifesto for Assam polls, with focus on 11 sectors",
-      "link": "https://www.thehindu.com/elections/assembly-elections-2026-live-updates-april-4-2026-west-bengal-kerala-puducherry-assam-tamil-nadu-polls/article70814084.ece",
-      "summary": "The 11 resolutions spread across areas like governance, identity, healthcare, infrastructure development, industrialisation, agriculture, rural and urban development, climate change and secured Assam.",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 16:06:29 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "80d4e27f4a78bbe47868926ea168a724",
-      "title": "West Bengal's existence at stake due to ‘infiltration’, says Amit Shah",
-      "link": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengals-existence-at-stake-due-to-infiltration-says-amit-shah/article70814682.ece",
-      "summary": "A storm is raging everywhere in Bengal; a storm for Poriborton (change) and say goodbye to Mamata Banerjee, says Union Home Minister Amit Shah",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 16:00:36 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "eda37ffe083e08c766927848a584159d",
       "title": "Chhattisgarh High Court convicts Amit Jogi in 2003 NCP leader murder case",
       "link": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-hc-convicts-amit-jogi-in-2003-ncp-leader-murder-case/article70814916.ece",
@@ -34725,19 +34933,6 @@
       "lang": "en"
     },
     {
-      "id": "dec6a2eac62f945ec3dd4f2718c90779",
-      "title": "AAP writes to Rajya Sabha Secretariat to remove Raghav Chadha as deputy leader",
-      "link": "https://www.thehindu.com/news/national/aap-raghav-chadha-deputy-leader-post-rajya-sabha-removal-ashok-milttal-updates/article70814918.ece",
-      "summary": "The move comes amid Mr. Chadha’s prolonged silence on matters related to the AAP, and his absence from several public events led by AAP supremo Arvind Kejriwal",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 15:54:28 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "9f734fd6ee40d77ade57c7fae2e09261",
       "title": "Over 20 Indian workers died abroad daily in last 5 years, most in Gulf nations: govt data",
       "link": "https://www.thehindu.com/news/national/over-20-indian-workers-died-abroad-daily-in-last-5-years-most-in-gulf-nations-govt-data/article70814967.ece",
@@ -34746,19 +34941,6 @@
       "timestamp": "Thu, 02 Apr 2026 15:53:58 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "56436eb6ff435b40b59fd8fe304887cd",
-      "title": "Kerala Assembly polls: IUML rocked by Noorbina Rasheed’s resignation from Vanitha League",
-      "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-polls-iuml-rocked-by-noorbina-rasheeds-resignation-from-vanitha-league/article70814971.ece",
-      "summary": "Her resignation as national general secretary of Vanitha League, the party’s women’s wing, follows reports of internal discontent over representation of women on IUML’s candidate list for Assembly elections",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 15:51:01 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -34837,19 +35019,6 @@
       "timestamp": "Thu, 02 Apr 2026 15:40:01 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "01b7037cbe996c311a516117a3c0ae76",
-      "title": "Amaravati is people's sentiment, Jagan’s hatred for it will not change: Andhra CM Chandrababu Naidu",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/amaravati-is-peoples-sentiment-jagans-hatred-for-it-will-not-change-andhra-cm-chandrababu-naidu/article70814932.ece",
-      "summary": "Andhra CM Chandrababu Naidu said the feeling that “Amaravati is our capital” should resonate with everyone",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 15:34:54 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -35050,6 +35219,19 @@
       "lang": "en"
     },
     {
+      "id": "83322e8ace8fb30a8d6a2d81df662712",
+      "title": "Trump is at a strategic dead end on Iran; the war will reshape Gulf’s security architecture: Johns Hopkins professor Vali Nasr",
+      "link": "https://www.thehindu.com/news/international/trump-is-at-a-strategic-dead-end-on-iran-the-war-will-reshape-gulfs-security-architecture-vali-nasr/article70811259.ece",
+      "summary": "In an interview with The Hindu, Vali Nasr said Iran might be open for a deal on its nuclear programme but not on its missiles or its control over the Strait of Hormuz",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 14:10:53 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "eba1d19799ce9e673747c59649da16fb",
       "title": "रस्सी से गला कसकर बीए की छात्रा की हत्या, खुद थाने पहुंचकर आरोपी बोला- मैंने मारा",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-deoria-man-killed-girl-strangled-to-death-with-rope-confessed-himself-in-police-station-201775118902266.html",
@@ -35136,19 +35318,6 @@
       "timestamp": "Thu, 02 Apr 2026 13:42:33 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "90fb4cf06c66b7706c5ef738562c8e94",
-      "title": "Iran-Israel war LIVE: Israel reports Iranian missile attacks after Trump’s speech",
-      "link": "https://www.thehindu.com/news/international/donald-trump-addresses-nation-on-iran-israel-war-live-updates-world-news/article70813995.ece",
-      "summary": "Iran’s military vows ‘crushing’ attacks against U.S. and Israel after the U.S. President’s threats",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 13:40:44 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -35459,19 +35628,6 @@
       "summary": "There has been a delay in the delivery schedule of engines for the LCA Mk-1A variant, which was criticised by Chief of Air Staff Air Chief Marshal A.P. Singh during the last edition of the Aero India in Bengaluru",
       "date": "2026-04-02",
       "timestamp": "Thu, 02 Apr 2026 12:50:53 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "4a6996bcde786e52f12a566b6b3e5ad2",
-      "title": "Holding SIR judicial officers hostage in Bengal a ‘calculated attempt’ to disrupt elections: Supreme Court",
-      "link": "https://www.thehindu.com/news/national/holding-sir-judicial-officers-hostage-in-bengal-a-calculated-attempt-to-disrupt-elections-supreme-court/article70814426.ece",
-      "summary": "Chief Justice Kant said he had never seen such political polarisation as in West Bengal",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 12:49:37 +0530",
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
@@ -36090,6 +36246,19 @@
       "lang": "en"
     },
     {
+      "id": "7a21c3a6c87fbd52cd221ba5317acb69",
+      "title": "Israeli strikes kill 7 in southern Lebanon, Hezbollah targets ground troops",
+      "link": "https://www.aljazeera.com/news/2026/4/2/israeli-strikes-kill-7-in-southern-lebanon-hezbollah-targets-ground-troops?traffic_source=rss",
+      "summary": "Fighting in southern Lebanon continues as Israel seeks to establish a 'security zone' and dismantle Hezbollah.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 11:26:47 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "587b1e41fd8329cb8165b7b77eaa5baa",
       "title": "सूखा पेड़ अचानक से गिरा: कटहल का सूखा पेड़ बाइक सवार पर गिरा, एक युवक की मौत, दूसरा गंभीर रुप से घायल",
       "link": "https://www.amarujala.com/gorakhpur/dry-tree-collapses-near-gorakhpur-railway-gm-office-one-bike-rider-killed-another-injured-2026-04-02",
@@ -36233,6 +36402,19 @@
       "lang": "en"
     },
     {
+      "id": "67e5566e00a61278e1f4a2e0744275b3",
+      "title": "Over 1,800 killed since junta seized power in Burkina Faso, rights group says",
+      "link": "https://www.bbc.com/news/articles/ckgr639007zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Human Rights Watch says Capt Traoré, other military leaders and jihadists \"may be liable\" for the killings.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 11:11:03 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b418ab31f386a3f453e0d29a0c2ffb89",
       "title": "Italian bill proposes curbs on social media addiction",
       "link": "https://www.thehindu.com/sci-tech/technology/italian-bill-proposes-curbs-on-social-media-addiction/article70814088.ece",
@@ -36242,6 +36424,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "714852174b0a53dfda618873abb4848a",
+      "title": "How Israel’s record budget will finance expanding illegal settlements",
+      "link": "https://www.aljazeera.com/economy/2026/4/2/how-israels-record-budget-will-finance-expanding-illegal-settlements?traffic_source=rss",
+      "summary": "Budget of $271bn comes against a backdrop of surging violence by Israeli settlers towards Palestinians in the West Bank.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 11:09:02 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -36402,6 +36597,19 @@
       "lang": "en"
     },
     {
+      "id": "19ee1b32041c6087d6921d7c74648ee8",
+      "title": "Libyan military leader may have combat drones despite UN embargo",
+      "link": "https://www.aljazeera.com/news/2026/4/2/libyan-military-leader-may-have-combat-drones-despite-un-embargo?traffic_source=rss",
+      "summary": "Reuters news agency says satellite images show ⁠at least three drones at Al Khadim airbase between April and December.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 11:01:16 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "19954c6bf43a11aaefa9451fe48a9a65",
       "title": "उपलब्धि: गृहकर, जलकर व सीवर कर का एक बिल जारी करने वाला प्रदेश का पहला निगम बना वाराणसी",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-first-municipal-corporation-in-up-to-issue-single-consolidated-bill-for-property-water-and-sewer-tax-2026-04-02",
@@ -36507,7 +36715,7 @@
     },
     {
       "id": "449814a79d9f1b49d55b67d08241dbcd",
-      "title": "FIR filed against Prayagraj neurosurgeon Dr Kartikeya over ‘bad touch’:Student alleges clothes removed on pretext of treatment; forced despite refusal",
+      "title": "FIR filed against Prayagraj neurosurgeon Dr. Kartikeya over ‘bad touch’:Student alleges clothes removed on pretext of treatment; forced despite refusal",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/prayagraj-neurosurgeon-bad-touch-fir-student-alleges-molestation-137594915.html",
       "summary": "An FIR has been registered against Dr Kartikeya Sharma, a well-known neurosurgeon in Prayagraj, over allegations of ‘bad touch’. A BA student has accused him of molestation. The student claims the doctor made her remove her clothes and then touched her with bad intent. Civil Lines police have registered a case based on her complaint, and she has been sent for a medical examination. The incident allegedly took place around 10:30 pm on Wednesday in the Clive Road area, where the 55-year-old doctor lives and runs his clinic from home. He is known to see patients late into the night. The 24-year-old student, a resident of Dhoomnaganj, had come with her brother for migraine treatment and was given token number 74. Her brother said he had to leave for urgent work and left his sister at the clinic. “When I returned, there was a commotion. My sister told me everything. I then informed our family and the police,” he said. A video of the incident has also surfaced, showing the doctor inside his house with the gate closed, arguing with the student’s family members outside. The student can be heard crying and asking, “Why did you make me remove my clothes?” The doctor has denied all allegations, saying he did nothing wrong. Police said the matter is under investigation. The student's number came at 10:30 PM The student's father has passed away. Her family consists of her mother and brother. Her brother works in a private job. The student told the police in her complaint that around 10:30 PM, my number came. When I reached the chamber, the doctor sent the other patients out, saying that an examination needed to be done. When I was left alone in the cabin, both doors of the chamber were locked from the inside. He started removing my clothes, and threatened me when I resisted The student said that after this, saying he would conduct an examination, the doctor started removing my upper clothes. He started molesting me. Then he asked me to remove my lower clothes as well. I got scared. I said I don't want to get examined, then he started forcing me. When I started crying, he threatened me and backed off. After this, he didn't open the doors until I had fixed my clothes. Called brother on phone, narrated her ordeal The student said that I came out and immediately called my brother. Seeing my condition, the patients and attendants already present surrounded the doctor. They started questioning him. When my brother came, I told him everything. Other family members also arrived. Dial 112 was informed. After some time, police from the Civil Lines station also arrived. Then the student was taken to the police station along with her family members. Patients entered the doctor's chamber, gave him a piece of their mind The student's family members said that when the daughter came out crying, other patients and attendants asked her the reason. When she narrated her ordeal, people entered the doctor's chamber. They started giving him a piece of their mind. At this, the doctor called his staff and got everyone thrown out. The gate was locked from the inside. Doctor said- I was examining the stomach In this entire matter, Dr. Kartikeya Sharma said- The girl had come. I examined her stomach. I won't deny this. Apart from this, whatever the girl has said is false. As for the female staff, they were on duty at that time. For a while, she had gone to give an injection to another patient. This took barely 3 minutes. If a female patient has to be checked, the doors have to be closed. The girl has been undergoing treatment for several years. She is a patient of psychosis, meaning depression. Earlier, she was admitted once to my hospital, Guru Gobind Singh Memorial Hospital. ACP Civil Lines Vidyut Goyal informed- Police reached the spot on the student's complaint. Investigation was conducted. The doctor was also questioned. For now, a case has been registered based on the statement. The matter is being thoroughly investigated. Who is Dr. Kartikeya?",
       "date": "2026-04-02",
@@ -36516,6 +36724,19 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "0b8df501346e716357fc36f06b29a3b1",
+      "title": "Eight countries condemn Israel’s one-sided death penalty for Palestinians",
+      "link": "https://www.aljazeera.com/news/2026/4/2/muslim-majority-countries-condemn-israels-one-sided-new-death-penalty-law?traffic_source=rss",
+      "summary": "Muslim-majority nations denounce Israel's 'increasingly discriminatory' practices that 'entrench a system of apartheid'.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 10:40:32 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -36571,6 +36792,19 @@
       "lang": "en"
     },
     {
+      "id": "b6e256b62c34f6a7ad7f7a5fb52e5643",
+      "title": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
+      "link": "https://www.aljazeera.com/news/2026/4/2/yemen-houthis-analysis-iran?traffic_source=rss",
+      "summary": "Houthi actions align with Iran’s strategy, but maintain autonomy to maximise regional influence and domestic objectives.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 10:36:37 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1794913b46e1cb18c692dd0da2973963",
       "title": "13-year-old girl killed in sacrifice in Jharkhand: Mother, tantrik, one other nabbed; NCW forms panel to probe",
       "link": "https://www.thehindu.com/news/national/jharkhand/13-year-old-girl-killed-in-sacrifice-in-jharkhand-mother-tantrik-one-other-nabbed-ncw-forms-panel-to-probe/article70814263.ece",
@@ -36594,6 +36828,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d54f36672ae401442dd1be1475b40d81",
+      "title": "US-Israeli attacks and its impact on Iran’s economy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/us-israeli-attacks-and-its-impact-on-irans-economy?traffic_source=rss",
+      "summary": "US-Israeli attacks and its impact on Iran’s economy",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 10:31:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -37026,6 +37273,19 @@
       "lang": "en"
     },
     {
+      "id": "83a69eab531097d58453796e383b0ce9",
+      "title": "Brazil grants joint custody over pets in new law for separated couples",
+      "link": "https://www.bbc.com/news/articles/ce8jzn180x2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawmakers in the Brazilian Congress on Tuesday viewed the law change as a reflection on the importance people place on their pets.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 09:38:08 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0858f052c8de76062424ccefb861730c",
       "title": "बाहर लगी सीढ़ी से घर में घुसा गांव का युवक, छत पर टहल रही महिला की गला रेतकर हत्या",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-gorakhpur-man-killed-woman-inside-her-house-while-she-was-walking-on-terrace-201775102364346.html",
@@ -37325,6 +37585,19 @@
       "lang": "en"
     },
     {
+      "id": "05014fb2d5519403db856e03b2be3fba",
+      "title": "'Oh my goodness, that is spectacular!': See BBC science editor react to launch",
+      "link": "https://www.bbc.com/news/videos/c05d6pprdleo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nasa's Artemis II has blasted off and is now orbiting Earth, before continuing on to circle the Moon.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 08:40:55 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6633fc11efa79ea9c4a23652450544a3",
       "title": "साध्वी पर टिप्पणी कर फंसे बरेली के चीफ प्रॉक्टर, छात्रों का कॉलेज में बवाल, बर्खास्तगी पर अड़े",
       "link": "https://www.livehindustan.com/uttar-pradesh/bareilly-college-chief-proctor-alok-khare-controversial-post-abvp-protest-resignation-up-news-201775098978329.html",
@@ -37504,6 +37777,19 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e629ea8b24f36b5a04d4ff08cc552f25",
+      "title": "Man dies in storm as Saharan dust shrouds Crete",
+      "link": "https://www.bbc.com/news/articles/c070d9g5k7jo?at_medium=RSS&at_campaign=rss",
+      "summary": "A man dies in flooding near Athens as rain lashes several regions in Greece, while a Saharan dust storm enveloped Crete.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 07:54:44 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -37724,6 +38010,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b04630b5db10cf5762088f8282b6428c",
+      "title": "Elon Musk's SpaceX set to go public in $1 trillion share listing",
+      "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 07:05:05 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -38092,6 +38391,19 @@
       "lang": "hi"
     },
     {
+      "id": "0826d4f52e8b1b218f420cc8ae0a99aa",
+      "title": "Australia to crack down on gambling ads after years of criticism",
+      "link": "https://www.bbc.com/news/articles/c62492e925lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Australians lose more money to gambling, per capita, than anywhere else in the world.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 05:43:13 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7906b4813a4d80bc3b20d731583d543e",
       "title": "कानपुर किडनी रैकेट: एनसीआर में पुलिस ने डाला डेरा, डॉक्टरों के खिलाफ लुकआउट नोटिस, वित्तीय लेनदेन की होगी जांच",
       "link": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-kidney-scandal-police-camp-out-in-ncr-lookout-notices-issued-against-doctors-2026-04-02",
@@ -38300,6 +38612,45 @@
       "lang": "hi"
     },
     {
+      "id": "b6f5b6382f57be64df67473b34fda4d3",
+      "title": "अयोध्या में जाम्बिया से आए श्रद्धालुओं ने की हनुमत वंदना",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-jamabya-sa-aae-sharathathhalo-na-ka-hanamata-vathana-2026-04-02",
+      "summary": "अयोध्या में जाम्बिया से आए श्रद्धालुओं ने की हनुमत वंदना",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 05:11:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "12735ef96198e6da458637fa29d8ea18",
+      "title": "अयोध्या में प्रसव के दौरान जच्चा-बच्चा की मौत, परिजनों ने लगाया लापरवाही का आरोप",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-parasava-ka-tharana-jacaca-bcaca-ka-mata-parajana-na-lgaya-lparavaha-ka-aarapa-2026-04-02",
+      "summary": "अयोध्या में प्रसव के दौरान जच्चा-बच्चा की मौत, परिजनों ने लगाया लापरवाही का आरोप",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 05:11:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "5eca2299ba709e031ea94022d1b9821a",
+      "title": "High Court : सपा सांसद मोहिबुल्लाह के खिलाफ दायर चुनाव याचिका खारिज, नाम की स्पेलिंग को बनाया था आधार",
+      "link": "https://www.amarujala.com/uttar-pradesh/allahabad/high-court-election-petition-filed-against-sp-mp-mohibullah-dismissed-based-on-the-spelling-of-the-name-2026-04-02",
+      "summary": "इलाहाबाद हाईकोर्ट ने रामपुर से सपा सांसद मोहिबुल्लाह नदवी के खिलाफ दायर चुनाव याचिका खारिज कर दी। न्यायमूर्ति सीके राय की एकल पीठ ने कहा कि हारे भाजपा प्रत्याशी घनश्याम सिंह लोधी ने चुनाव याचिका में वाद कारण का खुलासा नहीं किया है।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 05:08:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "3b3f657f5cd7a0c4db67e692ff6c0dbe",
       "title": "At least two Trinamool candidates summoned by central investigating agencies ahead of polls",
       "link": "https://www.thehindu.com/elections/west-bengal-assembly/at-least-two-trinamool-candidates-summoned-by-central-investigating-agencies-ahead-of-polls/article70811795.ece",
@@ -38326,6 +38677,32 @@
       "lang": "en"
     },
     {
+      "id": "09932258a021ac0458c981ab7ccaaef1",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 2 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-02",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 05:01:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a9ecd5a2ffacc003a9c04101909a36d0",
+      "title": "पढ़ें 2 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-02",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 05:00:56 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "1fd7a474182a7dd89ba9989ad6184ab9",
       "title": "Trump claims ‘success’ in Iran in just 32 days compared to lengthy US wars",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/trump-claims-success-in-iran-in-just-32-days-compared-to-lengthy-us-wars?traffic_source=rss",
@@ -38336,6 +38713,45 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cb78bbb5cd07634caf57ac94aa187a9f",
+      "title": "UP: कांग्रेस समता दिवस के रूप में मनाएगी बाबू जगजीवन राम की जयंती, संगोष्ठी व सम्मान समारोह का करेगी आयोजन",
+      "link": "https://www.amarujala.com/lucknow/congress-will-celebrate-babu-jagjeevan-ram-s-birthday-as-samta-diwas-2026-04-02",
+      "summary": "कांग्रेस पार्टी पूर्व नेता बाबू जगजीवन राम की जयंती (5 अप्रैल) समता दिवस के रूप में मनाएगी। इस मौके पर 4 अप्रैल को कांग्रेस कार्यालय में संगोष्ठी व सम्मान समारोह का आयोजन किया जाएगा।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 05:00:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "4020052ee03f36e74bb185fef386ef5c",
+      "title": "High Court : मुस्लिम कानून के तहत अदालत की डिक्री से नहीं, घोषणा वाले दिन से ही तलाक प्रभावी",
+      "link": "https://www.amarujala.com/uttar-pradesh/allahabad/high-court-under-muslim-law-divorce-is-effective-from-the-day-of-pronouncement-2026-04-02",
+      "summary": "इलाहाबाद हाईकोर्ट ने कहा कि मुस्लिम कानून के तहत तलाक की डिक्री केवल एक घोषणात्मक प्रकृति की होती है, जो पहले दिए जा चुके तलाक की वैधता को स्वीकार करती है।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 05:00:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2e41188db805d0844f3231faabde4b67",
+      "title": "लखनऊ: मनकामेश्वर उपवन घाट पर हनुमान जयंती पर महिला सेवकों ने किया सुंदरकांड का पाठ",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-manakamashavara-upavana-ghata-para-hanamana-jayata-para-mahal-savaka-na-kaya-satharakada-ka-patha-2026-04-02",
+      "summary": "लखनऊ: मनकामेश्वर उपवन घाट पर हनुमान जयंती पर महिला सेवकों ने किया सुंदरकांड का पाठ",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:58:59 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -38350,6 +38766,19 @@
       "source": "Al Jazeera",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "c283cae2b1986b557647347e448a19a7",
+      "title": "AAP Politics: AAP से राघव चड्ढा को झटका,हाथ से निकल गया बड़ा पद",
+      "link": "https://www.amarujala.com/video/india-news/raghav-chadha-removed-as-aap-s-rajya-sabha-deputy-leader-2026-04-02",
+      "summary": "जानकारी के लिए बता दें कि आम आदमी पार्टी ने सांसद राघव चड्ढा को डिप्टी लीडर पद से हटा दिया है। पार्टी ने राज्य सभा सचिवालय को इस संदर्भ में एक पत्र भेजा। वहीं अब अशोक मित्तल राज्यसभा में आम आदमी पार्टी की ओर से उपनेता होंगे।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:56:24 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "17d4cf5420e3b409bf85f00e1b48d295",
@@ -38378,6 +38807,19 @@
       "lang": "en"
     },
     {
+      "id": "b794e7d72e57ce444045ec55b1c263dd",
+      "title": "Malda Incident : मालदा में एसआईआर को लेकर भयंकर बवाल, रवि किशन ने कर दिया बड़ा खुलासा",
+      "link": "https://www.amarujala.com/video/india-news/malda-incident-huge-uproar-over-sir-in-malda-ravi-kishan-makes-a-big-revelation-2026-04-02",
+      "summary": "पश्चिम बंगाल में विधानसभा चुनावों को लेकर सियासत गरमाई हुई है.. इसी बीच पश्चिम बंगाल से एक ऐसी हैरान करने वाली खबर सामने आई है, जिसने देश की न्यायपालिका और कानून व्यवस्था पर बड़े सवाल खड़े कर दिए हैं..",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:53:24 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "0c801d3bee9ac2b7599db76f06b4c2ad",
       "title": "Delhi court dismiss defamation case filed by wife of AAP’s Somnath Bharti against Nirmala Sitharaman",
       "link": "https://www.thehindu.com/news/national/delhi-court-dismiss-defamation-case-filed-by-wife-of-aaps-somnath-bharti-against-nirmala-sitharaman/article70811522.ece",
@@ -38388,6 +38830,84 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c9021040efef3d686d87c3b5b7f932b4",
+      "title": "आईआईटी बीएचयू: एमटेक में दाखिले का कटऑफ जारी, सिरामिक में 200, एआई में 772 तक गया अंक",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/iit-bhu-m-tech-admission-cut-off-released-scores-reached-200-in-ceramics-and-up-to-772-in-ai-2026-04-02",
+      "summary": "सबसे ज्यादा कटऑफ कंप्यूटर साइंस के आर्टिफिशियल इंटेलीजेंस (एआई) में 772 अंक और इंटरनेट ऑफ थिंग्स (आईओटी) में 757 अंक तक गया है।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:49:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "65562f9d55ba7b5760ebeb565c06a0ed",
+      "title": "असम का सियासी रण: अमित शाह ने कांग्रेस पर साधा निशाना, बोले- घुसपैठियों के हवाले कर दिया था काजीरंगा",
+      "link": "https://www.amarujala.com/india-news/amit-shah-assam-rally-kaliabor-kaziranga-congress-attack-2026-04-02",
+      "summary": "असम का सियासी रण: अमित शाह ने कांग्रेस पर साधा निशाना, बोले- घुसपैठियों के हवाले कर दिया था काजीरंगा amit shah assam rally kaliabor kaziranga congress attack",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:48:42 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "df1801eb2863e470ec50afc53157f655",
+      "title": "बलिया में 20 लाख की चोरी: पति का इलाज कराने हैदराबाद गई थी महिला, कैश भी ले गए चोर; FIR",
+      "link": "https://www.amarujala.com/uttar-pradesh/ballia/theft-of-20-lakhs-in-ballia-woman-gone-to-hyderabad-for-husband-heart-treatment-fir-filed-2026-04-02",
+      "summary": "बलिया के बैरिया क्षेत्र के जमालपुर गांव में बंद पड़े मकान को निशाना बनाते हुए चोरों ने लाखों रुपये के जेवर और नकदी पर हाथ साफ कर दिया। घटना का पता तब चला जब पीड़िता इलाज कराकर घर लौटीं।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:47:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "678521c26105885b384c514783c5d749",
+      "title": "Budaun News: परिवार के साथ एसएसपी कार्यालय पहुंची महिला ने खाया जहर, गांववालों पर उत्पीड़न का आरोप",
+      "link": "https://www.amarujala.com/uttar-pradesh/budaun/woman-reaches-ssp-office-with-family-and-consumes-poison-in-budaun-2026-04-02",
+      "summary": "ट्रॉली में गृहस्थी का सामान लादकर पहुंचा था परिवार, एसएसपी दफ्तर से बाहर निकलते ही महिला ने खा लिया जहर",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:47:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "06ec06d83e0f59d6e474a9cdbbc75331",
+      "title": "CRPF मेस में कोबरा बटालियन के असिस्टेंट कमांडेंट अजय मलिक से मिले राहुल गांधी! एक पैर गंवाया पर खोया नहीं हौसल",
+      "link": "https://www.amarujala.com/video/india-news/rahul-meets-cobra-battalion-officer-ajay-malik-2026-04-02",
+      "summary": "CRPF मेस में कोबरा बटालियन के असिस्टेंट कमांडेंट अजय मलिक से मिले राहुल गांधी! एक पैर गंवाया पर खोया नहीं हौसल",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:42:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3cf1e906d664dc0aed54cf858e01248e",
+      "title": "Sonbhadra News: कलेक्शन एजेंट से हुई लूट का पर्दाफाश, छात्रसंघ के पूर्व महामंत्री समेत पांच गिरफ्तार",
+      "link": "https://www.amarujala.com/uttar-pradesh/sonebhadra/robbery-of-collection-agent-solved-five-arrested-including-former-student-union-general-secretary-in-sonbhadra-2026-04-02",
+      "summary": "आरोपियों के कब्जे से लूटा गया सामान, अवैध असलहा और घटना में प्रयुक्त दो बाइक बरामद हुई है।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:40:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -38414,6 +38934,32 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f1efa62a322470e2fc7aca7e62454537",
+      "title": "पिता को तड़पा-तड़पाकर मार डाला: डांट से नाराज रहता था बेटा, लोहे की रॉड से ताबड़तोड़ वार कर की हत्या",
+      "link": "https://www.amarujala.com/uttar-pradesh/mau/son-beat-his-father-to-death-with-an-iron-rod-in-mau-2026-04-02",
+      "summary": "परिजनों के मुताबिक पिता के डांटने से वह हमेशा उनसे नाराज रहता था। सूचना पर पहुंची पुलिस और फॉरेंसिक टीम ने मौके से साक्ष्य जुटाए।",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:27:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "7dc85b22fb8a202fa865104513f0cd22",
+      "title": "लखनऊ: हनुमान जयंती पर हनुमान सेतु मंदिर में उमड़ी भीड़, लाइन में लगकर किए दर्शन",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-hanamana-jayata-para-hanamana-sata-mathara-ma-umaugdha-bhaugdha-lina-ma-lgakara-kae-tharashana-2026-04-02",
+      "summary": "लखनऊ: हनुमान जयंती पर हनुमान सेतु मंदिर में उमड़ी भीड़, लाइन में लगकर किए दर्शन",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 04:24:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -38470,7 +39016,7 @@
     },
     {
       "id": "75e1acf7b2384dd9cb04cbce76943929",
-      "title": "Ground Report: योगी सरकार ने बदली कपिलवस्तु की सूरत! बढ़ा पर्यटन, सिद्धार्थनगर बना एजुकेशन हब; देखें रिपोर्ट",
+      "title": "Ambedkar nagar Ground Report: योगी सरकार ने बदली कपिलवस्तु की सूरत, सिद्धार्थनगर बना एजुकेशन हब; देखें रिपोर्ट",
       "link": "https://www.amarujala.com/uttar-pradesh/siddharthnagar/ground-report-siddharthnagar-yogi-government-transforms-face-of-kapilvastu-tourism-surges-see-this-report-2026-04-01",
       "summary": "Ground Report On Siddharthnagar: सक्षम यूपी कार्यक्रम के तहत अमर उजाला टीम उत्तर प्रदेश के सिद्धार्थनगर पहुंची। जहां चुनाव से पहले जमीनी हकीकत परखी।",
       "date": "2026-04-02",
@@ -38483,13 +39029,13 @@
     },
     {
       "id": "46e78830f9cb8c7ab21d5f3db2c1baef",
-      "title": "Assam Election: राहुल गांधी ने जारी किया असम चुनाव के लिए कांग्रेस का घोषणापत्र, इन 11 क्षेत्रों पर फोकस",
+      "title": "Assam Congress Manifesto: राहुल गांधी ने असम के लिए जारी किया कांग्रेस का घोषणापत्र, 11 क्षेत्रों पर फोकस",
       "link": "https://www.amarujala.com/india-news/assam-assembly-election-2026-rahul-gandhi-releases-congress-manifesto-focus-on-11-sectors-2026-04-02",
-      "summary": "Assam Election: राहुल गांधी ने जारी किया असम चुनाव के लिए कांग्रेस का घोषणापत्र, इन 11 क्षेत्रों पर फोकस",
+      "summary": "Assam Congress Manifesto: राहुल गांधी ने असम के लिए जारी किया कांग्रेस का घोषणापत्र, 11 क्षेत्रों पर फोकस",
       "date": "2026-04-02",
       "timestamp": "Thu, 02 Apr 2026 04:09:20 +0530",
       "section": "National",
-      "report_category": "National_General",
+      "report_category": "National_Opposition",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -38521,32 +39067,6 @@
       "lang": "hi"
     },
     {
-      "id": "09932258a021ac0458c981ab7ccaaef1",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 2 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-02",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 04:02:51 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "a9ecd5a2ffacc003a9c04101909a36d0",
-      "title": "पढ़ें 2 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-02",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 04:02:26 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "2dc977db2cc26d789ce2b8286b2af09a",
       "title": "Magnitude 7.4 earthquake hits off Indonesia, killing one",
       "link": "https://www.bbc.com/news/articles/cn53krrrr24o?at_medium=RSS&at_campaign=rss",
@@ -38561,13 +39081,13 @@
     },
     {
       "id": "6382147fa5fe17f8c66ad5ddf7c49ba6",
-      "title": "Assam Congress Manifesto: कांग्रेस ने असम के लिए चुनावी घोषणा-पत्र जारी किया; बड़े वादों के साथ बदलाव के दावे",
+      "title": "Assam Election: 'हिमंत बिस्व सरमा ने जिसके साथ भी काम किया, सबको धोखा दिया', रैली में राहुल का सीएम पर हमला",
       "link": "https://www.amarujala.com/india-news/assam-congress-manifesto-releases-claim-of-change-major-poll-promises-rahul-priyanka-gaurav-gogoi-hindi-update-2026-04-02",
-      "summary": "Assam Congress Manifesto: कांग्रेस ने असम के लिए चुनावी घोषणा-पत्र जारी किया; बड़े वादों के साथ बदलाव के दावे",
+      "summary": "Assam Election: 'हिमंत बिस्व सरमा ने जिसके साथ भी काम किया, सबको धोखा दिया', रैली में राहुल का सीएम पर हमला",
       "date": "2026-04-02",
       "timestamp": "Thu, 02 Apr 2026 03:58:20 +0530",
       "section": "National",
-      "report_category": "National_Opposition",
+      "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -39848,9 +40368,9 @@
     },
     {
       "id": "7935d4bb96c87ed391fd3269e302c238",
-      "title": "Gorakhpur News: दो माह से लापता बुजुर्ग का कंकाल पोखरे में मिला, गांव में सनसनी",
+      "title": "UP: 40 साल पहले युवक आया था गांव, 2 माह पहले हो गया था लापता- पोखरे में मिला कंकाल; गांव में सनसनी",
       "link": "https://www.amarujala.com/gorakhpur/a-case-from-the-gida-police-station-area-children-who-went-to-pick-berries-saw-a-skeleton-and-identified-it-from-their-clothes-gorakhpur-news-c-7-gkp1038-1276755-2026-04-02",
-      "summary": "गीडा थाना क्षेत्र का मामला, बेर तोड़ने गए बच्चों ने देखा कंकाल, कपड़ों से हुई पहचान",
+      "summary": "थाना क्षेत्र के खानिमपुर गांव में दो माह से लापता बुजुर्ग नासीर (60) का कंकाल बुधवार को गांव की पोखरी में मिलने से सनसनी फैल गई।",
       "date": "2026-04-02",
       "timestamp": "Thu, 02 Apr 2026 02:30:09 +0530",
       "section": "UP_Focus",
@@ -40394,7 +40914,7 @@
     },
     {
       "id": "584028474e46c40c8236f6893c57326b",
-      "title": "Assembly Election 2026: सीएम स्टालिन ने BJP संग गठबंधन पर AIADMK को घेरा; सेंथिल बालाजी पर पलानीस्वामी का हमला",
+      "title": "Assembly Election 2026: अधीर रंजन चौधरी ने दाखिल किया नामांकन, बोले- विधानसभा में पहली बार आजमा रहा हूं किस्मत",
       "link": "https://www.amarujala.com/india-news/assembly-election-2026-assam-kerala-puducherry-tamil-nadu-west-bengal-election-news-of-2-april-updates-2026-04-02",
       "summary": "Assembly Election 2026: Assam, Kerala, Puducherry, Tamil Nadu, West Bengal, Election News of 2 April; Updates - Assembly Election 2026: सीएम स्टालिन ने भाजपा गठबंधन पर AIADMK को घेरा; सेंथिल बालाजी पर पलानीस्वामी का हमला",
       "date": "2026-04-02",
@@ -40495,6 +41015,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "84d057f05eb066fba71dc5c32f798a88",
+      "title": "Alleged Bondi gunman loses court bid to suppress names of his family",
+      "link": "https://www.bbc.com/news/articles/c4glrnv3qlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lawyers for Naveed Akram had argued his mother, brother and sister live in \"constant fear\".",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 01:08:59 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "2a16e0b2ad3dd0eb115a3104870847db",
@@ -83462,6 +83995,71 @@
       "lang": "en"
     },
     {
+      "id": "555fb7d14484bf3b07919e4af1fab450",
+      "title": "The truth about Tudor England’s ‘most hated woman’: Was she a ‘wicked wife’",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/the-truth-about-tudor-englands-most-hated-woman-was-she-a-wicked-wife/articleshow/129961727.cms",
+      "summary": "",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-02T17:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3979cd218791004f42faa9dd0ebc7dfa",
+      "title": "Artemis II mission: An 8-year-old’s white plush toy becomes the 'silent hero' of the NASA Moon mission",
+      "link": "https://timesofindia.indiatimes.com/science/artemis-ii-mission-an-8-year-olds-white-plush-toy-becomes-the-silent-hero-of-the-nasa-moon-mission/articleshow/129977076.cms",
+      "summary": "",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-02T16:36:12+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1caa93d402d22f959a3f158cd5e74e87",
+      "title": "'Bengal welcomes tourists with open arms': TMC jibes at Amit Shah with fish, meat menu ahead of 15-day visit",
+      "link": "https://timesofindia.indiatimes.com/india/bengal-welcomes-tourists-with-open-arms-tmc-jibes-at-amit-shah-with-fish-meat-menu-ahead-of-15-day-visit/articleshow/129976720.cms",
+      "summary": "The Trinamool Congress has sharpened its attack on Union Home Minister Amit Shah ahead of his visit to West Bengal, recommending local non-vegetarian delicacies. This move aligns with the TMC's campaign, which portrays the BJP as out of touch with Bengal's cultural traditions, particularly regarding food habits.",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-02T16:22:19+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7a7257cd920fc795aee4e6c50a9a0d0d",
+      "title": "From TMC to BJP, Congress to CPM: Dynasts take centre stage in West Bengal elections 2026",
+      "link": "https://timesofindia.indiatimes.com/india/from-tmc-to-bjp-congress-to-cpm-dynasts-take-centre-stage-in-west-bengal-elections-2026/articleshow/129973803.cms",
+      "summary": "West Bengal's political landscape is witnessing a significant rise in dynastic representation for the 2026 assembly elections. Across major parties like TMC, BJP, Congress, and CPI(M), candidates from established political families are increasingly being fielded. This marks a departure from Bengal's traditional grassroots politics, as parties now prioritize candidates with existing voter recognition and organizational support.",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-02T16:14:46+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "104361648dbe2686f60c664ee341bf0d",
+      "title": "World’s tallest Huajiang Grand Canyon Bridge cuts travel time from 2 hours to 2 minutes and makes ‘Greatest Places 2026’ list",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/worlds-tallest-huajiang-grand-canyon-bridge-cuts-travel-time-from-2-hours-to-2-minutes-and-makes-greatest-places-2026-list/articleshow/129976483.cms",
+      "summary": "",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-02T16:10:51+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f8cb83f819182a902b71c4c1766b9010",
       "title": "AAP ex-MLA Phoolka, lawyer for 1984 riot victims, joins BJP",
       "link": "https://timesofindia.indiatimes.com/india/aap-ex-mla-phoolka-lawyer-for-1984-riot-victims-joins-bjp/articleshow/129973993.cms",
@@ -83481,6 +84079,19 @@
       "summary": "Dubai's RTA is offering 50% taxi fare discounts and parking fee exemptions to People of Determination and select vulnerable residents. This initiative, launched in April 2026, aims to reduce transport costs and enhance mobility access, reflecting the emirate's commitment to an inclusive and accessible transport system for all.",
       "date": "2026-04-02",
       "timestamp": "2026-04-02T15:25:13+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2957276d8f60631ea07cc37eaa491e8d",
+      "title": "Dh2,000 fine and 23 black points: Abu Dhabi police warns drivers against reckless driving and social media videos",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/uae-news-dh2000-fine-and-23-black-points-abu-dhabi-police-warns-drivers-against-reckless-driving-and-social-media-videos/articleshow/129974564.cms",
+      "summary": "",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-02T15:24:16+05:30",
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
@@ -83523,6 +84134,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "009907af3bea91cbac2daa21ca80fae6",
+      "title": "'Total subversion': Europeans allege Indians are 'gaming' education system, earning €1,400 a month",
+      "link": "https://timesofindia.indiatimes.com/world/europe/total-subversion-europeans-allege-indians-are-gaming-education-system-earning-1400-a-month/articleshow/129972926.cms",
+      "summary": "",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-02T14:41:51+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
