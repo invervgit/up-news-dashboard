@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T21:32:34.120804+00:00",
+  "generated_at": "2026-04-02T22:26:35.667867+00:00",
   "stories": [
     {
       "id": "33540e3fc19e9451fe5b47b37070ebe1",
@@ -12062,19 +12062,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "d97fb70d0d2ef18a89c5ebca971a4670",
-      "title": "Tamil Nadu Assembly election 2026: party manifestos",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-election-a-compilation-of-all-party-manifestos/article70795620.ece",
-      "summary": "This is a compilation of poll manifestos released by prominent political parties in Tamil Nadu ahead of the State Assembly election scheduled to be held on April 23, 2026",
-      "date": "2026-03-31",
-      "timestamp": "Tue, 31 Mar 2026 21:54:06 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -34673,19 +34660,6 @@
       "lang": "en"
     },
     {
-      "id": "e6d6cb8eae20234a1d2facb494d16191",
-      "title": "ECI asks NIA to probe Malda violence",
-      "link": "https://www.thehindu.com/elections/west-bengal-assembly/eci-asks-nia-to-probe-malda-violence/article70817108.ece",
-      "summary": "The Supreme Court has asked the Election Commission to hand over the probe either to CBI or NIA",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 23:32:48 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "cd60a6536a814a7f39d73272427cfe1f",
       "title": "Rahul Gandhi urges Modi to withdraw cases against Dalit, Adivasi youth booked after 2018 protests",
       "link": "https://www.thehindu.com/news/national/rahul-gandhi-urges-modi-to-withdraw-cases-against-dalit-adivasi-youth-booked-after-2018-protests/article70816984.ece",
@@ -35154,19 +35128,6 @@
       "lang": "en"
     },
     {
-      "id": "4100a0e6be011d781db6b30064e6e671",
-      "title": "On the campaign trail with K.C. Venugopal",
-      "link": "https://www.thehindu.com/elections/kerala-assembly/on-the-campaign-trail-with-kc-venugopal/article70815693.ece",
-      "summary": "From his base in Kerala, K.C. Venugopal directs Parliament strategy in Delhi, connects local fishermen’s concerns to developments in the Strait of Hormuz, and urges voters to unseat Pinarayi Vijayan and choose the Congress as the “real Left” in the State",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 22:33:18 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "5d444285b8a4bf9fa539909bd4511665",
       "title": "Russia will send second ship with oil to Cuba: minister",
       "link": "https://www.thehindu.com/news/international/russia-will-send-second-ship-with-oil-to-cuba-minister/article70817112.ece",
@@ -35216,6 +35177,32 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "0dd1815342db15ebafb8b11601fe4c64",
+      "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
+      "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The judge dismissed all but three claims against Baldoni weeks before a trial date.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 22:14:44 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e0a0db7383de99f3fb0bbeec8f644a31",
+      "title": "Myanmar's coup leader who set off a brutal civil war is set to become president",
+      "link": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
+      "summary": "General Min Aung is set to be chosen as the next president by the newly-elected parliament.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 22:14:00 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -35362,6 +35349,19 @@
       "lang": "en"
     },
     {
+      "id": "09ae007ac5609107a2ca22c96df47035",
+      "title": "What to know about Acting Attorney General Todd Blanche",
+      "link": "https://www.bbc.com/news/videos/c747w0zejzmo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former prosecutor has a long-standing relationship with President Trump, having represented him in the criminal hush-money case.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 21:44:16 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ee78d4a9def3d632868705ced4c8cdb1",
       "title": "Amid West Asia tensions, India leads 16-nation maritime initiative with IOS SAGAR",
       "link": "https://www.thehindu.com/news/national/amid-west-asia-tensions-india-leads-16-nation-maritime-initiative-with-ios-sagar/article70816370.ece",
@@ -35401,19 +35401,6 @@
       "lang": "en"
     },
     {
-      "id": "0dd1815342db15ebafb8b11601fe4c64",
-      "title": "Judge dismisses most of Blake Lively's claims in Justin Baldoni harassment suit",
-      "link": "https://www.bbc.com/news/articles/c3ex59yy4j2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The judge dismissed all but three claims against Baldoni weeks before a trial date.",
-      "date": "2026-04-02",
-      "timestamp": "Thu, 02 Apr 2026 21:30:16 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "4b98e5fcfbb5148d3f421ec9b6371507",
       "title": "GBA directs five corporations to step up pre-monsoon preparedness",
       "link": "https://www.thehindu.com/news/national/karnataka/gba-directs-five-corporations-to-step-up-pre-monsoon-preparedness/article70816622.ece",
@@ -35440,6 +35427,32 @@
       "lang": "en"
     },
     {
+      "id": "b159de84692a357cfc2bd75ca1c76eb7",
+      "title": "Unbridled Bosnian joy marks World Cup qualification win over Italy",
+      "link": "https://www.aljazeera.com/sports/2026/4/2/unbridled-bosnian-joy-marks-world-cup-qualification-win-over-italy?traffic_source=rss",
+      "summary": "Bosnia and Herzegovina's dramatic win over Italy sparks wild celebrations from Zenica to Sarajevo and evokes memories.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 21:25:28 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7896aa057490c13e2e6b195ff251a3b7",
+      "title": "Pope Leo condemns ‘brutality’ of world in first Easter services",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/pope-leo-condemns-brutality-of-world-in-first-easter-services?traffic_source=rss",
+      "summary": "Pope Leo washed the feet of 12 priests in a ritual, using the moment to urge Catholics to stand with the oppressed.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 21:24:26 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4cae6fc30520bf41260123fcf54f2d4f",
       "title": "Four toddlers stabbed to death at Ugandan nursery school",
       "link": "https://www.bbc.com/news/articles/cq8wzklp834o?at_medium=RSS&at_campaign=rss",
@@ -35449,6 +35462,19 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8bc60916c3fe2930c2b96a9d582569b6",
+      "title": "9-year-old boy recounts airstrike in Lebanon that killed whole family",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/9-year-old-boy-recounts-airstrike-in-lebanon-that-killed-whole-family?traffic_source=rss",
+      "summary": "Karim Al-Haj Hussein survived an Israeli strike on his home in Lebanon’s Baalbek that killed his family members.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 21:22:53 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -89416,17 +89442,43 @@
       "lang": "en"
     },
     {
+      "id": "61245e3cdf4d6a2f80c73a4b2570dfad",
+      "title": "KKR vs SRH Match : हैदराबाद ने कोलकाता को 65 रनों से हराया,रघुवंशी का अर्धशतक भी नहीं आया काम",
+      "link": "https://www.amarujala.com/video/india-news/kkr-vs-srh-match-hyderabad-beat-kolkata-by-65-runs-raghuvanshi-s-half-century-did-not-help-2026-04-03",
+      "summary": "KKR vs SRH Match : हैदराबाद ने कोलकाता को 65 रनों से हराया,रघुवंशी का अर्धशतक भी नहीं आया काम",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 03:45:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "41102c9b0f3bb2397f06db6208510478",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 3 अप्रैल के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-03",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-04-03",
-      "timestamp": "Fri, 03 Apr 2026 03:01:02 +0530",
+      "timestamp": "Fri, 03 Apr 2026 03:30:26 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "0917b6fd98b41f0edc6748b4a00e2304",
+      "title": "पढ़ें 3 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-03",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 03:30:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "4c38898c569f651c92e873107386295e",
@@ -89440,19 +89492,6 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
-    },
-    {
-      "id": "0917b6fd98b41f0edc6748b4a00e2304",
-      "title": "पढ़ें 3 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-03",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-03",
-      "timestamp": "Fri, 03 Apr 2026 03:00:47 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "388a8d469b91162762866344e88a2d8f",
@@ -89611,6 +89650,19 @@
       "lang": "en"
     },
     {
+      "id": "41ccb76c1108b28224043ae72ce29159",
+      "title": "UN to vote on using 'all defensive means' to secure navigation in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/un-to-vote-on-using-all-defensive-means-to-secure-navigation-in-strait-of-hormuz/article70817410.ece",
+      "summary": "Previous drafts would have authorized countries “to use all necessary means” — UN language including possible military action — to secure passage and deter attempts to interfere with international navigation",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 02:58:33 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "29742447d098345d962d8a09b9cd7a33",
       "title": "Gorakhpur News: पुण्य बृहस्पतिवार पर मसीहियों ने किया प्रभु भोज, आज मनाया जाएगा गुड फ्राइडे",
       "link": "https://www.amarujala.com/gorakhpur/special-worship-foot-washing-and-prayers-for-world-peace-in-churches-gorakhpur-news-c-7-gkp1038-1277684-2026-04-03",
@@ -89702,6 +89754,19 @@
       "lang": "en"
     },
     {
+      "id": "d97fb70d0d2ef18a89c5ebca971a4670",
+      "title": "Tamil Nadu Assembly election 2026: party manifestos",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-election-a-compilation-of-all-party-manifestos/article70795620.ece",
+      "summary": "This is a compilation of poll manifestos released by prominent political parties in Tamil Nadu ahead of the State Assembly election scheduled to be held on April 23, 2026",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 02:54:15 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "448742df063a04ef88e73cb45616bf61",
       "title": "Gorakhpur News: बरौनी-नई दिल्ली और दरभंगा-नई दिल्ली समर स्पेशल ट्रेनों की अवधि बढ़ी",
       "link": "https://www.amarujala.com/gorakhpur/duration-of-barauni-new-delhi-and-darbhanga-new-delhi-summer-special-trains-extended-gorakhpur-news-c-7-gkp1038-1278142-2026-04-03",
@@ -89777,6 +89842,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "5a32c7d7b183a301e8453e83d35316b0",
+      "title": "Trump ‘controlling’ Modi, claims Rahul Gandhi in Assam election rally",
+      "link": "https://www.thehindu.com/elections/assam-assembly/himanta-most-corrupt-cm-in-india-modi-shah-sarma-running-land-atm-in-assam-rahul-gandhi/article70815015.ece",
+      "summary": "Mr. Modi handed energy security over to the U.S. to an extent that India cannot buy oil from Russia, Iran, and Iraq without seeking Mr. Trump’s permission, alleges Congress leader; he calls BJP leader Himanta Biswa Sarma the most corrupt Chief Minister of the country",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 02:48:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -89923,6 +90001,19 @@
       "lang": "en"
     },
     {
+      "id": "4100a0e6be011d781db6b30064e6e671",
+      "title": "On the campaign trail with K.C. Venugopal: When campaign gathers national and global vibes on north Kerala coast",
+      "link": "https://www.thehindu.com/elections/kerala-assembly/on-the-campaign-trail-with-kc-venugopal/article70815693.ece",
+      "summary": "From his base in Kerala, K.C. Venugopal directs Parliament strategy in Delhi, connects local fishermen’s concerns to developments in the Strait of Hormuz, and urges voters to unseat Pinarayi Vijayan and choose the Congress as the “real Left” in the State",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 02:42:02 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "82b3d0ad5a4979fb545c11bd3ed37686",
       "title": "फिस्टुला: इलाज में नई उम्मीद, एम्स करेगा कारगर दवा की पहचान",
       "link": "https://www.amarujala.com/gorakhpur/research-is-being-done-on-patients-in-aiims-patients-are-relatively-more-in-purvanchal-and-bihar-gorakhpur-news-c-7-gkp1038-1277498-2026-04-03",
@@ -89933,6 +90024,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "88d1ac845ac7947d9f3c82f7ba75f97d",
+      "title": "Uttarakhand Police honoured with the President's Police Colours",
+      "link": "https://www.thehindu.com/news/national/uttarakhand/uttarakhand-police-honoured-with-the-presidents-police-colours/article70817405.ece",
+      "summary": "The Chief Minister said the honour places the Uttarakhand Police in the league of select police forces of the country that have received this recognition",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 02:41:35 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -89959,6 +90063,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "e6d6cb8eae20234a1d2facb494d16191",
+      "title": "Election Commission asks NIA to probe Malda violence",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/eci-asks-nia-to-probe-malda-violence/article70817108.ece",
+      "summary": "The Supreme Court has asked the Election Commission to hand over the probe either to CBI or NIA",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 02:39:20 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -91622,6 +91739,58 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2d3cd08e6d898b12a97069380304fcb1",
+      "title": "J&K government calls bridge damage ‘act of God’; skips probe despite rising repair bill",
+      "link": "https://timesofindia.indiatimes.com/india/jk-government-calls-bridge-damage-act-of-god-skips-probe-despite-rising-repair-bill/articleshow/129989144.cms",
+      "summary": "Authorities in Jammu and Kashmir are calling the collapse of a Rs 67-crore bridge 'minor,' bizarrely attributing it to divine intervention and refusing any investigation. Even with repair costs soaring past Rs 38 crore, critics suspect the administration is protecting the contractors responsible for the shoddy construction.",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-03T03:31:24+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "046c414b6ca5949b388ffeae2b4e60b9",
+      "title": "J&K SIA files chargesheet against accused involved in harbouring LeT terrorists",
+      "link": "https://timesofindia.indiatimes.com/india/jk-sia-files-chargesheet-against-accused-involved-in-harbouring-let-terrorists/articleshow/129989082.cms",
+      "summary": "J&K's State Investigating Agency has charged Sabar Hussain from Poonch for aiding terrorists responsible for the brutal killing of a government employee in Rajouri two years ago. Hussain allegedly provided shelter and support to Lashkar-e-Taiba/TRF militants involved in the fatal attack on Mohammed Razaq. Prima facie, offences under the Unlawful Activities (Prevention) Act are established.",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-03T03:22:56+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f67aa0b69c4fd8180c35ac7e6d52f66c",
+      "title": "Clavicular suddenly ends livestream leaving fans worried as illness revealed amid ongoing investigation rumors and growing past controversies",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/clavicular-suddenly-ends-livestream-leaving-fans-worried-as-illness-revealed-amid-ongoing-investigation-rumors-and-growing-past-controversies/articleshow/129988819.cms",
+      "summary": "Braden Eric Peters, known as Clavicular, ended his livestream early due to illness, not legal trouble. Fans had feared something serious because of his past controversies. Sources confirmed he had flu-like symptoms. While he faces ongoing legal and public scrutiny, there is no official update linking the livestream incident to any investigation or enforcement action at this time.",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-03T02:50:05+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0ff5a6b80a50f89512cebc3ba2a1809e",
+      "title": "Who is Randy George? Pete Hegseth asks US army chief of staff general to step down",
+      "link": "https://timesofindia.indiatimes.com/world/us/who-is-randy-george-us-defence-secretary-pete-hegseth-asks-army-chief-of-staff-general-to-step-down/articleshow/129988771.cms",
+      "summary": "",
+      "date": "2026-04-02",
+      "timestamp": "2026-04-03T02:46:47+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
