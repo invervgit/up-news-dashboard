@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T10:37:55.261510+00:00",
+  "generated_at": "2026-04-03T11:34:29.258578+00:00",
   "stories": [
     {
       "id": "33540e3fc19e9451fe5b47b37070ebe1",
@@ -22987,7 +22987,7 @@
     },
     {
       "id": "21168e0f642243001e4b78589b9a3d3d",
-      "title": "Hegseth asks US Army's top general to step down",
+      "title": "Pete Hegseth asks US Army's top general to step down",
       "link": "https://www.bbc.com/news/articles/cn8d63v058zo?at_medium=RSS&at_campaign=rss",
       "summary": "Gen Randy George was nominated for the role in 2023 by former President Joe Biden.",
       "date": "2026-04-02",
@@ -24971,6 +24971,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c5d6346134a098402e306a440ee0147a",
+      "title": "Ros Atkins on…the cost of the Iran war",
+      "link": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
+      "date": "2026-04-02",
+      "timestamp": "Thu, 02 Apr 2026 18:29:14 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -77105,6 +77118,123 @@
       "lang": "en"
     },
     {
+      "id": "e40e82a1c93584323f95cfc224cb9218",
+      "title": "यूपी के इस शहर में मुसीबत बने स्मार्ट मीटर! हजारों घरों की बत्ती हो रही गुल, जानें वजह",
+      "link": "https://www.livehindustan.com/uttar-pradesh/smart-meters-have-become-a-problem-in-etah-city-thousands-of-homes-are-facing-power-outages-know-why-201775214236561.html",
+      "summary": "स्मार्ट प्रीपेड मीटर के नियमानुसार ऑनलाइन बिल भुगतान के कुछ ही मिनटों के अंदर बिजली आपूर्ति स्वत: बहाल हो जानी चाहिए, लेकिन उपभोक्ताओं को भुगतान करने के 12 से 24 घंटे तक बिजली आने का इंतजार करने के साथ बगैर बिजली मुश्किलों में रहना पड़ रहा है।",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 16:56:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d3bffcd065000e382f920aac62d00a3c",
+      "title": "T.N CM Stalin terms FCRA Amendment Bill ‘draconian’",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-cm-stalin-terms-fcra-amendment-bill-draconian/article70819223.ece",
+      "summary": "He pointed out that it sought to dismantle India’s charitable organisations by enabling the Union government, at its discretion, to cancel the FCRA registration of an organisation and take over its assets — whether it is a church, school, or hospital — “without any due process.”",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 16:51:27 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5c66585da3d1b075f5bdd9095232318b",
+      "title": "Assembly elections LIVE: BJP releases list of 27 candidates for Tamil Nadu Assembly polls",
+      "link": "https://www.thehindu.com/elections/election-2026-assembly-polls-kerala-puducherry-tamil-nadu-west-bengal-april-3-2026-live-updates/article70818539.ece",
+      "summary": "West Bengal Police arrest the alleged 'mastermind' behind the gherao of seven judicial officers in Malda district",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 16:44:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ee95921058cb6977c94106e6e964fe0c",
+      "title": "All about Karnataka’s new Freedom Of Choice Marriage Bill | Decode Karnataka",
+      "link": "https://www.thehindu.com/videos/all-about-karnataka-new-freedom-of-choice-marriage-bill-decode-karnataka/article70819579.ece",
+      "summary": "Karnataka Legislature recently passed the Karnataka Freedom of Choice in Marriage and Prevention and Prohibition of Crimes in the Name of Honour and Tradition (Eva Nammava, Eva Nammava) Bill, 2026.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 16:34:58 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "06c48d61b31f0ea3d7af9bf8607564c9",
+      "title": "Bihar hooch tragedy: Death toll rises to four in Motihari, SHO suspended",
+      "link": "https://www.thehindu.com/news/national/bihar/bihar-hooch-tragedy-death-toll-rises-to-four-in-motihari-sho-suspended/article70819318.ece",
+      "summary": "At least six others are undergoing treatment at a government hospital, while seven people have been discharged after initial treatment",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 16:31:17 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6dd6bda0a28e51a6e515669c0e9a7785",
+      "title": "Kerala polls: CPI(M) sends legal notice to K.C. Venugopal over allegations of fake Aadhaar cards",
+      "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-polls-cpim-sends-legal-notice-to-kc-venugopal-over-allegations-of-fake-aadhaar-cards/article70819497.ece",
+      "summary": "The move comes in the wake of Venugopal’s public allegation that fake Aadhaar cards were being produced in CPI(M) Payyanur area committee office as part of a plan to manipulate the electoral process",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 16:25:25 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "197a154a12a19ae2c322c4ae335e0480",
+      "title": "Chennai police arrest YouTuber Varaaki after he fails to surrender before prison authorities",
+      "link": "https://www.thehindu.com/news/cities/chennai/chennai-police-arrest-youtuber-varaaki-for-failing-to-surrender-before-prison-authorities/article70819404.ece",
+      "summary": "The police said that Varaaki was originally arrested and remanded to prison a few months ago for allegedly threatening and verbally abusing a woman",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 16:22:46 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ea979d5168d393d34ca4fa05c2daf28d",
+      "title": "TGMREIS teacher’s services terminated over ‘harsh punishment’ complaint",
+      "link": "https://www.thehindu.com/news/national/telangana/tgmreis-teachers-services-terminated-after-harsh-punishment-complaint/article70818928.ece",
+      "summary": "",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 16:21:06 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d4d93cdb4170f7092311b1fde9d3e297",
+      "title": "Telangana sets in motion a major reform by operationalising Bhu Bharati portal in five mandals",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-sets-in-motion-a-major-reform-by-operationalising-bhu-bharati-portal-in-five-mandals/article70819216.ece",
+      "summary": "Inclusion of maps in land transactions and passbooks made mandatory",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 16:10:48 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "52755dc2516f61f9d6962b29b7dde585",
       "title": "पिता के लिए पानी लेने गए युवक की करंट से मौत, बेटे को बचाने पहुंची मां ने भी छोड़ी दुनिया",
       "link": "https://www.livehindustan.com/uttar-pradesh/youth-dies-electrocution-while-fetching-water-for-his-father-mother-rushing-to-save-her-son-also-loses-her-life-201775211757018.html",
@@ -77183,19 +77313,6 @@
       "lang": "en"
     },
     {
-      "id": "5c66585da3d1b075f5bdd9095232318b",
-      "title": "Assembly elections LIVE: BJP releases list of 27 candidates for Tamil Nadu Assembly polls",
-      "link": "https://www.thehindu.com/elections/election-2026-assembly-polls-kerala-puducherry-tamil-nadu-west-bengal-april-3-2026-live-updates/article70818539.ece",
-      "summary": "West Bengal Police arrest the alleged 'mastermind' behind the gherao of seven judicial officers in Malda district",
-      "date": "2026-04-03",
-      "timestamp": "Fri, 03 Apr 2026 15:47:17 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "2b01939f3d7228797f9cd4a06e4001cf",
       "title": "Assam Assembly polls: BJP diverting attention from key issues by creating controversies out of nothing, says Pawan Khera",
       "link": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-elections-congress-leader-pawan-khera-interview-to-pti/article70819411.ece",
@@ -77219,6 +77336,19 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b8a8325f3011c932dcb1047dc16bc251",
+      "title": "‘साजिशों का दौर तेज हो सकता है’, अखिलेश यादव बोले- चुनाव आयोग कर रहा BJP के साथ मिलकर काम",
+      "link": "https://www.patrika.com/lucknow-news/akhilesh-yadav-said-election-commission-is-working-in-collaboration-with-bjp-lucknow-20472527",
+      "summary": "Akhilesh Yadav On BJP: समाजवादी पार्टी के अध्यक्ष अखिलेश यादव (Akhilesh Yadav) ने गुरुवार को चुनाव आयोग की निष्पक्षता पर सवाल खड़े करते हुए गंभीर आरोप लगाए। उन्होंने कहा कि चुनाव आयोग भारतीय जनता पार्टी के साथ मिलकर काम कर रहा है, जिससे चुनावी प्रक्रिया प्रभावित हो रही है।",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 15:36:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -77306,19 +77436,6 @@
       "summary": "Justice K. Kumaresh Babu passes the orders on a contempt of court petition filed by G-Square Realtors Private Limited",
       "date": "2026-04-03",
       "timestamp": "Fri, 03 Apr 2026 15:10:44 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "06c48d61b31f0ea3d7af9bf8607564c9",
-      "title": "Bihar hooch tragedy: Death toll rises to four in Motihari, SHO suspended",
-      "link": "https://www.thehindu.com/news/national/bihar/bihar-hooch-tragedy-death-toll-rises-to-four-in-motihari-sho-suspended/article70819318.ece",
-      "summary": "At least six others are undergoing treatment at a government hospital, while seven people have been discharged after initial treatment",
-      "date": "2026-04-03",
-      "timestamp": "Fri, 03 Apr 2026 15:07:55 +0530",
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
@@ -77453,6 +77570,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1a9be745531328a787bd5eb6642fd501",
+      "title": "Yogi Action: गौतमपल्ली थाने पर बड़ी कार्रवाई, SHO समेत पूरा स्टाफ वसूली कांड में लाइन हाजिर",
+      "link": "https://www.patrika.com/lucknow-news/lucknow-police-crackdown-entire-gautampalli-station-staff-suspended-over-rs-2-5-lakh-extortion-case-20472465",
+      "summary": "Yogi Action Gautam Palli Police Station: राजधानी लखनऊ में पुलिस विभाग के भीतर एक बड़ी कार्रवाई ने हड़कंप मचा दिया है। गौतमपल्ली थाने में कथित भ्रष्टाचार और अवैध वसूली के गंभीर आरोपों के बाद पुलिस कमिश्नर के निर्देश पर पूरे थाने के स्टाफ को लाइन हाजिर कर दिया गया है। इस कार्रवाई में थानाध्यक्ष (SHO) रत्नेश कुमार सिंह सहित सभी पुलिसकर्मी शामिल हैं। यह मामला न केवल पुलिस विभाग की कार्यप्रणाली पर सवाल खड़े करता है, बल्कि कानून व्यवस्था की पारदर्शिता और जवाबदेही को लेकर भी गंभीर चिंता उत्पन्न करता है।",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 14:36:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -78561,6 +78691,19 @@
       "lang": "en"
     },
     {
+      "id": "1b540a4936655af0ccb64d69370c2629",
+      "title": "Rubble, mud and hair: How to rebuild a home in Gaza",
+      "link": "https://www.aljazeera.com/features/2026/4/3/rubble-mud-and-hair-how-to-rebuild-a-home-in-gaza?traffic_source=rss",
+      "summary": "Partial rehabilitation replaces reconstruction in Gaza, with residents relying on temporary housing solutions.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 11:14:35 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "dbcd383b6a44b32a4f0bc53008b8fe9c",
       "title": "लखनऊ के रास्ते दिल्ली, अयोध्या-वाराणसी को जोड़ेंगी समर स्पेशल ट्रेनें, इस डेट से चार महीने संचालन",
       "link": "https://www.livehindustan.com/uttar-pradesh/lucknow-summer-special-trains-delhi-varanasi-ayodhya-northern-railway-schedule-up-news-201775194343414.html",
@@ -78583,6 +78726,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8336ae57494f0a6b5d00e16b193e1b21",
+      "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
+      "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 11:12:28 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -78610,6 +78766,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "ddb23aaaea36378ce5517c01682e880a",
+      "title": "Burkina Faso must 'forget' about democracy, military leader says",
+      "link": "https://www.bbc.com/news/articles/cly0zp1xgz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Capt Ibrahim Traoré, who seized power in 2023, says democratic rule would not work for his country.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 11:11:42 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -78743,6 +78912,32 @@
       "lang": "en"
     },
     {
+      "id": "d41a2381751111aa33f346f8f498a7a2",
+      "title": "France bans Muslim gathering citing risk to participants",
+      "link": "https://www.bbc.com/news/articles/cwyjekvwww0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The four-day Annual Encounter of Muslims of France was due to open Friday in Le Bourget.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 10:49:26 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "32a545319e4c7f06d8c254717322de72",
+      "title": "Over 100 US legal experts condemn strikes on Iran as possible ‘war crimes’",
+      "link": "https://www.aljazeera.com/news/2026/4/3/over-100-us-legal-experts-condemn-strikes-on-iran-as-possible-war-crimes?traffic_source=rss",
+      "summary": "United States-based scholars sign open letter raising concerns about conduct, rhetoric during US-Israeli war on Iran.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 10:49:25 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f1a76cbea54a68c3a0ab51c5b1359ae9",
       "title": "शूटर आशु का एनकाउंटर: बचपन में ही सिर से उठ गया मां का साया, बुआ ने पाला; अपराध की दुनिया में एंट्री की कहानी",
       "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/hapur/up-encounter-news-ashu-alias-monty-he-lost-his-mother-protective-presence-early-in-his-childhood-2026-04-03",
@@ -78753,6 +78948,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "caa73574c5af7cceb8374de96cf55b51",
+      "title": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
+      "link": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump has warned Iran of strikes on bridges and electric power plants if its leaders do not agree to his terms to end the war.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 10:35:55 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -78818,6 +79026,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "7bb70bafa5bddc1efdcd8ab8f165ddbd",
+      "title": "Artemis II mission fires up engines in next step of moon mission",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/artemis-ii-mission-fires-up-engines-in-next-step-of-moon-mission?traffic_source=rss",
+      "summary": "The Orion capsule has successfully propelled itself out of Earth’s orbit on its mission to the moon.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 10:29:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -78964,17 +79185,17 @@
       "lang": "en"
     },
     {
-      "id": "b483c4b53b6b245406baa2e02ec0afcf",
-      "title": "INS Aridaman: भारतीय नौसेना की बढ़ेगी ताकत, रक्षा मंत्री ने स्वदेशी पनडुब्बी पर कहा- 'अरिदमन' शब्द नहीं शक्ति!",
-      "link": "https://www.amarujala.com/india-news/ins-aridaman-commissioning-updates-indian-navy-defense-minister-indigenous-submarine-not-just-word-but-force-2026-04-03",
-      "summary": "INS Aridaman: भारतीय नौसेना की बढ़ेगी ताकत, रक्षा मंत्री ने स्वदेशी पनडुब्बी पर कहा- 'अरिदमन' शब्द नहीं शक्ति!",
+      "id": "9ea8eac01e16ea2869b5a3679968b6fc",
+      "title": "International law experts allege violations in Iran war",
+      "link": "https://www.bbc.com/news/articles/cy91x2n29nlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House says it is making the entire region safer by eliminating short and long-term threats.",
       "date": "2026-04-03",
-      "timestamp": "Fri, 03 Apr 2026 10:20:35 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
+      "timestamp": "Fri, 03 Apr 2026 10:18:11 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
-      "lang": "hi"
+      "lang": "en"
     },
     {
       "id": "db52c341ada01acf58291f375a23be9f",
@@ -79393,19 +79614,6 @@
       "lang": "hi"
     },
     {
-      "id": "8336ae57494f0a6b5d00e16b193e1b21",
-      "title": "Artemis II leaves Earth's orbit on track for far side of the Moon",
-      "link": "https://www.bbc.com/news/articles/c937g7nd5x4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The mission's last, big push on its lunar journey takes humans out of the Earth's orbit for the first time since 1972.",
-      "date": "2026-04-03",
-      "timestamp": "Fri, 03 Apr 2026 09:29:01 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "9775cee1fc457867753e723b1ce972f7",
       "title": "Nepal court extends detention of ex-PM Oli in deadly protest probe",
       "link": "https://www.thehindu.com/news/international/nepal-court-extends-detention-of-ex-pm-oli-in-deadly-protest-probe/article70818534.ece",
@@ -79614,6 +79822,19 @@
       "lang": "en"
     },
     {
+      "id": "e6e486ea652df8fae5c8b98696b397f4",
+      "title": "Minors involved in Agra nude video scandal were friends:Aged between 14-17; boys sent to juvenile home, girls undergoing counselling",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/lucknow/news/agra-minor-obscene-clip-viral-khandoli-friends-juvenile-home-counselling-137603008.html",
+      "summary": "The Khandoli area of Agra suddenly came into focus on March 31 after 48 obscene videos were circulated on social media. The clips showed three boys and two girls, all aged between 14 and 17. The videos went viral at a time when the Shri Ram fair was underway in the area, leading to tension. Although no formal complaint was filed, police took cognisance and arrested two boys. During the probe, it emerged that the girls belong to Hindu families, while one of the boys is Muslim. Following this, 48 police personnel were deployed in the area. All those involved are minors, so police are proceeding cautiously. The arrested boys have been sent to a juvenile home, while both girls are undergoing counselling. It has come to light that all five knew each other and whatever is seen in the videos was consensual. Questions have arisen over how the videos suddenly surfaced, why they were made, who leaked them and what options the police now have. Minister inaugurated the fair, obscene videos spread at the fair Khandoli is located around 20 km from the Agra district headquarters. The 126th historic Shri Ram fair and wrestling event is currently underway there. It was inaugurated on March 26 by Union Minister of State Prof SP Singh Baghel. Until then, the fair was the main attraction, but the situation changed on March 31. Videos began circulating among people at the fair. The clips showed two girls and three boys in an explicit state. By 9 am, the videos had started spreading rapidly, and by noon, they had reached almost everyone in the area. Locals identified the boys in the videos as residents of the same village. One boy is Muslim, while the others belong to Maurya and Kashyap communities. Of the two girls seen in the videos, one belongs to the Thakur community and the other to the OBC category. Both are from different villages. All were studying in classes 9 to 12, except the Muslim boy, who had dropped out and was working at a shop. Friendship through social media, then started meeting each other Residents of the villages said the group already knew each other and later connected on Instagram, where they used to communicate. They exchanged photos and videos. Being young, they engaged in showing off, forming relationships and recording videos. They were often seen roaming together in the locality. Planned to meet 3 months ago, then made nude videos The sequence began around three months ago when the five planned to meet. They chose a friend’s house as the location and gathered there. At the house, they recorded explicit videos. No force or coercion is visible in the clips. Some videos are around 30 seconds long, while others are 10–15 seconds. Two girls and two boys are seen in compromising acts, while the third boy recorded the videos. Where the incident occurred, there have been disturbances before as well Locals said the area has a significant Thakur population and has witnessed disputes earlier. After the incident, tension increased, prompting the administration to go on alert and deploy police. One reason cited is that one of the accused boys belongs to the Muslim community and appears in the videos. Movement near his house has been restricted. After the videos surfaced, families of those involved confined themselves indoors. No one lodged a complaint, but police understood the seriousness and registered an FIR on their own, arresting two boys. Station House Officer Kuldeep Singh said that if the girls’ families file a complaint, further charges will be added. For now, an FIR has been registered under sections related to uploading obscene content on digital platforms. Sold the mobile, that's why the videos came out During questioning, one of the boys told police that the videos were stored on his phone, which he later sold without deleting the data, leading to their circulation. However, he could not clearly explain when and to whom the phone was sold. His statements also contained contradictions. He also failed to explain what other data was stored on the device. Police suspect there may be more to the case. Two different locations are visible in the videos, suggesting they may have been recorded at separate places. There are 6 more questions before the police, which are being investigated... DCP said- Appeal to people, don't share these videos DCP of Agra West, Aditya Singh said- All the boys and girls involved in this are minors. The videos that are currently going viral are all from 3 months ago. Two boys have been arrested so far. During interrogation, it was also revealed that all of them were previously acquainted with each other. The DCP also appealed to people that if you have the video, do not share it. Action can be taken for sharing it.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 08:59:05 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "29d336936c3db6722c2724801bfeebc6",
       "title": "90-year-old woman alleges land-grab under LPS, seeks Jagan’s help",
       "link": "https://www.thehindu.com/news/cities/Vijayawada/90-year-old-woman-alleges-land-grab-under-lps-seeks-jagans-help/article70816443.ece",
@@ -79718,6 +79939,19 @@
       "lang": "en"
     },
     {
+      "id": "4700e9c883017eeb9b39d05a50908863",
+      "title": "Cuba to release more than 2,000 prisoners, as pressure from US mounts",
+      "link": "https://www.bbc.com/news/articles/cwy3r3w4zl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "US President Trump has made clear his desire to change Cuba's leadership and has placed the country under an oil embargo.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 08:35:53 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2dc19d3f188021b30722e7368d6de631",
       "title": "Man City vs Liverpool: FA Cup quarterfinal – team news, start, lineups",
       "link": "https://www.aljazeera.com/sports/2026/4/3/man-city-vs-liverpool-fa-cup-quarterfinal-preview-team-news-start?traffic_source=rss",
@@ -79812,7 +80046,7 @@
       "id": "02f94cffea415e8181d35254500f7fe8",
       "title": "Iran condemns US-Israeli ‘moral collapse’ after attacks on civilian sites",
       "link": "https://www.aljazeera.com/news/2026/4/3/iran-condemns-us-israeli-moral-collapse-after-attacks-on-civilian-sites?traffic_source=rss",
-      "summary": "Strikes damage or destroy Iran’s tallest bridge and a century-old medical research centre fighting diseases.",
+      "summary": "Strikes damage or destroy one of Iran’s tallest bridges and a century-old medical research centre fighting diseases.",
       "date": "2026-04-03",
       "timestamp": "Fri, 03 Apr 2026 08:03:04 +0000",
       "section": "International",
@@ -79836,7 +80070,7 @@
     },
     {
       "id": "a3ed9cb18e0fb12ad98da3cf9cad1b6a",
-      "title": "Hindu woman in burqa robs jewellery shop in Ayodhya:Escapes with friend, both later arrested, fake gun used",
+      "title": "Woman who robbed jewellery shop in Ayodhya in Burqa arrested:Turns out to be Hindu girl named Payal; used fake gun for robbery",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/ayodhya-burqa-robbery-fake-gun-woman-friend-arrested-137602680.html",
       "summary": "Police in Ayodhya have arrested a 25-year-old woman and her 27-year-old accomplice late on Thursday night for carrying out a robbery at a jewellery shop while disguised in a burqa. The accused have been identified as Payal and her friend Rahul, who was waiting on a motorcycle some distance away during the incident. Payal fled the scene and escaped with Rahul. Police investigation revealed that Rahul had purchased a fake pistol and a burqa from the market. Payal reached the shop around 12:30 pm wearing the burqa and used the fake weapon to rob a gold necklace and chain worth around ₹3.6 lakh. The duo had planned the crime using the burqa to conceal identity. The incident took place in the Kothi Bazaar area under Rudauli police station limits. The entire act was captured on six CCTV cameras installed at the shop. The registration number of the motorcycle used in the escape was also recorded, which helped police trace and arrest both accused. ADG Zone Lucknow Praveen Kumar informed- Two people have been arrested. The name of the girl who committed the robbery wearing a burqa is Payal. The name of the boy who was with her is Rahul. Both were executing the incident by becoming Bunty and Babli. Both are friends. The robbery was carried out by showing a toy pistol. Now read the complete matter in detail... She came wearing a burqa to buy a gold necklace and chain Mahesh, a gold and silver trader from Kothi Bazaar, runs Mahesh Jewellers located about 900 metres from his residence in Agrawal Complex. On Thursday, Payal, a resident of Ahibaran ka Purwa in Mathana Nivada gram panchayat, arrived at the shop along with her friend Rahul from Paran ka Purwa village. Payal entered the shop alone wearing a burqa and carrying a backpack, while Rahul stayed back at a distance. She told Mahesh that she wanted to purchase a gold necklace and chain, following which he placed both items before her. She then asked for water. Mahesh sent his employee Ankit Kumar to bring water and samosas. After Ankit returned, Payal refused to eat the samosa but took the water bottle. Said - I don't eat samosas, please get me sweets Payal then said she does not eat samosas and asked for sweets. Mahesh sent Ankit again to bring barfi. During this time, another employee, Maniram, placed the necklace and chain on the counter. Payal stood up and started moving around inside the shop. When Mahesh asked her what she was looking for, she replied that her husband had gone to withdraw money and she was waiting for him. She then stood near the counter. As Mahesh got busy arranging other items in the cupboard, Payal picked up the gold necklace and chain from the box and lifted her bag. Pulled out pistol from waist, said- If you move forward, I will shoot When the shopkeeper tried to stop her, she pulled out a pistol from her waist, pointed it at him and threatened to shoot if he moved forward. She then ran out of the shop. Mahesh and Maniram chased her, raising an alarm. Payal ran on foot and escaped with Rahul, who was waiting on a motorcycle a short distance away. According to Mahesh, the necklace weighed 26 grams (22 carat) and was valued at around ₹3.6 lakh as per market rates on April 2. Know about the accused- Payal’s father, Ramkeval, runs a laundry centre named after her. She is the third among four sisters; the eldest is married, while the other two live at home. Rahul lives about 16 km away from Payal’s residence. Rahul, a resident of Paran ka Purwa in Nevra gram panchayat, had lost his father Radheshyam some time ago. He is the youngest of three brothers. His elder brother Lavkush stays at home, while another brother, Bablu, works as a labourer in Delhi. Rahul lives separately.",
       "date": "2026-04-03",
@@ -79988,6 +80222,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "754d58814c00637458cb3aa340e7bed6",
+      "title": "Who is Christopher LaNeve, set to lead the US army?",
+      "link": "https://www.bbc.com/news/articles/clye2e85dwjo?at_medium=RSS&at_campaign=rss",
+      "summary": "He will replace Randy George, who was asked to step down from his post by Defence Secretary Pete Hegseth.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 07:11:07 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -80143,6 +80390,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cca660f51b452cf1660cbbfcb780832e",
+      "title": "Researchers spent years interviewing 160 Bigfoot hunters - this is what they learnt",
+      "link": "https://www.bbc.com/news/articles/cvg58ydn4jpo?at_medium=RSS&at_campaign=rss",
+      "summary": "There have been thousands of reported Bigfoot sightings since it rose to prominence in the 1960s.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 06:37:01 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -80460,7 +80720,7 @@
     },
     {
       "id": "749262cf93cdeb9e18c65a3563b2f6d7",
-      "title": "Kanpur kidney racket crossed borders:African woman’s ₹2.5 cr transplant done secretly; hospitals, doctors kept confidential",
+      "title": "Kanpur’s cross-border kidney racket:African woman pays ₹2.5 Cr for transplant; several hospitals in spotlight",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/kanpur-kidney-racket-african-woman-25-crore-transplant-secret-137601919.html",
       "summary": "The Kanpur kidney transplant racket has links not only within Uttar Pradesh but also abroad. Foreign patients were secretly coming here for illegal kidney transplants. The traffickers had formed a panel of hospitals and doctors across several states, including Delhi, Mumbai and West Bengal, to carry out the operations. After finalising deals with both donors and recipients, the gang conducted illegal kidney transplants at different locations across the country. Which hospital would be used, which doctors’ team would perform the transplant, and who the donor and recipient were—everything was kept secret. Separate individuals handled each responsibility. The doctors’ team would arrive by flight, complete the transplant within a few hours, and leave. So far, 8 arrests have been made in the case. How the kidney transplant racket was operating and what its international links are—here is what the arrested OT technicians told. OT Technician Spills the Beans - Conducted Transplants in Several States Kanpur DCP West SM Qasim Abidi said that six accused have already been sent to jail. On April 2, two OT technicians—Kuldeep Singh Raghav and Rajesh Kumar—were arrested. Rajesh is a resident of Ghaziabad and works as an OT technician at Sarvodaya Hospital in Noida, while Kuldeep Singh Raghav is from Pilkhuwa in Hapur and works at Shanti Gopal Hospital. During questioning, both revealed that a doctor named Rohit from Noida used to send them for kidney transplant cases. Along with them, a urologist would also travel from Delhi to Kanpur by flight for the transplant. They were paid between ₹35,000 and ₹50,000 for each case. Transplant of South African Woman Performed According to DCP Qasim Abidi, the technicians revealed that they were involved not only in Kanpur cases but also in the transplant of a South African woman named Arabica. The gang carried out kidney transplants not only in Kanpur but also in Delhi, Meerut, Noida, West Bengal and Haryana. Doctor Rohit from Noida had created a panel of hospitals in every state. For example, in Kanpur alone, he had six hospitals in his panel. All operations in Kanpur and nearby districts were handled by Shivam Agarwal alias Shivam Kada. Panel of 8 doctors, flight arrangements The gang had formed a panel of eight doctors. Wherever a transplant had to be carried out, Dr Rohit arranged flight travel for all of them. In Kanpur too, in a similar manner, on the night of March 29 at 9 pm, a kidney from Ayush was transplanted into Parul Tomar from Muzaffarnagar. Doctors would reach the concerned city directly by flight, perform the transplant, and then leave. Keeping Donor-Receiver Names Secret DCP West SM Qasim Abidi said the entire operation was run like a secret mission. The identities of the doctors performing the transplant, the donor and recipient, and the hospital where the transplant was to take place were all kept confidential. The entire work was handled by different teams. For example, Parul Tomar, a resident of North Civil Lines in Muzaffarnagar, had struck a deal with Dr Afzal from Meerut. Meanwhile, Ayush Kumar, an MBA student from Bihar studying in Dehradun, had finalised a deal to sell his kidney with Shivam Agarwal alias Shivam Kada of Kanpur. Both were in contact with absconding Noida-based doctor Rohit. Foreigners' Kidneys Replaced for Up to 2.50 Crores According to the police, within India, kidney transplants were carried out for ₹60 lakh to ₹1 crore. However, foreign patients were charged up to ₹2.5 crore. Evidence has been found showing that the kidney transplant of the South African woman Arabica was done for ₹2 crore to ₹2.5 crore. The syndicate has carried out not just a few but hundreds of kidney transplants. More than 50 people, including brokers and doctors, are believed to be involved in this network. Police teams are conducting raids from Kanpur to Meerut, Lucknow, Delhi, Noida and Ghaziabad. Know About Police Action Kanpur Police have so far arrested 8 accused in this case. DCP West said that after the racket was exposed, CCTV footage of people visiting Ahuja Hospital on the night of March 29 was examined. Two cars were used to transport doctors—one carrying five doctors and the other three. Three doctors were dropped in Ghaziabad, while five were dropped in Lucknow. Police are also examining further CCTV footage. So far, the investigation has revealed that Noida-based Dr Rohit alias Rahul and three Meerut-based doctors—Dr Afzal, Dr Vaibhav and Dr Anurag alias Amit—are involved in the gang. All their names are mentioned in the FIR, and police teams are conducting raids to arrest them. Know about the Meerut hospital to which the links are being traced During the investigation of the Kanpur kidney case, it has emerged that more than 100 transplants were carried out at Alpha Hospital in Meerut. The hospital is located in Mangal Pandey Nagar and is built on about 350 square yards. The building has four floors. The director of the hospital is Amit Kumar. The hospital management and staff claim that no doctor named Afzal is associated with them. According to the manager, only regular OPD services by Dr Vaibhav Mugdal are conducted, while other doctors are called on demand. At present, police are questioning the manager and continuing the investigation. Alpha Hospital was in the news before as well Meanwhile, Meerut's CMO Dr. Ashok Kataria says that on November 26, 2025, a patient complained that he was admitted after taking commission. The hospital's license was suspended on this. The police investigation did not confirm the allegation. The license was restored on January 21, 2026.",
       "date": "2026-04-03",
@@ -80485,10 +80745,23 @@
       "lang": "hi"
     },
     {
+      "id": "68db555179e23588fa5f1ceed503ea03",
+      "title": "Ayodhya News: लिंक के जरिए खाते से उड़ाए एक लाख, डॉक्टर का ऑनलाइन अपॉइंटमेंट बुक करते समय हुई ठगी; केस दर्ज",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/one-lakh-stolen-from-bank-account-via-link-in-ayodhya-doctor-duped-while-booking-online-appointment-2026-04-03",
+      "summary": "यूपी के अयोध्या में साइबर ठगी का मामला सामने आया है। इसमें एक युवक के खाते से ऑनलाइन लिंक के माध्यम से करीब एक लाख रुपये निकाल लिए गए।",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 05:00:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "cf62fe021157ea28a8f8516f993069e7",
-      "title": "Iran war live: Ex-FM Zarif says Tehran should ‘declare victory, make deal’",
+      "title": "Iran war live: Water plant hit in Kuwait as Tehran attacks the Gulf, Israel",
       "link": "https://www.aljazeera.com/news/liveblog/2026/4/3/iran-war-live-trump-warns-assault-on-infrastructure-hasnt-even-started?traffic_source=rss",
-      "summary": "Trump meanwhile steps up threats after US strike on Iran's largest bridge, as Tehran launches attacks across the region.",
+      "summary": "Water plant hit in Kuwait as Iran warns to expand attacks if Trump follows through on threats to escalate strikes.",
       "date": "2026-04-03",
       "timestamp": "Fri, 03 Apr 2026 05:00:00 +0000",
       "section": "International",
@@ -80521,6 +80794,19 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "660a8f863c4fee1a8271c1f32ce5471b",
+      "title": "Ayodhya News: छह से 20 तक मिलेगा मुफ्त राशन, मौका चूकने पर नहीं मिलेगा लाभ",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/free-rations-will-be-available-from-the-6th-to-the-20th-you-will-not-receive-the-benefit-if-you-miss-this-opportunity-ayodhya-news-c-13-1-lko1121-1674074-2026-04-03",
+      "summary": "छह से 20 तक मिलेगा मुफ्त राशन, मौका चूकने पर नहीं मिलेगा लाभ",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:55:01 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
       "lang": "en"
     },
     {
@@ -80563,6 +80849,84 @@
       "lang": "en"
     },
     {
+      "id": "9bccd42844341b85a255a00f39c62d7c",
+      "title": "सीएम योगी बोले: असम को नहीं बनने देंगे लव जेहाद की धरती, यूपी देख लीजिए, अब वहां सड़कों पर नमाज नहीं होती",
+      "link": "https://www.amarujala.com/lucknow/cm-yogi-we-allow-assam-land-of-love-jihad-just-look-at-up-namaz-is-no-longer-of-2026-04-03",
+      "summary": "असम में जनसभा के दौरान सीएम योगी ने कांग्रेस और यूडीएफ पर तीखा हमला बोला। उन्होंने घुसपैठ, जनसंख्या बदलाव और सांस्कृतिक संरक्षण का मुद्दा उठाया।",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:37:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "17ddb6eb7a469a5e5768cf9c0337b642",
+      "title": "Lucknow News: एपीके फाइल भेजकर ठग ने खाते से निकाल लिए 96 हजार, पीड़ित की शिकायत पर केस दर्ज",
+      "link": "https://www.amarujala.com/lucknow/fraudster-siphoned-off-96-000-from-account-by-sending-apk-file-in-lucknow-2026-04-03",
+      "summary": "राजधानी लखनऊ में निगम कुमार को एपीके फाइल भेजकर साइबर जालसाज ने उनके बैंक खाते से 96 हजार रुपये पार कर दिए।",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:34:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "41102c9b0f3bb2397f06db6208510478",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 3 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-03",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:30:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b483c4b53b6b245406baa2e02ec0afcf",
+      "title": "कमीशन हुआ आईएनएस अरिदमन: स्वदेशी पनडुब्बी से बढ़ी नौसेना की ताकत, रक्षा मंत्री बोले- 'अरिदमन' शब्द नहीं शक्ति!",
+      "link": "https://www.amarujala.com/india-news/ins-aridaman-commissioning-updates-indian-navy-defense-minister-indigenous-submarine-not-just-word-but-force-2026-04-03",
+      "summary": "INS Aridaman Commission: स्वदेशी पनडुब्बी से बढ़ी नौसेना की ताकत, रक्षा मंत्री बोले- 'अरिदमन' शब्द नहीं शक्ति!",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:27:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "e7bae2a77b6e093499956143c80890b3",
+      "title": "मुख्यमंत्री हेल्पलाइन सेवा-1076: कर्मियों की नियुक्ति 18 हजार में, लेकिन मिल रहे सिर्फ सात हजार; लखनऊ में प्रदर्शन",
+      "link": "https://www.amarujala.com/video/lucknow/video-makhayamatara-halpalina-sava-1076-karamaya-ka-nayakata-18-hajara-ma-lkana-mal-raha-sarafa-sata-hajara-lkhanauu-ma-paratharashana-2026-04-03",
+      "summary": "मुख्यमंत्री हेल्पलाइन सेवा-1076: कर्मियों की नियुक्ति 18 हजार में, लेकिन मिल रहे सिर्फ सात हजार; लखनऊ में प्रदर्शन",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:26:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "15c42c242041dea4ad2f4bb046e3da61",
+      "title": "लखनऊ: पांच दिन से घरों से नहीं उठा कूड़ा, लोग बोले- सिर्फ पैसे लेने आते हैं कर्मी",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-paca-thana-sa-ghara-sa-naha-utha-ka-lga-bl-sarafa-pasa-lna-aata-ha-karama-2026-04-03",
+      "summary": "लखनऊ: पांच दिन से घरों से नहीं उठा कूड़ा, लोग बोले- सिर्फ पैसे लेने आते हैं कर्मी",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:26:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "6d2da0acb1cdb6d7b2fc28ebc8f03ead",
       "title": "Omar Abdullah demands probe into Ganderbal encounter, after family claims ‘slain had no militant links’",
       "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-abdullah-demands-probe-into-ganderbal-encounter-after-family-claims-slain-had-no-militant-links/article70816847.ece",
@@ -80574,6 +80938,19 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "a7e725db9d6e229177945d1e597df1bc",
+      "title": "NASA Artemis-II Launch: चांद तक पहुंचने के बाद भी ये सतह पर नहीं उतर पाएगा अमेरिका",
+      "link": "https://www.amarujala.com/video/india-news/nasa-artemis-ii-launch-these-4-astronauts-will-not-land-on-the-moon-2026-04-03",
+      "summary": "NASA Artemis-II Launch: चांद तक पहुंचने के बाद भी ये सतह पर नहीं उतर पाएगा अमेरिका",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:18:47 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "02fba14632d3d0109523f783f789f804",
@@ -80589,6 +80966,45 @@
       "lang": "en"
     },
     {
+      "id": "a85cc744cf7b5319c939a46298d3ce40",
+      "title": "लड़की से दोस्ती पर दो परिवारों में बवाल: जिम ट्रेनर को घर से उठाकर पीटा, लव जिहाद का आरोप; जानें पूरा मामला",
+      "link": "https://www.amarujala.com/india-news/karnataka-hubballi-gym-trainer-beaten-up-police-says-family-dispute-not-love-jihad-case-2026-04-03",
+      "summary": "लड़की से दोस्ती पर दो परिवारों में बवाल: जिम ट्रेनर को घर से उठाकर पीटा, लव जिहाद का आरोप; जानें पूरा मामला karnataka Hubballi gym trainer beaten up police says family dispute not love jihad case",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:17:05 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "881875a60902448cb4fd3b4dd455466b",
+      "title": "तमिलनाडु का सियासी रण: कांग्रेस ने जारी की 27 उम्मीदवारों की सूची, प्रदेश अध्यक्ष श्रीपेरंबुदूर से ठोकेंगे ताल",
+      "link": "https://www.amarujala.com/india-news/congress-releases-27-candidates-list-tamil-nadu-assembly-elections-2026-04-03",
+      "summary": "तमिलनाडु का सियासी रण: कांग्रेस ने जारी की 27 उम्मीदवारों की सूची, प्रदेश अध्यक्ष श्रीपेरंबुदूर से ठोकेंगे ताल congress releases 27 candidates list tamil nadu assembly elections",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:12:55 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d1234f9e04a65cc0e3e37a3248726ca9",
+      "title": "Lucknow News: 'जीजा ने की छेड़खानी, विरोध पर जिंदा जलाने की कोशिश', पीड़िता की शिकायत पर केस दर्ज",
+      "link": "https://www.amarujala.com/lucknow/brother-in-law-molests-woman-attempts-to-burn-alive-in-lucknow-case-registered-based-on-victim-complaint-2026-04-03",
+      "summary": "राजधानी लखनऊ में बाजारखाला निवासी महिला ने जीजा पर छेड़खानी और विरोध करने पर जिंदा जलाने की कोशिश करने का आरोप लगाया है।",
+      "date": "2026-04-03",
+      "timestamp": "Fri, 03 Apr 2026 04:10:01 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "a5026141dc67499f47783a2ea401ff58",
       "title": "U.P. Government committed to ensuring every eligible and needy person receives benefits of welfare schemes, says CM Adityanath",
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-government-committed-to-ensuring-every-eligible-and-needy-person-receives-benefits-of-welfare-schemes-says-cm-adityanath/article70816314.ece",
@@ -80599,19 +81015,6 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "41102c9b0f3bb2397f06db6208510478",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 3 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-03",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-03",
-      "timestamp": "Fri, 03 Apr 2026 04:01:44 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -83514,6 +83917,32 @@
       "lang": "en"
     },
     {
+      "id": "b0d236500141ee8bb22f8066125d2c6e",
+      "title": "What led an India-bound Iranian crude tanker to reroute to China",
+      "link": "https://timesofindia.indiatimes.com/india/what-led-an-india-bound-iranian-crude-tanker-to-reroute-to-china/articleshow/129998993.cms",
+      "summary": "A US-sanctioned tanker carrying Iranian crude oil, initially bound for India, has rerouted to China. Payment issues appear to be the primary driver for this change, as sellers are reportedly tightening credit terms. This development highlights the ongoing challenges in facilitating Iranian oil trade, even with temporary US sanctions waivers.",
+      "date": "2026-04-03",
+      "timestamp": "2026-04-03T16:15:24+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "208f70ee0f13471dd399ec5e7d24898c",
+      "title": "33 possible air pollution solutions progress to trial phase under challenge set by Delhi govt",
+      "link": "https://timesofindia.indiatimes.com/india/33-possible-air-pollution-solutions-progress-to-trial-phase-under-challenge-set-by-delhi-govt/articleshow/129998808.cms",
+      "summary": "",
+      "date": "2026-04-03",
+      "timestamp": "2026-04-03T15:58:46+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "04930b9cbe4c996aca62723aa83f1260",
       "title": "Kerala assembly polls: Congress leader Ramesh Chennithala eyes chief minister post, awaits party's call",
       "link": "https://timesofindia.indiatimes.com/india/kerala-assembly-polls-congress-leader-ramesh-chennithala-eyes-chief-minister-post-awaits-partys-call/articleshow/129998466.cms",
@@ -83523,6 +83952,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "74a924012d115c62b4e6570f033478db",
+      "title": "Japan-led mission uncovers asteroid with all 5 ‘letters’ of DNA, breakthrough for understanding life’s origins",
+      "link": "https://timesofindia.indiatimes.com/science/japan-led-mission-uncovers-asteroid-with-all-5-letters-of-dna-breakthrough-for-understanding-lifes-origins/articleshow/129993675.cms",
+      "summary": "Analysis of samples from the asteroid Ryugu has revealed all five nucleobases essential to DNA and RNA, strengthening evidence that life’s chemical building blocks are widespread in space. While not proof of extraterrestrial life, the finding suggests asteroids could have delivered key ingredients to early Earth, offering new insight into how life’s fundamental chemistry may emerge across the universe.",
+      "date": "2026-04-03",
+      "timestamp": "2026-04-03T15:21:06+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
@@ -83598,6 +84040,19 @@
       "summary": "Iran's Khatam al-Anbiya Headquarters has declared all regional ICT companies as legitimate targets, escalating conflict concerns. This follows reports of an Iranian strike damaging Amazon's cloud operations in Bahrain. Earlier, Iran's Revolutionary Guards had threatened US tech giants like Microsoft and Google, accusing them of aiding US strikes and acting as spies.",
       "date": "2026-04-03",
       "timestamp": "2026-04-03T13:45:40+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a6d8afe0b11fd8fa14ae82b938a0328c",
+      "title": "Oil, LNG supplies: Top Russian official Manturov signals fuel support for India during Middle East crisis",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/oil-lng-supplies-top-russian-official-manturov-signals-fuel-support-for-india-during-middle-east-crisis/articleshow/129996442.cms",
+      "summary": "Russia's Deputy Chairman Denis Manturov highlighted a deepening energy partnership with India, stating Moscow can ramp up oil and LNG supplies amid the Middle East crisis. The visit also confirmed increased fertilizer supplies and ongoing collaboration in nuclear energy, alongside discussions on expanding industrial, space, and technological cooperation.",
+      "date": "2026-04-03",
+      "timestamp": "2026-04-03T13:31:13+05:30",
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
