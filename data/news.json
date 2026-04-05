@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T22:25:48.923937+00:00",
+  "generated_at": "2026-04-05T23:28:26.242949+00:00",
   "stories": [
     {
       "id": "33540e3fc19e9451fe5b47b37070ebe1",
@@ -44488,19 +44488,6 @@
       "lang": "en"
     },
     {
-      "id": "468a120cfe8cd10cb915026c7bb74521",
-      "title": "Assembly elections updates: Gherao of judicial officers a reflection of TMC’s ‘maha jungle raj’, says PM Modi",
-      "link": "https://www.thehindu.com/elections/state-assembly-elections-west-bengal-assam-kerala-puducherry-tamil-nadu-live-updates/article70825775.ece",
-      "summary": "Rahul Gandhi said that Assam CM Himanta Biswa Sarma is India’s most corrupt Chief Minister and added, “He spreads only hatred”",
-      "date": "2026-04-05",
-      "timestamp": "Sun, 05 Apr 2026 22:10:17 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "dcd8eb94e6192628465285e9eb417b31",
       "title": "Babu Jagjivan Ram’s simple life continues to inspire all generations: SC Panel member",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/babu-jagjivan-rams-simple-life-continues-to-inspire-all-generations-sc-panel-member/article70826663.ece",
@@ -75441,6 +75428,71 @@
       "lang": "en"
     },
     {
+      "id": "43659ef9d88c8e986da4f824fbd68ed2",
+      "title": "रिटायरमेंट प्लानिंग क्यों है मुश्किल?: कमाई से खर्च तक बदलते हैं नियम, यहां समझिए पूरा गणित",
+      "link": "https://www.amarujala.com/india-news/why-is-retirement-planning-difficult-rules-change-from-income-to-expenses-here-understand-the-complete-math-2026-04-06",
+      "summary": "रिटायरमेंट प्लानिंग क्यों है मुश्किल?: कमाई से खर्च तक बदलते हैं नियम, यहां समझिए पूरा गणित, Why Is Retirement Planning Difficult? Rules Change From Income to Expenses Here Understand the Complete Math",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 04:57:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "84f8f9071fb15627221be1a34452ff7f",
+      "title": "‘Some people are more native, but it’s a question of citizenship’: Hiren Gohain",
+      "link": "https://www.thehindu.com/elections/assam-assembly/some-people-are-more-native-but-its-a-question-of-citizenship/article70826787.ece",
+      "summary": "As ‘infiltration’ makes yet another inevitable entry into the Assam campaign, the writer-civil society activist says the term ‘Miya’ was never a part of public rhetoric before",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 04:51:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7dec1f6751430bdd82ff26c879042540",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 6 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-06",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 04:30:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5f220df833566d5db657c619c038d203",
+      "title": "पढ़ें 6 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-06",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 04:30:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c05b9e39924fe59087b32624f34d12da",
+      "title": "Trump appears to extend Iran deadline in cryptic post",
+      "link": "https://www.thehindu.com/news/international/trump-appears-to-extend-iran-deadline-in-cryptic-post/article70828001.ece",
+      "summary": "U.S. President Donald Trump, who has held no public events since an address to the nation on Wednesday (April 1, 2026), seemed to confirm the new timing in an interview with The Wall Street Journal",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 04:26:43 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "898f2a71111ce21324b67e1688b63089",
       "title": "Updates: भारत ने अफगानिस्तान को राहत सामग्री भेजी; तेलंगाना सीएम ने युवाओं में ड्रग्स और खेलों पर चिंता जताई",
       "link": "https://www.amarujala.com/india-news/news-updates-of-6th-april-news-in-hindi-north-east-west-south-delhi-assam-gujarat-news-in-hindi-2026-04-06",
@@ -75454,30 +75506,17 @@
       "lang": "hi"
     },
     {
-      "id": "7dec1f6751430bdd82ff26c879042540",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 6 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-06",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "id": "468a120cfe8cd10cb915026c7bb74521",
+      "title": "Assembly elections updates: Gherao of judicial officers a reflection of TMC’s ‘maha jungle raj’, says PM Modi",
+      "link": "https://www.thehindu.com/elections/state-assembly-elections-west-bengal-assam-kerala-puducherry-tamil-nadu-live-updates/article70825775.ece",
+      "summary": "Rahul Gandhi said that Assam CM Himanta Biswa Sarma is India’s most corrupt Chief Minister and added, “He spreads only hatred”",
       "date": "2026-04-06",
-      "timestamp": "Mon, 06 Apr 2026 03:30:24 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "5f220df833566d5db657c619c038d203",
-      "title": "पढ़ें 6 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-06",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-06",
-      "timestamp": "Mon, 06 Apr 2026 03:30:13 +0530",
+      "timestamp": "Mon, 06 Apr 2026 03:26:18 +0530",
       "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
       "district": "",
-      "lang": "hi"
+      "lang": "en"
     },
     {
       "id": "ec64a9b46d0d909cc81093cff6b512ce",
@@ -77011,6 +77050,19 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "46671b18d69918018b4e02d8f5c12597",
+      "title": "T.N. Assembly election: Concerned over stalled growth, Ambattur constituency residents demand GH, sewer network, wider roads",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/concerned-over-stalled-growth-residents-demandgh-sewer-network-wider-roads/article70823462.ece",
+      "summary": "Residents want an additional platform on the southern side of the Ambattur railway station for express and fast local trains towards Chennai to halt; they demand a government hospital as people have to go to Kilpauk Medical College Hospital or Stanley Hospital in case of emergencies",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 00:59:19 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -87969,6 +88021,71 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9326dcba61f4acc6a556cd664cae289a",
+      "title": "500 judges on SIR duty, cases pile up across Bengal courts",
+      "link": "https://timesofindia.indiatimes.com/india/500-judges-on-sir-duty-cases-pile-up-across-bengal-courts/articleshow/130048264.cms",
+      "summary": "",
+      "date": "2026-04-05",
+      "timestamp": "2026-04-06T04:40:32+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c9e2034584440be81ac366e0ef652442",
+      "title": "EC seizes voter inducements worth over 650cr from poll-bound states, UT",
+      "link": "https://timesofindia.indiatimes.com/india/ec-seizes-voter-inducements-worth-over-650cr-from-poll-bound-states-ut/articleshow/130048249.cms",
+      "summary": "Election Commission teams have seized over Rs 650 crore in potential voter inducements across five poll-bound states, with West Bengal leading seizures at Rs 319 crore. Freebies, drugs, and cash formed the bulk of the confiscated items. This figure is on track to surpass last year's record of Rs 1,000 crore in seizures.",
+      "date": "2026-04-05",
+      "timestamp": "2026-04-06T04:30:24+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e2dacb6f51b4f496a5a00c4587fb59d5",
+      "title": "Odisha bans sale of LPG cylinders in open market",
+      "link": "https://timesofindia.indiatimes.com/india/odisha-bans-sale-of-lpg-cylinders-in-open-market/articleshow/130048244.cms",
+      "summary": "Odisha has banned the open sale of LPG cylinders to combat black marketing. Only customers who have completed e-KYC can now purchase them from authorized dealers. The government assures sufficient supply, with delivery timelines of 25 days for urban and 45 days for rural consumers. This move follows recent seizures of cylinders for illegal resale.",
+      "date": "2026-04-05",
+      "timestamp": "2026-04-06T04:25:32+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "870631c3b8bd29d1f73b6232ac8fbe7a",
+      "title": "8L PNG connections in a month: Official",
+      "link": "https://timesofindia.indiatimes.com/india/8l-png-connections-in-a-month-official/articleshow/130048141.cms",
+      "summary": "Homes Fully Served, Biz Demand 80%",
+      "date": "2026-04-05",
+      "timestamp": "2026-04-06T03:58:34+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dfa58c72bceb9c4ac39f37fd1f2d94f1",
+      "title": "IMD predicts cooler temps in north-west India, rain likely",
+      "link": "https://timesofindia.indiatimes.com/india/imd-predicts-cooler-temps-in-north-west-india-rain-likely/articleshow/130048130.cms",
+      "summary": "North-west India will experience two western disturbances this week. Peak activity is expected on April 7-8. This will bring below normal to near normal day temperatures and a wet spell to the region. Other parts of the country will also see wet spells with thunderstorms and lightning until April 9.",
+      "date": "2026-04-05",
+      "timestamp": "2026-04-06T03:48:11+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
