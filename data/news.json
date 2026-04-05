@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T19:30:22.234771+00:00",
+  "generated_at": "2026-04-05T20:26:54.900523+00:00",
   "stories": [
     {
       "id": "33540e3fc19e9451fe5b47b37070ebe1",
@@ -44475,19 +44475,6 @@
       "lang": "en"
     },
     {
-      "id": "2fd1fd4b450db2fb474e948e068d5239",
-      "title": "Govt. keen to resolve pending issues of employees: Atchannaidu",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/govt-keen-to-resolve-pending-issues-of-employees-atchannaidu/article70826655.ece",
-      "summary": "",
-      "date": "2026-04-05",
-      "timestamp": "Sun, 05 Apr 2026 22:11:08 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "00f1b7f94c7bc28cb733ed578e18a006",
       "title": "Two more bodies recovered from Atreyapuram canal",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/two-more-bodies-recovered-from-atreyapuram-canal/article70826705.ece",
@@ -44758,19 +44745,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "3562ed26a4654972413a505f25c197f0",
-      "title": "APSRTC bus catches fire after contact with low-hanging power cables in Kadapa",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsrtc-bus-catches-fire-after-contact-with-low-hanging-power-cables-in-kadapa/article70826811.ece",
-      "summary": "",
-      "date": "2026-04-05",
-      "timestamp": "Sun, 05 Apr 2026 21:21:22 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -45359,6 +45333,32 @@
       "lang": "en"
     },
     {
+      "id": "ae8e22f50f5b640f840fe6d388bbd9f5",
+      "title": "Hamas armed wing says disarmament demands not acceptable",
+      "link": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss",
+      "summary": "Spokesperson Abu Obeida says calling for the group's disarmament amounts to an attempt to continue Israel's genocide.",
+      "date": "2026-04-05",
+      "timestamp": "Sun, 05 Apr 2026 20:09:24 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "86758d69dd6f5611e4d82fbb4d3c4cad",
+      "title": "Israeli air strike hits crowd in Gaza City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strike-hits-crowd-in-gaza-city?traffic_source=rss",
+      "summary": "Several Palestinians were rushed to hospital with severe injuries after an Israeli air strike hit a crowd in Gaza City.",
+      "date": "2026-04-05",
+      "timestamp": "Sun, 05 Apr 2026 20:09:18 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e12a1f3a74582a078ab1973195da8eea",
       "title": "Kerala Assembly polls 2026: UDF fails to keep its promises: M.V. Govindan",
       "link": "https://www.thehindu.com/elections/kerala-assembly-polls-2026-udf-fails-to-keep-its-promises-mv-govindan/article70827010.ece",
@@ -45424,6 +45424,19 @@
       "lang": "en"
     },
     {
+      "id": "ea016ed3e0918286bd07c3f3f7e5767d",
+      "title": "Hamas armed wing rejects disarmament while Israel continues attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/hamas-armed-wing-rejects-disarmament-while-israel-continues-attacks?traffic_source=rss",
+      "summary": "Hamas’s armed wing says it will not discuss disarmament before Israel fully implements the first phase of ceasefire.",
+      "date": "2026-04-05",
+      "timestamp": "Sun, 05 Apr 2026 20:03:50 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f29a6ffb11ca2613eedb0842359f2418",
       "title": "BJP bags Khanapur municipality with backing of BRS",
       "link": "https://www.thehindu.com/news/national/telangana/bjp-bags-khanapur-municipality-with-backing-of-brs/article70826948.ece",
@@ -45450,6 +45463,19 @@
       "lang": "en"
     },
     {
+      "id": "65f05be06abc29141305696203cccd74",
+      "title": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
+      "link": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+      "date": "2026-04-05",
+      "timestamp": "Sun, 05 Apr 2026 20:02:01 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "bef9380962f208f3f303478a30e8dec2",
       "title": "Penubala Harshavardhan appointed BJP SC Morcha president in Tirupati",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/penubala-harshavardhan-appointed-bjp-sc-morcha-president-in-tirupati/article70826973.ece",
@@ -45472,6 +45498,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8e8819d07c3019df05086debf2396f90",
+      "title": "How rescue of US airman in remote part of Iran unfolded",
+      "link": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+      "date": "2026-04-05",
+      "timestamp": "Sun, 05 Apr 2026 20:00:20 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -45511,6 +45550,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9afd643b86a8d47b608c3af8ee33f2a3",
+      "title": "Is war more profitable than peace? David Keen explains",
+      "link": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/5/is-war-more-profitable-than-peace-david-keen-explains?traffic_source=rss",
+      "summary": "A leading political economist breaks down how war can reward power and be beneficial for profits and political survival.",
+      "date": "2026-04-05",
+      "timestamp": "Sun, 05 Apr 2026 19:54:01 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -45590,6 +45642,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "dc997a41a9d25b85a7c394c1e806808b",
+      "title": "Dozens missing after boat carrying migrants capsizes near Libya",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/5/dozens-missing-after-boat-carrying-migrants-capsizes-near-libya?traffic_source=rss",
+      "summary": "Dozens of people are missing and at least two confirmed dead after a boat carrying migrants capsized off coast of Libya.",
+      "date": "2026-04-05",
+      "timestamp": "Sun, 05 Apr 2026 19:38:53 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -50708,19 +50773,6 @@
       "summary": "कार की टक्कर से बाइक सवार महिला का पैर टूटा",
       "date": "2026-04-05",
       "timestamp": "Sun, 05 Apr 2026 06:25:19 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Noida",
-      "lang": "en"
-    },
-    {
-      "id": "bc79a1abccdba964abe6e6fc3092a668",
-      "title": "Noida News: सेक्टर में सुविधाओं का अभाव, सार्वजनिक परिवहन नहीं होने से परेशानी",
-      "link": "https://www.amarujala.com/delhi-ncr/noida/lack-of-facilities-in-the-sector-lack-of-public-transport-causes-problems-grnoida-news-c-23-1-lko1064-91570-2026-04-05",
-      "summary": "Lack of facilities in the sector, lack of public transport causes problems",
-      "date": "2026-04-05",
-      "timestamp": "Sun, 05 Apr 2026 06:25:11 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -75311,12 +75363,168 @@
       "lang": "en"
     },
     {
+      "id": "bc79a1abccdba964abe6e6fc3092a668",
+      "title": "Noida News: सेक्टर में सुविधाओं का अभाव, सार्वजनिक परिवहन नहीं होने से परेशानी",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/lack-of-facilities-in-the-sector-lack-of-public-transport-causes-problems-grnoida-news-c-23-1-lko1064-91570-2026-04-05",
+      "summary": "Lack of facilities in the sector, lack of public transport causes problems",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:52:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "9c92679e9fc7223142177e3bffded6b1",
+      "title": "Lucknow News: वाहन चेकिंग अभियान में 1947 वाहनों के हुए चालान, 218 सीज",
+      "link": "https://www.amarujala.com/lucknow/1947-vehicles-challaned-218-seized-during-vehicle-checking-drive-lucknow-news-c-13-lko1070-1678132-2026-04-06",
+      "summary": "वाहन चेकिंग अभियान में 1947 वाहनों के हुए चालान, 218 सीज",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:50:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "b37ca9916df7fba846541ada6cbcd773",
+      "title": "Eight Israelis held after assault on Palestinian village",
+      "link": "https://www.thehindu.com/news/international/eight-israelis-held-after-assault-on-palestinian-village/article70827874.ece",
+      "summary": "Violence in the West Bank, which Israel has occupied since 1967, has risen sharply since the October 7, 2023 Hamas attack on Israel triggered the Gaza war",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:49:49 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c2984212363d009705ab064aa63f135b",
+      "title": "Tamil Nadu Election 2026: 'DMK के रहते नहीं बदलेगी तमिलनाडु की पहचान', तीन-भाषा नीति पर सीएम स्टालिन का एलान",
+      "link": "https://www.amarujala.com/india-news/have-come-to-seek-your-support-for-future-growth-of-tamil-nadu-cm-mk-stalin-in-madurai-2026-04-06",
+      "summary": "'Have come to seek your support for future growth of Tamil Nadu': CM MK Stalin in Madurai- Tamil Nadu Election 2026: 'DMK के रहते नहीं बदलेगी तमिलनाडु की पहचान', तीन-भाषा नीति पर सीएम स्टालिन का एलान",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:45:54 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "000734b3a9f92f81613fa3e32ce4df92",
+      "title": "Lucknow News: हाॅकी मुकाबलों में दिखाया दम",
+      "link": "https://www.amarujala.com/lucknow/showed-strength-in-hockey-matches-lucknow-news-c-13-1-lko1128-1678261-2026-04-06",
+      "summary": "हाॅकी मुकाबलों में दिखाया दम",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:45:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "9f489ed6d271b336f818866ce456e840",
+      "title": "Lucknow News: सीएएल वॉल्ट्स, ड्रैगन और अवेंजर्स ने जीते मुकाबले",
+      "link": "https://www.amarujala.com/lucknow/cal-vaults-dragons-and-avengers-won-the-matches-lucknow-news-c-13-1-lko1128-1678260-2026-04-06",
+      "summary": "सीएएल वॉल्ट्स, ड्रैगन और अवेंजर्स ने जीते मुकाबले",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:44:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "f0afcd644dce5508b65cecc8c493fae6",
+      "title": "Lucknow News: सोनी और प्राची ने साबित की श्रेष्ठता",
+      "link": "https://www.amarujala.com/lucknow/soni-and-prachi-prove-their-superiority-lucknow-news-c-13-1-lko1128-1678259-2026-04-06",
+      "summary": "सोनी और प्राची ने साबित की श्रेष्ठता",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:43:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "ad8bd85741ffb6db34824bd4135a347c",
+      "title": "Lucknow News: आईटीएफ जूनियर टेनिस टूर्नामेंट की तैयारियों ने जोर पकड़ा",
+      "link": "https://www.amarujala.com/lucknow/preparations-for-the-itf-junior-tennis-tournament-gain-momentum-lucknow-news-c-13-1-lko1128-1678258-2026-04-06",
+      "summary": "आईटीएफ जूनियर टेनिस टूर्नामेंट की तैयारियों ने जोर पकड़ा",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:42:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "fe2f9090aa6e3c5b918f6fd850018f6a",
+      "title": "Lucknow News: विद्याज्ञान स्कूल को चार खिताब",
+      "link": "https://www.amarujala.com/lucknow/vidyagyan-school-wins-four-titles-lucknow-news-c-13-1-lko1128-1678257-2026-04-06",
+      "summary": "विद्याज्ञान स्कूल को चार खिताब",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:41:40 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "b67a682c7eaa329f1c11e82accff303f",
+      "title": "Iran-Israel war LIVE: Iranian minister dismisses Trump's threat, calls him 'unstable, delusional figure'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-5-2026-live-updates/article70825713.ece",
+      "summary": "U.S. President Donald Trump on Sunday (April 5, 2026) said he would strike Iran’s power plants and bridges this Tuesday (April 7, 2026) if the Strait of Hormuz remains closed to marine traffic",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:39:53 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2d89d3e44f08135beca331db9215b0d4",
+      "title": "Lucknow News: राज्यपाल से मिला यूपी रोइंग एसोसिएशन का प्रतिनिधिमंडल",
+      "link": "https://www.amarujala.com/lucknow/letter-written-to-cm-and-union-minister-for-ban-on-smart-meters-lucknow-news-c-13-1-lko1128-1678256-2026-04-06",
+      "summary": "राज्यपाल से मिला यूपी रोइंग एसोसिएशन का प्रतिनिधिमंडल",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:39:19 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "b5b9777c7af94d57237c494a54df8a44",
+      "title": "Lucknow News: स्मार्ट मीटर पर पाबंदी के लिए सीएम और केंद्रीय मंत्री को लिखा पत्र",
+      "link": "https://www.amarujala.com/lucknow/letter-written-to-cm-and-union-minister-for-ban-on-smart-meters-lucknow-news-c-13-lko1070-1677345-2026-04-06",
+      "summary": "स्मार्ट मीटर पर पाबंदी के लिए सीएम और केंद्रीय मंत्री को लिखा पत्र",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:36:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "7dec1f6751430bdd82ff26c879042540",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 6 अप्रैल के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-06",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-04-06",
-      "timestamp": "Mon, 06 Apr 2026 12:30:25 +0530",
+      "timestamp": "Mon, 06 Apr 2026 01:30:25 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -75329,12 +75537,64 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-06",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-04-06",
-      "timestamp": "Mon, 06 Apr 2026 12:30:13 +0530",
+      "timestamp": "Mon, 06 Apr 2026 01:30:13 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "3562ed26a4654972413a505f25c197f0",
+      "title": "APSRTC bus catches fire after contact with low-hanging power cables in Kadapa",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/apsrtc-bus-catches-fire-after-contact-with-low-hanging-power-cables-in-kadapa/article70826811.ece",
+      "summary": "",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:22:08 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2fd1fd4b450db2fb474e948e068d5239",
+      "title": "Govt. keen to resolve pending issues of employees: Atchannaidu",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/govt-keen-to-resolve-pending-issues-of-employees-atchannaidu/article70826655.ece",
+      "summary": "Andhra Pradesh Agriculture Minister Atchannaidu said employees’ role was critical in meeting the people’s aspirations",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:18:42 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "57d36015398db58fb9d6cb3b0aa09234",
+      "title": "Akash Vishwanath More of Congress to contest Baramati Bypoll",
+      "link": "https://www.thehindu.com/news/national/maharashtra/akash-vishwanath-more-of-congress-to-contest-baramati-bypoll/article70827469.ece",
+      "summary": "The seat was vacant after the constituency’s elected MLA and the deputy Chief Minister of the State Ajit Pawar died tragically in a plane crash",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:17:23 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4fb11d242ec66f06b227c43c0479187a",
+      "title": "Road infrastructure inadequacy, gaps in solid waste management constitute core issues in Tiruppur South segment",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/road-infrastructure-inadequacy-gaps-in-solid-waste-management-constitute-core-issues-in-tiruppur-south-segment/article70823830.ece",
+      "summary": "",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 01:13:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "b7cb33894bc93df7aff77b1c66ff6a97",
@@ -75441,6 +75701,19 @@
       "lang": "en"
     },
     {
+      "id": "f31f2df1606f37b31d651e0c8799fc5d",
+      "title": "UP Weather: यूपी में बारिश-बिजली का कहर, 8 मौतें, सीएम के आदेश पर मुआवजा शुरू",
+      "link": "https://www.patrika.com/lucknow-news/up-weather-tragedy-8-dead-as-compensation-rolled-out-within-24-hours-20478470",
+      "summary": "UP Weather Tragedy: प्रदेश में बीते दिनों हुई अति वर्षा और आकाशीय बिजली गिरने की घटनाओं ने भारी तबाही मचाई है। इस प्राकृतिक आपदा में अब तक 8 लोगों की मौत हो चुकी है, जबकि 10 लोग घायल हुए हैं। इसके अलावा 3 पशुओं की भी मौत की पुष्टि हुई है। लगातार बदलते मौसम और तेज आंधी-बारिश के चलते कई जिलों में जनजीवन अस्त-व्यस्त हो गया है। ग्रामीण क्षेत्रों में स्थिति ज्यादा गंभीर बनी हुई है।",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 00:47:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "638eb478db62fe189968572071cf600b",
       "title": "The World Trade Organization is flailing",
       "link": "https://www.thehindu.com/opinion/op-ed/the-world-trade-organization-is-flailing/article70827294.ece",
@@ -75493,19 +75766,6 @@
       "lang": "en"
     },
     {
-      "id": "b67a682c7eaa329f1c11e82accff303f",
-      "title": "Iran-Israel war LIVE: Iranian minister dismisses Trump's threat, calls him 'unstable, delusional figure'",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-april-5-2026-live-updates/article70825713.ece",
-      "summary": "U.S. President Donald Trump on Sunday (April 5, 2026) said he would strike Iran’s power plants and bridges this Tuesday (April 7, 2026) if the Strait of Hormuz remains closed to marine traffic",
-      "date": "2026-04-06",
-      "timestamp": "Mon, 06 Apr 2026 00:26:33 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "0b011eeb2c260577d817ccf94401a3fb",
       "title": "Amaravati: time for swift, decisive action",
       "link": "https://www.thehindu.com/opinion/op-ed/amaravati-time-for-swift-decisive-action/article70826640.ece",
@@ -75542,6 +75802,19 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2c664c92e1461399e627a9af597d3dda",
+      "title": "UP STF का एक्शन: भोपाल से वांछित कछुआ तस्कर गिरफ्तार, बड़ा नेटवर्क सामने आने की आशंका",
+      "link": "https://www.patrika.com/lucknow-news/up-stf-arrests-wanted-turtle-smuggler-in-lucknow-linked-to-bhopal-case-20478444",
+      "summary": "UP STF Action: उत्तर प्रदेश स्पेशल टास्क फोर्स (STF) को एक बड़ी कामयाबी हाथ लगी है। टीम ने भोपाल (मध्य प्रदेश) से वांछित कछुआ तस्कर रविन्द्र उर्फ रमन को गिरफ्तार कर लिया है। आरोपी को लखनऊ के थाना सैरपुर क्षेत्र से पकड़ा गया। यह गिरफ्तारी वन्यजीव तस्करी के खिलाफ चलाए जा रहे अभियान में एक महत्वपूर्ण सफलता मानी जा रही है।",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 00:18:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -86279,6 +86552,32 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7a47aacb690e50cd8dfcddf70deba4e3",
+      "title": "Punjab ‘my soul’, says Chadha in response to AAP Punjab unit charges",
+      "link": "https://timesofindia.indiatimes.com/india/punjab-my-soul-says-chadha-in-response-to-aap-punjab-unit-charges/articleshow/130045941.cms",
+      "summary": "Estranged AAP MP Raghav Chadha strongly refuted allegations from the party's Punjab unit that he failed to raise state issues in Parliament. He asserted his commitment to Punjab, highlighting numerous issues he has addressed, including pending funds, agricultural distress, and the drug menace. Chadha dismissed the claims as baseless and motivated, vowing that truth and facts would prevail.",
+      "date": "2026-04-05",
+      "timestamp": "2026-04-06T00:50:30+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cbd62469ff51fdf1623d3a5f57038f4b",
+      "title": "Petition filed in SC challenging amended 'transgender persons' law",
+      "link": "https://timesofindia.indiatimes.com/india/petition-filed-in-sc-challenging-amended-transgender-persons-law/articleshow/130045923.cms",
+      "summary": "Transgender rights activists have filed a Supreme Court petition challenging the constitutional validity of the Transgender Persons (Protection of Rights) Amendment Act, 2026. The amendments remove self-perceived identity as the basis for TG certificates and introduce a medical board, moving away from the NALSA judgment's affirmation of personal dignity and choice.",
+      "date": "2026-04-05",
+      "timestamp": "2026-04-06T00:45:47+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
