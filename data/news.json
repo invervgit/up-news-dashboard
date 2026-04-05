@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T21:26:50.135452+00:00",
+  "generated_at": "2026-04-05T22:25:48.923937+00:00",
   "stories": [
     {
       "id": "33540e3fc19e9451fe5b47b37070ebe1",
@@ -44722,6 +44722,19 @@
       "lang": "en"
     },
     {
+      "id": "0cded9fd88ea3338ea6378ff8fa5121f",
+      "title": "'We are at the edge of a battlefield': BBC reports near Strait of Hormuz",
+      "link": "https://www.bbc.com/news/videos/c3r3vw4j38do?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Orla Guerin travels to the edge of the critical waterway that Iran has put a stranglehold on.",
+      "date": "2026-04-05",
+      "timestamp": "Sun, 05 Apr 2026 21:30:19 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6b26e8c80ee26c546d703a9dd11f9293",
       "title": "निगेटिव नैरेटिव का मुंहतोड़ जवाब दें, सीएम योगी ने बीजेपी के युवा कार्यकर्ताओं से किया आह्वान",
       "link": "https://www.livehindustan.com/uttar-pradesh/cm-yogi-in-election-mode-urged-the-youth-workers-of-bjp-said-give-a-strong-reply-to-the-negative-narrative-201775403964349.html",
@@ -44809,6 +44822,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "169257045e825b4ad6e726ce28fc23e5",
+      "title": "Trump issues expletive-laden threat to Iran over Hormuz Strait blockage",
+      "link": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
+      "date": "2026-04-05",
+      "timestamp": "Sun, 05 Apr 2026 21:10:06 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -75415,6 +75441,58 @@
       "lang": "en"
     },
     {
+      "id": "898f2a71111ce21324b67e1688b63089",
+      "title": "Updates: भारत ने अफगानिस्तान को राहत सामग्री भेजी; तेलंगाना सीएम ने युवाओं में ड्रग्स और खेलों पर चिंता जताई",
+      "link": "https://www.amarujala.com/india-news/news-updates-of-6th-april-news-in-hindi-north-east-west-south-delhi-assam-gujarat-news-in-hindi-2026-04-06",
+      "summary": "Updates: भारत ने अफगानिस्तान को राहत सामग्री भेजी; तेलंगाना सीएम ने युवाओं में ड्रग्स और खेलों पर चिंता जताई, News Updates of 6th April News in Hindi North East West South Delhi Assam Gujarat News In Hindi",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 03:51:24 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "7dec1f6751430bdd82ff26c879042540",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 6 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-06",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 03:30:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5f220df833566d5db657c619c038d203",
+      "title": "पढ़ें 6 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-06",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 03:30:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "ec64a9b46d0d909cc81093cff6b512ce",
+      "title": "Iran hangs two convicted of links with Israel in pre-war protests: judiciary",
+      "link": "https://www.thehindu.com/news/international/iran-hangs-two-convicted-of-links-with-israel-in-pre-war-protests-judiciary/article70827884.ece",
+      "summary": "The two men were involved in the anti-government protests that peaked in January, the judiciary said",
+      "date": "2026-04-06",
+      "timestamp": "Mon, 06 Apr 2026 02:44:16 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "95b28a43825d477e5a2d2959f24756c7",
       "title": "Gorakhpur News: एम्स ने लगाया नोटिस.. नियुक्ति के लिए कोई मांगे रुपये तो तत्काल करें शिकायत",
       "link": "https://www.amarujala.com/gorakhpur/the-management-took-action-after-misleading-posts-on-social-media-and-fake-advertisements-on-the-website-in-the-name-of-jobs-gorakhpur-news-c-7-gkp1038-1280455-2026-04-06",
@@ -75922,19 +76000,6 @@
       "lang": "en"
     },
     {
-      "id": "7dec1f6751430bdd82ff26c879042540",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 6 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-06",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-06",
-      "timestamp": "Mon, 06 Apr 2026 02:30:26 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "a79dcd35efc1c2aa7bb2c3097a660cfa",
       "title": "Lucknow News: निजी अस्पताल में बुजुर्ग की मौत, हंगामा",
       "link": "https://www.amarujala.com/lucknow/elderly-man-dies-in-private-hospital-uproar-lucknow-news-c-13-lko1070-1677005-2026-04-06",
@@ -75946,19 +76011,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "5f220df833566d5db657c619c038d203",
-      "title": "पढ़ें 6 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-06",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-06",
-      "timestamp": "Mon, 06 Apr 2026 02:30:14 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "40da8cba0468516df39a8141c6246bbf",
@@ -87917,6 +87969,45 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "901c819210d154cc78d54d3614c84ecb",
+      "title": "Malda siege of judicial officers proof of jungle raj, says Modi in Bengal",
+      "link": "https://timesofindia.indiatimes.com/india/malda-siege-of-judicial-officers-proof-of-jungle-raj-says-modi-in-bengal/articleshow/130046586.cms",
+      "summary": "Prime Minister Modi criticized Bengal's law and order, citing the confinement of judicial officers in Malda as evidence of \"jungle raj.\" He linked electoral roll revision to identifying \"illegal settlers\" and accused the TMC of protecting infiltrators, while also questioning their manifesto's name and warning of accountability after the elections.",
+      "date": "2026-04-05",
+      "timestamp": "2026-04-06T03:31:54+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "88dbf5e4863c3f8b8d488d355267c515",
+      "title": "Mumbai seafarer's remains brought home, family seeks DNA proof",
+      "link": "https://timesofindia.indiatimes.com/india/mumbai-seafarers-remains-brought-home-family-seeks-dna-proof/articleshow/130046510.cms",
+      "summary": "",
+      "date": "2026-04-05",
+      "timestamp": "2026-04-06T03:05:02+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b8f38f511ff52710c8c8f1030a5829a4",
+      "title": "No Brahmin fielded by major parties in TN",
+      "link": "https://timesofindia.indiatimes.com/india/no-brahmin-fielded-by-major-parties-in-tn/articleshow/130046389.cms",
+      "summary": "For the first time in 35 years, AIADMK has not fielded any Brahmin candidates in Tamil Nadu polls, reflecting the community's waning influence. Major parties like DMK, Congress, and BJP also lack Brahmin nominees, while TVK and NTK have fielded candidates, targeting constituencies with significant Brahmin votes.",
+      "date": "2026-04-05",
+      "timestamp": "2026-04-06T02:40:09+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
