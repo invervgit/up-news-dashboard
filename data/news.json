@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T16:51:35.042574+00:00",
+  "generated_at": "2026-04-07T17:54:48.622062+00:00",
   "stories": [
     {
       "id": "33540e3fc19e9451fe5b47b37070ebe1",
@@ -22609,14 +22609,417 @@
       "lang": "en"
     },
     {
+      "id": "55ac939c2dd4e38a06a2fc9a371c3ae6",
+      "title": "Why Indian healthcare cannot function in silos: leaders weigh in",
+      "link": "https://www.thehindu.com/news/national/why-indian-healthcare-cannot-function-in-silos-leaders-weigh-in/article70834858.ece",
+      "summary": "At The Hindu Deep Tech Summit 2026, voices from medicine, technology, and venture capital converged to outline what the future of healthcare must look like — integrated, adaptive, and deeply human",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:18:52 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5334bec50a7869d302ba8b58d5f89ddd",
+      "title": "Iran-Israel war LIVE: India issues urgent 'stay wherever you are' advisory for its citizens in Iran",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-us-donald-trump-strait-of-hormuz-live-updates-on-april-7-2026/article70832715.ece",
+      "summary": "A whole civilisation will die tonight, never to be brought back again, says Trump on TruthSocial; U.S. strikes military targets on Iran's Kharg Island, says U.S. official",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:16:35 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8ac2a8dae6f41c427c6c105c7d6c10d7",
+      "title": "Police identify accused in Macherla rape attempt case as victim’s acquaintance",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/police-identify-accused-in-macherla-rape-attempt-case-as-victims-acquaintance/article70835346.ece",
+      "summary": "",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:16:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6b0951d0dd28200b8ccfd92f487742fb",
+      "title": "American journalist Shelly Kittleson released, say Iraqi officials",
+      "link": "https://www.thehindu.com/news/international/american-journalist-shelly-kittleson-released-say-iraqi-officials/article70835738.ece",
+      "summary": "The powerful Iran-backed Iraqi militia Kataib Hezbollah said in a statement earlier in the day it had decided to free Shelly Kittleson, who was abducted on March 31",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:13:29 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cd4868bb9a8559573c8fc293d1fbf70f",
+      "title": "A Lebanese seafarer caught in a double-whammy amid the West Asia war",
+      "link": "https://www.thehindu.com/news/international/a-lebanese-seafarer-caught-in-a-double-whammy-amid-the-west-asia-war/article70834876.ece",
+      "summary": "Hundreds of merchant ships are stuck in the Gulf unable to move up or down the Strait of Hormuz",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:12:46 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f8372d601f621eb1ce66242d51fdcb4d",
+      "title": "Kerala Assembly Elections 2026: Arrest of Mukundan’s office assistant sparks political flashpoint in Nattika",
+      "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-assembly-elections-2026-arrest-of-mukundans-office-assistant-sparks-political-flashpoint-in-nattika/article70835136.ece",
+      "summary": "The NDA candidate alleges “conspiracy” by LDF and police; arrest follows a complaint filed by the LDF election committee against alleged cyber attacks and caste-based abuse targeting its candidate Geetha Gopi",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:12:18 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cb3708d1d81ddb62e7e956361f3ac93e",
+      "title": "Legal awareness key to curb workplace harassment: Info Commissioner",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/legal-awareness-key-to-curb-workplace-harassment-info-commissioner/article70833915.ece",
+      "summary": "Sudha Rani stresses zero tolerance, effective implementation of POSH Act at DSNLU meet",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:09:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f31e736485d035a6a6f45ad0c55b3341",
+      "title": "Continued West Asia crisis deepens stress on manufacturing sector",
+      "link": "https://www.thehindu.com/news/national/karnataka/continued-west-asia-crisis-deepens-stress-on-manufacturing-sector/article70831327.ece",
+      "summary": "The impact is most pronounced in MSMEs, which contribute nearly 30% to India’s GDP and some 45% of manufacturing output",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:05:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8a8478816b412c3180793185a1ff8fd0",
+      "title": "India, Bangladesh share ‘warm and historic ties’: MEA",
+      "link": "https://www.thehindu.com/news/national/india-bangladesh-share-warm-and-historic-ties-mea/article70835496.ece",
+      "summary": "Bangladesh Foreign Minister Khalilur Rahman arrives in India, ending 17-month-long cold phase in bilateral ties between the neighbouring countries",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:02:25 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9342e98151c05f183abfe8648579690d",
+      "title": "On India’s updated climate pledges",
+      "link": "https://www.thehindu.com/specials/text-and-context/on-indias-updated-climate-pledges/article70835668.ece",
+      "summary": "India’s announcement of its revised Nationally Determined Contributions (NDCs) to the Paris Agreement prompts scrutiny of its existing climate mitigation actions and the need to factor in the country’s developmental costs alongside those of meeting its climate commitments",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:01:36 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "610d1f1f746e9b74e4fb03cfdb1bb79d",
+      "title": "After 33 years in Bastar forests, senior Maoist leader lays down arms, chooses Constitution",
+      "link": "https://www.thehindu.com/news/national/after-33-years-in-bastar-forests-senior-maoist-leader-lays-down-arms-chooses-constitution/article70835035.ece",
+      "summary": "Known in police records as Papa Rao, he carried ₹25 lakh bounty and allegedly involved in several attacks on security forces and civilians in Bijapur region.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:01:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "71f9886c584dd593eed94a9089fa8dd1",
+      "title": "सुलतानपुर रोड से जुड़ेगा ग्रीन कॉरिडोर, बनेगी 4 लेन की सड़क, लखनऊ में 10 लाख की आबादी को लाभ",
+      "link": "https://www.livehindustan.com/uttar-pradesh/green-corridor-will-connect-sultanpur-road-a-four-lane-road-that-will-benefit-a-population-of-1-million-in-lucknow-201775582218032.html",
+      "summary": "यूपी की राजधानी लखनऊ में सुलतानपुर रोड से ग्रीन कॉरिडोर जुड़ेगा। इसके लिए सेना की भूमि से लेकर मरी माता मंदिर तक 4 लेन की सड़क बनाई जाएगी। लगभग 10 लाख की आबादी को सीधा लाभ मिलेगा।",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:57:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "01541c30adb0a3c5234f0f5050068e08",
+      "title": "Iran urges youth to form human chains to protect power plants",
+      "link": "https://www.thehindu.com/news/international/iran-urges-youth-to-form-human-chains-to-protect-power-plants/article70835710.ece",
+      "summary": "The paramilitary Revolutionary Guard warned that Iran would “deprive the U.S. and its allies of the region’s oil and gas for years”",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:56:38 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7798b39bff337399b7d05aa95de35f27",
+      "title": "Gold smuggling racket busted at KIA, 5 arrested",
+      "link": "https://www.thehindu.com/news/national/karnataka/gold-smuggling-racket-busted-at-kia-5-arrested/article70835535.ece",
+      "summary": "",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:51:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "66367ba57a53c535df13047f9b258409",
+      "title": "Adani moves U.S. court seeking dismissal of SEC fraud case, says lawsuit lacks jurisdiction",
+      "link": "https://www.thehindu.com/news/international/adani-moves-us-court-seeking-dismissal-of-sec-fraud-case-says-lawsuit-lacks-jurisdiction/article70835662.ece",
+      "summary": "The Adanis argued that the court lacks personal jurisdiction, saying neither had sufficient contacts with the U.S. or direct involvement in the bond offering",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:51:14 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "819da0023f8d317f51df94e234d2f83d",
+      "title": "Sri Lanka announces ‘relief package’ to help citizens cope with West Asian crisis",
+      "link": "https://www.thehindu.com/news/international/sri-lanka-introduces-fuel-subsidies-for-economic-relief-amid-west-asia-war/article70833541.ece",
+      "summary": "Sri Lanka is in talks with Russia and China to augment supplies in the coming months",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:50:17 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a3d170fe025ec644fce256ef775224b1",
+      "title": "केजीएमयू के डॉक्टरों से मारपीट में नया अपडेट, मेरठ विश्वविद्यालय के पूर्व छात्रसंघ अध्यक्ष समेत 15 पर केस",
+      "link": "https://www.livehindustan.com/uttar-pradesh/new-update-in-assault-on-kgmu-doctors-case-filed-against-15-including-former-meerut-university-student-union-president-201775581923529.html",
+      "summary": "मुकदमा चौक कोतवाली में केजीएमयू प्रवक्ता डॉ.केके सिंह की तहरीर पर दर्ज किया गया है। आरोप है कि छात्र नेता ने समर्थकों के साथ डॉक्टरों और कर्मचारियों से मारपीट करने के साथ ही परिसर में जमकर हंगामा किया था। हूटर लगी गाड़ियां पूरे परिसर में घुमाई थी। इससे मरीजों को काफी दिक्कतों का सामना करना पड़ा।",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:50:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "1b3bfdacf2b58047b3ef354ae7bd14e2",
+      "title": "Rapid test for antimicrobial resistance in infections launched in Guntur",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/rapid-test-for-antimicrobial-resistance-in-infections-launched-in-guntur/article70833798.ece",
+      "summary": "Ipseity Diagnostics launches a rapid AMR PCR panel in Guntur, enabling swift detection of drug resistance in infections",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:49:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f055f87d3ab8885d1e99f24abbe4b8ce",
+      "title": "Trinamool plans Mamata's nomination filing in Bhabanipur on April 7 as pluralist show to counter BJP",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/trinamool-plans-mamatas-nomination-filing-in-bhabanipur-on-april-7-as-pluralist-show-to-counter-bjp/article70835658.ece",
+      "summary": "Political parties often describe Bhabanipur as a \"mini India\"; Bengali middle-class neighbourhoods coexist with large Marwari, Gujarati, Punjabi, Sikh and Jain populations, alongside a sizeable Muslim electorate",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:44:49 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "357a67998ddd70b2e24f5747514dd68d",
+      "title": "SAAP plans ₹53 crore indoor stadium in Rajamahendravaram",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/saap-plans-53-crore-indoor-stadium-in-rajamahendravaram/article70834172.ece",
+      "summary": "Water sports infrastructure to be developed in the city, says SAAP Chairman; Rajamahendravaram to host International Dragon Boat League (IDBL) 2026 with 12,000 athletes from 25 countries",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:43:42 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ccc34744c891adbb506e35b54a7c6005",
+      "title": "SRM to set up tech and research park by 2027, along the lines of the IIT Madras research park",
+      "link": "https://www.thehindu.com/news/cities/chennai/srm-to-set-up-tech-and-research-park-by-2027-along-the-lines-of-the-iit-madras-research-park/article70834366.ece",
+      "summary": "At The Hindu Deep Tech Summit 2026, SRMIST’s entrepreneurship director says right tech ecosystem is critical to convert research into spin-offs; says rural tech incubator will aid start-ups in smaller towns",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:42:52 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f62f7f0207c46e853dcc07b27f601ed0",
+      "title": "Four arrested in Balapur murder case",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/four-arrested-in-balapur-murder-case/article70835202.ece",
+      "summary": "",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:35:16 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7c74701dd2d42f0f91ae721e6c761a77",
+      "title": "LeT module busted, 5, including 2 Pakistani terrorists, held by J&K Police",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-kashmir-police-bust-interstate-lashkar-e-taiba-racket/article70833251.ece",
+      "summary": "Sources say a wanted Pakistani terrorist, earlier operating in Kashmir, may have managed to flee India with the help of local conduits in Rajasthan.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:33:45 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cbf8b7653cb4b2363e49d84d853fc7eb",
+      "title": "किडनी कांड में डॉक्टर अफजल का कारखास भी गिरफ्तार, पास से मिला 10 लाख कैश",
+      "link": "https://www.livehindustan.com/uttar-pradesh/doctor-afzal-s-associate-arrested-in-kidney-scandal-rs-10-lakh-cash-recovered-from-his-possession-201775580779926.html",
+      "summary": "परवेज वकीलों के संपर्क में था और मुकदमे से बचने और जमानत लेने के प्रयास में जुटा था। उसके पास से 10 लाख रुपये भी बरामद हुए हैं। पूछताछ में उसने बताया कि ये वही रुपये हैं जो मुजफ्फरनगर की पारुल तोमर के ऑपरेशन के बाद मिले थे। डॉ. अफजल को 22 लाख रुपये मिले थे। उसमें से 10 लाख रुपये उसे दिए थे।",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:32:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a576a4c376985db3f3f43da9d9a0b329",
+      "title": "DRDO seeks faster development of materials to keep pace with defence tech cycles",
+      "link": "https://www.thehindu.com/news/national/drdo-seeks-faster-development-of-materials-to-keep-pace-with-defence-tech-cycles/article70835159.ece",
+      "summary": "Unless material development keeps pace, integrating new materials into systems will become increasingly challenging, the DRDO chief said",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:30:41 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f01b37964a8fe6432c912eef1678b2da",
       "title": "NCERT reconstitutes textbook committee after Supreme Court rap",
       "link": "https://www.thehindu.com/news/national/ncert-reconstitutes-textbook-committee-after-supreme-court-rap/article70834975.ece",
       "summary": "The court had taken up suo motu cognisance of Class 8 social science textbook which discussed a section on “corruption in the judiciary,” and later imposed a ban on use of physical or online copies of the said textbook",
       "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 22:09:16 +0530",
+      "timestamp": "Tue, 07 Apr 2026 22:30:06 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "76cc6a145c2467ff468681198e95d09e",
+      "title": "Women cannot be seen as ‘untouchables’ for three days a month: Justice Nagarathna in Sabarimala case",
+      "link": "https://www.thehindu.com/news/national/women-cannot-be-seen-as-untouchables-for-three-days-a-month-justice-nagarathna-in-sabarimala-case/article70835452.ece",
+      "summary": "Centre objects to 2018 ruling drawing parallels between the Sabarimala bar on menstruating women and the practice of untouchability; S-G claims India is not as patriarchal or gender-stereotyped as the West understands",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:27:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6b5da76aacbb1367b8052f9cf1f744f6",
+      "title": "Delhi HC quashes FSSAI regulation on animal feed, BIS certification",
+      "link": "https://www.thehindu.com/news/national/delhi-hc-quashes-fssai-regulation-on-animal-feed-bis-certification/article70834954.ece",
+      "summary": "Food safety Act of 2006 covers only food for human consumption, says Bench",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:24:42 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "649e4d42b22ef74a2aa986d14456a57d",
+      "title": "2026 Tamil Nadu Assembly polls: What have parties promised its voters?",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-2026-polls-what-havepartiespromised-its-voters/article70834722.ece",
+      "summary": "Jobs, women and freebies are on top of the Dravidian parties’ manifestos, TVK focuses on education",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:24:41 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "004a803d95494620c0602acf59e29d94",
+      "title": "Assam Assembly election 2026: Bitter, high-voltage campaign ends",
+      "link": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-2026-curtains-down-on-high-voltage-campaign/article70834669.ece",
+      "summary": "Political parties and their candidates make last-ditch efforts to convince voters with a flurry of road shows, rallies, and public meetings across the State",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:21:06 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "771f9bf7d860ea0a0cb7561e1672eea3",
+      "title": "After Himanta’s wife files FIR, Assam police arrive in Delhi to question Pawan Khera",
+      "link": "https://www.thehindu.com/news/national/assam/assam-police-at-congress-leader-pawan-kheras-residence-in-delhi/article70833431.ece",
+      "summary": "Riniki Bhuyan Sharma, an entrepreneur and wife of the Assam CM, accuses Congress leader of using forged document to malign her; Congress calls it a “witch hunt” for asking questions in public interest",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:17:25 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "363d17bdf3e40de78c7c8634d9f42831",
+      "title": "War, waivers, trade pact likely to be on Misri’s U.S. agenda",
+      "link": "https://www.thehindu.com/news/national/fs-vikram-misri-to-visit-washington-dc-from-april-8/article70833070.ece",
+      "summary": "Foreign Secretary to begin three-day visit from April 8",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:14:17 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -22656,19 +23059,6 @@
       "timestamp": "Tue, 07 Apr 2026 21:59:15 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "771f9bf7d860ea0a0cb7561e1672eea3",
-      "title": "After Himanta’s wife files FIR, Assam police arrive in Delhi to question Pawan Khera",
-      "link": "https://www.thehindu.com/news/national/assam/assam-police-at-congress-leader-pawan-kheras-residence-in-delhi/article70833431.ece",
-      "summary": "Riniki Bhuyan Sharma, an entrepreneur and wife of the Assam CM, accuses Congress leader of using forged document to malign her; Congress calls it a “witch hunt” for asking questions in public interest",
-      "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 21:55:30 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -22778,19 +23168,6 @@
       "lang": "en"
     },
     {
-      "id": "5334bec50a7869d302ba8b58d5f89ddd",
-      "title": "Iran-Israel war LIVE: India issues urgent 'stay wherever you are' advisory for its citizens in Iran",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-us-donald-trump-strait-of-hormuz-live-updates-on-april-7-2026/article70832715.ece",
-      "summary": "A whole civilisation will die tonight, never to be brought back again, says Trump on TruthSocial; U.S. strikes military targets on Iran's Kharg Island, says U.S. official",
-      "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 21:42:30 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "a60201dbbec2d904c1cf99e04903f6e4",
       "title": "Assam tribal body calls for poll boycott of BJP",
       "link": "https://www.thehindu.com/elections/assam-assembly/assam-tribal-body-calls-for-poll-boycott-of-bjp/article70835104.ece",
@@ -22840,6 +23217,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "230ba9018bc2c35490fcb28a24ed5962",
+      "title": "सड़क सुरक्षा में बड़ी कामयाबी, यूपी में ‘जीरो फैटेलिटी डिस्ट्रिक्ट’ योजना से सड़क हादसों और मौतों में आई भारी गिरावट",
+      "link": "https://www.patrika.com/lucknow-news/up-road-safety-zero-fatality-district-scheme-dgp-rajiv-krishna-accident-report-20483475",
+      "summary": "लखनऊ : उत्तर प्रदेश के पुलिस महानिदेशक (डीजीपी) राजीव कृष्णा ने बताया कि सड़क दुर्घटनाओं पर अंकुश लगाने के लिए लागू ‘जीरो फैटेलिटी डिस्ट्रिक्ट’ (जेएफडी) योजना के सकारात्मक नतीजे सामने आए हैं। प्रदेश में इस पहल के चलते हादसों, मृतकों और घायलों की संख्या में उल्लेखनीय गिरावट दर्ज की गई है।",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 21:34:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -23532,6 +23922,19 @@
       "lang": "en"
     },
     {
+      "id": "a2ce4cb4990bf93bc3cf0ab03d982f49",
+      "title": "संजय निषाद का बड़ा बयान, विधानसभा चुनाव के बाद होंगे पंचायत चुनाव, अटकलों पर लगाया विराम",
+      "link": "https://www.patrika.com/lucknow-news/up-panchayat-election-2026-delay-sanjay-nishad-statement-after-2027-assembly-election-20483225",
+      "summary": "लखनऊ: उत्तर प्रदेश में त्रिस्तरीय पंचायत चुनाव 2026 को लेकर लंबे समय से चल रही अटकलें अब तेज हो गई हैं। कैबिनेट मंत्री और निषाद पार्टी अध्यक्ष डॉ. संजय निषाद ने स्पष्ट बयान देकर कहा कि पंचायत चुनाव विधानसभा चुनाव 2027 के बाद ही होंगे।",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 20:11:51 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "b69ce9eedd3b59b6f6ddd42bd076b25a",
       "title": "Telangana Govt to examine scope for levy of entertainment tax by local bodies",
       "link": "https://www.thehindu.com/news/national/telangana/telangana-govt-to-examine-scope-for-levy-of-entertainment-tax-by-local-bodies/article70833522.ece",
@@ -23974,19 +24377,6 @@
       "lang": "en"
     },
     {
-      "id": "004a803d95494620c0602acf59e29d94",
-      "title": "Assam Assembly election 2026: Curtains down on high-voltage campaign",
-      "link": "https://www.thehindu.com/elections/assam-assembly/assam-assembly-election-2026-curtains-down-on-high-voltage-campaign/article70834669.ece",
-      "summary": "Chief Minister Himanta Biswa Sarma upped the ante by directly attacking Bengali-speaking Muslims of immigrant origin, derogatorily called the 'Miyas",
-      "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 19:31:21 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e1a2b5e3e2d1fd733bf9dd5168e898ac",
       "title": "4 dead in fresh Manipur violence",
       "link": "https://www.thehindu.com/news/national/manipur/2-children-killed-in-bomb-attack-in-manipur/article70832734.ece",
@@ -24065,6 +24455,19 @@
       "lang": "en"
     },
     {
+      "id": "b135138c1618a8ae2d6e320299baaea1",
+      "title": "बुरे दिन जाने वाले हैं! अखिलेश बोले- सपा सरकार से अभी भी 22 हजार कम है शिक्षामित्रों का वेतन",
+      "link": "https://www.patrika.com/lucknow-news/up-shikshamitra-supreme-court-case-history-regularization-news-2026-20483201",
+      "summary": "लखनऊ : योगी सरकार ने 1.70 लाख शिक्षामित्रों और 24 हजार अनुदेशकों के वेतनमान में बढ़ोत्तरी की है। अब इस महीने से शिक्षामित्रों को 18,000 रुपये और 24 हजार अनुदेशकों को 17,000 रुपये प्रतिमाह वेतन मिलेगा। अब इस मामले पर अखिलेश यादव ने निशाना साधा है। अखिलेश यादव ने X पर पोस्ट करते हुए लिख कर भाजपा पर तीखा हमला बोला है।",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 19:26:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "0542b14b93c3c654b6ec49ae03a0444f",
       "title": "KDA to recommend minor State languages as third-language option in schools",
       "link": "https://www.thehindu.com/news/national/karnataka/kda-to-recommend-minor-state-languages-as-third-language-option-in-schools/article70830924.ece",
@@ -24117,6 +24520,19 @@
       "lang": "en"
     },
     {
+      "id": "2af95243fdaf24f5bea1ed1a05dabf22",
+      "title": "अमान्य स्कूलों और अवैध कोचिंग सेंटर्स वालों की अब खैर नहीं! शुरू हो रहा विशेष अभियान, गिरेगी गाज",
+      "link": "https://www.patrika.com/lucknow-news/strict-action-against-invalid-schools-and-illegal-coaching-institutes-special-campaign-will-starts-up-20483092",
+      "summary": "Strict Action Against Invalid Schools: उत्तर प्रदेश माध्यमिक शिक्षा परिषद ने बिना मान्यता संचालित विद्यालयों और नियम विरुद्ध चल रही निजी कोचिंग गतिविधियों के खिलाफ कड़ा रुख अपनाते हुए प्रदेशव्यापी अभियान चलाने के निर्देश जारी किए हैं।",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 19:17:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "310ac2236eed0e972e57728ae09cfbef",
       "title": "जालसालों के जाल में फंस गए 5 एस्पिरेंट, सचिवालय की नौकरी के चक्कर में गंवाए 60 लाख",
       "link": "https://www.livehindustan.com/uttar-pradesh/five-aspirants-fell-prey-to-fraudsters-and-lost-rs-60-lakh-in-pursuit-of-secretariat-jobs-201775567498321.html",
@@ -24153,32 +24569,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "1b3bfdacf2b58047b3ef354ae7bd14e2",
-      "title": "Rapid test for antimicrobial resistance in infections launched in Guntur",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/rapid-test-for-antimicrobial-resistance-in-infections-launched-in-guntur/article70833798.ece",
-      "summary": "Ipseity Diagnostics launches a rapid AMR PCR panel in Guntur, enabling swift detection of drug resistance in infections",
-      "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 18:31:31 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "357a67998ddd70b2e24f5747514dd68d",
-      "title": "SAAP plans ₹53 crore indoor stadium in Rajamahendravaram",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/saap-plans-53-crore-indoor-stadium-in-rajamahendravaram/article70834172.ece",
-      "summary": "Water sports infrastructure to be developed in the city, says SAAP Chairman; Rajamahendravaram to host International Dragon Boat League (IDBL) 2026 with 12,000 athletes from 25 countries",
-      "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 18:28:16 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -24364,6 +24754,19 @@
       "lang": "en"
     },
     {
+      "id": "f329c9f371b01fc5abbdb36cc494a1aa",
+      "title": "Why JD Vance joined Pakistan’s last-ditch US-Iran mediation efforts",
+      "link": "https://www.aljazeera.com/news/2026/4/7/why-jd-vance-joined-pakistans-last-ditch-us-iran-mediation-efforts?traffic_source=rss",
+      "summary": "Backchannel talks gain pace as Pakistan mediates and Iran seeks indirect engagement through US vice president.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 17:32:05 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7e1cb855a5c1583e88110ff35ab82c1e",
       "title": "Govt. extends halt on TV news TRP by four weeks",
       "link": "https://www.thehindu.com/news/national/govt-extends-halt-on-tv-news-trp-by-four-weeks/article70833939.ece",
@@ -24429,6 +24832,19 @@
       "lang": "en"
     },
     {
+      "id": "37939aff17ff4cef6d1055ec9c07ed51",
+      "title": "WHO halts Gaza medical evacuations after worker killed",
+      "link": "https://www.aljazeera.com/news/2026/4/7/who-halts-gaza-medical-evacuations-after-worker-killed?traffic_source=rss",
+      "summary": "Evacuations will remain suspended until further notice, WHO says, adding that the incident is under investigation.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 17:19:53 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4ba2ec4863fab33336d1937cdd8ab471",
       "title": "How Nepal Prime Minister Balendra Shah’s music became a political movement",
       "link": "https://www.thehindu.com/entertainment/music/how-nepal-prime-minister-balendra-shahs-music-became-a-political-movement/article70833423.ece",
@@ -24481,6 +24897,19 @@
       "lang": "en"
     },
     {
+      "id": "272f9815aba959a61228018555b6c7af",
+      "title": "Top university says US-Israel attack targeted Iran’s progress, AI learning",
+      "link": "https://www.aljazeera.com/news/2026/4/7/top-university-says-us-israel-attack-targeted-irans-progress-ai-learning?traffic_source=rss",
+      "summary": "Iran condemns systematic attacks on civilian sites, including academic hubs, as war devastates critical infrastructure.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 17:03:21 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "df13d49bdfe6872f1b57c2d215115676",
       "title": "यूपी के इस जिले में पांचवीं यूनिवर्सिटी का रास्ता साफ, योगी कैबिनेट ने दी मंजूरी; जानें डिटेल",
       "link": "https://www.livehindustan.com/uttar-pradesh/yogi-cabinet-clears-the-way-for-forestry-and-horticulture-university-in-gorakhpur-know-in-detail-201775560877820.html",
@@ -24491,6 +24920,32 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5dcc26e1c7cd422c46c8f298559d5f10",
+      "title": "US denies nuclear plan as deadline on threat to Iran ‘civilisation’ looms",
+      "link": "https://www.aljazeera.com/news/2026/4/7/us-denies-nuclear-plan-as-deadline-on-threat-to-iran-civilisation-looms?traffic_source=rss",
+      "summary": "Trump's threat to kill 'whole civilization' and comments from VP have raised fears.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 17:02:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4fabed752bdfd3fea80a02783ef52f1b",
+      "title": "Netanyahu: Israel shifting ‘balance of power’ with Iran strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/netanyahu-israel-shifting-balance-of-power-with-iran-strikes?traffic_source=rss",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu says Israel is intensifying strikes on Iran.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 16:56:56 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -24595,6 +25050,32 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "546b93798d3c5234b17b977a76a8e6a3",
+      "title": "Russia confirms 16 Cameroonian soldiers killed in Ukraine war",
+      "link": "https://www.aljazeera.com/news/2026/4/7/russia-confirms-16-cameroonian-soldiers-killed-in-ukraine-war?traffic_source=rss",
+      "summary": "No information has been provided specifying how the soldiers ended up fighting for Russia.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 16:40:17 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bc1e0683c37cd21660c79d6321be0fbb",
+      "title": "Fire erupts near industrial site in Saudi Arabia after Iranian strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/7/fire-erupts-near-industrial-site-in-saudi-arabia-after-iranian-strikes?traffic_source=rss",
+      "summary": "A suspected Iranian missile attack sparked a huge fire near an industrial complex in Saudi Arabia.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 16:36:57 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -24744,7 +25225,7 @@
       "id": "cf95810ba17f607823c0b39e08c9274b",
       "title": "LIVE: Real Madrid vs Bayern Munich – Champions League quarterfinal",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/4/7/live-real-madrid-vs-bayern-munich-champions-league-quarterfinal?traffic_source=rss",
-      "summary": "Follow the build-up, analysis and live text commentary of the game as Madrid host Bayern for their first leg clash.",
+      "summary": "Follow the build-up, analysis and live text commentary of the game as Madrid host Bayern for their first-leg clash.",
       "date": "2026-04-07",
       "timestamp": "Tue, 07 Apr 2026 16:00:00 +0000",
       "section": "International",
@@ -25222,19 +25703,6 @@
       "lang": "en"
     },
     {
-      "id": "819da0023f8d317f51df94e234d2f83d",
-      "title": "Sri Lanka introduces fuel subsidies for economic relief amid West Asia war",
-      "link": "https://www.thehindu.com/news/international/sri-lanka-introduces-fuel-subsidies-for-economic-relief-amid-west-asia-war/article70833541.ece",
-      "summary": "President Dissanayake said PM Modi agreed to provide the island country with petrol and diesel; talks have commenced with Russia to obtain gas, coal, fuel and fertiliser",
-      "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 14:15:41 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "5172f7aa68547e46ededbb1ea4eaba62",
       "title": "Mum of twins who says home was bombed in Lebanon speaks to BBC",
       "link": "https://www.bbc.com/news/videos/c5yx8my3724o?at_medium=RSS&at_campaign=rss",
@@ -25464,19 +25932,6 @@
       "timestamp": "Tue, 07 Apr 2026 13:48:14 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7c74701dd2d42f0f91ae721e6c761a77",
-      "title": "J&K Police bust inter-State Lashkar-e-Taiba racket; terror leader on run for 16 years among five nabbed",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jammu-kashmir-police-bust-interstate-lashkar-e-taiba-racket/article70833251.ece",
-      "summary": "Investigators searched 19 locations, including in Jammu and Kashmir, Rajasthan and Haryana, and recovered incriminating material",
-      "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 13:47:37 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -26288,19 +26743,6 @@
       "lang": "en"
     },
     {
-      "id": "363d17bdf3e40de78c7c8634d9f42831",
-      "title": "Foreign Secretary Vikram Misri to visit Washington DC from April 8 to review ‘full spectrum’ of ties",
-      "link": "https://www.thehindu.com/news/national/fs-vikram-misri-to-visit-washington-dc-from-april-8/article70833070.ece",
-      "summary": "India and U.S. are likely to deliberate on moving forward on the proposed bilateral trade deal during Foreign Secretary Vikram Misri’s trip",
-      "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 12:11:25 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e8d4b6321b47080d5d90dbab1f986996",
       "title": "CM Naidu to launch fire service fleet in Amaravati",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/naidu-to-launch-fire-service-fleet-in-amaravati/article70832779.ece",
@@ -26769,6 +27211,19 @@
       "lang": "en"
     },
     {
+      "id": "14daea33e18c6f1283cb5702f598c801",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 7 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-07",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 11:01:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "bf9637035577451fd6920e3e93c27551",
       "title": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
       "link": "https://www.bbc.com/news/articles/ckgwkmn1rzxo?at_medium=RSS&at_campaign=rss",
@@ -26847,6 +27302,32 @@
       "lang": "hi"
     },
     {
+      "id": "4a0b93c9a9cb14736e4d126e110d8155",
+      "title": "तीन पासपोर्ट विवाद: पवन खेड़ा की बढ़ी मुश्किलें, असम पुलिस ने दर्ज किया जालसाजी और मानहानि का केस",
+      "link": "https://www.amarujala.com/india-news/assam-police-book-pawan-khera-on-multiple-charges-of-forgery-defamation-in-3-passport-row-2026-04-07",
+      "summary": "तीन पासपोर्ट विवाद: पवन खेड़ा की बढ़ी मुश्किलें, असम पुलिस ने दर्ज किया जालसाजी और मानहानि का केस Assam Police book Pawan Khera on multiple charges of forgery, defamation in 3 Passport row",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 10:48:25 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b4e8c41186eafdd5e0ac05fdcdfaf6e4",
+      "title": "यूपी: पेट्रोल-डीजल और सिलिंडर की कालाबाजारी पर सरकार सख्त, अब तक 23 हजार से ज्यादा छापे; 238 FIR",
+      "link": "https://www.amarujala.com/lucknow/up-government-cracks-down-on-black-marketing-of-petrol-diesel-and-cylinders-over-23-000-raids-conducted-2-2026-04-07",
+      "summary": "Gas cylinders: यूपी में पेट्रोल-डीजल के साथ गैस सिलिंडर की कालाबाजारी रोकने के लिए सरकार सख्त है। इस मामले में लगातार छापेमारी की जा रही है।",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 10:47:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "442a35717b6d9412a770c5ce9ecf1411",
       "title": "UP: बिजली उपभोक्ताओं को मिलेगा त्वरित समाधान, मध्यांचल निगम मुख्यालय में खुलेगा कंट्रोल रूम",
       "link": "https://www.amarujala.com/lucknow/up-electricity-consumers-will-get-quick-solution-control-room-will-open-in-madhyanchal-corporation-headquart-2026-04-07",
@@ -26873,6 +27354,19 @@
       "lang": "en"
     },
     {
+      "id": "20e5fbf9574db50f6ff929b6e56fc4ff",
+      "title": "Noida News: कम लागत में ज्यादा कमाई दे रहे इलेक्ट्रिक ऑटो व रिक्शा",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/electric-autos-and-rickshaws-are-giving-more-income-at-low-cost-noida-news-c-1-noi1095-4137724-2026-04-07",
+      "summary": "Electric autos and rickshaws are giving more income at low cost",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 10:46:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "f12b1fedf65ebd0bf84e014902b360b2",
       "title": "Pinarayi Vijayan’s political career timeline",
       "link": "https://www.thehindu.com/elections/kerala-assembly/pinarayi-vijayan-political-career-timeline-kerala-assembly-elections-2026/article70772339.ece",
@@ -26884,6 +27378,19 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "c76617e0e62b0bb08242d1cdb7623cad",
+      "title": "TRAI का नया प्रस्ताव: कंपनियों को देना होगा वॉयस-एसएमएस का अलग प्लान, 28 अप्रैल तक मांगे गए सुझाव",
+      "link": "https://www.amarujala.com/india-news/trai-proposes-mobile-plans-at-lower-prices-offering-only-call-sms-services-2026-04-07",
+      "summary": "TRAI का नया प्रस्ताव: कंपनियों को देना होगा वॉयस-एसएमएस का अलग प्लान, 28 अप्रैल तक मांगे गए सुझाव",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 10:43:55 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "4a52c21d50754927649e8d42ace923e0",
@@ -26926,9 +27433,9 @@
     },
     {
       "id": "f543cd270db2962e1eaad5bb73d47388",
-      "title": "UP Top News Today: बुलंदशहर में मंदिर के बाहर रातोंरात लगा दी आंबेडकर प्रतिमा, प्रशासन ने हटवाई",
+      "title": "UP Top News Today: अयोध्या, मथुरा और सम्भल को उनका पुराना सांस्कृतिक गौरव लौटाया: योगी",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-top-news-today-cm-yogi-adityanath-cabinet-meeting-sanjay-nishad-panchayat-election-school-pairing-crime-weather-live-blog-201775537134735.html",
-      "summary": "UP Top News Today: यूपी के बुलंदशहर के गांव किला में सोमवार रात बाबा साहब डॉ. भीमराव आंबेडकर की प्रतिमा लगा दी गई। कुछ लोगों ने प्रशासनिक अधिकारियों से शिकायत की तो मौके पर पहुंचे प्रशासनिक और पुलिस अधिकारियों ने हटवाई।",
+      "summary": "UP Top News Today: मुख्यमंत्री योगी आदित्यनाथ ने मंगलवार को रहनकलां में ग्रेटर आगरा टाउनशिप समेत 6777 करोड़ रुपये की 325 विभिन्न योजनाओं का शिलान्यास और लोकार्पण किया। उन्होंने कहा कि अयोध्या, मथुरा और सम्भल को उनका पुराना सांस्कृतिक गौरव लौटाया गया है। बंटना नहीं है।",
       "date": "2026-04-07",
       "timestamp": "Tue, 07 Apr 2026 10:41:21 +0530",
       "section": "UP_Focus",
@@ -26961,6 +27468,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "3b4a32671f70faaff47311b6eab0f2e0",
+      "title": "Noida News: सेक्टर-150 में विकसित होगा सर्विलांस सिक्योरिटी सिस्टम",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/surveillance-security-system-will-be-developed-in-sector-150-noida-news-c-1-noi1095-4137798-2026-04-07",
+      "summary": "Surveillance security system will be developed in Sector-150",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 10:35:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -27003,6 +27523,19 @@
       "lang": "hi"
     },
     {
+      "id": "6a4476cb7867cf00cea2840ddc54b794",
+      "title": "Noida News: ग्रेनो वेस्ट में स्कूल, सोसाइटी में आवाजाही बनेगी सुगम, चौड़ी होंगीं सड़कें",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/fgsf-grnoida-news-c-23-1-lko1064-91759-2026-04-07",
+      "summary": "ग्रेनो वेस्ट में स्कूल, सोसाइटी में आवाजाही बनेगी सुगम, चौड़ी होंगीं सड़कें",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 10:26:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "81fd6fb7b920b4c5ed62e8156f0e5e9f",
       "title": "Kerala cyber police book social media activist in Kasaragod over alleged riot call",
       "link": "https://www.thehindu.com/elections/kerala-assembly/kerala-cyber-police-book-social-media-activist-in-kasaragod-over-alleged-riot-call/article70832857.ece",
@@ -27026,6 +27559,19 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0ced3462fae3b4f6ad627593d05afc3e",
+      "title": "Noida News: सिरिंज मामले के बीच दो अधिकारियों की तनातनी आई सामने",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/gdsfg-grnoida-news-c-1-noi1095-4138450-2026-04-07",
+      "summary": "सिरिंज मामले के बीच दो अधिकारियों की तनातनी आई सामने",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 10:23:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -27199,7 +27745,7 @@
     },
     {
       "id": "a044a05f7245b52e2b660d1f084b34e1",
-      "title": "Storm in Mathura blows away CM Yogi event tent::Gate collapses on auto in Agra, trees and poles uprooted in Hathras",
+      "title": "Storm in Mathura blows away tent for CM's event:Gate collapses on auto in Agra, trees and poles uprooted in Hathras",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/badaun-ghaziabad-rain-hail-alert-34-cities-mathura-storm-cm-tent-blown-137636402.html",
       "summary": "The spell of rain and strong winds has not stopped in Uttar Pradesh despite the heat. In Mathura, strong winds and rain hit on Tuesday afternoon, blowing away the tent set up for the Sant Malook Das birth anniversary programme. The administration quickly restored the arrangements. RSS chief Mohan Bhagwat had attended the event earlier in the morning. Heavy rain also began around 3 pm in Ghaziabad and Noida. In Badaun, strong winds were followed by heavy rainfall in the afternoon. Earlier in the day, light showers were seen at intervals in Lucknow and Meerut. The weather department has issued an alert for thunderstorms, rain and hail in 34 districts today. In some areas, winds may reach speeds of up to 60 kmph. The weather is expected to remain unsettled for the next two days, until 9 April. Due to rain and strong winds, the average temperature across the state has dropped by 4 to 5°C. In the past four days, rain has been recorded in 43 districts including Varanasi and Kanpur. Hailstorms were reported in 10 cities, including Mathura, Sambhal and Jalaun. So far, 15 people have died due to storms and lightning. Lucknow's meteorologist Atul Singh said- A new Western Disturbance is becoming active from today. There will be rain with storms across the entire state. Hail will also fall. Wind speed will reach up to 60 km. Temperature will drop by 3 to 5 degrees. Its maximum impact will be seen in Western UP tomorrow, i.e., April 8th. The weather will remain like this until April 9th. How will the weather be for the next 2 days? See today's weather pictures - How many deaths in which districts due to storm-rain, know In the last 4 days, 4 people died in Kanpur due to storm-rain and lightning. Additionally, 3 people died in Sitapur, and 2 each in Varanasi, Chitrakoot, Siddharthnagar, and Lalitpur. Damage to wheat-mustard crops due to unseasonal rain Yogi said - negligence will not be tolerated, officers should remain alert CM Yogi has said that any kind of negligence in the damage being caused to farmers due to rain will not be tolerated. He has sought damage reports from all DMs. He said - all officials should remain on alert mode. Ensure that the impact of the disaster on farmers is minimized. If there is any loss of life, property, or livestock, or if anyone is injured, compensation should be provided within 24 hours.",
       "date": "2026-04-07",
@@ -27273,19 +27819,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "14daea33e18c6f1283cb5702f598c801",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 7 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-07",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 10:00:47 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -86946,6 +87479,71 @@
       "lang": "en"
     },
     {
+      "id": "0c1403d67d2db9dbf7bfa6a2ef2a4c15",
+      "title": "'Forgot Rajbanshis after polls': Abhishek Bannerjee launches sharp attack on BJP",
+      "link": "https://timesofindia.indiatimes.com/india/forgot-rajbanshis-after-polls-abhishek-bannerjee-launches-sharp-attack-on-bjp/articleshow/130093509.cms",
+      "summary": "",
+      "date": "2026-04-07",
+      "timestamp": "2026-04-07T23:05:58+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "82cbb6dac8f28f6b87dbd4d81e014b6c",
+      "title": "Curtains down on campaigning, it’s over to voters in Assam, Kerala and Puducherry",
+      "link": "https://timesofindia.indiatimes.com/india/curtains-down-on-campaigning-its-over-to-voters-in-assam-kerala-and-puducherry/articleshow/130092858.cms",
+      "summary": "",
+      "date": "2026-04-07",
+      "timestamp": "2026-04-07T23:04:25+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "469a13abc0fef941e16c4fc21a11abb6",
+      "title": "Two free cylinders, e‑scooters, scholarships: JP Nadda unveils BJP’s Puducherry poll promises",
+      "link": "https://timesofindia.indiatimes.com/india/two-free-cylinders-escooters-scholarships-jp-nadda-unveils-bjps-puducherry-poll-promises/articleshow/130092776.cms",
+      "summary": "",
+      "date": "2026-04-07",
+      "timestamp": "2026-04-07T22:45:10+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f204355278e38a51f59c334779503248",
+      "title": "Marjorie Taylor Greene, Ro Khanna, Schumer call for 25th amendment to remove Trump: 'Not a single bomb has...'",
+      "link": "https://timesofindia.indiatimes.com/world/us/marjorie-taylor-greene-ro-khanna-schumer-call-for-25th-amendment-to-remove-trump-not-a-single-bomb-has-/articleshow/130092387.cms",
+      "summary": "",
+      "date": "2026-04-07",
+      "timestamp": "2026-04-07T22:21:43+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "17f22990ad545e5b962489cd83294b02",
+      "title": "German-Indian 'guru' kept children aged 7 and 11 as guards, portrayed self as spiritual teacher",
+      "link": "https://timesofindia.indiatimes.com/world/europe/german-indian-guru-kept-children-aged-7-and-11-as-guards-portrayed-self-as-spiritual-teacher-arrested-in-italy/articleshow/130090995.cms",
+      "summary": "",
+      "date": "2026-04-07",
+      "timestamp": "2026-04-07T22:08:15+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4a9849a1358b3eb426e1012d6a64a742",
       "title": "Russia, China veto UN resolution to reopen Strait of Hormuz",
       "link": "https://timesofindia.indiatimes.com/world/middle-east/russia-china-veto-un-resolution-to-reopen-strait-of-hormuz/articleshow/130091501.cms",
@@ -87168,7 +87766,7 @@
     },
     {
       "id": "63bbd370ee391640cacda3dfcd553b2b",
-      "title": "Manipur bomb blast: Indefinite curfew imposed in 5 valley districts; government hands over probe to NIA",
+      "title": "Manipur bomb blast: Indefinite curfew imposed in 4 valley districts; government hands over probe to NIA",
       "link": "https://timesofindia.indiatimes.com/india/manipur-bomb-blast-indefinite-curfew-imposed-in-5-valley-districts-government-hands-over-probe-to-nia/articleshow/130088608.cms",
       "summary": "",
       "date": "2026-04-07",
