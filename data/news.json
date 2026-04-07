@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T22:33:21.248225+00:00",
+  "generated_at": "2026-04-07T23:32:52.692408+00:00",
   "stories": [
     {
       "id": "d1c8be56d4dbf1444b9a8100e67211f0",
@@ -20,7 +20,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-08",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-04-08",
-      "timestamp": "Wed, 08 Apr 2026 04:00:48 +0530",
+      "timestamp": "Wed, 08 Apr 2026 05:00:51 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -33,9 +33,48 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-08",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-04-08",
-      "timestamp": "Wed, 08 Apr 2026 04:00:35 +0530",
+      "timestamp": "Wed, 08 Apr 2026 04:30:12 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5334bec50a7869d302ba8b58d5f89ddd",
+      "title": "Iran-Israel war LIVE: Trump agrees to suspend attack on Iran by two weeks",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-us-donald-trump-strait-of-hormuz-live-updates-on-april-7-2026/article70832715.ece",
+      "summary": "U.S. President Donald Trump says Iran has sent 'workable' 10-point proposal",
+      "date": "2026-04-08",
+      "timestamp": "Wed, 08 Apr 2026 04:26:58 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3b92721c2ed85cb6b450068e8ca5a083",
+      "title": "Trump says he has agreed to suspend 'bombing and attack of Iran' for two weeks",
+      "link": "https://www.thehindu.com/news/international/trump-says-he-has-agreed-to-suspend-bombing-and-attack-of-iran-for-two-weeks/article70836115.ece",
+      "summary": "U.S. President Donald Trump ⁠said the U.S. has received ⁠a 10 point proposal from Iran, and “believe it is ‌a workable basis on which to negotiate”",
+      "date": "2026-04-08",
+      "timestamp": "Wed, 08 Apr 2026 04:24:25 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2d362ca07e9ba189d38e7786cc35c0de",
+      "title": "VRS: 'स्वैच्छिक सेवानिवृत्ति अधिकार, नोटिस अवधि में आवेदन रद्द नहीं तो स्वतः लागू', सुप्रीम कोर्ट का अहम फैसला",
+      "link": "https://www.amarujala.com/india-news/voluntary-retirement-rights-automatically-apply-if-application-is-not-cancelled-within-notice-period-says-sc-2026-04-08",
+      "summary": "Voluntary retirement rights automatically apply if application is not cancelled within notice period, says SC- VRS: 'स्वैच्छिक सेवानिवृत्ति अधिकार, नोटिस अवधि में आवेदन रद्द नहीं तो स्वतः लागू', सुप्रीम कोर्ट का अहम फैसला",
+      "date": "2026-04-08",
+      "timestamp": "Wed, 08 Apr 2026 04:06:30 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -54,6 +93,19 @@
       "lang": "hi"
     },
     {
+      "id": "cad3feb69116902b31ee9f700e97100e",
+      "title": "Madagascar declares state of emergency over energy situation due to Iran war",
+      "link": "https://www.thehindu.com/news/international/madagascar-declares-state-of-emergency-over-energy-situation-due-to-iran-war/article70836110.ece",
+      "summary": "Local ⁠media in Madagascar reported widespread fuel ‌shortages",
+      "date": "2026-04-08",
+      "timestamp": "Wed, 08 Apr 2026 03:45:09 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9666bc42cde34b7113fada0d915cb91e",
       "title": "Cyber Crime: तकनीकी मदद के बहाने अमेरिका और यूरोप के 250 लोगों को ठगा, क्रिप्टो में आता था पैसा; चार गिरफ्तार",
       "link": "https://www.amarujala.com/delhi-ncr/cyber-crime-250-people-in-the-us-and-europe-defrauded-under-the-pretext-of-technical-support-2026-04-08",
@@ -64,6 +116,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "7cc8c8de81543092f0c8a574ed0afe33",
+      "title": "U.S. disrupts Russian military-run DNS hijacking network, Justice Department says",
+      "link": "https://www.thehindu.com/news/international/us-disrupts-russian-military-run-dns-hijacking-network-justice-department-says/article70836108.ece",
+      "summary": "U.S. Justice Deartment said that the ‌GRU used routers ​to facilitate hijacking operations against worldwide ⁠targets, including individuals in military, government and critical ‌infrastructure sectors",
+      "date": "2026-04-08",
+      "timestamp": "Wed, 08 Apr 2026 03:14:59 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -1380,19 +1445,6 @@
       "lang": "en"
     },
     {
-      "id": "5334bec50a7869d302ba8b58d5f89ddd",
-      "title": "Iran-Israel war LIVE: Pakistan PM seeks two-week extension to Trump's deadline on Iran",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-us-donald-trump-strait-of-hormuz-live-updates-on-april-7-2026/article70832715.ece",
-      "summary": "Pakistan Prime Minister Shehbaz Sharif urged \"all warring parties\" to observe a ceasefire everywhere ⁠for two weeks \"to allow diplomacy to achieve conclusive termination of war\"",
-      "date": "2026-04-08",
-      "timestamp": "Wed, 08 Apr 2026 02:01:35 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "3297e38b97ef51c1962cc9cb56019e9e",
       "title": "Lucknow News: आंधी के साथ बेमौसम बारिश, गिरे पेड़",
       "link": "https://www.amarujala.com/lucknow/unseasonal-rain-accompanied-by-storm-trees-fell-lucknow-news-c-13-1-lko1029-1681501-2026-04-08",
@@ -1416,6 +1468,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a74dc3ca674c93ae7b54cf80c746c0ab",
+      "title": "Yogi Government: पीपीपी मॉडल पर यूपी के 49 बस स्टेशनों का कायाकल्प: एयरपोर्ट जैसी मिलेंगी आधुनिक सुविधाएं",
+      "link": "https://www.patrika.com/lucknow-news/up-to-transform-49-bus-stations-into-airport-like-hubs-under-ppp-model-20483784",
+      "summary": "Yogi Government UP Bus Station PPP Model: उत्तर प्रदेश में सार्वजनिक परिवहन व्यवस्था को आधुनिक और सुविधाजनक बनाने की दिशा में एक बड़ा कदम उठाते हुए मुख्यमंत्री योगी आदित्यनाथ की अध्यक्षता में हुई कैबिनेट बैठक में पीपीपी (सार्वजनिक-निजी सहभागिता) मॉडल पर बस स्टेशनों के विकास के द्वितीय चरण को मंजूरी दे दी गई है। इस महत्वाकांक्षी योजना के तहत प्रदेश के 49 बस स्टेशनों का कायाकल्प किया जाएगा, जिन्हें एयरपोर्ट की तर्ज पर विकसित किया जाएगा।",
+      "date": "2026-04-08",
+      "timestamp": "Wed, 08 Apr 2026 01:49:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -1454,6 +1519,19 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "5f83fc9506bfe6dd2daac9b1f1e069d5",
+      "title": "UP में ईंधन कालाबाजारी पर सख्ती: हजारों छापे, सैकड़ों एफआईआर, सरकार अलर्ट मोड में",
+      "link": "https://www.patrika.com/lucknow-news/up-cracks-down-on-fuel-black-marketing-23k-raids-238-firs-strict-monitoring-in-place-20483777",
+      "summary": "UP Cracks Down on Fuel Black Marketing: उत्तर प्रदेश में पेट्रोल, डीजल और एलपीजी की कालाबाजारी पर रोक लगाने के लिए मुख्यमंत्री योगी आदित्यनाथ के नेतृत्व में सरकार ने सख्त कदम उठाए हैं। प्रदेशभर में बड़े पैमाने पर चलाए गए अभियान के तहत 12 मार्च 2026 से अब तक 23,250 से अधिक छापेमारी और निरीक्षण किए गए हैं। इस दौरान 238 एफआईआर दर्ज की गईं और 22 लोगों को मौके से गिरफ्तार किया गया है, जबकि 249 आरोपियों के खिलाफ अभियोजन की कार्रवाई शुरू की गई है।",
+      "date": "2026-04-08",
+      "timestamp": "Wed, 08 Apr 2026 01:30:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
       "district": "Lucknow",
       "lang": "en"
     },
@@ -24624,6 +24702,19 @@
       "lang": "en"
     },
     {
+      "id": "c45e645e6161bb237ac63c6443555805",
+      "title": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
+      "link": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The ruling party has unveiled a draft law that strips voters of the chance to elect the president.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 23:15:33 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6b0951d0dd28200b8ccfd92f487742fb",
       "title": "American journalist Shelly Kittleson released, say Iraqi officials",
       "link": "https://www.thehindu.com/news/international/american-journalist-shelly-kittleson-released-say-iraqi-officials/article70835738.ece",
@@ -24793,6 +24884,19 @@
       "lang": "en"
     },
     {
+      "id": "698a2f564b9529c58f238b15b42b12ac",
+      "title": "Billionaire investor Ackman makes $64bn bid for Universal Music Group",
+      "link": "https://www.aljazeera.com/economy/2026/4/7/billionaire-investor-ackman-makes-64bn-bid-for-universal-music-group?traffic_source=rss",
+      "summary": "Universal Music, the label behind superstars Taylor Swift and Bad Bunny, is expected to list in NY from Amsterdam.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:49:12 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1b3bfdacf2b58047b3ef354ae7bd14e2",
       "title": "Rapid test for antimicrobial resistance in infections launched in Guntur",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/rapid-test-for-antimicrobial-resistance-in-infections-launched-in-guntur/article70833798.ece",
@@ -24802,6 +24906,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3c8ddddfc13785f1e149dd3c19e44e56",
+      "title": "Trump suspends Iran bombing for two weeks following dire threats",
+      "link": "https://www.aljazeera.com/news/2026/4/7/trump-suspends-iran-bombing-for-two-weeks-following-dire-threats?traffic_source=rss",
+      "summary": "The US president nevertheless warned that the suspension was dependent on Iran reopening the Strait of Hormuz.",
+      "date": "2026-04-07",
+      "timestamp": "Tue, 07 Apr 2026 22:48:53 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -89828,6 +89945,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cb67f64b990ee334a4352c3a32feb9e5",
+      "title": "Empty cylinders drive migrants back home",
+      "link": "https://timesofindia.indiatimes.com/india/empty-cylinders-drive-migrants-back-home/articleshow/130099118.cms",
+      "summary": "Soaring LPG prices are forcing migrant workers back to Bihar. Families are disembarking at Patna Junction, their journeys driven by unaffordable cooking gas in cities. Construction workers and factory hands cite exorbitant costs, with some stating two days' wages barely cover a kilogram of LPG. This exodus highlights the severe economic strain impacting livelihoods.",
+      "date": "2026-04-07",
+      "timestamp": "2026-04-08T04:38:38+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
