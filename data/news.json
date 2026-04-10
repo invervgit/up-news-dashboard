@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T22:31:50.260600+00:00",
+  "generated_at": "2026-04-10T23:30:31.654809+00:00",
   "stories": [
     {
       "id": "6e4a8f6483cb2fe819cbc5efe26ebfa6",
@@ -45086,12 +45086,38 @@
       "lang": "en"
     },
     {
+      "id": "208845b657a17742bb586ed2a5c43b5d",
+      "title": "Assembly Election: असम में एक केंद्र पर आज फिर मतदान, बंगाल के कृष्णनगर उत्तर से TMC प्रत्याशी का नामांकन रद्द",
+      "link": "https://www.amarujala.com/india-news/assembly-election-2026-tamil-nadu-assam-west-bengal-political-statements-pm-modi-news-updates-in-hindi-2026-04-11",
+      "summary": "Assembly Election: असम में एक केंद्र पर आज फिर मतदान, बंगाल के कृष्णनगर उत्तर से TMC प्रत्याशी का नामांकन रद्द",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 04:57:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "45e15a61862d292bcdf3626d59f7a54d",
+      "title": "Weather Forecast Update: उत्तर भारत में बढ़ा गर्मी का पारा, इन राज्यों के लिए बारिश‑आंधी का अलर्ट जारी!",
+      "link": "https://www.amarujala.com/video/india-news/weather-forecast-update-heat-wave-rises-in-north-india-rain-and-storm-alert-issued-for-these-states-2026-04-11",
+      "summary": "Weather Forecast Update: उत्तर भारत में बढ़ा गर्मी का पारा, इन राज्यों के लिए बारिश‑आंधी का अलर्ट जारी!",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 04:45:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "eb3bc8ae9ba29f029b1847a0bd99165b",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 11 अप्रैल के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-11",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 04:00:56 +0530",
+      "timestamp": "Sat, 11 Apr 2026 04:30:24 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -45104,12 +45130,51 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-11",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 04:00:43 +0530",
+      "timestamp": "Sat, 11 Apr 2026 04:30:12 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "a984f4a98ad0328cc5dfbb69ce6c731c",
+      "title": "Colonel Purohit: मालेगांव विस्फोट मामले में आरोपी रहे कर्नल पुरोहित पदोन्नत, ब्रिगेडियर बने",
+      "link": "https://www.amarujala.com/india-news/colonel-purohit-promoted-to-brigadier-post-in-indian-army-malegaon-blast-case-2026-04-11",
+      "summary": "colonel purohit promoted to brigadier post in indian army malegaon blast case Col. Purohit: मालेगांव विस्फोट मामले में आरोपी रहे कर्नल पुरोहित पदोन्नत, ब्रिगेडियर बने",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 04:24:34 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "76f5f348bca199e6769f0f199d6ae9f0",
+      "title": "Trump says U.S. will have Strait of Hormuz 'open fairly soon'",
+      "link": "https://www.thehindu.com/news/international/trump-says-us-will-have-strait-of-hormuz-open-fairly-soon/article70849173.ece",
+      "summary": "The ​blockade of the ‌strait by Tehran since the start of the Iran war has caused the worst disruption to global energy supplies in history",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 04:19:00 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2efcd16edb5109f1f775f955421385e9",
+      "title": "Political slugfest between Congress-BJP in Haryana over crop procurement",
+      "link": "https://www.thehindu.com/news/national/haryana/political-slugfest-between-congress-bjp-in-haryana-over-crop-procurement/article70848374.ece",
+      "summary": "Farmers, who sustain the nation through their hard work, are being treated like criminals in the grain markets. It is as if they have arrived carrying illicit goods rather than their harvested crops,” Bhupinder Singh Hooda said",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 03:46:44 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "4faba3404c6720a59b831f029ff3f9dc",
@@ -45123,6 +45188,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "a6219d6fccb6bc1f08fa04dca35f206b",
+      "title": "Iran-Israel war LIVE: Trump says Strait of Hormuz will open 'fairly soon'",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-10-2026/article70845746.ece",
+      "summary": "\"We're going to open up the gulf with or without them...or the strait as they call it. I think it's going to go pretty quickly, and if it doesn't, we'll be able to finish it off,\" U.S. President Donald Trump told reporters",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 03:21:27 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "bf4122cabd0c9900238d6e50743aa558",
@@ -46139,19 +46217,6 @@
       "lang": "en"
     },
     {
-      "id": "a6219d6fccb6bc1f08fa04dca35f206b",
-      "title": "Iran-Israel war LIVE: Iran says talks with U.S. to begin if 'preconditions are accepted', state media reports",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-10-2026/article70845746.ece",
-      "summary": "Iranian delegation led by Iran's Parliament Speaker arrives in Islamabad ahead of peace talks with U.S., reports state media",
-      "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 01:33:18 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f752be3a388f371913017bc95029661c",
       "title": "रंगमंच की सबसे बड़ी शक्ति संवेदनशीलता : राज्यपाल",
       "link": "https://www.amarujala.com/lucknow/sensitivity-is-the-greatest-strength-of-theatre-governor-lucknow-news-c-13-1-lko1028-1686335-2026-04-11",
@@ -46400,7 +46465,7 @@
     },
     {
       "id": "c167d4ccae5b5788d74fb1f6a673a20a",
-      "title": "Maharashtra: दुष्कर्म पीड़ित युवती की अस्पताल में मौत, चाचा के शारीरिक शोषण करने पर पीड़िता ने खा लिया था जहर",
+      "title": "Maharashtra: दुष्कर्म पीड़ित युवती की अस्पताल में मौत; मुंबई से सटे भाईंदर में लगी भीषण आग, तीन जिंदा जले",
       "link": "https://www.amarujala.com/india-news/maharashtra-news-updates-physical-assault-victim-died-after-consuming-poison-in-beed-2026-04-11",
       "summary": "Maharashtra: दुष्कर्म पीड़ित युवती की इलाज के दौरान मौत, चाचा के शारीरिक शोषण करने पर पीड़िता ने खा लिया था जहर maharashtra news updates physical assault victim died after consuming poison in beed",
       "date": "2026-04-11",
@@ -69045,6 +69110,19 @@
       "lang": "en"
     },
     {
+      "id": "cc595bdcd8026239a18fb43845a122bb",
+      "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss",
+      "summary": "Hezbollah fired a barrage of rockets at northern Israel, damaging a 1,500-year-old Byzantine church in Nahariya.",
+      "date": "2026-04-10",
+      "timestamp": "Fri, 10 Apr 2026 22:58:09 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7d4ddcf787948f3d94cd1ddd03534e00",
       "title": "I am enduring pain fighting the party I built brick by brick, says PMK founder",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/i-am-enduring-pain-fighting-the-party-i-built-brick-by-brick-says-pmkfounder/article70848323.ece",
@@ -69175,6 +69253,19 @@
       "lang": "en"
     },
     {
+      "id": "cec6c7d09283a11aa6150f442a151b89",
+      "title": "Lebanon and Israel officials to meet in US on Tuesday",
+      "link": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
+      "summary": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place.",
+      "date": "2026-04-10",
+      "timestamp": "Fri, 10 Apr 2026 22:43:03 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7830fb933c85f3f79bc16d35f5725c31",
       "title": "Two India-bound ships among a few transiting Hormuz Strait on Day 2 of ceasefire",
       "link": "https://www.thehindu.com/news/national/two-india-bound-ships-among-a-few-transiting-hormuz-strait-on-day-2-of-ceasefire/article70844275.ece",
@@ -69236,6 +69327,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e7455729bf6ce72aeed788b5849933e8",
+      "title": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
+      "link": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack?traffic_source=rss",
+      "summary": "Police said the suspect targeted Altman's San Francisco residence before dawn and fled the scene on foot.",
+      "date": "2026-04-10",
+      "timestamp": "Fri, 10 Apr 2026 22:29:07 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -70016,19 +70120,6 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "cec6c7d09283a11aa6150f442a151b89",
-      "title": "Lebanon and Israel officials to meet in US on Tuesday",
-      "link": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-      "summary": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place.",
-      "date": "2026-04-10",
-      "timestamp": "Fri, 10 Apr 2026 20:51:33 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -91583,6 +91674,45 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d8004e75be6d33dd9487595d0414b1a5",
+      "title": "Parties woo women voters with cash transfer promises",
+      "link": "https://timesofindia.indiatimes.com/india/parties-woo-women-voters-with-cash-transfer-promises/articleshow/130182174.cms",
+      "summary": "Political parties in Assam are vying for women's votes with competing cash-transfer promises, including increased monthly payouts and empowerment initiatives. This comes as women voters demonstrate consistently high participation, often surpassing male turnout in recent elections across Assam, Puducherry, and Kerala, influencing electoral dynamics.",
+      "date": "2026-04-10",
+      "timestamp": "2026-04-11T04:11:49+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ed75b5c26dd1c69b37328171b153b284",
+      "title": "Can't have different DA hikes for staff and pensioners: Supreme Court",
+      "link": "https://timesofindia.indiatimes.com/india/cant-have-different-da-hikes-for-staff-and-pensioners-supreme-court/articleshow/130182143.cms",
+      "summary": "The Supreme Court has ruled that differential dearness benefit increases for serving employees and pensioners are arbitrary. Inflation impacts both equally, making a 14% DA hike for serving staff and only 11% DR for retirees discriminatory. The court stated that while financial constraints can justify implementation delays, unequal benefit rates violate the right to equality.",
+      "date": "2026-04-10",
+      "timestamp": "2026-04-11T03:59:28+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "97c6469d34f149ea5ba971db4eff45d8",
+      "title": "Army promotes Col Purohit to Brigadier rank after AFT relief, acquittal in Malegaon case",
+      "link": "https://timesofindia.indiatimes.com/india/army-promotes-col-purohit-to-brigadier-rank-after-aft-relief-acquittal-in-malegaon-case/articleshow/130182125.cms",
+      "summary": "Colonel Prasad Shrikant Purohit has been promoted to Brigadier by the Indian Army following his acquittal in the Malegaon blast case. The Armed Forces Tribunal had previously halted his retirement, ordering a review of his promotion request. Purohit, arrested in 2008 and released on bail in 2017, argued that the prolonged trial unfairly impacted his career progression.",
+      "date": "2026-04-10",
+      "timestamp": "2026-04-11T03:54:36+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
