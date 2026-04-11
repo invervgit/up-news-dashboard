@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T16:30:28.549121+00:00",
+  "generated_at": "2026-04-11T17:27:02.231589+00:00",
   "stories": [
     {
       "id": "6e4a8f6483cb2fe819cbc5efe26ebfa6",
@@ -17912,19 +17912,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "a1ba4dccb26bb040a7623e3a97752a83",
-      "title": "Dhanushkodi Athithan, a Congress veteran, calls for making the party a people’s movement",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/dhanushkodi-athithan-a-congress-veteran-calls-for-making-the-party-a-peoples-movement/article70827348.ece",
-      "summary": "Dhanuskodi Athithan, a long-standing Congress leader and former Union Minister of State for Youth Affairs and Sport, wants the party to do field work and take up people’s issues. “Look at Tirunelveli and Kanniyakumari districts where the party is still strong. This is because of this approach,” he points out",
-      "date": "2026-04-07",
-      "timestamp": "Tue, 07 Apr 2026 08:59:35 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -44839,14 +44826,235 @@
       "lang": "en"
     },
     {
+      "id": "178615a1aa7936aac5561812b90e3eb9",
+      "title": "T.N. Assembly election 2026: O. Panneerselvam files nomination in Bodi; lashes out at Edappadi Palaniswam",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/o-panneerselvam-files-nomination-in-bodi-lashes-out-at-edappadi-palaniswami/article70830308.ece",
+      "summary": "AIADMK has already been facing defeat after defeat and will continue to decline; under the leadership of Chief Minister M. K. Stalin, the DMK will form the government again and implement more beneficial programmes for the people of Tamil Nadu, says OPS",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:41:26 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b992301b7970677b7b6efa9b3093665d",
+      "title": "13 killed, 30 injured in multi-vehicle collision in Bihar’s Katihar",
+      "link": "https://www.thehindu.com/news/national/bihar/many-killed-and-injured-in-multi-vehicle-collision-in-bihars-katihar/article70851777.ece",
+      "summary": "The collision involved a bus, a truck, and a pickup van; the bus driver may have lost control of the vehicle, leading to the accident, the police say",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:40:31 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "48384b44ff7d8d442593790ff64fbcfd",
+      "title": "Bengal polls 2026: Modi, Mamata spar over UCC implementation",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-polls-2026-modi-mamata-spar-over-ucc-implementation/article70851739.ece",
+      "summary": "Prime Minister Narendra Modi, Union Home Minister Amit Shah, Chief Minister Mamata Banerjee and Trinamool general secretary Abhishek Banerjee addressed multiple rallies across the State during the day.",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:39:27 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6ae6b8bef6aeb062ec319bccadc3cdac",
+      "title": "T.N. Assembly election 2026: Thirumayam constituency battles a slew of problems",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/thirumayam-constituency-battles-a-slew-of-problems/article70829770.ece",
+      "summary": "Encompassing Thirumayam, Arimalam, and Ponnamaravathy unions, the constituency continues to remain industrially backward necessitating many educated youth to move out in search of employment; farmers complain that sufficient attention has not been paid to water management in this rain-fed region",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:36:45 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6626e7b7259d35147bb69b802b1f0a7d",
+      "title": "Concerns emerge over process as Nepal PM Balendra Shah pushes ahead",
+      "link": "https://www.thehindu.com/news/international/concerns-emerge-over-process-as-nepal-pm-balendra-shah-pushes-ahead/article70851927.ece",
+      "summary": "Swift arrests and rapid policy moves, along with limited communication from the Prime Minister, raise questions over governance style and institutional balance",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:30:31 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "251ac954a45b15c6cf5dfd9dba0a46cb",
+      "title": "35-year-old man arrested after sexually assaulting five-year-old girl in Chhattisgarh’s Durg",
+      "link": "https://www.thehindu.com/news/national/chhattisgarh/35-year-old-man-arrested-after-sexually-assaulting-five-year-old-girl-in-chhattisgarhs-durg/article70851154.ece",
+      "summary": "According to the police, the accused lured the girl into his house on the pretext of giving her chocolates; girl, who was found gagged and abandoned in a sack, hospitalised and her condition is stable, say police",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:23:01 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "27058d4e771d9dfc8af4fc683a594183",
+      "title": "Candidature of R.G. Kar victim’s mother gets mixed response from public, civil society members",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/candidature-of-rg-kar-victims-mother-gets-mixed-response-from-public-civil-society-members/article70851116.ece",
+      "summary": "Ratna Debnath is the BJP candidate from Panihati; she has drawn empathy but her candidature raises concerns over the politicisation of a non-partisan justice movement for the R.G. Kar victim",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:22:17 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ed0fb9a504bd5397c8b6583f5d2ab6df",
+      "title": "आपके घर भी लगा है स्मार्ट मीटर? बिजली उपभोक्ताओं को लेकर सीएम योगी ने दे दिए निर्देश",
+      "link": "https://www.livehindustan.com/uttar-pradesh/electricity-officials-will-go-door-to-door-to-resolve-issues-related-to-smart-meters-cm-yogi-has-issued-directives-201775925634164.html",
+      "summary": "स्मार्ट बिजली मीटर को लेकर उपभोक्ताओं की शिकायतों पर योगी सरकार ने सख्त रुख अपनाया है। मुख्यमंत्री के निर्देश के बाद यूपी पावर कारपोरेशन लि. ने पूरे प्रदेश में व्यवस्था सुधारने और शिकायतों के त्वरित निस्तारण के लिए व्यापक कार्रवाई शुरू कर दी है।",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:20:58 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a1ba4dccb26bb040a7623e3a97752a83",
+      "title": "Congress veteran Dhanushkodi Athithan calls for making the party a people’s movement",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/dhanushkodi-athithan-a-congress-veteran-calls-for-making-the-party-a-peoples-movement/article70827348.ece",
+      "summary": "Dhanuskodi Athithan, a long-standing Congress leader and former Union Minister of State for Youth Affairs and Sport, wants the party to do field work and take up people’s issues. “Look at Tirunelveli and Kanniyakumari districts where the party is still strong. This is because of this approach,” he points out",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:19:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3c63f6b36b4a14fdf14d6bdc15b923b1",
+      "title": "A debate on the tenure of Election Commission-appointed police chief in Tamil Nadu",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/a-debate-on-the-tenure-of-election-commission-appointed-police-chief/article70827278.ece",
+      "summary": "However, the EC order did not specify a tenure for him. The question is whether Mr. Rathore would be entitled to a minimum two-year tenure, as mandated by the Supreme Court in the landmark Prakash Singh case. However, this ruling applies only to appointments made through the UPSC-led process",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:16:37 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7911e5da5ab5a9282a4aafe6bbf37d00",
-      "title": "Israel-Iran war LIVE updates: Trump says he has no idea' how talks will go with Iran",
+      "title": "Israel-Iran war LIVE updates: Trump says he has no idea how talks will go with Iran",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-11-2026/article70850012.ece",
       "summary": "The trilateral meeting between Iran, the U.S. and Pakistan is in progress",
       "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 21:57:17 +0530",
+      "timestamp": "Sat, 11 Apr 2026 22:16:22 +0530",
       "section": "International",
       "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3d3c11b68fc9d7018f2a5e9a97c1456c",
+      "title": "Phule left a lasting legacy of social reform and inclusion, says President Murmu",
+      "link": "https://www.thehindu.com/news/national/president-murmu-pm-modi-leaders-pay-tribute-to-mahatma-jyotirao-phule-on-200th-birth-anniversary/article70850253.ece",
+      "summary": "President Droupadi Murmu leads celebration to mark Jyotirao Phule’s 199th birth anniversary as Prime Minister Narendra Modi and Leader of Opposition in Lok Sabha Rahul Gandhi join in",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:14:55 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ed8ef330716ba99eb181cba8c2cfdc71",
+      "title": "ED raids former Trinamool Minister Partha Chatterjee’s residence",
+      "link": "https://www.thehindu.com/news/national/west-bengal/ed-team-visits-residence-of-ex-bengal-education-minister-partha-chatterjee-over-school-jobs-scam/article70850370.ece",
+      "summary": "Five months after securing bail, the former senior TMC leader has again come under the ED’s scanner with the fresh raids at his residence in south Kolkata’s Naktala area",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:06:57 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "76b6364d85522dc7104b5f245c5cb08b",
+      "title": "Torpedoing of Iranian ship a first for Indian Ocean Region, must not be repeated: Mauritius Foreign Minister",
+      "link": "https://www.thehindu.com/news/national/torpedoing-of-iranian-ship-a-first-for-indian-ocean-region-must-not-be-repeated-mauritius-foreign-minister/article70850955.ece",
+      "summary": "Mauritius Foreign Minister Dhananjay Ramful praises India for being a ‘first responder’, hopes U.S.-Iran peace talks in Pakistan end in long-term agreement",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:04:21 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "03f0420493d8149ae082c276a9ca4d84",
+      "title": "साले के घर में दबा था सोना-चांदी, जीजा ने साथियों के साथ मिलकर डाला कांड, सात लोग गिरफ्तार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gold-and-silver-were-hidden-sala-house-jija-conspired-with-accomplices-to-commit-heist-seven-arrested-201775924499855.html",
+      "summary": "मुजफ्फरनगर कोतवाली क्षेत्र के गांव पीनना में साले के घर में डकैती डालने वाले जीजा और उसके छह साथियों को पुलिस ने गिरफ्तार कर लिया है। आरोपियों ने चार अप्रैल को वारदात को अंजाम दिया था।",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:03:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a78181bb3a79c4d2ba488a7c840e410c",
+      "title": "Drug smugglers’ licence, passport, Aadhaar to be revoked: J&K L-G Manoj Sinha",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/drug-smugglers-licence-passport-aadhaar-to-be-revoked-jk-l-g-manoj-sinha/article70851704.ece",
+      "summary": "“Those who destroy society will face the full and uncompromising weight of the law,” he says",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:00:28 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "28704fcc81d735a73e9b395293fa4dba",
+      "title": "Youth Congress leader stabbed to death, six questioned so far",
+      "link": "https://www.thehindu.com/news/national/karnataka/youth-congress-leader-stabbed-to-death-six-questioned-so-far/article70850916.ece",
+      "summary": "In ghastly incident, a Youth Congress leader was stabbed to death by miscreants in his home in Dharwad on Friday night and the Hubballi Dharwad Police have questioned six suspects so far in connection with the murder.",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 22:00:12 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0b9ac6d30731c2b1c1730ddba6a4068b",
+      "title": "LPG shortage continues to hit hotel industry in Ernakulam",
+      "link": "https://www.thehindu.com/news/national/kerala/lpg-shortage-continues-to-hit-hotel-industry-in-ernakulam/article70851431.ece",
+      "summary": "",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 21:59:04 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -44860,6 +45068,19 @@
       "timestamp": "Sat, 11 Apr 2026 21:57:08 +0530",
       "section": "International",
       "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "12acaf2ba0e34ac72898ded92427c6b9",
+      "title": "The Hindu Civil Services pre-summit draws aspirants from across Malabar",
+      "link": "https://www.thehindu.com/news/national/kerala/the-hindu-civil-services-pre-summit-draws-aspirants-from-across-malabar/article70851661.ece",
+      "summary": "",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 21:55:01 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -45016,19 +45237,6 @@
       "timestamp": "Sat, 11 Apr 2026 21:32:14 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "12acaf2ba0e34ac72898ded92427c6b9",
-      "title": "The Hindu Civil Services pre-summit draws aspirants from across Malabar",
-      "link": "https://www.thehindu.com/news/national/kerala/the-hindu-civil-services-pre-summit-draws-aspirants-from-across-malabar/article70851661.ece",
-      "summary": "",
-      "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 21:27:40 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -45276,19 +45484,6 @@
       "timestamp": "Sat, 11 Apr 2026 20:59:18 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "28704fcc81d735a73e9b395293fa4dba",
-      "title": "Youth Congress leader stabbed to death, six questioned so far",
-      "link": "https://www.thehindu.com/news/national/karnataka/youth-congress-leader-stabbed-to-death-six-questioned-so-far/article70850916.ece",
-      "summary": "In ghastly incident, a Youth Congress leader was stabbed to death by miscreants in his home in Dharwad on Friday night and the Hubballi Dharwad Police have questioned six suspects so far in connection with the murder.",
-      "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 20:58:11 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -45549,19 +45744,6 @@
       "timestamp": "Sat, 11 Apr 2026 20:39:56 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "ed8ef330716ba99eb181cba8c2cfdc71",
-      "title": "ED raids former Trinamool Minister Partha Chatterjee’s residence",
-      "link": "https://www.thehindu.com/news/national/west-bengal/ed-team-visits-residence-of-ex-bengal-education-minister-partha-chatterjee-over-school-jobs-scam/article70850370.ece",
-      "summary": "Five months after securing bail, the former senior TMC leader has again come under the ED’s scanner with the fresh raids at his residence in south Kolkata’s Naktala area",
-      "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 20:38:11 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -46854,6 +47036,32 @@
       "lang": "en"
     },
     {
+      "id": "319438591c02d9f358f53f0f5fb85c30",
+      "title": "Strait of Hormuz leverage looms over US-Iran talks in Islamabad",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/strait-of-hormuz-leverage-looms-over-us-iran-talks-in-islamabad?traffic_source=rss",
+      "summary": "US and Iran hold first direct talks since 1979 in Islamabad, with progress hinging on the Strait of Hormuz.",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 17:15:05 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7188f0563b9e72bd089add2fdbd8b363",
+      "title": "Fuel tankers regain access to Irish oil refinery",
+      "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
+      "summary": "Demonstrations due to high prices caused by the US-Israeli war against Iran are affecting traffic on several roads.",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 17:09:13 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "669d34aacba3a3f40672efba5ffe8c28",
       "title": "शंकराचार्य अविमुक्तेश्वरानंद को अतकी जैसी हत्या की धमकी मामले में ऐक्शन में पुलिस, 3 दिन बाद केस दर्ज",
       "link": "https://www.livehindustan.com/uttar-pradesh/case-registered-against-shankaracharya-avimukteshwaranand-in-connection-with-murder-threats-similar-to-atiq-201775906899949.html",
@@ -47062,6 +47270,19 @@
       "lang": "en"
     },
     {
+      "id": "936d8b2bf972f2dc52ec1775e041ca6b",
+      "title": "Truck and dumper collide head-on in UP:Vehicles catch fire, people try to pull driver, 2 burnt alive",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/truck-dumper-collided-head-on-in-up-fire-broke-out-137672416.html",
+      "summary": "",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 16:30:39 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "a89dfba098fbc7e8e00d57692b78155b",
       "title": "NIA to take over terror links case from NTR Police",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/nia-to-take-over-terror-links-case-from-ntr-police/article70850632.ece",
@@ -47110,19 +47331,6 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7188f0563b9e72bd089add2fdbd8b363",
-      "title": "Fuel tankers regain access to Irish oil refinery",
-      "link": "https://www.bbc.com/news/articles/c0e7rpjqw5po?at_medium=RSS&at_campaign=rss",
-      "summary": "Demonstrations due to high prices caused by the US-Israeli war against Iran are affecting traffic on several roads.",
-      "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 15:57:26 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -47193,9 +47401,9 @@
     },
     {
       "id": "d7f8cb1f1d3c950ad89af206c14a959b",
-      "title": "Machete-wielding man shot by police in New York City Grand Central station",
+      "title": "Machete-wielding man killed by police in New York’s Grand Central station",
       "link": "https://www.aljazeera.com/news/2026/4/11/machete-wielding-man-shot-by-police-in-new-york-city-grand-central-station?traffic_source=rss",
-      "summary": "Three elderly victims were wounded at the transit hub, and the alleged attacker is in critical condition, police said.",
+      "summary": "Three elderly victims were wounded at the transit hub attack as authorities continue to investigate, police said.",
       "date": "2026-04-11",
       "timestamp": "Sat, 11 Apr 2026 15:51:07 +0000",
       "section": "International",
@@ -47375,7 +47583,7 @@
     },
     {
       "id": "84ded576e559eee87c9e930459250f31",
-      "title": "Police begin arrests at UK protest against Palestine Action ban",
+      "title": "Hundreds arrested at UK protest against Palestine Action ban",
       "link": "https://www.aljazeera.com/news/2026/4/11/police-begin-arrests-at-uk-protest-against-palestine-action-ban?traffic_source=rss",
       "summary": "Hundreds of people gather in Trafalgar Square for demonstration, as elderly woman with cane is escorted away by police.",
       "date": "2026-04-11",
@@ -48034,19 +48242,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "3d3c11b68fc9d7018f2a5e9a97c1456c",
-      "title": "President Murmu, PM Modi, leaders pay tribute to Mahatma Jyotirao Phule on 200th birth anniversary",
-      "link": "https://www.thehindu.com/news/national/president-murmu-pm-modi-leaders-pay-tribute-to-mahatma-jyotirao-phule-on-200th-birth-anniversary/article70850253.ece",
-      "summary": "Prime Minister Narendra Modi, describing Phule as a great reformer, said his life was one of moral courage, restless enquiry and unshakable commitment to social good",
-      "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 12:51:51 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -49038,6 +49233,19 @@
       "lang": "en"
     },
     {
+      "id": "70e3e63435ca61b4a9e9a0bd0f17ae91",
+      "title": "Noida News: कर्मचारियों की मेहनत को सराहा",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/appreciating-the-hard-work-of-the-employees-noida-news-c-23-1-lko1064-92092-2026-04-11",
+      "summary": "Appreciating the hard work of the employees",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:53:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "f2e8b2ed4b3842c25fd28433710f9d46",
       "title": "मुस्कुराए, हाथ जोड़े और की बातचीत: संसद भवन परिसर में पीएम मोदी और राहुल गांधी की मुलाकात, देखें वीडियो",
       "link": "https://www.amarujala.com/india-news/pm-modi-rahul-gandhi-engage-in-candid-talks-as-leaders-assemble-to-pay-tribute-to-jyotiba-phule-2026-04-11",
@@ -49051,6 +49259,45 @@
       "lang": "hi"
     },
     {
+      "id": "eb2a535554e8e48ee6670fdadc8a15bb",
+      "title": "Noida News: सड़कों पर लगेंगी डिजाइनर स्ट्रीट लाइटें",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/designer-streetlights-will-be-installed-on-the-roads-noida-news-c-23-1-lko1064-92100-2026-04-11",
+      "summary": "Designer streetlights will be installed on the roads",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:50:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "9992eac1fad3c794ef9a2c0eb1d2bbd6",
+      "title": "Ayodhya News: नगर निगम की जेई से अभद्रता जान से मारने की दी गई धमकी",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/municipal-corporation-junior-engineer-subjected-to-abusive-behavior-death-threats-issued-ayodhya-news-c-97-1-ayo1005-147059-2026-04-11",
+      "summary": "नगर निगम की जेई से अभद्रता जान से मारने की दी गई धमकी",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:50:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "e7b689ad6861872ed692b13bdde0c1a7",
+      "title": "Ayodhya News: स्कूलों में जंक फूड पर लगेगी रोक",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/junk-food-to-be-banned-in-schools-ayodhya-news-c-97-1-ayo1034-147030-2026-04-11",
+      "summary": "स्कूलों में जंक फूड पर लगेगी रोक",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:49:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "8d6b0e76082e326e6e83dad87a142ab4",
       "title": "Azamgarh News: युवक को पेड़ से बांधकर लाठी-डंडे से पीटा, गई जान; शराब पीने के दौरान हुआ विवाद",
       "link": "https://www.amarujala.com/uttar-pradesh/azamgarh/youth-tied-to-tree-and-beaten-to-death-with-sticks-in-azamgarh-2026-04-11",
@@ -49061,6 +49308,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "b2aaec2e3f0828cdf8f77ac79fe82af4",
+      "title": "Ayodhya News: गांव-गांव जाकर महिलाओं को जागरूक कर रही पुलिस",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/the-police-are-going-from-village-to-village-to-raise-awareness-among-women-ayodhya-news-c-97-1-ayo1025-147009-2026-04-11",
+      "summary": "गांव-गांव जाकर महिलाओं को जागरूक कर रही पुलिस",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:48:47 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "e19d89664af995c55aabea26eaf2f22e",
+      "title": "Ayodhya News: एबीवीपी ने मनाया वंदे मातरम का 150वां वर्ष",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/abvp-celebrates-the-150th-anniversary-of-vande-mataram-ayodhya-news-c-97-1-ayo1034-147047-2026-04-11",
+      "summary": "एबीवीपी ने मनाया वंदे मातरम का 150वां वर्ष",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:48:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
       "lang": "en"
     },
     {
@@ -49077,6 +49350,19 @@
       "lang": "en"
     },
     {
+      "id": "8d5f3050a535e47eec30a9c42cf795be",
+      "title": "Ayodhya News: योगा में देशभर के प्रतिभागियों ने दिखाया दमखम",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/participants-from-across-the-country-showcased-their-prowess-in-yoga-ayodhya-news-c-97-1-ayo1034-147060-2026-04-11",
+      "summary": "योगा में देशभर के प्रतिभागियों ने दिखाया दमखम",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:46:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "41e0cc217fcf7df4cbc8d91ecaac2afd",
       "title": "Beyond the marks: How II PU toppers overcame challenges",
       "link": "https://www.thehindu.com/news/cities/bangalore/beyond-the-marks-how-ii-pu-toppers-overcame-challenges/article70848168.ece",
@@ -49087,6 +49373,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1d28f2d35b47c4a027bd475a880c7bbd",
+      "title": "Noida News: वेतन न मिलने से दुकानों के बाहर फैलाया कूड़ा",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/due-to-non-payment-of-salary-garbage-was-spread-outside-the-shops-noida-news-c-23-1-lko1064-92097-2026-04-11",
+      "summary": "Due to non-payment of salary, garbage was spread outside the shops.",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:45:39 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -49113,6 +49412,32 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "da13940a5fc5e16d2f93347e5becbf06",
+      "title": "Ayodhya News: मासूम की दम घुटने से मौत, हिरासत में दो सगे भाई",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/child-dies-of-suffocation-two-brothers-taken-into-custody-ayodhya-news-c-13-1-jam1008-1686740-2026-04-11",
+      "summary": "मासूम की दम घुटने से मौत, दो सगे भाई हिरासत में",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:43:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "72a16e9628aabf9b2106dd8e28b9d6c0",
+      "title": "यूपी: नेपाल बॉर्डर से सटे 7 जिलों में घटे 17 लाख मतदाता, बलरामपुर, बहराइच सहित यहां कटे सबसे ज्यादा वोटर",
+      "link": "https://www.amarujala.com/lucknow/up-seven-districts-along-the-nepal-border-have-lost-over-1-7-million-voters-with-balrampur-and-bahraich-amon-2026-04-11",
+      "summary": "SIR in UP: यूपी में एसआईआर के बाद अंतिम सूची का प्रकाशन हो गया है। इस सूची में नेपाल बॉर्डर से सटे जिलों में कटने वाले वोटों की संख्या ज्यादा है।",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:42:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -49168,6 +49493,19 @@
       "lang": "en"
     },
     {
+      "id": "ef335ec47ec3b81ca083b649aeb27378",
+      "title": "Ayodhya News: सऊदी अरब में युवक की संदिग्ध हालात में मौत, शव वतन लाने की मांग तेज",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/suspicious-death-of-young-man-in-saudi-arabia-demands-to-repatriate-body-intensify-ayodhya-news-c-97-1-lu11030-147066-2026-04-11",
+      "summary": "सऊदी अरब में युवक की संदिग्ध हालात में मौत, शव वतन लाने की मांग तेज",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:35:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "74a66e99aec0a9eb9a0eb9be645c70ad",
       "title": "राधे-राधे और फिर मची चीख पुकार, बचने को मारते रहे हाथ-पैर, मथुरा नाव हादसे का वीडियो",
       "link": "https://www.livehindustan.com/uttar-pradesh/mathura-boat-accident-viral-video-survivor-story-vrindavan-rescue-up-news-201775882588795.html",
@@ -49177,6 +49515,58 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c8be56b0b7941de90cc3ba35c4e48bf4",
+      "title": "Ayodhya News: मामूली विवाद में घर पर चढ़कर बरसाईं गोलियां, तीन घायल",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/gunshots-fired-at-house-over-petty-dispute-three-injured-ayodhya-news-c-13-1-lko1121-1687424-2026-04-11",
+      "summary": "मामूली विवाद में घर पर चढ़कर बरसाईं गोलियां, तीन घायल",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:32:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "c5b5ff992f2101d67a0bf6971b4a202b",
+      "title": "Ayodhya News: पत्नी के हत्यारोपी की अभी जेल से नहीं होगी रिहाई",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/wifes-alleged-killer-will-not-be-released-from-jail-yet-ayodhya-news-c-97-1-ayo1005-147068-2026-04-11",
+      "summary": "पत्नी के हत्यारोपी की अभी जेल से नहीं होगी रिहाई",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:31:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "98ee9e1ad6456cef4633cf4dd225ebce",
+      "title": "Noida News: कर्मचारियों ने लगाया वेतन न मिलने का आरोप",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/employees-allege-non-payment-of-salaries-noida-news-c-23-1-lko1064-92098-2026-04-11",
+      "summary": "Employees allege non-payment of salaries",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:31:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "eb3bc8ae9ba29f029b1847a0bd99165b",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 11 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-11",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:30:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -49246,6 +49636,19 @@
       "lang": "en"
     },
     {
+      "id": "695ed63271606e64095a7a05873526c7",
+      "title": "यूपी: अखिलेश यादव ने उठाए चुनाव आयोग की निष्पक्षता पर सवाल, कहा- एसआईआर प्रक्रिया में भी हुई धांधली",
+      "link": "https://www.amarujala.com/lucknow/up-akhilesh-yadav-questions-the-impartiality-of-the-election-commission-says-sir-process-was-also-rigged-2026-04-11",
+      "summary": "Akhilesh Yadav: सपा प्रमुख अखिलेश यादव ने चुनाव आयोग की निष्पक्षता पर सवाल उठाते हुए कहा है कि यूपी में एसआईआर प्रक्रिया में भी धांधली हुई है।",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:20:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "d76653d24142db357fb2519e79ad0361",
       "title": "UP: युद्ध रुका पर संकट बरकरार, जूतों के कंटेनर अटके, करोड़ों के नुकसान की कगार पर कारोबारी",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/war-impact-35-million-shoes-stuck-in-containers-exporters-fear-massive-loss-due-to-fungus-2026-04-11",
@@ -49272,6 +49675,19 @@
       "lang": "en"
     },
     {
+      "id": "3e35f40cffa0798f9c0b28be655de457",
+      "title": "झुंझुनूं में दर्दनाक हादसे में 5 लोगों की मौत, 3 लोग घायल",
+      "link": "https://www.amarujala.com/video/india-news/5-people-died-and-3-were-injured-in-a-tragic-accident-in-jhunjhunu-2026-04-11",
+      "summary": "झुंझुनूं में दर्दनाक हादसे में 5 लोगों की मौत, 3 लोग घायल",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:15:59 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "3d1f1e93fa07e919fe5f10525313675f",
       "title": "UP News: एक हफ्ते पहले छुट्टी काट कर ड्यूटी पर लौटा था जवान, अब तिरंगे में लिपटा; नम आंखों से दी अंतिम विदाई",
       "link": "https://www.amarujala.com/uttar-pradesh/ballia/army-soldier-akhilesh-singh-funeral-rites-with-tiranga-yatra-in-ballia-2026-04-11",
@@ -49282,6 +49698,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "b68c2d9439179f5e21f219355ffe3cdf",
+      "title": "न्याय व्यवस्था पर पूरा भरोसा, बोले-Ravindra Singh Bhati",
+      "link": "https://www.amarujala.com/video/india-news/full-faith-in-the-justice-system-said-ravindra-singh-bhati-2026-04-11",
+      "summary": "न्याय व्यवस्था पर पूरा भरोसा, बोले-Ravindra Singh Bhati",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:14:52 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "adfae6af60ee821e66f7ac9af731531b",
+      "title": "Hathras News: चोरों ने बनाया निशाना, शिक्षिका व किसान के बंद घरों से लाखों रुपये की चोरी",
+      "link": "https://www.amarujala.com/uttar-pradesh/hathras/theft-from-teacher-and-farmer-houses-2026-04-11",
+      "summary": "हाथरस शहर की पुष्प विहार कॉलोनी में 10 अप्रैल देर रात चोर शिक्षिका व एक किसान के घर से लाखों रुपये का माल चोरी कर ले गए। सुबह पड़ोसियों से जानकारी मिलने पर पुलिस को सूचना दी गई।",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:14:51 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -49296,6 +49738,45 @@
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "b9895abe85ad1954de8421e13cc62747",
+      "title": "एक्शन मोड में CM Bhajanlal Sharma, कानून व्यवस्था को लेकर दिखाई सख्ती",
+      "link": "https://www.amarujala.com/video/india-news/cm-bhajanlal-sharma-in-action-mode-shows-strictness-regarding-law-and-order-2026-04-11",
+      "summary": "एक्शन मोड में CM Bhajanlal Sharma, कानून व्यवस्था को लेकर दिखाई सख्ती",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:13:00 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "e992f893234c99f4d7aac71eaac9560b",
+      "title": "Noida News: चैंपियनशिप में 250 स्केटर्स ने लगाई दौड़",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/250-skaters-competed-in-the-championship-noida-news-c-23-1-lko1064-92093-2026-04-11",
+      "summary": "250 skaters competed in the championship.",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:12:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "35bb120e527220b727f8f8838799d8c6",
+      "title": "Vasundhara Raje पर Madan Rathore के बयान से मचा बवाल",
+      "link": "https://www.amarujala.com/video/india-news/madan-rathore-s-statement-on-vasundhara-raje-created-a-ruckus-2026-04-11",
+      "summary": "Vasundhara Raje पर Madan Rathore के बयान से मचा बवाल",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:11:11 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "bf396057e50690dc1ab64657f8f71498",
@@ -49322,6 +49803,19 @@
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "84cb1b740bba2ca796ec3817876ae41a",
+      "title": "पत्नी को टैक्सी ड्राइवर से हुआ प्यार तो मिलकर कर दी बैंक अधिकारी पति की हत्या",
+      "link": "https://www.amarujala.com/video/india-news/wife-fell-in-love-with-a-taxi-driver-and-together-they-murdered-her-bank-officer-husband-2026-04-11",
+      "summary": "पत्नी को टैक्सी ड्राइवर से हुआ प्यार तो मिलकर कर दी बैंक अधिकारी पति की हत्या",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:08:38 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "9fea2c9f8f8ad58711989fda4e7996d9",
@@ -49363,6 +49857,45 @@
       "lang": "en"
     },
     {
+      "id": "7fd5f289a2b4a878698eb86007ab7b97",
+      "title": "अयोध्या: विग्रह के पूर्व स्थान पर विधि-विधान से ज्योति स्थापित",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-vagaraha-ka-parava-sathana-para-vathha-vathhana-sa-jayata-sathapata-2026-04-11",
+      "summary": "अयोध्या: विग्रह के पूर्व स्थान पर विधि-विधान से ज्योति स्थापित",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:06:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "ca51e220110919c65e957f9dca861dac",
+      "title": "Noida News: 1720 स्कूली बसें ही पंजीकृत, 309 ने अब तक नहीं कराया रजिस्ट्रेशन",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/only-1720-school-buses-are-registered-309-are-yet-to-register-noida-news-c-1-noi1095-4152538-2026-04-11",
+      "summary": "Only 1720 school buses are registered, 309 are yet to register.",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:05:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "e4a835dd73e670ca8b6e8d0ae328fb34",
+      "title": "IPL 2026: गुजरात पर दबदबा बनाए रखने के लिए उतरेगा लखनऊ, लगातार तीसरी जीत पर होगी पंत की नजर",
+      "link": "https://www.amarujala.com/lucknow/ipl-2026-lucknow-will-look-to-maintain-dominance-over-gujarat-pant-will-be-eyeing-a-third-consecutive-win-2026-04-11",
+      "summary": "पिछले मैच में दिल्ली कैपिटल्स के खिलाफ मिली एक रन से जीत को छोड़ दिया जाए तो गुजरात टाइटंस को आईपीएल के पहले दो मुकाबलों में पंजाब किंग्स और राजस्थान रॉयल्स से हार का सामना करना पड़ा था।",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:05:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "38b5af9692832bdc94d7faa995f956e3",
       "title": "BJP vs SP: सपा के आरोपों पर भाजपा का करारा वार, पंकज चौधरी बोले-झूठ और भ्रम की राजनीति बेनकाब",
       "link": "https://www.patrika.com/lucknow-news/bjp-hits-back-at-akhilesh-yadav-calls-allegations-misleading-and-baseless-20491745",
@@ -49373,6 +49906,19 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "be21eb8c835c029aa321cafadc2e0c59",
+      "title": "ग्रेटर नोएडा: मानसिक स्वास्थ्य के लिए एआई करेगा कैलकुलेशन, डाटा से मिलेगा बेहतर इलाज",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-ai-will-do-calculations-for-mental-health-2026-04-11",
+      "summary": "ग्रेटर नोएडा: मानसिक स्वास्थ्य के लिए एआई करेगा कैलकुलेशन, डाटा से मिलेगा बेहतर इलाज",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 10:03:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -49464,6 +50010,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a29cf65325a9634e64fd6a2be85c3cca",
+      "title": "Noida News: मानदेय बढ़ाने की मांग को लेकर हंगामा",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/uproar-over-demand-for-increase-in-honorarium-grnoida-news-c-23-1-lko1064-92101-2026-04-11",
+      "summary": "Uproar over demand for increase in honorarium",
+      "date": "2026-04-11",
+      "timestamp": "Sat, 11 Apr 2026 09:54:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -49623,32 +50182,6 @@
       "lang": "en"
     },
     {
-      "id": "ef335ec47ec3b81ca083b649aeb27378",
-      "title": "Ayodhya News: सऊदी अरब में युवक की संदिग्ध मौत, शव वतन लाने की मांग तेज",
-      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/suspicious-death-of-young-man-in-saudi-arabia-demands-to-repatriate-body-intensify-ayodhya-news-c-97-1-lu11030-147066-2026-04-11",
-      "summary": "सऊदी अरब में युवक की संदिग्ध मौत, शव वतन लाने की मांग तेज",
-      "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 09:45:00 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Ayodhya",
-      "lang": "en"
-    },
-    {
-      "id": "c5b5ff992f2101d67a0bf6971b4a202b",
-      "title": "Ayodhya News: पत्नी की हत्यारोपी की अभी जेल से नहीं होगी रिहाई",
-      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/wifes-alleged-killer-will-not-be-released-from-jail-yet-ayodhya-news-c-97-1-ayo1005-147068-2026-04-11",
-      "summary": "पत्नी की हत्यारोपी की अभी जेल से नहीं होगी रिहाई",
-      "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 09:44:02 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Ayodhya",
-      "lang": "en"
-    },
-    {
       "id": "97899bbea840ebeee226efe0a5339e1c",
       "title": "Noida News: मारपीट और जानलेवा हमला करने वाले 10 लोगों के खिलाफ प्राथमिकी दर्ज",
       "link": "https://www.amarujala.com/delhi-ncr/noida/fir-registered-against-10-individuals-for-assault-and-attempted-murder-grnoida-news-c-491-1-gnd1001-5882-2026-04-11",
@@ -49724,19 +50257,6 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "e4a835dd73e670ca8b6e8d0ae328fb34",
-      "title": "IPL 2026: गुजरात पर दबदबा बनाए रखने के लिए उतरेगा लखनऊ, लगातार तीसरी जीत पर होगी पंत की नजर",
-      "link": "https://www.amarujala.com/lucknow/ipl-2026-lucknow-will-look-to-maintain-dominance-over-gujarat-pant-will-be-eyeing-a-third-consecutive-win-2026-04-11",
-      "summary": "पिछले मैच में दिल्ली कैपिटल्स के खिलाफ मिली एक रन से जीत को छोड़ दिया जाए तो गुजरात टाइटंस को आईपीएल के पहले दो मुकाबलों में पंजाब किंग्स और राजस्थान रॉयल्स से हार का सामना करना पड़ा था।",
-      "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 09:39:20 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -49854,19 +50374,6 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "eb3bc8ae9ba29f029b1847a0bd99165b",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 11 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-11",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-11",
-      "timestamp": "Sat, 11 Apr 2026 09:30:28 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -72828,19 +73335,6 @@
       "lang": "en"
     },
     {
-      "id": "3c63f6b36b4a14fdf14d6bdc15b923b1",
-      "title": "A debate on the tenure of Election Commission-appointed police chief",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/a-debate-on-the-tenure-of-election-commission-appointed-police-chief/article70827278.ece",
-      "summary": "However, the EC order did not specify a tenure for him. The question is whether Mr. Rathore would be entitled to a minimum two-year tenure, as mandated by the Supreme Court in the landmark Prakash Singh case. However, this ruling applies only to appointments made through the UPSC-led process",
-      "date": "2026-04-06",
-      "timestamp": "Mon, 06 Apr 2026 08:32:07 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e5a6575ae6cbfa154443bd0be15b66a2",
       "title": "Noida News: तेज रफ्तार कार की टक्कर से एक घायल",
       "link": "https://www.amarujala.com/delhi-ncr/noida/one-injured-in-collision-with-speeding-car-grnoida-news-c-23-1-lko1064-91661-2026-04-06",
@@ -89386,6 +89880,84 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "584096b7d0e345062ac9c8e7773a8a2e",
+      "title": "'Deal struck by bigwigs long back': Tejashwi Yadav claims JD(U) leaders ‘intimidated’ by BJP forced Nitish Kumar exit",
+      "link": "https://timesofindia.indiatimes.com/india/deal-struck-by-bigwigs-long-back-tejashwi-yadav-claims-jdu-leaders-intimidated-by-bjp-forced-nitish-kumar-exit/articleshow/130196366.cms",
+      "summary": "Tejashwi Yadav alleged Nitish Kumar is stepping down as Bihar CM under pressure from within JD(U), with some colleagues allegedly intimidated or allured by ally BJP. Yadav claimed a deal was struck long ago, not made public due to assembly polls. He cited visuals of Kumar being prevented from speaking to media as proof of pressure.",
+      "date": "2026-04-11",
+      "timestamp": "2026-04-11T22:42:56+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2c5ecb38fa122e7bb9c7edd8587ecd11",
+      "title": "'Age difference, limited language...': Immigration attorney flags rising risks in marriage-based Green Cards",
+      "link": "https://timesofindia.indiatimes.com/world/us/age-difference-limited-shared-language-immigration-attorney-explains-how-getting-marriage-based-green-card-can-become-riskier/articleshow/130195219.cms",
+      "summary": "",
+      "date": "2026-04-11",
+      "timestamp": "2026-04-11T22:35:33+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ead3e00f1aa1e2cfaa2dfc628cb6337",
+      "title": "London’s Primrose Hill stabbing: Two arrested over killing of 21-year-old student filmmaker",
+      "link": "https://timesofindia.indiatimes.com/world/uk/londons-primrose-hill-stabbing-two-arrested-over-killing-of-21-year-old-student-filmmaker/articleshow/130195708.cms",
+      "summary": "",
+      "date": "2026-04-11",
+      "timestamp": "2026-04-11T22:24:21+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "af3dbb8de2b1ed802082dfb80c83666b",
+      "title": "ED conducts raid at ex-Bengal minister Partha Chatterjee’s residence in school jobs scam",
+      "link": "https://timesofindia.indiatimes.com/india/ed-conducts-raid-at-ex-bengal-minister-partha-chatterjees-residence-in-school-jobs-scam/articleshow/130195916.cms",
+      "summary": "Enforcement Directorate officials conducted a five-hour raid at former West Bengal education minister Partha Chatterjee's residence in connection with the school jobs scam. The action follows Chatterjee's alleged failure to respond to summons after his release on bail. The investigation, linked to a multi-crore recruitment scam, previously saw significant cash seizures.",
+      "date": "2026-04-11",
+      "timestamp": "2026-04-11T22:19:54+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "49c4432f69cfcdec39067add56dd801b",
+      "title": "Tamil Nadu polls: Annamalai slams DMK over governance, corruption",
+      "link": "https://timesofindia.indiatimes.com/india/tamil-nadu-polls-annamalai-slams-dmk-over-governance-corruption/articleshow/130195786.cms",
+      "summary": "K Annamalai highlighted public concerns on drug abuse, school quality, and roads, accusing the ruling DMK of inaction. He alleged a Rs 160 crore corruption scam involving a minister, with evidence submitted to DVAC. Annamalai anticipates political shifts within the DMK post-2026 elections and predicts a significant defeat for Senthil Balaji.",
+      "date": "2026-04-11",
+      "timestamp": "2026-04-11T22:09:50+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dd001ee622207e25894686770eb26fc8",
+      "title": "West Asia crisis far from over despite ceasefire talk, India prepared for impact: Rajnath Singh",
+      "link": "https://timesofindia.indiatimes.com/india/west-asia-crisis-far-from-over-despite-ceasefire-talk-india-prepared-for-impact-rajnath-singh/articleshow/130195451.cms",
+      "summary": "",
+      "date": "2026-04-11",
+      "timestamp": "2026-04-11T22:05:26+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
