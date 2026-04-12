@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T21:29:31.402621+00:00",
+  "generated_at": "2026-04-12T22:28:04.611868+00:00",
   "stories": [
     {
       "id": "6e4a8f6483cb2fe819cbc5efe26ebfa6",
@@ -7513,19 +7513,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
-      "lang": "en"
-    },
-    {
-      "id": "e8da0d18045d0ee337aeebe55edf496b",
-      "title": "Tamil Nadu election: TVK leader Sengottaiyan’s nomination accepted after being kept on hold",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-leader-sengottaiyan-nomination-accepted-after-being-kept-on-hold/article70833503.ece",
-      "summary": "When Mr. Sengottaiyan’s nomination papers were taken up, representatives of AIADMK candidate V.B. Prabhu raised objections, pointing to alleged discrepancies in the affidavit.",
-      "date": "2026-04-08",
-      "timestamp": "Wed, 08 Apr 2026 07:41:49 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -35427,19 +35414,6 @@
       "lang": "en"
     },
     {
-      "id": "627ba7694959291125e388d94d0a72ea",
-      "title": "Asha Bhosle: the voice that defied genres, time",
-      "link": "https://www.thehindu.com/entertainment/music/asha-bhosle-legendary-singer-death-obituary/article70854485.ece",
-      "summary": "Asha’s voice felt like a friend, a co-conspirator, or a mirror — someone who had been through the messiness of life and still chose to sing, dance, and seduce with full-throated joy; the most-recorded artist will be remembered for her fearless spirit, versatility, and playful charm",
-      "date": "2026-04-12",
-      "timestamp": "Sun, 12 Apr 2026 23:52:25 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "2921ad05084140f7be75365d223e43c1",
       "title": "Residents complain about delay in construction of ROB, illegal sand mining on Palar riverbed",
       "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/residents-complain-about-delay-in-construction-of-rob-illegal-sand-mining-on-palar-riverbed/article70854376.ece",
@@ -35463,19 +35437,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "5a219d4721cda0147f07954bcb12f418",
-      "title": "Election fever rises as political merchandise sales peak in Tiruchi",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/election-fever-rises-as-political-merchandise-sales-peak/article70851045.ece",
-      "summary": "The merchandise is priced upwards of ₹20, depending on size and material; most shops maintain social media accounts to advertise their latest additions",
-      "date": "2026-04-12",
-      "timestamp": "Sun, 12 Apr 2026 23:42:54 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -35550,19 +35511,6 @@
       "summary": "",
       "date": "2026-04-12",
       "timestamp": "Sun, 12 Apr 2026 23:35:25 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "6495937e19657f36d8c907283a394fae",
-      "title": "Naam Tamilar Katchi’s transgender candidate Roshini vows to make Villivakkam a model constituency",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/ntkstransgender-candidate-vows-to-makevillivakkama-model-constituency/article70851055.ece",
-      "summary": "She says the prevention of drug abuse among youngsters and ensuring women’s welfare will be her first priority if elected; there are plans to create playgrounds and fine arts centres to revive vanishing art forms; both the Dravidian majors have neglected issues for several decades, she adds",
-      "date": "2026-04-12",
-      "timestamp": "Sun, 12 Apr 2026 23:34:54 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -35960,6 +35908,19 @@
       "lang": "en"
     },
     {
+      "id": "efdc1e18dc5cc69fa76fea6da6ea38ff",
+      "title": "These are people Israel killed in Lebanon on a single day",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/12/these-are-people-israel-killed-in-lebanon-on-a-single-day?traffic_source=rss",
+      "summary": "In a matter of minutes, Israel killed more than 350 people across Lebanon on Wednesday, April 8.",
+      "date": "2026-04-12",
+      "timestamp": "Sun, 12 Apr 2026 21:44:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d26c3ed9a92faa3a4436ec7dbd6d01d0",
       "title": "At least 100 people killed in ‘mistaken’ air force attack on Nigerian market",
       "link": "https://www.thehindu.com/news/international/nigeria-air-force-attack-misfire-market-death-toll-updates/article70854878.ece",
@@ -36021,6 +35982,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ff5a3ef6d4300662693da76b716596e0",
+      "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
+      "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Donald Trump says that the US is going to start blockading the Strait of Hormuz. What does this mean in practice?",
+      "date": "2026-04-12",
+      "timestamp": "Sun, 12 Apr 2026 21:31:29 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -36125,6 +36099,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "79a415e7845ab05e4287c9dbf19d7b9f",
+      "title": "Abuse allegations against lead Democrat shake race for California governor",
+      "link": "https://www.aljazeera.com/news/2026/4/12/abuse-allegations-against-lead-democrat-shake-race-for-california-governor?traffic_source=rss",
+      "summary": "Media reports detailing sexual assault allegations against US Representative Eric Swalwell prompt resignation calls.",
+      "date": "2026-04-12",
+      "timestamp": "Sun, 12 Apr 2026 21:12:55 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -36325,7 +36312,7 @@
     },
     {
       "id": "8b4658a23c402cdf574678967464d676",
-      "title": "World reacts to election defeat for Viktor Orban, Hungary’s longtime PM",
+      "title": "World reacts to Peter Magyar defeating Viktor Orban, Hungary’s longtime PM",
       "link": "https://www.aljazeera.com/news/2026/4/12/world-reacts-to-election-defeat-for-viktor-orban-hungarys-longtime-pm?traffic_source=rss",
       "summary": "Prime Minister Viktor Orban concedes defeat as early results show his Fidesz party losing parliamentary majority.",
       "date": "2026-04-12",
@@ -37100,19 +37087,6 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "ff5a3ef6d4300662693da76b716596e0",
-      "title": "What is a naval blockade and how would it work in Strait of Hormuz?",
-      "link": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump says that the US is going to start blockading the Strait of Hormuz. What does this mean in practice?",
-      "date": "2026-04-12",
-      "timestamp": "Sun, 12 Apr 2026 19:25:54 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -41495,19 +41469,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "986230d03f6c7479d425797411d62ef2",
-      "title": "Home Secretary appoints Durai Kumar as DVAC in-charge following Election Commission reshuffle",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/home-secretary-appoints-durai-kumar-as-dvac-in-charge-following-election-commission-reshuffle/article70852124.ece",
-      "summary": "Citing the officer’s past social media posts hailing the RSS and criticising the Left, and certain accusations of corruption against him, DMK sought reconsideration of the EC’s direction to appoint Mr. Mittal to the sensitive post",
-      "date": "2026-04-12",
-      "timestamp": "Sun, 12 Apr 2026 07:46:13 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -47928,19 +47889,6 @@
       "timestamp": "Sun, 05 Apr 2026 17:41:43 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3f71d4238008ff3479b00c1569199680",
-      "title": "No close contest; the fight is between DMK and AIADMK, says CM Stalin",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-chief-minister-and-dmk-president-mk-stalin-interview/article70826149.ece",
-      "summary": "Surrendering State’s rights and adjusting with the Centre is slavery; DMK government’s welfare schemes and its election manifesto have already earned widespread public appreciation, says Tamil Nadu Chief Minister Stalin",
-      "date": "2026-04-05",
-      "timestamp": "Sun, 05 Apr 2026 17:41:05 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -66705,6 +66653,214 @@
       "lang": "en"
     },
     {
+      "id": "10fa0987b2e689c876c251edc1cfeb51",
+      "title": "BJP will bring inclusive government in Bengal, says Adityanath",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/bjp-will-bring-inclusive-government-in-bengal-says-adityanath/article70854121.ece",
+      "summary": "Mr. Adityanath said there is no appeasement in Uttar Pradesh, but “inclusive Hinduism”, where every community can live peacefully in a secure environment",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:34:25 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f2b363111fc0e0f5da5ff31ed6e0d337",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 13 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-13",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:30:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f2632722694501452e01847e82071f20",
+      "title": "पढ़ें 13 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-13",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5ebc8b3a2dc9909a15f6cf8a3424383b",
+      "title": "West Bengal Elections 2026: भाजपा प्रत्याशी डॉ. राजेश कुमार ने खोले ममता के राज, बंगाल में मचा सियासी बवाल!",
+      "link": "https://www.amarujala.com/video/india-news/west-bengal-elections-2026-bjp-candidate-dr-rajesh-kumar-reveals-mamata-s-secrets-sparks-political-uproar-i-2026-04-13",
+      "summary": "West Bengal Elections 2026: भाजपा प्रत्याशी डॉ. राजेश कुमार ने खोले ममता के राज, बंगाल में मचा सियासी बवाल!",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "e8da0d18045d0ee337aeebe55edf496b",
+      "title": "Tamil Nadu election: TVK leader Sengottaiyan’s nomination accepted after being kept on hold",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tvk-leader-sengottaiyan-nomination-accepted-after-being-kept-on-hold/article70833503.ece",
+      "summary": "When Mr. Sengottaiyan’s nomination papers were taken up, representatives of AIADMK candidate V.B. Prabhu raised objections, pointing to alleged discrepancies in the affidavit.",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:19:43 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "281df6e12132a4344edfca2a13bf1113",
+      "title": "Israel-Iran war LIVE updates: U.S. Central Command says it will begin blockade of Iranian ports Monday",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-12-2026/article70853206.ece",
+      "summary": "The U.S. president said his threat to impose 50% tariffs on goods from countries that sold weapons to Iran was aimed at China",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:18:05 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "68593d5802da9982e54612224662070d",
+      "title": "U.S. military says it will start blockade of all ships going to and from Iran on Monday",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-will-start-blockade-of-all-ships-going-to-and-from-iran-on-monday/article70855422.ece",
+      "summary": "The blockade will ​be enforced ‌impartially against vessels of all nations entering or departing Iranian ports ‌and coastal areas, including ​all Iranian ports on the Arabian ⁠Gulf and Gulf of Oman, according to CENTCOM",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:14:54 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "82e4ba1494564020bfa0c220bce65bc6",
+      "title": "Tamil Nadu Assembly election 2026 | interviews with political leaders: a compilation",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-2026-interviews-with-political-leaders-a-compilation/article70782589.ece",
+      "summary": "Find all our exclusive interviews with political leaders here.",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:12:29 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b2443482e9f10d2a328c7fb48482dd9a",
+      "title": "I do not see the Assembly election in Tamil Nadu as a close contest, says CM Stalin",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/i-do-not-see-the-assembly-election-intamil-nadu-as-a-close-contest-says-cm-stalin/article70827163.ece",
+      "summary": "The contest is essentially between the DMK-led front and the AIADMK-led alliance. Our achievements and electoral promises have captured the imagination of the people. The outcome will disprove the notion that the DMK cannot win two consecutive elections, says the DMK president",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:05:32 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3f71d4238008ff3479b00c1569199680",
+      "title": "No close contest; the fight is between DMK and AIADMK, says CM Stalin",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-chief-minister-and-dmk-president-mk-stalin-interview/article70826149.ece",
+      "summary": "Surrendering State’s rights and adjusting with the Centre is slavery; DMK government’s welfare schemes and its election manifesto have already earned widespread public appreciation, says Tamil Nadu Chief Minister Stalin",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:04:39 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "627ba7694959291125e388d94d0a72ea",
+      "title": "Asha Bhosle: the voice that defied genres, time",
+      "link": "https://www.thehindu.com/entertainment/music/asha-bhosle-legendary-singer-death-obituary/article70854485.ece",
+      "summary": "Asha’s voice felt like a friend, a co-conspirator, or a mirror — someone who had been through the messiness of life and still chose to sing, dance, and seduce with full-throated joy; the most-recorded artist will be remembered for her fearless spirit, versatility, and playful charm",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:01:47 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d3de8f7b8956a2f5bdf0469fc867640c",
+      "title": "Noida drowning: FIR filed against three friends of deceased student",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/noida-drowning-fir-filed-against-three-friends-of-deceased-student/article70854960.ece",
+      "summary": "Police said the four had gone on a picnic to the site after their examinations ended. The sections of law invoked in the FIR are yet to be disclosed by police",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 03:01:03 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7680f188e0525a5cc942f2f4fd7878e4",
+      "title": "Tamil Nadu Assembly election 2026: party manifestos",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-election-a-compilation-of-all-party-manifestos/article70795620.ece",
+      "summary": "This is a compilation of poll manifestos released by prominent political parties in Tamil Nadu ahead of the State Assembly election scheduled to be held on April 23, 2026",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 02:52:27 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "72c89b16b17e6ce9afd3b0ce05e3e520",
+      "title": "Tamil Nadu Assembly election 2026: CPI manifesto promises to fight commercialisation of drinking water, agriculture and irrigation",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/cpi-manifesto-promises-to-fight-commercialisation-of-drinking-water-agriculture-and-irrigation/article70808341.ece",
+      "summary": "The CPI said it would ensure the development of micro, small and medium industries and prevent the commercialisation of drinking water, agriculture and irrigation",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 02:48:38 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5a219d4721cda0147f07954bcb12f418",
+      "title": "Tamil Nadu Assembly election 2026: Poll fever rises as political merchandise sales peak in Tiruchi",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/election-fever-rises-as-political-merchandise-sales-peak/article70851045.ece",
+      "summary": "The merchandise is priced upwards of ₹20, depending on size and material; most shops maintain social media accounts to advertise their latest additions",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 02:40:55 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0c9114a6f3ccc8cd83aa38ae83840a80",
+      "title": "Tamil Nadu Assembly elections: How actively does Chennai vote? A look at the trends",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/how-actively-does-chennai-vote-during-elections-a-look-at-the-trends/article70854199.ece",
+      "summary": "In 2011, a year of higher participation across the State, the city recorded 67.47%, still some distance from the State average. However, that momentum did not carry forward. In the elections that followed, the turnout dropped, and has since remained largely unchanged, staying in the range of 61%-62%",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 02:39:40 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e3d8a402fefda02a0f07c858551003ce",
       "title": "Lucknow News: ऐतिहासिक घटनाओं को समेटे अखबारों की लगी प्रदर्शनी",
       "link": "https://www.amarujala.com/lucknow/exhibition-of-newspapers-covering-historical-events-lucknow-news-c-13-1-lko1128-1688963-2026-04-13",
@@ -66770,6 +66926,19 @@
       "lang": "en"
     },
     {
+      "id": "6495937e19657f36d8c907283a394fae",
+      "title": "T.N. Assembly election 2026: Naam Tamilar Katchi’s transgender candidate Roshini vows to make Villivakkam a model constituency",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/ntkstransgender-candidate-vows-to-makevillivakkama-model-constituency/article70851055.ece",
+      "summary": "She says the prevention of drug abuse among youngsters and ensuring women’s welfare will be her first priority if elected; there are plans to create playgrounds and fine arts centres to revive vanishing art forms; both the Dravidian majors have neglected issues for several decades, she adds",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 02:34:16 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "68894c78bdbe80d9fcd652fd8ab514ba",
       "title": "Lucknow News: प्रदेशभर में सिख समाज की गिनती को अभियान शुरू",
       "link": "https://www.amarujala.com/lucknow/campaign-launched-across-the-state-to-count-the-sikh-community-lucknow-news-c-13-1-lko1028-1688946-2026-04-13",
@@ -66780,6 +66949,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "986230d03f6c7479d425797411d62ef2",
+      "title": "Tamil Nadu Assembly election 2026: State Home Secretary appoints Durai Kumar as DVAC in-charge after ECI reshuffle",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/home-secretary-appoints-durai-kumar-as-dvac-in-charge-following-election-commission-reshuffle/article70852124.ece",
+      "summary": "Citing the officer’s past social media posts hailing the RSS and criticising the Left, and certain accusations of corruption against him, DMK sought reconsideration of the EC’s direction to appoint Mr. Mittal to the sensitive post",
+      "date": "2026-04-13",
+      "timestamp": "Mon, 13 Apr 2026 02:33:28 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -66924,32 +67106,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "f2b363111fc0e0f5da5ff31ed6e0d337",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 13 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-13",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-13",
-      "timestamp": "Mon, 13 Apr 2026 02:30:23 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "f2632722694501452e01847e82071f20",
-      "title": "पढ़ें 13 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-13",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-13",
-      "timestamp": "Mon, 13 Apr 2026 02:30:11 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "fbcaa73e4626ea69f0950bccc057377b",
@@ -68249,19 +68405,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "281df6e12132a4344edfca2a13bf1113",
-      "title": "Israel-Iran war LIVE updates: Trump orders blockade of Hormuz strait after Iran talks fail",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-on-april-12-2026/article70853206.ece",
-      "summary": "The U.S. president said his threat to impose 50% tariffs on goods from countries that sold weapons to Iran was aimed at China",
-      "date": "2026-04-13",
-      "timestamp": "Mon, 13 Apr 2026 01:09:57 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -72771,19 +72914,6 @@
       "timestamp": "Mon, 06 Apr 2026 13:00:47 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "b2443482e9f10d2a328c7fb48482dd9a",
-      "title": "I do not see the Assembly election in Tamil Nadu as a close contest, says CM Stalin",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/i-do-not-see-the-assembly-election-intamil-nadu-as-a-close-contest-says-cm-stalin/article70827163.ece",
-      "summary": "The contest is essentially between the DMK-led front and the AIADMK-led alliance. Our achievements and electoral promises have captured the imagination of the people. The outcome will disprove the notion that the DMK cannot win two consecutive elections, says the DMK president",
-      "date": "2026-04-06",
-      "timestamp": "Mon, 06 Apr 2026 12:59:58 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -91821,6 +91951,19 @@
       "lang": "en"
     },
     {
+      "id": "004b21e49c9178abd93a362b306c5d66",
+      "title": "West Bengal polls: Chandra Bose joins TMC, attacks BJP",
+      "link": "https://timesofindia.indiatimes.com/india/west-bengal-polls-chandra-bose-joins-tmc-attacks-bjp/articleshow/130220571.cms",
+      "summary": "Subhas Chandra Bose's grandnephew, Chandra Bose, has joined the TMC after quitting the BJP, criticizing the latter's \"blatantly communal and anti-Constitution\" policies. He accused the BJP of using the religion card for electoral gains, a tactic he likened to British colonial rule. Bose declared it's time to drive out the BJP, just as India did the British.",
+      "date": "2026-04-12",
+      "timestamp": "2026-04-13T02:52:42+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ceebb698f9b40c8e187e1d3ea78bae5d",
       "title": "4 days after Bengal roll freeze, tribunals to start hearings today",
       "link": "https://timesofindia.indiatimes.com/india/4-days-after-bengal-roll-freeze-tribunals-to-start-hearings-today/articleshow/130220526.cms",
@@ -92004,13 +92147,13 @@
     },
     {
       "id": "4892685a208ca18a2235f367324a342d",
-      "title": "First batch of BrahMos made in Lucknow delivered to Army: Rajnath",
+      "title": "First batch of BrahMos made in Lucknow delivered to Army; national security is collective duty of every citizen, not just forces: Rajnath",
       "link": "https://timesofindia.indiatimes.com/india/first-batch-of-brahmos-made-in-lucknow-delivered-to-army-rajnath/articleshow/130216848.cms",
-      "summary": "",
+      "summary": "Defence Minister Rajnath Singh announced India's strides towards defence self-reliance, with BrahMos missile manufacturing commencing in Lucknow and the first batch delivered to the Army. He highlighted record domestic defence production of Rs 1.5 lakh crore and exports reaching Rs 38,424 crore for FY 2025-26. Singh emphasized national security as a collective citizen duty, urging active participation beyond defence forces.",
       "date": "2026-04-12",
       "timestamp": "2026-04-12T23:46:45+05:30",
       "section": "National",
-      "report_category": "National_General",
+      "report_category": "National_Govt",
       "source": "TOI India",
       "district": "",
       "lang": "en"
@@ -92030,9 +92173,9 @@
     },
     {
       "id": "b789e940972175b49819ff9295f28930",
-      "title": "Mazagon Dock acquires controlling stake in Colombo dockyard for $26.8 mn",
+      "title": "Mazagon Dock acquires controlling stake in Colombo dockyard for $26.8 m, move will help counter China's control of Lanka port",
       "link": "https://timesofindia.indiatimes.com/india/mazagon-dock-acquires-controlling-stake-in-colombo-dockyard-for-26-8-mn/articleshow/130216767.cms",
-      "summary": "",
+      "summary": "India's Mazagon Dock Shipbuilders Ltd (MDL) has acquired a 51% stake in Sri Lanka's Colombo Dockyard PLC for approximately Rs 249.5 crore. This strategic move aims to counter China's maritime influence in the region and strengthens India-Sri Lanka maritime cooperation. The acquisition is expected to boost CDPLC's revenue and profits.",
       "date": "2026-04-12",
       "timestamp": "2026-04-12T23:45:16+05:30",
       "section": "National",
