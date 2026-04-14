@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T21:44:51.863723+00:00",
+  "generated_at": "2026-04-14T22:40:21.366173+00:00",
   "stories": [
     {
       "id": "0a2c44e73ea05bdf1b2ac66bcdd3bd19",
@@ -41,6 +41,71 @@
       "lang": "en"
     },
     {
+      "id": "25d132067e2387fb989f87b287e1ce36",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 15 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-15",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-15",
+      "timestamp": "Wed, 15 Apr 2026 04:00:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "bdfb7cc73dd572ac156e8c55dcde5f80",
+      "title": "स्वास्थ्य: सुस्त जीवनशैली लिवर के लिए खतरनाक, 33 साल में 143% बढ़े रोगी; जानें 2050 तक कितने लोग होंगे बीमार",
+      "link": "https://www.amarujala.com/india-news/health-a-sedentary-lifestyle-is-dangerous-for-liver-with-a-143-increase-in-patients-in-33-years-2026-04-15",
+      "summary": "Health: A sedentary lifestyle is dangerous for liver, with a 143% increase in patients in 33 years - स्वास्थ्य: सुस्त जीवनशैली लिवर के लिए खतरनाक, 33 साल में 143% बढ़े रोगी; जानें 2050 तक कितने लोग होंगे बीमार",
+      "date": "2026-04-15",
+      "timestamp": "Wed, 15 Apr 2026 04:00:48 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "900fc398337c5773847daa0ac8f5a9fb",
+      "title": "पढ़ें 15 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-15",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-15",
+      "timestamp": "Wed, 15 Apr 2026 04:00:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "314b80a2233d71f046fa18eadff145c3",
+      "title": "Bihar New CM Samrat Chaudhary: बिहार में सम्राट चौधरी बने CM,अखिलेश ने भाजपा पर बोला जोरदार हमला!",
+      "link": "https://www.amarujala.com/video/india-news/bihar-new-cm-samrat-chaudhary-samrat-chaudhary-becomes-cm-in-bihar-akhilesh-launches-a-scathing-attack-on-bj-2026-04-15",
+      "summary": "Bihar New CM Samrat Chaudhary: बिहार में सम्राट चौधरी बने CM,अखिलेश ने भाजपा पर बोला जोरदार हमला!",
+      "date": "2026-04-15",
+      "timestamp": "Wed, 15 Apr 2026 03:45:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "55ddea28a8e871d57c4a78face07222a",
+      "title": "Congress: महिला आरक्षण और परिसीमन पर सरकार को घेरने की तैयारी में विपक्ष, खरगे की अगुवाई में आज होगी बड़ी बैठक",
+      "link": "https://www.amarujala.com/india-news/congress-opposition-prepares-to-counter-government-on-womens-reservation-and-delimitation-kharge-meeting-2026-04-14",
+      "summary": "Congress: महिला आरक्षण और परिसीमन पर सरकार को घेरने की तैयारी में विपक्ष, खरगे की अगुवाई में कल होगी बड़ी बैठक",
+      "date": "2026-04-15",
+      "timestamp": "Wed, 15 Apr 2026 03:25:43 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "d63d9930eaab064225fc69d23e47e1e6",
       "title": "AMU: अमेरिका-इस्राइल और ईरान तनाव के बीच एएमयू सतर्क, विदेशी विद्यार्थियों की समस्या समाधान को बनी सिंगल विंडो",
       "link": "https://www.amarujala.com/uttar-pradesh/aligarh/amu-on-alert-amid-us-israel-and-iran-tensions-2026-04-14",
@@ -52,32 +117,6 @@
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
-    },
-    {
-      "id": "25d132067e2387fb989f87b287e1ce36",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 15 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-15",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-15",
-      "timestamp": "Wed, 15 Apr 2026 03:00:50 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "900fc398337c5773847daa0ac8f5a9fb",
-      "title": "पढ़ें 15 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-15",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-15",
-      "timestamp": "Wed, 15 Apr 2026 03:00:36 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "17b0bf20ff5d97b1c42e3b979d01c754",
@@ -13431,6 +13470,19 @@
       "lang": "en"
     },
     {
+      "id": "86544a95052bf36e261eff640d0e4b5b",
+      "title": "Fifth woman accuses former US lawmaker Eric Swalwell of sexual misconduct",
+      "link": "https://www.aljazeera.com/news/2026/4/14/fifth-woman-accuses-former-us-lawmaker-eric-swalwell-of-sexual-misconduct?traffic_source=rss",
+      "summary": "The Democratic representative has resigned his seat in Congress over multiple sexual misconduct allegations.",
+      "date": "2026-04-14",
+      "timestamp": "Tue, 14 Apr 2026 21:49:03 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a64d80c25273ba980b6107a1c57529f7",
       "title": "50 Hindu leaders seek thorough probe into Love Jihad cases",
       "link": "https://www.thehindu.com/news/national/karnataka/50-hindu-leaders-seek-thorough-probe-into-love-jihad-cases/article70861835.ece",
@@ -13506,6 +13558,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "0cf421b3e867ad07fc7f9ce4b5937d23",
+      "title": "Atletico edge Barcelona on aggregate to reach Champions League semifinal",
+      "link": "https://www.aljazeera.com/sports/2026/4/14/atletico-edge-barcelona-on-aggregate-to-reach-champions-league-semifinal?traffic_source=rss",
+      "summary": "Atletico Madrid advance 3-2 on aggregate, despite a 2-1 home defeat by Barcelona, in a thrilling encounter.",
+      "date": "2026-04-14",
+      "timestamp": "Tue, 14 Apr 2026 21:30:24 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -14030,7 +14095,7 @@
     },
     {
       "id": "d8584467a2e747e61b5e2c9ec56a88df",
-      "title": "Another woman accuses Swalwell of drugging and raping her in 2018",
+      "title": "Another woman accuses Swalwell of rape, saying he drugged her in 2018",
       "link": "https://www.bbc.com/news/articles/c78rr9r4e5po?at_medium=RSS&at_campaign=rss",
       "summary": "Lonna Drewes accused Swalwell of drugging her drink before assaulting her in a hotel room.",
       "date": "2026-04-14",
@@ -17628,19 +17693,6 @@
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
-    },
-    {
-      "id": "55ddea28a8e871d57c4a78face07222a",
-      "title": "Congress: महिला आरक्षण और परिसीमन पर सरकार को घेरने की तैयारी में विपक्ष, खरगे की अगुवाई में कल होगी बड़ी बैठक",
-      "link": "https://www.amarujala.com/india-news/congress-opposition-prepares-to-counter-government-on-womens-reservation-and-delimitation-kharge-meeting-2026-04-14",
-      "summary": "Congress: महिला आरक्षण और परिसीमन पर सरकार को घेरने की तैयारी में विपक्ष, खरगे की अगुवाई में कल होगी बड़ी बैठक",
-      "date": "2026-04-14",
-      "timestamp": "Tue, 14 Apr 2026 11:13:24 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "274113fd60491f74d4d648cb84243de0",
@@ -93004,6 +93056,45 @@
       "lang": "en"
     },
     {
+      "id": "5a4cb353f3c0a67d02d5f7a55a675686",
+      "title": "10L execution petitions pending in district courts",
+      "link": "https://timesofindia.indiatimes.com/india/10l-execution-petitions-pending-in-district-courts/articleshow/130270292.cms",
+      "summary": "",
+      "date": "2026-04-14",
+      "timestamp": "2026-04-15T03:52:21+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d989da144b58ad267921b1ba2afc78e4",
+      "title": "As Nitish Kumar exits, there's a new Samrat in Bihar",
+      "link": "https://timesofindia.indiatimes.com/india/as-nitish-kumar-exits-theres-a-new-samrat-in-bihar/articleshow/130268709.cms",
+      "summary": "",
+      "date": "2026-04-14",
+      "timestamp": "2026-04-15T03:29:22+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d71928643ad2cd80361be4a1e9325aeb",
+      "title": "'What Indians wear to gyms may pose health risks'",
+      "link": "https://timesofindia.indiatimes.com/india/what-indians-wear-to-gyms-may-pose-health-risks/articleshow/130268679.cms",
+      "summary": "",
+      "date": "2026-04-14",
+      "timestamp": "2026-04-15T03:13:50+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2e962705aec87a0f12ffa40389293232",
       "title": "Trump thinks drinking soda kills cancer cells: 'It’s freshly squeezed, how bad could it be?'",
       "link": "https://timesofindia.indiatimes.com/world/us/donald-trump-thinks-drinking-soda-kills-cancer-cells-says-health-expert-its-freshly-squeezed-how-bad-could-it-be/articleshow/130268397.cms",
@@ -93062,6 +93153,19 @@
       "summary": "",
       "date": "2026-04-14",
       "timestamp": "2026-04-15T01:53:19+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "07ee5073dad7216760ec105f3aab585f",
+      "title": "‘She was ready...’: Joe Biden ‘wanted’ someone other than Kamala Harris for US VP pick in 2020",
+      "link": "https://timesofindia.indiatimes.com/world/us/she-was-ready-to-say-yes-joe-biden-wanted-someone-other-than-kamala-harris-for-us-vp-pick-in-2020-claims-report/articleshow/130268315.cms",
+      "summary": "",
+      "date": "2026-04-14",
+      "timestamp": "2026-04-15T01:44:17+05:30",
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
