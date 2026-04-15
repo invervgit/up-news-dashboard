@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T21:57:50.896459+00:00",
+  "generated_at": "2026-04-15T22:41:50.935488+00:00",
   "stories": [
     {
       "id": "ccb8234c9d4ec53e8a6ff796741d8750",
@@ -470,6 +470,19 @@
       "lang": "en"
     },
     {
+      "id": "b7817b9aacb89ac2de3c14ab561d07e7",
+      "title": "Brazil’s police open a probe into presidential candidate Flavio Bolsonaro",
+      "link": "https://www.aljazeera.com/news/2026/4/15/brazils-police-open-a-probe-into-presidential-candidate-flavio-bolsonaro?traffic_source=rss",
+      "summary": "Investigation centres on whether Bolsonaro committed defamation by linking Lula to crimes like drug trafficking.",
+      "date": "2026-04-15",
+      "timestamp": "Wed, 15 Apr 2026 21:45:31 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "295a6592dd73648d5ae4da8d2ff23d5d",
       "title": "Assembly Elections 2026 highlights: PM Modi holds roadshow in Tamil Nadu, says DMK losing 'for sure'",
       "link": "https://www.thehindu.com/elections/assembly-elections-2026-west-bengal-tamil-nadu-kerala-assam-puducherry-april-15-2026-live-updates/article70863665.ece",
@@ -863,7 +876,7 @@
       "id": "cf1f3b0bf0fa402f4c0461a92bbea685",
       "title": "Israel appoints first ambassador to Somaliland",
       "link": "https://www.aljazeera.com/news/2026/4/15/israel-appoints-first-ambassador-to-somaliland?traffic_source=rss",
-      "summary": "The move comes months after Israel became the first country to recognise the territory, in a widely condemned move.",
+      "summary": "The decision comes months after Israel became the first country to recognise the territory, in a widely condemned move.",
       "date": "2026-04-15",
       "timestamp": "Wed, 15 Apr 2026 21:05:27 +0000",
       "section": "International",
@@ -32593,6 +32606,71 @@
       "lang": "hi"
     },
     {
+      "id": "0ea1877bfaf26eb1d146a2c9a33a1585",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 16 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-16",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 04:00:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "fb380462cc1fa5565b74869ab32d0475",
+      "title": "पढ़ें 16 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-16",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 04:00:28 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "1166f09088d1b3a7e0b3f4a1547646e5",
+      "title": "Parliament: ऐतिहासिक बदलाव की दहलीज पर संसद, आज पेश होंगे महिला आरक्षण व परिसीमन से जुड़े विधेयक",
+      "link": "https://www.amarujala.com/india-news/parliament-historical-special-session-for-women-reservation-constitution-amendment-delimitation-bill-2026-04-16",
+      "summary": "Parliament: ऐतिहासिक बदलाव की दहलीज पर संसद, आज पेश होंगे महिला आरक्षण व परिसीमन से जुड़े विधेयक parliament historical special session for women reservation constitution amendment delimitation bill",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 03:58:39 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "1e4a3e0fa106ff95f6a91599f825205e",
+      "title": "Nari Shakti Vandan Adhiniyam:विपक्ष करेगा महिला आरक्षण बिल का विरोध, खरगे ने बैठक के बाद बताई वजह!",
+      "link": "https://www.amarujala.com/video/india-news/nari-shakti-vandan-adhiniyam-opposition-will-oppose-the-women-s-reservation-bill-kharge-explained-the-reason-2026-04-16",
+      "summary": "Nari Shakti Vandan Adhiniyam:विपक्ष करेगा महिला आरक्षण बिल का विरोध, खरगे ने बैठक के बाद बताई वजह!",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 03:45:02 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a0b4f6699da0e5792625811732da0099",
+      "title": "सोशल मीडिया से दूर रहकर सिर्फ पढ़ाई पर किया फोकस : स्वस्ति",
+      "link": "https://www.amarujala.com/lucknow/stayed-away-from-social-media-and-focused-only-on-studies-swasti-lucknow-news-c-13-lko1070-1693240-2026-04-16",
+      "summary": "सीबीएसई 10वीं में दिल्ली पब्लिक स्कूल, एल्डिको ब्रांच की छात्रा स्वस्ति जैन ने 99.2 प्रतिशत अंक हासिल किए हैं।",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 03:44:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "4379e11e7333a34084ddfa84e092bbcd",
       "title": "Noida: तेलंगाना और कर्नाटक से निकली चिंगारी से नोएडा में भड़का श्रमिकों का विरोध-प्रदर्शन, जांच में आई तेजी",
       "link": "https://www.amarujala.com/delhi-ncr/sparked-by-telangana-and-karnataka-workers-protests-in-noida-2026-04-16",
@@ -32879,19 +32957,6 @@
       "lang": "en"
     },
     {
-      "id": "0ea1877bfaf26eb1d146a2c9a33a1585",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 16 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-16",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-16",
-      "timestamp": "Thu, 16 Apr 2026 03:00:54 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "2133c29b017bccd32b7f8e68a8966690",
       "title": "Gorakhpur News: डीडीयू से संबद्ध 32 कॉलेजों के प्राचार्यों ने कुलाधिपति के समक्ष रखा अपना विजन",
       "link": "https://www.amarujala.com/gorakhpur/principals-presented-18-points-one-by-one-and-also-pointed-out-the-lack-of-resources-gorakhpur-news-c-7-gkp1038-1290879-2026-04-16",
@@ -32903,19 +32968,6 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
-    },
-    {
-      "id": "fb380462cc1fa5565b74869ab32d0475",
-      "title": "पढ़ें 16 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-16",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-16",
-      "timestamp": "Thu, 16 Apr 2026 03:00:40 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "d8f38924309ef707bbe4a1646d0315a4",
@@ -92471,6 +92523,71 @@
       "lang": "en"
     },
     {
+      "id": "0cf689c21364c457a9efd3f929baaf15",
+      "title": "“This is exhausting”: Candace Owens intensifies clash with Erika Kirk after TPUSA event exit as threat claims face public doubt",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/this-is-exhausting-candace-owens-intensifies-clash-with-erika-kirk-after-tpusa-event-exit-as-threat-claims-face-public-doubt/articleshow/130294044.cms",
+      "summary": "Candace Owens publicly challenged Erika Kirk’s claim that security threats forced her to skip a TPUSA event with JD Vance. Owens said the real reason was low ticket sales, while Kirk maintained her decision was based on safety advice. With no confirmed details from either side, the situation has turned into a growing online feud.",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-16T03:38:42+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "21abb5dd0be89693d19c1c0f210a9879",
+      "title": "ED seizes assets worth over Rs 160 cr of Shyam group firm",
+      "link": "https://timesofindia.indiatimes.com/india/ed-seizes-assets-worth-over-rs-160-cr-of-shyam-group-firm/articleshow/130293538.cms",
+      "summary": "",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-16T03:34:32+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3fe0e280b8a5fa087f1933ac45622405",
+      "title": "At heart of ED's Bengal probe is an illegal transport challan system called 'Lala Pad'",
+      "link": "https://timesofindia.indiatimes.com/india/at-heart-of-eds-bengal-probe-is-an-illegal-transport-challan-system-called-lala-pad/articleshow/130293521.cms",
+      "summary": "",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-16T03:25:52+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b12552280af7c8cb38d0f7d946d90540",
+      "title": "Average daily LPG bookings back to pre-conflict levels: Government",
+      "link": "https://timesofindia.indiatimes.com/india/average-daily-lpg-bookings-back-to-pre-conflict-levels-government/articleshow/130293503.cms",
+      "summary": "",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-16T03:15:22+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f05c78d32f3f658128481eb6a769aa37",
+      "title": "Pratibha Patil, Meira Kumar hail quota, call for inclusivity",
+      "link": "https://timesofindia.indiatimes.com/india/pratibha-patil-meira-kumar-hail-quota-call-for-inclusivity/articleshow/130293294.cms",
+      "summary": "",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-16T03:11:31+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "73029f3ae0b2537ba48f50b89e1aae2f",
       "title": "National security collective duty of citizens, not just of forces: NSA Ajit Doval",
       "link": "https://timesofindia.indiatimes.com/india/national-security-collective-duty-of-citizens-not-just-of-forces-nsa-ajit-doval/articleshow/130293292.cms",
@@ -92519,6 +92636,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "273be50aaec08fb4244d57f750688366",
+      "title": "US-Israel-Iran War News Live Updates: 'Discontinue transit to Iran', Trump shares US Navy video announcing Hormuz blockade",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-updates-ceasefire-israel-airstrike-missile-attack-lebanon-nawaf-salam-donald-trump-pakistan-jd-vance-netanyahu-deal-strait-of-hormuz-blockade-latest-news/liveblog/130293217.cms",
+      "summary": "",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-16T02:11:29+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
