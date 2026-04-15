@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T22:41:50.935488+00:00",
+  "generated_at": "2026-04-15T23:37:36.984410+00:00",
   "stories": [
     {
       "id": "ccb8234c9d4ec53e8a6ff796741d8750",
@@ -168,6 +168,32 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "3e4e9342bd7823de83b117c83bbb1fe4",
+      "title": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
+      "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
+      "date": "2026-04-15",
+      "timestamp": "Wed, 15 Apr 2026 22:56:29 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4c243261a44dfca44e16d5ab8b68398d",
+      "title": "Israel bombs homes in southern Lebanon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/15/israel-bombs-homes-in-southern-lebanon?traffic_source=rss",
+      "summary": "The Israeli army has bombed buildings in southern Lebanon’s Bint Jbeil district.",
+      "date": "2026-04-15",
+      "timestamp": "Wed, 15 Apr 2026 22:53:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -1038,19 +1064,6 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3e4e9342bd7823de83b117c83bbb1fe4",
-      "title": "Ticketmaster-owner Live Nation ran a monopoly and overcharged fans, jury finds",
-      "link": "https://www.bbc.com/news/articles/clyddyp19yyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The lawsuit said the firm's practices had led to higher ticket prices and worse service for customers.",
-      "date": "2026-04-15",
-      "timestamp": "Wed, 15 Apr 2026 20:45:00 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -32611,7 +32624,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-16",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-04-16",
-      "timestamp": "Thu, 16 Apr 2026 04:00:41 +0530",
+      "timestamp": "Thu, 16 Apr 2026 05:00:50 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -32624,12 +32637,77 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-16",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-04-16",
-      "timestamp": "Thu, 16 Apr 2026 04:00:28 +0530",
+      "timestamp": "Thu, 16 Apr 2026 05:00:39 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "6ee5cf9d1803d9e5e648d1f54ea6f138",
+      "title": "Women’s Commission sets up panel to probe alleged sexual harassment at TCS Nashik",
+      "link": "https://www.thehindu.com/news/national/maharashtra/womens-commission-sets-up-panel-to-probe-alleged-sexual-harassment-at-tcs-nashik/article70866790.ece",
+      "summary": "In a statement, the Commission said the panel will visit the facility on April 18 to conduct an on-the-spot inquiry, examine the circumstances leading to the incident and assess the response of the authorities",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 04:57:33 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "448bd5879bda8631c8db138ccbdaa69e",
+      "title": "38 booked, 23 held in Uttar Pradesh over violence on Ambedkar Jayanti",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/38-booked-23-held-in-up-over-violence-on-ambedkar-jayanti/article70865922.ece",
+      "summary": "Anti-social elements allegedly tried to block the route of a procession taken out by the Dalit community to celebrate Dr. B.R. Ambedkar’s birth anniversary: police",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 04:40:19 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "36046a5a6ea61903ed15533f287f7917",
+      "title": "Chhattisgarh cabinet forms committee to prepare UCC draft",
+      "link": "https://www.thehindu.com/news/national/chhattisgarh/chhattisgarh-cabinet-forms-committee-to-prepare-ucc-draft/article70866040.ece",
+      "summary": "The Opposition Congress has criticised the move, claiming that it would harm the tribals who constitute a major portion of the State’s population.",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 04:33:21 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6a3b095fa1966980a53e024db37bd664",
+      "title": "Austria-India Ties: विदेश मंत्री ने ऑस्ट्रिया के चांसलर स्टॉकर से की मुलाकात, आज पीएम मोदी से करेंगे चर्चा",
+      "link": "https://www.amarujala.com/india-news/austria-chancellor-christian-stockner-visit-india-trade-ties-to-strengthen-jaishankar-pm-modi-2026-04-16",
+      "summary": "Austria-India Ties: विदेश मंत्री ने ऑस्ट्रिया के चांसलर स्टॉकर से की मुलाकात, आज पीएम मोदी से करेंगे चर्चा",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 04:21:59 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "809cdf7e07452d1f12957a34fdb67513",
+      "title": "Pakistani delegation, led by Army chief Munir, reaches Iran for peace talks",
+      "link": "https://www.thehindu.com/news/international/pakistani-delegation-led-by-army-chief-munir-reaches-iran-for-peace-talks/article70866779.ece",
+      "summary": "Iranian Foreign Minister Abbas Araghchi welcomed the delegation members upon their arrival in Tehran, according to the Iranian media",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 04:09:17 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "1166f09088d1b3a7e0b3f4a1547646e5",
@@ -32643,6 +32721,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "c4353785c296868bde50a34e8790342b",
+      "title": "Israel-Iran war LIVE: Pakistani delegation, led by Army chief Munir, reaches Iran for peace talks",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-15-2026/article70863575.ece",
+      "summary": "Pakistan PM Shehbaz Sharif arrived in Saudi Arabia before a possible second round of U.S.-Iran peace talks; U.S. says nine vessels turned back in 48 hours of Iran port blockade",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 03:52:06 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "1e4a3e0fa106ff95f6a91599f825205e",
@@ -34062,19 +34153,6 @@
       "lang": "en"
     },
     {
-      "id": "c4353785c296868bde50a34e8790342b",
-      "title": "Israel-Iran war LIVE: Pakistani delegation, led by Army chief Munir, reaches Iran for peace talks",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-west-asia-conflict-live-updates-april-15-2026/article70863575.ece",
-      "summary": "Pakistan PM Shehbaz Sharif arrived in Saudi Arabia before a possible second round of U.S.-Iran peace talks; U.S. says nine vessels turned back in 48 hours of Iran port blockade",
-      "date": "2026-04-16",
-      "timestamp": "Thu, 16 Apr 2026 01:47:52 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "68a19d5e1994c92a5547f1c6d68763bb",
       "title": "Lucknow Fire Accident Update: लखनऊ के भीषण अग्निकांड में 1200 झोपड़ियां खाक, प्रशासन अलर्ट",
       "link": "https://www.amarujala.com/video/india-news/lucknow-fire-accident-update-1200-huts-reduced-to-ashes-in-massive-fire-in-lucknow-administration-on-alert-2026-04-16",
@@ -34153,19 +34231,6 @@
       "lang": "en"
     },
     {
-      "id": "448bd5879bda8631c8db138ccbdaa69e",
-      "title": "38 booked, 23 held in U.P. over violence on Ambedkar Jayanti",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/38-booked-23-held-in-up-over-violence-on-ambedkar-jayanti/article70865922.ece",
-      "summary": "Anti-social elements allegedly tried to block the route of a procession taken out by the Dalit community to celebrate Dr. B.R. Ambedkar’s birth anniversary: police",
-      "date": "2026-04-16",
-      "timestamp": "Thu, 16 Apr 2026 01:10:02 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "0f6ffa728f99938ce2aaab0153a89988",
       "title": "Israeli support for Iran attack slumps, shows survey",
       "link": "https://www.thehindu.com/news/international/israeli-support-for-iran-attack-slumps-shows-survey/article70865694.ece",
@@ -34226,6 +34291,19 @@
       "timestamp": "Thu, 16 Apr 2026 00:57:15 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dfd26c9814c4e8cb5f7603abd7509b7a",
+      "title": "Vijay’s campaign draws huge crowd, brings city to a halt",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/vijayscampaign-draws-huge-crowd-brings-city-to-a-halt/article70866316.ece",
+      "summary": "",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 00:55:11 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -92523,6 +92601,58 @@
       "lang": "en"
     },
     {
+      "id": "2599243600c0e30b0e8d2bb661209c2a",
+      "title": "Mamata deindustrialised Bengal, encouraged corruption: Rajnath Singh",
+      "link": "https://timesofindia.indiatimes.com/india/mamata-deindustrialised-bengal-encouraged-corruption-rajnath-singh/articleshow/130295252.cms",
+      "summary": "",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-16T04:29:07+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "91b84d19beb8c3890e38e80318b31b2c",
+      "title": "TVK cadres struggle to match campaign of Dravidian majors",
+      "link": "https://timesofindia.indiatimes.com/india/tvk-cadres-struggle-to-match-campaign-of-dravidian-majors/articleshow/130295245.cms",
+      "summary": "",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-16T04:18:54+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "98e8f04341964343c0a8e562bb61d39f",
+      "title": "Will drop 'false' cases against Gorkha netas, says Amit Shah",
+      "link": "https://timesofindia.indiatimes.com/india/will-drop-false-cases-against-gorkha-netas-says-amit-shah/articleshow/130295230.cms",
+      "summary": "",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-16T04:12:12+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7b3c9060c1698cf5893461c97979af36",
+      "title": "District with most SIR deletions to see max CAPF deployment",
+      "link": "https://timesofindia.indiatimes.com/india/district-with-most-sir-deletions-to-see-max-capf-deployment/articleshow/130295219.cms",
+      "summary": "",
+      "date": "2026-04-15",
+      "timestamp": "2026-04-16T04:05:33+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0cf689c21364c457a9efd3f929baaf15",
       "title": "“This is exhausting”: Candace Owens intensifies clash with Erika Kirk after TPUSA event exit as threat claims face public doubt",
       "link": "https://timesofindia.indiatimes.com/world/us-streamers/this-is-exhausting-candace-owens-intensifies-clash-with-erika-kirk-after-tpusa-event-exit-as-threat-claims-face-public-doubt/articleshow/130294044.cms",
@@ -92628,9 +92758,9 @@
     },
     {
       "id": "5e9c3ab7bbd571d40d5fa12e5a316e47",
-      "title": "Govt counters oppn, says South will gain LS seats under new formula",
+      "title": "'Delimitation won’t be based on 2011 census': Seats in all states to rise 50%, govt to tell Lok Sabha today",
       "link": "https://timesofindia.indiatimes.com/india/govt-counters-oppn-says-south-will-gain-ls-seats-under-new-formula/articleshow/130293195.cms",
-      "summary": "'2011 Census Won't Be Basis For Allocation Of LS Seats'",
+      "summary": "",
       "date": "2026-04-15",
       "timestamp": "2026-04-16T02:17:08+05:30",
       "section": "National",
