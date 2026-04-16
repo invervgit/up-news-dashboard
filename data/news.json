@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T21:37:55.046524+00:00",
+  "generated_at": "2026-04-16T22:34:51.479722+00:00",
   "stories": [
     {
       "id": "ccb8234c9d4ec53e8a6ff796741d8750",
@@ -21595,6 +21595,19 @@
       "lang": "en"
     },
     {
+      "id": "5f723329d89d3fd87ced262ad9de7b30",
+      "title": "Displaced Lebanese wary as ceasefire between Israel and Hezbollah begins",
+      "link": "https://www.aljazeera.com/news/2026/4/16/displaced-lebanese-wary-as-ceasefire-between-israel-and-hezbollah-begins?traffic_source=rss",
+      "summary": "Tensions linger as evacuees await clarity on the ceasefire’s terms before risking a return to war-torn villages.",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 22:04:10 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9934562766282b46755f1228ed3f7129",
       "title": "BDA to move High Court; claims 90% of civil works complete",
       "link": "https://www.thehindu.com/news/national/karnataka/bda-to-move-high-court-claims-90-of-civil-works-complete/article70870025.ece",
@@ -21657,6 +21670,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a7db1e7825c11fb26d9bc83eaba7e7ad",
+      "title": "US State Department restricts visas for those who ‘support adversaries’",
+      "link": "https://www.aljazeera.com/news/2026/4/16/us-state-department-restricts-visas-for-those-who-support-adversaries?traffic_source=rss",
+      "summary": "Trump administration says it has taken action against 26 people 'across our hemisphere' who allegedly undermined US.",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 21:54:52 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -21773,6 +21799,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "824ca66ad079bc7f6a6d177781476f25",
+      "title": "Netflix cofounder Hastings to step down after it lost Warner Bros deal",
+      "link": "https://www.aljazeera.com/economy/2026/4/16/netflix-cofounder-hastings-to-step-down-after-it-lost-warner-bros-deal?traffic_source=rss",
+      "summary": "The company's stock plunged about 8 percent on the news of Hastings's departure.",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 21:34:39 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -21942,6 +21981,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "062f76428eef23a691e4477be901238b",
+      "title": "US House votes to extend temporary protections for Haitians in Trump rebuke",
+      "link": "https://www.aljazeera.com/news/2026/4/16/us-house-votes-to-extend-temporary-protections-for-haitians-in-trump-rebuke?traffic_source=rss",
+      "summary": "Ten Republicans join Democrats to extend Temporary Protected Status for nearly 350,000 Haitians in the United States.",
+      "date": "2026-04-16",
+      "timestamp": "Thu, 16 Apr 2026 21:22:19 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -80459,6 +80511,58 @@
       "lang": "en"
     },
     {
+      "id": "d8d5c8ef5d069390057aa9f0ec6a618c",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 17 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-17",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-17",
+      "timestamp": "Fri, 17 Apr 2026 04:00:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9c03298607511dc0c212ed3dcdc984b9",
+      "title": "पढ़ें 17 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-17",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-17",
+      "timestamp": "Fri, 17 Apr 2026 04:00:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "2710658aa022b980bd136ad854c2849b",
+      "title": "परिसीमन: केंद्रीय गृह मंत्री अमित शाह बोले- दक्षिण में कम नहीं होंगी सीटें, भ्रम न फैलाएं",
+      "link": "https://www.amarujala.com/india-news/delimitation-union-home-minister-amit-shah-says-no-seat-cut-south-india-lok-sabha-seats-to-increase-2026-04-17",
+      "summary": "परिसीमन: केंद्रीय गृह मंत्री अमित शाह बोले- दक्षिण में कम नहीं होंगी सीटें, भ्रम न फैलाएं",
+      "date": "2026-04-17",
+      "timestamp": "Fri, 17 Apr 2026 03:58:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b3f501f02e778e81370410a20f87fc4b",
+      "title": "आज के दिन: संसद के विशेष सत्र का दूसरा दिन, राज्यसभा के उपसभापति पद का चुनाव",
+      "link": "https://www.amarujala.com/india-news/17-april-2026-major-events-2026-04-16",
+      "summary": "नमस्कार! आज है शक्रवार, 17 अप्रैल। इस खबर के जरिए हम आपको बताएंगे कि आज देश-दुनिया में क्या कुछ होने वाला है? आइए जानते हैं...",
+      "date": "2026-04-17",
+      "timestamp": "Fri, 17 Apr 2026 03:39:54 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "db58445d1e22365fa1c6948a99515d71",
       "title": "Gorakhpur News: लग्न में सजे बाजार, एक ही जगह मिल रहा पूरा पूजन सामान",
       "link": "https://www.amarujala.com/gorakhpur/ready-made-puja-sets-ranging-from-rs-500-to-rs-1500-are-making-shopping-easier-for-people-gorakhpur-news-c-7-gkp1038-1291814-2026-04-17",
@@ -80496,32 +80600,6 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
-    },
-    {
-      "id": "d8d5c8ef5d069390057aa9f0ec6a618c",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 17 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-17",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-17",
-      "timestamp": "Fri, 17 Apr 2026 03:00:49 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "9c03298607511dc0c212ed3dcdc984b9",
-      "title": "पढ़ें 17 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-17",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-17",
-      "timestamp": "Fri, 17 Apr 2026 03:00:35 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "7181ef9a64f6c605f1c389459b7c9307",
@@ -94235,6 +94313,71 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4c33185641961178d50de4ec1f2d0a47",
+      "title": "20% of 1,478 fighting Bengal phase-1 polls crorepatis. The poorest has Rs 500 assets",
+      "link": "https://timesofindia.indiatimes.com/india/20-of-1478-fighting-bengal-phase-1-polls-crorepatis-the-poorest-has-rs-500-assets/articleshow/130319909.cms",
+      "summary": "",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-17T03:50:24+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f40c8da842106ee4d6d399fe23c8d901",
+      "title": "Kerala directly spent just Rs 103cr of own funds for Wayanad relief",
+      "link": "https://timesofindia.indiatimes.com/india/kerala-directly-spent-just-rs-103cr-of-own-funds-for-wayanad-relief/articleshow/130318740.cms",
+      "summary": "",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-17T03:39:30+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "581a088f30f1abe958b1d334f46720fd",
+      "title": "'Seasoned diplomat': Trump congratulates former envoy to US Taranjit Sandhu on Delhi LG appointment",
+      "link": "https://timesofindia.indiatimes.com/india/seasoned-diplomat-trump-congratulates-former-envoy-to-us-taranjit-sandhu-on-delhi-lg-appointment/articleshow/130317797.cms",
+      "summary": "",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-17T03:24:35+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ae540895981facc8bfdaf1cf3e3164ab",
+      "title": "Vijay promises free LPG, doles & wedding gold",
+      "link": "https://timesofindia.indiatimes.com/india/vijay-promises-free-lpg-doles-wedding-gold/articleshow/130318042.cms",
+      "summary": "",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-17T03:21:31+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b6d794e0ad9c316baa5a975be1c9bc10",
+      "title": "Dodgers Smash Spending Record: MLB data shows $514.6m outlay in 2025; gap with low-payroll teams widens",
+      "link": "https://timesofindia.indiatimes.com/sports/international-sports/dodgers-shatter-mlb-spending-record-in-2025-at-514-6m-spending-more-than-bottom-six-teams-combined/articleshow/130317745.cms",
+      "summary": "The Los Angeles Dodgers shattered MLB spending records in 2025 with a $514.6 million total payroll and luxury tax bill, powering their second straight World Series title. Their outlay dwarfed rivals, including a budget more than seven times the Miami Marlins’ and exceeding the bottom six teams combined. The spending gap highlights growing financial disparity across Major League Baseball.",
+      "date": "2026-04-16",
+      "timestamp": "2026-04-17T03:06:24+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
