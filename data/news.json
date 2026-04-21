@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T22:33:39.176940+00:00",
+  "generated_at": "2026-04-21T23:31:09.092870+00:00",
   "stories": [
     {
       "id": "5f6df601b6fbefc4c1415adee86e98d0",
@@ -288,14 +288,92 @@
       "lang": "en"
     },
     {
+      "id": "ea719c7934ec07821ae66ead6d01c75c",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 22 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-22",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 05:00:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ca93c442b1e4a64469c0f18b4618c4de",
+      "title": "Action on Kharge:खरगे ने पीएम मोदी पर की टिप्पणी तो भड़की बीजेपी ने कर दी चुनाव आयोग से एक्शन की मांग",
+      "link": "https://www.amarujala.com/video/india-news/action-on-kharge-bjp-enraged-over-kharge-s-comment-on-pm-modi-demanding-action-from-the-election-commission-2026-04-22",
+      "summary": "पश्चिम बंगाल का विधानसभा चुनाव जैसे-जैसे नज़दीक आता जा रहा है, वैसे-वैसे सियासी पारा भी चढ़ता जा रहा है",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 04:51:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "f8202f97e585148930c0aace25785b1d",
+      "title": "Trump extends ceasefire until Iranian proposal is submitted, talks are over",
+      "link": "https://www.thehindu.com/news/international/us-iran-ceasefire-extended-donald-trump-war-deal-talks/article70890318.ece",
+      "summary": "A senior commander in Iran’s Islamic Revolutionary Guard Corps threatened to destroy the region’s oil industry if war with the U.S. resumes",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 04:43:40 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "eb18c0f42215ba4af84fb2491286007d",
       "title": "पढ़ें 22 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-22",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 04:00:35 +0530",
+      "timestamp": "Wed, 22 Apr 2026 04:30:18 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d1da47586811925ebbbf880184a188eb",
+      "title": "I have doubts about Ajit Pawar’s air crash, says Sunetra Pawar",
+      "link": "https://www.thehindu.com/news/national/maharashtra/i-have-doubts-about-ajit-pawars-air-crash-says-sunetra-pawar/article70889815.ece",
+      "summary": "She was speaking at the concluding rally of her political campaign in Baramati",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 04:20:42 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "720f6d6b3d77f570405620d22d74bdbe",
+      "title": "Iran-Israel war LIVE: Trump extends ceasefire until Iran submits proposal",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-21-2026-donald-trump-tehran-us-pakistan/article70886996.ece",
+      "summary": "An Iranian commander had threatened to destroy the region's oil industry if war resumed with the U.S.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 04:15:20 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0a91044f4b9709a229ca868e5f0979a8",
+      "title": "Maharashtra: सरकारी ठेके दिलाने का झांसा देकर सात लोगों से 91 लाख रुपये ठगे, मामला दर्ज",
+      "link": "https://www.amarujala.com/india-news/maharashtra-news-updates-today-mumbai-police-crime-politics-of-state-2026-04-22",
+      "summary": "Maharashtra: सरकारी ठेके दिलाने का झांसा देकर सात लोगों से 91 लाख रुपये ठगे, मामला दर्ज maharashtra news updates today mumbai police crime politics of state",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 04:12:33 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -350,19 +428,6 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "ea719c7934ec07821ae66ead6d01c75c",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 22 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-22",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 03:30:31 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -1536,19 +1601,6 @@
       "lang": "en"
     },
     {
-      "id": "720f6d6b3d77f570405620d22d74bdbe",
-      "title": "Iran-Israel war LIVE: Trump extends ceasefire until Iran submits proposal",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-21-2026-donald-trump-tehran-us-pakistan/article70886996.ece",
-      "summary": "An Iranian commander had threatened to destroy the region's oil industry if war resumed with the U.S.",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 02:11:27 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "96cdcc4d9d0ff2b6e64747455e51187e",
       "title": "Gorakhpur News: एशिया बुक ऑफ रिकॉर्ड्स में दर्ज हुआ गोरखपुर विश्वविद्यालय की छात्रा का नाम",
       "link": "https://www.amarujala.com/gorakhpur/a-three-centimeter-mandala-art-was-created-on-a-dried-hibiscus-leaf-using-a-toothpick-in-443-minutes-gorakhpur-news-c-7-gkp1038-1296566-2026-04-22",
@@ -1572,19 +1624,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
-      "lang": "en"
-    },
-    {
-      "id": "f8202f97e585148930c0aace25785b1d",
-      "title": "Trump extends ceasefire until Iranian proposal is submitted, talks are over",
-      "link": "https://www.thehindu.com/news/international/us-iran-ceasefire-extended-donald-trump-war-deal-talks/article70890318.ece",
-      "summary": "The U.S. President ⁠said he was acting at the request of ​Pakistan to ‌hold off attacks until Iranian leaders and representatives could come ‌up with what ​he called a unified proposal",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 02:08:23 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -12755,6 +12794,32 @@
       "lang": "en"
     },
     {
+      "id": "9807d8c204eb267662085c5d6322ae1f",
+      "title": "Paraguay plans to accept 25 third-country migrant deportees from US",
+      "link": "https://www.aljazeera.com/news/2026/4/21/paraguay-plans-to-accept-25-third-country-migrant-deportees-from-us?traffic_source=rss",
+      "summary": "The Trump administration has signed multimillion-dollar deals with foreign countries to accept non-citizen deportees.",
+      "date": "2026-04-21",
+      "timestamp": "Tue, 21 Apr 2026 23:10:21 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dbc90418e6083de0301e4cf185d7f4b5",
+      "title": "Trump administration sues Southern Poverty Law Center on fraud charges",
+      "link": "https://www.aljazeera.com/news/2026/4/21/trump-administration-sues-southern-poverty-law-center-on-fraud-charges?traffic_source=rss",
+      "summary": "The civil rights group has long been a target for conservative activists who object to its characterisations.",
+      "date": "2026-04-21",
+      "timestamp": "Tue, 21 Apr 2026 23:08:16 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4e8b1eef5321762aad6ea1c03364dda4",
       "title": "Trump says U.S. in ‘very, very strong’ position for Iran talks",
       "link": "https://www.thehindu.com/news/international/donald-trump-says-us-in-very-very-strong-position-for-iran-talks/article70888667.ece",
@@ -13002,6 +13067,19 @@
       "lang": "en"
     },
     {
+      "id": "f2ab054413b2491226cd4538cbdd94b7",
+      "title": "Why police are seeking to arrest billionaire K-pop mogul behind BTS",
+      "link": "https://www.bbc.com/news/articles/cz78zj74548o?at_medium=RSS&at_campaign=rss",
+      "summary": "Bang Si-hyuk, who created the supergroup, denies defrauding investors before his $7.3bn company went public.",
+      "date": "2026-04-21",
+      "timestamp": "Tue, 21 Apr 2026 22:28:21 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4c20c8ca184a424256e229a7d4f19dff",
       "title": "BJP seeks Election Commission action against Congress chief Kharge for remark on PM",
       "link": "https://www.thehindu.com/news/national/bjp-seeks-election-commission-action-against-congress-chief-kharge-for-remark-on-pm/article70889542.ece",
@@ -13050,6 +13128,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "733b5f11db10b64dd0b30422262fa01c",
+      "title": "Peru’s election chief steps down amid frustration over long vote count",
+      "link": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count?traffic_source=rss",
+      "summary": "Ballot delivery delays and other missteps on election day have contributed to frustration with electoral authorities.",
+      "date": "2026-04-21",
+      "timestamp": "Tue, 21 Apr 2026 22:14:40 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -13265,7 +13356,7 @@
       "id": "f1da68cc63b8ba685942c53b489d7cf4",
       "title": "Real Madrid close on Barcelona as Mbappe and Vinicius net against Alaves",
       "link": "https://www.aljazeera.com/sports/2026/4/21/real-madrid-close-on-barcelona-as-mbappe-and-vinicius-net-against-alaves?traffic_source=rss",
-      "summary": "Real Madrid beat relegation-threatened Alaves 2-1 in La Liga to close the gap to leaders Barcelona to six points.",
+      "summary": "Real Madrid beat relegation-threatened Alaves 2-1 in La Liga to close the gap with leaders Barcelona to six points.",
       "date": "2026-04-21",
       "timestamp": "Tue, 21 Apr 2026 21:49:40 +0000",
       "section": "International",
@@ -95470,6 +95561,32 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b4f8dd5927f610716c416d9d7a61e886",
+      "title": "Defence ministry inks Rs 975cr deals for key equipment for T-72, T-90 tanks",
+      "link": "https://timesofindia.indiatimes.com/india/defence-ministry-inks-rs-975cr-deals-for-key-equipment-for-t-72-t-90-tanks/articleshow/130429327.cms",
+      "summary": "",
+      "date": "2026-04-21",
+      "timestamp": "2026-04-22T04:42:00+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ebaf562d9c46a720f68d3148fc4eeb46",
+      "title": "IAF’s Sirsa unit fired Barak-8 last May to shoot down Pak ballistic missile that may have had Delhi as target",
+      "link": "https://timesofindia.indiatimes.com/india/iafs-sirsa-unit-fired-barak-8-last-may-to-shoot-down-pak-ballistic-missile-that-may-have-had-delhi-as-target/articleshow/130429297.cms",
+      "summary": "",
+      "date": "2026-04-21",
+      "timestamp": "2026-04-22T04:34:35+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
