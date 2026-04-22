@@ -1,6 +1,552 @@
 {
-  "generated_at": "2026-04-22T07:24:56.357163+00:00",
+  "generated_at": "2026-04-22T09:14:39.422796+00:00",
   "stories": [
+    {
+      "id": "a996c956f2b9acee78aaf2e5cab1db9f",
+      "title": "Tamil Nadu 2026 elections: Candidates, electors, and more",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-assembly-elections-2026-candidates-electors-constituencies-infographics/article70887723.ece",
+      "summary": "Tamil Nadu’s 234 constituencies will go to polls on April 23 to elect its 17th State Assembly. We explain, using graphics, everything you need to know about the candidates and voter demographics in the State",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:38:11 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8088cd544107fc839afe573967e9372a",
+      "title": "Assembly Elections 2026 LIVE: West Bengal's identity is not associated with Kaaba, but with Maa Kalibari, says Uttar Pradesh CM Yogi Adityanath",
+      "link": "https://www.thehindu.com/news/national/assembly-elections-2026-april-22-highlights-tamil-nadu-kerala-puducherry-chennai-kerala-assam-poll-updates-poll-results-date/article70891255.ece",
+      "summary": "Addressing a rally in Kolkata's Jorasanko Assembly area, the Uttar Pradesh CM said, \"The lawlessness that we're witnessing here is similar to the lawlessness that existed in Uttar Pradesh before 2017. Today, there is no unrest in U.P.”",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:34:04 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "751d157b439074bc366cc2c13248377e",
+      "title": "Former CM Nadendla Bhaskara Rao passes away in Hyderabad",
+      "link": "https://www.thehindu.com/news/national/telangana/former-ap-cm-nadendla-bhaskara-rao-passes-away-in-hyderabad/article70892038.ece",
+      "summary": "The former Chief Minister of erstwhile Andhra Pradesh won his maiden election in 1978 from Vijayawada East on a Congress ticket",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:25:10 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5ba85620ca62daa55b344faa3b8026d6",
+      "title": "Kerala fireworks accident: Emotional scenes at Thrissur MCH mortuary as families mourn victims",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-fireworks-accident-emotional-scenes-at-thrissur-mch-mortuary-as-families-mourn-victims/article70891781.ece",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:22:44 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d68e29d1b40026f1b7f53d36a9d252d7",
+      "title": "Transport Minister targets KCR, Harish Rao over Telangana RTC strike",
+      "link": "https://www.thehindu.com/news/national/telangana/transport-minister-targets-kcr-harish-rao-over-telangana-rtc-strike/article70891893.ece",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:19:42 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b486e3947d61aebac1633aa5580bdaf1",
+      "title": "Large scale disruption in bus services as Telangana RTC employees launch indefinite strike",
+      "link": "https://www.thehindu.com/news/national/telangana/large-scale-disruption-in-bus-services-as-telangana-rtc-employees-launch-indefinite-strike/article70891758.ece",
+      "summary": "Transport Minister Ponnam Prabhakar said Telangana government has not objected to 29 of the 32 demands raised by TGSRTC workers’ union, leaving only two issues unresolved",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:13:46 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "aa8f838238940e790d1ed0b454fd0dea",
+      "title": "अखिलेश की मां पर विवादित टिप्पणी का आरोप लगा मेयर दफ्तर पहुंचे सपाई, नेम प्लेट को चप्पल से पीटा",
+      "link": "https://www.livehindustan.com/uttar-pradesh/accused-of-commenting-akhilesh-yadav-s-mother-sp-workers-reached-shushma-kharakwal-mayor-s-office-201776846485776.html",
+      "summary": "लखनऊ की मेयर सुषमा खर्कवाल पर सपा प्रमुख अखिलेश यादव की मां के खिलाफ विवादित टिप्पणी करने का आरोप लगाते हुए बुधवार को सपाइयों ने उनके कैंप कार्यालय पर जमकर नारेबाजी की। सपा कार्यकर्ताओं ने मेयर की नेम प्लेट को चप्पल से पीटा और कालिख पोतने की कोशिश की।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:11:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c2b70f60802680ad440f431415ebe04e",
+      "title": "IPL betting racket busted in Nellore; 12 held, ₹37 lakh transactions traced",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ipl-betting-racket-busted-in-nellore-12-held-37-lakh-transactions-traced/article70891709.ece",
+      "summary": "The main accused, Sk. Fariaz, acted as the administrator; police seized ₹2.05 lakh cash, 13 mobile phones and a television, and froze three bank accounts",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:09:46 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d409dcf2e44394b34af904cc83e9fb25",
+      "title": "Kerala fireworks accident: Special team to probe cause of explosion in Thrissur that killed 13",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-fireworks-accident-special-team-to-probe-cause-of-explosionin-thrissur-that-killed-13/article70891787.ece",
+      "summary": "State Police Chief to hold high-level meeting with police, Revenue, Fire and Rescue Services departments, and Petroleum and Explosives Safety Organisation officials in Thrissur after visiting accident site",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:08:02 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f3c419db3de84ab014a8b4ee5bb0a767",
+      "title": "फिल्मी अंदाज में बेटियों ने मां संग मिलकर लिखी पिता के हत्या की पटकथा, गला कसकर मर्डर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-mahoba-man-killed-by-family-three-daughters-mother-planned-murder-strangled-to-death-201776845610926.html",
+      "summary": "यूपी के महोबा में हरिनारायण की हत्या का खुलासा सुनकर लोग दंग रह गए। परिजनों ने फिल्मी अंदाज में हत्या की पटकथा तैयार करते हुए घटना को अंजाम दिया और पूर्व में पड़ोसी से हुए विवाद का लाभ उठाकर पड़ोसी शिक्षक के खिलाफ हत्या का केस दर्ज करा दिया।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:05:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5fa4a00fbcff704e71f30aba0225a734",
+      "title": "Ex-Andhra Pradesh Chief Minister Nadendla Bhaskara Rao dies at 90",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ex-andhra-pradesh-chief-minister-nadendla-bhaskara-rao-dies-at-90/article70891964.ece",
+      "summary": "Mr. Bhaskara Rao, who served as Chief Minister for 31 days in 1984 after a political revolt against N.T. Rama Rao, died at a private hospital in Hyderabad on Wednesday; his last rites will be performed on April 24",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:05:21 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bb4603381471cdcb577a0dd0e704a1c6",
+      "title": "Karnataka’s tourist footfall sees fourfold rise, crosses 30 crore visitors post pandemic",
+      "link": "https://www.thehindu.com/news/national/karnataka/karnatakas-tourist-footfall-sees-fourfold-rise-crosses-30-crore-visitors-post-pandemic/article70873821.ece",
+      "summary": "The State has consistently ranked among the top three in the country for domestic tourist arrivals, says Patil",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:02:39 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "80b5b532d1885f90997e69691af456a6",
+      "title": "Telangana CM pays tributes to martyrs of Pahalgam terror attack on first anniversary",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-cm-pays-tributes-to-martyrs-of-pahalgam-terror-attack-on-first-anniversary/article70891684.ece",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:01:33 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b8e9efbb6c8bb8e6082f2fe08a3d55c8",
+      "title": "महिला आरक्षण पर गुमराह न हों, धरना-प्रदर्शन न करें, मायावती की बसपा नेताओं-कार्यकर्ताओं को सलाह",
+      "link": "https://www.livehindustan.com/uttar-pradesh/mayawati-instructions-bsp-workers-women-reservation-no-protest-lucknow-201776844737500.html",
+      "summary": "बसपा प्रमुख मायावती ने नेताओं-कार्यकर्ताओं को महिला आरक्षण मुद्दे पर गुमराह न होने और किसी भी तरह के धरना-प्रदर्शन से बचने की सलाह दी है। उन्होंने साफ किया कि पार्टी का स्टैंड 15 अप्रैल वाला ही रहेगा।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 14:00:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "dfc1ea008f8fe64855c21469299b87ca",
+      "title": "HYDRAA secures 9.05 acre govt land parcel in Shamshabad",
+      "link": "https://www.thehindu.com/news/national/telangana/hydraa-secures-905-acre-govt-land-parcel-in-shamshabad/article70891974.ece",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:54:53 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9658b441ddf846748eb9a805abc341a8",
+      "title": "BJP delegation meets ECI, seeks stringent action against Kharge for ‘terrorist’ remark targeting PM",
+      "link": "https://www.thehindu.com/news/national/bjp-delegation-meets-eci-seeks-stringent-action-against-kharge-for-terrorist-remark-targeting-pm/article70892008.ece",
+      "summary": "Nirmala Sitharaman alleged that the Congress is “completely frustrated” and making such remarks against the Prime Minister amid Assembly polls in Tamil Nadu and West Bengal because of its \"deep hatred\" towards PM Modi",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:51:26 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1e5e26b56a1f4fdf60ed7f5fac8d20c0",
+      "title": "Dhruva Natchathiram release: Madras High Court to pass orders on April 24",
+      "link": "https://www.thehindu.com/entertainment/movies/dhruva-natchathiram-release-madras-high-court-to-pass-orders-on-april-24/article70891506.ece",
+      "summary": "Justice Senthilkumar Ramamoorthy wound up hearing oral arguments in the case and decided to dictate orders on April 24, 2026",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:50:17 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "542716887683a3839bf900f3e4a8ff05",
+      "title": "Actor Nusrat appears before ED in Kolkata in connection with housing project fraud probe",
+      "link": "https://www.thehindu.com/news/national/west-bengal/actor-nusrat-appears-before-ed-in-kolkata-in-connection-with-housing-project-fraud-probe/article70891879.ece",
+      "summary": "\"She has been summoned in connection with an ongoing investigation into a housing fraud case.” an ED official said",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:48:25 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a9ef860dd1a0367aa485d62cb141402c",
+      "title": "India will never bow before forces spreading hatred, fear: Rahul on Pahalgam attack anniversary",
+      "link": "https://www.thehindu.com/news/national/india-will-never-bow-before-forces-spreading-hatred-fear-rahul-on-pahalgam-attack-anniversary/article70891811.ece",
+      "summary": "On the first anniversary of the dastardly attack, Rahul Gandhi paid his heartfelt tributes to all the brave hearts who were killed",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:46:39 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fc56a3eb8b23d04810f589ad4e486fb0",
+      "title": "पुलिसवाला पुलिसवालों से ही कर रहा था वसूली, ऐक्शन में SSP; दो दरोगा-एक हेडकांस्टेबल सस्पेंड",
+      "link": "https://www.livehindustan.com/uttar-pradesh/a-policeman-extorting-money-from-other-police-officers-prompting-ssp-to-take-action-two-inspectors-and-a-head-constable-201776844831512.html",
+      "summary": "पुलिस लाइन में तैनात मेजर हेड कांस्टेबल पर लाइन में प्रशिक्षु आरक्षियों से अवैध वसूली किए जाने की शिकायत मिली थी। आरोप है कि प्रशिक्षक ने प्रशिक्षु आरक्षियों से फायरिंग और इंडोर परीक्षा के नाम पर वसूली की थी। SSP ने जांच SP क्राइम को सौंपी थी। जांच में प्रथमदृष्टया आरोप सही पाए गए।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:42:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "3effae2cfab06d17da9182223c7b59e0",
+      "title": "Telangana HC verdict on P.C. Ghose Commission report draws cheers from BRS",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-hc-verdict-on-pc-ghose-commission-report-draws-cheers-from-brs/article70891981.ece",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:39:14 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "36b57ddb02192177986595221bf23d1e",
+      "title": "China condemns Japanese leaders' war shrine offerings, visits",
+      "link": "https://www.thehindu.com/news/international/china-condemns-japanese-leaders-war-shrine-offerings-visits/article70891969.ece",
+      "summary": "Japan’s “negative ‌actions” concerning ‌the ⁠shrine “grossly trample on ⁠human conscience”, and China is “very indignant at these ​heinous ‌acts and strongly condemns them”, says a spokesperson for Beijing’s ‌Foreign Ministry",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:38:49 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0bdd62838c9a4bd4bff93d7fa4f4c169",
+      "title": "Delhi High Court judge recuses from hearing contempt PIL against Kejriwal over circulation of court videos",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-high-court-judge-recuses-from-hearing-contempt-pil-against-kejriwal-over-circulation-of-court-videos/article70891906.ece",
+      "summary": "Justice Karia, a former partner at a leading law firm, represented Meta in several cases before his elevation as a judge",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:36:48 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7e0e788bdf07e5776f93c5ffb318572a",
+      "title": "IRS officer's daughter found murdered in southeast Delhi's Amar Colony",
+      "link": "https://www.thehindu.com/news/cities/Delhi/irs-officers-daughter-found-murdered-in-southeast-delhis-amar-colony/article70891973.ece",
+      "summary": "According to police, the victim was discovered by her family members inside the house under suspicious circumstances, following which the police were alerted.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:35:48 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "107eaca0010cefc97a416dc2ccbf6068",
+      "title": "Iran-Israel war LIVE: Iran attacks ship in Strait of Hormuz amid Trump's ceasefire extension",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-22-2026-donald-trump-tehran-strait-of-hormuz-blockade/article70891192.ece",
+      "summary": "Iran has not yet responded to U.S. President Trump’s announcement of the ceasefire extension",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:34:09 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b182eff61ebccd54fd89f77d38e4bba7",
+      "title": "Ukraine says some Russian missiles fly near Chornobyl, risking major accident",
+      "link": "https://www.thehindu.com/news/international/ukraine-says-some-russian-missiles-fly-near-chornobyl-risking-major-accident/article70891690.ece",
+      "summary": "Prosecutor General Ruslan Kravchenko detailed the previously unreported Russian military activity near Ukrainian nuclear sites in written ​remarks, as Ukraine prepares to mark on April 26, 40th anniversary of the 1986 Chornobyl disaster",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:33:26 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3e234ac4553bbf8738357493f0740902",
+      "title": "विकलांग पति को मारने वाली पत्नी को प्रेमी संग उम्रकैद, 6 साल के बेटे ने खोला राज",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-hapur-wife-and-lover-killed-differently-abled-man-get-life-prison-6-year-old-son-revealed-truth-201776841811488.html",
+      "summary": "यूपी के हापुड़ में बाबूगढ़ थाना क्षेत्र के ग्राम छपकौली में 2024 में हुए इमरान हत्याकांड में जिला एवं सत्र न्यायाधीश अजय कुमार सिंह (प्रथम) ने मंगलवार को निर्णय सुनाया है। न्यायाधीश ने मृतक की पत्नी और उसके प्रेमी को हत्या करने का दोषी मानते हुए आजीवन कारावास की सजा सुनाई है।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:31:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7007ce94f3cbc1019bcbaaf8c4b828a3",
+      "title": "BMTC to add independent external monitoring layer to smart ticketing system as 11,000 ETMs rolled out",
+      "link": "https://www.thehindu.com/news/cities/bangalore/bmtc-to-add-independent-external-monitoring-layer-to-smart-ticketing-system-as-11000-etms-rolled-out/article70888914.ece",
+      "summary": "In March, the BMTC began rolling out a fully integrated digital ticketing system as part of a major push to modernise its operations",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:28:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "96b710c140a916bb82118ecb580c7882",
+      "title": "2006 Malegaon blast case: Bombay HC discharges four accused, quashes charges against them",
+      "link": "https://www.thehindu.com/news/national/maharashtra/2006-malegaon-blast-case-bombay-hc-discharges-four-accused-quashes-charges-against-them/article70891741.ece",
+      "summary": "A Bench of Chief Justice Shree Chandrashekhar and Justice Shyam Chandak allowed the appeals filed by the four accused - Rajendra Chaudhary, Dhan Singh, Manohar Ram Singh Narwaria and Lokesh Sharma — against the special court order.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:23:27 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b8a8bd9a943ba739ebbbeac6367ef1b0",
+      "title": "Third conviction in Shivamogga ISIS conspiracy case; accused gets 6 years RI",
+      "link": "https://www.thehindu.com/news/national/karnataka/third-conviction-in-shivamogga-isis-conspiracy-case-accused-gets-6-years-ri/article70889520.ece",
+      "summary": "The NIA special court had earlier, in November 2025, sentenced two other accused to six years rigorous imprisonment in the same case.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:18:42 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5cc980fddb034f7f426fccba63497c7e",
+      "title": "After Pahalgam massacre, security forces took the terror fight back to Kashmir’s jungles",
+      "link": "https://www.thehindu.com/news/national/after-pahalgam-massacre-security-forces-took-the-terror-fight-back-to-kashmirs-jungles/article70889250.ece",
+      "summary": "The terror attack also led to a review of the security grid in the Union Territory. Young officers were inducted into the Special Operations Group (SOG) of the J&K Police and they trained alongside the Greyhounds and the Para (Special Forces)",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:17:10 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "96941b9f47768edc89dbb37a2ea797c7",
+      "title": "Kerala HC stays ‘dry day’ order near Tamil Nadu border ahead of Assembly elections",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-stays-dry-day-order-near-tamil-nadu-border-ahead-of-assembly-elections/article70891345.ece",
+      "summary": "Court stays Kerala government order on the grounds that the State did not have the power to issue such a direction, a lawyer associated with the case said",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:15:18 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cfb8e45509c47267dbbb21e1927bd8dc",
+      "title": "Night time traffic diversions in Hyderabad’s Mehdipatnam for skywalk work",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/night-time-traffic-diversions-in-hyderabads-mehdipatnam-for-skywalk-work/article70889284.ece",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:14:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a8b28423aaebdcc97c297c3da6e3f0b9",
+      "title": "U.K. agrees ban on cigarette sales for people born after 2008",
+      "link": "https://www.thehindu.com/news/international/uk-agrees-ban-on-cigarette-sales-for-people-born-after-2008/article70891529.ece",
+      "summary": "Health Minister Wes Streeting called this a \"historic moment for the nation's health\" that will lead to the \"first smoke-free generation, protected from a lifetime of addiction and harm\".",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:12:06 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "916a60effa258b7fee66d76b3107ad8f",
+      "title": "Woman sets male friend ablaze in Bengaluru, arrested",
+      "link": "https://www.thehindu.com/news/cities/bangalore/woman-sets-male-friend-ablaze-in-bengaluru-arrested/article70889875.ece",
+      "summary": "According to police sources, the accused lured Kiran under the pretext of a “western-style proposal”",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:09:15 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "15fdc02d8d5ec469c278f697a54fefcd",
+      "title": "Andhra Pradesh will lose five Lok Sabha seats if 131st Amendment is not revived, says Purandeswari",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-will-lose-five-lok-sabha-seats-if-131st-amendment-is-not-revived-says-purandeswari/article70889037.ece",
+      "summary": "Rajamahendravaram BJP MP seeks an apology from Opposition for defeating the Bill; she says the amendment’s delimitation formula, with a larger Lok Sabha, would have protected southern States",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:08:53 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "988f6144e415b8e27e1ce67efea624dd",
+      "title": "Ghose Commission report ‘shall be inoperative’, ‘no action against KCR, others’: Telangana HC",
+      "link": "https://www.thehindu.com/news/national/telangana/ghose-commission-report-shall-be-inoperative-no-action-against-kcr-others-telangana-hc/article70891569.ece",
+      "summary": "The Commission submitted its report to the government on July 31, 2025",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:07:22 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d550f6e06bc70f8c46548304adfd53eb",
+      "title": "Iran fires on container ship in Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-fires-on-container-ship-in-strait-of-hormuz/article70891689.ece",
+      "summary": "The British military’s United Kingdom Maritime Trade Operations centre said no one was hurt and there was no environmental impact from the attack",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:04:57 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4c1ac570f3cd9ed6d9bd1c52497cbd3f",
+      "title": "Earth Day 2026: A few initiatives from Thiruvananthapuram doing their bit for the environment",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/initiatives-thiruvananthapuram-enviroment-activtiies-earth-day/article70862396.ece",
+      "summary": "Ahead of Earth Day, which falls on April 22, know a few people who have made a difference through community engagement and sustainability-focussed initiatives",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:04:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "505c503213491e84a5dfbea688dfe4a9",
+      "title": "Thrissur fireworks accident: Kerala Cabinet orders judicial inquiry, ₹14-lakh aid to families of deceased",
+      "link": "https://www.thehindu.com/news/national/kerala/thrissur-fireworks-accident-kerala-cabinet-orders-judicial-inquiry-14-lakh-aid-to-families-of-deceased/article70891697.ece",
+      "summary": "Cabinet directs State Disaster Management Authority to declare blast at Mundathikode as a State-specific disaster; Justice C.N. Ramachandran Nair, a single-member judicial commission, in charge of inquiry",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:03:03 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6787a3dca18db1547f2ebe93c194eaf6",
+      "title": "Kerala govt declares Thrissur fireworks accident State-specific disaster",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-govt-declares-thrissur-fireworks-accident-state-specific-disaster/article70891776.ece",
+      "summary": "Revenue Minister Rajan says decision was taken in a special online Cabinet meeting chaired by Chief Minister Pinarayi Vijayan",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 13:01:01 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5186ad1e702560772de2c2d40573f5d7",
+      "title": "U.S. woman sexually assaulted at Kodagu homestay; two arrested",
+      "link": "https://www.thehindu.com/news/national/karnataka/us-woman-sexually-assaulted-at-kodagu-homestay-two-arrested/article70891659.ece",
+      "summary": "The owner and staff of the homestay, where the woman stayed, have been arrested; homestay owner has been taken into custody for allegedly withholding assistance and attempting to cover up the crime",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 12:57:53 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
     {
       "id": "5f6df601b6fbefc4c1415adee86e98d0",
       "title": "Varanasi News: ट्रक की टक्कर से कार सड़क किनारे गड्ढे में पलटी, बाल-बाल बचे बीडीओ",
@@ -28,6 +574,19 @@
       "lang": "en"
     },
     {
+      "id": "53fd56fa2e6211ae1d80393ff7dcfd6f",
+      "title": "Kedarnath Dham portals open for devotees amid chants; Uttarakhand Chief Minister offers prayers",
+      "link": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-dham-portals-open-for-devotees-amid-chants-uttarakhand-chief-minister-offers-prayers/article70891516.ece",
+      "summary": "Thousands of pilgrims gathered at the Himalayan shrine, decorated with 15 quintals of flowers, according to officials",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 12:56:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "37f6724897c81a38764f93990ce9c748",
       "title": "Varanasi News: ऑर्केस्ट्रा डांसर से छेड़छाड़ का विरोध करने पर युवक को पीट-पीटकर किया अधमरा",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/a-young-man-was-beaten-to-death-for-protesting-against-the-molestation-of-an-orchestra-dancer-varanasi-news-c-20-vns1022-1365083-2026-04-22",
@@ -41,10 +600,23 @@
       "lang": "en"
     },
     {
+      "id": "1ad9146c37a9b80d4523cd52de6efff0",
+      "title": "Khaleda Zia’s funeral: Jaishankar meets Tarique Rahman in Dhaka, hands over PM Modi’s condolence letter",
+      "link": "https://www.thehindu.com/news/international/khaleda-zias-funeral-jaishankar-meets-tarique-rahman-in-dhaka-hands-over-pm-modis-condolence-letter/article70456346.ece",
+      "summary": "Zia’s passing leaves huge void, says PM",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 12:55:35 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "69dd994e94b128e647eaa9f4696f55c2",
-      "title": "Varanasi News: चंदौली के लिए अयोध्या में होटल निर्माण के नाम पर दो व्यापारियों से पांच लाख की ठगी",
+      "title": "UP Crime: अयोध्या में होटल निर्माण के नाम पर दो व्यापारियों से पांच लाख ठगे, वाराणसी में FIR; जानें पूरा मामला",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/two-businessmen-were-duped-of-rs-5-lakh-in-the-name-of-building-a-hotel-in-ayodhya-varanasi-news-c-20-vns1056-1365276-2026-04-22",
-      "summary": "अयोध्या में होटल निर्माण के नाम पर दो व्यापारियों से पांच लाख की ठगी",
+      "summary": "अयोध्या में निर्माणाधीन होटल का हवाला देकर वाराणसी और चंदौली के दो व्यापारियों से 5 लाख की धोखाधड़ी की गई। आरोपी समीर और मनन धवन के खिलाफ चेतगंज थाने में दोनों व्यापारियों ने प्राथमिकी दर्ज कराई है।",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 12:55:01 +0530",
       "section": "UP_Focus",
@@ -67,25 +639,12 @@
       "lang": "en"
     },
     {
-      "id": "8088cd544107fc839afe573967e9372a",
-      "title": "Assembly Elections 2026 LIVE: EVMs reach polling centres as 5.73 crore voters set to decide fate of 4,023 candidates in Tamil Nadu",
-      "link": "https://www.thehindu.com/news/national/assembly-elections-2026-april-22-highlights-tamil-nadu-kerala-puducherry-chennai-kerala-assam-poll-updates-poll-results-date/article70891255.ece",
-      "summary": "A total of 5,73,43,291 electors are expected to exercise their franchise",
+      "id": "5a3e77aefa96c545f35f125ebe366b60",
+      "title": "Minorities have been underrepresented in Bengal Assembly",
+      "link": "https://www.thehindu.com/data/minorities-have-been-underrepresented-in-bengal-assembly/article70886066.ece",
+      "summary": "Despite its reputation as a progressive State, women and Muslims have sparsely held power in West Bengal",
       "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:51:03 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "a9ef860dd1a0367aa485d62cb141402c",
-      "title": "India will never bow before forces spreading hatred, fear: Rahul on Pahalgam attack anniversary",
-      "link": "https://www.thehindu.com/news/national/india-will-never-bow-before-forces-spreading-hatred-fear-rahul-on-pahalgam-attack-anniversary/article70891811.ece",
-      "summary": "On the first anniversary of the dastardly attack, Rahul Gandhi paid his heartfelt tributes to all the brave hearts who were killed",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:49:45 +0530",
+      "timestamp": "Wed, 22 Apr 2026 12:53:44 +0530",
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
@@ -93,14 +652,27 @@
       "lang": "en"
     },
     {
-      "id": "b486e3947d61aebac1633aa5580bdaf1",
-      "title": "Large scale disruption in bus services as Telangana RTC employees launch indefinite strike",
-      "link": "https://www.thehindu.com/news/national/telangana/large-scale-disruption-in-bus-services-as-telangana-rtc-employees-launch-indefinite-strike/article70891758.ece",
-      "summary": "Transport Minister Ponnam Prabhakar said Telangana government has not objected to 29 of the 32 demands raised by TGSRTC workers’ union, leaving only two issues unresolved",
+      "id": "829607f49e8c96d35f1a870b4b382de0",
+      "title": "विश्व पृथ्वी दिवस: 'नई पीढ़ियों के लिए धरती को बचाना हमारी प्रतिज्ञा है', पीएम मोदी ने दिया दुनिया को संदेश",
+      "link": "https://www.amarujala.com/india-news/saving-the-earth-for-future-generations-is-our-pledge-pm-modi-s-message-to-the-world-2026-04-22",
+      "summary": "विश्व पृथ्वी दिवस: 'नई पीढ़ियों के लिए धरती को बचाना हमारी प्रतिज्ञा है', पीएम मोदी ने दिया दुनिया को संदेश World Earth Day: 'Saving the Earth for future generations is our pledge, PM Modi's message to the world",
       "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:47:55 +0530",
+      "timestamp": "Wed, 22 Apr 2026 12:52:15 +0530",
       "section": "National",
-      "report_category": "National_Judicial",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "0d412cbfd83410a93df5babac0bbd37b",
+      "title": "How community-led environmental initiatives are making a change in Ernakulam",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/how-community-led-environmental-initiatives-are-making-a-change-in-ernakulam/article70867517.ece",
+      "summary": "Ahead of Earth Day on April 22, we look at collectives in Ernakulam that are driving change through sustained, grassroots action",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 12:51:52 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -171,19 +743,6 @@
       "lang": "en"
     },
     {
-      "id": "7859e8eb02943232ccdc41382b826d1a",
-      "title": "UP Board Result 2026 Date Live: किसी भी समय जारी हो सकती है तारीख, पढ़ें यूपी बोर्ड रिजल्ट पर ताजा अपडेट",
-      "link": "https://www.amarujala.com/live/education/up-board-result-2026-kab-aayega-live-updates-upmsp-10th-12th-results-date-time-upmsp-edu-in-digilocker-2026-04-21",
-      "summary": "UPMSP UP Board 10th 12th Result kab aayega Check date, time, upresults.nic.in, upmsp.edu.in, digilocker, sarkari result: उत्तर प्रदेश माध्यमिक शिक्षा परिषद द्वारा आयोजित यूपी बोर्ड 10वीं और 12वीं परीक्षाओं के समाप्त होने के बाद से ही",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:44:49 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "51e754855d1b326e0ead4908eb2e9ca8",
       "title": "Lucknow News: प्लॉट के नाम पर ठगने वाला प्रॉपर्टी डीलर गिरफ्तार",
       "link": "https://www.amarujala.com/lucknow/property-dealer-arrested-for-cheating-in-the-name-of-plot-lucknow-news-c-13-lko1070-1701381-2026-04-22",
@@ -200,7 +759,7 @@
       "id": "233e28744ed43612198d2ca054af28bd",
       "title": "69000 शिक्षक भर्ती के अभ्यर्थियों का प्रदर्शन, विधानभवन के सामने धरने पर बैठे; पुलिस से झड़प",
       "link": "https://www.livehindustan.com/uttar-pradesh/candidates-for-69000-teacher-recruitments-protest-sit-in-protest-in-front-of-legislative-assembly-clash-with-police-201776840665035.html",
-      "summary": "अभ्यर्थियों के धरना प्रदर्शन का नेतृत्व कर रहे पिछड़ा दलित संयुक्त मोर्चा के प्रदेश अध्यक्ष सुशील कश्यप और धनंजय गुप्ता का कहना है कि आरक्षण घोटाले का यह मामला हाई कोर्ट में साल-2020 से चल रहा है। भर्ती में OBC वर्ग को 27% की जगह सिर्फ 3.86% तथा SC वर्ग को 21% की जगह सिर्फ 162% आरक्षण दिया गया है",
+      "summary": "अभ्यर्थियों का आरोप है कि भर्ती प्रक्रिया में गड़बड़ियों और सुप्रीम कोर्ट में कमजोर पैरवी के कारण उन्हें वर्षों से नियुक्ति नहीं मिल पा रही। अभ्यर्थियों ने लखनऊ विधान भवन पर धरना प्रदर्शन के दौरान ‘योगी जी हमें न्याय दो’, के नारे लगाए। बाद में पुलिस ने उन्हें जबरन बस में बिठाकर इको गार्डन भेज दिया।",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 12:44:21 +0530",
       "section": "UP_Focus",
@@ -211,7 +770,7 @@
     },
     {
       "id": "12fb0892ae7ceb695994a6ffd1b1f5b4",
-      "title": "तप रही काशी: धूप व लू का कहर...घरों में दुबके लोग, सामान्य से 2.5 डिग्री ऊपर है दिन-रात का तापमान; जानें अपडेट",
+      "title": "तप रही काशी: धूप व लू का कहर...घरों में दुबके लोग, सामान्य से 2.5 डिग्री ऊपर है दिन-रात का तापमान; अलर्ट जारी",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/kashi-scorches-ravages-of-sun-and-heatwave-residents-hunker-down-indoors-day-and-night-temperatures-2026-04-22",
       "summary": "वाराणसी में भीषण गर्मी का असर लगातार बढ़ता जा रहा है। पिछले तीन दिनों से काशी चुभन भरी धूप, तेज लू और गर्म रातों की चपेट में है, जिससे जनजीवन बुरी तरह प्रभावित हो रहा है।",
       "date": "2026-04-22",
@@ -220,19 +779,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "5186ad1e702560772de2c2d40573f5d7",
-      "title": "U.S. woman sexually assaulted at Kodagu homestay; two arrested",
-      "link": "https://www.thehindu.com/news/national/karnataka/us-woman-sexually-assaulted-at-kodagu-homestay-two-arrested/article70891659.ece",
-      "summary": "The owner and staff of the homestay, where the woman stayed, have been arrested; homestay owner has been taken into custody for allegedly withholding assistance and attempting to cover up the crime",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:43:55 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -314,19 +860,6 @@
       "lang": "en"
     },
     {
-      "id": "6787a3dca18db1547f2ebe93c194eaf6",
-      "title": "Kerala govt declares Thrissur fireworks accident State-specific disaster",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-govt-declares-thrissur-fireworks-accident-state-specific-disaster/article70891776.ece",
-      "summary": "Revenue Minister Rajan says decision was taken in a special online Cabinet meeting chaired by Chief Minister Pinarayi Vijayan",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:39:25 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "3a5a47fbf17be682a754fb911972c638",
       "title": "सिरफिरे प्रेमी ने चाकू से गोदकर युवती को उतारा मौत के घाट, खुद पर भी किए कई वार",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-bijnor-man-killed-girl-with-knife-attacked-himself-forcing-her-to-marry-201776841278886.html",
@@ -341,9 +874,9 @@
     },
     {
       "id": "3cb44b3cd5a7d64841a1c9407bf04147",
-      "title": "CBI: सीबीआई ने कोर्ट में डीजीसीए के डिप्टी डायरेक्टर समेत दो को किया पेश, 5 दिन की और कस्टडी मांगी",
+      "title": "DGCA: CBI अदालत में डीजीसीए के उप-निदेशक समेत दो आरोपी पेश, एजेंसी ने पांच और दिन की कस्टडी मांगी; मामला क्या?",
       "link": "https://www.amarujala.com/india-news/cbi-produced-two-people-including-the-deputy-director-of-dgca-in-the-court-sought-5-more-days-of-custody-2026-04-22",
-      "summary": "CBI: सीबीआई ने कोर्ट में डीजीसीए के डिप्टी डायरेक्टर समेत दो को किया पेश, 5 दिन की और कस्टडी मांगी। CBI produced two people including the Deputy Director of DGCA in the court, sought 5 more days of custody",
+      "summary": "DGCA: CBI अदालत में डीजीसीए के उप-निदेशक समेत दो आरोपी पेश, एजेंसी ने पांच और दिन की कस्टडी मांगी; मामला क्या? CBI produced two people including the Deputy Director of DGCA in the court, sought 5 more days of custody",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 12:38:28 +0530",
       "section": "National",
@@ -363,19 +896,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "0d412cbfd83410a93df5babac0bbd37b",
-      "title": "How community-led environmental initiatives are making a change in Ernakulam",
-      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/how-community-led-environmental-initiatives-are-making-a-change-in-ernakulam/article70867517.ece",
-      "summary": "Ahead of Earth Day on April 22, we look at collectives in Ernakulam that are driving change through sustained, grassroots action",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:36:51 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -418,19 +938,6 @@
       "lang": "en"
     },
     {
-      "id": "988f6144e415b8e27e1ce67efea624dd",
-      "title": "Ghose Commission report ‘shall be inoperative’, ‘no action against KCR, others’: Telangana HC",
-      "link": "https://www.thehindu.com/news/national/telangana/ghose-commission-report-shall-be-inoperative-no-action-against-kcr-others-telangana-hc/article70891569.ece",
-      "summary": "The Commission submitted its report to the government on July 31, 2025",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:33:38 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "2673f343d465e9dc47d04ee9ac672603",
       "title": "Lucknow News: घर से आठ लाख के जेवर पार",
       "link": "https://www.amarujala.com/lucknow/jewellery-worth-eight-lakh-rupees-stolen-from-the-house-lucknow-news-c-13-lko1096-1701744-2026-04-22",
@@ -468,32 +975,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "ea719c7934ec07821ae66ead6d01c75c",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 22 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-22",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:30:38 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "eb18c0f42215ba4af84fb2491286007d",
-      "title": "पढ़ें 22 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-22",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:30:21 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "af38831cec03bcb2be01244ba20f7a82",
@@ -574,19 +1055,6 @@
       "lang": "en"
     },
     {
-      "id": "b182eff61ebccd54fd89f77d38e4bba7",
-      "title": "Ukraine says some Russian missiles fly near Chornobyl, risking major accident",
-      "link": "https://www.thehindu.com/news/international/ukraine-says-some-russian-missiles-fly-near-chornobyl-risking-major-accident/article70891690.ece",
-      "summary": "Prosecutor General Ruslan Kravchenko detailed the previously unreported Russian military activity near Ukrainian nuclear sites in written ​remarks, as Ukraine prepares to mark on April 26, 40th anniversary of the 1986 Chornobyl disaster",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:23:27 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "8028a70f0ae772a42602c84612dfb870",
       "title": "Lucknow News: बाइक सवार बदमाश ने महिला का लूटा पर्स",
       "link": "https://www.amarujala.com/lucknow/bike-riding-miscreant-robbed-womans-purse-lucknow-news-c-13-lko1096-1702106-2026-04-22",
@@ -597,19 +1065,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "96b710c140a916bb82118ecb580c7882",
-      "title": "2006 Malegaon blast case: Bombay HC discharges four accused, quashes charges against them",
-      "link": "https://www.thehindu.com/news/national/maharashtra/2006-malegaon-blast-case-bombay-hc-discharges-four-accused-quashes-charges-against-them/article70891741.ece",
-      "summary": "A Bench of Chief Justice Shree Chandrashekhar and Justice Shyam Chandak allowed the appeals filed by the four accused - Rajendra Chaudhary, Dhan Singh, Manohar Ram Singh Narwaria and Lokesh Sharma — against the special court order.",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:20:56 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -626,19 +1081,6 @@
       "lang": "en"
     },
     {
-      "id": "107eaca0010cefc97a416dc2ccbf6068",
-      "title": "Iran-Israel war LIVE: Trump says Iran ‘collapsing financially’ over Hormuz closure",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-22-2026-donald-trump-tehran-strait-of-hormuz-blockade/article70891192.ece",
-      "summary": "Iran has not yet responded to U.S. President Trump’s announcement of the ceasefire extension",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:20:20 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "7511d1c0e24e4fb8017b39499bb126e3",
       "title": "रोडवेज में बड़ा विवाद: 42 बिना टिकट यात्रियों के मामले में पूर्व चालक ने लगाए गंभीर आरोप, एमडी से लगाई गुहार",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/up-roadways-controversy-former-driver-alleges-irregularities-in-42-ticketless-passenger-case-2026-04-22",
@@ -649,19 +1091,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "15fdc02d8d5ec469c278f697a54fefcd",
-      "title": "Andhra Pradesh will lose five Lok Sabha seats if 131st Amendment is not revived, says Purandeswari",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-will-lose-five-lok-sabha-seats-if-131st-amendment-is-not-revived-says-purandeswari/article70889037.ece",
-      "summary": "Rajamahendravaram BJP MP seeks an apology from Opposition for defeating the Bill; she says the amendment’s delimitation formula, with a larger Lok Sabha, would have protected southern States",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:15:09 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -717,19 +1146,6 @@
       "lang": "en"
     },
     {
-      "id": "d550f6e06bc70f8c46548304adfd53eb",
-      "title": "Iran fires on container ship in Strait of Hormuz",
-      "link": "https://www.thehindu.com/news/international/iran-fires-on-container-ship-in-strait-of-hormuz/article70891689.ece",
-      "summary": "The British military’s United Kingdom Maritime Trade Operations centre said no one was hurt and there was no environmental impact from the attack",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:11:31 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "7ab3563b50a715f6590887ebe085aae2",
       "title": "Telangana RTC bus services to be hit as workers’ to go on strike from midnight of April 22",
       "link": "https://www.thehindu.com/news/national/telangana/rtc-jac-to-go-ahead-with-strike-as-talks-with-government-tgsrtc-fail/article70890082.ece",
@@ -769,19 +1185,6 @@
       "lang": "hi"
     },
     {
-      "id": "505c503213491e84a5dfbea688dfe4a9",
-      "title": "Thrissur fireworks accident: Kerala Cabinet orders judicial inquiry, ₹14-lakh aid to families of deceased",
-      "link": "https://www.thehindu.com/news/national/kerala/thrissur-fireworks-accident-kerala-cabinet-orders-judicial-inquiry-14-lakh-aid-to-families-of-deceased/article70891697.ece",
-      "summary": "Cabinet directs State Disaster Management Authority to declare blast at Mundathikode as a State-specific disaster; Justice C.N. Ramachandran Nair, a single-member judicial commission, in charge of inquiry",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 12:05:29 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "948b1c738b550ba4f30b00d3b2d1c330",
       "title": "Sholinganallur AIADMK candidate says DMK failed to maintain assets that party created",
       "link": "https://www.thehindu.com/news/cities/chennai/sholinganallur-aiadmk-candidate-says-dmk-failed-to-maintain-assets-that-party-created/article70885244.ece",
@@ -809,9 +1212,9 @@
     },
     {
       "id": "a2ad7031ad4c48fedc2acd1eb7e8da67",
-      "title": "तमिलनाडु चुनाव से पहले ECI सख्त: ईवीएम से छेड़छाड़ होने पर पुनर्मतदान का आदेश, गड़बड़ी पर कड़ी कार्रवाई तय",
+      "title": "विधानसभा चुनाव से पहले ECI सख्त: ईवीएम से छेड़छाड़ होने पर पुनर्मतदान का आदेश, गड़बड़ी पर कड़ी कार्रवाई तय",
       "link": "https://www.amarujala.com/india-news/eci-tightens-evm-security-rules-ahead-of-tamil-nadu-polls-issues-strict-instructions-to-presiding-officers-2026-04-22",
-      "summary": "तमिलनाडु चुनाव से पहले ECI सख्त: ईवीएम से छेड़छाड़ होने पर पुनर्मतदान का आदेश, गड़बड़ी पर कड़ी कार्रवाई तय",
+      "summary": "विधानसभा चुनाव से पहले ECI सख्त: ईवीएम से छेड़छाड़ होने पर पुनर्मतदान का आदेश, गड़बड़ी पर कड़ी कार्रवाई तय",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 12:01:51 +0530",
       "section": "National",
@@ -1016,32 +1419,6 @@
       "lang": "en"
     },
     {
-      "id": "53fd56fa2e6211ae1d80393ff7dcfd6f",
-      "title": "Kedarnath Dham portals open for devotees amid chants; Uttarakhand Chief Minister offers prayers",
-      "link": "https://www.thehindu.com/news/national/uttarakhand/kedarnath-dham-portals-open-for-devotees-amid-chants-uttarakhand-chief-minister-offers-prayers/article70891516.ece",
-      "summary": "Thousands of pilgrims gathered at the Himalayan shrine, decorated with 15 quintals of flowers, according to officials",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 11:42:02 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "8f1bbe56a6924a9e1323dc265b4420f2",
-      "title": "Assembly Elections: तमिलनाडु में TVK के खिलाफ चुनाव आयोग से शिकायत, आचार संहिता उल्लंघन के लगे आरोप",
-      "link": "https://www.amarujala.com/live/india-news/assembly-elections-2026-live-updates-pm-campaign-tamil-nadu-cm-mamata-bengali-identity-bjp-tmc-dmk-hindi-news-2026-04-22",
-      "summary": "Assembly Elections 2026 LIVE Updates PM campaign Tamil Nadu CM Mamata Bengali identity BJP TMC DMK hindi news--Assembly Elections: तमिलनाडु में TVK पर आचार संहिता उल्लंघन की शिकायत; 75 हजार से अधिक बूथों पर कड़ी व्यवस्था",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 11:40:06 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "8a893659f4dc7d771827b87d9f9446bc",
       "title": "12 injured in bus–lorry collision on Karimnagar bypass",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/12-injured-in-buslorry-collision-on-karimnagar-bypass/article70891396.ece",
@@ -1117,19 +1494,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "a8b28423aaebdcc97c297c3da6e3f0b9",
-      "title": "U.K. agrees ban on cigarette sales for people born after 2008",
-      "link": "https://www.thehindu.com/news/international/uk-agrees-ban-on-cigarette-sales-for-people-born-after-2008/article70891529.ece",
-      "summary": "Health Minister Wes Streeting called this a \"historic moment for the nation's health\" that will lead to the \"first smoke-free generation, protected from a lifetime of addiction and harm\".",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 11:26:31 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -1380,19 +1744,6 @@
       "lang": "en"
     },
     {
-      "id": "916a60effa258b7fee66d76b3107ad8f",
-      "title": "Woman sets male friend ablaze in Bengaluru, arrested",
-      "link": "https://www.thehindu.com/news/cities/bangalore/woman-sets-male-friend-ablaze-in-bengaluru-arrested/article70889875.ece",
-      "summary": "According to police sources, the accused lured Kiran under the pretext of a “western-style proposal”",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 11:01:11 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ebafc367b04c4b567fbdd3ba123c7a18",
       "title": "Divided by the river and united by SIR: Mothabari and Samserganj vote amidst high voter deletions",
       "link": "https://www.thehindu.com/elections/west-bengal-assembly/divided-by-the-river-and-united-by-sir-mothabari-and-samserganj-vote-amidst-high-voter-deletions/article70889571.ece",
@@ -1546,19 +1897,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "56b70859e38ba45e50a1350800c0eb52",
-      "title": "UP: लीवर और फेफड़े तक फटे, राजा के शरीर पर 40 वार, चाकू से गोद डाला शरीर; पोस्टमार्टम करने वाले डॉक्टर कांपे",
-      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/moradabad-couple-murder-they-inflicted-40-knife-wounds-on-raja-body-completely-riddling-it-with-stabs-2026-04-22",
-      "summary": "मुरादाबाद के सिविल लाइंस थाना क्षेत्र के चक्कर की मिलक में राजा और उसकी पत्नी फराह की बड़ी बेरहमी से हत्या की गई। मंगलवार की शाम आई पोस्टमार्टम रिपोर्ट बर्बरता बयां कर रही है।",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 10:39:47 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -1861,19 +2199,6 @@
       "lang": "en"
     },
     {
-      "id": "d118ed5df04257de9086cd4c11df5dad",
-      "title": "UP: कान्हा गोशाला में बेची जा रही गाय, गंभीर आरोपों के बाद फैला विवाद; संस्था अध्यक्ष को पीट दिया",
-      "link": "https://www.amarujala.com/uttar-pradesh/agra/cow-sale-allegations-at-kanha-gaushala-ngo-chief-assaulted-and-threatened-with-gun-2026-04-22",
-      "summary": "गोशाला कर्मियों पर गायों की बिक्री का आरोप, संस्था अध्यक्ष को पीटा, थाना खंदौली पुलिस ने पांच के खिलाफ दर्ज की प्राथमिकी।",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 10:06:16 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "a21447b9bb475569b883485f22589780",
       "title": "UP: 'मेरी बेइज्जती का बदला लेकर ही मुंह दिखाना', पिता ने ही बेटे को उकसाया था; दंपती हत्याकांड में कबूलनामा",
       "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/mastermind-fahim-confessed-i-told-my-son-to-take-revenge-show-your-face-only-after-avenging-the-insult-to-me-2026-04-22",
@@ -1884,19 +2209,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "96941b9f47768edc89dbb37a2ea797c7",
-      "title": "Kerala HC stays ‘dry day’ order near Tamil Nadu border ahead of Assembly elections",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-hc-stays-dry-day-order-near-tamil-nadu-border-ahead-of-assembly-elections/article70891345.ece",
-      "summary": "Court stays Kerala government order on the grounds that the State did not have the power to issue such a direction, a lawyer associated with the case said",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 10:03:53 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -2212,6 +2524,19 @@
       "lang": "en"
     },
     {
+      "id": "246c17592ecb3f8f1d39bc99aa26a14f",
+      "title": "UP Board Class 10, 12 results tomorrow:To be declared at 4 pm, over 5 million students appeared",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-board-10th-12th-result-tomorrow-50-lakh-students-appeared-137758321.html",
+      "summary": "UP Board Class 10 and 12 results will be declared tomorrow, April 23. Students can check their results on the official website. UP Board Secretary Bhagwati Singh said the results will be released at 4 pm on Thursday. Last year, the results were announced on April 25. This time, they are being declared two days earlier. He stated- Along with the release of UP Board results, the list of toppers for 10th and 12th will also be released. The students who achieve top positions across the state will be honored by the state government. Check results like this> Over 50 lakh students appeared for the exam According to the Uttar Pradesh Madhyamik Shiksha Parishad, a total of 52,30,297 students registered for the Class 10 and 12 board exams in 2026. In High School (Class 10), 27,50,945 students registered, including 14,38,682 boys and 13,12,263 girls. In Intermediate (Class 12), 24,79,352 students registered. The examinations were conducted across all 75 districts at 8,033 centres from February 18. Exams were held in two shifts and concluded on March 12. A total of 2.87 lakh students dropped out, including 1.61 lakh from High School and 1.26 lakh from Intermediate. 254 evaluation centres set up, marking completed by April 4 A total of 254 evaluation centres were set up across the state. As many as 1,52,780 teachers were appointed for checking answer sheets, including 96,804 for High School and 55,976 for Intermediate. The evaluation process began on March 18 and continued till April 4. This year, around 2.80 crore answer sheets were evaluated, including nearly 1.57 crore for High School and 1.23 crore for Intermediate. Failed students can also pass Marksheet will be available on DigiLocker This will be the second time that marksheets will be made available on DigiLocker after the result declaration. Hard copies will later be provided through schools as usual. How was the 2025 result? Yash from Jalaun topped in 10th In the 2025 results, Yash from Jalaun topped Class 10 with 97.83%. Anshi from Etawah and Abhishek from Barabanki secured second place with 97.67%. Ritu Garg from Moradabad, Arpit Verma from Sitapur and Simran Gupta from Jalaun secured third place with 97.50%. Among districts, Agra topped with a pass percentage of 94.99%, followed by Basti (94.67%) and Mathura (94.60%). Sonbhadra had the lowest pass percentage at 74.72%. Girls dominated Class 12 results In Class 12, girls outperformed boys. Mehak Jaiswal from Prayagraj topped the state with 97.20%. Her father is a daily wage labourer. Sakshi from Amroha, Adarsh Yadav from Sultanpur, Shivani Singh from Prayagraj and Anushka Singh from Kaushambi secured second position with 96.80%. Mohini from Etawah secured third place with 96.40%. Overall, five girls and one boy featured in the top three ranks. Girls recorded a pass percentage 10% higher than boys. Amethi had the highest pass percentage at 92.65%, while Chandauli recorded the lowest at 65.70%.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 09:09:20 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "c4f8359951f8785628ea6606377a9558",
       "title": "काशी में विदेशी का अंतिम संस्कार: गाजे-बाजे के साथ निकली शवयात्रा, कनाडा एंबेसी से आया लेटर; जानें मामला",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/foreigner-funeral-in-kashi-funeral-procession-held-with-pomp-and-music-letter-received-canadian-embassy-2026-04-22",
@@ -2222,6 +2547,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "f321daa3b1d525f14333ab804258bb67",
+      "title": "Gaza’s unseen casualties: A surge in stillbirths and birth defects",
+      "link": "https://www.aljazeera.com/features/2026/4/22/gazas-unseen-casualties-a-surge-in-stillbirths-and-birth-defects?traffic_source=rss",
+      "summary": "Gaza sees a 140% rise in stillbirths and a doubling of congenital anomalies as the devastating impacts of war linger.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 09:02:55 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -2355,6 +2693,19 @@
       "lang": "en"
     },
     {
+      "id": "f43f82d1eb398380cea829aca1e8cbb7",
+      "title": "South Korean fighter jets collided due to pilots snapping pictures, report finds",
+      "link": "https://www.bbc.com/news/articles/czjwz8we1zzo?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the pilots has been fined thousands of dollars by the military to cover repair costs.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 08:35:34 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "51b0a40ff7b0e1ab08f859e34bbba144",
       "title": "UP: 1:50 बजे पहली, 3:35 पर दूसरी बेटी को मारा, कत्ल से पहले भाई को किया था दो बार फोन; कानपुर कांड में खुलासा",
       "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/kanpur/kanpur-murder-first-daughter-killed-at-1-50-second-at-3-35-accused-called-his-brother-before-murder-2026-04-22",
@@ -2381,6 +2732,32 @@
       "lang": "en"
     },
     {
+      "id": "8a652daf17b103d84805e100d4b8e5dd",
+      "title": "LeBron James nets 28, Lakers grab 2-0 lead on Rockets in NBA Playoff series",
+      "link": "https://www.aljazeera.com/sports/2026/4/22/lebron-james-nets-28-lakers-grab-2-0-lead-on-rockets-in-nba-playoff-series?traffic_source=rss",
+      "summary": "Kevin Durant scores 23 for Houston but the Lakers bag a 101-94 win despite a depleted team, with Luka Doncic missing.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 08:34:07 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f0897ebfcc2002c7fd7bcb115a5550a6",
+      "title": "Haryanvi actress Divyanka Sirohi passes away:Reportedly suffered heart attack at home in UP",
+      "link": "https://www.bhaskarenglish.in/local/haryana/news/haryanvi-actress-divyanka-sirohi-passes-away-heart-attack-up-137758066.html",
+      "summary": "Haryanvi actress Divyanka Sirohi (30) has passed away. It has been reported that she suffered a heart attack at home late Tuesday night. Family members took her to the hospital, where doctors declared her dead. Artists associated with the Haryanvi industry have expressed grief over Divyanka's demise. However, no statement has come from Divyanka's family yet. Divyanka was originally from Uttar Pradesh. She had also worked in several songs with singer Masoom Sharma. She has 1.3 million followers on her Instagram. Family living in Ghaziabad Divyanka Sirohi was born on 19 November 1996 in Bulandshahr. She completed her BCA from Chaudhary Charan Singh University located in Meerut. After that, she did her MBA from Sikkim. Divyanka has a brother Himanshu, and sisters Dipanshu and Jasmeet. She is currently living in Ghaziabad with her parents and grandmother. Began on TikTok, Got 20 Million Views In an interview, Divyanka had said that I had a passion for acting and dancing since childhood. I made a video on TikTok wearing a blue suit around Diwali on Punjabi singer Sunanda Sharma's song 'Meri Mammi Nu Pasand Ni Tu', which went viral because of my expressions. That video got around 20 million views. After that, my followers on TikTok became 5 million.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 08:32:30 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "45e5d4a6a5c719a232ec0174b10ee463",
       "title": "UP: क्या शशिरंजन सुनाने वाला था 'मौत की स्क्रिप्ट'? बेटियों की हत्या के बाद दिखा इत्मीनान, जानें डेथ टाइमलाइन",
       "link": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-father-kills-twin-daughters-shashiranjan-called-his-brother-before-the-murder-find-out-death-timeline-2026-04-22",
@@ -2390,6 +2767,19 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ea1bd2133367761fa3ad8472c82e19da",
+      "title": "Monkey sits holding newborn baby for 2 hours in Muzaffarnagar:Attempts to bite family members trying to save the child | VIDEO",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/muzaffarnagar-monkey-baby-bites-family-video-137758054.html",
+      "summary": "In Muzaffarnagar, Uttar Pradesh, a monkey sat inside a house holding a 3-month-old baby for two hours. The baby was lying on a bed inside the room. The family members were busy with their own work. During this time, a monkey quietly entered the room and sat near the baby. The monkey began to caress the child, stroking him, and playing with him. After a while, when the family members returned from work and entered the room, they were startled by fear. This made the monkey aggressive. It began to run towards the family members, trying to bite them. During this, the child started crying. The family tried everything to scare the monkey away. They offered it food and threatened it with a stick, but the monkey wouldn't budge. It remained sitting near the child. The child continued to cry, frightening the family. However, the monkey didn't harm the child. It simply sat there, holding him. Later, the family contacted an animal rescuer. The rescuer approached the monkey and distracted it by showing wildlife videos on his mobile phone. As soon as the monkey moved toward the mobile phone, the rescuer pulled the child closer. The incident occurred on Tuesday, the video of which surfaced on Wednesday. The incident occurred in Charathawal town, 15 km from the district headquarters. Monkey's baby had died 6 days ago, mistook human child as her own Animal rescuer Sunny Chopra said, ‘After trying everything they could to distract the monkey, they started watching wildlife videos on their mobile phones. They played videos of baby monkeys. As soon as the monkey became engrossed in watching the videos, they gently pulled the baby from its clutches. After this, the people chased the monkey away.’ Chopra said, ‘She was a female monkey. Her baby had died 6 days ago. That is why when she saw the 3-month-old baby, she started mistaking him for her own child. She sat near him. When she felt that people were separating her from her baby, she became aggressive. Otherwise, she did not hurt the baby even once. At present, the baby has been rescued. The baby is completely safe.’",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 08:28:56 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -2446,15 +2836,28 @@
       "lang": "en"
     },
     {
-      "id": "5cc980fddb034f7f426fccba63497c7e",
-      "title": "After Pahalgam massacre, security forces took the terror fight back to Kashmir’s jungles",
-      "link": "https://www.thehindu.com/news/national/after-pahalgam-massacre-security-forces-took-the-terror-fight-back-to-kashmirs-jungles/article70889250.ece",
-      "summary": "The terror attack also led to a review of the security grid in the Union Territory. Young officers were inducted into the Special Operations Group (SOG) of the J&K Police and they trained alongside the Greyhounds and the Para (Special Forces)",
+      "id": "d65e6a361756b7ce62aa2e1bd4c7d905",
+      "title": "Israel’s ‘digital occupation’ of south Lebanon",
+      "link": "https://www.aljazeera.com/video/digital-dilemma/2026/4/22/israels-digital-occupation-of-south-lebanon?traffic_source=rss",
+      "summary": "Al Jazeera’s Linh Nguyen explains Israeli drones above the skies in Lebanon, which critics call a \"digital occupation.\"",
       "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 08:27:20 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
+      "timestamp": "Wed, 22 Apr 2026 08:26:37 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "685dcff63093cb457e7cf75486470c76",
+      "title": "How China is gaining from Iran war by showing it is different from US",
+      "link": "https://www.aljazeera.com/news/2026/4/22/how-china-is-gaining-from-iran-war-by-showing-it-is-different-from-us?traffic_source=rss",
+      "summary": "Beijing has leveraged its strong economic relationship with the US, Israel, Iran and the Gulf to keep its stakes safe.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 08:24:25 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -2511,19 +2914,6 @@
       "lang": "en"
     },
     {
-      "id": "86c421e40e153a3f96c8742a92016948",
-      "title": "UP: दुल्हे को मांगनी पड़ी माफी, फिर भी सात फेरों से पहले टूट गई शादी; इसलिए बिना दुल्हन के लौटी बारात",
-      "link": "https://www.amarujala.com/uttar-pradesh/agra/wedding-halted-minutes-before-vows-police-rescue-16-year-old-bride-2026-04-22",
-      "summary": "मंडप में पुलिस देख उड़े दूल्हे के होश, उल्टे पांव लौटी बारात, चाइल्ड हेल्पलाइन और पुलिस ने बिचपुरी में रुकवाई 16 नाबालिग वर्षीय किशोरी की शादी।",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 08:06:43 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "6bf99dc55afa3edfb9b693e930128c4c",
       "title": "यूपी: प्रदेश में प्रचंड गर्मी का अलर्ट, इन जिलों में लू चलने की चेतावनी; बदला गया सरकारी-निजी स्कूलों का समय",
       "link": "https://www.amarujala.com/lucknow/uttar-pradesh-severe-heatwave-alert-issued-in-the-state-warning-of-deadly-heatwaves-in-these-districts-gove-2026-04-22",
@@ -2534,6 +2924,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "c00ba31793e54d93bac3e1c7706b757d",
+      "title": "Transgender devotee builds grand Shiva temple in Gorakhpur:Prema invests lifetime earnings of ₹85 lakh, Pran-Pratishtha ceremony set for April 24",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-kinnar-prema-shiva-mandir-pran-pratishtha-24-april-137757928.html",
+      "summary": "In Gorakhpur’s Padri Bazaar area, under Jungle Matadin locality, a remarkable story of devotion and determination has taken shape. Transgender Prema has built a grand Shiva temple, using money earned through years of hard work and blessings received during social engagements. The initiative stands out as a rare blend of personal faith and public service. Temple ready, Pran-Pratishtha on April 24 The temple, named Vishweshwar Nath Temple, has been constructed at an estimated cost of around Rs 85 lakh. It is not dedicated to any particular group but has been opened to the entire society. The Pran Pratishtha ceremony is scheduled for April 24, when elaborate religious rituals will mark the formal consecration of the shrine. A lifetime’s wish fulfilled Prema, who has been living in the area with disciples for nearly six decades, says the temple is the culmination of a long-cherished dream. Reflecting on her journey, she said she had spent her life earning, sustaining herself, and contributing to society, and wanted to leave behind a spiritual legacy by building a temple of Lord Shiva. Key highlights of the initiative * Temple constructed with personal savings and community blessings * Estimated project cost stands at around Rs 85 lakh * Dedicated to the entire community, not a single group * Consecration ceremony to be held with full religious rituals Preparations gather pace for grand ceremony The upcoming consecration ceremony is expected to draw devotees, local residents, and several dignitaries. Kundan Upadhyay will lead the rituals as the chief patron of the event. Preparations are in full swing, with efforts focused on decorating the temple premises and ensuring a smooth आयोजन of the programme. Social service remains central to journey * Helped construct a public road for local residents * Provided financial support for marriages of three girls from poor families * Long-standing engagement in community welfare activities * Earned recognition for consistent grassroots contributions A legacy beyond devotion Prema’s work extends beyond the temple, reflecting a sustained commitment to social causes. From improving local infrastructure to supporting underprivileged families, her efforts have left a tangible impact on the community. With the temple now complete, residents see it not just as a place of worship, but as a symbol of inclusive faith and service.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 08:03:50 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -2615,6 +3018,32 @@
       "lang": "en"
     },
     {
+      "id": "b258d728e2e2e2ecb96479de5a452d08",
+      "title": "Rinku Singh seeks IPL trophy as blessings from Baba Vishwanath:Sits among devotees for Ganga aarti, to marry in June with MP Priya Saroj",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/varanasi/news/rinku-singh-kashi-vishwanath-temple-ganga-aarti-ipl-trophy-wish-137757802.html",
+      "summary": "Kolkata Knight Riders' vice-captain Rinku Singh has embarked on a religious journey. He performed special prayers at the Kashi Vishwanath Temple for his team's victory. He stayed at the temple for half an hour, during which he was accompanied by his fiance Priya Saroj and his teammate, Kolkata Knight Riders' all-rounder Anukul Roy. During the Ganga Aarti, before the ritual begins, the priest administered a pledge, during which he said that he wants his team to be the winner in this year's IPL. Not only this, he sat among the devotees and watched the 45-minute Ganga Aarti with great devotion. Someone close to him revealed that when he was leaving after the darshan, he said that he has received everything, and his only wish from Baba is to win the IPL trophy this time. Now he will go to Ayodhya and have darshan of Lord Ramlala in the evening. Inspected wedding arrangements at Taj Hotel Upon arriving in Kashi, Rinku Singh first reached Priya Saroj's house where her father, Kerat MLA and former MP Toofani Saroj, welcomed him with a bouquet along with family members. Special food arrangements were made for Rinku Singh. After which he headed straight to the Taj Hotel. It is being said that the wedding may take place at Varanasi's Taj Hotel in the first week of June, although the date has not been announced yet. However, Rinku Singh viewed the wedding packages at the Taj Hotel and also met with various social workers of Varanasi and leaders of the Samajwadi Party. Rinku Singh is playing for KKR in IPL Playing for Kolkata Knight Riders (KKR), he delivered victory in Sunday's match in IPL 2026. In the Kolkata-Rajasthan match, he scored an unbeaten 53 runs off 34 balls. He also led the team to a 4-wicket victory. The team's next match is on April 26. Now read the story of Rinku Singh's struggle Seeing his father work hard, Rinku would get worried. Behind Rinku Singh's success lies his father's hard struggle. Khanchand worked as a hawker at a gas agency in Aligarh. For the good upbringing of his 5 sons and daughter, he delivered cylinders door-to-door for many years. First, he used to deliver on a bicycle, then he started delivering cylinders to people's homes by tempo. In childhood, Rinku would get worried seeing his father work so hard. He had promised that Papa...one day I will become your support and free you from this hard work. As soon as he became successful in cricket, Rinku also fulfilled his promise to his father. His mother Veena Devi manages the household responsibilities. Rinku is the fourth among 5 brothers and one sister. The elder brothers are Sonu, Mukul and Sheelu. While sister Neha and brother Jeetu are younger than Rinku. His family once lived in Dangarh, Bulandshahr, which later shifted to Aligarh. Rinku and Priya Saroj are already engaged Rinku and SP MP Priya Saroj are already engaged. Both are going to marry in June, 2026 this year. Last year, Rinku and Priya's ring ceremony took place in Lucknow. Sources say that after the father's demise, the family may reconsider the date of Rinku's wedding. Wedding date has been postponed twice Before this, Rinku-Priya's wedding date has been postponed twice. The first date was set for November 18, 2025, but it was postponed due to a cricket series. The second date came up in February 2026, but it had to be cancelled due to the World Cup. Rinku's elder brother Sonu Singh had informed that the wedding bells will ring only when Rinku is free from IPL. The wedding will take place in Kashi. The reception will be held in Aligarh.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 07:34:54 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f9bc5af386d85faa729c288293f76f11",
+      "title": "Iran’s UN ambassador responds to US ceasefire extension",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/22/irans-un-ambassador-responds-to-us-ceasefire-extension?traffic_source=rss",
+      "summary": "Iran’s UN Ambassador has responded to US President Donald Trump’s announcement of an extension to the ceasefire.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 07:33:42 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e23f7280b2b4ca6b8e58f5bdd2d8044c",
       "title": "हज यात्रा 2026: पहली उड़ान आज से, एक साथ 427 यात्री फ्लाईनास एयरलाइंस से लखनऊ से भरेंगे उड़ान",
       "link": "https://www.amarujala.com/lucknow/hajj-2026-first-flight-from-today-427-pilgrims-to-fly-simultaneously-from-lucknow-on-flynas-airlines-2026-04-22",
@@ -2667,6 +3096,32 @@
       "lang": "hi"
     },
     {
+      "id": "74f0db2aa03892f72145be90a36046d2",
+      "title": "US halts shipment of Iraq’s oil dollars to curb Iran-linked groups: WSJ",
+      "link": "https://www.aljazeera.com/news/2026/4/22/us-halts-iraq-dollar-shipments-in-pressure-campaign-over-iran-linked-groups?traffic_source=rss",
+      "summary": "A plane carrying nearly $500m in US banknotes was blocked by the US Treasury, according to The Wall Street Journal.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 07:18:26 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bfcfa89f6ed30e41beecdff1faf55657",
+      "title": "World Cup host Mexico pledges security at tourist sites after shooting",
+      "link": "https://www.aljazeera.com/sports/2026/4/22/world-cup-host-mexico-pledges-security-at-tourist-sites-after-shooting?traffic_source=rss",
+      "summary": "Mexican president admits the archaeological site outside Mexico City lacked security measures to prevent the attack.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 07:15:06 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "827bd26cec41725ffc8121387ee92a99",
       "title": "'Lenskart owner is descendant of Aurangzeb':BJP MLA Nand Kishore reaches store in Ghaziabad, opposes dress code policy",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/bjp-mla-nand-kishore-ghaziabad-lenskart-dress-code-controversy-137757685.html",
@@ -2715,6 +3170,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "05f2cc6aad6e7742293531a60ffc047d",
+      "title": "Is Bangladesh killing reforms introduced after student-led protests?",
+      "link": "https://www.aljazeera.com/news/2026/4/22/is-bangladesh-killing-reforms-introduced-after-student-led-protests?traffic_source=rss",
+      "summary": "A new parliament has cancelled several reforms that were brought in after Hasina's ouster to improve accountability.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 07:03:54 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -2842,8 +3310,8 @@
       "summary": "Iranian government sources told The Hindu that they plan to first reallow overflight operations that will bring a huge respite to all international airlines connecting Europe with Asia, including Indian carriers",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 06:38:38 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -2873,6 +3341,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "31b62a5dd1273e0fe6cb9d93d7127bb1",
+      "title": "Taiwan president cancels trip after African countries revoke flight permits",
+      "link": "https://www.bbc.com/news/articles/crl16p72x7xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Taiwan has accused Beijing of putting pressure on African countries to close their airspace to Lai's plane.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 06:25:15 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "9129d03ee346a20b024092cef6e5bf5b",
@@ -2930,7 +3411,7 @@
       "id": "81681403cf63bbb31c6853a2786e4741",
       "title": "Canadian citizen's body found lying in filth in Manikarnika Ghat:Kashi man performs his last rites; wife watches on video call",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/kashi-man-last-rites-wife-video-call-canadian-citizen-body-filth-manikarnika-ghat-137757313.html",
-      "summary": "The last rites of Taras Tanasov (55 years old) from Canada, who was found ill in Varanasi and later on admitted to a hospital, were performed at Manikarnika Ghat. On 12 April, social worker Aman Kabir admitted Taras to Kabirchowra Hospital after receiving information that he was lying in filth at the ghat. He died there on 15 April. After his death, his wife could not reach India. She sent a letter through the embassy to Aman Kabir for the last rites. After receiving the letter, Aman performed the last rites of Canada's Taras Tanasov on 21 April. During this time, his wife Ellen watched her husband's final journey live and bid farewell with moist eyes. Foreign citizens were also present at the ghat during this time. Taras was found ill at the ghat Aman Yadav of Aman Kabir Trust said - 10 days ago, a foreign national was found at Manikarnika Ghat. The people there and Monu Baba had informed me about this. And they said that he was sick. When I reached there, I saw he was living in filth. His body had become weak. In this situation, he was bathed, cleaned up and admitted to Kabirchora Hospital. Death occurred on 15 April, two passports were found with Taras Aman said - During treatment at Kabirchora Hospital, Taras died on the morning of 15 April. The doctor said that he had diabetes. He died due to the illness. The body was kept in the mortuary and the police and LIU were informed. Two passports have been found with Taras. One is from the European country Republic of Moldova and one is from Canada. When LIU contacted both embassies, it was found that Taras was a resident of Republic of Moldova and his wife is from Canada. That's why there are two passports. Secret revealed when wife Ellen was contacted Aman said - When LIU contacted wife Ellen in Canada, the secret of Taras coming to India and Kashi was revealed. According to the information given by Ellen, Taras has two wives. He also has diabetes. Seven months ago, he came to Kashi for moksha (salvation) after being upset with his wives. Here he stayed in a room for 4 months for 3500 rupees. After that he started living near the ghat. During this time he became very ill. Cremation took place after Canadian Embassy gave permission Aman Kabir informed - After this, with the help of LIU and local administration, the Canadian Embassy spoke with the family members and gave permission to Aman Kabir Trust for the last rites according to Hindu customs. Following this, after conducting the post-mortem of the body on the evening of 21 April, cremation was performed at Manikarnika Ghat. Wife Ellen witnessed the funeral procession, foreigners participated After 5 pm on Tuesday, 21 April, Taras's funeral procession departed from Kabirchowra Hospital to Manikarnika Ghat with Hindu rituals. During this time, Taras's wife Ellen watched the funeral procession with moist eyes. When Taras's funeral procession reached Manikarnika Ghat, foreigners paid their last respects to Taras and joined the funeral procession.",
+      "summary": "The Canadian citizen Taras Tanasov (55 years old), who was found sick at Varanasi ghat by Aman Kabir trust has died. His last rites were performed at Manikarnika Ghat in presence of other foreigners and his wife, who attended the cremation on a video call. On 12 April, social worker Aman Kabir admitted Taras to Kabirchowra Hospital after receiving information that he was lying in filth at the ghat. After his death, his wife could not reach India. She sent a letter through the embassy to Aman Kabir for the last rites. During this time, his wife Ellen watched her husband's final journey live and bid farewell with moist eyes. Foreign citizens were also present at the ghat during this time. Taras was found ill at the ghat Aman Yadav of Aman Kabir Trust said - 10 days ago, a foreign national was found at Manikarnika Ghat. The people there and Monu Baba had informed me about this. And they said that he was sick. When I reached there, I saw he was living in filth. His body had become weak. In this situation, he was bathed, cleaned up and admitted to Kabirchora Hospital. Death occurred on 15 April, two passports were found with Taras Aman said - During treatment at Kabirchora Hospital, Taras died on the morning of 15 April. The doctor said that he had diabetes. He died due to the illness. The body was kept in the mortuary and the police and the Local Intelligence Unit (LIU) were informed. Two passports have been found with Taras. One is from the European country Republic of Moldova and one is from Canada. When LIU contacted both embassies, it was found that Taras was a resident of Republic of Moldova and his wife is from Canada. That's why he held two passports. Secret revealed when wife Ellen was contacted Aman said - When LIU contacted wife Ellen in Canada, the secret of Taras coming to India and Kashi was revealed. According to the information given by Ellen, Taras has two wives. He also has diabetes. Seven months ago, he came to Kashi for moksha (salvation) after being upset with his wives. Here he stayed in a room for 4 months for 3500 rupees. After that he started living near the ghat. During this time he became very ill. Cremation took place after Canadian Embassy gave permission Aman Kabir informed - After this, with the help of LIU and local administration, the Canadian Embassy spoke with the family members and gave permission to Aman Kabir Trust for the last rites according to Hindu customs. Following this, after conducting the post-mortem of the body on the evening of 21 April, cremation was performed at Manikarnika Ghat. Wife Ellen witnessed the funeral procession, foreigners participated After 5 pm on Tuesday, 21 April, Taras's funeral procession departed from Kabirchowra Hospital to Manikarnika Ghat with Hindu rituals. During this time, Taras's wife Ellen watched the funeral procession with moist eyes. When Taras's funeral procession reached Manikarnika Ghat, foreigners paid their last respects to Taras and joined the funeral procession.",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 06:00:19 +0000",
       "section": "UP_Focus",
@@ -3099,7 +3580,7 @@
       "id": "d323e6b1118ef8392896f8715b922cc2",
       "title": "Union Minister Shivraj stuck in Lucknow traffic jam:Leaves without attending wedding of senior BJP leader's daughter",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/lucknow/news/shivraj-chouhan-stuck-lucknow-traffic-wedding-bjp-leader-137757118.html",
-      "summary": "Lucknow's traffic system has once again caused embarrassment. Union Agriculture Minister and former Chief Minister of Madhya Pradesh Shivraj Singh Chouhan got stuck in such a traffic jam in the capital on Monday that he returned without attending the wedding ceremony. The return of this senior BJP leader in this manner is now bothering government and organization leaders. BJP MLC and BJP in-charge of Madhya Pradesh Mahendra Singh's daughter's wedding was on Monday at Janeshwar Mishra Park. In another section of Janeshwar Mishra Park itself, the wedding of state government minister Dinesh Pratap Singh's niece was also taking place. To attend the weddings at the homes of two senior leaders, CM Yogi Adityanath, Deputy CM Keshav Prasad Maurya, Deputy CM Brajesh Pathak, several ministers of the central government, national and state office bearers of BJP, ministers of the state government, several senior office bearers of RSS, MLAs, MPs and officials had arrived. Union Agriculture Minister Shivraj Singh Chouhan also came to the wedding ceremony to bless the bride and groom. State government PWD Minister of State Brajesh Singh was assigned to Shivraj's protocol. Brajesh Singh reached Janeshwar Mishra Park with Shivraj Singh. Shivraj Singh attended the wedding of Dinesh Pratap Singh's niece and blessed the bride and groom and also gave them a gift. But ahead of that, his convoy got stuck in a traffic jam. Even after considerable effort, the jam did not clear, and due to being stuck in the jam, there was a possibility of Shivraj Singh missing his flight. Due to the heavy traffic jam, Shivraj Singh Chouhan handed over his gift to Brajesh Singh in an annoyed tone. He returned without attending the wedding ceremony. Brajesh Singh reached the stage and informed Mahendra Singh about this, and also presented the gift given by Shivraj Singh. Minister of State for PWD Brajesh Singh said, Shivraj Singh Chouhan arrived a little late. Many VVIPs were attending the wedding at Janeshwar Mishra Park. The VVIP fleet was overwhelmed. The private plane Shivraj flew in had an FLT until 9:30 pm. Therefore, he had to return without attending Mahendra Singh's wedding.",
+      "summary": "Lucknow's traffic system has once again caused embarrassment. Union Agriculture Minister and former Chief Minister of Madhya Pradesh Shivraj Singh Chouhan got stuck in a traffic jam in the capital on Monday. He had to return without attending the wedding ceremony he had arrived for. BJP MLC and BJP in-charge of Madhya Pradesh Mahendra Singh's daughter's wedding was on Monday at Janeshwar Mishra Park. In another section of Janeshwar Mishra Park itself, the wedding of state government minister Dinesh Pratap Singh's niece was also taking place. To attend the weddings at the homes of two senior leaders, CM Yogi Adityanath, Deputy CM Keshav Prasad Maurya, Deputy CM Brajesh Pathak, several ministers of the central government, national and state office bearers of BJP, ministers of the state government, several senior office bearers of RSS, MLAs, MPs and officials had arrived. Union Agriculture Minister Shivraj Singh Chouhan also came to the wedding ceremony to bless the bride and groom. State government PWD Minister of State Brajesh Singh was assigned to Shivraj's protocol. Brajesh Singh reached Janeshwar Mishra Park with Shivraj Singh. Shivraj Singh attended the wedding of Dinesh Pratap Singh's niece and blessed the bride and groom and also gave them a gift. But ahead of that, his convoy got stuck in a traffic jam. Even after considerable effort, the jam did not clear, and due to being stuck in the jam, there was a possibility of Shivraj Singh missing his flight. Due to the heavy traffic jam, Shivraj Singh Chouhan handed over his gift to Brajesh Singh in an annoyed tone. He returned without attending the wedding ceremony. Brajesh Singh reached the stage and informed Mahendra Singh about this, and also presented the gift given by Shivraj Singh. Minister of State for PWD Brajesh Singh said, Shivraj Singh Chouhan arrived a little late. Many VVIPs were attending the wedding at Janeshwar Mishra Park. The VVIP fleet was overwhelmed. The private plane Shivraj flew in had an FLT until 9:30 pm. Therefore, he had to return without attending Mahendra Singh's wedding.",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 04:59:09 +0000",
       "section": "UP_Focus",
@@ -3185,19 +3666,6 @@
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
-    },
-    {
-      "id": "0a91044f4b9709a229ca868e5f0979a8",
-      "title": "Maharashtra: सरकारी ठेके दिलाने का झांसा देकर सात लोगों से 91 लाख रुपये ठगे, मामला दर्ज",
-      "link": "https://www.amarujala.com/india-news/maharashtra-news-updates-today-mumbai-police-crime-politics-of-state-2026-04-22",
-      "summary": "Maharashtra: सरकारी ठेके दिलाने का झांसा देकर सात लोगों से 91 लाख रुपये ठगे, मामला दर्ज maharashtra news updates today mumbai police crime politics of state",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 04:12:33 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "8d7ee653d88ab1b4c51e4409daa740b0",
@@ -3447,6 +3915,58 @@
       "lang": "en"
     },
     {
+      "id": "1843db08668dde0e634c77093f22029d",
+      "title": "Train Accidents in India: रेलमंत्री बोले- दस वर्षों में ट्रेन हादसों में आई 90% कमी, अब सिंगल डिजिट का लक्ष्य",
+      "link": "https://www.amarujala.com/india-news/all-india-track-maintainers-conference-railway-minister-says-90-reduction-in-train-accidents-over-last-decade-2026-04-22",
+      "summary": "All India Track Maintainers Conference Railway Minister says 90% Reduction in Train Accidents Over Last Decade- Train Accidents in India: रेलमंत्री बोले- दस वर्षों में ट्रेन हादसों में आई 90% कमी, अब सिंगल डिजिट का लक्ष्य",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:44:21 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "0a91044f4b9709a229ca868e5f0979a8",
+      "title": "Maharashtra: मालेगांव विस्फोट मामले में बॉम्बे HC ने चार आरोपियों को राहत दी; सात लोगों से 91 लाख रुपये की ठगी",
+      "link": "https://www.amarujala.com/india-news/maharashtra-news-updates-today-mumbai-police-crime-politics-of-state-2026-04-22",
+      "summary": "Maharashtra: मालेगांव विस्फोट मामले में बॉम्बे HC ने चार आरोपियों को राहत दी; सात लोगों से 91 लाख रुपये की ठगी maharashtra news updates today mumbai police crime politics of state",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:40:07 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "56b70859e38ba45e50a1350800c0eb52",
+      "title": "UP: लीवर और फेफड़े तक फटे, राजा के शरीर पर 40 वार, चाकू से गोद डाला शरीर; पोस्टमार्टम करने वाले डॉक्टर कांपे",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/moradabad-couple-murder-they-inflicted-40-knife-wounds-on-raja-body-completely-riddling-it-with-stabs-2026-04-22",
+      "summary": "मुरादाबाद के सिविल लाइंस थाना क्षेत्र के चक्कर की मिलक में राजा और उसकी पत्नी फराह की बड़ी बेरहमी से हत्या की गई। मंगलवार की शाम आई पोस्टमार्टम रिपोर्ट बर्बरता बयां कर रही है।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:39:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d7ec6b279cc4527033ee55596ecb8db9",
+      "title": "Elctricity Crisis: शहर से लेकर गांव तक ट्रिपिंग ने बढ़ा दी मुसीबत, बिजली खर्च 50 मेगावाट ज्यादा; परेशानी",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/electricity-crisis-tripping-aggravates-hardships-from-cities-to-villages-consumption-rises-by-50-megawatts-2026-04-22",
+      "summary": "तीन दिन से तीखी धूप, लू चलने और तापमान में बढ़ोतरी का असर बिजली व्यवस्था पर सबसे अधिक देखने को मिल रहा है। दिन और रात में हो रही ट्रिपिंग ने लोगों की परेशानी बढ़ा दी है।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:38:37 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "2857842752c641fb49f42f751709295b",
       "title": "Gorakhpur News: खजनी में रसोई गैस किल्लत पर भड़के ग्राहक, हंगामा- पुलिस से नोकझोंक",
       "link": "https://www.amarujala.com/gorakhpur/people-queued-up-for-gas-cylinders-since-dawn-anger-erupted-over-the-delay-in-distribution-gorakhpur-news-c-7-gkp1038-1296631-2026-04-22",
@@ -3509,6 +4029,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "35708757867ab80c163720933d4c7e81",
+      "title": "विश्व पृथ्वी दिवस: सूरज की रोशनी से हर रोज 12.50 मेगावाट बिजली से जगमगा रहा नोएडा, इस साल लगेंगे 8 लाख नए पौधे",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/noida-is-being-illuminated-daily-by-12-50-megawatts-of-electricity-generated-from-sunlight-2026-04-22",
+      "summary": "नोएडा शहर ने सालभर में 18,720 मिलियन टन कार्बन उत्सर्जन कम किया है। यह सोलर ऊर्जा की बढ़ती उपयोगिता से संभव हो सका।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:37:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -3759,6 +4292,19 @@
       "lang": "en"
     },
     {
+      "id": "ea719c7934ec07821ae66ead6d01c75c",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 22 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-22",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:30:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "ba7caaa4f32aacc52d07f0957a85fbfa",
       "title": "Tamil Nadu government extends ban on mayonnaise for another year",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-extends-ban-on-mayonnaise-for-another-year/article70888982.ece",
@@ -3770,6 +4316,19 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "eb18c0f42215ba4af84fb2491286007d",
+      "title": "पढ़ें 22 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-22",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:30:21 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "408eba5ebb3ddf9b4d8cb50ef16cd178",
@@ -3834,6 +4393,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "aa39e820d5db257428ffa6f23a2e40c7",
+      "title": "UP Board 10th 12th Result 2026: यूपी बोर्ड 10वीं-12वीं रिजल्ट कब आएगा? पिछले साल इस दिन हुआ था जारी",
+      "link": "https://www.amarujala.com/live/education/up-board-2026-result-kab-aaega-live-updates-check-upmsp-10th-12th-results-date-time-upmsp-edu-in-2026-04-18",
+      "summary": "UPMSP UP Board 10th 12th Result kab aayega Check date, time, upresults.nic.in, upmsp.edu.in, digilocker, sarkari result: उत्तर प्रदेश बोर्ड की परीक्षाओं के समाप्त होने के बाद से ही सभी विद्यार्थी अपने परीक्षा परिणाम का बेसब्री से इंतजार कर रहे हैं।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:29:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -4006,6 +4578,19 @@
       "lang": "en"
     },
     {
+      "id": "4b01a1c3a400f00290f298b47765ff18",
+      "title": "'ऑपरेशन सिंदूर अभी जारी': पहलगाम हमले की बरसी पर भारतीय सेना का सख्त संदेश- भारत के खिलाफ हर हमले का जवाब तय",
+      "link": "https://www.amarujala.com/india-news/pahalgam-terror-attack-indian-army-says-for-acts-against-india-response-is-assured-news-in-hindi-2026-04-22",
+      "summary": "'ऑपरेशन सिंदूर अभी जारी': पहलगाम हमले की बरसी पर भारतीय सेना का सख्त संदेश- भारत के खिलाफ हर हमले का जवाब तय, Pahalgam Terror Attack Indian Army says for acts against India response is assured News In Hindi",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:25:18 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "54ac9d6e13793031ef4b6acd75f52fa6",
       "title": "Varanasi News: बनारस हॉकी लीग की विजेता टीम को इस बार ट्रॉफी के साथ मिलेगा नकद पुरस्कार",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/this-time-the-winning-team-of-banaras-hockey-league-will-get-a-cash-prize-along-with-the-trophy-varanasi-news-c-20-vns1022-1365014-2026-04-22",
@@ -4033,9 +4618,9 @@
     },
     {
       "id": "0ddbf9a79d69094a420936b6ef6b077e",
-      "title": "Virginia approves redistricting, giving Democrats edge in midterms",
+      "title": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
       "link": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new maps in Virginia could make it easier for Democrats to take control of the US House of Representatives in November.",
+      "summary": "The new maps approved by the state's voters could allow Democrats to flip as many as four House seats.",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 02:24:41 GMT",
       "section": "International",
@@ -4280,9 +4865,9 @@
     },
     {
       "id": "c141fb201359913ec9421f5a107ded0d",
-      "title": "Gorakhpur News: पॉलीग्राफ टेस्ट के बाद भी उलझी गुत्थी, दो को छोड़कर चार के बयानों में अंतर",
+      "title": "चौरीचौरा डबल मर्डर: पॉलीग्राफ टेस्ट के बाद भी उलझी गुत्थी, 4 के बयानों में अंतर- बेटी ने भी उलझाया",
       "link": "https://www.amarujala.com/gorakhpur/even-after-the-polygraph-test-the-mystery-remains-complicated-the-statements-of-four-people-except-two-differ-gorakhpur-news-c-7-gkp1064-1296491-2026-04-22",
-      "summary": "Even after the polygraph test, the mystery remains complicated; the statements of four people, except two, differ.",
+      "summary": "चौरीचौरा थाना क्षेत्र में हुए चर्चित मां-बेटी हत्याकांड की गुत्थी सुलझने के बजाय और पेचीदा हो गई है।",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 02:17:54 +0530",
       "section": "UP_Focus",
@@ -4303,6 +4888,19 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
+    },
+    {
+      "id": "c067496cd419d14ee7965e13e4f38aeb",
+      "title": "West Bengal: केजरीवाल ने ममता बनर्जी से फोन पर की बात, समर्थन जताकर बोले- लोकतंत्र की अहम लड़ाई लड़ रहीं दीदी",
+      "link": "https://www.amarujala.com/india-news/kejriwal-spoke-to-mamata-banerjee-over-the-phone-expressing-his-support-saying-didi-is-fighting-for-democr-2026-04-22",
+      "summary": "West Bengal: केजरीवाल ने ममता बनर्जी से फोन पर की बात, समर्थन जताकर बोले- लोकतंत्र की अहम लड़ाई लड़ रहीं दीदी Kejriwal spoke to Mamata Banerjee over the phone, expressing his support, saying, \"Didi is fighting for democracy",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:17:38 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "2f155735238b2a58b02e5f1e7fdd0fa6",
@@ -4328,6 +4926,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "1cca479aed2e5472ba7927f539dc085e",
+      "title": "UP Board 12th Result 2026: टॉप करना है तो कितने नंबर जरूरी? जानें 2025 टॉपर महक जायसवाल का स्कोर",
+      "link": "https://www.amarujala.com/education/up-board-12th-topper-marks-2026-know-required-score-to-rank-top-and-2025-topper-percentage-details-2026-04-22",
+      "summary": "UP Board 12th Topper Marks: यूपी बोर्ड 12वीं में टॉप करने के लिए बेहद उच्च अंक जरूरी होते हैं। 2025 में महक जायसवाल ने 97.20% अंक हासिल कर पहला स्थान पाया था। जानें टॉपर्स के स्कोर का ट्रेंड और कितने नंबर लाकर आप भी बना सकते हैं मेरिट में जगह।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:16:59 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -4370,6 +4981,19 @@
       "lang": "en"
     },
     {
+      "id": "6f0458564f9cccab5cd94f23b50fabf9",
+      "title": "अजय राय बोले- पहले अपनी पत्नी का सम्मान करें पीएम मोदी, VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-ajay-rai-says-pm-modi-should-first-respect-his-own-wife-in-varanasi-2026-04-22",
+      "summary": "अजय राय बोले- पहले अपनी पत्नी का सम्मान करें पीएम मोदी, VIDEO",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:16:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "9feb717abbac3d7e30740be69b0f208a",
       "title": "Gorakhpur News: लूट के आरोपी निलंबित दरोगा की जमानत याचिका खारिज",
       "link": "https://www.amarujala.com/gorakhpur/a-case-of-robbery-involving-a-young-man-from-rajasthan-the-court-stated-that-the-policemans-involvement-in-the-crime-was-a-direct-attack-on-societal-trust-gorakhpur-news-c-7-gkp1038-1296934-2026-04-22",
@@ -4409,6 +5033,32 @@
       "lang": "en"
     },
     {
+      "id": "ac7909f278fdd7b6c17ff8664b1e3da0",
+      "title": "राशन घोटाले में जांच तेज: बंगाल चुनाव से पहले नुसरत जहां ईडी दफ्तर पहुंचीं, मनी लॉन्ड्रिंग केस में पूछताछ",
+      "link": "https://www.amarujala.com/india-news/nusrat-jahan-appears-before-ed-in-kolkata-over-ration-scam-money-laundering-case-2026-04-22",
+      "summary": "राशन घोटाले में जांच तेज: बंगाल चुनाव से पहले नुसरत जहां ईडी दफ्तर पहुंचीं, मनी लॉन्ड्रिंग केस में पूछताछ",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:15:07 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "7859e8eb02943232ccdc41382b826d1a",
+      "title": "UP Board Result 2026 Date Live: कल शाम 4 बजे यूपी बोर्ड 10वीं-12वीं का रिजल्ट, अमर उजाला पर कर सकेंगे चेक",
+      "link": "https://www.amarujala.com/live/education/up-board-result-2026-kab-aayega-live-updates-upmsp-10th-12th-results-date-time-upmsp-edu-in-digilocker-2026-04-21",
+      "summary": "UPMSP UP Board 10th 12th Result kab aayega Check date, time, upresults.nic.in, upmsp.edu.in, digilocker, sarkari result: उत्तर प्रदेश माध्यमिक शिक्षा परिषद द्वारा आयोजित यूपी बोर्ड 10वीं और 12वीं परीक्षाओं के समाप्त होने के बाद से ही",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:14:51 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "d5259fe987d4547b43c33da840c7a045",
       "title": "Gorakhpur News: कुआनो नदी में उतराता मिला प्रतियोगी छात्र का शव",
       "link": "https://www.amarujala.com/gorakhpur/body-of-competitive-student-found-floating-in-kuano-river-gorakhpur-news-c-7-gkp1038-1296394-2026-04-22",
@@ -4419,6 +5069,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "be7ccbf45057c8d9090939e2d61b3d62",
+      "title": "UP Board 10th 12th Result Live: कल इस वेबसाइट पर मिलेगा यूपी बोर्ड का रिजल्ट, शाम 4 बजे यहां डालें रोल नंबर",
+      "link": "https://www.amarujala.com/live/education/up-board-result-2026-live-upmsp-10th-12th-result-kab-ayega-check-date-time-upresults-nic-in-digilocker-2026-04-22",
+      "summary": "UPMSP Up Board 10th 12th Result 2026 Live Updates in Hindi: उत्तर प्रदेश माध्यमिक शिक्षा परिषद (UPMSP) ने 10वीं और 12वीं की वार्षिक परीक्षाओं के परीक्षाफल जारी करने की तिथि और समय का एलान कर दिया है। नतीजे कल 23 अप्रैल को शाम 4 बजे घोषित किए जाएंगे।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:14:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -4552,6 +5215,32 @@
       "lang": "en"
     },
     {
+      "id": "f0e2dd0a9c7ff9bd6eeddcd686e51ab8",
+      "title": "JEE Main Result: जेआरएस के ध्रुवराज 389वीं रैंक के साथ बने टॉपर, 65 शीर्ष 30 हजार की रैंकिंग में; खिले चेहरे",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/jee-main-result-jrs-dhruvraj-emerges-topper-with-rank-389-65-students-secure-ranks-within-top-30-000-2026-04-22",
+      "summary": "जेईई मेन 2026 की परीक्षा में जेआरएस ट्यूटोरियल्स से 100 से ज्यादा छात्र-छात्राओं ने एनआईटी में अपना दाखिला सुनिश्चित कर लिया। जारी रिजल्ट में ध्रुवराज चौबे को सामान्य में 389वीं और ईडब्ल्यूएस श्रेणी में 41वीं रैंक मिली है।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:10:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "032d53a102470d08aec92e15997a788b",
+      "title": "छोटे कर्ज हो गए महंगे | क्या बढ़ेंगे डीजल के दाम? | Loan Interest Update | EMI और Diesel Price पर असर",
+      "link": "https://www.amarujala.com/video/india-news/small-loans-have-become-more-expensive-will-diesel-prices-rise-loan-interest-update-impact-on-emi-and-diesel-2026-04-22",
+      "summary": "छोटे कर्ज हो गए महंगे | क्या बढ़ेंगे डीजल के दाम? | Loan Interest Update | EMI और Diesel Price पर असर",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 02:10:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "7074c3b6e8ac09924c456cd8665934a3",
       "title": "Gorakhpur News: गोरखपुर विश्वविद्यालय परिसर में प्रवेश के लिए अब दो और रास्ते",
       "link": "https://www.amarujala.com/gorakhpur/there-will-soon-be-relief-from-the-daily-traffic-jam-in-front-of-the-main-gate-of-deendayal-upadhyay-gorakhpur-university-gorakhpur-news-c-7-gkp1038-1297038-2026-04-22",
@@ -4581,7 +5270,7 @@
       "id": "9fe1710d317943a69b72f05c35aafa43",
       "title": "'Blue drum' murder accused Muskaan claims she is being framed:Says, 'I was touring Shimla-Mussoorie with Sahil'; questioned in Meerut court",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/meerut-murder-case-muskaan-sahil-tour-shimla-mussoorie-judge-questions-137756457.html",
-      "summary": "In the famous Saurabh Rajput murder case of Meerut, accused Muskaan-Sahil presented their side in the district court on Tuesday, 21 April. Judge Anupam Kumar asked both of them 32 questions. Both said - we are being falsely implicated in Saurabh Rajput's murder. In 29 questions, Muskaan-Sahil completely denied the allegations. However, they answered yes to visiting and staying together in Kasol-Mussoorie and Shimla after the murder. Both said in their answers that we went on a trip together, we also stayed, but we did not commit murder. What happened in court? In District Judge Anupam Kumar's court, proceedings under Section-313 took place in the Saurabh Rajput murder case. Murder accused Muskaan-Sahil presented their side one by one. District Judge Anupam Kumar first asked Sahil 32 questions. After this, Muskaan was called to the witness box. Muskaan was also asked the same 32 questions. Both their statements were recorded. After this, Muskaan-Sahil were sent to the district jail. 7 major questions asked to Sahil Question: You are accused of murdering Muskaan's husband Saurabh Rajput. What do you have to say? Answer: This accusation is completely false, I am innocent. Question: Why has a case been filed against you? Answer: I don't know why this murder charge has been put on me? I am being falsely implicated. I had just gone for a stroll, that's why they are framing me. Question: Do you have anything to say in your defense or in your favor? Answer: No, nothing more to say. I'll just say that I have been wrongly implicated. Question: Hotel owners in Shimla, Kasol, Mussoorie say that you stayed in hotels here? Answer: Yes, that is correct. Question: Saurabh's friends say that they saw you going to Muskaan's house? Answer: This is completely false. I did not go to her house. Question: The drum seller, knife, cutter, sand sellers said that you purchased these items from them? Answer: All these allegations are completely false. I did not purchase any items. Question: Do you have anything to say in your defense, anything to present? Answer: Yes, I want to present my side. I want to give my defense. Sahil says, ‘I will present witnesses in court to prove my innocence’ When the judge asked Sahil in court if he wanted to say anything in his defense? To this, Sahil said in strong words, ‘I am innocent, I am being framed. I want to prove my innocence. To prove my innocence, I want to present my witness.’ The next date in the case is set for 28 April. Then Sahil's lawyer Rekha Jain will present witnesses and evidence on his behalf. ‘I was in Delhi on the night of the murder’ Sahil presented his side saying that on the night of Saurabh's murder, he was not in Meerut but in Delhi. It is believed that on April 28, Sahil will strongly present this point to prove his innocence that on the night of Saurabh's murder, he was in Delhi. Muskaan said, 'Case filed due to property dispute' When Muskaan was asked why a case was filed against you for your husband Saurabh Rajput's murder? How are you an accused? On this, Muskaan clearly said that the case was filed due to a property dispute. 7 major questions asked to Muskaan Question: You are accused of murdering your husband Saurabh Rajput, what do you say? Answer: This accusation is completely false, I am innocent. Question: Why was a case filed against you? Answer: I have been wrongly implicated in the case due to a property dispute. Question: Do you want to say anything in your defense or on your behalf? Answer: No, nothing more to say. I will just say that I have been wrongly implicated. Question: Hotel owners in Shimla, Kasol, Mussoorie say that you stayed there with Sahil Shukla? Answer: Yes, that's correct. I had gone for a trip and stayed there. Question: Saurabh's friends say that they saw Sahil coming and going to your house? Answer: Wrong and false. That did not happen. Question: The drum seller, knife, cutter, sand-cement sellers said that you purchased these items from them? Answer: All these allegations are completely false. Question: A doctor residing in Brahmpuri alleges that he prescribed a medicine to you on a prescription? Answer: This is wrong and baseless. Nothing like that happened. Sahil saw Muskaan's daughter Radha for the first time Sahil-Muskaan came to court together on 21 April, 2026, after 18 March, 2025. 13 months ago, both were sent to jail after being presented in the same court. Since then, both were having online hearings. On 21 April, both remained together for about one and a half hours. First, both were kept seated in the police van, where Sahil saw the face of Muskaan's daughter Radha for the first time. After this, both were presented in court. Both remained there together for 46 minutes. However, both could not talk to each other in the courtroom. The murder case came to light on 17 March, 2025 In Meerut's Brahmpuri area, on 3 March, Saurabh was murdered by his wife Muskaan along with her lover Sahil Rajput. After this, the body was cut into 3 pieces, put in a drum, and sealed with a mixture of cement and sand. The case was uncovered on 17 March. On 18 March, Muskaan and Sahil were sent to jail. Testimony of 22 witnesses completed In the Merchant Navy Officer Saurabh murder case, statements of 22 witnesses have been recorded so far. After these testimonies, the prosecution's evidence has been closed. Now the process under Section 313 will begin in court. After this, final arguments will take place and then the court will pronounce its verdict. Know the complete case Muskaan-Sahil stayed in the lobby all night with the body Muskaan of the blue drum case reached court with daughter in her lap, arrived in police van with lover Sahil after 13 months in jail In the much-discussed Saurabh murder case of Meerut, accused Muskaan and her lover Sahil were presented in court on Tuesday. Both were brought from jail to court amid heavy security. Both remained in court for about 46 minutes. During this time, the judge questioned Sahil for 20 minutes and Muskaan for 16 minutes. After this, the police took both back to jail in the same manner they had brought them to court.",
+      "summary": "In the Saurabh Rajput murder case of Meerut, the accused duo of Muskaan-Sahil presented their side in the district court on Tuesday, 21 April. Judge Anupam Kumar asked both of them 32 questions. Both said, 'We are being falsely implicated in Saurabh Rajput's murder.' Muskaan-Sahil completely denied the allegations. However, they admitted to visiting and staying together in Kasol-Mussoorie and Shimla after the murder. Both said in their answers that we went on a trip together, but we did not commit murder. What happened in court? In District Judge Anupam Kumar's court, proceedings under Section-313 took place in the Saurabh Rajput murder case. Murder accused Muskaan-Sahil presented their side one by one. District Judge Anupam Kumar first asked Sahil 32 questions. After this, Muskaan was called to the witness box. Muskaan was also asked the same 32 questions. Both their statements were recorded. After this, Muskaan-Sahil were sent to the district jail. 7 major questions asked to Sahil Question: You are accused of murdering Muskaan's husband Saurabh Rajput. What do you have to say? Answer: This accusation is completely false, I am innocent. Question: Why has a case been filed against you? Answer: I don't know why this murder charge has been put on me? I am being falsely implicated. I had just gone for a stroll, that's why they are framing me. Question: Do you have anything to say in your defense or in your favor? Answer: No, nothing more to say. I'll just say that I have been wrongly implicated. Question: Hotel owners in Shimla, Kasol, Mussoorie say that you stayed in hotels here? Answer: Yes, that is correct. Question: Saurabh's friends say that they saw you going to Muskaan's house? Answer: This is completely false. I did not go to her house. Question: The drum seller, knife, cutter, sand sellers said that you purchased these items from them? Answer: All these allegations are completely false. I did not purchase any items. Question: Do you have anything to say in your defense, anything to present? Answer: Yes, I want to present my side. I want to give my defense. Sahil says, ‘I will present witnesses in court to prove my innocence’ When the judge asked Sahil in court if he wanted to say anything in his defense? To this, Sahil said in strong words, ‘I am innocent, I am being framed. I want to prove my innocence. To prove my innocence, I want to present my witness.’ The next date in the case is set for 28 April. Then Sahil's lawyer Rekha Jain will present witnesses and evidence on his behalf. ‘I was in Delhi on the night of the murder’ Sahil presented his side saying that on the night of Saurabh's murder, he was not in Meerut but in Delhi. It is believed that on April 28, Sahil will strongly present this point to prove his innocence that on the night of Saurabh's murder, he was in Delhi. Muskaan said, 'Case filed due to property dispute' When Muskaan was asked why a case was filed against you for your husband Saurabh Rajput's murder? How are you an accused? On this, Muskaan clearly said that the case was filed due to a property dispute. 7 major questions asked to Muskaan Question: You are accused of murdering your husband Saurabh Rajput, what do you say? Answer: This accusation is completely false, I am innocent. Question: Why was a case filed against you? Answer: I have been wrongly implicated in the case due to a property dispute. Question: Do you want to say anything in your defense or on your behalf? Answer: No, nothing more to say. I will just say that I have been wrongly implicated. Question: Hotel owners in Shimla, Kasol, Mussoorie say that you stayed there with Sahil Shukla? Answer: Yes, that's correct. I had gone for a trip and stayed there. Question: Saurabh's friends say that they saw Sahil coming and going to your house? Answer: Wrong and false. That did not happen. Question: The drum seller, knife, cutter, sand-cement sellers said that you purchased these items from them? Answer: All these allegations are completely false. Question: A doctor residing in Brahmpuri alleges that he prescribed a medicine to you on a prescription? Answer: This is wrong and baseless. Nothing like that happened. Sahil saw Muskaan's daughter Radha for the first time Sahil-Muskaan came to court together on 21 April, 2026, after 18 March, 2025. 13 months ago, both were sent to jail after being presented in the same court. Since then, both were having online hearings. On 21 April, both remained together for about one and a half hours. First, both were kept seated in the police van, where Sahil saw the face of Muskaan's daughter Radha for the first time. After this, both were presented in court. Both remained there together for 46 minutes. However, both could not talk to each other in the courtroom. The murder case came to light on 17 March, 2025 In Meerut's Brahmpuri area, on 3 March, Saurabh was murdered by his wife Muskaan along with her lover Sahil Rajput. After this, the body was cut into 3 pieces, put in a drum, and sealed with a mixture of cement and sand. The case was uncovered on 17 March. On 18 March, Muskaan and Sahil were sent to jail. Testimony of 22 witnesses completed In the Merchant Navy Officer Saurabh murder case, statements of 22 witnesses have been recorded so far. After these testimonies, the prosecution's evidence has been closed. Now the process under Section 313 will begin in court. After this, final arguments will take place and then the court will pronounce its verdict. Know the complete case Muskaan-Sahil stayed in the lobby all night with the body Muskaan of the blue drum case reached court with daughter in her lap, arrived in police van with lover Sahil after 13 months in jail In the much-discussed Saurabh murder case of Meerut, accused Muskaan and her lover Sahil were presented in court on Tuesday. Both were brought from jail to court amid heavy security. Both remained in court for about 46 minutes. During this time, the judge questioned Sahil for 20 minutes and Muskaan for 16 minutes. After this, the police took both back to jail in the same manner they had brought them to court.",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 02:00:50 +0000",
       "section": "UP_Focus",
@@ -4604,6 +5293,19 @@
       "lang": "en"
     },
     {
+      "id": "16c60b4c8f3f06c3e6b61c0b2177d315",
+      "title": "Pawan Khera News: 3 घंटे कोर्ट में चली बहस, गुवाहटी हाईकोर्ट में पवन खेड़ा पर बड़ा फैसला!",
+      "link": "https://www.amarujala.com/video/india-news/gauhati-high-court-reserves-order-on-pawan-khera-s-anticipatory-bail-2026-04-22",
+      "summary": "गुवाहाटी हाई कोर्ट ने मंगलवार को कांग्रेस प्रवक्ता पवन खेड़ा की याचिका पर सुनवाई के बाद फैसला सुरक्षित रख लिया। पवन खेड़ा मामले में मंगलवार यानि 21 अप्रैल को गुवाहाटी हाईकोर्ट में सुनवाई हुई. जानिए कोर्ट में क्या हुआ",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:57:13 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "8539b41fa16057be1d69933b64fe36cb",
       "title": "Lover marries bride in 'mandap' meant for groom:UP man reveals five-year relationship to groom’s family hours before marriage",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-man-reaches-grooms-house-reveals-five-year-relationship-wedding-called-off-137756446.html",
@@ -4613,6 +5315,58 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "78b79fb5cc2509371c327341deceb1f8",
+      "title": "West Bengal Election: उत्तर, दक्षिण-मध्य और राढ़ में बंटी बंगाल की सियासत, इस बार कितना बदलेगा इनका मिजाज?",
+      "link": "https://www.amarujala.com/india-news/west-bengal-election-politics-divided-into-north-south-central-and-rarh-how-much-will-mood-shift-this-time-2026-04-22",
+      "summary": "पश्चिम बंगाल चुनाव पर देश की नजरें टिकी हैं। राज्य की 294 सीटों को तीन हिस्सों उत्तर, दक्षिण-मध्य और राढ़ बंगाल में बांटकर राजनीतिक तस्वीर समझी जाती है।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:50:48 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5f17ba5e826d65ef607969dc23df5f3c",
+      "title": "जल निगम के पास रिलायंस पाइप में भीषण, VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-massive-fire-in-reliance-pipeline-near-water-corporation-in-varanasi-2026-04-22",
+      "summary": "जल निगम के पास रिलायंस पाइप में भीषण, VIDEO",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:50:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "ee243078656232d991abf1a6f930bbaf",
+      "title": "Varanasi Breaking: रिलायंस पाइप में भीषण आग, लपटें और काला धुआं देख सहमे लोग; पहुंची पुलिस",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-massive-fire-reliance-pipe-facility-residents-terrified-flames-and-smoke-police-arrive-2026-04-22",
+      "summary": "वाराणसी के अनेई जल निगम के पास रिलायंस पाइप में भीषण आग लग गई। मौके पर अफरा-तफरी का माहौल रहा।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:47:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "c9b4c93023a2613709a1fa9f44ab0639",
+      "title": "बांके बिहारी कॉरिडोर: इन लोगों को प्राथमिकता के आधार पर मिलेंगी दुकान और फ्लैट, नई व्यवस्था हुई लागू",
+      "link": "https://www.amarujala.com/uttar-pradesh/mathura/first-come-first-serve-policy-for-shop-allotment-in-banke-bihari-corridor-relief-for-landowners-2026-04-22",
+      "summary": "वृंदावन में प्रस्तावित श्रीबांकेबिहारी कॉरिडोर में आने वाली भूमि के स्वामियों के लिए राहत की खबर है।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:42:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -4627,6 +5381,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "86c421e40e153a3f96c8742a92016948",
+      "title": "UP: दूल्हे को मांगनी पड़ी माफी, फिर भी सात फेरों से पहले टूट गई शादी; इसलिए बिना दुल्हन के लौटी बरात",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/wedding-halted-minutes-before-vows-police-rescue-16-year-old-bride-2026-04-22",
+      "summary": "मंडप में पुलिस देख उड़े दूल्हे के होश, उल्टे पांव लौटी बरात, चाइल्ड हेल्पलाइन और पुलिस ने बिचपुरी में रुकवाई 16 नाबालिग वर्षीय किशोरी की शादी।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:37:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -4656,6 +5423,45 @@
       "lang": "en"
     },
     {
+      "id": "8aeafe9f05c23da559a874318272ea7d",
+      "title": "सेंगर की सजा बढ़ाने वाली याचिका खारिज, वकील ने बताया अगला कदम",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/sengar-s-plea-for-enhancement-of-sentence-rejected-lawyer-tells-next-step-2026-04-22",
+      "summary": "दिल्ली उच्च न्यायालय ने आज एक महत्वपूर्ण फैसले में पूर्व विधायक और दुष्कर्म के दोषी कुलदीप सिंह सेंगर की सजा बढ़ाने की मांग वाली याचिका को खारिज कर दिया है।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:32:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "176c1f97170e936db5649fadadc896be",
+      "title": "बीएचयू: 50 लाख से पीजी-पीएचडी की नई स्कॉलरशिप, अमेरिका फाउंडेशन व वैज्ञानिकों के साथ समझौता; जानें खास",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/bhu-pg-and-phd-scholarships-worth-50-lakhs-agreement-signed-us-foundation-and-scientists-2026-04-22",
+      "summary": "बीएचयू में परास्नातक और पीएचडी विद्यार्थियों को स्कॉलरशिप और रिसर्च फंड देने के लिए 50 लाख रुपये की घोषणा की गई है। बायो केमिस्ट्री विभाग को यह राशि को दी जानी है।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:30:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "87e62ae20de9b4539ed8c654cf1042a3",
+      "title": "पहलगाम आतंकी हमले की पहली बरसी: राहुल बोले- दोषियों को माफ नहीं करेगा भारत, शहीदों के परिवार का दुख देश का दुख",
+      "link": "https://www.amarujala.com/india-news/pahalgam-terror-attack-rahul-gandhi-says-india-will-not-forgive-the-culprits-news-in-hindi-2026-04-22",
+      "summary": "पहलगाम आतंकी हमले की पहली बरसी: राहुल बोले- दोषियों को माफ नहीं करेगा भारत, शहीदों के परिवार का दुख देश का दुख, Pahalgam Terror Attack Rahul Gandhi Says India Will Not Forgive the Culprits News In Hindi",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:28:08 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "a5653531da3bd477457e7cdc312fecbc",
       "title": "Pineapple farmers in Kerala feel the heat as prices plummet",
       "link": "https://www.thehindu.com/news/national/kerala/pineapple-farmers-in-kerala-feel-the-heat-as-prices-plummet/article70885122.ece",
@@ -4666,6 +5472,32 @@
       "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8b091fe1951a95c214e82126a3bdcbfe",
+      "title": "Keshav Prasad Maurya; 'पूरा देश इससे गुस्से में...' खरगे के बयान पर भड़के डिप्टी सीएम",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/keshav-prasad-maurya-the-entire-country-is-angry-with-this-deputy-cm-enraged-by-kharge-s-statement-2026-04-22",
+      "summary": "उत्तर प्रदेश के उपमुख्यमंत्री केशव प्रसाद मौर्य ने कांग्रेस के राष्ट्रीय अध्यक्ष मल्लिकार्जुन खरगे के बयान पर कहा, \"मैं कांग्रेस के राष्ट्रीय अध्यक्ष द्वारा इस प्रकार की असंसदीय भाषा का प्रयोग करने की कड़े शब्दों में भर्त्सना करता हूं।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:21:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "d118ed5df04257de9086cd4c11df5dad",
+      "title": "UP: कान्हा गोशाला में बेची जा रही गाय, गंभीर आरोपों के बाद फैला विवाद; संस्था अध्यक्ष को पीट दिया",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/cow-sale-allegations-at-kanha-gaushala-ngo-chief-assaulted-and-threatened-with-gun-2026-04-22",
+      "summary": "गोशाला कर्मियों पर गायों की बिक्री का आरोप, संस्था अध्यक्ष को पीटा, थाना खंदौली पुलिस ने पांच के खिलाफ दर्ज की प्राथमिकी।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:21:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -4693,6 +5525,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "234f5092fa0875f556986237caa320e3",
+      "title": "यूपी में भीषण गर्मी का अलर्ट! 32 जिलों में लू की चेतावनी",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/severe-heat-wave-alert-in-uttar-pradesh-heat-wave-warning-in-32-districts-2026-04-22",
+      "summary": "यूपी में गर्मी का सितम समय से पहले आ गया है। मौसम विभाग के अनुसार 25 अप्रैल तक गर्मी का क्रम लगातार बढ़ता ही जाएगा। दरअसल, भीषण गर्मी ने यूपी के पूर्वी और पश्चिमी दोनों संभागों ने अपने पांव पसार लिए हैं।",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:11:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
     },
     {
       "id": "0c49ddc41d8b9eb86c5f646beb711766",
@@ -4732,6 +5577,19 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "8f1bbe56a6924a9e1323dc265b4420f2",
+      "title": "Assembly Elections: 'पहचान से नहीं होगा खिलवाड़', बंगाल में CM योगी का तीखा वार; कानून-व्यवस्था पर उठाए सवाल",
+      "link": "https://www.amarujala.com/live/india-news/assembly-elections-2026-live-updates-pm-campaign-tamil-nadu-cm-mamata-bengali-identity-bjp-tmc-dmk-hindi-news-2026-04-22",
+      "summary": "Assembly Elections 2026 LIVE Updates PM campaign Tamil Nadu CM Mamata Bengali identity BJP TMC DMK hindi news--Assembly Elections: तमिलनाडु में TVK पर आचार संहिता उल्लंघन की शिकायत; 75 हजार से अधिक बूथों पर कड़ी व्यवस्था",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 01:05:16 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "f2a37cec20e0bb4ae8e80623d20db90e",
@@ -4997,7 +5855,7 @@
       "id": "ffa70571028d1aadf66a41569a6b4e9d",
       "title": "Trump buys time for Iran deal after frantic day of diplomacy",
       "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time",
+      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
       "date": "2026-04-22",
       "timestamp": "Wed, 22 Apr 2026 00:32:10 GMT",
       "section": "International",
@@ -15784,19 +16642,6 @@
       "lang": "en"
     },
     {
-      "id": "b8a8bd9a943ba739ebbbeac6367ef1b0",
-      "title": "Third conviction in Shivamogga ISIS conspiracy case; accused gets 6 years RI",
-      "link": "https://www.thehindu.com/news/national/karnataka/third-conviction-in-shivamogga-isis-conspiracy-case-accused-gets-6-years-ri/article70889520.ece",
-      "summary": "",
-      "date": "2026-04-21",
-      "timestamp": "Tue, 21 Apr 2026 23:20:00 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ae94068b483a7121f7ea65d07fb63ecf",
       "title": "APPSC candidates for Assistant Professor posts demand justice over stalled recruitment",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-candidates-for-assistant-professor-posts-demand-justice-over-stalled-recruitment/article70889533.ece",
@@ -16157,6 +17002,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "65e87b7120cd143ebb1ca6432e45889f",
+      "title": "Hotpot, bubble tea and sportswear: China's new exports take on the world",
+      "link": "https://www.bbc.com/news/articles/crr1ln1575lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Made in China used to mean cheap, mass-produced goods but a new wave of Chinese brands is emerging.",
+      "date": "2026-04-21",
+      "timestamp": "Tue, 21 Apr 2026 22:10:22 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -16664,6 +17522,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e6643972ad7ccc8eb5ba6c0d420320fe",
+      "title": "A Kashmir tourist hotspot became a bloodbath. A year on, the pain remains unbearable",
+      "link": "https://www.bbc.com/news/articles/c8ej3wl130yo?at_medium=RSS&at_campaign=rss",
+      "summary": "A year after militants killed 26 people in Indian-administered Kashmir, families are trying to cope with their loss.",
+      "date": "2026-04-21",
+      "timestamp": "Tue, 21 Apr 2026 21:14:37 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -17874,6 +18745,19 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "4724c5880e363edac547fa79337e3372",
+      "title": "From Epstein to sock puppets: Key takeaways from Kevin Warsh's Fed confirmation hearing",
+      "link": "https://www.bbc.com/news/articles/c8dl3ez4mpno?at_medium=RSS&at_campaign=rss",
+      "summary": "He denied making a deal with Donald Trump on interest rates and backed \"policy regime change\" at the central bank.",
+      "date": "2026-04-21",
+      "timestamp": "Tue, 21 Apr 2026 18:59:39 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -72165,19 +73049,6 @@
       "lang": "en"
     },
     {
-      "id": "aa39e820d5db257428ffa6f23a2e40c7",
-      "title": "UP Board 10th 12th Result 2026 Live: यूपी बोर्ड 10वीं-12वीं रिजल्ट कब आएगा? पिछले साल इस दिन हुआ था जारी",
-      "link": "https://www.amarujala.com/live/education/up-board-2026-result-kab-aaega-live-updates-check-upmsp-10th-12th-results-date-time-upmsp-edu-in-2026-04-18",
-      "summary": "UPMSP UP Board 10th 12th Result kab aayega Check date, time, upresults.nic.in, upmsp.edu.in, digilocker, sarkari result: उत्तर प्रदेश बोर्ड की परीक्षाओं के समाप्त होने के बाद से ही सभी विद्यार्थी अपने परीक्षा परिणाम का बेसब्री से इंतजार कर रहे हैं।",
-      "date": "2026-04-20",
-      "timestamp": "Mon, 20 Apr 2026 06:22:06 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "6158a1e618cb41206911fc471479065d",
       "title": "US military releases video of marines seizing Iranian ship",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/4/20/us-military-releases-video-of-marines-seizing-iranian-ship?traffic_source=rss",
@@ -88359,6 +89230,123 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "84fe9ef6000e970ab58ac6c85d1398c8",
+      "title": "'Doesn't differentiate between terrorists and terror to terrorists': VP Radhakrishnan slams Kharge over remark on PM Modi",
+      "link": "https://timesofindia.indiatimes.com/india/doesnt-differentiate-between-terrorists-and-terror-to-terrorists-vp-radhakrishnan-slams-kharge-over-remark-on-pm-modi/articleshow/130436762.cms",
+      "summary": "Vice President C.P. Radhakrishnan criticized Congress chief Mallikarjun Kharge's \"terrorist\" remarks against Prime Minister Narendra Modi, suggesting Kharge struggles to differentiate between concepts. This follows Kharge's controversial statement during the Tamil Nadu election campaign. A BJP delegation has urged the Election Commission to take strict action against Kharge, demanding an apology.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T14:29:55+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "46afef52d1f54f45e3559bd376a2376d",
+      "title": "80,000-year-old DNA from Stajnia Cave reveals the oldest Neanderthal group in Central-Eastern Europe",
+      "link": "https://timesofindia.indiatimes.com/science/80000-year-old-dna-from-stajnia-cave-reveals-the-oldest-neanderthal-group-in-central-eastern-europe/articleshow/130435823.cms",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T14:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cc8541221d6c99c61990cbb4f89c5ce9",
+      "title": "Why Congress faces a ‘no-win’ situation in West Bengal",
+      "link": "https://timesofindia.indiatimes.com/india/why-congress-faces-a-no-win-situation-in-west-bengal/articleshow/130430471.cms",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T14:00:00+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "164cad3a2db58eeb2cf5cfd8c348bcd4",
+      "title": "‘Ceasefire not open-ended’: Trump gives Iran ‘another three to five days’ to come up with unified proposal",
+      "link": "https://timesofindia.indiatimes.com/world/us/ceasefire-not-open-ended-trump-gives-iran-another-three-to-five-days-to-come-up-with-unified-proposal/articleshow/130436033.cms",
+      "summary": "President Trump has reportedly given Iran a narrow three-to-five-day window to present a unified negotiation proposal. This limited ceasefire extension, requested by Pakistani leaders, aims to push Tehran to consolidate its position before Washington determines its next steps. The White House also announced Vice President Vance's trip to Pakistan for peace talks has been canceled.",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T13:56:36+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "520cecdc77cad38ebe9bf823b30074df",
+      "title": "'Fighting one of the most difficult battles': Kejriwal extends support to Mamata ahead of Bengal polls",
+      "link": "https://timesofindia.indiatimes.com/india/fighting-one-of-the-most-difficult-battles-kejriwal-extends-support-to-mamata-ahead-of-bengal-polls/articleshow/130435770.cms",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T13:49:26+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d87e9eba16871445a314bfb67eaa43f0",
+      "title": "Grand Canyon mystery solved? Shocking new study claims a 'lost ancient lake' may have carved one of Earth’s greatest natural wonders",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/grand-canyon-mystery-solved-shocking-new-study-claims-a-lost-ancient-lake-may-have-carved-one-of-earths-greatest-natural-wonders/articleshow/130435753.cms",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T13:41:52+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7d66053bfd7990c0e30ab49cfac3e114",
+      "title": "‘Lift the blockade’: Iran sets condition for round two of peace talks in Pakistan",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/lift-the-blockade-iran-sets-condition-for-round-two-of-peace-talks-in-pakistan/articleshow/130435687.cms",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T13:37:41+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "10aad837ef8b9ff85572da86b3213c94",
+      "title": "A lost ‘Silk Road’ city found beneath Lake Issyk-Kul in Kyrgyzstan stuns archaeologists",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-lost-silk-road-city-found-beneath-lake-issyk-kul-in-kyrgyzstan-stuns-archaeologists/articleshow/130434349.cms",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T13:30:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f862371d98d0d808649ddad61f18b48c",
+      "title": "'It is possible': Rajnath says India may 'play its role' in bringing peace in West Asia",
+      "link": "https://timesofindia.indiatimes.com/india/it-is-possible-rajnath-says-india-may-play-its-role-in-bringing-peace-in-west-asia/articleshow/130434961.cms",
+      "summary": "",
+      "date": "2026-04-22",
+      "timestamp": "2026-04-22T12:52:43+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
