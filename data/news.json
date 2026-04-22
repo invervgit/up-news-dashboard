@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T22:42:12.071181+00:00",
+  "generated_at": "2026-04-22T23:41:28.837537+00:00",
   "stories": [
     {
       "id": "3c7247c42dcaf126b3bca698a197b4f2",
@@ -262,6 +262,19 @@
       "lang": "en"
     },
     {
+      "id": "6ec85a4cb4f9dfdc3d0b838f1cd28d7f",
+      "title": "South American migrants deported to DRC say facing pressure to return home",
+      "link": "https://www.aljazeera.com/news/2026/4/22/south-american-migrants-deported-to-drc-say-facing-pressure-to-return-home?traffic_source=rss",
+      "summary": "Rights advocates have accused Trump administration of using third-country deportations to intimidate asylum seekers.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 23:19:02 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "12866631d465455051776755846fc434",
       "title": "Women’s panel chief flags lapses in sexual harassment inquiry at Ayurvedic college",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/womens-panel-chief-flags-lapses-in-sexual-harassment-inquiry-at-ayurvedic-college/article70893953.ece",
@@ -518,6 +531,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e3767cb64a0cb18d3f8d6b7d74e796d7",
+      "title": "Top ministers quit after Peru’s president postpones F-16 fighter jet deal",
+      "link": "https://www.aljazeera.com/news/2026/4/22/top-ministers-quit-after-perus-president-postpones-f-16-fighter-jet-deal?traffic_source=rss",
+      "summary": "The Trump administration has warned against Peru pulling out of the deal, saying it reflects 'bad faith' negotiations.",
+      "date": "2026-04-22",
+      "timestamp": "Wed, 22 Apr 2026 22:44:28 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -883,19 +909,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "107eaca0010cefc97a416dc2ccbf6068",
-      "title": "Iran-Israel war LIVE: U.S.-Iran talks could be held in next three days, says Trump",
-      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-22-2026-donald-trump-tehran-strait-of-hormuz-blockade/article70891192.ece",
-      "summary": "Iran Guards say 'seized' two ships attempting to cross Strait of Hormuz; Iran says it has yet to decide whether to join a new round of talks with the U.S.",
-      "date": "2026-04-22",
-      "timestamp": "Wed, 22 Apr 2026 21:45:12 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -34478,12 +34491,38 @@
       "lang": "hi"
     },
     {
+      "id": "d2680f378fad2aba8c6f1d0da507ef49",
+      "title": "तमिलनाडु: 75 साल पुरानी DMK, 50 साल की AIADMK बनाम दो साल की TVK; 234 सीटों पर आज किसके साथ खड़ी होगी जनता",
+      "link": "https://www.amarujala.com/india-news/tamilnadu-75-year-old-dmk-50-year-old-aiadmk-vs-2-year-old-tvk-who-will-public-support-today-in-234-seats-2026-04-23",
+      "summary": "Tamil Nadu: 75-year-old DMK, 50-year-old AIADMK vs 2-year-old TVK; Who will public support today in 234 seats? - तमिलनाडु: 75 साल पुरानी DMK, 50 साल की AIADMK बनाम दो साल की TVK",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 05:08:58 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "9d0cbf216934e6ed9548a2bbe4b6068a",
+      "title": "प. बंगाल में सियासी तपिश: गृह मंत्री शाह ने तृणमूल को घेरा, ममता ने केंद्रीय एजेंसियों पर उठाए सवाल",
+      "link": "https://www.amarujala.com/india-news/west-bengal-assembly-election-2026-amit-shah-attacks-tmc-mamata-banerjee-questions-central-agencies-2026-04-23",
+      "summary": "प. बंगाल में सियासी तपिश: गृह मंत्री शाह ने तृणमूल को घेरा, ममता ने केंद्रीय एजेंसियों पर उठाए सवाल",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 05:02:05 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "53d5238b95d10bc2429d9eb0df0c39fd",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 23 अप्रैल के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-23",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-04-23",
-      "timestamp": "Thu, 23 Apr 2026 04:00:42 +0530",
+      "timestamp": "Thu, 23 Apr 2026 05:00:42 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -34496,12 +34535,103 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-23",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-04-23",
-      "timestamp": "Thu, 23 Apr 2026 04:00:29 +0530",
+      "timestamp": "Thu, 23 Apr 2026 05:00:28 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "24f1aac829e44fe81c1e17d4b57c36d8",
+      "title": "Divyansh Murder: ‘वैदिक स्कूल या कत्लगाह’? सिगरेट से दागा और डंडों से पीटा, शरीर पर मिले 45 निशान, उठा ये सवाल",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-divyansh-murder-branded-with-cigarettes-and-beaten-with-sticks-45-injury-marks-found-on-body-2026-04-23",
+      "summary": "कानपुर में महाराजपुर के 11 वर्षीय छात्र दिव्यांश की निर्मम हत्या कर उसका शव घर के बाहर फेंक गए। परिजन उसे सात दिन पहले लखनऊ के स्कूल में रहकर पढ़ाई करने के लिए छोड़कर आए थे। उसका शव स्कूल संचालक कार से लेकर आया था।",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 05:00:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8e546672e5914f35eddc808e449ea19d",
+      "title": "UP Board Result 2026 Live : यूपी बोर्ड 10वीं 12वीं रिजल्ट आज होगा जारी, upmsp.edu.in व Digilocker पर मिलेगा Link",
+      "link": "https://www.livehindustan.com/career/up-board-result-2026-live-updates-upmsp-class-10th-12th-results-out-today-upresults-nic-in-digilocker-sarkari-result-live-blog-201776898908211.html",
+      "summary": "UP Board Result 2026 Live Updates , upresults.nic.in : यूपी बोर्ड 10वीं 12वीं का रिजल्ट आज शाम 4 बजे upmsp.edu.in और डिजीलॉकर पोर्टल results.digilocker.gov.in पर घोषित होगा। विद्यार्थी अपना रोल नंबर डालकर परिणाम चेक कर सकेंगे।",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 04:43:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e7868087f413d51d21743c02b13caba8",
+      "title": "Maharashtra Updates: एमएससीबी घोटाले में रोहित पवार दोषमुक्त; ड्रग केस में नेस्को के दो अधिकारी कोर्ट पहुंचे",
+      "link": "https://www.amarujala.com/india-news/maharashtra-updates-mumbai-pune-sambhajinagar-and-other-cities-cm-fadnavis-crime-politics-news-in-hindi-2026-04-23",
+      "summary": "Maharashtra Updates: एमएससीबी घोटाले में रोहित पवार दोषमुक्त; ड्रग केस में नेस्को के दो अधिकारी कोर्ट पहुंचे",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 04:37:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "107eaca0010cefc97a416dc2ccbf6068",
+      "title": "Iran-Israel war LIVE: Iran says won't reopen Hormuz as long as U.S. blockade remains",
+      "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-april-22-2026-donald-trump-tehran-strait-of-hormuz-blockade/article70891192.ece",
+      "summary": "Iran Guards say 'seized' two ships attempting to cross Strait of Hormuz; Iran says it has yet to decide whether to join a new round of talks with the U.S.",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 04:30:29 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bd73591b5b95cc156d02ea3fde9a565b",
+      "title": "Indian Railways: अश्विनी वैष्णव बोले- रेल की पटरियां होंगी स्मार्ट, देखरेख के लिए नया सिस्टम लाने की तैयारी",
+      "link": "https://www.amarujala.com/india-news/vaishnav-railway-tracks-will-be-smart-preparations-are-being-made-to-introduce-a-new-system-for-maintenance-2026-04-23",
+      "summary": "Ashwini Vaishnav- railway tracks will be smart, preparations are being made to introduce a new system for maintenance - Indian Railways: अश्विनी वैष्णव बोले- रेल की पटरियां होंगी स्मार्ट, देखरेख के लिए नया सिस्टम लाने की तैयारी",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 04:24:22 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "438cbef2c2a4c47f6f496af3684e349c",
+      "title": "Islamic militants kill 11 people, burn homes in late-night attack in Nigeria",
+      "link": "https://www.thehindu.com/news/international/islamic-militants-kill-11-people-burn-homes-in-late-night-attack-in-nigeria/article70894736.ece",
+      "summary": "It was the latest violence in Africa's most populous country, which has long been battling a complex security crisis.",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 04:08:37 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dc23acb23080b5884dada2311004b2ad",
+      "title": "Chemical leak at U.S. plant kills two, sends 19 more to hospital: Officials",
+      "link": "https://www.thehindu.com/news/international/west-virginia-chemical-plant-leak-death-hospital-april-23-2026/article70894735.ece",
+      "summary": "A chemical gas reaction occurred at the plant involving nitric acid and another substance, an official said",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 04:02:54 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "7668e90223e93a2a4e819bf5aeaba508",
