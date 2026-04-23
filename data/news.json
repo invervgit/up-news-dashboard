@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T21:40:52.097060+00:00",
+  "generated_at": "2026-04-23T22:38:52.274740+00:00",
   "stories": [
     {
       "id": "3c7247c42dcaf126b3bca698a197b4f2",
@@ -24195,6 +24195,19 @@
       "lang": "en"
     },
     {
+      "id": "bfaae08b3436affa41e83c2521659860",
+      "title": "Milei administration in Argentina blocks journalist access to Casa Rosada",
+      "link": "https://www.aljazeera.com/news/2026/4/23/milei-administration-in-argentina-blocks-journalist-access-to-casa-rosada?traffic_source=rss",
+      "summary": "Press advocates have warned of hostile rhetoric towards journalists and increasingly restrictive policies under Milei.",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 21:58:16 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b76c984a4ee6b990067aec3b369a0405",
       "title": "KLE Society PU students do well",
       "link": "https://www.thehindu.com/news/national/karnataka/kle-society-pu-students-do-well/article70894040.ece",
@@ -24640,7 +24653,7 @@
       "id": "982534750acdbd7d11fd3cd826f0daeb",
       "title": "Pope decries migrants and refugees being treated ‘worse than house pets’",
       "link": "https://www.aljazeera.com/news/2026/4/23/pope-decries-migrants-and-refugees-being-treated-worse-than-house-pets?traffic_source=rss",
-      "summary": "Pope Leo has previously criticised Donald Trump's immigration policies, calling for better treatment of refugees.",
+      "summary": "Pope Leo has previously criticised Donald Trump's US immigration policies, calling for better treatment of refugees.",
       "date": "2026-04-23",
       "timestamp": "Thu, 23 Apr 2026 21:01:50 +0000",
       "section": "International",
@@ -24893,6 +24906,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "526ee13bf29ed64115b59914712c45db",
+      "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+      "link": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran.",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 20:45:51 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -83033,6 +83059,71 @@
       "lang": "en"
     },
     {
+      "id": "a7f6e327ea32c73eb262cbd012e2a5d0",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 24 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-24",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 04:00:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "50c319ac6615dd341635ff1f558b411d",
+      "title": "पढ़ें 24 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-24",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 04:00:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "1b4e965e86161ec65e362c7e8f8ad477",
+      "title": "Ayodhya: श्रीराम जन्मभूमि ट्रस्ट की वेबसाइट से विशिष्ट दर्शन विकल्प हटा, व्यवस्था से जुड़े और भी कई बदलाव",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/ayodhya-vishisht-darshan-option-removed-from-shri-ram-janmabhoomi-trust-website-2026-04-24",
+      "summary": "श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट की वेबसाइट में बदलाव किया गया है।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 03:31:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "4b039ba61ea9dd0f0bd243096ae5f927",
+      "title": "West Bengal Elections 2026 Voting: छिटपुट हिंसा के बीच बंगाल में बंपर वोटिंग, किसकी बनेगी सरकार?",
+      "link": "https://www.amarujala.com/video/india-news/west-bengal-elections-2026-voting-bumper-voting-in-bengal-amid-sporadic-violence-who-will-form-the-governmen-2026-04-24",
+      "summary": "West Bengal Elections 2026 Voting: छिटपुट हिंसा के बीच बंगाल में बंपर वोटिंग, किसकी बनेगी सरकार?",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 03:30:03 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "374c88525e9bfcb81c4c489cda1bc96d",
+      "title": "Noida Protest: हिमांशु की डायरी में मिला नोएडा हिंसा का ब्लू प्रिंट, कॉलेज के छात्रों का करता था ब्रेनवॉश",
+      "link": "https://www.amarujala.com/delhi-ncr/noida-protest-blueprint-of-noida-violence-found-in-himanshu-s-diary-2026-04-24",
+      "summary": "श्रमिकों के हिंसक प्रदर्शन को लेकर लगातार नए खुलासे हो रहे हैं।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 03:24:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "0029cc9b0d0ee843a0dbd1ca49bf4e42",
       "title": "Gorakhpur News: जमीन पर अवैध कब्जा करने वाले बख्शे न जाएं",
       "link": "https://www.amarujala.com/gorakhpur/set-up-a-special-team-to-resolve-land-disputes-cm-yogi-gorakhpur-news-c-7-gkp1038-1298535-2026-04-24",
@@ -83252,32 +83343,6 @@
       "source": "Amar Ujala",
       "district": "Noida",
       "lang": "en"
-    },
-    {
-      "id": "a7f6e327ea32c73eb262cbd012e2a5d0",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 24 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-24",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 03:00:54 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "50c319ac6615dd341635ff1f558b411d",
-      "title": "पढ़ें 24 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-24",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 03:00:40 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "93cc6b76caf8589239128383ca74bdb2",
@@ -97355,6 +97420,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2a4870929143098e4315481c15062f85",
+      "title": "Judiciary can’t interfere in devotees’ sacrosanct right to manner of worship, says Supreme Court",
+      "link": "https://timesofindia.indiatimes.com/india/judiciary-cant-interfere-in-devotees-sacrosanct-right-to-manner-of-worship-says-supreme-court/articleshow/130479367.cms",
+      "summary": "",
+      "date": "2026-04-23",
+      "timestamp": "2026-04-24T03:49:34+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
