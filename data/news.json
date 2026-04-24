@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T17:45:46.179776+00:00",
+  "generated_at": "2026-04-24T18:41:45.889042+00:00",
   "stories": [
     {
       "id": "3c7247c42dcaf126b3bca698a197b4f2",
@@ -25196,19 +25196,6 @@
       "lang": "en"
     },
     {
-      "id": "193bf4c57fbe3aa3a99999000a3c4f68",
-      "title": "Tamil Nadu election: Sri Lankan refugee camp resident casts his first vote as Indian citizen",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-election-sri-lankan-refugee-camp-resident-casts-his-first-vote-as-indian-citizen/article70897347.ece",
-      "summary": "“Most first-time voters are in their early 20s. I am almost 40. But I feel as if my life as an Indian has just begun, and my the future of my children as Indian citizens is assured,” R. Gokuleswaran said",
-      "date": "2026-04-23",
-      "timestamp": "Thu, 23 Apr 2026 20:19:08 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b4f7499e23a2f7b84906a765dedbd723",
       "title": "Kalyana Karnataka makes significant strides to break out of bottom ranks",
       "link": "https://www.thehindu.com/news/national/karnataka/kalyana-karnataka-makes-significant-strides-to-break-out-of-bottom-ranks/article70897770.ece",
@@ -45890,6 +45877,32 @@
       "source": "Al Jazeera",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "6676a090020825aceade4a1ffe5fbd21",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 25 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-25",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 12:01:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "964db94982bddb31c342484c6ffb3dcf",
+      "title": "पढ़ें 25 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-25",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 12:01:09 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "f4438659679ddae72a07f1a85797e7a9",
@@ -69877,6 +69890,188 @@
       "lang": "en"
     },
     {
+      "id": "c5cf279381f9b170826d4eb78d3b8c11",
+      "title": "VVITU hosts seminar on intellectual property rights",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/vvitu-hosts-seminar-on-intellectual-property-rights/article70901460.ece",
+      "summary": "The programme aims at underlining the role of intelluctual property rights in encouraging original thinking while safeguarding intellectual output",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:52:19 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e555b68262dc7025852c2dade09e69be",
+      "title": "Tamil Nadu election 2026: Stray incidents of violence break out across State on polling day",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/stray-incidents-of-violence-break-out-across-tamil-nadu-on-election-day/article70897442.ece",
+      "summary": "TVK and DMK party workers clash at Harbour constituency in Chennai",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:49:24 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "23ef80a7c3f0f9faa35085fd589cbc2c",
+      "title": "SRM University-A.P. celebrates 10th edition of Research Day",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/srm-university-ap-celebrates-10th-edition-of-research-day/article70901852.ece",
+      "summary": "Research Day event receives 574 research abstracts spanning fields such as artificial intelligence, renewable energy and robotics",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:46:47 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "40754eef1fe7587cffa57de916ec4152",
+      "title": "383 cases filed in drive against faulty number plates",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/383-cases-filed-in-drive-against-faulty-number-plates/article70901963.ece",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:43:43 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "48a3a1f918b63e8103b02d442e628469",
+      "title": "PIT NDPS Act invoked against woman in Guntur",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/pit-ndps-act-invoked-against-woman-in-guntur/article70902563.ece",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:40:59 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "40c6c29b2cef88304d1b9101e09a1da8",
+      "title": "Tamil Nadu election 2026: An initiative to reduce childcare stress for parents on polling day",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-tiny-initiative-to-reduce-childcare-stress-for-parents-on-polling-day/article70897391.ece",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:40:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "38d124cf3680c35a1597877fd27d0ae1",
+      "title": "Central official inspects AMRUT 2.0 works in Vijayawada",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/central-official-inspects-amrut-20-works-in-vijayawada/article70902692.ece",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:35:34 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5b96e1af1017a0de9bf512d7c994b49c",
+      "title": "Protests erupt over embankment construction in Nileshwaram",
+      "link": "https://www.thehindu.com/news/national/kerala/protests-erupt-over-embankment-construction-in-nileshwaram/article70898259.ece",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:31:40 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ed8caff94ca5215b9f2dfb5e211c4e43",
+      "title": "VIT-A.P. University hosts conference on mechanical engineering and materials science",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/vit-ap-university-hosts-conference-on-mechanical-engineering-and-materials-science/article70902389.ece",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:31:33 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "193bf4c57fbe3aa3a99999000a3c4f68",
+      "title": "Tamil Nadu election 2026: Sri Lankan refugee camp resident casts his first vote as Indian citizen",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-election-sri-lankan-refugee-camp-resident-casts-his-first-vote-as-indian-citizen/article70897347.ece",
+      "summary": "“Most first-time voters are in their early 20s. I am almost 40. But I feel as if my life as an Indian has just begun, and my the future of my children as Indian citizens is assured,” R. Gokuleswaran said",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:30:49 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cb27d4b6ab10ed8bed3c331081c84c18",
+      "title": "Kavitha charting her own political course with Telangana sentiment at heart",
+      "link": "https://www.thehindu.com/news/national/telangana/kavitha-charting-her-own-political-course-with-telangana-sentiment-at-heart/article70902576.ece",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:29:41 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bbbe0a69a72319175d8e2bef22c030bd",
+      "title": "Trump dispatches Witkoff, Kushner to Pakistan for talks with Iran’s FM Araghchi; Vance on ‘standby’",
+      "link": "https://www.thehindu.com/news/international/iran-delegation-islamabad-fm-abbas-araghchi-us-ceasefire-talks-pakistan/article70902698.ece",
+      "summary": "U.S. delegation would likely arrive in Islamabad on April 25, once the Iranian delegation works out the framework of talks with the U.S. technical team",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:15:45 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "de7fd4b52075c2bdadfb8cc0df80d1e2",
+      "title": "Andhra Pradesh ideal investment destination, Industries Minister Bharat tells German firms",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-ideal-investment-destination-industries-minister-bharat-tells-german-firms/article70901634.ece",
+      "summary": "German expertise and Andhra Pradesh’s growth environment can open up new avenues for industry and employment, he says",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:15:36 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "839f62c2477913d4fca629f9e2b3387a",
+      "title": "Tamil Nadu Assembly polls: Voter turnout increase in the State followed spatial patterns",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/assembly-polls-turnout-increases-in-tamil-nadu-followed-spatial-patterns/article70903055.ece",
+      "summary": "Data show the record turnout in the southern State was a consequence of the SIR exercise; while the State also registered an increase in the absolute number of voters who turned out, the provisional addition of roughly 24.8 lakh voters appears lower than the gains registered in recent cycles",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:14:53 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c9f6f4af954098f9fac28e6446fd1ab3",
       "title": "Two men arrested for misbehaving with women in Yelahanka",
       "link": "https://www.thehindu.com/news/cities/bangalore/two-men-arrested-for-misbehaving-with-women-in-yelahanka/article70902742.ece",
@@ -69924,6 +70119,19 @@
       "timestamp": "Fri, 24 Apr 2026 23:08:01 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "618e2d8d144bdf0e1fa103429f940700",
+      "title": "Israel-Iran war LIVE: Vance on 'standby' as Witkoff, Kushner to reach Pakistan on April 25 for talks with Iran, White House says",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
+      "summary": "Iranian delegation led by FM Araghchi to reach Islamabad tonight; to “hold bilateral consultations on developments in the region, as well as the latest situation” in the war",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 23:07:04 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -70202,19 +70410,6 @@
       "lang": "en"
     },
     {
-      "id": "618e2d8d144bdf0e1fa103429f940700",
-      "title": "Israel-Iran war LIVE: Iran's FM Araghchi confirms 'timely' visit to Islamabad; Muscat, Moscow also part of tour",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
-      "summary": "IRNA news agency said the delegation will “hold bilateral consultations on developments in the region, as well as the latest situation” in the war",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 22:07:24 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b805683a845be20f2913a859362d74aa",
       "title": "बच्चों के दाखिले के लिए अभिभावकों को ऑनलाइन आवेदन के मजबूर नहीं कर सकते, हाईकोर्ट का फैसला",
       "link": "https://www.livehindustan.com/uttar-pradesh/parents-cannot-be-compelled-to-apply-online-for-children-admission-allahabad-high-court-ruling-201777048024389.html",
@@ -70329,6 +70524,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f57a5132184f69c5411011339f1d2904",
+      "title": "Record turnout in West Bengal poll fuels rival claims, data tempers conclusions",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/record-turnout-in-bengal-poll-fuels-rival-claims-data-tempers-conclusions/article70902667.ece",
+      "summary": "Despite 92.88% voting, historical trends show high participation has not consistently translated into anti- or pro-incumbency outcomes",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 21:45:45 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -70709,38 +70917,12 @@
       "lang": "en"
     },
     {
-      "id": "bbbe0a69a72319175d8e2bef22c030bd",
-      "title": "Iranian FM Abbas Araghchi to reach Pakistan tonight for talks with U.S.: report",
-      "link": "https://www.thehindu.com/news/international/iran-delegation-islamabad-fm-abbas-araghchi-us-ceasefire-talks-pakistan/article70902698.ece",
-      "summary": "U.S. delegation would likely arrive in Islamabad on April 25, once the Iranian delegation works out the framework of talks with the U.S. technical team",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 21:05:28 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "fca01170ce7bdf3e353bd107ace6c043",
       "title": "Effort must meet opportunity for youth to succeed, says Vizag Collector",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/effort-must-meet-opportunity-for-youth-to-succeed-says-vizag-collector/article70901680.ece",
       "summary": "",
       "date": "2026-04-24",
       "timestamp": "Fri, 24 Apr 2026 21:03:35 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "cb27d4b6ab10ed8bed3c331081c84c18",
-      "title": "Kavitha charting her own political course with Telangana sentiment at heart",
-      "link": "https://www.thehindu.com/news/national/telangana/kavitha-charting-her-own-political-course-with-telangana-sentiment-at-heart/article70902576.ece",
-      "summary": "",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 21:02:46 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -71632,19 +71814,6 @@
       "lang": "en"
     },
     {
-      "id": "de7fd4b52075c2bdadfb8cc0df80d1e2",
-      "title": "Andhra Pradesh ideal investment destination, Industries Minister Bharat tells German firms",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-ideal-investment-destination-industries-minister-bharat-tells-german-firms/article70901634.ece",
-      "summary": "German expertise and Andhra Pradesh’s growth environment can open up new avenues for industry and employment, he says",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 19:24:42 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f387325b0218b3464a6c0588838e33aa",
       "title": "South Corporation Commissioner inspects flood-prone areas, orders expediting works",
       "link": "https://www.thehindu.com/news/cities/bangalore/south-corporation-commissioner-inspects-flood-prone-areas-orders-expediting-works/article70901733.ece",
@@ -71970,6 +72139,19 @@
       "lang": "en"
     },
     {
+      "id": "f7a9e76e7dfe35246471f1e9db65e468",
+      "title": "Israeli attacks on Lebanon may violate international law, UN warns",
+      "link": "https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns?traffic_source=rss",
+      "summary": "UN report says Hezbollah rocket attacks on Israel may have breached international humanitarian law.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 18:24:27 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "92f2b6842f391c9cd82806ef4a0035bd",
       "title": "Tamil Nadu election 2026: Vengaivayal, where water tank was contaminated with human faeces in 2022, boycotts poll",
       "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-elections-scheduled-caste-hamlet-of-vengaivayal-boycotts-polls/article70896211.ece",
@@ -71979,6 +72161,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "69aaa19c1352c13c397b1e44bd7680e1",
+      "title": "Reality check: Israeli ambitions confront US dictates in Iran and Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/4/24/reality-check-israeli-ambitions-confront-us-dictates-in-iran-and-lebanon?traffic_source=rss",
+      "summary": "Ceasefires with Iran and Lebanon appear imposed by the US rather than negotiated by Israel, much to latter's unease.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 18:21:33 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -72009,6 +72204,19 @@
       "lang": "en"
     },
     {
+      "id": "fc7c7c2583137405707d6b01f2dfd274",
+      "title": "US justice department drops probe into Fed chairman Jerome Powell",
+      "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 18:09:20 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "35ab50ef36c9d9b9305b018ce65d7f51",
       "title": "Unidentified body found stuffed in a gunny bag in Bengaluru",
       "link": "https://www.thehindu.com/news/cities/bangalore/unidentified-body-found-stuffed-in-a-gunny-bag-in-bengaluru/article70901248.ece",
@@ -72018,6 +72226,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b223daecac1094e13a5f4082ce1e8a18",
+      "title": "Why is this game only legal across Australia one day a year?",
+      "link": "https://www.bbc.com/news/videos/ceqw389d5yvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two-up is a coin toss betting game that was played by Australian soldiers during World War One - it’s now only legal across Australia on 25 April.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 18:05:14 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -72084,6 +72305,19 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "b23fe889057e09a3d7588de730a19e4e",
+      "title": "Kosovo court jails three Serb separatists over 2023 Banjska attack",
+      "link": "https://www.aljazeera.com/news/2026/4/24/kosovo-court-jails-three-serb-separatists-over-2023-banjska-attack?traffic_source=rss",
+      "summary": "Attack in the village of Banjska led to a clash with police that left one police officer and three of the gunmen dead.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 17:49:51 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -72175,6 +72409,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "97dfa45517669883e0aceb080ec2bbb8",
+      "title": "Trump administration to prioritise seeking death penalty, use firing squads",
+      "link": "https://www.aljazeera.com/news/2026/4/24/trump-administration-to-prioritize-seeking-death-penalty-use-firing-squads?traffic_source=rss",
+      "summary": "Capital punishment remains controversial in the US, with critics warning of innocent people being put on death row.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 17:39:20 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -72321,6 +72568,19 @@
       "lang": "en"
     },
     {
+      "id": "29ede787faedc483cfe684efe4e69290",
+      "title": "Pirates hijack oil tanker off the coast of Somalia",
+      "link": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
+      "summary": "Piracy, once notorious in this stretch of the Indian Ocean, has made a comeback in recent years.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 17:04:01 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9c7519bca3576a5aa744ece0df1b8e06",
       "title": "UP News: गन्ना किसानों की फसल का होगा GPS सर्वे, CM योगी के निर्देश पर तैयारी शुरू",
       "link": "https://www.patrika.com/lucknow-news/up-gps-survey-of-sugarcane-crops-to-be-conducted-preparations-begin-on-cm-yogi-instructions-20526414",
@@ -72460,19 +72720,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "fc7c7c2583137405707d6b01f2dfd274",
-      "title": "US justice department drops probe into Fed chairman Jerome Powell",
-      "link": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 16:21:41 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -73504,19 +73751,6 @@
       "lang": "hi"
     },
     {
-      "id": "40c6c29b2cef88304d1b9101e09a1da8",
-      "title": "An initiative to reduce childcare stress for parents on polling day",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/a-tiny-initiative-to-reduce-childcare-stress-for-parents-on-polling-day/article70897391.ece",
-      "summary": "",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 12:57:27 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "38350e5255314e50e62b724f5bc12c15",
       "title": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
       "link": "https://www.aljazeera.com/features/2026/4/24/iranian-fm-araghchi-to-visit-pakistan-as-talks-with-us-set-to-resume?traffic_source=rss",
@@ -74206,6 +74440,19 @@
       "lang": "en"
     },
     {
+      "id": "8500d935511362d2b4a9dc59f01f092e",
+      "title": "Kanpur: महिला को पीटा, नंदोई पर दुष्कर्म के प्रयास का आरोप, प्राथमिकी दर्ज",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-woman-assaulted-brother-in-law-accused-of-attempted-misdeed-fir-registered-2026-04-24",
+      "summary": "चकेरी निवासी महिला ने पति व ससुरालीजनों पर दहेज उत्पीड़न, शारीरिक प्रताड़ना और दो बार गर्भपात कराने का आरोप लगाते हुए प्राथमिकी दर्ज कराई है। महिला ने नंदोई पर दुष्कर्म के प्रयास और पति पर दूसरी शादी करने का भी आरोप लगाया है।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 11:51:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "ff4ac709944b050b99cc6fd50ab85fe8",
       "title": "मंदिर में तोड़फोड़: प्राचीन शिवालय की मूर्तियां कर दीं खंडित, CCTV में कैद हुआ संदिग्ध; पुलिस जांच में जुटी",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/vandalism-at-ancient-temple-in-agra-idols-damaged-at-rameshwar-mahadev-temple-2026-04-24",
@@ -74242,6 +74489,19 @@
       "report_category": "International",
       "source": "BBC World",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1f954e6a759c764ca67067dfe7f8d753",
+      "title": "UP Weather Update: अभी और चढ़ेगा पारा, बढ़ेगा लू का कहर, मौसम विभाग ने दी ये जानकारी",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/up-weather-update-temperatures-set-to-rise-further-heatwave-intensifies-2026-04-24",
+      "summary": "लगातार पारा बढ़ने का क्रम दो दिन और जारी रहेगा। अब लू भी तेज चलेगी। 28 और 29 अप्रैल को बादल आने के आने के आसार हैं। उससे कुछ राहत मिलने की संभावना है।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 11:48:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -74427,6 +74687,19 @@
       "lang": "en"
     },
     {
+      "id": "a7f6e327ea32c73eb262cbd012e2a5d0",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 24 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-24",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 11:30:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "87a1715d4a7190eadf57e1e21c09afe7",
       "title": "Agra: 200 रुपये में बन गए दो जाति प्रमाण पत्र, किरावली तहसील में बड़ा फर्जीवाड़ा; जांच में सामने आएगा सच",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/kiravali-tehsil-allegations-of-order-tampering-and-fake-certificates-trigger-probe-2026-04-24",
@@ -74531,6 +74804,19 @@
       "lang": "en"
     },
     {
+      "id": "8e4d61fb3c5f2c61e9e8dee7de3c9187",
+      "title": "'संशय छोड़ें, विश्वगुरु बनेगा भारत': मोहन भागवत बोले- पश्चिमी चश्मा उतार लौटें अपनी जड़ों की ओर",
+      "link": "https://www.amarujala.com/india-news/rss-news-mohan-bhagwat-nagpur-bharat-vishwaguru-speech-2026-04-24",
+      "summary": "'संशय छोड़ें, विश्वगुरु बनेगा भारत': मोहन भागवत बोले- पश्चिमी चश्मा उतार लौटें अपनी जड़ों की ओर RSS news mohan bhagwat nagpur bharat vishwaguru speech",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 11:22:54 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "f8ce1ab1d63a9822e4d8eec8253d7493",
       "title": "तस्वीर कर देगी भावुक: बेटी की सफलता देख रो पड़ा मोची, यूपी बोर्ड 10वीं में हासिल किए शानदार अंक",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/daughter-of-a-cobbler-defies-poverty-payal-scores-88-16-in-up-board-high-school-exam-2026-04-24",
@@ -74593,6 +74879,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9240b31df50d892840d57b1241b47773",
+      "title": "Noida News: विधायक से बताईं समस्याएं",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/problems-told-to-mla-grnoida-news-c-23-1-lko1064-93086-2026-04-24",
+      "summary": "Problems told to MLA",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 11:18:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -74714,9 +75013,9 @@
     },
     {
       "id": "87d8b2459e6006f846475c4a8778712b",
-      "title": "Niti Aayog: नीति आयोग के नए उपाध्यक्ष बने अशोक लाहिड़ी, सुमन बेरी की जगह लेंगे",
+      "title": "Niti Aayog: नीति आयोग के उपाध्यक्ष बनेंगे अशोक लाहिड़ी, सुमन बेरी की जगह लेंगे; गोवर्धन दास बन सकते हैं सदस्य",
       "link": "https://www.amarujala.com/india-news/ashok-lahiri-and-scientist-gobardhan-das-from-west-bengal-niti-aayog-vice-chairman-and-member-govt-sources-2026-04-24",
-      "summary": "Niti Aayog: नीति आयोग के नए उपाध्यक्ष बने अशोक लाहिड़ी, सुमन बेरी की जगह लेंगे",
+      "summary": "Niti Aayog: नीति आयोग के उपाध्यक्ष बनेंगे अशोक लाहिड़ी, सुमन बेरी की जगह लेंगे; गोवर्धन दास बन सकते हैं सदस्य",
       "date": "2026-04-24",
       "timestamp": "Fri, 24 Apr 2026 11:08:10 +0530",
       "section": "National",
@@ -74841,19 +75140,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "a7f6e327ea32c73eb262cbd012e2a5d0",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 24 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-24",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 11:01:14 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
     },
     {
       "id": "fce6d6f048a67f773da32b2454a5e68a",
@@ -76231,19 +76517,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
-      "lang": "en"
-    },
-    {
-      "id": "e555b68262dc7025852c2dade09e69be",
-      "title": "Stray incidents of violence break out across Tamil Nadu on election day",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/stray-incidents-of-violence-break-out-across-tamil-nadu-on-election-day/article70897442.ece",
-      "summary": "TVK and DMK party workers clash at Harbour constituency in Chennai",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 09:05:34 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -93758,12 +94031,90 @@
       "lang": "en"
     },
     {
+      "id": "2525a777b99acaa2e3e3f1080af65cbc",
+      "title": "Urdu no longer mandatory for J&K revenue services; sparks row",
+      "link": "https://timesofindia.indiatimes.com/india/urdu-no-longer-mandatory-for-jk-revenue-services-sparks-row/articleshow/130502017.cms",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-25T00:01:12+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ab81c45062b65e49812cd6bb04e2e37f",
+      "title": "Hunter becomes the hunted: Five elephants crush 75-year-old millionaire trophy hunter to death during hunt",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/hunter-becomes-the-hunted-five-elephants-crush-75-year-old-millionaire-trophy-hunter-to-death-during-hunt/articleshow/130501474.cms",
+      "summary": "A 75-year-old American millionaire and trophy hunter, Ernie Dosio, died in Gabon after a sudden encounter with a herd of five elephants. While tracking a rare antelope, Dosio and his guide were charged by the elephants, resulting in Dosio being fatally trampled and his guide seriously injured. This incident highlights the potential danger of close encounters with these powerful animals.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T23:35:23+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9402c7b13406d166864d19f72f49cb67",
+      "title": "Peace talks back on? Trump sending envoys to Pakistan to meet Iran FM; Vance on standby",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/peace-talks-back-on-trump-sending-envoys-to-pakistan-to-meet-iran-fm-vance-on-standby/articleshow/130499596.cms",
+      "summary": "Senior US envoys Steve Witkoff and Jared Kushner are heading to Pakistan for crucial talks with Iranian foreign minister Abbas Araghchi to revive negotiations amid escalating regional tensions. The diplomatic initiative aims to address Tehran's nuclear program and ease global market volatility. Despite overtures, the situation remains volatile with ongoing conflicts impacting vital shipping lanes.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T23:21:01+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4da9c6eda691378482814f9d4ee8097c",
+      "title": "Italian Job: Could Pep Guardiola be next Italy boss after World Cup disaster? Big reset being discussed",
+      "link": "https://timesofindia.indiatimes.com/sports/international-sports/italian-job-could-pep-guardiola-be-next-italy-boss-after-world-cup-disaster-big-reset-being-discussed/articleshow/130497806.cms",
+      "summary": "Pep Guardiola has emerged as a surprise target for Italy as the federation considers a major reset after a third straight World Cup failure. With leadership changes underway, officials are reportedly exploring an ambitious move despite financial and contractual hurdles at Manchester City. The idea reflects a desire to redefine the national team’s direction ahead of a crucial appointment cycle.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T23:13:02+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eace9ff7cfb9d0c35c430b49c8f8a122",
+      "title": "Indian-origin couple bags $5 million after selling lottery-won luxury home in Perth",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/indian-origin-couple-bags-5-million-after-selling-lottery-won-luxury-home-in-perth-i-came-to-australia-/articleshow/130500482.cms",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T23:02:50+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "43720b6fe579d8edd25b9e172ce5ac4e",
       "title": "US court blocks Trump order suspending asylum access, cites right to apply",
       "link": "https://timesofindia.indiatimes.com/world/us/us-court-blocks-trump-order-suspending-asylum-access-cites-right-to-apply/articleshow/130500735.cms",
       "summary": "A US appeals court has halted President Trump's order barring asylum access at the southern border. Judges ruled immigration laws permit border asylum applications, and the President cannot unilaterally suspend this right. This decision offers a lifeline to individuals fleeing danger, ensuring they receive a hearing for their claims.",
       "date": "2026-04-24",
       "timestamp": "2026-04-24T22:58:21+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3d80629695a4ddd1bfc6bfdcf0f1780f",
+      "title": "Biobank Data Sale Scare: UK health trove briefly listed in China; watchdogs fear public trust hit",
+      "link": "https://timesofindia.indiatimes.com/world/uk/health-data-of-500000-uk-volunteers-listed-for-sale-on-chinese-platform-alarm-raised/articleshow/130500668.cms",
+      "summary": "Sensitive UK Biobank health data, potentially affecting nearly 500,000 participants, was briefly listed for sale on a Chinese marketplace. British authorities acted swiftly to remove the listings, but the incident has raised fresh concerns about the security of the vast research database.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T22:57:26+05:30",
       "section": "International",
       "report_category": "International",
       "source": "TOI World",
