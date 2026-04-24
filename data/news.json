@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T09:26:44.989768+00:00",
+  "generated_at": "2026-04-24T11:02:19.214452+00:00",
   "stories": [
     {
       "id": "3c7247c42dcaf126b3bca698a197b4f2",
@@ -23857,6 +23857,19 @@
       "lang": "en"
     },
     {
+      "id": "21f6f67d223c92753be07aa89b43c7a2",
+      "title": "Relatives of 10 scientists who died or vanished grapple with impact of wild speculation",
+      "link": "https://www.bbc.com/news/articles/cwyw9rpdl4po?at_medium=RSS&at_campaign=rss",
+      "summary": "Conspiracies are running rampant online after the deaths or disappearances of at least 10 people tied to sensitive US research.",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 22:52:20 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0ab8ec04549d8441f86100d74cafaa1f",
       "title": "Nepal’s customs duty is the outcome of a ‘pre-existing provision’, will not affect ‘household goods’: India",
       "link": "https://www.thehindu.com/news/national/nepals-customs-duty-is-the-outcome-of-a-pre-existing-provision-will-not-affect-household-goods-india/article70898572.ece",
@@ -24231,6 +24244,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6412a47aaa09d90cf2bc872ec5867886",
+      "title": "सरकार का अहम फैसला: अब कम चमक और टूटे दानों वाला गेहूं भी खरीदा जाएगा, किसानों को मिलेगा फायदा",
+      "link": "https://www.patrika.com/lucknow-news/wheat-procurement-relaxed-rules-rain-impact-20524435",
+      "summary": "Farmer Relief Scheme: असमय बारिश से प्रभावित गेहूं किसानों को बड़ी राहत देते हुए उत्तर प्रदेश सरकार ने खरीद प्रक्रिया में महत्वपूर्ण बदलाव किया है। अब खराब गुणवत्ता वाले गेहूं को भी निर्धारित शिथिल मानकों के तहत खरीदा जाएगा। इस फैसले से उन किसानों को बड़ी राहत मिलेगी, जिनकी फसल बारिश के कारण प्रभावित हुई है और उन्हें बाजार में कम दाम पर बेचने की मजबूरी का सामना करना पड़ रहा था।",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 21:54:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -25963,19 +25989,6 @@
       "lang": "en"
     },
     {
-      "id": "25ac1b02799d60c524b2c82672b6c24b",
-      "title": "West Bengal voter turnout makes me certain of BJP’s landslide victory: PM Modi",
-      "link": "https://www.thehindu.com/elections/west-bengal-assembly/pm-modi-bengal-election-2026-rallies-voting-phase-1-jhalmuri-tmc/article70897099.ece",
-      "summary": "“I had 'jhalmuri' in Bengal, but it seems that the TMC leaders are feeling the heat of the chillies,” PM Modi said",
-      "date": "2026-04-23",
-      "timestamp": "Thu, 23 Apr 2026 17:31:27 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "20178aab895054fd8974069560bc3564",
       "title": "Karnataka SSLC exam-1 results: State toppers reflect on their journey to 625/625",
       "link": "https://www.thehindu.com/news/national/karnataka/karnataka-sslc-exam-1-results-state-toppers-reflect-on-their-journey-to-625625/article70896771.ece",
@@ -26049,19 +26062,6 @@
       "timestamp": "Thu, 23 Apr 2026 17:04:37 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "88479da205728452f23686433f7c8103",
-      "title": "India’s butterfly boom: How Nature walks, parks, and trails are sparking a new conservation movement",
-      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-butterfly-boom-how-nature-walks-parks-and-trails-are-sparking-a-new-conservation-movement/article70752687.ece",
-      "summary": "From Bengaluru’s urban forests to the Northeast’s biodiversity hotspots, enthusiasts and experts are turning butterfly-watching into a powerful gateway to ecology, education, and sustainable travel",
-      "date": "2026-04-23",
-      "timestamp": "Thu, 23 Apr 2026 16:58:56 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -26974,6 +26974,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1fdad522961242c1ee0935ee4e7f38b9",
+      "title": "‘2027 में सैफई की ओर प्रस्थान करेंगे अखिलेश’, बंगाल की वोटिंग के बीच केशव प्रसाद मौर्य का करारा हमला",
+      "link": "https://www.patrika.com/lucknow-news/keshav-maurya-on-west-bengal-election-2026-akhilesh-yadav-20522961",
+      "summary": "“हमें पूरा विश्वास है कि चुनाव आयोग निष्पक्ष चुनाव कराने में सफल होगा। यदि पश्चिम बंगाल(Bengal Election 2026) के मतदाताओं को निडर होकर मताधिकार का प्रयोग करने का मौका मिलता है, तो परिणाम चौंकाने वाले होंगे। जिस तरह 2014 और 2017 में उत्तर प्रदेश में भाजपा ने ऐतिहासिक जीत दर्ज की थी, ठीक वही इतिहास 2026 में पश्चिम बंगाल में दोहराया जाएगा।” लखनऊ में मीडिया से बातचीत करते हुए मौर्य ने ये बातें कहीं। उन्होंने जोर देकर कहा कि बंगाल की जनता अब विकास के मुद्दे पर मुहर लगाएगी।",
+      "date": "2026-04-23",
+      "timestamp": "Thu, 23 Apr 2026 13:35:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -69994,16 +70007,42 @@
       "lang": "en"
     },
     {
-      "id": "f92acd971c88768e0f0cbe5c610fa3a9",
-      "title": "यूपी में बिजली उपभोक्ताओं को लेकर बड़ा फैसला, इन लोगों का नहीं कटेगा कनेक्शन, ऊर्जा मंत्री ने दिए निर्देश",
-      "link": "https://www.livehindustan.com/uttar-pradesh/major-decision-for-electricity-consumers-up-these-connections-will-not-be-disconnected-energy-minister-issues-directives-201777022130119.html",
-      "summary": "यूपी के ऊर्जा मंत्री एके शर्मा ने निर्देश दिए हैं कि 1 किलोवाट तक के विद्युत कनेक्शन वाले उपभोक्ताओं का यदि बैलेंस नेगेटिव भी हो जाए, तब भी 30 दिनों तक उनका कनेक्शन नहीं काटा जाएगा।",
+      "id": "491a49966086faa78bc926f49ee35995",
+      "title": "Raghav Chadha, six AAP MPs join BJP",
+      "link": "https://www.thehindu.com/news/national/raghav-chadha-aap-mps-join-bjp/article70901275.ece",
+      "summary": "Besides Raghav Chadha, Rajya Sabha MPs Sandeep Pathak, Ashok Mittal, Harbhajan Singh, Rajinder Gupta, Vikram Sahney and Swati Maliwal also quit the party",
       "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 14:51:31 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Live Hindustan",
-      "district": "Uttar Pradesh",
+      "timestamp": "Fri, 24 Apr 2026 16:26:22 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "86d37ca9107cd53de96f19d42ff9dc68",
+      "title": "We are not Indian Ku Klux Klan, says RSS leader Hosabale; flags misunderstandings in U.S.",
+      "link": "https://www.thehindu.com/news/national/we-are-not-indian-ku-klux-klan-says-rss-leader-hosabale-flags-misunderstandings-in-us/article70901311.ece",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 16:24:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "25ac1b02799d60c524b2c82672b6c24b",
+      "title": "West Bengal voter turnout makes me certain of BJP’s landslide victory: PM Modi",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/pm-modi-bengal-election-2026-rallies-voting-phase-1-jhalmuri-tmc/article70897099.ece",
+      "summary": "“I had 'jhalmuri' in Bengal, but it seems that the TMC leaders are feeling the heat of the chillies,” PM Modi said",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 16:04:32 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -70012,11 +70051,336 @@
       "link": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-24-2026-tamil-nadu-kerala-puducherry-assam-west-bengal/article70900315.ece",
       "summary": "ECI issues fresh post-poll guidelines for Bengal Assembly elections",
       "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 14:36:12 +0530",
+      "timestamp": "Fri, 24 Apr 2026 15:58:51 +0530",
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a3ed652cf5de3c86537e084882f9d3c2",
+      "title": "नामी ब्रांडों के नाम पर फर्जीवाड़ा; हार्पिक, कॉलिन और वीट की नकली खेप जब्त; 6 लोगों पर केस",
+      "link": "https://www.livehindustan.com/uttar-pradesh/fake-impersonation-of-well-known-brands-fake-consignments-of-harpic-colin-and-veet-seized-6-people-booked-201777025588971.html",
+      "summary": "पीलीभीत में छापेमारी कर हार्पिक, कॉलिन और वीट जैसे नामी ब्रांडों के नकली उत्पाद बरामद किए गए। जांच टीम में अल्फा इंटेलिजेंस सर्विस प्राइवेट लिमिटेड के डायरेक्टर तथा संबंधित कंपनी के अधिकृत प्रतिनिधि शामिल रहे। कार्रवाई के दौरान कई दुकानों से भारी मात्रा में डुप्लीकेट सामान जब्त किया गया।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:55:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d30d3d71924938807eac5076ad6d2c5d",
+      "title": "Consumption sustaining growth; predictable support essential for GDP expansion: Finance Minister",
+      "link": "https://www.thehindu.com/business/Economy/consumption-sustaining-growth-predictable-support-essential-for-gdp-expansion-finance-minister/article70901200.ece",
+      "summary": "The Committee of Bankers is looking into the issue of whether to allow exclusive distribution tie-ups for selling third-party products by banks or adopt an open architecture approach,” says Finance Minister",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:52:56 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6d902d804413ac23ebc0aa19e46f505b",
+      "title": "How is ethanol used in Sustainable Aviation Fuel?",
+      "link": "https://www.thehindu.com/sci-tech/science/how-is-ethanol-used-in-sustainable-aviation-fuel/article70901226.ece",
+      "summary": "Since ATJ prevents raw ethanol from running through jet engines, it will not reduce thrust or clog fuel lines by absorbing moisture",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:45:33 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5934d0a5b8780662dd0d00e04503c569",
+      "title": "What is 100% ethanol blending? | Explained",
+      "link": "https://www.thehindu.com/sci-tech/science/india-ethanol-blending-e100-flex-sustainable-aviation-fuel-sugarcane/article70892245.ece",
+      "summary": "Increasing Sustainable Aviation Fuel production without further stressing sugarcane production will depend on how quickly second-generation ethanol can be produced in commercial volumes",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:37:19 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "36441858a1b3d831dfb93b110bfed6a6",
+      "title": "FEFKA council rejects B. Unnikrishnan’s offer to step down from general secretary post",
+      "link": "https://www.thehindu.com/news/national/kerala/fefka-council-rejects-b-unnikrishnans-offer-to-step-down-from-general-secretary-post/article70901176.ece",
+      "summary": "Unnikrishnan had expressed his desire to resign citing ‘personal reasons’. He had also suggested a new leadership for the federation after remaining at its helm for nearly 18 years",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:32:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "19fb2ea09e40bf2f131a1ef4a8700e63",
+      "title": "M. Swaraj says ‘IUML’s Jamaat faction’ spreading fake news against him, plans legal action",
+      "link": "https://www.thehindu.com/news/national/kerala/m-swaraj-accuses-iumls-jamaat-faction-of-spreading-fake-news-plans-legal-action/article70901012.ece",
+      "summary": "In a Facebook post, Swaraj denies meeting Pratheesh Viswanath, a right-wing activist, and describes the episode as part of long-running campaign to portray him as a ‘Hindu communalist’",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:31:21 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ced4b7b9aa754027f3b7b4e06d0fc8f9",
+      "title": "यूपी में में गन्ना किसानों की फसल का होगा GPS सर्वे, सीएम योगी के निर्देश पर विभाग ने शुरू की तैयारी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/gps-survey-sugarcane-farmers-crops-to-be-conducted-up-department-initiates-preparations-on-cm-yogi-directives-201777024566280.html",
+      "summary": "मुख्यमंत्री योगी आदित्यनाथ के निर्देश पर गन्ना सर्वेक्षण नीति जारी की गई है। इसके तहत गन्ना विकास एवं चीनी उद्योग विभाग गन्ने की फसल का जीपीएस सर्वेक्षण कराएगा। यह जीपीएस सर्वेक्षण 1 मई से शुरू होकर 30 जून 2026 तक चलेगा।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:31:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "6c4975269d0abbc094cfbd291e585258",
+      "title": "From the hills to the forests: Kerala’s summer escapes",
+      "link": "https://www.thehindu.com/life-and-style/travel/from-the-hills-to-the-forests-keralas-summer-escapes/article70892239.ece",
+      "summary": "Despite shifting climate patterns, hill stations remain the biggest draw this summer",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:30:33 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e2aa2b71150c40388b882d7d62b90bdf",
+      "title": "Around 240 Indians claiming descent from biblical tribe arrive at Israel’s Tel Aviv",
+      "link": "https://www.thehindu.com/news/international/around-240-indians-claiming-descent-from-biblical-tribe-arrive-at-israels-tel-aviv/article70901136.ece",
+      "summary": "The newcomers passed under a balloon arch in blue and white, the colours of Israeli flag, as dozens of well-wishers welcomed them with a traditional Jewish song",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:29:01 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "618e2d8d144bdf0e1fa103429f940700",
+      "title": "Israel-Iran war LIVE: Iran FM speaks to Pakistan military chief, Iraqi Kurdistan President",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
+      "summary": "Israel says it struck a Hezbollah missile launcher soon after Trump said the Israel-Lebanon ceasefire had been extended by three weeks",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:27:57 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fa346f2198aa06757af8467ed9f3e200",
+      "title": "दुल्हन को विदाई कराकर ले जा रहा था दूल्हा, तभी फिल्मी स्टाइल में प्रेमी ने मारी एंट्री, फिर...",
+      "link": "https://www.livehindustan.com/uttar-pradesh/when-the-groom-was-taking-the-bride-lover-stopped-his-car-201777023666314.html",
+      "summary": "यूपी में शादी की रस्म के बाद विदाई कराकर ले जाते समय दूल्हे की कार को दुल्हन के आशिक ने रोक दिया। सिरफिरे आशिक ने कार से दुल्हन को जबरिया ये कहते हुए उतार लिया कि दुल्हन उसकी प्रेमिका है। आखिर में दूल्हे को बैरंग वापस लौटना पड़ा। उधर, गुरुवार को पंचायत भी बुलाई गई थी।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:27:57 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f856dfdff9c7606c274b7eb7288f87e4",
+      "title": "Supreme Court refuses to entertain pleas of those on election duty in Bengal, asks them to move tribunal",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/supreme-court-refuses-to-entertain-pleas-of-those-on-election-duty-in-bengal-asks-them-to-move-tribunal/article70901149.ece",
+      "summary": "The apex Court asked them to approach the appellate tribunals constituted to decide appeals against the deletion or exclusion of names from the voter list",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:26:50 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6b2a6eaf39c3f59c8e60ecd4efe4813d",
+      "title": "PM Modi says phase-1 polling signals 'wave of change', BJP's victory in West Bengal",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-assembly-elections-phase-1-pm-modi-polling-signals-wave-of-change-bjp-victory/article70901080.ece",
+      "summary": "“In Bengal, where the TMC had crushed the temple of democracy with its dictatorship, people have started reconstructing the temple of democracy,” PM Modi said",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:24:30 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e6304576e0d62bf564cb03aee8a1f73e",
+      "title": "Opposition parties submit fresh notice seeking motion for removal of CEC Gyanesh Kumar",
+      "link": "https://www.thehindu.com/news/national/opposition-parties-submit-fresh-notice-seeking-motion-for-removal-of-cec-gyanesh-kumar/article70901179.ece",
+      "summary": "The fresh notice had levelled nine charges against CEC Gyanesh Kumar",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:23:45 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3646d7e0fe552ce08e8335aa3d77f7cd",
+      "title": "Lucknow News: सास-ससुर, साले को दामाद ने दौड़ाकर पीटा",
+      "link": "https://www.livehindustan.com/videos/uttar-pradesh/lucknow-news-mother-in-law-father-in-law-and-brother-in-law-were-chased-and-beaten-by-the-son-in-law-201777024042486.html",
+      "summary": "लखनऊ जिले के निगोहा थाने के लवलि गांव के घायलों को गंभीर हालत में पहुंचाया गया. थाना क्षेत्र के एक गांव में ब्याही बेटी के घर हुए विवाद की सूचना पर पहुंचे सास, ससुर और साले को दामाद ने दौड़ाकर पीटा। मारपीट में तीन लोग गंभीर रुप से घायल हो गए.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:22:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e98fa79966b14c1ae6cdc383f9b02e06",
+      "title": "Meerut News: सांसद अरुण गोविल के आश्वासन पर सेंट्रल मार्केट की महिलाओं का धरना स्थगित",
+      "link": "https://www.livehindustan.com/videos/uttar-pradesh/nude-arun-govil-submission-on-central-market-women-strike-201777023548820.html",
+      "summary": "मेरठ सेंट्रल मार्केट के शास्त्रीनगर में चल रहे महिलाओं के धरने में शनिवार को सांसद अरुण गोविल पहुंचे। उन्होंने आश्वस्त किया कि सरकार इस मामले का समाधान निकालने का पूरा प्रयास कर रही है। अरुण गोविल ने कहा कि मैं आपका भाई हूं, इसलिए धरना खत्म कर दो। उनकी अपील पर महिलाओं ने धरना स्थगित कर दिया",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:16:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7c83aa94156e6fc816417d246ef7b164",
+      "title": "Supreme Court directs Uttar Pradesh DGP to form SIT to probe minor's rape and murder in Ghaziabad",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/supreme-court-directs-uttar-pradesh-dgp-to-form-sit-to-probe-minors-rape-and-murder-in-ghaziabad/article70901148.ece",
+      "summary": "The SIT will look into all the grievances raised by the victim's parents and also probe the role of two private hospitals, which allegedly denied treatment to the victim, the Bench said.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:15:11 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "81628b4aafda1a3bd834dd7489ff65f4",
+      "title": "NDA government wins Bihar trust vote in Assembly",
+      "link": "https://www.thehindu.com/news/national/bihar/nda-government-wins-bihar-trust-vote-in-assembly/article70900929.ece",
+      "summary": "BJP-led alliance secures confidence motion by voice vote; Opposition cites “fifth government in five years”",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:10:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "88479da205728452f23686433f7c8103",
+      "title": "India’s butterfly boom: How Nature walks, parks, and trails are sparking a new conservation movement",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/indias-butterfly-boom-how-nature-walks-parks-and-trails-are-sparking-a-new-conservation-movement/article70752687.ece",
+      "summary": "From Bengaluru’s urban forests to the Northeast’s biodiversity hotspots, enthusiasts and experts are turning butterfly-watching into a powerful gateway to ecology, education, and sustainable travel",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:07:37 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bab5e3b47f2ff64366e0e5f1fd766696",
+      "title": "Electric carmaker Tesla to expand supercharging network in India",
+      "link": "https://www.thehindu.com/business/Industry/electric-carmaker-tesla-to-expand-supercharging-network-in-india/article70901082.ece",
+      "summary": "\"We already have five super charging stations in India, which we have built around the lifestyle of our customers, where they go to work, shop, dine and travel,\" Tesla India General Manager",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:02:23 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f2b7a26c0f4b9ac4fb3c5b86abfd1d29",
+      "title": "Chinese Foreign Minister and Thai Prime Minister agree to collaborate on fighting cyberscams",
+      "link": "https://www.thehindu.com/news/international/chinese-foreign-minister-and-thai-prime-minister-agree-to-collaborate-on-fighting-cyberscams/article70900912.ece",
+      "summary": "China is Thailand’s biggest trading partner, and the two countries celebrated their 50th anniversary of establishing diplomatic relations last year",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:02:14 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eff4ed434c627cfdea0c4bd2c058ac49",
+      "title": "Centre’s move on women’s quota, delimitation aimed at political gains, says MP G. Kumar Naik",
+      "link": "https://www.thehindu.com/news/national/karnataka/centres-move-on-womens-quota-delimitation-aimed-at-political-gains-says-mp-g-kumar-naik/article70897865.ece",
+      "summary": "He said the Centre had moved ahead without adequate consultation or discussion with Opposition parties and attempted to bring in the legislation at the last minute through a sudden notification",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:01:34 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d54b90a9f3e316442f620fa64e1ed525",
+      "title": "Norway to ban social media for under-16s",
+      "link": "https://www.thehindu.com/news/international/norway-to-ban-social-media-for-under-16s/article70901106.ece",
+      "summary": "Several European countries, such as France, Spain, and Denmark, have already said they will introduce a digital age of majority for social networks and others like Australia and Turkiye have already done so",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 15:00:32 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "faf89bdb7879481ae46ae096efd0f80f",
+      "title": "सिपाही ने चाचा को मार डाला; जमीन विवाद में सीने में गोली दागी; फिर थाने में खुद सरेंडर किया",
+      "link": "https://www.livehindustan.com/uttar-pradesh/policeman-killed-his-uncle-shot-him-over-land-dispute-then-surrendered-at-police-station-201777022073591.html",
+      "summary": "आरोप है कि इसी को लेकर दोनों पक्षों में दोबारा मारपीट हो गई। इस पर सिपाही शानेरजा ने अपने चचेरे भाई जावेद के साथ मिलकर तमंचे से इश्हाक के सीने पर गोली मार दी। जिससे उनकी मौत हो गई। वारदात के बाद आरोपी शानेरजा और जावेद फरार हो गए। शानेआलम ने खुद थाने पहुंचकर आत्मसमर्पण कर दिया।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 14:58:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f92acd971c88768e0f0cbe5c610fa3a9",
+      "title": "घरेलू बिजली उपभोक्ताओं को लेकर बड़ा फैसला, इन लोगों का नहीं कटेगा कनेक्शन, ऊर्जा मंत्री ने दी राहत",
+      "link": "https://www.livehindustan.com/uttar-pradesh/major-decision-for-electricity-consumers-up-these-connections-will-not-be-disconnected-energy-minister-issues-directives-201777022130119.html",
+      "summary": "यूपी के ऊर्जा मंत्री एके शर्मा ने निर्देश दिए हैं कि 1 किलोवाट तक के विद्युत कनेक्शन वाले उपभोक्ताओं का यदि बैलेंस नेगेटिव भी हो जाए, तब भी 30 दिनों तक उनका कनेक्शन नहीं काटा जाएगा।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 14:51:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -70030,19 +70394,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "eff4ed434c627cfdea0c4bd2c058ac49",
-      "title": "Centre’s move on women’s quota, delimitation aimed at political gains, says MP G. Kumar Naik",
-      "link": "https://www.thehindu.com/news/national/karnataka/centres-move-on-womens-quota-delimitation-aimed-at-political-gains-says-mp-g-kumar-naik/article70897865.ece",
-      "summary": "He said the Centre had moved ahead without adequate consultation or discussion with Opposition parties and attempted to bring in the legislation at the last minute through a sudden notification",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 14:29:19 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -70067,19 +70418,6 @@
       "timestamp": "Fri, 24 Apr 2026 14:20:33 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "81628b4aafda1a3bd834dd7489ff65f4",
-      "title": "NDA government wins Bihar trust vote in Assembly",
-      "link": "https://www.thehindu.com/news/national/bihar/nda-government-wins-bihar-trust-vote-in-assembly/article70900929.ece",
-      "summary": "BJP-led alliance secures confidence motion by voice vote; Opposition cites “fifth government in five years”",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 14:19:09 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -70124,32 +70462,6 @@
       "lang": "en"
     },
     {
-      "id": "5934d0a5b8780662dd0d00e04503c569",
-      "title": "How are ethanol-blending and India’s energy security linked? | Explained",
-      "link": "https://www.thehindu.com/sci-tech/science/india-ethanol-blending-e100-flex-sustainable-aviation-fuel-sugarcane/article70892245.ece",
-      "summary": "Increasing Sustainable Aviation Fuel production without further stressing sugarcane production will depend on how quickly second-generation ethanol can be produced in commercial volumes",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 14:15:32 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "618e2d8d144bdf0e1fa103429f940700",
-      "title": "Israel-Iran war LIVE: West Asia's swift return to stability 'in everyone's interest', says Macron",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-strait-of-hormuz-live-updates-april-24-2026/article70900149.ece",
-      "summary": "Israel says it struck a Hezbollah missile launcher soon after Trump said the Israel-Lebanon ceasefire had been extended by three weeks",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 14:12:08 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "01de55a57f8d6bf411a6a318f9d879a0",
       "title": "Karnataka’s new excise regime calibrates taxes to social cost of alcohol",
       "link": "https://www.thehindu.com/news/national/karnataka/karnatakas-new-excise-regime-calibrates-taxes-to-social-cost-of-alcohol/article70897392.ece",
@@ -70158,19 +70470,6 @@
       "timestamp": "Fri, 24 Apr 2026 14:11:03 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "f2b7a26c0f4b9ac4fb3c5b86abfd1d29",
-      "title": "Chinese foreign minister and Thai prime minister agree to collaborate on fighting cyberscams",
-      "link": "https://www.thehindu.com/news/international/chinese-foreign-minister-and-thai-prime-minister-agree-to-collaborate-on-fighting-cyberscams/article70900912.ece",
-      "summary": "China is Thailand’s biggest trading partner, and the two countries celebrated their 50th anniversary of establishing diplomatic relations last year",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 14:01:41 +0530",
-      "section": "International",
-      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -71437,19 +71736,6 @@
       "lang": "en"
     },
     {
-      "id": "1fdad522961242c1ee0935ee4e7f38b9",
-      "title": "‘2027 में सैफई की ओर प्रस्थान करेंगे अखिलेश’, बंगाल की वोटिंग के बीच केशव प्रसाद मौर्य का करारा हमला",
-      "link": "https://www.patrika.com/lucknow-news/keshav-maurya-on-west-bengal-election-2026-akhilesh-yadav-20522961",
-      "summary": "“हमें पूरा विश्वास है कि चुनाव आयोग निष्पक्ष चुनाव कराने में सफल होगा। यदि पश्चिम बंगाल(Bengal Election 2026) के मतदाताओं को निडर होकर मताधिकार का प्रयोग करने का मौका मिलता है, तो परिणाम चौंकाने वाले होंगे। जिस तरह 2014 और 2017 में उत्तर प्रदेश में भाजपा ने ऐतिहासिक जीत दर्ज की थी, ठीक वही इतिहास 2026 में पश्चिम बंगाल में दोहराया जाएगा।” लखनऊ में मीडिया से बातचीत करते हुए मौर्य ने ये बातें कहीं। उन्होंने जोर देकर कहा कि बंगाल की जनता अब विकास के मुद्दे पर मुहर लगाएगी।",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 11:21:43 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
-      "lang": "en"
-    },
-    {
       "id": "6669795d5998d887844244db7fbe0256",
       "title": "Railway News: बिहार-बंगाल और गुजरात जाने वाले यात्रियों को बड़ी राहत, इन चार स्पेशल ट्रेनों का नोट कर लें टाइम",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/summer-relief-for-passengers-4-special-trains-announced-for-agra-division-connecting-gujarat-bihar-and-bengal-2026-04-24",
@@ -71603,19 +71889,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "6412a47aaa09d90cf2bc872ec5867886",
-      "title": "सरकार का अहम फैसला: अब कम चमक और टूटे दानों वाला गेहूं भी खरीदा जाएगा, किसानों को मिलेगा फायदा",
-      "link": "https://www.patrika.com/lucknow-news/wheat-procurement-relaxed-rules-rain-impact-20524435",
-      "summary": "Farmer Relief Scheme: असमय बारिश से प्रभावित गेहूं किसानों को बड़ी राहत देते हुए उत्तर प्रदेश सरकार ने खरीद प्रक्रिया में महत्वपूर्ण बदलाव किया है। अब खराब गुणवत्ता वाले गेहूं को भी निर्धारित शिथिल मानकों के तहत खरीदा जाएगा। इस फैसले से उन किसानों को बड़ी राहत मिलेगी, जिनकी फसल बारिश के कारण प्रभावित हुई है और उन्हें बाजार में कम दाम पर बेचने की मजबूरी का सामना करना पड़ रहा था।",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 11:02:32 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -71866,6 +72139,19 @@
       "lang": "en"
     },
     {
+      "id": "ef841d9c02c1bdfd2417853080cce18c",
+      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+      "link": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 10:41:32 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a6261f8630d12004e115c7c2f280b2d6",
       "title": "Odisha issues SOP for safety of census enumerators following incidents of attack",
       "link": "https://www.thehindu.com/news/national/odisha/odisha-issues-sop-for-safety-of-census-enumerators-following-incidents-of-attack/article70898171.ece",
@@ -71953,6 +72239,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6eec27cd32aba82c21a93cac740c78b3",
+      "title": "Briton in Netflix's 'Con Mum' faces fresh charges in Singapore",
+      "link": "https://www.bbc.com/news/articles/c87wz7445wno?at_medium=RSS&at_campaign=rss",
+      "summary": "Dionne Marie Hanna, 85, is accused of duping more than two dozen people - including her own son.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 10:26:25 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -72074,6 +72373,19 @@
       "lang": "en"
     },
     {
+      "id": "0082c66fe5fa7d0f9e34a3bc9861f3f9",
+      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+      "link": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 10:14:37 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "591c48ea6dd58dcaac5beffaab7a0a77",
       "title": "Scaling climate adaptation from policy to grassroots",
       "link": "https://www.thehindu.com/opinion/op-ed/scaling-climate-adaptation-from-policy-to-grassroots/article70898407.ece",
@@ -72126,6 +72438,19 @@
       "lang": "en"
     },
     {
+      "id": "2a014a1c45da9b637aad1ce9dff1d4dd",
+      "title": "UK biobank data incident caused by 'a few bad apples', boss says",
+      "link": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Professor Sir Rory Collins said he was \"angry\" and \"upset\" about the incident, as both the bank's boss and a participant.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 10:00:42 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a69fb8d58db3de04c6e3aae309a34c05",
       "title": "UP Heatwave Alert: लू का रेड अलर्ट, IMD बोला-26 अप्रैल के बाद बदलेगा मौसम, बारिश के आसार",
       "link": "https://www.patrika.com/lucknow-news/up-heatwave-alert-imd-predicts-rain-relief-after-april-26-amid-rising-temperatures-20524620",
@@ -72136,6 +72461,19 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "7212d3ebd48ed18b22b26bf566082f59",
+      "title": "‘She is my girlfriend, she will go with me’:Lover stops bride and groom’s car in Ambedkar Nagar; husband forced to go back",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/ambedkar-nagar-lover-stops-wedding-car-bride-groom-confrontation-137775344.html",
+      "summary": "In Ambedkar Nagar, after the farewell, a lover stopped the bride's car, which was on its way to her in-laws' house, in the middle of the road. In a filmy style, he parked his bike in front of the car. He opened the car door, pulled out the bride and groom, and then, pulling the bride towards him, said - 'She is my girlfriend, she is coming with me.' The groom was stunned by the young man's actions. In anger, he confronted him. But the lover started showing photos that he kept on his mobile as proof. He said - 'No one can separate us.' The bride was shocked by the lover's actions. Meanwhile, in anger, the groom called his family and in-laws. When both parties arrived at the scene, a commotion began. The lover was not ready to back down under any circumstances. Showing two years' worth of photos with the girl, he insisted on taking her with him. Seeing the situation escalate, the police were informed. A panchayat (local council meeting) was held all day. After learning everything, the groom's side broke off the marriage and decided to return without the bride. The family members took the girl to the village, and based on the complaint, the police booked the lover for disturbing the peace. The matter is from Saidpur Rajjipur village, Aliganj police station area. Now know the full story Dinesh (27) lives with his mother and sister in Gosaiganj, Ayodhya. His father has passed away. The family had arranged Dinesh's marriage about 6 months ago with Mahima, daughter of Parshuram, a resident of Saidpur Rajjipur village in Ambedkar Nagar district. On April 22, Dinesh arrived at Mahima's house with his wedding procession. After the wedding rituals were completed, the farewell took place the next morning. On Thursday morning, after the farewell, Dinesh left for Ayodhya with his wife Mahima by car. Dinesh had only traveled a few kilometers from his in-laws' house when a young man arrived with 6-7 companions. He stopped the car by parking his bike in front of it. The young man opened the car door. Then he made Dinesh and Mahima get out. My name is Ranvijay, this is my girlfriend... After getting the bride and groom out of the car, the young man said, \"My name is Ranvijay.\" As soon as he said this, he pulled Mahima towards him and said, \"She is my girlfriend.\" The groom was shocked. He confronted the young man, but the young man took out his mobile and started showing some photos. After this, he threatened, saying, \"She is coming with me. Tell whoever you want to tell. No one can separate us.\" When family members arrived, the commotion began The distressed groom called his family and in-laws and gave them all the information. Within about 10 minutes, the bride's family members arrived at the scene. A commotion began. Ranvijay also showed mobile photos to the family members. He showed photos of himself with the girl from the past two years. After seeing the photos, an argument broke out between both parties. Dinesh called the police on 112. Everyone was brought to the police station. The panchayat (council/mediation) continued throughout the day. The groom's side, angered by the discussion of the lover and the bride's relationship in the panchayat, broke off the wedding. The groom refused to take Mahima with him. Then a compromise was reached, and the groom returned without the bride. The relatives took the bride with them. Meanwhile, after a complaint from the bride's side, the police booked the lover boy for disturbing the peace. Both parties mutually agreed to break off the wedding Aliganj Kotwal Bhupendra Kumar Singh said- The groom's side and the bride's side had reached a mutual agreement outside the police station. They gave in writing that they do not want any legal action. The police have challaned the lover for disturbing the peace.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 09:58:17 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -72256,6 +72594,19 @@
       "lang": "en"
     },
     {
+      "id": "863a784038f20723666b3cf0930309cf",
+      "title": "Akhilesh claims Deputy CM ran away on Shankaracharya’s visit:Questions law and order in UP; makes sharp remark",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/lucknow/news/up-law-order-shankaracharya-visit-akhilesh-yadav-statement-137775112.html",
+      "summary": "SP chief Akhilesh Yadav again questioned the treatment meted out to Shankaracharya on Friday. He said, \"Everyone saw how he was treated. What all was not said about Batuk. Later, claims were made of washing his feet and prostrating. But when Shankaracharya arrived, the Deputy CM fled Lucknow. They have ruined the entire health department.\" On Union Home Minister Amit Shah's statement about straightening the goons of West Bengal by hanging them upside down, Akhilesh said- \"Look at their language. Are goons only in West Bengal? Are there fewer goons in Uttar Pradesh, who are roaming freely, sitting on chairs? They should also be hung upside down and straightened.\" During a press conference in Lucknow, Akhilesh alleged that this government is in the hands of undemocratic people. SP workers are being subjected to injustice. BJP has nothing to do with anyone. Attempts are being made to defame SP. This is a fight to save the constitution. Key points from the SP chief's press conference 1. 'Socialist people are being targeted selectively' Akhilesh said - Crime has increased in UP. What happened in Hathras? The daughter of the Valmiki community did not get justice. The police and the government did not allow the family's last wish to be fulfilled. Can any Sanatani do such a thing? Every political party came forward for justice, but the government did not care about anyone. Socialist people are being selectively targeted. If we have to take a big decision, we will not back down. 2. 'BJP is working as a land mafia' Akhilesh said - BJP is working as a land mafia. Wherever a scheme comes, BJP people acquire the land beforehand. All ponds have been encroached upon. Tell me, the Green Corridor is worth 7000 crores. Green Corridor means where traffic should never stop. But, look at the design. It seems that when the engineer brought the design, the Chief Minister must have thrown the design away and started making the design himself. You must have seen the statue of the lion. It seems that its engineer and guide must also be the CM. 3. 'If you do wrong, the public will stand against you' Akhilesh said - Mamata Banerjee is going to achieve a historic victory in Bengal. More than 3 lakh central forces have been sent. In UP, they will send 6 lakh. We will exercise the right given under Babasaheb's constitution. We will vote. The public will vote against this government. If you do wrong, the public will stand against you. Akhilesh said- What is the condition of the state's hospitals, treatment is not available anywhere. If you need a bandage on your right hand, they will tie it on your left hand. A living person is being sent to the mortuary. The wrong person is being forcibly taken to the operation theater. Poor people are running away to save their lives. The entire health department has been ruined. 4. 'Irregularities in buying smart meters, harassing the poor' Regarding smart meters, the SP chief said- There have been irregularities in buying smart meters. The government should be asked how much electricity it generated. Solar plants were built, but not thermal plants. Not a single electricity factory was set up. They are harassing people with smart meters. They are harassing the poor. I heard a committee has been formed. This is the Chief Minister's smartness. Whatever happens, form a committee. The Samajwadi government will bring change as soon as it comes. 5. 'BJP has a hidden agenda of votes regarding women's reservation' The SP chief, on Assam Chief Minister Himanta Biswa Sarma's statement about giving Bharat Ratna to CEC Gyanesh Kumar, said that both of them should get the Nobel Prize. Targeting BJP, he said - BJP has a flaw of votes in its mind regarding women's reservation. Now they are talking about veg and non-veg fish. Imagine, veg and non-veg even in fish. BJP says that Sanatani people can eat fish.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 09:30:14 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "08fde0e85482a1f7221249664c8bf690",
       "title": "Stressing grave constitutional wrong, Lucknow lawyer pushes for release of Chinese national languishing in U.P. Jail after prison term",
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/stressing-grave-constitutional-wrong-lucknow-lawyer-pushes-for-release-of-chinese-national-languishing-in-up-jail-after-prison-term/article70897035.ece",
@@ -72269,6 +72620,19 @@
       "lang": "en"
     },
     {
+      "id": "cef7582321df8a7a27b5580bec8385c4",
+      "title": "Judge dismisses Smokey Robinson's defamation claim against rape accusers",
+      "link": "https://www.bbc.com/news/articles/c0e70e4wr00o?at_medium=RSS&at_campaign=rss",
+      "summary": "The veteran singer had made a counterclaim after four housekeepers sued him for alleged sexual assault.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 09:29:10 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "03a829a8cf2e8bff2c34636806ab9315",
       "title": "NOTA loses ground as electors in Tamil Nadu lean towards new political alternatives",
       "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/nota-loses-ground-as-electors-in-tamil-nadu-lean-towards-new-political-alternatives/article70898304.ece",
@@ -72278,6 +72642,32 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ddfe2871541ca2c7beb560d92dbab010",
+      "title": "Environmental crisis in Russian city after drone attack on refinery",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/24/environmental-crisis-in-russian-city-after-drone-attack-on-refinery?traffic_source=rss",
+      "summary": "People in the Russian city of Tuapse are worried about the effects of an oil refinery fire after a Ukrainian attack.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 09:27:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bab0c25ed24709aab79da82d8fc6f030",
+      "title": "'A dangerous standoff' as Strait of Hormuz blockade continues",
+      "link": "https://www.bbc.com/news/videos/ckgwlgyyyv0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Iran's rival blockades of the Strait of Hormuz have become a \"test of wills\", says Lyse Doucet.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 09:26:14 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -72309,9 +72699,9 @@
     },
     {
       "id": "c2fa10e996f4e2c7c8cdd95c606bf4bc",
-      "title": "Pakistani man held in Bulandshahr after 40 years:Suspected sleeper cell agent, fake Aadhaar and driving licence found",
+      "title": "Pakistani man held in Bulandshahr after 40 years:Fake Aadhaar and driving licence found with suspected sleeper cell agent",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/pakistani-man-held-bulandshahr-fake-aadhaar-driving-licence-sleeper-cell-suspect-137775022.html",
-      "summary": "A Pakistani man who had been living in Uttar Pradesh for nearly 40 years has been arrested in Bulandshahr. Police recovered a fake Aadhaar card and a driving licence from him. He had been changing his name and living in different cities of western UP. Police suspect he could be linked to a sleeper cell. SP City Abhishek Pratap Ajeya said the man was arrested on Friday evening. On his Aadhaar card, his name was written as Syed Wasit Ali, son of Syed Laiq Ahmed, with an address in Sushila Vihar, Bulandshahr. However, during investigation, police found that his real identity was different. His passport showed his name as Basid Irshad, 55, son of Irshad Ahmed, a resident of New Karachi in Pakistan. Police also said he had been arrested earlier in Meerut in 2012 for staying illegally in India by hiding his identity. Officials are now trying to find out why he was not deported at that time and how he managed to reach Bulandshahr again. Police have contacted Meerut officials for more details. Information was received from an informant The SP said- We had received information that a young man was living in a rented house for several years by changing his identity. He was planning to commit a crime. After this, checking was started at the police station on Thursday evening. During this, the accused was caught. The accused said- Mother had received a long-term visa During interrogation, the accused claimed that his mother Bilkis Fatima had come to India from Pakistan with her children. She had remarried in the Gulawathi area of Bulandshahr. She had received a long-term visa. The accused had also applied for a long-term visa, but it remained pending. After this, he prepared fake documents to live in India. In 2012, a case was registered against the accused under the Foreigners Act at Brahmapuri police station in Meerut. Now, a new case has been registered against him in Bulandshahr under BNS sections 318(4), 338, 336(3), 340(2). SP City said - the entire network will be investigated SP City Abhishek Pratap stated that the accused had been living with a fake identity for a long time. The recovered documents were verified by various departments. The role of other people in the case is also being investigated. It is suspected that the youth might also be connected to a sleeper cell of a terrorist organization. This is also being investigated.",
+      "summary": "A Pakistani man who had been living in Uttar Pradesh for nearly 40 years has been arrested in Bulandshahr. Police recovered a fake Aadhaar card and a driving licence from him. He had been changing his name and living in different cities of western UP. Police suspect he could be linked to a sleeper cell. SP City Abhishek Pratap Ajeya said the man was arrested on Friday evening. On his Aadhaar card, his name was written as Syed Wasit Ali, son of Syed Laiq Ahmed, with an address in Sushila Vihar, Bulandshahr. Found to be the resident of Karachi However, during investigation, police found that his real identity was different. His passport showed his name as Basid Irshad, 55, son of Irshad Ahmed, a resident of New Karachi in Pakistan. Police also said he had been arrested earlier in Meerut in 2012 for staying illegally in India by hiding his identity. Officials are now trying to find out why he was not deported at that time and how he managed to reach Bulandshahr again. Police have contacted Meerut officials for more details. Information was received from an informant The SP said- We had received information that a young man was living in a rented house for several years by changing his identity. He was planning to commit a crime. After this, checking was started at the police station on Thursday evening. During this, the accused was caught. The accused said- Mother had received a long-term visa During interrogation, the accused claimed that his mother Bilkis Fatima had come to India from Pakistan with her children. She had remarried in the Gulawathi area of Bulandshahr. She had received a long-term visa. The accused had also applied for a long-term visa, but it remained pending. After this, he prepared fake documents to live in India. In 2012, a case was registered against the accused under the Foreigners Act at Brahmapuri police station in Meerut. Now, a new case has been registered against him in Bulandshahr under BNS sections 318(4), 338, 336(3), 340(2). SP City said - the entire network will be investigated SP City Abhishek Pratap stated that the accused had been living with a fake identity for a long time. The recovered documents were verified by various departments. The role of other people in the case is also being investigated. It is suspected that the youth might also be connected to a sleeper cell of a terrorist organization. This is also being investigated.",
       "date": "2026-04-24",
       "timestamp": "Fri, 24 Apr 2026 09:18:09 +0000",
       "section": "UP_Focus",
@@ -72344,6 +72734,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "5fad55e8aebf494a7a02add5c416e03a",
+      "title": "In pictures: North India braces for heatwaves as temperatures cross 40C",
+      "link": "https://www.bbc.com/news/articles/cvg0666d0xjo?at_medium=RSS&at_campaign=rss",
+      "summary": "India's weather department has issued heatwave warnings in parts of northern India.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 09:07:16 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -72673,9 +73076,9 @@
     },
     {
       "id": "cbc1636c0f3e509ed5d9b1ed9a518ecf",
-      "title": "Cricketer Abhishek Sharma visits Govind Dev Ji temple in Jaipur:SRH batter offers prayers with his mother ahead of match against RR",
+      "title": "Cricketer Abhishek Sharma objects to fans taking selfies in Jaipur:SRH batter says, 'turn off the mobile phone' while visiting Govind Dev Ji temple ahead of IPL match",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/srh-batter-abhishek-sharma-visits-jaipur-temple-ipl-137774320.html",
-      "summary": "Today, before the IPL match in Jaipur, Indian cricketer Abhishek Sharma arrived at Govind Dev Ji Temple with his mother. He had darshan at the temple and performed puja-archana. Abhishek Sharma worshipped at the temple threshold and participated in the aarti to receive the blessings of Govind Dev Ji. PHOTOS of the cricketer at Govind Dev Ji Temple Abhishek is in Jaipur for the match against Rajasthan Royals Abhishek Sharma is currently in Jaipur for an IPL match. He arrived in Jaipur on April 22 with his mother. Abhishek Sharma is present here with the Sunrisers Hyderabad team. The team's match will be played against Rajasthan Royals at Sawai Mansingh Stadium on April 25. During his Jaipur visit, he took religious darshan and received blessings before the match.",
+      "summary": "Before the IPL match in Jaipur, Sunrisers Hyderabad player Abhishek Sharma visited Govind Dev Ji Temple with his mother. Even though he was wearing a white mask, fans recognized him and began taking photos and videos. During this, he stopped one fan and asked them to turn off the camera. A crowd gathered around him inside the temple premises, making him seem slightly uncomfortable. However, at the insistence of some fans, he agreed to take selfies. Earlier, he had sat at the temple entrance with his mother to offer prayers and attend the aarti. Later, he was seen helping his mother through the crowd while leaving. Abhishek Sharma’s team Sunrisers Hyderabad is set to face Rajasthan Royals on April 25 at Sawai Mansingh Stadium. He had arrived in Jaipur with his mother on April 22 for the match. PHOTOS of the cricketer at Govind Dev Ji Temple Abhishek told a fan, ‘Turn off the mobile phone’ Fans became excited after spotting Abhishek Sharma at the temple. Although he was wearing a white mask, fans recognized him. Many then tried to take selfies with him, but security personnel stopped them. Fans began taking selfies and making videos from a distance, after which Abhishek intervened and asked them to stop. Looked uncomfortable in the crowd, fans still took selfies Abhishek Sharma appeared uneasy amid the crowd inside the temple premises. He completed the circumambulation (parikrama) of Govind Dev Ji Temple while surrounded by devotees. Earlier, he and his mother were welcomed by members of the temple committee. Priests conducted the prayer rituals through him, and he was also presented with a symbolic memento of Govind Dev Ji. Abhishek is in Jaipur for the match against Rajasthan Royals Abhishek Sharma is currently in Jaipur for an IPL match. He arrived in Jaipur on April 22 with his mother. Abhishek Sharma is present here with the Sunrisers Hyderabad team. The team's match will be played against Rajasthan Royals at Sawai Mansingh Stadium on April 25. During his Jaipur visit, he took religious darshan and received blessings before the match.",
       "date": "2026-04-24",
       "timestamp": "Fri, 24 Apr 2026 07:33:32 +0000",
       "section": "UP_Focus",
@@ -72738,9 +73141,9 @@
     },
     {
       "id": "ff978533601cd1e1356d0e15f230e89f",
-      "title": "UP News Live: रायबरेली में बच्ची की जलकर मौत, यूपी में भीषण गर्मी का अलर्ट",
+      "title": "UP News Live: योगी ने उत्तर क्षेत्रीय कृषि सम्मेलन का किया शुभारंभ, कम लोड वाले बिजली उपभोक्ताओं को बड़ी राहत",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-news-live-weather-crime-politics-cm-yogi-adityanath-bjp-ganga-expressway-akhilesh-yadav-latest-updates-24-april-live-blog-201776994899973.html",
-      "summary": "UP News Live: एटीएस के हत्थे चढ़े आतंकियों से खुलासा हुआ है कि सलीम वास्तिक और दूसरे एक्स-मुस्लिम की हत्या की साजिश रची गई थी। वहीं, मौसम विभाग ने यूपी में भीषण गर्मी का अलर्ट जारी किया है। कई शहरों में पारा 42 डिग्री के पार हो गया है।",
+      "summary": "UP News Live: मुख्यमंत्री योगी आदित्यनाथ ने शुक्रवार को लखनऊ में आयोजित उत्तर क्षेत्रीय कृषि सम्मेलन का शुभारंभ किया। उधर, कम लोड वाले बिजली उपभोक्ताओं को बड़ी राहत मिली है।",
       "date": "2026-04-24",
       "timestamp": "Fri, 24 Apr 2026 07:22:02 +0530",
       "section": "UP_Focus",
@@ -72766,7 +73169,7 @@
       "id": "9851747392fc0ea09193f1cd01cd610e",
       "title": "Gorakhpur club owner’s son shoots himself, dies:40-year-old reaches farmhouse, makes call before taking his own life",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/gorakhpur-club-owner-son-suicide-farmhouse-kusmhi-forest-137774278.html",
-      "summary": "A 40-year-old man allegedly died by suicide on Friday morning after shooting himself at a farmhouse in the Kusmhi forest area. The deceased has been identified as Ambrish Srivastava, son of Gorakhpur Club operator Atul Srivastava. According to initial reports, Ambrish reached the three-storey farmhouse around 10:00 am in a Fortuner SUV. While speaking to someone on his mobile phone, he went to the upper floor. Shortly after, a gunshot was heard. Body found by staff, pistol recovered Farmhouse staff rushed to the spot and found Ambrish lying in a pool of blood. He had sustained a gunshot injury to the face, and a pistol was found in his hand. He was declared dead at the scene. The reason behind the suicide is not yet known. Police and forensic teams investigating Senior Superintendent of Police Dr. Kaustubh reached the spot soon after receiving information. Police have begun questioning staff members, while a forensic team is collecting evidence from the scene. Business background and family details Ambrish lived on Park Road in Gorakhpur and was involved in the tent house business, along with contract work. His company, AK Tent House, was known for providing arrangements at major political and VVIP events. His farmhouse in Kusmhi is located around 10 km from his residence and includes a warehouse on the third floor. Recent public role and family Ambrish was recently elected as the General Secretary of the Shri Chitragupt Temple Sabha. Chief Minister Yogi Adityanath had attended the oath-taking ceremony of the newly elected office bearers. He is survived by his two young sons, aged 8 and 10. His younger brother Ranu is also a businessman. His father, Atul Srivastava, has previously served as the president of the same temple committee.",
+      "summary": "In Gorakhpur, Ambarish (40), son of billionaire businessman and Gorakhpur Club operator Atul Srivastava, died by suicide. On Friday, he shot himself in the mouth with his licensed pistol and died on the spot. Ambarish reached his farmhouse alone in his Fortuner at around 8 am on Friday. He was speaking to someone on his mobile when he went upstairs. Between 8:30 am and 9 am, he shot himself. Hearing the gunshot, the farmhouse staff rushed upstairs and found his body lying in a pool of blood. However, the family claims that Ambarish was cleaning his pistol when it accidentally went off. Body found by staff, pistol recovered Farmhouse staff rushed to the spot and found Ambrish lying in a pool of blood. He had sustained a gunshot injury to the face, and a pistol was found in his hand. He was declared dead at the scene. The reason behind the suicide is not yet known. Police and forensic teams investigating Senior Superintendent of Police Dr. Kaustubh reached the spot soon after receiving information. Police have begun questioning staff members, while a forensic team is collecting evidence from the scene. Business background and family details Ambrish lived on Park Road in Gorakhpur and was involved in the tent house business, along with contract work. His company, AK Tent House, was known for providing arrangements at major political and VVIP events. His farmhouse in Kusmhi is located around 10 km from his residence and includes a warehouse on the third floor. Recent public role and family Ambrish was recently elected as the General Secretary of the Shri Chitragupt Temple Sabha. Chief Minister Yogi Adityanath had attended the oath-taking ceremony of the newly elected office bearers. He is survived by his two young sons, aged 8 and 10. His younger brother Ranu is also a businessman. His father, Atul Srivastava, has previously served as the president of the same temple committee.",
       "date": "2026-04-24",
       "timestamp": "Fri, 24 Apr 2026 07:20:44 +0000",
       "section": "UP_Focus",
@@ -73374,6 +73777,19 @@
       "lang": "en"
     },
     {
+      "id": "4508df31c3e114289ccbd17ce2063d91",
+      "title": "ग्रेटर नोएडा: फर्जी रजिस्ट्री से 3.03 करोड़ की ठगी करने वाले शातिर गिरोह का पर्दाफाश, तीन ठग दबोचे; सरगना फरार",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/gang-involved-in-multi-crore-land-fraud-through-fake-registries-busted-in-greater-noida-2026-04-24",
+      "summary": "फर्जी रजिस्ट्री कर करोड़ों रुपये की ठगी करने वाले एक बड़े और शातिर गिरोह का पर्दाफाश किया है।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 04:29:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "403b33eab506f279675bcfb7fea66027",
       "title": "‘No difference between Kauravas and Congress members’: M.P. CM on women’s reservation row",
       "link": "https://www.thehindu.com/news/national/madhya-pradesh/no-difference-between-kauravas-and-congress-members-mp-cm-on-womens-reservation-row/article70898198.ece",
@@ -73400,6 +73816,45 @@
       "lang": "en"
     },
     {
+      "id": "40d9232fed3a68fd5697982371c1ab07",
+      "title": "Gadgets: एयरपोर्ट पर कौस-से गैजेट्स सबसे ज्यादा भूलते हैं लोग? रिपोर्ट में सामने आई चौंकाने वाली लिस्ट",
+      "link": "https://www.amarujala.com/technology/tech-diary/the-found-report-2026-mobile-phones-top-list-most-lost-gadgets-during-air-travel-2026-04-24",
+      "summary": "Unclaimed Baggage Found Report 2026: सफर के दौरान सामान खो जाना लोगों की सबसे बड़ी समस्या रहती है। खासकर हवाई यात्रा के दौरान चेक-इन बैगेज में रखें इलेक्ट्रॉनिक्स के खोने का जोखिम ज्यादा होता है।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 04:24:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a53657eec681ab48587461a7fec02317",
+      "title": "Karnataka: CET परीक्षा देने जा रहे छात्रों का उरतवाया गया जनेऊ और कलावा, BJP ने कांग्रेस को बताया हिंदू विरोधी",
+      "link": "https://www.amarujala.com/india-news/karnataka-brahmin-students-appearing-for-cet-exam-remove-sacred-threads-bjp-labels-congress-as-anti-hindu-2026-04-24",
+      "summary": "Karnataka: CET परीक्षा देने जा रहे ब्राह्मण छात्रों का उरतवाया गया जनेऊ, BJP ने कांग्रेस को बताया हिंदू विरोधी",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 04:23:56 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "6ccafb34191976b3f21ad81ec02751a2",
+      "title": "CEC Gyanesh Kr Removal: कांग्रेस समेत विपक्ष के 73 सांसदों ने दिया नोटिस, सीईसी ज्ञानेश कुमार को हटाने की मांग",
+      "link": "https://www.amarujala.com/india-news/cec-removal-73-opposition-mps-including-congress-have-given-notice-demanding-removal-of-cec-gyanesh-kumar-2026-04-24",
+      "summary": "CEC Removal: 73 opposition MPs, including Congress, have given notice demanding removal of CEC Gyanesh Kumar - CEC Gyanesh Kr Removal: कांग्रेस समेत विपक्ष के 73 सांसदों ने दिया नोटिस, सीईसी ज्ञानेश कुमार को हटाने की मांग",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 04:23:23 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "df6a0d48d936451d9e3743ad7845b44b",
       "title": "What Telangana’s survey shows about caste inequality",
       "link": "https://www.thehindu.com/news/national/what-telanganas-survey-shows-about-caste-inequality/article70897704.ece",
@@ -73410,6 +73865,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d6cd9d87e0837e28bec2c4f87ce00d67",
+      "title": "Mirzapur Accident: प्रियंका-कार्तिकेय को खींच लाई मौत...12 लोगों ने गंवाई जान, चंद सेकंड में सब खत्म; तस्वीरें",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/varanasi/mirzapur-accident-death-claims-priyanka-and-kartikeya-12-lives-lost-everything-over-in-seconds-2026-04-24",
+      "summary": "ड्रमंडगंज थाना क्षेत्र के बड़का घुमान भैसोड़ बलाय पहाड़ के पास बुधवार की देर रात हुई सड़क दुर्घटना में गंभीर रूप से घायल ट्रक चालक अजीज खान (29) की भी बृहस्पतिवार की सुबह मंडलीय अस्पताल में मौत हो गई।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 04:20:01 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -73439,6 +73907,19 @@
       "lang": "hi"
     },
     {
+      "id": "ac093c6bee35ecd76f224fc00efb41b7",
+      "title": "UP: संस्कृत शिक्षा परिषद रिजल्ट जारी, 10वीं में कन्नौज की सृष्टि टॉपर; पास प्रतिशत 2.79% बढ़ा",
+      "link": "https://www.amarujala.com/lucknow/up-sanskrit-education-council-results-released-srishti-from-kannauj-tops-class-10-pass-percentage-rises-by-2026-04-24",
+      "summary": "उत्तर प्रदेश माध्यमिक संस्कृत शिक्षा परिषद का परीक्षा परिणाम घोषित हुआ। दसवीं में कन्नौज की सृष्टि ने प्रथम स्थान हासिल किया। प्रतापगढ़ की खुशबू दूसरे स्थान पर रहीं। इस वर्ष उत्तीर्ण प्रतिशत पिछली बार से बढ़ा है।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 04:12:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "b9de866a79900227e7715054abb7ac29",
       "title": "2 terror suspects linked to Pakistani gangsters arrested:Accused plotted target killings for ₹3 lakh",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-terrorists-arrested-noida-pakistani-gangsters-plot-grenade-attack-137773419.html",
@@ -73450,6 +73931,71 @@
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "a7fc74f19e28316601e3880eefc68e55",
+      "title": "राघव चड्ढा ने गिनाए सात नाम: पूर्व क्रिकेटर हरभजन, DCW प्रमुख रहीं स्वाति समेत कई चर्चित हस्तियां, सबको जानिए",
+      "link": "https://www.amarujala.com/india-news/aap-resignation-raghav-chadha-harbhajan-ashok-mittal-sandeep-pathak-swati-maliwal-rajinder-gupta-vikram-sahney-2026-04-24",
+      "summary": "राघव चड्ढा ने गिनाए सात नाम: पूर्व क्रिकेटर हरभजन, DCW प्रमुख रहीं स्वाति समेत कई चर्चित हस्तियां, सबको जानिए AAP Resignation Raghav Chadha Harbhajan Ashok Mittal Sandeep Pathak Swati Maliwal Rajinder Gupta Vikram Sahney",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 04:02:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a7f6e327ea32c73eb262cbd012e2a5d0",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 24 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-24",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 04:01:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "df050e4c8094f8b36cc57bd389bdc13b",
+      "title": "UP: पूर्व मंत्री स्वामी प्रसाद मौर्य ने प्रदेश की कानून व्यवस्था पर उठाए सवाल, बोले- यूपी में जंगलराज",
+      "link": "https://www.amarujala.com/lucknow/up-former-minister-swami-prasad-maurya-raised-questions-on-the-law-and-order-situation-in-the-state-2026-04-24",
+      "summary": "राष्ट्रीय शोषित समाज पार्टी के अध्यक्ष और पूर्व मंत्री स्वामी प्रसाद मौर्य ने प्रदेश की कानून व्यवस्था पर सवाल उठाते हुए कहा कि प्रदेश में जंगलराज चल रह रहा है। अपराधियों पर जाति देखकर कार्रवाई होती है।",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 03:50:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "9527a735bbfcba79d00cd98455ea3d82",
+      "title": "PM Modi: 'पहले चरण के मतदान ने सत्ताधारी दल की नींदे उड़ाई', आरजी कर मामले पर पीएम बोले- दोषियों को मिलेगी सजा",
+      "link": "https://www.amarujala.com/india-news/pm-modi-bengal-rally-rg-kar-murder-case-bjp-swapna-debnath-bjp-panihati-assembly-election-voting-phase-1-2026-04-24",
+      "summary": "PM Modi: 'पहले चरण के मतदान ने सत्ताधारी दल की नींदे उड़ाई', आरजी कर मामले पर पीएम बोले- दोषियों को मिलेगी सजा",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 03:45:29 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "135517f5cd5fbf6c2b777c75d5dc3e37",
+      "title": "ED: जाली दस्तावेजों से 20 करोड़ की कमाई, लैब रिपोर्ट भी फर्जी; मिलावटी उत्पाद निर्यात कर रही कंपनी पर शिकंजा",
+      "link": "https://www.amarujala.com/india-news/ed-probe-reveals-20-crore-earning-through-forged-documents-fake-lab-reports-adulterated-items-export-case-2026-04-24",
+      "summary": "ED: जाली दस्तावेजों से 20 करोड़ की कमाई, लैब रिपोर्ट भी फर्जी; मिलावटी उत्पाद निर्यात कर रही कंपनी पर शिकंजा",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 03:37:00 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "1b4e965e86161ec65e362c7e8f8ad477",
@@ -73478,6 +74024,19 @@
       "lang": "hi"
     },
     {
+      "id": "50cb03550e7bf11801d77fb47bc6c2f2",
+      "title": "Petroleum Ministry: 'व्यावसायिक LPG की आपूर्ति लगभग 70% तक बहाल', कल बेचे गए पांच किलो के 81 हजार सिलिंडर",
+      "link": "https://www.amarujala.com/india-news/west-asia-crisis-inter-ministerial-briefing-on-recent-development-in-west-asia-lpg-import-and-production-2026-04-24",
+      "summary": "West Asia Crisis: Inter-Ministerial Briefing on Recent Development in West Asia, LPG Import and Production - Petroleum Ministry: 'व्यावसायिक LPG की आपूर्ति लगभग 70% तक बहाल',",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 03:25:39 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "374c88525e9bfcb81c4c489cda1bc96d",
       "title": "Noida Protest: हिमांशु की डायरी में मिला नोएडा हिंसा का ब्लू प्रिंट, कॉलेज के छात्रों का करता था ब्रेनवॉश",
       "link": "https://www.amarujala.com/delhi-ncr/noida-protest-blueprint-of-noida-violence-found-in-himanshu-s-diary-2026-04-24",
@@ -73489,6 +74048,19 @@
       "source": "Amar Ujala",
       "district": "Noida",
       "lang": "en"
+    },
+    {
+      "id": "8954d411fc7b4545f37cb44865a17355",
+      "title": "West Bengal: 'वे झालमुड़ी का वादा कर रहे हैं, मैं भेलपुरी खिलाऊंगी', ममता बनर्जी का भाजपा पर तीखा हमला",
+      "link": "https://www.amarujala.com/india-news/west-bengal-cm-mamata-banerjee-slam-bjp-said-will-serve-bhelpuri-not-jhalmuri-after-win-2026-04-24",
+      "summary": "West Bengal: 'वे झालमुड़ी का वादा कर रहे हैं, मैं भेलपुरी खिलाऊंगी', ममता बनर्जी का प्रधानमंत्री और भाजपा पर तंज west bengal cm mamata banerjee slam bjp said will serve bhelpuri not jhalmuri after win",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 03:19:09 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "4c1277c3c00ba5e19b3add28b2c785c7",
@@ -73856,7 +74428,7 @@
     },
     {
       "id": "3fca970c269e002036a2ed67cb3673f6",
-      "title": "Samajwadi Party 300 units free electricity plan under scrutiny:Annual cost could reach ₹82,000 crore, exceeding combined allocations of UP’s top 10 govt dept",
+      "title": "Samajwadi Party's 300 units free electricity plan under scrutiny:Annual cost could reach ₹82,000 crore, exceeding combined allocations of UP’s top 10 govt depts",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-sp-300-unit-free-electricity-scheme-cost-rs82000cr-137773184.html",
       "summary": "Electricity has become a major political flashpoint in Uttar Pradesh. While the government appears on the back foot over the smart meter issue, Samajwadi Party (SP) chief Akhilesh Yadav has announced that his party will provide 300 units of free electricity if it comes to power. If implemented, the scheme—along with existing electricity subsidies—could place an estimated burden of around ₹82,000 crore annually on the state exchequer. This amount exceeds the combined annual budgets of the state’s top 10 departments. Understanding the cost calculations In Uttar Pradesh, electricity consumption between 150 and 300 units is billed at around ₹6.5 per unit. Including meter charges, fixed charges, fuel adjustment charges, and taxes, the effective cost rises to approximately ₹8.5 per unit. According to Uttar Pradesh Power Corporation data, the state currently has around 3.5 crore domestic electricity connections. Of these, nearly 70%—about 2.45 crore consumers—use an average of 300 units per month. Providing 300 units of free electricity to these consumers would cost the state approximately ₹6,240 crore per month, pushing the annual burden to around ₹75,000 crore. The Uttar Pradesh government had presented a budget of about ₹9.13 lakh crore for 2026–27. Of this, ₹6,823 crore was allocated for schemes such as providing 140 units of free electricity to farmers and subsidies for weavers. Combining existing schemes with the proposed free electricity plan for households would take the total expenditure beyond ₹82,000 crore—more than the annual budget of even the power department, which received around ₹66,000 crore this year. Policy concerns: NEP-2026 recommends phasing out free power The trend of free electricity began with the Aam Aadmi Party (AAP) during the 2015 Delhi Assembly elections, when it promised 200 units of free power and later implemented it. The scheme continues even after a change in government. Since then, several states have introduced similar schemes. Currently, Karnataka offers 200 units free, Bihar 125 units, and Jharkhand 200 units. Rajasthan provides 150 units free for households with solar panel installations. Additionally, states like Andhra Pradesh, Uttar Pradesh, Madhya Pradesh, Telangana, West Bengal, Chhattisgarh, and Jammu Kashmir run subsidy or waiver schemes for farmers, weavers, and low-income households. However, the draft of the National Electricity Policy-2026 (NEP-2026), released by the Power Ministry in January 2026, recommends gradually phasing out free electricity schemes. Samajwadi Party’s stand: Government will bear the cost Former Uttar Pradesh Chief Secretary and Samajwadi Party strategist Alok Ranjan stated that free electricity schemes are already operational in several states, including Punjab, which provides 300 units free. He said that in Uttar Pradesh, the burden of such a scheme would not fall on power companies but on the government, which would compensate them through subsidies. With the state budget exceeding ₹9 lakh crore, he argued that the expenditure could be managed. BJP’s response: Wait for the manifesto BJP spokesperson Avneesh Tyagi said the party has already fulfilled its promises of providing electricity and free utilities to farmers. He added that earlier, electricity supply was limited to only a few districts. Regarding the 2027 Assembly elections, he said there is still time, and any concessions would be detailed in the party’s manifesto based on public needs. Why electricity has become a political issue in UP Around 10 to 12 states across India currently offer some form of free electricity or subsidies. With Assembly elections due in Uttar Pradesh in about eight months, electricity has emerged as a key electoral issue. Public anger has been growing over electricity privatization and the rollout of smart prepaid meters. In an election year, even BJP MLAs and councillors have joined public protests. Responding to the backlash, Chief Minister Yogi Adityanath has formed a committee to investigate technical flaws in smart meters, with a report expected within 10 days. Until then, the replacement of old meters with smart meters has been halted, although new connections continue to receive smart prepaid meters. Amid this backdrop, Akhilesh Yadav’s promise of 300 units of free electricity has further intensified the political battle over power in the state.",
       "date": "2026-04-24",
@@ -73866,6 +74438,19 @@
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "b404d84a4c542f73a19b1b3685e56965",
+      "title": "मुंबई में भाजपा की रैली में बवाल: जाम से नाराज महिला ने मंत्री के साथ की बहस, अपशब्द के आरोपों पर शिकायत दर्ज",
+      "link": "https://www.amarujala.com/india-news/complaint-filed-against-woman-who-confronted-bjp-minister-over-traffic-jam-during-mumbai-rally-2026-04-24",
+      "summary": "मुंबई में भाजपा की रैली में बवाल: जाम से नाराज महिला ने मंत्री के साथ की बहस, अपशब्द के आरोपों पर शिकायत दर्ज, Complaint filed against woman who confronted BJP minister over traffic jam during Mumbai rally",
+      "date": "2026-04-24",
+      "timestamp": "Fri, 24 Apr 2026 02:53:50 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "e03cfe7cc6166bca206ab3e3af6706cf",
@@ -74051,7 +74636,7 @@
     },
     {
       "id": "ea490a3c397cd174b01e4773941c0ee6",
-      "title": "Supreme Court: 'कोई अदालत नाबालिग को गर्भावस्था के लिए मजबूर नहीं कर सकती', सुप्रीम कोर्ट का बड़ा फैसला",
+      "title": "Supreme Court: 'कोई अदालत नाबालिग को गर्भावस्था बनाए रखने के लिए मजबूर नहीं कर सकती', सुप्रीम कोर्ट का फैसला",
       "link": "https://www.amarujala.com/india-news/supreme-court-said-no-court-can-force-minor-to-carry-pregnancy-against-her-will-2026-04-24",
       "summary": "Supreme Court: 'कोई अदालत नाबालिग को गर्भावस्था के लिए मजबूर नहीं कर सकती', सुप्रीम कोर्ट का बड़ा फैसला supreme court said No court can force minor to carry pregnancy against her will",
       "date": "2026-04-24",
@@ -74131,7 +74716,7 @@
       "id": "754a87b3bb983460658dd57659ee3afa",
       "title": "TMC: बंपर मतदान के दावे पर डेरेक ब्रायन का पलटवार, कहा- 2026 और 2021 के पहले चरण में पड़े मतों में मामूली अंतर",
       "link": "https://www.amarujala.com/india-news/derek-bryan-counters-claims-there-s-only-a-slight-difference-between-the-2026-and-2021-first-phase-votes-2026-04-24",
-      "summary": "Derek Bryan counters claims there's only a slight difference between the 2026 and 2021 first phase votes.",
+      "summary": "Derek Bryan counters claims there's only a slight difference between the 2026 and 2021 first phase votes. TMC: बंपर मतदान के दावे पर डेरेक ब्रायन का पलटवार, कहा- 2026 और 2021 के पहले चरण में पड़े मतों में मामूली अंतर",
       "date": "2026-04-24",
       "timestamp": "Fri, 24 Apr 2026 02:42:31 +0530",
       "section": "National",
@@ -74271,19 +74856,6 @@
       "lang": "en"
     },
     {
-      "id": "a7f6e327ea32c73eb262cbd012e2a5d0",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 24 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-24",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-24",
-      "timestamp": "Fri, 24 Apr 2026 02:30:36 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "50c319ac6615dd341635ff1f558b411d",
       "title": "पढ़ें 24 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-24",
@@ -74415,9 +74987,9 @@
     },
     {
       "id": "e1d0f1f06d15f96e80091654a04c3978",
-      "title": "PM Modi Boat Ride: 'सिर्फ पांच मिनट पहले पता चला कि पीएम मोदी आ रहे हैं', नाव चालक ने नौका सैर का बताया अनुभव",
+      "title": "'पांच मिनट पहले पता चला कि पीएम मोदी आ रहे हैं': बोट मालिक को PM ने क्या दिया संदेश? जानें कैसे बुक की गई नाव",
       "link": "https://www.amarujala.com/india-news/pm-modi-takes-special-boat-ride-in-hooghly-river-around-howrah-bridge-boat-owner-shares-details-2026-04-24",
-      "summary": "PM Modi takes special boat ride in Hooghly river around Howrah bridge, boat owner shares details - PM Modi Boat Ride: 'सिर्फ पांच मिनट पहले पता चला कि पीएम मोदी आ रहे हैं', नाव चालक ने नौका सैर का बताया अनुभव",
+      "summary": "PM Modi takes special boat ride in Hooghly river around Howrah bridge, boat owner shares details - 'पांच मिनट पहले पता चला कि पीएम मोदी आ रहे हैं': बोट मालिक को PM ने क्या दिया संदेश? जानें कैसे बुक की गई नाव",
       "date": "2026-04-24",
       "timestamp": "Fri, 24 Apr 2026 02:26:23 +0530",
       "section": "National",
@@ -88428,6 +89000,97 @@
       "lang": "en"
     },
     {
+      "id": "aa8d624d69c21ce20ca524f027c60d9a",
+      "title": "Women shine in the 21K in the 30–39 age category with balance and consistency",
+      "link": "https://timesofindia.indiatimes.com/india/women-shine-in-the-21k-in-the-3039-age-category-with-balance-and-consistency/articleshow/130490892.cms",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T16:01:06+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c3702c2d7829315c66f4ae45ee822fbc",
+      "title": "Raghav Chadha leads exodus to BJP as seven MPs quit AAP - Who are these leaders",
+      "link": "https://timesofindia.indiatimes.com/india/raghav-chadha-leads-exodus-to-bjp-as-seven-mps-quit-aap-who-are-these-leaders/articleshow/130490949.cms",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T15:59:22+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e5f27f4274921b711521d01e966b64a8",
+      "title": "‘Australians are becoming an endangered species’: Elon Musk highlights population concerns amid falling birth rates",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/australians-are-becoming-an-endangered-species-elon-musk-highlights-population-concerns-amid-falling-birth-rates/articleshow/130490597.cms",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T15:47:29+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e25a755d202e409c0c645e8d956dced6",
+      "title": "Raghav Chadha, 6 other Rajya Sabha MPs resign from Aam Aadmi Party, join BJP",
+      "link": "https://timesofindia.indiatimes.com/india/raghav-chadha-resigns-from-aam-aadmi-party/articleshow/130490526.cms",
+      "summary": "Rajya Sabha MP Raghav Chadha has resigned from the Aam Aadmi Party, citing a deviation from its core principles and a focus on personal gain. He announced his departure alongside two other Rajya Sabha MPs, Sandeep Pathak and Ashok Mittal, who are joining the Bharatiya Janata Party. Chadha stated he felt like the 'right man in the wrong party'.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T15:38:12+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bab32ae67ca6f06c1cfb5c78c63df4c3",
+      "title": "Fresh bid to impeach CEC Gyanesh Kumar: Opposition submits new notice signed by 73 MPs in Rajya Sabha",
+      "link": "https://timesofindia.indiatimes.com/india/fresh-bid-to-impeach-cec-gyanesh-kumar-opposition-submits-new-notice-signed-by-73-mps-in-rajya-sabha/articleshow/130490067.cms",
+      "summary": "Opposition parties have submitted a fresh notice in Rajya Sabha seeking the removal of Chief Election Commissioner Gyanesh Kumar, backed by 73 MPs. This follows earlier rejected impeachment notices, with accusations of 'partial conduct' favoring the ruling BJP, particularly concerning electoral roll revisions. The move occurs amidst political tensions surrounding West Bengal's assembly elections.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T15:27:44+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e210f99947ff5e06c9c3fab8894384b4",
+      "title": "Samrat Choudhary government wins trust vote in Bihar assembly",
+      "link": "https://timesofindia.indiatimes.com/india/bihar-trust-vote-samrat-choudhary-government-secures-confidence-amidst-political-shift/articleshow/130489172.cms",
+      "summary": "",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T14:44:11+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "719e2cd12daf584687716c9559d70473",
+      "title": "‘Crushed temple of democracy’: PM Modi slams Bengal govt, warns TMC ‘goons’ they have ‘no place to hide after May 4’",
+      "link": "https://timesofindia.indiatimes.com/india/crushed-temple-of-democracy-pm-modi-slams-bengal-govt-warns-tmc-goons-they-have-no-place-to-hide-after-may-4/articleshow/130488548.cms",
+      "summary": "Prime Minister Narendra Modi claimed the \"wave of change\" in West Bengal is evident after the first phase of polling, signaling a BJP victory. He alleged the TMC has \"crushed the temple of democracy\" and urged voters to reconstruct it, while also criticizing the party over women's safety.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T14:41:35+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "89a22e8110ec9321389ac2c7b47d6ce7",
       "title": "Cool biz: Why Tokyo workers are ditching suits for shorts?",
       "link": "https://timesofindia.indiatimes.com/business/international-business/cool-biz-why-tokyo-workers-are-ditching-suits-for-shorts/articleshow/130488499.cms",
@@ -88450,6 +89113,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1d7bb283cb676e9dbb48c569eb962240",
+      "title": "Jake Paul reacts to Marlon and Jutta Leerdam controversy, calls out Twitch streamer",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/jake-paul-reacts-to-marlon-and-jutta-leerdam-controversy-calls-out-twitch-streamer/articleshow/130488070.cms",
+      "summary": "A social media spat has erupted between Twitch streamer Marlon Lundgren Garcia and boxing star Jake Paul. The dispute began when Garcia livestreamed from a football tournament where Jake Paul's fiancée, Jutta Leerdam, was competing. Leerdam expressed frustration with excessive vlogging. Paul responded, defending his fiancée's content creation. Garcia then fired back, questioning Paul's relevance and ego.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T14:02:53+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
@@ -88489,6 +89165,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "df142f6f1d98359ab23331e2fdb60e85",
+      "title": "Who is Lorrayne Mavromatis? Lawsuit against MrBeast’s company explained",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-lorrayne-mavromatis-lawsuit-against-mrbeasts-company-explained/articleshow/130487674.cms",
+      "summary": "A former executive at MrBeast's media company has filed a federal lawsuit alleging sexual harassment, gender bias, and wrongful termination. Lorrayne Mavromatis claims the company's then-CEO made inappropriate comments and that her complaints were dismissed, leading to her demotion and eventual firing after pregnancy leave. Beast Industries denies the allegations, stating they have evidence to refute the claims.",
+      "date": "2026-04-24",
+      "timestamp": "2026-04-24T13:32:24+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
