@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T09:46:04.809942+00:00",
+  "generated_at": "2026-04-25T10:38:49.510765+00:00",
   "stories": [
     {
       "id": "3c7247c42dcaf126b3bca698a197b4f2",
@@ -45814,14 +45814,274 @@
       "lang": "en"
     },
     {
-      "id": "81928d4f647fee9d34f17d604d61a289",
-      "title": "Assembly Elections 2026 LIVE: We'll hit century in Assam, double century in West Bengal, says CM Himanta after Phase 1 of polling",
-      "link": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-25-2026-tamil-nadu-kerala-puducherry-assam-west-bengal/article70904339.ece",
-      "summary": "No repoll ordered in Tamil Nadu, West Bengal says ECI officials",
+      "id": "4c72d040851e10332bbd92977ecb2b90",
+      "title": "Vilambaram ritual opens up Thrissur Pooram under the shadow of fireworks tragedy",
+      "link": "https://www.thehindu.com/news/national/kerala/vilambaram-ritual-opens-up-thrissur-pooram-under-the-shadow-of-fireworks-tragedy/article70904959.ece",
+      "summary": "The Vilambaram ritual began in the morning with the ceremonial procession from Neythalakkavu Bhagavathy Temple",
       "date": "2026-04-25",
-      "timestamp": "Sat, 25 Apr 2026 15:12:30 +0530",
+      "timestamp": "Sat, 25 Apr 2026 16:03:09 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c1e2775ea92c84959b2b36d4f8b87fb4",
+      "title": "Inter-State drug syndicate busted in Delhi, 3 traffickers arrested",
+      "link": "https://www.thehindu.com/news/cities/Delhi/inter-state-drug-syndicate-busted-in-delhi-3-traffickers-arrested/article70905094.ece",
+      "summary": "All the arrested accused functioned as suppliers, with two based in Uttar Pradesh's Shahjahanpur and another in Delhi",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:59:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "01bf9ee16ba19d492d0ec94a95f2ae9c",
+      "title": "Newly appointed Niti Aayog vice chairman meets PM Modi",
+      "link": "https://www.thehindu.com/news/national/newly-appointed-niti-aayog-vice-chairman-meets-pm-modi/article70905065.ece",
+      "summary": "Ashok Lahiri is amongst India's most experienced and senior economists with a career over four decades",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:58:07 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a1638038980370a91becfc9e576f04ed",
+      "title": "Election Commission completes post-poll scrutiny in Tamil Nadu, West Bengal; no re-polls ordered",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/election-commission-completes-post-poll-scrutiny-in-tamil-nadu-west-bengal-no-re-polls-ordered/article70905069.ece",
+      "summary": "The verification exercise was conducted on April 24 across all 152 Assembly constituencies in West Bengal and 234 constituencies in Tamil Nadu, in the presence of general observers and candidates or their representatives",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:57:44 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a4809523244ae2a42d327e5ab589e9d2",
+      "title": "पुतला फूंकते समय आग की चपेट में आई बहराइच बीजेपी विधायक अनुपमा जायसवाल, चेहरा झुलसा",
+      "link": "https://www.livehindustan.com/uttar-pradesh/bahraich-bjp-mla-anupama-jaiswal-caught-fire-while-burning-an-effigy-her-face-was-scorched-201777112059176.html",
+      "summary": "यूपी के बहराइच में पुतला फूंकते समय बीजेपी विधायक अनुपमा जायसवाल आग की चपेट में आ गईं। उनका चेहरा आग से झुलस गया। इसे लेकर हड़कम्प मच गया। उन्हें लखनऊ रेफर किया गया है।",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:55:39 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "20e09d88fe532944157930960203785d",
+      "title": "IMD issues heatwave advisories as temperatures soar",
+      "link": "https://www.thehindu.com/news/national/imd-issues-heatwave-advisories-as-temperatures-soar/article70905078.ece",
+      "summary": "Hot and humid conditions are expected over coastal and eastern regions, while warm night conditions are likely in parts of north India",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:52:27 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "48b65f5f3eddc612f37207b93383f9a8",
+      "title": "ED raids against Raheja Developers in home buyers ‘fraud’ case",
+      "link": "https://www.thehindu.com/news/national/ed-raids-against-raheja-developers/article70904548.ece",
+      "summary": "About seven premises in Delhi-NCR are being covered as part of the action",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:52:09 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c3320404c98308aae98ba050ceb28f0c",
+      "title": "Hibi Eden quits as KPCC Digital Media Cell chief",
+      "link": "https://www.thehindu.com/news/national/kerala/hibi-eden-quits-as-kpcc-digital-media-cell-chief/article70905025.ece",
+      "summary": "Hibi Eden submitted a letter conveying his decision to relinquish the post to KPCC chief Sunny Joseph on April 14",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:46:08 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "63f4b1b6b840e1db285c79ff110d293d",
+      "title": "Kochi’s historic Kokers Theatre set for demolition with an estimate of ₹19.54 lakh",
+      "link": "https://www.thehindu.com/news/cities/Kochi/kochis-historic-kokers-theatre-set-for-demolition-with-an-estimate-of-1954-lakh/article70904785.ece",
+      "summary": "The estimate has been prepared on the basis of a survey assessing demolition costs and the valuation of saleable debris",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:43:58 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3dd6e667942254bb90ef668c1626513c",
+      "title": "सरकार बनी तो 24 घंटे में गन्ना भुगतान और 23 फसलों को MSP, किसानों को लेकर अखिलेश ने कीं कई घोषणाएं",
+      "link": "https://www.livehindustan.com/uttar-pradesh/elected-to-power-sugarcane-payments-24-hours-and-msp-for-23-crops-akhilesh-makes-several-announcements-regarding-farmers-201777111191118.html",
+      "summary": "उत्तर प्रदेश में केंद्रीय कृषि मंत्री शिवराज सिंह चौहान और मुख्यमंत्री योगी आदित्यनाथ समेत नौ राज्यों के उत्तर क्षेत्रीय कृषि सम्मेलन के एक दिन बाद शनिवार को सपा प्रमुख ने यहां पार्टी मुख्यालय में पत्रकारों से बातचीत में किसानों के लिए कई घोषणाएं कीं।",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:41:01 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "bfe3546f0cf5c7ee725ea98c63ec2092",
+      "title": "‘Victim is Dalit, poor every time’: Rahul Gandhi demands probe into Ghazipur rape-murder",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/victim-is-dalit-poor-every-time-rahul-gandhi-demands-probe-into-ghazipur-rape-murder/article70904654.ece",
+      "summary": "Rahul Gandhi said in a country and State where parents have to beg even to get an FIR filed for their daughter, the country's government has no moral right to remain in power",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:39:37 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8c3c09c8d7f0f0ab855fdc25a7f12175",
+      "title": "वोल्वो का विकल्प बनेंगी 22 नई एयर कंडीशन बसें, लखनऊ से गोरखपुर-बनारस समेत 8 रूटों पर चलेंगी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/22-new-ac-buses-will-be-an-alternative-to-volvo-buses-running-on-8-routes-including-lucknow-to-gorakhpurvaranasi-201777110947377.html",
+      "summary": "22 नई एयर कंडीशन बसें वोल्वो का विकल्प बनेंगी। यह बसें यह बसें कानपुर कार्यशाला से दो बार में लखनऊ के अवध बस डिपो पहुंच चुकी हैं। लखनऊ से गोरखपुर-बनारस और प्रयागराज समेत 8 रूटों पर चलेंगी।",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:37:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "509ace76d67fc5c83a33f37d068e21f4",
+      "title": "AAP to write to Rajya Sabha chairman for defected MPs’ disqualification",
+      "link": "https://www.thehindu.com/news/national/aap-to-write-to-rajya-sabha-chairman-for-defected-mps-disqualification/article70904911.ece",
+      "summary": "“Anti-defection law clearly states that any type of split or faction cannot happen in the Rajya Sabha and Lok Sabha. It does not carry any legal recognition, even if it's a two-thirds majority,” Mr. Singh said",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:35:24 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "81928d4f647fee9d34f17d604d61a289",
+      "title": "Assembly Elections 2026 LIVE: Every Indian has stake in Bengal polls as infiltrators spilling over to other States, says Himanta",
+      "link": "https://www.thehindu.com/news/national/assembly-elections-2026-live-updates-april-25-2026-tamil-nadu-kerala-puducherry-assam-west-bengal/article70904339.ece",
+      "summary": "We'll hit century in Assam, double century in West Bengal, says CM Himanta after Phase 1 of polling",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:30:26 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "02e4d0b200517946846b42f1e92231d7",
+      "title": "Kerala in action mode to mitigate rising heat impact",
+      "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/kerala-in-action-mode-to-mitigate-rising-heat-impact/article70904908.ece",
+      "summary": "District collectors have been instructed to take necessary steps and seek the opinion of police and traffic authorities regarding reducing the duration of traffic signals wherever possible",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:25:49 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8d978bc7de8d342366cab46716d6e082",
+      "title": "हमें ऐसा बेटा नहीं चाहिए, दोषी है तो पुलिस सीधे मार दे गोली, तुषार की गिरफ्तारी पर बोले पिता",
+      "link": "https://www.livehindustan.com/uttar-pradesh/we-dont-want-son-like-this-if-he-guilty-police-should-just-shoot-him-directly-says-father-following-tushar-arrest-201777110304402.html",
+      "summary": "मेरठ के तुषार को आतंकी कनेक्शन में एटीएस ने गिरफ्तार दिखाया था। दूसरी ओर, तुषार के पिता शैलेंद्र चौहान और मां रितु चौहान ने मीडिया को बताया कि तुषार मानसिक रोगी है और 10 साल की उम्र से उसका उपचार चल रहा है।",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:22:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "58c8884db5b0873a420e240c1571e2c4",
+      "title": "Son surrenders after allegedly slitting mother’s throat in Kelakam",
+      "link": "https://www.thehindu.com/news/national/kerala/son-surrenders-after-allegedly-slitting-mothers-throat-in-kelakam/article70904851.ece",
+      "summary": "Geethamma, who was killed, was a member of the Mahila Morcha District Committee",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:22:15 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2753a0b518c6a21103a98ceec2119eea",
+      "title": "Girls outshine boys in Uttarakhand board exams; pass percentage rises for class 10 and 12",
+      "link": "https://www.thehindu.com/education/girls-outshine-boys-in-uttarakhand-board-exams-pass-percentage-rises-for-class-10-and-12/article70904987.ece",
+      "summary": "\"The dedication of our teachers and students is reflected in these improved figures,\" Education minister Dhan Singh Rawat said",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:21:45 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "141c56a258dfcc09e53dd40fe28b6f37",
+      "title": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal",
+      "link": "https://www.thehindu.com/news/national/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-says-swati-maliwal/article70904948.ece",
+      "summary": "Swati Maliwal, who joined the BJP after defecting, praised the \"decisive and strong leadership\" of Prime Minister Narendra Modi",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:20:43 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "da9a232da9000e9a74165dcb1ea98cd0",
+      "title": "Kavitha launches ‘Telangana Rashtra Sena’, aims to shape Telangana’s future",
+      "link": "https://www.thehindu.com/news/national/telangana/kavitha-launches-telangana-rashtra-sena-aims-to-shape-telanganas-future/article70904975.ece",
+      "summary": "Supporters also raised slogans hailing her as “CM” (Chief Minister) and “Telangana Tiger,” adding to the charged atmosphere at the venue",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:16:06 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5d27be368c60fb2331c7974ecb03b45b",
+      "title": "Minister asks officials to focus on providing drinking water to Nandyal",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/minister-asks-officials-to-focus-on-providing-drinking-water-to-nandyal/article70904475.ece",
+      "summary": "",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 15:14:10 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -45931,32 +46191,6 @@
       "lang": "en"
     },
     {
-      "id": "509ace76d67fc5c83a33f37d068e21f4",
-      "title": "AAP to write to Rajya Sabha chairman for defected MPs’ disqualification",
-      "link": "https://www.thehindu.com/news/national/aap-to-write-to-rajya-sabha-chairman-for-defected-mps-disqualification/article70904911.ece",
-      "summary": "“Anti-defection law clearly states that any type of split or faction cannot happen in the Rajya Sabha and Lok Sabha. It does not carry any legal recognition, even if it's a two-thirds majority,” Mr. Singh said",
-      "date": "2026-04-25",
-      "timestamp": "Sat, 25 Apr 2026 15:02:47 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "141c56a258dfcc09e53dd40fe28b6f37",
-      "title": "AAP no longer the same party, no one can work with Kejriwal, says Swati Maliwal",
-      "link": "https://www.thehindu.com/news/national/aap-no-longer-the-same-party-no-one-can-work-with-kejriwal-says-swati-maliwal/article70904948.ece",
-      "summary": "Swati Maliwal, who joined the BJP after defecting, praised the \"decisive and strong leadership\" of Prime Minister Narendra Modi",
-      "date": "2026-04-25",
-      "timestamp": "Sat, 25 Apr 2026 15:02:26 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "2ec61e57f78009c03117167d3554c963",
       "title": "Lucknow अग्निकांड में इंसानियत की मिसाल: जोधपुर टीम ने बनाए 100 कूल शेल्टर, बेघरों को बड़ी राहत",
       "link": "https://www.patrika.com/lucknow-news/jodhpur-builds-100-heat-resistant-shelters-for-lucknow-fire-victims-offers-relief-20528955",
@@ -45997,7 +46231,7 @@
     },
     {
       "id": "d169fbc0ee1a58271d04dacf5838a914",
-      "title": "यूपी में आसमान से बरस रही आग, 40 से ज्यादा जिलों में हीट वेव का अलर्ट, इस दिन मिल सकती है गर्मी से राहत",
+      "title": "यूपी में गर्मी से परेशान लोगों के लिए राहत भरी खबर, इस दिन होगी बारिश, मौसम विभाग का अलर्ट",
       "link": "https://www.livehindustan.com/uttar-pradesh/fire-rains-from-the-sky-up-heatwave-alert-issued-for-over-40-districts-relief-from-heat-expected-on-27-april-201777107896907.html",
       "summary": "मौसम विभाग के अनुसार आगामी तीन से चार दिनों के दौरान अधिकतम तापमान में दो से तीन डिग्री सेल्सियस की क्रमिक वृद्धि होने के बाद हल्की गिरावट संभव है। वहीं न्यूनतम तापमान में भी दो से तीन डिग्री सेल्सियस तक वृद्धि के संकेत हैं।",
       "date": "2026-04-25",
@@ -46019,19 +46253,6 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "02e4d0b200517946846b42f1e92231d7",
-      "title": "Kerala in action mode to mitigate rising heat impact",
-      "link": "https://www.thehindu.com/news/cities/Thiruvananthapuram/kerala-in-action-mode-to-mitigate-rising-heat-impact/article70904908.ece",
-      "summary": "District collectors have been instructed to take necessary steps and seek the opinion of police and traffic authorities regarding reducing the duration of traffic signals wherever possible",
-      "date": "2026-04-25",
-      "timestamp": "Sat, 25 Apr 2026 14:38:14 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -46225,19 +46446,6 @@
       "timestamp": "Sat, 25 Apr 2026 13:45:27 +0530",
       "section": "International",
       "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "63f4b1b6b840e1db285c79ff110d293d",
-      "title": "Kochi’s historic Kokers Theatre set for demolition with an estimate of ₹19.54 lakh",
-      "link": "https://www.thehindu.com/news/cities/Kochi/kochis-historic-kokers-theatre-set-for-demolition-with-an-estimate-of-1954-lakh/article70904785.ece",
-      "summary": "The estimate has been prepared on the basis of a survey assessing demolition costs and the valuation of saleable debris",
-      "date": "2026-04-25",
-      "timestamp": "Sat, 25 Apr 2026 13:45:00 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -46513,19 +46721,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Ayodhya",
-      "lang": "en"
-    },
-    {
-      "id": "bfe3546f0cf5c7ee725ea98c63ec2092",
-      "title": "‘Victim is Dalit, poor every time’: Rahul Gandhi demands probe into Ghazipur rape-murder",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/victim-is-dalit-poor-every-time-rahul-gandhi-demands-probe-into-ghazipur-rape-murder/article70904654.ece",
-      "summary": "Rahul Gandhi said in a country and State where parents have to beg even to get an FIR filed for their daughter, the country's government has no moral right to remain in power",
-      "date": "2026-04-25",
-      "timestamp": "Sat, 25 Apr 2026 12:54:17 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -47179,19 +47374,6 @@
       "lang": "en"
     },
     {
-      "id": "48b65f5f3eddc612f37207b93383f9a8",
-      "title": "ED raids against Raheja Developers",
-      "link": "https://www.thehindu.com/news/national/ed-raids-against-raheja-developers/article70904548.ece",
-      "summary": "About seven premises in Delhi-NCR are being covered as part of the action",
-      "date": "2026-04-25",
-      "timestamp": "Sat, 25 Apr 2026 11:31:29 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "d801adb81e52d2e23b0c785be6ac1797",
       "title": "Sharpen the anti-defection law, strengthen democracy",
       "link": "https://www.thehindu.com/news/national/sharpen-the-anti-defection-law-strengthen-democracy/article68796858.ece",
@@ -47725,6 +47907,19 @@
       "lang": "en"
     },
     {
+      "id": "a00cf73244be77b46bf31dadaf617dd9",
+      "title": "Mali army says armed groups launch coordinated attacks across country",
+      "link": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Witnesses report explosions and sustained gunfire near a military base outside the capital, Bamako.",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 10:33:26 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "fd82f0dc85542e46c187ed477a817538",
       "title": "13 women rescued in raid at orchestra bar in Bhayandar",
       "link": "https://www.thehindu.com/news/national/maharashtra/13-women-rescued-in-raid-at-orchestra-bar-in-bhayandar/article70904452.ece",
@@ -47803,6 +47998,19 @@
       "lang": "en"
     },
     {
+      "id": "f83663dca2e306abc56022b01deebffc",
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "link": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 10:24:50 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "dce8b246a3fa513f4f2692d91ac5bc34",
       "title": "Kanpur Greenbelt: ढाई करोड़ की हरियाली पर फिरा पानी, किदवई नगर में सूख रहे पौधे, रसूखदारों ने किया अवैध कब्जा",
       "link": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-greenbelt-2-5-crore-greenery-goes-down-the-drain-saplings-wither-in-kidwai-nagar-2026-04-25",
@@ -47826,6 +48034,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b6541a9132127b36ae3cd0bd12105f17",
+      "title": "Iran’s Infowar: Lego, AI and ever tightening control",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/4/25/irans-infowar-lego-ai-and-ever-tightening-control?traffic_source=rss",
+      "summary": "The tools and techniques behind Iran’s push in the battle of narratives.",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 10:13:07 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -47864,6 +48085,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bde883059788b1f3e3a26dfe3d319a60",
+      "title": "Mali attacks live: Gunfire heard near Bamako airport and in several cities",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/25/mali-attacks-live-gunfire-heard-near-bamako-airport-and-in-several-cities?traffic_source=rss",
+      "summary": "Unrest reported in several locations around the country.",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 10:04:58 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -47916,6 +48150,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "76c08e36d43c7fad14432a334b7a7b28",
+      "title": "Palestinians cast their ballots as Gaza holds first election in 21 years",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
+      "summary": "Palestinians are voting in Gaza’s first municipal elections in 21 years. Around 70,000 people are registered to vote.",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 09:55:08 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -48115,6 +48362,19 @@
       "lang": "en"
     },
     {
+      "id": "fcc6ce5cc41351742771fb1e93d16d26",
+      "title": "Gunmen stage simultaneous attacks across Mali, army says",
+      "link": "https://www.aljazeera.com/news/2026/4/25/mali-army-says-armed-groups-launch-nationwide-attacks-gunfire-near-airport?traffic_source=rss",
+      "summary": "Capital Bamako and several other locations hit in an apparently coordinated ⁠assault involving multiple groups.",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 09:21:24 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9d40979d13e24142f5459f0e1076d51a",
       "title": "Polling percentage of women rises in T.N. this Assembly election",
       "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/polling-percentage-of-women-rises-in-tn-this-assembly-election/article70902793.ece",
@@ -48254,6 +48514,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2fca996b78f238eb2e31b278823efc44",
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "link": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 08:53:15 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -48843,6 +49116,19 @@
       "lang": "hi"
     },
     {
+      "id": "52d5aec87636eb9693f73126b96aeab3",
+      "title": "Brij Bhushan Singh targets Thakur community:Claims no representation in government, sparks political debate",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/brij-bhushan-singh-claims-no-govt-representation-thakur-community-uttar-pradesh-debate-137782451.html",
+      "summary": "Uttar Pradesh Assembly elections are due in about a year. Ahead of this, former BJP MP Brij Bhushan Sharan Singh has started mobilising the Kshatriya community. From Bhagalpur in Bihar, he issued a challenge to Thakur leaders of Uttar Pradesh, saying they have no real presence in governments. While expressing his grievances, Brij Bhushan also issued a direct challenge. What is the reason behind his anger? Watch the video…",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 06:09:31 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "c8c10202b57f1ea3efb3a272799db9f5",
       "title": "Gorakhpur News: फार्म हाउस पहुंच बछिया के पैर छुए...छत पर पहुंचते ही लगी गोली",
       "link": "https://www.amarujala.com/gorakhpur/ambareesh-left-his-civil-lines-residence-alone-in-his-car-in-the-morning-gorakhpur-news-c-7-gkp1038-1300231-2026-04-25",
@@ -49272,6 +49558,19 @@
       "lang": "hi"
     },
     {
+      "id": "22635154bb11df8c1e89e4c5376e06e0",
+      "title": "आजमगढ़ पुलिस का एक्शन: गांजा तस्करी गिरोह का किया पर्दाफाश, 10 किलो गांजा बरामद; तीन गिरफ्तार",
+      "link": "https://www.amarujala.com/uttar-pradesh/azamgarh/azamgarh-police-busted-cannabis-smuggling-ring-and-arrested-three-accused-2026-04-25",
+      "summary": "तलाशी के दौरान साजिद के पास से छह किलो, जबकि दोनों महिलाओं के पास से 2-2 किलो गांजा बरामद हुआ।",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 04:07:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "1513e6b57b23180321ef89ab26411815",
       "title": "Father murders 3-year-old son in Jhansi, then dies by suicide:Child sleeping next to mother, taken away at night",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/jhansi-father-murders-son-commits-suicide-137781921.html",
@@ -49283,6 +49582,19 @@
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "c0c143ea9aed43b21caaf023be535fe8",
+      "title": "चूहे खा गए रिश्वत के पैसे: सुप्रीम कोर्ट भी हैरान, भ्रष्टाचार के मामले में दोषी महिला को दी जमानत; कही ये बात",
+      "link": "https://www.amarujala.com/india-news/rats-ate-bribe-money-supreme-court-grants-bail-woman-convicted-corruption-2026-04-25",
+      "summary": "चूहे खा गए रिश्वत के पैसे: सुप्रीम कोर्ट भी हैरान, भ्रष्टाचार के मामले में दोषी महिला को दी जमानत; कही ये बात rats ate bribe money supreme court grants bail woman convicted corruption",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 04:03:29 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "93626584eab6dc02bafb4bedfccd9d6f",
@@ -49298,6 +49610,32 @@
       "lang": "en"
     },
     {
+      "id": "6676a090020825aceade4a1ffe5fbd21",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 25 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-25",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 04:01:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "964db94982bddb31c342484c6ffb3dcf",
+      "title": "पढ़ें 25 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-25",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 04:00:56 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "42960958524e412189f0ed4b73bb37b3",
       "title": "Shopkeeper burnt alive as fire breaks out in Kanpur market:5 including wife, daughter injured; firefighters rescue family with ladders",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/kanpur-fire-rescue-family-ladder-shopkeeper-dead-137781910.html",
@@ -49308,6 +49646,45 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "931226c7e4c0a76609a2c6b0e6b790b0",
+      "title": "Bareilly News: जिसकी खातिर पति को छोड़ा, उस प्रेमी ने दिया धोखा, आहत प्रेमिका ने खा लिया जहर",
+      "link": "https://www.amarujala.com/uttar-pradesh/bareilly/girlfriend-consumes-poison-after-boyfriend-refuses-to-marry-her-in-bareilly-2026-04-25",
+      "summary": "जिला अस्पताल मे भर्ती युवती ने प्रेमी पर लगाया यौन शोषण करने का आरोप, जहर देने की साजिश का भी आरोप",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 03:51:20 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "29ed3acf27965810e8b624a14ef587ce",
+      "title": "'भारतीय सेना किसी दल की नहीं, देश की है': पूर्व सेना प्रमुख जनरल नरवणे की दो टूक; जवानों को दिया ये खास संदेश",
+      "link": "https://www.amarujala.com/india-news/indian-army-belongs-nation-not-any-political-party-former-chief-general-naravanes-blunt-assertion-2026-04-25",
+      "summary": "'भारतीय सेना किसी दल की नहीं, देश की है': पूर्व सेना प्रमुख जनरल नरवणे की दो टूक; जवानों को दिया ये खास संदेश",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 03:50:00 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "70f4365c870e0ea1c5e28d8e938be369",
+      "title": "'खून चुसवा सरकारी स्मार्ट मीटर' नाम देकर सपा ने किया प्रदर्शन",
+      "link": "https://www.amarujala.com/video/gorakhpur/video-sp-protested-by-calling-it-blood-sucking-government-smart-meter-2026-04-25",
+      "summary": "'खून चुसवा सरकारी स्मार्ट मीटर' नाम देकर सपा ने किया प्रदर्शन",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 03:48:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
       "lang": "en"
     },
     {
@@ -49337,6 +49714,19 @@
       "lang": "hi"
     },
     {
+      "id": "faad008621910618cb5b635d62c616b3",
+      "title": "मुरादाबाद में आईटी मंत्री सुनील शर्मा: UP के स्कूलों में एआई से पढ़ाई की तैयारी, मोबाइल की जगह मिलेंगे टैबलेट",
+      "link": "https://www.amarujala.com/uttar-pradesh/moradabad/preparations-underway-for-ai-based-education-in-up-schools-tablets-to-replace-mobile-phones-sunil-sharma-2026-04-25",
+      "summary": "उत्तर प्रदेश के स्कूलों में जल्द ही आर्टिफिशियल इंटेलिजेंस (एआई) के जरिए पढ़ाई की व्यवस्था लागू की जाएगी। इसके तहत स्कूली बच्चों को मोबाइल के बजाय टैबलेट उपलब्ध कराए जाएंगे, ताकि वह पढ़ाई से जुड़ी सामग्री का बेहतर उपयोग कर सकें।",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 03:36:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "663824e1822a9e33b54b9af825b0a2f6",
       "title": "Noida Protest: श्रमिक प्रदर्शन में आग लगाने वाले 150 नकाबपोशों की पहचान, हिंसा की साजिश में महिलाएं भी शामिल",
       "link": "https://www.amarujala.com/delhi-ncr/noida-protest-150-masked-men-who-opened-fire-during-workers-protest-identified-2026-04-25",
@@ -49347,6 +49737,45 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "6829182b395cb62152a4422cc5695a61",
+      "title": "Noapara Police Station Explosion: पश्चिम बंगाल के थाने में धमाके से हड़कंप, नोआपाड़ा थाने में तेज आवाज और धुआं",
+      "link": "https://www.amarujala.com/india-news/west-bengal-noapara-police-station-explosion-hindi-news-updates-barrackpore-tension-amid-assembly-elections-2026-04-25",
+      "summary": "Noapara Police Station Explosion: पश्चिम बंगाल के थाने में धमाके से हड़कंप, नोआपाड़ा थाने में तेज आवाज और धुआं",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 03:34:23 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5dd93c8b098706a064a993c369c6f4a7",
+      "title": "बंगाल का सियासी रण: दूसरे चरण के लिए चुनाव आयोग की बड़ी तैयारी, 11 अतिरिक्त पुलिस पर्यवेक्षक तैनात",
+      "link": "https://www.amarujala.com/india-news/west-bengal-election-phase-2-additional-police-observers-and-diamond-harbour-police-suspension-news-2026-04-25",
+      "summary": "बंगाल का सियासी रण: दूसरे चरण के लिए चुनाव आयोग की बड़ी तैयारी, 11 अतिरिक्त पुलिस पर्यवेक्षक तैनात west bengal election phase 2 additional police observers and diamond harbour police suspension news",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 03:34:15 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "bace0671eb978b9ebccf52b9f5b0dab9",
+      "title": "UP: दरवाजा लॉक न पिस्टल की मैगजीन से बुलेट निकाली, खुदकुशी या फिर हादसा?; अंबरीश की मौत में कई सवाल अनसुलझे",
+      "link": "https://www.amarujala.com/photo-gallery/gorakhpur/gorakhpur-businessman-death-mystery-suicide-or-accident-police-probe-pistol-firing-raises-questions-2026-04-25",
+      "summary": "गोरखपुर शहर के प्रतिष्ठित कारोबारी अंबरीश श्रीवास्तव की मौत के बाद पहले सुसाइड और फिर पिस्टल साफ करने के दौरान गोली लगने की बात कही गई। हालांकि फॉरेंसिक टीम और पुलिस टीम कई उलझे सवालों को जवाब तलाशने में जुटी है।",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 03:31:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
       "lang": "en"
     },
     {
@@ -49386,6 +49815,19 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "06699623979e3357f17100372d7d9308",
+      "title": "Kanpur: छह साल में 13 गुना बढ़ गए मलेरिया रोगी, कोरोना काल में घटी थी मरीजों की संख्या, इसलिए बढ़े मामले",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/kanpur-number-of-malaria-patients-rises-13-fold-in-six-years-patient-count-dropped-during-the-covid-19-period-2026-04-25",
+      "summary": "कानपुर में कोरोना के डर से बरती गई सावधानी कोरोना के साथ मलेरिया को भी शहर से कम कर गई, लेकिन कोरोना के खत्म होते ही की गई लापरवाही ने मलेरिया के मामले फिर से बढ़ा दिए हैं। पिछले छह साल में साढ़े सात गुना मलेरिया रोगी बढ़े हैं।",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 03:17:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -49439,32 +49881,6 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
-    },
-    {
-      "id": "6676a090020825aceade4a1ffe5fbd21",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 25 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-25",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-25",
-      "timestamp": "Sat, 25 Apr 2026 03:01:19 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "964db94982bddb31c342484c6ffb3dcf",
-      "title": "पढ़ें 25 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-25",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-25",
-      "timestamp": "Sat, 25 Apr 2026 03:01:03 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "fb32b0a0520715c7c747f4a17c833ff5",
@@ -50313,13 +50729,13 @@
     },
     {
       "id": "415ad09c93bb5997de3b4865df9011c7",
-      "title": "ICU सेवाओं पर सुप्रीम कोर्ट सख्त: सभी राज्यों को तैयार करनी होगी कार्ययोजना, स्वास्थ्य व्यवस्था सुधार पर जोर",
+      "title": "ICU के लिए एक समान मानक हो: SC स्वास्थ्य सेवाओं पर गंभीर, कहा- राज्य तीन हफ्तों में बनाएं एक्शन प्लान",
       "link": "https://www.amarujala.com/india-news/supreme-court-directs-states-and-uts-to-prepare-action-plan-for-icu-guidelines-implementation-2026-04-25",
-      "summary": "ICU सेवाओं पर सुप्रीम कोर्ट सख्त: सभी राज्यों को तैयार करनी होगी कार्ययोजना, स्वास्थ्य व्यवस्था सुधार पर जोर",
+      "summary": "ICU के लिए एक समान मानक हो: SC स्वास्थ्य सेवाओं पर गंभीर, कहा- राज्य तीन हफ्तों में बनाएं एक्शन प्लान",
       "date": "2026-04-25",
       "timestamp": "Sat, 25 Apr 2026 02:19:02 +0530",
       "section": "National",
-      "report_category": "National_Govt",
+      "report_category": "National_Judicial",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -87215,6 +87631,45 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6063bb36f464eba2f02b92deeafa4ceb",
+      "title": "'Beaten up, threatened...': After joining BJP, Swati Maliwal recalls 2024 assault at Kejriwal's house",
+      "link": "https://timesofindia.indiatimes.com/india/beaten-up-threatened-after-joining-bjp-swati-maliwal-recalls-2024-assault-at-kejriwals-house/articleshow/130512094.cms",
+      "summary": "Rajya Sabha MP Swati Maliwal, now with the BJP, revealed she was intimidated and threatened after alleging an assault by an AAP aide at Kejriwal's residence in 2024. She claimed immense pressure to withdraw her FIR, leading to her being sidelined by the party. Maliwal also criticized AAP's governance in Punjab and praised PM Modi's leadership.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T15:31:12+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d9a02a27bcf12aee7d0514af79adfd01",
+      "title": "Punjab CM Bhagwant Mann seeks President Murmu's intervention after Raghav Chadha-led AAP exodus in Rajya Sabha",
+      "link": "https://timesofindia.indiatimes.com/india/punjab-cm-bhagwant-mann-seeks-president-murmus-intervention-after-raghav-chadha-led-aap-exodus-in-rajya-sabha/articleshow/130512179.cms",
+      "summary": "Punjab Chief Minister Bhagwant Mann will meet President Murmu to seek the recall of seven AAP MPs, including six from Punjab, who have joined the BJP. This move follows Raghav Chadha's announcement that two-thirds of AAP's Rajya Sabha members are merging with the BJP, citing the party's deviation from its principles.",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T15:30:27+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "de92329688f216e88b49d4e63590e467",
+      "title": "‘Sovereignty rests with UK’: Starmer govt rejects report of possible US ‘review’ on Falklands",
+      "link": "https://timesofindia.indiatimes.com/world/uk/sovereignty-rests-with-uk-starmer-govt-rejects-report-of-possible-us-review-on-falklands/articleshow/130511707.cms",
+      "summary": "",
+      "date": "2026-04-25",
+      "timestamp": "2026-04-25T14:58:38+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
