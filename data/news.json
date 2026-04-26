@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T22:32:40.645257+00:00",
+  "generated_at": "2026-04-26T23:34:37.929952+00:00",
   "stories": [
     {
       "id": "3c7247c42dcaf126b3bca698a197b4f2",
@@ -35193,6 +35193,19 @@
       "lang": "en"
     },
     {
+      "id": "38000645530c17345232e6739c2834c5",
+      "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
+      "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
+      "date": "2026-04-26",
+      "timestamp": "Sun, 26 Apr 2026 22:43:36 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "36e2b5e5cc7ead68ffaa8bb2877577b1",
       "title": "यूपी के इस जिले में धारा 163 लागू, प्रदर्शन पर रोक, 29 अप्रैल को अखिलेश के आने का है कार्यक्रम",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-ghazipur-section-163-imposed-prohibiting-protests-akhilesh-yadav-is-scheduled-to-visit-on-29-april-201777222733505.html",
@@ -37009,19 +37022,6 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "38000645530c17345232e6739c2834c5",
-      "title": "Trump and officials 'likely' targets of press dinner shooting suspect, authorities believe",
-      "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The suspect is expected to be charged with assault of a federal officer and using a firearm during a crime of violence, officials have said.",
-      "date": "2026-04-26",
-      "timestamp": "Sun, 26 Apr 2026 18:37:26 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -66762,11 +66762,37 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-27",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-04-27",
-      "timestamp": "Mon, 27 Apr 2026 03:30:31 +0530",
+      "timestamp": "Mon, 27 Apr 2026 05:00:52 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "773a94ad372b2c4acc636c7d9f2d7012",
+      "title": "Ground Report: भवानीपुर में सूरमाओं का समर, ममता की केमेस्ट्री पड़ेगी भारी या शुभेंदु का अंकगणित करेगा खेला",
+      "link": "https://www.amarujala.com/india-news/bhabanipur-election-battle-mamata-banerjee-vs-suvendu-adhikari-bjp-tmc-vote-math-west-bengal-politics-2026-04-27",
+      "summary": "भवानीपुर का समर: ममता की केमेस्ट्री या शुभेंदु का अंकगणित, कालीघाट की मां भवानी का किसे मिलेगा आशीर्वाद? bhabanipur election battle mamata banerjee vs suvendu adhikari BJP TMC vote math west bengal politics",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 04:36:39 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "cde0e04a59bf5730f8f6bc338a8c2649",
+      "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
+      "summary": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign ​Minister Abbas Araghchi ‌held talks in ​Oman, discussed security ‌in the Strait of Hormuz, ‌broader ⁠Gulf waters, ⁠and diplomatic efforts to end the ​Iran-U.S. conflict, ‌according to Iran Foreign Ministry",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 04:30:29 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -66775,9 +66801,48 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-27",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-04-27",
-      "timestamp": "Mon, 27 Apr 2026 03:30:18 +0530",
+      "timestamp": "Mon, 27 Apr 2026 04:30:20 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "537ee986c9a13256b313a0d0f6915eb6",
+      "title": "West Bengal Election 2026: बंगाल में ममता के समर्थन में उतरे केजरीवाल, भाजपा पर जमकर निकाली भड़ास!",
+      "link": "https://www.amarujala.com/video/india-news/west-bengal-election-2026-kejriwal-came-out-in-support-of-mamata-in-bengal-vented-his-anger-on-bjp-2026-04-27",
+      "summary": "West Bengal Election 2026: बंगाल में ममता के समर्थन में उतरे केजरीवाल, भाजपा पर जमकर निकाली भड़ास!",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 04:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "71cad96a594f4f4d4e71bbb68a788ea0",
+      "title": "Magnitude 6.1 earthquake strikes in northern Japan",
+      "link": "https://www.thehindu.com/news/international/magnitude-61-earthquake-strikes-in-northern-japan/article70909918.ece",
+      "summary": "The quake struck 18 kilometres (11 miles) west of the small town of Sarabetsu in Hokkaido at a depth of 81 kilometres (50 miles), according to the USGS",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 04:07:27 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0cfec6176ce258c96cc26cefcad61ea4",
+      "title": "PM Modi: पीएम मोदी आज सिक्किम और कल से यूपी के दौरे पर, राज्यों को देंगे कई परियोजनाओं की सौगात",
+      "link": "https://www.amarujala.com/india-news/pm-modi-sikkim-up-visit-infrastructure-connectivity-healthcare-projects-varanasi-ganga-expressway-launch-2026-04-27",
+      "summary": "PM Modi: पीएम मोदी आज सिक्किम और कल से यूपी के दौरे पर, राज्यों को देंगे कई परियोजनाओं की सौगात pm-modi-sikkim-up-visit-infrastructure connectivity healthcare projects varanasi ganga expressway launch",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 04:02:51 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -66794,6 +66859,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "503c60fd27fd4de305edfc577136cf26",
+      "title": "White House correspondents' dinner shooting updates: King Charles state visit to U.S. to go on as planned after shooting",
+      "link": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
+      "summary": "The accused gunman who tried to storm the ballroom at the White House Correspondents' Association dinner with guns and knives left writings that called for the targeting of Trump administration officials, U.S. President Donald Trump said.",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 03:07:03 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "f2efbc005d0e74f8e019f01e76669108",
@@ -67680,6 +67758,19 @@
       "lang": "en"
     },
     {
+      "id": "cf4b81b9298e9f0ae6bc6b1671e40329",
+      "title": "​Turning point: On the U.S. and India’s independent foreign policy",
+      "link": "https://www.thehindu.com/opinion/editorial/turning-point-on-the-us-and-indias-independent-foreign-policy/article70909254.ece",
+      "summary": "The U.S. is slicing away at India’s ability to pursue an independent foreign policy",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 01:56:49 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "73845cba1236a4242b74001ff4cb090e",
       "title": "Varanasi News: सेंट जाॅन्स एल्युमनाई एसोसिएशन के अध्यक्ष बने पुनीत कपूर",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/puneet-kapoor-elected-president-of-st-johns-alumni-association-varanasi-news-c-20-vns1103-1371766-2026-04-27",
@@ -68226,19 +68317,6 @@
       "lang": "en"
     },
     {
-      "id": "503c60fd27fd4de305edfc577136cf26",
-      "title": "White House correspondents' dinner shooting LIVE: King Charles state visit to U.S. to go on as planned after shooting",
-      "link": "https://www.thehindu.com/news/international/white-house-donald-trump-correspondents-dinner-shooting-united-states-live-updates-on-april-26-2026/article70907631.ece",
-      "summary": "The accused gunman who tried to storm the ballroom at the White House Correspondents' Association dinner with guns and knives left writings that called for the targeting of Trump administration officials, U.S. President Donald Trump said.",
-      "date": "2026-04-27",
-      "timestamp": "Mon, 27 Apr 2026 00:51:50 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "c446051710fcad5a6a637d33e900f2a5",
       "title": "HDK questions Congress’ moral right to hold AHINDA meet",
       "link": "https://www.thehindu.com/news/national/karnataka/hdk-questions-congress-moral-right-to-hold-ahinda-meet/article70908522.ece",
@@ -68317,14 +68395,14 @@
       "lang": "en"
     },
     {
-      "id": "cde0e04a59bf5730f8f6bc338a8c2649",
-      "title": "Israel-Iran war live: Trump says Iran can call U.S. if it wants to negotiate",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-updates-april-26-2026-usa-donald-trump-west-asia-crisis-conflict/article70907623.ece",
-      "summary": "Iran FM back in Pakistan after Oman visit, says report; Iran's Foreign ​Minister Abbas Araghchi ‌held talks in ​Oman, discussed security ‌in the Strait of Hormuz, ‌broader ⁠Gulf waters, ⁠and diplomatic efforts to end the ​Iran-U.S. conflict, ‌according to Iran Foreign Ministry",
+      "id": "4588c1fd7d1dcee897e1cdc9be978c5c",
+      "title": "Despite high prices, crowds flock to Kasimedu to buy fish",
+      "link": "https://www.thehindu.com/news/cities/chennai/despite-high-prices-crowds-flock-to-kasimedu-to-buy-fish/article70909622.ece",
+      "summary": "Vanjaram, that was selling at ₹800 a kg before the ban, was sold at ₹1,200 a kg. Paarai that was available at ₹530/kg was sold at ₹950/kg, and nethili which was sold at ₹370/kg was sold at ₹600/kg, said a trader",
       "date": "2026-04-27",
-      "timestamp": "Mon, 27 Apr 2026 00:29:12 +0530",
-      "section": "International",
-      "report_category": "International",
+      "timestamp": "Mon, 27 Apr 2026 00:25:40 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
