@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T21:33:12.238593+00:00",
+  "generated_at": "2026-04-26T22:32:40.645257+00:00",
   "stories": [
     {
       "id": "3c7247c42dcaf126b3bca698a197b4f2",
@@ -35885,7 +35885,7 @@
       "id": "e8240e7506b3bbf91df01bb0d99da583",
       "title": "Iran’s foreign minister leaves Pakistan, heads to Russia for more talks",
       "link": "https://www.aljazeera.com/news/2026/4/26/irans-foreign-minister-leaves-pakistan-en-route-to-russia-for-more-talks?traffic_source=rss",
-      "summary": "Abbas Araghchi travels to Russia, where he will speak with \"senior officials\", Iran's foreign ministry says.",
+      "summary": "Abbas Araghchi will speak with 'senior officials' in Moscow, Iran's Foreign Ministry says.",
       "date": "2026-04-26",
       "timestamp": "Sun, 26 Apr 2026 20:47:44 +0000",
       "section": "International",
@@ -56097,6 +56097,19 @@
       "lang": "en"
     },
     {
+      "id": "3b26c96129349463b51e48cec7de4fb1",
+      "title": "BBC visits Chernobyl ghost city 40 years after world's worst nuclear accident",
+      "link": "https://www.bbc.com/news/videos/czjwrdgp98wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Jessica Parker visits Pripyat, which was abandoned in 1986 after an explosion at the nearby Chernobyl nuclear power plant.",
+      "date": "2026-04-25",
+      "timestamp": "Sat, 25 Apr 2026 23:01:11 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "30dd8ec845a4d73538099c886f6503ae",
       "title": "Fire breaks out at scrapyard near Pullepady bridge",
       "link": "https://www.thehindu.com/news/national/kerala/fire-breaks-out-at-scrapyard-near-pullepady-bridge/article70906428.ece",
@@ -66749,12 +66762,64 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-27",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-04-27",
-      "timestamp": "Mon, 27 Apr 2026 03:00:52 +0530",
+      "timestamp": "Mon, 27 Apr 2026 03:30:31 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "bd3ee84aed25a46830f25588aa657ce9",
+      "title": "पढ़ें 27 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-27",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 03:30:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "db05b6382abd54f01900d074b35a2031",
+      "title": "FTA: भारत-न्यूजीलैंड के बीच मुक्त व्यापार समझौता आज, 70 फीसदी भारतीय उत्पादों को मिलेगा शुल्क मुक्त प्रवेश",
+      "link": "https://www.amarujala.com/india-news/india-new-zealand-free-trade-agreement-today-70-percent-of-products-will-get-duty-free-entry-tariff-export-2026-04-27",
+      "summary": "FTA: भारत-न्यूजीलैंड के बीच मुक्त व्यापार समझौता आज, 70 फीसदी भारतीय उत्पादों को मिलेगा शुल्क मुक्त प्रवेश India New Zealand Free trade agreement today 70 percent of products will get duty free entry tariff export",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 03:22:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "f2efbc005d0e74f8e019f01e76669108",
+      "title": "NCSC seeks report on Mamata Banerjee's alleged 'derogatory' remark against SC community",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/ncsc-seeks-report-on-mamata-banerjees-alleged-derogatory-remark-against-sc-community/article70909695.ece",
+      "summary": "The NCSC has written to the Chief Secretary of West Bengal and the Director General of Police, directing them to submit a detailed report within three days of the receipt of the notice",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 03:06:28 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b5995f71eee2b80cff614999305b7e5b",
+      "title": "West Bengal Election 2026: ममता पर जमकर भड़के जेपी नड्डा, बंगाल की जनता से साझा किया अपना प्लान!",
+      "link": "https://www.amarujala.com/video/india-news/west-bengal-election-2026-jp-nadda-furious-at-mamata-shares-his-plan-with-the-people-of-bengal-2026-04-27",
+      "summary": "West Bengal Election 2026: ममता पर जमकर भड़के जेपी नड्डा, बंगाल की जनता से साझा किया अपना प्लान!",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 03:00:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "412b356d477996e30fb8a619d57383ce",
@@ -67067,19 +67132,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "bd3ee84aed25a46830f25588aa657ce9",
-      "title": "पढ़ें 27 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-27",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-27",
-      "timestamp": "Mon, 27 Apr 2026 02:30:19 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "bc9736f4c279b1345fb10c03ef1f09fb",
@@ -92155,6 +92207,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7934e4840c30b0eb28054545e138e2c4",
+      "title": "West Bengal polls: NIA to probe bomb haul in tinderbox Bhangar",
+      "link": "https://timesofindia.indiatimes.com/india/west-bengal-polls-nia-to-probe-bomb-haul-in-tinderbox-bhangar/articleshow/130539526.cms",
+      "summary": "",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-27T03:24:51+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "db5dd064c596de7b876cdbdc9342363c",
+      "title": "Kejriwal tried to stop defections, but it was a case of too little, too late",
+      "link": "https://timesofindia.indiatimes.com/india/kejriwal-tried-to-stop-defections-but-it-was-a-case-of-too-little-too-late/articleshow/130539519.cms",
+      "summary": "",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-27T03:20:50+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5516977bfa146facc9ae6a6ea635379f",
+      "title": "Mamata cites 'load-shedding', warns against 'EVM capture'",
+      "link": "https://timesofindia.indiatimes.com/india/mamata-cites-load-shedding-warns-against-evm-capture/articleshow/130539396.cms",
+      "summary": "",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-27T02:57:21+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "14c3423aa703792b38f2e175ffb49037",
+      "title": "Not democracy but TMC reign of terror prevails in Bengal: Rahul",
+      "link": "https://timesofindia.indiatimes.com/india/not-democracy-but-tmc-reign-of-terror-prevails-in-bengal-rahul/articleshow/130539380.cms",
+      "summary": "",
+      "date": "2026-04-26",
+      "timestamp": "2026-04-27T02:48:46+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
