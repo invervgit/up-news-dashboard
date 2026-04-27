@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T21:52:11.000100+00:00",
+  "generated_at": "2026-04-27T22:44:15.316193+00:00",
   "stories": [
     {
       "id": "3c7247c42dcaf126b3bca698a197b4f2",
@@ -11559,6 +11559,84 @@
       "lang": "hi"
     },
     {
+      "id": "8c66985559d39d29577e15759d09a139",
+      "title": "600 Google staff urge CEO to reject classified military AI contract",
+      "link": "https://www.thehindu.com/sci-tech/technology/600-google-staff-urge-ceo-to-reject-classified-military-ai-contract/article70913974.ece",
+      "summary": "The letter, addressed to Chief Executive Sundar Pichai and signed by workers from Google DeepMind, Cloud, and other divisions, comes as the tech giant is in active negotiations with the U.S. Department of Defence to deploy its flagship Gemini AI model in classified settings",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 04:08:13 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "340a8e729bfb8fd149fd4c47e246b1dc",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-28",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 04:00:47 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "99fe698dcc6d3a6cd5b0359e3bd5e210",
+      "title": "पढ़ें 28 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-28",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 04:00:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "8aa46e9ff32009f65b95c6494a9221cd",
+      "title": "Israel-Iran LIVE: Trump discussed new Iran proposal with national security aides, says White House",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
+      "summary": "Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi; Iran FM arrives in Saint Petersburg for Putin talks, says Iranian state media",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 03:57:24 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f231ab9a5713c55f124c0a44e9ee8eb0",
+      "title": "Afghan officials say Pakistani strikes killed 7, wounded 85 in first attacks since peace talks",
+      "link": "https://www.thehindu.com/news/international/afghan-officials-say-pakistani-strikes-killed-7-wounded-85-in-first-attacks-since-peace-talks/article70913969.ece",
+      "summary": "Pakistan's Ministry of Information and Broadcasting dismissed Afghan media reports and official statements about the strikes on the university as “a blatant lie”",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 03:30:46 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3ae832cd7e7c0d1e6edaff1f3cb5475c",
+      "title": "Bengal Election 2026:बंगाल में दूसरे चरण के मतदान के लिए प्रशासन तैयार, ECI ने जारी किया दिशा-निर्देश!",
+      "link": "https://www.amarujala.com/video/india-news/bengal-election-2026-administration-ready-for-second-phase-of-polling-in-bengal-eci-issues-guidelines-2026-04-28",
+      "summary": "Bengal Election 2026:बंगाल में दूसरे चरण के मतदान के लिए प्रशासन तैयार, ECI ने जारी किया दिशा-निर्देश!",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 03:30:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "3882b32cff97991fb61c636f0bd8161a",
       "title": "Gorakhpur News: लू से मिली राहत...रात का पारा भी चार डिग्री लुढ़का",
       "link": "https://www.amarujala.com/gorakhpur/relief-from-the-heat-wavenight-temperature-also-dropped-by-four-degrees-gorakhpur-news-c-7-gkp1038-1303338-2026-04-28",
@@ -11752,32 +11830,6 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
-    },
-    {
-      "id": "340a8e729bfb8fd149fd4c47e246b1dc",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-28",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-28",
-      "timestamp": "Tue, 28 Apr 2026 03:00:56 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "99fe698dcc6d3a6cd5b0359e3bd5e210",
-      "title": "पढ़ें 28 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-28",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-28",
-      "timestamp": "Tue, 28 Apr 2026 03:00:41 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "faec001c0f5bb9991e5e2ea20ae147c1",
@@ -13041,6 +13093,19 @@
       "lang": "hi"
     },
     {
+      "id": "4cc27e05b208d3afa5c2dc6c0450e9a0",
+      "title": "Culture of violence: On the Washington press dinner shooting",
+      "link": "https://www.thehindu.com/opinion/editorial/culture-of-violence-on-the-washington-press-dinner-shooting/article70912697.ece",
+      "summary": "The proliferation of guns in U.S. has given a deadly edge to political disagreements",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 01:47:12 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8621cebab06892f777bb058c0ee2f07c",
       "title": "62 centres set up across TN for counting votes on May 4",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/62-centres-set-up-across-tn-for-counting-votes-on-may-4/article70912854.ece",
@@ -13177,19 +13242,6 @@
       "summary": "The President has spoken in glowing terms about King Charles, repeatedly referring to the monarch as his “friend” and a “great guy”",
       "date": "2026-04-28",
       "timestamp": "Tue, 28 Apr 2026 01:02:22 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "8aa46e9ff32009f65b95c6494a9221cd",
-      "title": "Israel-Iran LIVE: Trump discussed new Iran proposal with national security aides, says White House",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-live-ceasefire-talks-strait-of-hormuz-oil-crisis-updates-april-27-2026/article70910613.ece",
-      "summary": "Meeting with Vladimir Putin will be a good opportunity to discuss war developments, says Iran FM Araghchi; Iran FM arrives in Saint Petersburg for Putin talks, says Iranian state media",
-      "date": "2026-04-28",
-      "timestamp": "Tue, 28 Apr 2026 01:00:58 +0530",
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
@@ -58021,6 +58073,19 @@
       "lang": "en"
     },
     {
+      "id": "24d34944b25502077ae6c2424962533c",
+      "title": "Bahrain strips 69 people of citizenship over Iran support",
+      "link": "https://www.aljazeera.com/news/2026/4/27/bahrain-strips-69-people-of-citizenship-over-iran-support?traffic_source=rss",
+      "summary": "Rights groups have described the move as a 'blatant abuse of power'.",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 21:51:37 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "2eb9f02a85be9f376046502abbf22c4b",
       "title": "Govt. says Chabahar issue being discussed with Iran, U.S.",
       "link": "https://www.thehindu.com/news/national/govt-says-chabahar-issue-being-discussed-with-iran-us/article70913041.ece",
@@ -92922,6 +92987,32 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6e063b319c02ec16f1a7ca7a4fcc7f05",
+      "title": "Mangaluru cooker blast accused gets 10 years' RI",
+      "link": "https://timesofindia.indiatimes.com/india/mangaluru-cooker-blast-accused-gets-10-years-ri/articleshow/130566419.cms",
+      "summary": "",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-28T03:54:39+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "221dce94b18bd7d0ec0e8191d8fca275",
+      "title": "Maha mininster stalls action against auto, cab drivers on Marathi issue",
+      "link": "https://timesofindia.indiatimes.com/india/maha-mininster-stalls-action-against-auto-cab-drivers-on-marathi-issue/articleshow/130564623.cms",
+      "summary": "",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-28T03:24:13+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
