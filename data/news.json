@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T22:44:15.316193+00:00",
+  "generated_at": "2026-04-27T23:47:53.795290+00:00",
   "stories": [
     {
       "id": "3c7247c42dcaf126b3bca698a197b4f2",
@@ -11559,6 +11559,84 @@
       "lang": "hi"
     },
     {
+      "id": "db6fddfd9062c929e93a2629d6cc34d3",
+      "title": "‘Basava Sri’ award for H.D. Deve Gowda",
+      "link": "https://www.thehindu.com/news/national/karnataka/basava-sri-award-for-hd-deve-gowda/article70913266.ece",
+      "summary": "Mr. Gowda apologised for not being able to participate in the Basava Jayanti programme to receive the award owing to his health",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 05:08:05 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "340a8e729bfb8fd149fd4c47e246b1dc",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-28",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 05:00:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "99fe698dcc6d3a6cd5b0359e3bd5e210",
+      "title": "पढ़ें 28 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-28",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 05:00:37 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "01c83458b16f49dd8af47d54490277c7",
+      "title": "Raghav Chadha Join BJP: राघव चड्ढा की बगावत के बाद रंधावा ने किया पंजाब के CM पर चौंकाने वाला दावा!",
+      "link": "https://www.amarujala.com/video/india-news/raghav-chadha-joins-bjp-after-raghav-chadha-s-rebellion-randhawa-makes-a-shocking-claim-on-the-punjab-cm-2026-04-28",
+      "summary": "Raghav Chadha Join BJP: राघव चड्ढा की बगावत के बाद रंधावा ने किया पंजाब के CM पर चौंकाने वाला दावा!",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 04:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d36f4ccaaa548ea1d49bb84a2ebfeff1",
+      "title": "भारत को नरक बताने वाले ट्रंप के बयान पर जोहो के संस्थापक वेंबु का प्रवासियों को खुला खत, कहा- लौट आएं अपने घर",
+      "link": "https://www.amarujala.com/india-news/donald-trump-india-remark-zoho-founder-sridhar-vembu-call-indian-diaspora-return-home-2026-04-28",
+      "summary": "भारत को नरक बताने वाले ट्रंप के बयान पर जोहो के संस्थापक वेंबु का प्रवासियों को खुला खत, कहा- लौट आएं अपने घर Donald trump india remark zoho founder sridhar vembu call indian diaspora return home",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 04:28:58 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "fe621aea53bc44f579fb84c1f69bc4b7",
+      "title": "चिंताजनक: 18 राज्यों के 151 जिलों के भूजल तक पहुंचा यूरेनियम, पंजाब सबसे अधिक प्रभावित राज्य",
+      "link": "https://www.amarujala.com/india-news/india-groundwater-uranium-contamination-health-risk-report-2026-punjab-most-impacted-state-2026-04-28",
+      "summary": "चिंताजनक: 18 राज्यों के 151 जिलों के भूजल तक पहुंचा यूरेनियम, पंजाब सबसे अधिक प्रभावित राज्य india groundwater uranium contamination health risk report 2026 punjab most impacted state",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 04:18:16 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "8c66985559d39d29577e15759d09a139",
       "title": "600 Google staff urge CEO to reject classified military AI contract",
       "link": "https://www.thehindu.com/sci-tech/technology/600-google-staff-urge-ceo-to-reject-classified-military-ai-contract/article70913974.ece",
@@ -11572,25 +11650,12 @@
       "lang": "en"
     },
     {
-      "id": "340a8e729bfb8fd149fd4c47e246b1dc",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 28 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-28",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "id": "b0643876d4040128308b78ea48841292",
+      "title": "West Bengal: जय महाकाली के साथ जय श्रीराम, बंगाल में हिंदुत्व का ज्वार और अंतिम प्रहार",
+      "link": "https://www.amarujala.com/india-news/west-bengal-election-2026-hindutva-under-current-jai-mahakali-to-jai-shri-ram-shift-in-second-phase-tmc-bjp-2026-04-28",
+      "summary": "West Bengal: जय महाकाली के साथ जय श्रीराम, बंगाल में हिंदुत्व का ज्वार और अंतिम प्रहार West Bengal Election 2026 Hindutva Under Current Jai Mahakali to Jai Shri Ram Shift in second phase TMC BJP",
       "date": "2026-04-28",
-      "timestamp": "Tue, 28 Apr 2026 04:00:47 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "99fe698dcc6d3a6cd5b0359e3bd5e210",
-      "title": "पढ़ें 28 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-28",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-28",
-      "timestamp": "Tue, 28 Apr 2026 04:00:35 +0530",
+      "timestamp": "Tue, 28 Apr 2026 04:08:06 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -11829,6 +11894,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "9e15c3cd41871946c749ebd7930c396e",
+      "title": "M.P. Assembly passes resolution to implement women’s reservation after delimitation amid uproar by Opposition",
+      "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-assembly-congress-stages-walkout-over-speakers-refusal-to-accept-private-con-womens-quota/article70911980.ece",
+      "summary": "The Opposition members walked out of the House after Speaker Narendra Singh Tomar declined to take up the bill, ruling that a government resolution on the issue — scheduled to be moved by Chief Minister Mohan Yadav — had already been listed",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 02:59:02 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -13411,6 +13489,19 @@
       "summary": "",
       "date": "2026-04-28",
       "timestamp": "Tue, 28 Apr 2026 00:30:07 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "db9e619c67cc4c53a711897bd66dd4cc",
+      "title": "Untreated sewage flows into Pallikaranai marshland",
+      "link": "https://www.thehindu.com/news/cities/chennai/untreated-sewage-flows-into-pallikaranai-marshland/article70912277.ece",
+      "summary": "",
+      "date": "2026-04-28",
+      "timestamp": "Tue, 28 Apr 2026 00:26:48 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -57644,6 +57735,19 @@
       "lang": "en"
     },
     {
+      "id": "74b8b005dc267b0dc46905f26fcd5d3e",
+      "title": "US Supreme Court reinstates Republican-favoured Texas electoral map",
+      "link": "https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map?traffic_source=rss",
+      "summary": "The reinstated map, backed by President Donald Trump, could flip key districts to Republicans.",
+      "date": "2026-04-27",
+      "timestamp": "Mon, 27 Apr 2026 22:48:22 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9e20048f48ab8ae40667c0dc66e745a0",
       "title": "यूपी पंचायत चुनाव को लेकर दाखिल याचिका पर हाईकोर्ट का ये निर्देश, क्या कहा?",
       "link": "https://www.livehindustan.com/uttar-pradesh/this-is-the-high-court-direction-on-the-petition-filed-demanding-release-of-up-panchayat-election-detailed-schedule-201777308670617.html",
@@ -59667,19 +59771,6 @@
       "timestamp": "Mon, 27 Apr 2026 17:24:44 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "9e15c3cd41871946c749ebd7930c396e",
-      "title": "MP Assembly: Congress stages walkout over Speaker's refusal to accept private con women's quota",
-      "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-assembly-congress-stages-walkout-over-speakers-refusal-to-accept-private-con-womens-quota/article70911980.ece",
-      "summary": "The Opposition members walked out of the House after Speaker Narendra Singh Tomar declined to take up the bill, ruling that a government resolution on the issue — scheduled to be moved by Chief Minister Mohan Yadav — had already been listed",
-      "date": "2026-04-27",
-      "timestamp": "Mon, 27 Apr 2026 17:21:47 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -92991,6 +93082,45 @@
       "lang": "en"
     },
     {
+      "id": "d9defaf4c445b82cd65e862fb3870862",
+      "title": "Foreign secy Vikram Misri may hold 1st bilateral meet with Balen govt next month",
+      "link": "https://timesofindia.indiatimes.com/india/foreign-secy-vikram-misri-may-hold-1st-bilateral-meet-with-balen-govt-next-month/articleshow/130566510.cms",
+      "summary": "",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-28T04:46:59+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4bea9c2a1ffb6048c0155813b5744f12",
+      "title": "India ready to work with China to ease tensions",
+      "link": "https://timesofindia.indiatimes.com/india/india-ready-to-work-with-china-to-ease-tensions/articleshow/130565998.cms",
+      "summary": "",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-28T04:42:54+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e010b419c2de3330da0746c14af55e8a",
+      "title": "Mystery over death of 4 of Mumbai family hours after having watermelon",
+      "link": "https://timesofindia.indiatimes.com/india/mystery-over-death-of-4-of-mumbai-family-hours-after-having-watermelon/articleshow/130566447.cms",
+      "summary": "",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-28T04:14:08+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6e063b319c02ec16f1a7ca7a4fcc7f05",
       "title": "Mangaluru cooker blast accused gets 10 years' RI",
       "link": "https://timesofindia.indiatimes.com/india/mangaluru-cooker-blast-accused-gets-10-years-ri/articleshow/130566419.cms",
@@ -93000,6 +93130,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ade77993897d9136e3d07807cb880e41",
+      "title": "Who is Fred Liu? Evelyn Ha’s ex boyfriend backs Ben Pasternak’s claims and alleges past abuse details",
+      "link": "https://timesofindia.indiatimes.com/world/us-streamers/who-is-fred-liu-evelyn-has-ex-boyfriend-backs-ben-pasternaks-claims-and-alleges-past-abuse-details/articleshow/130566411.cms",
+      "summary": "Fred Liu, Evelyn Ha’s ex-boyfriend, has supported parts of Ben Pasternak’s abuse claims after his arrest in New York. Pasternak denies all charges and says Ha was the aggressor. Liu shared that his past experience felt similar but stayed silent earlier. The case includes serious assault charges and is ongoing, with court proceedings expected on June 11.",
+      "date": "2026-04-27",
+      "timestamp": "2026-04-28T03:51:42+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
