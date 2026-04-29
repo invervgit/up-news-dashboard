@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T21:59:25.426374+00:00",
+  "generated_at": "2026-04-29T23:00:45.914137+00:00",
   "stories": [
     {
       "id": "b453735bd800a5b7701900acfc2632d3",
@@ -184,19 +184,6 @@
       "lang": "en"
     },
     {
-      "id": "343813dc0dedebecb8d3635393aed89f",
-      "title": "NMC deletes seat ceiling for MBBS medical colleges",
-      "link": "https://www.thehindu.com/education/nmc-deletes-seat-ceiling-for-mbbs-medical-colleges/article70920899.ece",
-      "summary": "The new regulations are expected to bring in more flexibility in establishing new medical institutions and expanding seat strength in existing colleges",
-      "date": "2026-04-29",
-      "timestamp": "Wed, 29 Apr 2026 22:59:28 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "96ff29b16e34eaf5fc7ffcf2e721da57",
       "title": "Days after logjam in BRICS envoys meeting, Jaishankar speaks with Araghchi",
       "link": "https://www.thehindu.com/news/national/days-after-logjam-in-brics-envoys-meeting-jaishankar-speaks-with-araghchi/article70921780.ece",
@@ -262,15 +249,15 @@
       "lang": "en"
     },
     {
-      "id": "870b128ddcab344da9004b62f5201063",
-      "title": "From record turnout to unprecedented security, this West Bengal election marked by many firsts",
-      "link": "https://www.thehindu.com/elections/west-bengal-assembly/from-record-turnout-to-unprecedented-security-this-west-bengal-election-marked-by-many-firsts/article70921304.ece",
-      "summary": "Curtains down on second and final phase of polling; this West Bengal Assembly election emerges as most-watched State polls in recent Indian history.",
+      "id": "bdf2ef3a3a3247aed09f783145d5c056",
+      "title": "Oil price rises above $120 after reports of 'extended' Iran blockade",
+      "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
       "date": "2026-04-29",
-      "timestamp": "Wed, 29 Apr 2026 22:48:04 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
+      "timestamp": "Wed, 29 Apr 2026 22:49:19 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -392,6 +379,19 @@
       "lang": "en"
     },
     {
+      "id": "3ecaac3667d156360d4a1227a8583d07",
+      "title": "Carney, ‘strong and resolute’ in first year, now has to deliver on promises",
+      "link": "https://www.aljazeera.com/economy/2026/4/29/carney-strong-and-resolute-in-first-year-now-has-to-deliver-on-promises?traffic_source=rss",
+      "summary": "Canada's prime minister has used Trump's attacks on allies and others to refocus Ottawa's foreign policy.",
+      "date": "2026-04-29",
+      "timestamp": "Wed, 29 Apr 2026 22:33:16 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "dc0302235500cf80128401bb90fd8843",
       "title": "Russian forces must withdraw from Mali: Tuareg spokesman",
       "link": "https://www.thehindu.com/news/international/russian-forces-must-withdraw-from-mali-tuareg-spokesman/article70921924.ece",
@@ -413,19 +413,6 @@
       "timestamp": "Wed, 29 Apr 2026 22:32:05 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "5d19c45e8dbea9f2c861334de479ef4e",
-      "title": "EPFO to launch new portal to track inoperative accounts",
-      "link": "https://www.thehindu.com/news/national/epfo-to-launch-new-portal-to-track-inoperative-accounts/article70921450.ece",
-      "summary": "E-PRAAPTI will provide an Aadhaar-based authentication mechanism through which members can securely access their old EPF account that may not have a UAN linked with it, said an official",
-      "date": "2026-04-29",
-      "timestamp": "Wed, 29 Apr 2026 22:30:49 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -626,6 +613,19 @@
       "lang": "en"
     },
     {
+      "id": "078ac21540bfd971cca8058c5fac46a6",
+      "title": "Israel has begun intercepting Gaza-bound Global Sumud Flotilla aid boats",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/29/israel-has-begun-intercepting-gaza-bound-global-sumud-flotilla-aid-boats?traffic_source=rss",
+      "summary": "Organisers of a Gaza-bound aid mission say their vessels are being intercepted by Israeli military speedboats.",
+      "date": "2026-04-29",
+      "timestamp": "Wed, 29 Apr 2026 21:59:08 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e3c1f2752a2de9c457526a49fa11a5f4",
       "title": "Andhra Pradesh rolls out Marine ABS framework for fishermen",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-rolls-out-marine-abs-framework-for-fishermen/article70921731.ece",
@@ -700,6 +700,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c8252bbccacffd68b0224aa3724ef5b5",
+      "title": "Israel intercepts Global Sumud boats, demands activists halt their mission",
+      "link": "https://www.aljazeera.com/news/2026/4/29/israeli-military-speedboats-block-gaza-bound-aid-ship?traffic_source=rss",
+      "summary": "Seven out of 58 vessels captured by Israel near Crete as flotilla aims to deliver aid to Gaza under blockade.",
+      "date": "2026-04-29",
+      "timestamp": "Wed, 29 Apr 2026 21:46:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -1389,19 +1402,6 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "bdf2ef3a3a3247aed09f783145d5c056",
-      "title": "Oil price briefly hits $120 after reports of 'extended' Iran blockade",
-      "link": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues.",
-      "date": "2026-04-29",
-      "timestamp": "Wed, 29 Apr 2026 20:24:29 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -34660,6 +34660,71 @@
       "lang": "en"
     },
     {
+      "id": "8c386cd95e7650c59c1ff259479d921c",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 30 अप्रैल के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-30",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-04-30",
+      "timestamp": "Thu, 30 Apr 2026 04:30:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "0321a4178bd6c9c7cd7057a04c3567f8",
+      "title": "पढ़ें 30 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-30",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-04-30",
+      "timestamp": "Thu, 30 Apr 2026 04:00:33 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c1c4a99db1549441983c4c2216a551b1",
+      "title": "Honeymoon murder: Meghalaya court reserves order on bail plea of key accused",
+      "link": "https://www.thehindu.com/news/national/meghalaya/honeymoon-murder-meghalaya-court-reserves-order-on-bail-plea-of-key-accused/article70922341.ece",
+      "summary": "Kushwaha is the alleged boyfriend of Raghuvanshi's wife Sonam, another accused who was granted bail on Tuesday (April 28) by the district and sessions court of Meghalaya's East Khasi district",
+      "date": "2026-04-30",
+      "timestamp": "Thu, 30 Apr 2026 03:46:11 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0403880287019e2b95b131e85051d1fa",
+      "title": "Maharashtra: सर रतन टाटा ट्रस्ट में लाइफ ट्रस्टियों की संख्या पर कानूनी विवाद, नियमों के उल्लंघन का आरोप",
+      "link": "https://www.amarujala.com/india-news/sir-ratan-tata-trust-legal-opinion-lifetime-trustees-maharashtra-law-violation-charity-commissioner-2026-04-30",
+      "summary": "Sir Ratan Tata Trust legal opinion lifetime trustees maharashtra law violation charity commissioner- Maharashtra: सर रतन टाटा ट्रस्ट में लाइफ ट्रस्टियों की संख्या पर कानूनी विवाद, नियमों के उल्लंघन का आरोप",
+      "date": "2026-04-30",
+      "timestamp": "Thu, 30 Apr 2026 03:39:41 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "ee878b9b916e2177002cc4ffafa9249b",
+      "title": "Bihar govt removes Sanjay Gandhi's name from Patna zoo, dairy technology institute",
+      "link": "https://www.thehindu.com/news/national/bihar/bihar-govt-removes-sanjay-gandhis-name-from-patna-zoo-dairy-technology-institute/article70922339.ece",
+      "summary": "Among the other 61 decisions taken was the allocation of ₹23,165 crore for the 'Mukhyamantri Vidyut Upbhokta Sahayta Yojana', under which power consumers in the State get 125 units of free electricity every month",
+      "date": "2026-04-30",
+      "timestamp": "Thu, 30 Apr 2026 03:34:54 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "afd1fad64874a7aa6fc4d4f1d7e36f2c",
       "title": "Israel-Iran war LIVE: Jaishankar holds talks with Iran's Foreign Minister on West Asia situation",
       "link": "https://www.thehindu.com/news/international/iran-israel-war-live-trump-ceasefire-talks-strait-of-hormuz-updates-april-29-2026/article70918966.ece",
@@ -34684,32 +34749,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "8c386cd95e7650c59c1ff259479d921c",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 30 अप्रैल के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-04-30",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-04-30",
-      "timestamp": "Thu, 30 Apr 2026 03:00:46 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "0321a4178bd6c9c7cd7057a04c3567f8",
-      "title": "पढ़ें 30 अप्रैल के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-04-30",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-04-30",
-      "timestamp": "Thu, 30 Apr 2026 03:00:32 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "faac5a0f640d3c27303fc103f8326fde",
@@ -35804,6 +35843,19 @@
       "lang": "en"
     },
     {
+      "id": "5d19c45e8dbea9f2c861334de479ef4e",
+      "title": "EPFO to launch new portal to track inoperative accounts",
+      "link": "https://www.thehindu.com/news/national/epfo-to-launch-new-portal-to-track-inoperative-accounts/article70921450.ece",
+      "summary": "E-PRAAPTI will provide an Aadhaar-based authentication mechanism through which members can securely access their old EPF account that may not have a UAN linked with it, said an official",
+      "date": "2026-04-30",
+      "timestamp": "Thu, 30 Apr 2026 01:58:17 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "3e2070e6f797876877e1af762ce68bc9",
       "title": "Lucknow News: अंतर स्कूल सेवन-ए-साइड फुटबॉल प्रतियोगिता सात से",
       "link": "https://www.amarujala.com/lucknow/inter-school-seven-a-side-football-competition-from-seven-lucknow-news-c-13-1-lko1128-1715561-2026-04-30",
@@ -35827,6 +35879,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "343813dc0dedebecb8d3635393aed89f",
+      "title": "NMC does away with ceiling on MBBS intake",
+      "link": "https://www.thehindu.com/education/nmc-deletes-seat-ceiling-for-mbbs-medical-colleges/article70920899.ece",
+      "summary": "The notification also removed the limit of 100 MBBS seats per 10 lakh population in a State or a Union Territory.",
+      "date": "2026-04-30",
+      "timestamp": "Thu, 30 Apr 2026 01:53:57 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "870b128ddcab344da9004b62f5201063",
+      "title": "From turnout to transfers, Bengal elections marked by many firsts",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/from-record-turnout-to-unprecedented-security-this-west-bengal-election-marked-by-many-firsts/article70921304.ece",
+      "summary": "Curtains down on second and final phase of polling; this West Bengal Assembly election emerges as most-watched State polls in recent Indian history.",
+      "date": "2026-04-30",
+      "timestamp": "Thu, 30 Apr 2026 01:45:40 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -90998,6 +91076,45 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c27eed6fe592230d7b23209799e8aae2",
+      "title": "Flights resume at Jodhpur runway as IAF’s Dornier lands after runway upgrade",
+      "link": "https://timesofindia.indiatimes.com/india/flights-resume-at-jodhpur-runway-as-iafs-dornier-lands-after-runway-upgrade/articleshow/130620147.cms",
+      "summary": "",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-30T03:54:13+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6283c206f8b0daa8b9337324e0293600",
+      "title": "Ganga Expressway: You will have to shell out Rs 1,800 for a one-way trip by car",
+      "link": "https://timesofindia.indiatimes.com/india/ganga-expressway-you-will-have-to-shell-out-rs-1800-for-a-one-way-trip-by-car/articleshow/130619172.cms",
+      "summary": "",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-30T03:42:11+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9e984f06ef3ea8366b8abb920f3115d0",
+      "title": "PM inaugurates Ganga Expressway, says it will be linked to Haridwar",
+      "link": "https://timesofindia.indiatimes.com/india/pm-inaugurates-ganga-expressway-says-it-will-be-linked-to-haridwar/articleshow/130618122.cms",
+      "summary": "",
+      "date": "2026-04-29",
+      "timestamp": "2026-04-30T03:32:57+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
