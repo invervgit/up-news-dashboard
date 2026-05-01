@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T16:51:46.534577+00:00",
+  "generated_at": "2026-05-01T17:54:50.377890+00:00",
   "stories": [
     {
       "id": "b453735bd800a5b7701900acfc2632d3",
@@ -78353,14 +78353,352 @@
       "lang": "en"
     },
     {
+      "id": "bf62a52312f7a823d1feb15f5cf58fc8",
+      "title": "Amid traffic woes on Mumbai-Pune highway, Maharashtra govt. inaugurates ‘Missing Link’ project",
+      "link": "https://www.thehindu.com/news/national/maharashtra/amid-traffic-woes-on-mumbai-pune-highway-maharashtra-govt-inaugurates-missing-link-project/article70929418.ece",
+      "summary": "As the long-awaited project was thrown open by Chief Minister Devendra Fadnavis, the inauguration took some shine away as commuters got stuck for nearly three hours in and around Bhor Ghat stretch of the expressway; the project has found a place in the Guinness Book of World Records",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 23:12:48 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3b81c429f8fe113f0d302815085f684c",
+      "title": "Nursing student found dead in hostel, parents suspect foul play",
+      "link": "https://www.thehindu.com/news/cities/bangalore/nursing-student-found-dead-in-hostel-parents-suspect-foul-play/article70929197.ece",
+      "summary": "",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 23:11:33 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8f98d21c5f5c776767025890b054f8a2",
+      "title": "Teen mowed down by speeding private bus",
+      "link": "https://www.thehindu.com/news/cities/bangalore/teen-mowed-down-by-speeding-private-bus/article70929276.ece",
+      "summary": "",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 23:06:58 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cbea29facddb2b4c379b00ed346c2db4",
+      "title": "TDP leaders meet at Pemmasani’s house in Guntur",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-leaders-meet-at-pemmasanis-house-in-guntur/article70929435.ece",
+      "summary": "",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 23:05:37 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5a278a39e4147f7997f4a76ed5449ce3",
+      "title": "Trump 'not satisfied' with Iran's latest proposal to end war with U.S.",
+      "link": "https://www.thehindu.com/news/international/trump-not-satisfied-with-iran-latest-proposal-via-pakistan/article70929621.ece",
+      "summary": "He did not elaborate on what he saw as shortcomings in the proposal received by Pakistani mediators",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 23:05:01 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "27942d8cc06991b744a229f7f9b98728",
+      "title": "Israeli authorities taking 2 activists who led Gaza-bound flotilla to Israel for questioning",
+      "link": "https://www.thehindu.com/news/international/israeli-authorities-taking-2-activists-who-led-gaza-bound-flotilla-to-israel-for-questioning/article70929617.ece",
+      "summary": "Protests in solidarity with the flotilla erupted across several capitals including in Rome, Athens and Istanbul.",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 23:03:34 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cf27f47e20841c63b4cd1df03df16095",
+      "title": "डिप्टी कमिश्नर प्रभा भंडारी की दूसरी जमानत अर्जी भी खारिज, डेढ़ करोड़ की घूस मांगने में हुई थी गिरफ्तारी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/cgst-deputy-commissioner-prabha-bhandari-second-bail-application-also-rejected-arrested-for-demanding-bribe-of-rs-15-201777655788900.html",
+      "summary": "यूपी में झांसी की सीजीएसटी डिप्टी कमिश्नर प्रभा भंडारी की दूसरी जमानत अर्जी भी खारिज हो गई है। फर्मों को टैक्स में अवैध रूप से छूट देकर डेढ़ करोड़ की रिश्वत मांगने व रिश्वत लेने की आरोप में गिरफ्तार कर जेल भेजा गया था।",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 23:00:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "94ea979c68959d303d0aff62a3a9c1e0",
+      "title": "Allahabad HC junks plea for sedition case against Rahul Gandhi",
+      "link": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
+      "summary": "Court says criticism of government action or policies is not only permitted but is essential in a parliamentary democracy",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:57:17 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "70bd80475e0a147e4969da52fc198af4",
+      "title": "High drama in Punjab Assembly; Congress, Akali Dal allege CM Mann was drunk during House proceedings",
+      "link": "https://www.thehindu.com/news/national/punjab/punjab-assembly-congress-akali-dal-allege-cm-mann-was-drunk-during-house-proceedings/article70928207.ece",
+      "summary": "Congress MLAs staged a walkout and urged the Speaker to initiate action, while the party also called for dope testing of all MLAs and an independent medical check by PGIMER",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:55:15 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8d1877ab0cefafa4f4eadb5a58cc5e83",
+      "title": "First talks under new Manipur government held with Kuki-Zo insurgent groups",
+      "link": "https://www.thehindu.com/news/national/manipur/first-talks-under-new-manipur-government-held-with-kuki-zo-insurgent-groups/article70929230.ece",
+      "summary": "A joint statement by the KNO and the UPF said that the day-long discussions focused on operational and security-related issues and “both sides broadly agreed on the need to relocate certain SoO camps to reduce friction with local populations and improve security issues”",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:54:37 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "00d5b0d0417dd2b8bc5c473355f3bfd1",
+      "title": "No scope for wrongdoing at counting centres, Bengal CEO says as security forces maintain strict vigil",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-counting-centre-security-vigil-wrongdoing-allegations-tmc/article70928296.ece",
+      "summary": "Stating that round-the-clock CCTV monitoring of strong rooms was in place, Manoj Agarwal termed the allegations baseless",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:48:52 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e4592570acf7bdf600f4fa259d5bdfe4",
+      "title": "After Himanta’s remarks, Indian officials say commitment to normalise ties with Bangladesh unaffected",
+      "link": "https://www.thehindu.com/news/national/bangladesh-foreign-ministry-india-acting-envoy-summons-himanta-sarma-remarks/article70928241.ece",
+      "summary": "Stakeholders at multiple levels may look at India’s neighbourhood from their point of view; however, that cannot be interpreted as a reflection of Delhi’s current position, The Hindu was told",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:47:22 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6268db7d14422632f9d7b554ef4dd1e3",
+      "title": "‘Election bill’, says Rahul Gandhi on commercial LPG price hike; Kharge slams ‘anti-labour’ government",
+      "link": "https://www.thehindu.com/business/Economy/election-bill-rahul-slams-government-on-commercial-lpg-price-hike/article70928083.ece",
+      "summary": "Rahul Gandhi says the latest increase is proof that burden of inflation would intensify after polls; K.C. Venugopal says hike will affect ‘crores’; Kharge slams Modi govt. on International Labour Day",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:47:15 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "65eb0943d83f6d38265a9a7f971394c1",
       "title": "Israel-Iran war LIVE: Trump says 'not satisfied' with new Iran proposal sent through Pakistan",
       "link": "https://www.thehindu.com/news/international/iran-israel-us-war-live-updates-may-1-2026/article70927343.ece",
       "summary": "Trump administration says its war in Iran has been ’terminated’ before 60-day deadline",
       "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 22:13:14 +0530",
+      "timestamp": "Fri, 01 May 2026 22:44:59 +0530",
       "section": "International",
       "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "99f63b45cede58dae6d4d29c792d18c2",
+      "title": "Jabalpur cruise tragedy death toll rises to 9; survivors allege negligence by crew",
+      "link": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-cruise-boat-tragedy-toll-rises-updates/article70927475.ece",
+      "summary": "A cruise boat with 29 passengers and two crew members onboard overturned in the Bargi Dam after encountering a sudden storm",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:44:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "de3318517fe936210684211d99054a64",
+      "title": "APPSC releases lists for certificate verification on May 12",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/appsc-releases-lists-for-certificate-verification-on-may-12/article70929508.ece",
+      "summary": "",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:43:47 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c8dd6c33059aae90c93830c37d2dbb0f",
+      "title": "UP Weather: मई में यूपी को झुलसाएगी गर्मी; तराई को करेगी बेहाल, कई हिस्सों में बारिश का अनुमान",
+      "link": "https://www.livehindustan.com/uttar-pradesh/heatwave-scorch-up-may-terai-region-to-face-severe-distress-rain-forecasted-several-parts-201777655161403.html",
+      "summary": "मौसम विशेषज्ञों के अनुसार, वर्तमान में प्रशांत महासागर में बनी तटस्थ निनो परिस्थितियों और हिंद महासागर के प्रभाव से मई में प्रदेश के अधिकांश हिस्सों में सामान्य से अधिक वर्षा होने का अनुमान है।",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:41:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "556e8024c4a9f2a98bc3c003114e7624",
+      "title": "Govt. readying technical proposals for talks with Maharashtra on Pranahita-Chevella project",
+      "link": "https://www.thehindu.com/news/national/telangana/govt-readying-technical-proposals-for-talks-with-maharashtra-on-pranahita-chevella-project/article70929352.ece",
+      "summary": "Minister for Irrigation Uttam Kumar Reddy says effort is to reduce submergence in Maharashtra for barrage with max height",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:41:16 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c2870134f6def563bdf88276d80526f2",
+      "title": "Deputy Chief Minister goes on inauguration spree",
+      "link": "https://www.thehindu.com/news/cities/bangalore/deputy-chief-minister-goes-on-inauguration-spree/article70929503.ece",
+      "summary": "",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:41:08 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7df5d08ed168145917bb01e2f294b824",
+      "title": "Ukraine says a strike hit Tuapse oil terminal, the fourth attack on the region in 2 weeks",
+      "link": "https://www.thehindu.com/news/international/ukraine-says-a-strike-hit-tuapse-oil-terminal-the-fourth-attack-on-the-region-in-2-weeks/article70929588.ece",
+      "summary": "Russia attacked the western Ukrainian city of Ternopil with over 50 drones, according to mayor Serhii Nadal",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:40:06 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "af8e5387569dd8f70f8f3e81d42e590e",
+      "title": "YSRCP condemns legal actions against journalist",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ysrcp-condemns-legal-actions-against-journalist/article70929385.ece",
+      "summary": "",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:39:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "66b69f881abefb7b0d51c073e1855a16",
+      "title": "Bridge portion collapses on Jammu outskirts; labourers feared trapped",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/bridge-portion-collapses-on-jammu-outskirts-labourers-feared-trapped/article70929585.ece",
+      "summary": "No official confirmation on the exact number of persons trapped under the debris; rescue efforts under way",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:34:56 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "618ec2a3a9700a3eaa9f15878b05d4d0",
+      "title": "यूपी में आंगनबाड़ी भर्ती का बड़ा मौका, 198 पदों पर निकली वैकेंसी; 12वीं पास महिलाएं जल्द करें आवेदन",
+      "link": "https://www.livehindustan.com/career/up-anganwadi-bharti-lucknow-198-anganwadi-worker-vacancy-2026-online-apply-last-date-eligibility-details-201777654627359.html",
+      "summary": "लखनऊ जिले के अलग-अलग प्रोजेक्ट्स में आंगनबाड़ी कार्यकत्री के पदों पर भर्ती शुरू होने जा रही है। आवेदन केवल ऑनलाइन होंगे और आखिरी तारीख 16 मई 2026 तय की गई है।",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:34:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "709211cb41068e82f35b4c314cc6d62c",
+      "title": "Congress questions ‘silence’ on Ladakh’s demands of statehood, Sixth Schedule status",
+      "link": "https://www.thehindu.com/news/national/ladakh/silent-on-ladakhi-peoples-demands-of-statehood-sixth-schedule-status-congress-slams-amit-shah/article70927668.ece",
+      "summary": "Congress leader Jairam Ramesh said Home Minister Amit Shah appeared to be “basking in the glory of the Piprahwa relics” while sidestepping pressing issues such as statehood",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:26:36 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "404a3fce73cdc4cf6a7962a916de0f29",
+      "title": "सुलतानपुर की मस्जिद में फंदे से लटका मिला मदरसे के छात्र का शव, हत्या की आशंका",
+      "link": "https://www.livehindustan.com/uttar-pradesh/madrassa-student-body-found-hanging-in-sultanpur-mosque-murder-suspected-201777653505654.html",
+      "summary": "उत्तर प्रदेश के सुलतानपुर में मस्जिद में फंदे से मदरसे के छात्र का शव लटका मिला। किशोर के शव की शिनाख्त होने पर पता चला, कि वह मस्जिद के बगल में संचालित मदरसे में कक्षा छह का छात्र था।",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:20:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "622337fddacef7381e36acf8eb8375a4",
+      "title": "Govt. absorbed global oil shock, didn’t pass it on to consumers: Hardeep Puri",
+      "link": "https://www.thehindu.com/news/national/govt-absorbed-global-oil-shock-didnt-pass-it-on-to-consumers-hardeep-puri/article70928855.ece",
+      "summary": "Petroleum Minister says India has remained resilient even after 60 days of supply disruption and attributed the stability to long-term planning and timely policy interventions by the government",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:17:51 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3d9bb5f4cdb6db9d77fed0839259deb1",
+      "title": "Ganga Expressway to be toll-free for 15 days: U.P. Govt",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/ganga-expressway-to-be-toll-free-for-15-days-up-govt/article70928925.ece",
+      "summary": "The move is also expected to promote tourism and strengthen public confidence in the project",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 22:13:39 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -78688,19 +79026,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "e4592570acf7bdf600f4fa259d5bdfe4",
-      "title": "Bangladesh Foreign Ministry summons India’s acting envoy over Himanta’s remarks: report",
-      "link": "https://www.thehindu.com/news/national/bangladesh-foreign-ministry-india-acting-envoy-summons-himanta-sarma-remarks/article70928241.ece",
-      "summary": "In a social media post, Himanta Sarma last week said 20 foreign nationals were apprehended in Assam and pushed back to Bangladesh",
-      "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 21:06:38 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -79666,19 +79991,6 @@
       "lang": "en"
     },
     {
-      "id": "70bd80475e0a147e4969da52fc198af4",
-      "title": "High drama in Punjab Assembly; Congress, Akali Dal allege CM Mann was drunk during House proceedings",
-      "link": "https://www.thehindu.com/news/national/punjab/punjab-assembly-congress-akali-dal-allege-cm-mann-was-drunk-during-house-proceedings/article70928207.ece",
-      "summary": "Congress MLAs staged a walkout and urged the Speaker to initiate action, while the party also called for dope testing of all MLAs and an independent medical check by PGIMER",
-      "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 19:11:03 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "0db6548775950011047cda2bf598eb66",
       "title": "How Tamil Nadu waited for Assembly election results over the decades",
       "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/how-tamil-nadu-waited-for-assembly-election-results-over-the-decades/article70918095.ece",
@@ -80264,6 +80576,32 @@
       "lang": "en"
     },
     {
+      "id": "73fe67004e6041c8d11802c657ce8b51",
+      "title": "Zayn Malik cancels US tour and cuts UK dates after hospital bed photo shared",
+      "link": "https://www.bbc.com/news/articles/cd6pv55y51wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The former One Direction singer has taken to Instagram to update fans as he cuts his world tour dates",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 17:23:42 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "82050db5adf8ffa7bd2eaa629012947b",
+      "title": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’",
+      "link": "https://www.aljazeera.com/news/2026/5/1/us-warns-shippers-against-paying-strait-of-hormuz-tolls-donations?traffic_source=rss",
+      "summary": "Latest warning comes as Iranian state media reports Tehran has presented new peace proposal to US.",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 17:18:43 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c3fc9ecfbddf1e08de02e058179981e8",
       "title": "Commercial LPG 19 kg cylinder prices increase sharply, no change in domestic LPG cost",
       "link": "https://www.thehindu.com/business/Economy/commercial-lpg-19-kg-cylinders-prices-increased-sharply-in-telangana-no-change-in-domestic-lpg-cost/article70927393.ece",
@@ -80273,6 +80611,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ac3c3574409f46d0a8dc4e997dd9e0db",
+      "title": "Israeli police arrest man after nun attacked in Jerusalem",
+      "link": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+      "summary": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 17:03:11 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -80290,15 +80641,28 @@
       "lang": "en"
     },
     {
-      "id": "00d5b0d0417dd2b8bc5c473355f3bfd1",
-      "title": "No scope for wrongdoing at counting centres, Bengal CEO says as security forces maintain strict vigil",
-      "link": "https://www.thehindu.com/elections/west-bengal-assembly/west-bengal-election-counting-centre-security-vigil-wrongdoing-allegations-tmc/article70928296.ece",
-      "summary": "Stating that round-the-clock CCTV monitoring of strong rooms was in place, Manoj Agarwal termed the allegations baseless",
+      "id": "e2e87369ae99cad47b87b497d6426594",
+      "title": "Michael Jackson’s biopic and what it leaves out",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/5/1/aje-onl-tt_usa_jacksonfilm_av_v2-010526?traffic_source=rss",
+      "summary": "A new biopic revisits Michael Jackson - but what’s left out of his story, and who decides his legacy?",
       "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 16:59:08 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
+      "timestamp": "Fri, 01 May 2026 16:59:54 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "604677b127e39575c01b71706303811b",
+      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+      "link": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 16:54:21 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -80342,19 +80706,6 @@
       "lang": "en"
     },
     {
-      "id": "6268db7d14422632f9d7b554ef4dd1e3",
-      "title": "‘Election Bill’: Rahul slams government on commercial LPG price hike",
-      "link": "https://www.thehindu.com/business/Economy/election-bill-rahul-slams-government-on-commercial-lpg-price-hike/article70928083.ece",
-      "summary": "The Leader of Opposition in the Lok Sabha said he had warned that the heat of inflation would strike after the elections",
-      "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 16:49:35 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "12bafc41506cd7178b44501405dd6002",
       "title": "7 relatives of UP’s crorepati peon arrested:Includes two wives and in-laws, ₹8 crore fraud carried out in DIOS office",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/pilibhit-rs-8cr-scam-dios-office-peon-wives-in-laws-arrested-137833280.html",
@@ -80365,6 +80716,19 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "bf1312433f8256e7ee9ac144e7f5ab03",
+      "title": "UAE exit from OPEC signals closer alignment with US interests, experts say",
+      "link": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss",
+      "summary": "UAE wants to supply more oil than its OPEC quota and that could help push down prices once the Strait of Hormuz opens.",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 16:32:01 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -80508,19 +80872,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "ac3c3574409f46d0a8dc4e997dd9e0db",
-      "title": "Israeli police arrest man after nun attacked in Jerusalem",
-      "link": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
-      "summary": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
-      "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 15:51:58 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -80677,19 +81028,6 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "94ea979c68959d303d0aff62a3a9c1e0",
-      "title": "Allahabad HC dismisses plea seeking FIR against Rahul Gandhi over 2025 ‘fighting Indian State’ remark",
-      "link": "https://www.thehindu.com/news/national/allahabad-hc-dismisses-plea-seeking-fir-against-rahul-gandhi-over-2025-fighting-indian-state-remark/article70927955.ece",
-      "summary": "The petitioner said the remark hurt public sentiments and amounted to a seditious and anti-national statement allegedly intended to destabilise the country",
-      "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 15:25:16 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -80911,19 +81249,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "604677b127e39575c01b71706303811b",
-      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
-      "link": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "summary": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire.",
-      "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 14:42:59 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -81338,19 +81663,6 @@
       "timestamp": "Fri, 01 May 2026 13:23:40 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "709211cb41068e82f35b4c314cc6d62c",
-      "title": "Silent on Ladakhi people's demands of Statehood, Sixth Schedule status: Congress slams Amit Shah",
-      "link": "https://www.thehindu.com/news/national/ladakh/silent-on-ladakhi-peoples-demands-of-statehood-sixth-schedule-status-congress-slams-amit-shah/article70927668.ece",
-      "summary": "“The HM is in Ladakh today basking in the glory of the Piprahwa relics, while remaining silent on the demands of the people there for Statehood, Sixth Schedule status, and protection of land and employment,\" Jairam Ramesh said on X.",
-      "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 13:20:30 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -81834,19 +82146,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "99f63b45cede58dae6d4d29c792d18c2",
-      "title": "Bargi dam cruise boat tragedy: Death toll rises to nine; search operations continue",
-      "link": "https://www.thehindu.com/news/national/madhya-pradesh/madhya-pradesh-cruise-boat-tragedy-toll-rises-updates/article70927475.ece",
-      "summary": "A cruise boat with 29 passengers and two crew members onboard overturned in the Bargi Dam after encountering a sudden storm",
-      "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 12:26:36 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -82448,6 +82747,19 @@
       "lang": "en"
     },
     {
+      "id": "c654d7cb1909648560338a16e0e3fc46",
+      "title": "पश्चिम बंगाल चुनाव 2026: TMC नेता राज्य चुनाव आयोग को लिखा पत्र, स्ट्रांग रूम CCTV और पुनर्मतदान पर चिंता जताई",
+      "link": "https://www.amarujala.com/india-news/tmc-leader-shashi-panja-writes-to-sec-express-concern-regarding-intermittent-cctv-disruptions-in-strong-rooms-2026-05-01",
+      "summary": "TMC leader Shashi Panja writes to SEC express concern regarding intermittent CCTV disruptions in strong rooms - पश्चिम बंगाल चुनाव 2026: TMC नेता राज्य चुनाव आयोग को लिखा पत्र, स्ट्रांग रूम CCTV और पुनर्मतदान पर चिंता जताई",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 11:22:54 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "e1be9bd24acdd2bfd2cf89367f9374f5",
       "title": "किसान ध्यान दें: कृषि विज्ञान केंद्र बिचपुरी पर मिट्टी की निशुल्क हो रही जांच, इतने दिन में मिल जाएगी रिपोर्ट",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/unbalanced-fertilizer-use-reducing-crop-yield-experts-advise-soil-testing-2026-05-01",
@@ -82485,6 +82797,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "1cf2e21a359534cc9e7a019a92283544",
+      "title": "Vaishakh Purnima 2026: गंगा घाटों स्नान कर किया दान-पुण्य, विश्वनाथ धाम समेत सभी मंदिरों में उमड़े श्रद्धालु",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/vaishakh-purnima-2026-devotees-performed-acts-of-charity-and-merit-after-taking-holy-dip-in-ganga-2026-05-01",
+      "summary": "पूर्णिमा के अवसर पर बाहर से भी श्रद्धालु पहुंचे। सुबह 11 बजे तक दर्शन के लिए काफी भीड़ रही।",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 11:20:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
     },
     {
       "id": "11275d5ee869986679ec558ce96c20ef",
@@ -82604,6 +82929,19 @@
       "lang": "en"
     },
     {
+      "id": "9d24b408646a0a8a5a87f867909dd539",
+      "title": "Varanasi News: सब कुछ ठीक रहा तो 15 अगस्त तक चालू हो सकता है रोपवे, बैठक में बोले सचिव वी. उमाशंकर",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/secretary-v-umashankar-held-meeting-regarding-ropeways-and-signature-bridge-in-varanasi-2026-05-01",
+      "summary": "वी. उमाशंकर ने बताया कि काशी में बन रहा रोपवे प्रोजेक्ट देश की सबसे अनूठी परियोजनाओं में से एक है और अब अपने अंतिम चरण में पहुंच चुका है।",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 11:09:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "326f8780553b9145be2a6001ecb04ed6",
       "title": "Ganga Expressway: सीएम योगी का तोहफा, 15 दिन तक बिना टोल दिए यात्री गंगा एक्सप्रेसवे पर भर सकेंगे फर्राटा",
       "link": "https://www.amarujala.com/lucknow/cm-yogi-gift-travelers-can-zoom-along-ganga-expressway-for-15-days-without-paying-any-toll-2026-05-01",
@@ -82669,6 +83007,32 @@
       "lang": "hi"
     },
     {
+      "id": "00ad2cb3419795a3401ebbc971ec166e",
+      "title": "Varanasi News: शंकराचार्य अविमुक्तेश्वरानंद सरस्वती गोरखपुर हुए रवाना, तीन मई को निकलेगी गोयात्रा",
+      "link": "https://www.amarujala.com/uttar-pradesh/chandauli/shankaracharya-avimukteshwaranand-saraswati-departs-for-gorakhpur-go-yatra-to-set-out-tomorrow-2026-05-01",
+      "summary": "शंकराचार्य ने कहा कि गोमाता की रक्षा एवं प्रतिष्ठा के लिए सरकार को स्वयं संज्ञान लेकर कानून बनाना चाहिए।",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 11:01:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "8fc62d3416903dbdfc6452f2ea51fdd8",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 1 मई के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-01",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 11:01:10 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "ad7e96a22a64d327d0d86617ff78a94a",
       "title": "As U.S. eases cannabis curbs, firms may get access to IPOs and private funding",
       "link": "https://www.thehindu.com/news/international/as-us-eases-cannabis-curbs-firms-may-get-access-to-ipos-and-private-funding/article70927550.ece",
@@ -82708,6 +83072,19 @@
       "lang": "en"
     },
     {
+      "id": "c3599c75ebee6738e9f570f1b7ca04eb",
+      "title": "लविवि: महिला कर्मचारी से दुर्व्यवहार समेत गंभीर आरोप, पांच छात्र निलंबित",
+      "link": "https://www.amarujala.com/lucknow/lviv-five-students-suspended-for-serious-charges-including-misbehavior-with-a-female-employee-lucknow-news-c-13-1-lko1104-1718737-2026-05-01",
+      "summary": "Lviv: Five students suspended for serious charges including misbehavior with a female employee",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 10:53:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "85f974f592482320a421efacdc5fa883",
       "title": "लखनऊ में सिर्फ आठ लाख में अपना घर, एलडीए पांच स्थानों पर बनाने जा रहा 3000 सस्ते फ्लैट",
       "link": "https://www.livehindustan.com/uttar-pradesh/lucknow-lda-affordable-housing-scheme-3000-flats-in-8-lakh-rupees-201777612341256.html",
@@ -82734,6 +83111,19 @@
       "lang": "en"
     },
     {
+      "id": "398cbc8876ddce20100ae00c300d6f47",
+      "title": "लखनऊ: बुद्ध पूर्णिमा के मौके पर विधानसभा के ऊपर कुछ इस अंदाज में दिखा चांद",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-bthathha-paranaema-ka-maka-para-vathhanasabha-ka-uupara-kachha-isa-athaja-ma-thakha-catha-2026-05-01",
+      "summary": "लखनऊ: बुद्ध पूर्णिमा के मौके पर विधानसभा के ऊपर कुछ इस अंदाज में दिखा चांद",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 10:50:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "b144363c43b359d456a48fde1b4b1dfa",
       "title": "UP: युवती को घर से घसीट कर ले गया था परवेज, पुलिस ने सलाखों के पीछे पहुंचाया; परिवार ने मांगी सुरक्षा",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/man-arrested-for-dragging-woman-from-home-chandrashekhar-azad-demands-strict-action-2026-05-01",
@@ -82757,6 +83147,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "4f43cde415bc615c805300f2b9760be5",
+      "title": "लखनऊ: नारी आक्रोश यात्रा कल, हजरतगंज के इन हिस्सों में बदली रहेगी ट्रैफिक व्यवस्था; जानिए कहां होगी नो एंट्री",
+      "link": "https://www.amarujala.com/lucknow/lucknow-women-s-aakrosh-yatra-tomorrow-traffic-restrictions-will-be-altered-in-these-parts-of-hazratganj-f-2026-05-01",
+      "summary": "Traffic in Lucknow: नारी आक्रोश मशाल यात्रा के कारण शनिवार को हजरतगंज इलाके में यातायात बदला रहेगा। इमरजेंसी के लिए पुलिस तैनात रहेगी।",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 10:43:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "2fbd53453b5db11d84fa9d5f1e328547",
+      "title": "यूपी में दूल्हे की हत्या: बाइक सवार बदमाशों ने मारी गोली, घर से पांच किलोमीटर दूर वारदात को दिया अंजाम",
+      "link": "https://www.amarujala.com/uttar-pradesh/jaunpur/groom-shot-dead-in-jaunpur-miscreants-shot-five-kilometers-away-from-his-home-2026-05-01",
+      "summary": "घर से पांच किमी दूर दूल्हे की हत्या के बाद मौके पर हड़कंप मच गया। मौके पर देर रात तक सर्किल के सभी थानों की फोर्स तैनात रही।",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 10:41:09 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -82890,6 +83306,19 @@
       "lang": "en"
     },
     {
+      "id": "5e9872ed92ae43b815b263cbea396152",
+      "title": "Kushinagar News: कुशीनगर में बुद्ध पूर्णिमा कार्यक्रम, TMC पर केपी मौर्य का बड़ा हमला | Amar Ujala",
+      "link": "https://www.amarujala.com/video/gorakhpur/kushinagar-news-buddha-purnima-program-in-kushinagar-kp-maurya-s-big-attack-on-tmc-amar-ujala-2026-05-01",
+      "summary": "Kushinagar News: कुशीनगर में बुद्ध पूर्णिमा कार्यक्रम, TMC पर केपी मौर्य का बड़ा हमला | Amar Ujala",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 10:30:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "7dcd49c9d585beb9e6e7487641b9c241",
       "title": "जायदाद में हिस्सा मांग रहा था बेटा; पिता ने हत्या कर शव फंदे से टांग दिया, सदमे में पत्नी",
       "link": "https://www.livehindustan.com/uttar-pradesh/son-demanding-share-in-property-father-murders-him-wife-in-shock-201777611056374.html",
@@ -82913,6 +83342,45 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2b7302c602f8ee57a4b47534743af1fe",
+      "title": "Sambhal News: सरकारी जमीन पर बनाई मस्जिद, कब्रिस्तान की जगह बने मकान, प्रशासन ने करवा दी पैमाइश",
+      "link": "https://www.amarujala.com/video/gorakhpur/sambhal-news-mosque-built-on-government-land-houses-built-in-place-of-graveyard-administration-got-the-meas-2026-05-01",
+      "summary": "Sambhal News: सरकारी जमीन पर बनाई मस्जिद, कब्रिस्तान की जगह बने मकान, प्रशासन ने करवा दी पैमाइश",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 10:28:39 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "740d2cba7d2314f68c4221fb8552ff12",
+      "title": "चंदौली में बुलडोजर एक्शन: सपा कार्यालय समेत 50 दुकानों को किया गया ध्वस्त, पूर्व प्रमुख से हुई नोकझोंक",
+      "link": "https://www.amarujala.com/uttar-pradesh/chandauli/bulldozer-action-in-chandauli-50-shops-including-sp-office-demolished-2026-05-01",
+      "summary": "50 दुकानों के सामने फोरलेन के डिवाइडर के बीच से 48 फीट तक अतिक्रमण हटाया गया।",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 10:28:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "50accdc602850187efb53df78b2fe8a5",
+      "title": "Flashback Show: Meerut के गुदड़ी बाजार का तिहरा हत्याकांड...एक गर्लफ्रेंड और तीन हत्याएं",
+      "link": "https://www.amarujala.com/video/gorakhpur/flashback-show-triple-murder-case-in-meerut-s-guddi-bazaar-one-girlfriend-and-three-murders-2026-05-01",
+      "summary": "Flashback Show: Meerut के गुदड़ी बाजार का तिहरा हत्याकांड...एक गर्लफ्रेंड और तीन हत्याएं",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 10:26:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -82940,6 +83408,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "1a2debdcd18d7391e4bf2a768571210d",
+      "title": "Lucknow में सड़क पर सपा कार्यकर्ता...महिला आरक्षण लागू करने को लेकर किया प्रदर्शन | Amar Ujala",
+      "link": "https://www.amarujala.com/video/gorakhpur/sp-workers-on-the-road-in-lucknow-demonstrated-for-implementation-of-women-reservation-amar-ujala-2026-05-01",
+      "summary": "Lucknow में सड़क पर सपा कार्यकर्ता...महिला आरक्षण लागू करने को लेकर किया प्रदर्शन | Amar Ujala",
+      "date": "2026-05-01",
+      "timestamp": "Fri, 01 May 2026 10:24:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
     },
     {
       "id": "e427fd0976f8f7e89529a398d50ca7b7",
@@ -83134,19 +83615,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "8fc62d3416903dbdfc6452f2ea51fdd8",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 1 मई के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-01",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-05-01",
-      "timestamp": "Fri, 01 May 2026 10:01:14 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -84451,7 +84919,7 @@
     },
     {
       "id": "120350786935733e4fd15ea0c087f3fb",
-      "title": "UP Live News: गंगा एक्सप्रेसवे पर 15 दिन फ्री में सफर, मई दिवस पर योगी सरकार के कई ऐलान",
+      "title": "UP Live News: मई दिवस पर योगी सरकार के कई ऐलान, यूपी में पड़ेगी भयंकर गर्मी, बारिश का भी अनुमान",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-live-news-today-1-may-2026-yogi-adityanath-akhilesh-yadav-weather-politics-crime-latest-updates-live-blog-201777600692407.html",
       "summary": "UP Live News: गंगा एक्सप्रेसवे आम जनता के लिए चालू कर दिया गया है। लेकिन अभी इसपर टोल टैक्स शुरू नहीं हुआ है। इस कारण 15 दिन सफर मुफ्त में होगा। मई दिवस पर योगी सरकार ने कई ऐलान किए हैं। इनमें श्रमिकों को दोपहर में 5 घंटे आराम, हेल्पलाइन और कंट्रोल रूम शुरू करना शामिल है।",
       "date": "2026-05-01",
@@ -88281,6 +88749,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ad69b411c59da8cd70992d902f0de178",
+      "title": "‘High command will take final view’: Tariq Anwar on Kerala CM choice; claims Venugopal must ‘undergo process’",
+      "link": "https://timesofindia.indiatimes.com/india/high-command-will-take-final-view-tariq-anwar-on-kerala-cm-choice-claims-venugopal-must-undergo-process/articleshow/130683357.cms",
+      "summary": "",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T23:10:58+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d8ff536aef7118906bb1bc151157bd03",
+      "title": "H-1B visa fraud: 30 firms under investigation after reports of ‘ghost offices’ to hire workers",
+      "link": "https://timesofindia.indiatimes.com/world/us/h-1b-visa-fraud-30-firms-under-investigation-after-reports-of-ghost-offices-to-hire-workers/articleshow/130682706.cms",
+      "summary": "",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T22:49:51+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e6c29ad13d4c242160b7780cde79c5ae",
+      "title": "Superdry cofounder James Holder convicted of rape after Cheltenham night out",
+      "link": "https://timesofindia.indiatimes.com/world/uk/superdry-cofounder-james-holder-convicted-of-rape-after-cheltenham-night-out/articleshow/130682630.cms",
+      "summary": "Superdry co-founder James Holder has been convicted of rape by a jury at Gloucester Crown Court. The incident occurred after a night out in Cheltenham, with prosecutors arguing the woman's intoxication impaired her ability to resist. Holder's defence claimed the encounter was consensual, but the jury found him guilty of rape.",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T22:34:05+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9cc3ff8d7751ba91ae32da89453bc74d",
+      "title": "Meet Vladimir Demikhov: Scientist who created a two-headed dog and changed medicine forever",
+      "link": "https://timesofindia.indiatimes.com/science/meet-vladimir-demikhov-scientist-who-created-a-two-headed-dog-and-changed-medicine-forever/articleshow/130682644.cms",
+      "summary": "In the 1950s, Soviet surgeon Vladimir Demikhov conducted controversial experiments, including creating two-headed dogs by surgically grafting heads onto other dogs. These procedures, though ethically troubling, aimed to understand organ transplantation and circulation. Demikhov's work laid crucial groundwork for modern transplant medicine, influencing pioneers like Christiaan Barnard.",
+      "date": "2026-05-01",
+      "timestamp": "2026-05-01T22:23:26+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
