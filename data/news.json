@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T21:36:24.431475+00:00",
+  "generated_at": "2026-05-03T22:35:18.872937+00:00",
   "stories": [
     {
       "id": "b453735bd800a5b7701900acfc2632d3",
@@ -24676,19 +24676,6 @@
       "lang": "en"
     },
     {
-      "id": "1c6237553d4b5963d9bbd2ee25508ed0",
-      "title": "Vijay holds discussion with TVK candidates at party headquarters",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijay-holds-discussion-with-tvk-candidates-at-party-headquarters/article70924687.ece",
-      "summary": "The meeting assumes significance against the backdrop of the exit polls released a day earlier",
-      "date": "2026-04-30",
-      "timestamp": "Thu, 30 Apr 2026 19:54:58 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "5d8e28bfbc23a4e48a2b808c3debf0aa",
       "title": "1,060 candidates to appear for NEET in Chittoor",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/1060-candidates-to-appear-for-neet-in-chittoor/article70924876.ece",
@@ -44397,19 +44384,6 @@
       "lang": "en"
     },
     {
-      "id": "b190c8fa20150d8908815a36e204ccd2",
-      "title": "All set for counting; ECI promises transparency",
-      "link": "https://www.thehindu.com/elections/eci-ensures-transparency-and-all-set-for-vote-counting-in-assam-kerala-tamil-nadu-west-bengal-and-puducherry/article70935694.ece",
-      "summary": "Heavy security as counting of votes polled for elections to Assemblies of Assam, Kerala, Tamil Nadu, West Bengal and Puducherry and bye-elections in seven Assembly constituencies of five States to be taken up",
-      "date": "2026-05-03",
-      "timestamp": "Sun, 03 May 2026 23:07:32 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "059fe3dabc739077d027f5e73b2dc567",
       "title": "दुल्हन कश्यप तो दूल्हा निकला गुर्जर, यूपी में जाति को लेकर शादी में बवाल, रात में खाना छोड़कर भागे बाराती",
       "link": "https://www.livehindustan.com/uttar-pradesh/bride-turns-out-be-kashyap-groom-gurjar-caste-row-erupts-at-up-wedding-wedding-guests-flee-mid-meal-at-night-201777829145447.html",
@@ -44618,6 +44592,19 @@
       "lang": "en"
     },
     {
+      "id": "77a45a221b2226890e2f4419037b33a7",
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
+      "date": "2026-05-03",
+      "timestamp": "Sun, 03 May 2026 22:13:36 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c0e5584f8e671f5171d08ae228250b01",
       "title": "Hazrat Khwaja Bande Nawaz Urs gets under way in Kalaburagi",
       "link": "https://www.thehindu.com/news/national/karnataka/hazrat-khwaja-bande-nawaz-urs-gets-under-way-in-kalaburagi/article70935453.ece",
@@ -44705,6 +44692,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "00035608e26ca248a1cfe71eb7b59718",
+      "title": "Three dead in suspected hantavirus outbreak on Atlantic cruise ship",
+      "link": "https://www.aljazeera.com/news/2026/5/3/three-dead-in-suspected-hantavirus-outbreak-on-atlantic-cruise-ship?traffic_source=rss",
+      "summary": "Three of six passengers ill from a suspected rodent-transmitted virus have died, and one is in intensive care, WHO says.",
+      "date": "2026-05-03",
+      "timestamp": "Sun, 03 May 2026 21:59:20 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -44865,6 +44865,19 @@
       "lang": "en"
     },
     {
+      "id": "46c62ee89ac854c1a71a5bf20e40e76d",
+      "title": "French left-wing’s Melenchon says he will run for president in 2027",
+      "link": "https://www.aljazeera.com/news/2026/5/3/french-left-wings-melenchon-says-he-will-run-for-president-in-2027?traffic_source=rss",
+      "summary": "Melenchon says he will make fourth bid for presidency with President Macron term-limited and Le Pen facing ban.",
+      "date": "2026-05-03",
+      "timestamp": "Sun, 03 May 2026 21:25:48 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d1c278a6ed54c70e22d6a552f9193c1d",
       "title": "Sleepless in Tehran as crowds rally behind the flag",
       "link": "https://www.thehindu.com/news/international/sleepless-in-tehran-as-crowds-rally-behind-the-flag/article70934728.ece",
@@ -44887,6 +44900,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c7258d1a80b478e6a9ac0ff1a813c0d2",
+      "title": "Real Madrid stays alive in La Liga title race with victory at Espanyol",
+      "link": "https://www.aljazeera.com/sports/2026/5/3/real-madrid-stays-alive-in-la-liga-title-race-with-victory-at-espanyol?traffic_source=rss",
+      "summary": "Two goals by Vinicius Jr allowed Madrid to remain in title contention with Barcelona ahead of El Clasico next Sunday.",
+      "date": "2026-05-03",
+      "timestamp": "Sun, 03 May 2026 21:22:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -45368,19 +45394,6 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "77a45a221b2226890e2f4419037b33a7",
-      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
-      "link": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation.",
-      "date": "2026-05-03",
-      "timestamp": "Sun, 03 May 2026 20:36:34 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -78514,7 +78527,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-04",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-05-04",
-      "timestamp": "Mon, 04 May 2026 03:00:57 +0530",
+      "timestamp": "Mon, 04 May 2026 04:00:48 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -78527,12 +78540,90 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-05-04",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-05-04",
-      "timestamp": "Mon, 04 May 2026 03:00:45 +0530",
+      "timestamp": "Mon, 04 May 2026 04:00:35 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "a29c29c411ad9a5f6b0ac2496966bc56",
+      "title": "गर्मी व सूखे का डबल अटैक: 2090 तक 260 करोड़ लोगों पर खतरा, सदी के अंत तक 5 गुना बढे़गा असर",
+      "link": "https://www.amarujala.com/india-news/global-heat-drought-double-impact-260-crore-risk-climate-change-study-2026-05-04",
+      "summary": "गर्मी व सूखे का डबल अटैक: 2090 तक 260 करोड़ लोगों पर खतरा, सदी के अंत तक 5 गुना बढे़गा असर global-heat-drought-double-impact-260-crore-risk-climate-change-study",
+      "date": "2026-05-04",
+      "timestamp": "Mon, 04 May 2026 03:56:50 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d66b2a3c8761f51322be1c3a22354927",
+      "title": "Weather: दिल्ली-UP समेत कई राज्यों में बारिश की संभावना, अगले दो दिनों के लिए यलो अलर्ट; जानें कैसा रहेगा मौसम",
+      "link": "https://www.amarujala.com/india-news/weather-updates-india-western-disturbance-rain-snowfall-up-punjab-haryana-forecast-imd-yellow-alert-2026-05-04",
+      "summary": "Weather: दिल्ली-यूपी समेत कई राज्यों में बारिश की संभावना, अगले दो दिनों के लिए यलो अलर्ट जारी; जानें देश में कैसा रहेगा मौसम Weather Updates india western disturbance rain snowfall UP punjab haryana forecast IMD yellow Alert",
+      "date": "2026-05-04",
+      "timestamp": "Mon, 04 May 2026 03:35:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "f9d7375d64edc761a695f26f3efb0615",
+      "title": "West Bengal Election Result: बंगाल में मतगणना से पहले सारी तैयारी पूरी,CEO ने दी अधिकारियों को चेतावनी!",
+      "link": "https://www.amarujala.com/video/india-news/west-bengal-election-result-all-preparations-complete-before-counting-of-votes-in-bengal-ceo-officials-issue-2026-05-04",
+      "summary": "West Bengal Election Result: बंगाल में मतगणना से पहले सारी तैयारी पूरी,CEO ने दी अधिकारियों को चेतावनी!",
+      "date": "2026-05-04",
+      "timestamp": "Mon, 04 May 2026 03:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "35ad87351c6c91029720d3a10ecb66ef",
+      "title": "Assembly Election Result Live: पांच राज्यों के विधानसभा चुनाव नतीजे आज, कई मुख्यमंत्रियों का भविष्य दांव पर",
+      "link": "https://www.amarujala.com/live/india-news/assembly-election-result-live-assam-tamil-nadu-puducherry-kerala-vidhan-sabha-chunav-vote-counting-news-2026-05-04",
+      "summary": "Assembly Election Result Live: पांच राज्यों के विधानसभा चुनाव नतीजे आज, ममता, हिमंत और स्टालिन जैसे कद्दावर मुख्यमंत्रियों का भविष्य दांव पर, Assembly Election Result Live Assam Tamil Nadu Puducherry Kerala Vidhan Sabha Chunav Vote Counting News",
+      "date": "2026-05-04",
+      "timestamp": "Mon, 04 May 2026 03:26:48 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "888aec5c8b0c4852ecc371eaada95133",
+      "title": "Updates: भारत-कंबोडिया की सेनाओं का संयुक्त सैन्य अभ्यास; विशाखापत्तनम में बिल्डिंग स्लैब गिरने से एक की मौत",
+      "link": "https://www.amarujala.com/india-news/news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi-2026-05-04",
+      "summary": "Updates: भारत-कंबोडिया की सेनाओं का संयुक्त सैन्य अभ्यास; विशाखापत्तनम में बिल्डिंग स्लैब गिरने से एक की मौत news-updates-north-east-west-south-india-elections-2026-politics-crime-national-news-in-hindi",
+      "date": "2026-05-04",
+      "timestamp": "Mon, 04 May 2026 03:23:27 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b190c8fa20150d8908815a36e204ccd2",
+      "title": "All set for counting; ECI promises transparency",
+      "link": "https://www.thehindu.com/elections/eci-ensures-transparency-and-all-set-for-vote-counting-in-assam-kerala-tamil-nadu-west-bengal-and-puducherry/article70935694.ece",
+      "summary": "Heavy security as counting of votes polled for elections to Assemblies of Assam, Kerala, Tamil Nadu, West Bengal and Puducherry and bye-elections in seven Assembly constituencies of five States to be taken up",
+      "date": "2026-05-04",
+      "timestamp": "Mon, 04 May 2026 03:10:24 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "6be3bf2a710f03d9754bdf70e583a8cd",
@@ -78574,17 +78665,17 @@
       "lang": "hi"
     },
     {
-      "id": "35ad87351c6c91029720d3a10ecb66ef",
-      "title": "Assembly Election Result Live: पांच राज्यों के विधानसभा चुनाव नतीजे आज, कई मुख्यमंत्रियों का भविष्य दांव पर",
-      "link": "https://www.amarujala.com/live/india-news/assembly-election-result-live-assam-tamil-nadu-puducherry-kerala-vidhan-sabha-chunav-vote-counting-news-2026-05-04",
-      "summary": "Assembly Election Result Live: पांच राज्यों के विधानसभा चुनाव नतीजे आज, ममता, हिमंत और स्टालिन जैसे कद्दावर मुख्यमंत्रियों का भविष्य दांव पर, Assembly Election Result Live Assam Tamil Nadu Puducherry Kerala Vidhan Sabha Chunav Vote Counting News",
+      "id": "c52bc278102a52ac03a772b496b5d3a0",
+      "title": "Saini urges Punjab OBCs to back BJP in Assembly polls",
+      "link": "https://www.thehindu.com/news/national/haryana/saini-urges-punjab-obcs-to-back-bjp-in-assembly-polls/article70935987.ece",
+      "summary": "Addressing an OBC Sammelan in Rupnagar, Haryana CM Nayab Saini said the BJP ensures equal representation",
       "date": "2026-05-04",
-      "timestamp": "Mon, 04 May 2026 02:54:15 +0530",
+      "timestamp": "Mon, 04 May 2026 02:51:19 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "Amar Ujala",
+      "source": "The Hindu",
       "district": "",
-      "lang": "hi"
+      "lang": "en"
     },
     {
       "id": "6e04358d049a0083d0696c706b729436",
@@ -78935,6 +79026,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "1c6237553d4b5963d9bbd2ee25508ed0",
+      "title": "Vijay holds discussion with TVK candidates at party headquarters",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijay-holds-discussion-with-tvk-candidates-at-party-headquarters/article70924687.ece",
+      "summary": "The meeting assumes significance against the backdrop of the exit polls released a day earlier",
+      "date": "2026-05-04",
+      "timestamp": "Mon, 04 May 2026 02:21:38 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
