@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T08:14:01.178139+00:00",
+  "generated_at": "2026-05-10T10:09:11.292017+00:00",
   "stories": [
     {
       "id": "8858d0a1a92b47cb8e5c6bd871625d9d",
@@ -33321,14 +33321,586 @@
       "lang": "en"
     },
     {
-      "id": "6d4930bf18f76c9d0c4737065a5b834a",
-      "title": "Tamil Nadu swearing-in ceremony LIVE: C. Joseph Vijay promises 'a new beginning' after taking oath as CM",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-tvk-swearing-in-vijay-oath-ceremony-new-chief-minister-live-updates-may-10-2026/article70960233.ece",
-      "summary": "Tamil Nadu set for coalition government; nine other Ministers take oath",
+      "id": "9ba4ac3e4a03b20e946ac78b0af7ebe4",
+      "title": "डिप्टी CM ब्रजेश पाठक ने ट्रामा सेंटर पहुंचकर BJP नेता का जाना हाल, चेतन तिवारी पर बीती रात हुई थी ताबड़तोड़ फायरिंग",
+      "link": "https://www.patrika.com/lucknow-news/deputy-cm-brajesh-pathak-visited-kgmu-trauma-centre-to-meet-bjp-leader-chetan-tiwari-20567065",
+      "summary": "डिप्टी CM ब्रजेश पाठक ने KGMU ट्रॉमा सेंटर पहुंचकर बीजेपी नेता चेतन तिवारी का हालचाल लिया। इस दौरान ब्रजेश पाठक ने चेतन तिवारी के स्वास्थ्य के बारे में KGMU के डॉक्टरों से बात की। इसके साथ ही डिप्टी सीएम ने चेतन तिवारी को बेहतर इलाज उपलब्ध कराने के लिए KJMU प्रशासन को निर्देश दिए हैं।",
       "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 13:38:15 +0530",
+      "timestamp": "Sun, 10 May 2026 15:38:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "7e5e1fef47b88060993a0ab713f55c5a",
+      "title": "Yogi Cabinet Expansion: मैरिज एनिवर्सरी पर भूपेंद्र चौधरी को मिला राजनीतिक तोहफा, योगी कैबिनेट में बढ़ा कद आज",
+      "link": "https://www.patrika.com/lucknow-news/wedding-anniversary-turns-special-for-bhupendra-chaudhary-amid-yogi-cabinet-expansion-buzz-20567071",
+      "summary": "marriage anniversary Bhupendra Chaudhary: उत्तर प्रदेश की राजनीति में आज का दिन बेहद अहम माना जा रहा है। मुख्यमंत्री Yogi Adityanath सरकार 2.0 के बहुप्रतीक्षित मंत्रिमंडल विस्तार को लेकर राजनीतिक सरगर्मियां अपने चरम पर हैं। इसी बीच भाजपा के पूर्व प्रदेश अध्यक्ष Bhupendra Singh Chaudhary सबसे ज्यादा चर्चा में हैं।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:37:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "84602da27d37d284ecc4fccdaa014d52",
+      "title": "Great Nicobar project will destroy unique ecosystem; pause, revisit venture: Ramesh to Environment Minister",
+      "link": "https://www.thehindu.com/sci-tech/energy-and-environment/great-nicobar-project-will-destroy-unique-ecosystem-pause-revisit-venture-ramesh-to-environment-minister/article70961934.ece",
+      "summary": "Mr. Ramesh highlighted that security experts have written that the country's essential security needs can be met without inflicting such \"ecological devastation\"",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:34:24 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b2e38c332450534c8f20a180b92f3783",
+      "title": "Inauguration of Dhyan Mandir at Art of Living: PM Modi stresses on mental wellbeing",
+      "link": "https://www.thehindu.com/news/national/karnataka/inauguration-of-dhyan-mandir-at-art-of-living-pm-modi-stresses-on-mental-wellbeing/article70962019.ece",
+      "summary": "The Prime Minister was inaugurating Dhyan Mandir in the Art of Living (AOL) International Centre premises to mark the 70th birthday of Sri Sri Ravishankar",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:33:44 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "56d513afac3dc9799783d95ea4c51eda",
+      "title": "Vande Mataram song during Vijay’s swearing-in ceremony: CPI questions relegation of Tamil Thaai Vaazhthu",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/vande-mataram-song-during-tn-cm-vijay-swearing-in-ceremony-cpi-questions-relegation-of-tamil-thaai-vaazhthu/article70961971.ece",
+      "summary": "Mr. Veerapandian said the Tamil invocation should be rendered first when newly-elected MLAs take oath, followed by the national anthem. “This practice should be followed in all government functions,” he added.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:32:23 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "02e310c3d14d55f8530bce196f26cac7",
+      "title": "Three-hour meeting fails to end impasse over Congress Chief Minister for Kerala",
+      "link": "https://www.thehindu.com/elections/kerala-assembly/impasse-over-congress-chief-minister-for-kerala/article70959697.ece",
+      "summary": "Deepa Dasmunsi, party general secretary in charge of Kerala, told the media after the meeting that the high command had time until May 23 to finalise the candidate; senior leaders said party chief Mallikarjun Kharge and Lok Sabha LoP Rahul Gandhi were visibly dismayed by the poster wars and public marches",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:26:39 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6d4930bf18f76c9d0c4737065a5b834a",
+      "title": "Tamil Nadu government formation LIVE: Money is there; what is required is efficient administration, Stalin reacts to Vijay's speech",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamil-nadu-government-formation-tvk-swearing-in-vijay-oath-ceremony-new-chief-minister-live-updates-may-10-2026/article70960233.ece",
+      "summary": "Former T.N. Chief Minister Stalin reacts sharply to Mr. Vijay's remarks that DMK government had left State treasury empty with debt burden of ₹10 lakh crore",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:26:23 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8f4e014f81e0d7db1e696fb2c83d1108",
+      "title": "Israeli strikes in Gaza kill three, medics say, testing fragile ceasefire",
+      "link": "https://www.thehindu.com/news/international/israeli-strikes-in-gaza-kill-three-medics-say-testing-fragile-ceasefire/article70961991.ece",
+      "summary": "Medics said an air strike ‌killed one person in the Maghazi refugee camp in ‌the Gaza Strip, while ‌another ⁠killed the head of the ⁠criminal police force in Khan Younis, Wessam Abdel-Hadi, and his aide, according to ​Gaza’s Hamas-run ‌Interior Ministry",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:22:35 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4299d1add6b7736faf93b909f5b35618",
+      "title": "Yogi Cabinet Expansion: कौन हैं अजीत पाल? योगी कैबिनेट में जिनका प्रमोशन होने वाला है, जानें पूरी डिटेल",
+      "link": "https://www.livehindustan.com/uttar-pradesh/who-is-ajit-pal-he-is-about-to-be-promoted-to-the-yogi-cabinet-201778405692771.html",
+      "summary": "योगी कैबिनेट का आज विस्तार होना है। जिसमें 6 नए मंत्री शपथ लेंगे। वहीं दो मंत्रियों का प्रमोशन भी शामिल हैं। जिसमें अजीत पाल भी शामिल हैं। अजीत कानपुर देहात की सिकंदरा सीट से विधायक हैं, 2017 के उपचुनाव और 2022 के विधानसभा चुनाव में जीत दर्ज की थी। योगी सरकार में राज्य मंत्री हैं।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:19:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b1c633a350ae13f91f3f1482e067e496",
+      "title": "Prime Minister Narendra Modi attacks Congress on ‘betrayal of allies’",
+      "link": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-attacks-congress-on-betrayal-of-allies/article70961586.ece",
+      "summary": "DMK was always working for the good of the Congress, and on several occasions, DMK has bailed Congress out of trouble,” the Prime Minister said",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:19:36 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d9f2c5243765d7ec7518dae828487fb4",
+      "title": "Twelve Pakistani police officers killed in car bombing and shootout",
+      "link": "https://www.thehindu.com/news/international/twelve-pakistani-police-officers-killed-in-car-bombing-and-shootout/article70961523.ece",
+      "summary": "A militant alliance known as the Ittehad-ul-Mujahideen claimed responsibility for the attack",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:18:26 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1d00f4099d938d5dd6cf24f27c8d24d7",
+      "title": "Hantavirus-hit cruise ship arrives in Spain's Canary Islands",
+      "link": "https://www.thehindu.com/sci-tech/health/hantavirus-hit-cruise-ship-spain-canary-islands/article70961627.ece",
+      "summary": "The Dutch-flagged MV Hondius arrived at the Spanish port of Granadilla escorted by a Civil Guard vessel, AFP journalists reported, confirmed by data from the maritime tracking service VesselFinder",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:15:52 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a11f1b743f2a803c2c7a41e0a70ee76c",
+      "title": "Artificial limbs, callipers distributed to 90 beneficiaries in Vijayawada",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/artificial-limbs-callipers-distributed-to-90-beneficiaries-in-vijayawada/article70959514.ece",
+      "summary": "The artificial limbs and callipers, donated by the Sudeekshan Foundation, were distributed by Andhra Pradesh Mahila Commission chairperson Rayapati Sailaja at a programme",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:14:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f57ff1fee047f78095bbe3588f8fe6c5",
+      "title": "NDA leaders stake claim to form Assam government",
+      "link": "https://www.thehindu.com/elections/assam-assembly/assam-government-formation-himanta-biswa-sarma-legislature-party-leader-bjp-nda-alliance/article70961689.ece",
+      "summary": "Himanta Biswa Sarma was unanimously elected as the BJP Legislature Party leader, paving the way for him to take oath as the Chief Minister for a second successive term on May 12",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:09:35 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "368d96798d421893d920d0a07278ecaf",
+      "title": "कौन हैं सुरेंद्र दिलेर? योगी कैबिनेट में बनेंगे मंत्री, 3 पीढ़ियों का साथ और PDA की काट; जानें रणनीति",
+      "link": "https://www.livehindustan.com/uttar-pradesh/who-is-surendra-diler-a-minister-in-yogi-cabinet-representing-generations-countering-pda-formula-know-bjp-strategy-201778405214444.html",
+      "summary": "भाजपा ने तीसरी पीढ़ी पर भरोसा जताते हुए सुरेंद्र दिलेर को खैर उपचुनाव में अनूप प्रधान की जगह मैदान में उतारा। उन्होंने सपा प्रत्याशी चारू कैन को 38,393 मतों से हराकर पहली बार विधानसभा पहुंचने में कामयाबी पाई। सुरेंद्र दिलेर के जरिए BJP ने दलित और पिछड़े वर्ग को एक साथ साधने की कोशिश की है।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:07:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "42c53993e6b53a86d20d870c8726eab9",
+      "title": "FIR against Jaipur journalist for social media post targeting Rajasthan Chief Secretary",
+      "link": "https://www.thehindu.com/news/national/rajasthan/fir-against-jaipur-journalist-for-social-media-post-targeting-rajasthan-chief-secretary/article70961900.ece",
+      "summary": "According to the FIR registered on May 8, the action was initiated following a Facebook post dated April 26 by freelance journalist Mahesh Jhalani, which allegedly contained objectionable content affecting the image of State Government and senior officials",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:06:06 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5d9df74f40a75fa9a1bd576c4eddb59d",
+      "title": "कौन हैं कैलाश सिंह राजपूत? योगी मंत्रिमंडल में होंगे शामिल, लोधी समाज में रखते हैं गहरी पैठ",
+      "link": "https://www.livehindustan.com/uttar-pradesh/who-kailash-singh-rajput-set-to-join-yogi-cabinet-he-holds-deep-influence-within-lodhi-community-201778405334949.html",
+      "summary": "कन्नौज की तिर्वा विधानसभा सीट से भाजपा विधायक कैलाश सिंह राजपूत योगी मंत्रिमंडल में शामिल होंगे। 2017 से लगातार जीत दर्ज कर रहे विधायक कैलाश का लोधी समाज में गहरी पकड़ है।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:04:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "be6c930aea5d12c14295a2a372cb8a73",
+      "title": "Driving change in an autorickshaw: This Bengaluru NGO is helping single mothers, abuse survivors rise from the ashes",
+      "link": "https://www.thehindu.com/news/national/karnataka/driving-change-in-an-autorickshaw-this-bengaluru-ngo-is-helping-single-mothers-abuse-survivors-rise-from-the-ashes/article70958870.ece",
+      "summary": "Swavalambi Stree Auto-Rickshaw Driving Initiative by Bengaluru-based NGO Taliru Foundation has supported many women",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:03:30 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e468149f52e9849a8b126818da3de5ca",
+      "title": "Iran-Israel war LIVE: British military says ship caught fire after being hit off coast of Qatar",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-10-2026/article70961359.ece",
+      "summary": "Iran on May 9 said it was still reviewing the United States’ proposal linked to ongoing negotiations over the West Asia conflict",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 15:02:58 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1c34b4d5a68d9331ed762851394ac3f6",
+      "title": "Stalin reacts to Tamil Nadu CM Vijay speech: ‘Money is there; what is required is efficient administration’",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/mk-stalin-reacts-to-tamil-nadu-cm-vijay-speech-money-is-there-what-is-required-is-efficient-administration/article70961861.ece",
+      "summary": "Responding to Mr. Vijay’s claim that his electoral promises were practical, Mr. Stalin said the new Chief Minister had only just entered administration and would now learn the challenges involved in fulfilling promises.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:59:26 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5089b937914b8802fcf4f2df64566003",
+      "title": "Senthil Kumar, Laxmi Priya named CM Vijay’s Secretaries I and II",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/senthil-kumar-laxmi-priya-named-cm-vijays-secretaries-i-and-ii/article70961811.ece",
+      "summary": "Senthil Kumar was a secretary of the Health and Famil Welfare department while Laxmi Priya was Secretary of the Adi Dravidar and Tribal Welfare department",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:54:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "94894009f378c953a117dbb6235e97fe",
+      "title": "Eluru pastor arrested under POCSO Act for sexual assault of minor",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/eluru-pastor-arrested-under-pocso-act-for-sexual-assault-of-minor/article70961878.ece",
+      "summary": "The accused, who ran a prayer house in Eluru district, was arrested on a charge of raping a minor and forcing her to abort the pregnancy",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:52:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c906f33e79421baf1403aaca88747c18",
+      "title": "Fresh overhaul in Suvendu Adhikari administration likely in near future, say officials",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/fresh-overhaul-in-suvendu-adhikari-administration-likely-in-near-future-say-officials/article70961736.ece",
+      "summary": "The transition towards a more stable administrative structure would follow the Election Commission’s unprecedented scale of pre-poll reshuffle across the State bureaucracy and police establishment, officials said",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:50:35 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2206ff6023e808458f9a01d35eddeeb7",
+      "title": "Yogi Cabinet Expansion: भाजपा बूथ कार्यकर्ता से मंत्री तक, कौन हैं हंसराज विश्वकर्मा?",
+      "link": "https://www.livehindustan.com/uttar-pradesh/who-is-hansraj-vishvkarma-become-minister-in-yogi-cabinet-201778402254830.html",
+      "summary": "योगी कैबिनेट के विस्तार में वाराणसी के जिलाध्यक्ष और एमएलसी हसंराज विश्वकर्मा को भी जगह मिली है। वे मंत्री पद की शपथ लेंगें। हंसराज 2016 से अब तक लगातार दो बार जिलाध्यक्ष हैं। उन्होंने 2017 के विधानसभा चुनाव में वाराणसी की पांच सीटों पर अहम भूमिका निभाई थी।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:48:09 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "908ce5334f32b1ed6f71462294340f74",
+      "title": "Yogi सरकार का बड़ा विस्तार: आठ मंत्री लेंगे शपथ, कई नेताओं का बढ़ेगा कद, जानिए कौन-कौन शामिल",
+      "link": "https://www.patrika.com/lucknow-news/yogi-cabinet-expansion-eight-leaders-set-to-take-oath-in-major-up-political-move-20566801",
+      "summary": "UP Cabinet Expansion: उत्तर प्रदेश की राजनीति में आज बड़ा दिन माना जा रहा है। मुख्यमंत्री Yogi Adityanath के नेतृत्व वाली योगी सरकार 2.0 का बहुप्रतीक्षित मंत्रिमंडल विस्तार आज राजभवन में होने जा रहा है। इस विस्तार में कुल आठ नेताओं को मंत्री पद की शपथ दिलाई जाएगी, जिनमें छह नए चेहरे शामिल हैं, जबकि दो मौजूदा राज्य मंत्रियों के कद में इज़ाफ़ा किया जा रहा है।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:45:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "68d4ee2266479c03221460b4f545a18b",
+      "title": "Prohibitory orders clamped in Kadapa after clashes over Almaspet junction naming",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/prohibitory-orders-clamped-in-kadapa-after-clashes-over-almaspet-junction-naming/article70961884.ece",
+      "summary": "The Kadapa Collector and Superintendent of Police said the clashes at Almaspet junction were unfortunate. Cases have been registered, and arrests are likely",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:44:35 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dd0a5b01aa16bad73cb1debbccdb43d1",
+      "title": "Obituary | D. Sudhakar turned political adversities into advantages",
+      "link": "https://www.thehindu.com/news/national/karnataka/obituary-d-sudhakar-turned-political-adversities-into-advantages/article70961804.ece",
+      "summary": "Mr. Sudhakar, who used to maintain a low profile, was elected to the Karnataka Assembly for the first time from Challakere in 2004 on Congress ticket",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:37:35 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ea5ab2bfb5cd8af7e98abd5c78c09ed",
+      "title": "Could hantavirus be the new emerging pathogen in Kerala?",
+      "link": "https://www.thehindu.com/news/national/kerala/could-hantavirus-be-the-new-emerging-pathogen-in-kerala/article70959251.ece",
+      "summary": "Presence of antibodies against the virus in blood samples was reported in the State in 1999 itself and one probable case of the virus-induced ‘hemorrhagic fever with renal syndrome’ was reported in 2014. Experts say a good number of ‘leptospirosis-like’ illnesses, wherein patients die within four to five days could be due to hantavirus or a co-infection of leptospirosis and hanta. Symptoms are similar and hard to distinguish without targeted serology tests",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:35:04 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "18da8d6e202e5189b5977a5fb003c889",
+      "title": "What is the Governor’s role in a hung Assembly?",
+      "link": "https://www.thehindu.com/news/national/what-is-the-governors-role-in-a-hung-assembly/article70958937.ece",
+      "summary": "Why has Governor Rajendra Arlekar refused to swear in TVK party president Vijay as the new Chief Minister of Tamil Nadu? What is the primary objective of the Governor in such situations? What has the Supreme Court ruled in the past? Is the floor test the best way of proving majority?",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:28:19 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "05a11291e3445927d90815fcc497f6d1",
+      "title": "Suvendu Adhikari | The Bengal pivot",
+      "link": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-the-bengal-pivot/article70960054.ece",
+      "summary": "Mamata Banerjee’s former trusted lieutenant has unseated her from power and become West Bengal’s first BJP Chief Minister",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:27:46 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b03e617bed020ea5271268974bc02185",
+      "title": "Yogi Cabinet Expension: कौन हैं मनोज पांडेय? कभी सपा के मुख्य सचेतक, अब योगी कैबिनेट में एंट्री",
+      "link": "https://www.livehindustan.com/uttar-pradesh/yogi-cabinet-expansion-who-is-manoj-pandey-once-chief-whip-of-samajwadi-party-now-entry-in-yogi-cabinet-201778402466392.html",
+      "summary": "इस मंत्रिमंडल विस्तार में छह नए चेहरे शामिल हो रहे हैं जबकि दो का प्रमोशन हो रहा है। इनमें मनोज पांडेय एक ऐसा नाम है जिस पर पक्ष और विपक्ष दोनों की नज़रें लंबे समय से टिकी रही हैं। 2022 का चुनाव समाजवादी पार्टी के टिकट पर जीतने वाले मनोज यूपी विधानसभा में सपा के मुख्य सचेतक रह चुके हैं।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:25:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b1f7536e4fcb214e4fcc0d71156f8f7e",
+      "title": "Tamilaga Vettri Kazhagam | The star who stormed into politics",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamilaga-vettri-kazhagam-vijay-the-star-who-stormed-into-politics/article70960039.ece",
+      "summary": "The political organisation built by actor-turned-politician Vijay, which emerged as the single largest party in the Assembly, declares itself as a secular movement, rooted in the Tamil experience, and committed to social justice and equality",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:15:21 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3462b0b87fba588b6063fce1f3f0f917",
+      "title": "Census 2027:...क्या चावल-गेहूं एकसाथ नहीं खा सकते नागरिक, एक ही विकल्प चुनने का अवसर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/census-2027-self-enumeration-citizens-getting-one-option-for-selection-in-questions-regarding-food-201778402197863.html",
+      "summary": "उत्तर भारत में मुख्य रूप से गेहूं और चावल दोनों का उपयोग किया जाता है। समस्या यह है कि दोनों को विकल्प के रूप में नहीं रखा जा सकता है। अगर गेहूं चुनेंगे तो चावल मिट जाएगा और चावल विकल्प में चुनेंगे तो गेहूं मिट जाएगा।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:12:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "25ef37b4ffb17ef1ee8832f86f49152d",
+      "title": "One year after Operation Sindoor: The threat landscape has not disappeared",
+      "link": "https://www.thehindu.com/opinion/op-ed/one-year-after-operation-sindoor-the-threat-landscape-has-not-disappeared/article70961789.ece",
+      "summary": "India’s long-term credibility, both domestically and internationally, will depend not merely on asserting the existence of cross-border terrorism",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:11:55 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "14418e62dbca42c5b90b957f197ed68b",
+      "title": "BJP won’t support any coalition formation in Tamil Nadu: Nainar Nagenthran",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/bjp-wont-support-any-coalition-formation-in-tamil-nadu-nainar-nagenthran/article70954751.ece",
+      "summary": "The BJP, as part of the AIADMK-led National Democratic Alliance, contested 27 seats. The party’s nominee M. Bhojarajan won by a slim margin of 976 votes",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:10:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "94e2f10e1e9640549711d665de6a5e03",
+      "title": "AAP holds protests against BJP over ED action against Punjab Minister Sanjeev Arora",
+      "link": "https://www.thehindu.com/news/national/punjab/aap-holds-protests-against-bjp-over-ed-action-against-punjab-minister-sanjeev-arora/article70961862.ece",
+      "summary": "The AAP leaders and volunteers burnt effigies of the BJP-led Centre and raised slogans against it. They were also carrying placards which read 'ED-BJP gathjod murdabad'",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:06:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "20f429555e45dfd5c2f5c9f89e47241e",
+      "title": "पश्चिमी यूपी में भाजपा का 'जाट कार्ड' बनेंगे भूपेंद्र चौधरी, योगी मंत्रिमंडल में हो गई वापसी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/bhupendra-chaudhary-to-serve-bjp-jat-card-in-western-up-returns-to-yogi-cabinet-from-organizational-role-201778401059913.html",
+      "summary": "यूपी भाजपा के पूर्व भाजपा अध्यक्ष भूपेंद्र चौधरी को एक बार फिर से सरकार में एंट्री मिल गई है। करीब तीन साल तक संगठन में रहे भूपेंद्र चौधरी जाटलैंड में अच्छी पकड़ रखते हैं। रविवार की शाम भूपेंद्र चौधरी योगी मंत्रिमंडल में शामिल हो सकते हैं।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 14:03:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "f3aa8790569e86ebc4352a70e0b18f86",
+      "title": "T.N. Government formation: IUML endorses M.K. Stalin’s demand for a new government",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/iuml-role-tamil-nadu-govt-formation-updates-may-8/article70955419.ece",
+      "summary": "Professor Kader Mohideen, the leader of the party, said his party has not given a letter of support to Tamilaga Vetri Kazhagam, led by actor Vijay.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 13:58:59 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "19a80313bb7f9d8efe34becadaf1f62c",
+      "title": "Hire me!",
+      "link": "https://www.thehindu.com/newsletter/gender-agenda/gender-agenda-newsletter-hire-me/article70961675.ece",
+      "summary": "",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 13:58:58 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ae02e22b795d4a7b311874ff3d097ab0",
+      "title": "New generation, new voice, new imagination: Rahul, Kharge hail Vijay's swearing-in as T.N. CM",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/formation-of-this-govt-reaffirms-strength-of-self-respect-social-justice-kharge-after-vijays-swearing-in-as-tamil-nadu-cm/article70961696.ece",
+      "summary": "Mr. Vijay was sworn in as the Tamil Nadu Chief Minister on May 10, 2026 in a colourful ceremony attended by Congress leader Rahul Gandhi, ushering in the first non-DMK, non-AIADMK government in the southern State in 60 years",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 13:58:09 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "69b26f6477b46f8260b8f7e0882961ff",
+      "title": "भगौना बेचने को लेकर खूनी विवाद, छोटे ने बड़े भाई को पीट-पीटकर मार डाला",
+      "link": "https://www.livehindustan.com/uttar-pradesh/younger-brother-beat-the-elder-brother-to-death-over-selling-the-fugitive-201778401139440.html",
+      "summary": "गोरखपुर में शनिवार देर रात भगौना बेचने को लेकर हुए विवाद में बड़े भाई की पीटकर हत्या कर दी गई। सूचना मिलने पर पुलिस मौके पर पहुंची और इस मामले में पिता और छोटे भाई को हिरासत में लेकर पूछताछ शुरू कर दी है।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 13:58:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8ec02dfbe539839de366f12e3d7a9f25",
+      "title": "Five arrested for stealing power cables from residential layouts near Mysuru",
+      "link": "https://www.thehindu.com/news/national/karnataka/five-arrested-for-stealing-power-cables-from-residential-layouts-near-mysuru/article70961633.ece",
+      "summary": "Four bundles of ACSR wire weighing 281 kgs, one goods vehicle and cash amounting to ₹2.47 lakh were seized from the accused",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 13:54:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c6decaa592a5423b5edae2e012ae9dc5",
+      "title": "PM Modi congratulates TVK chief Vijay on taking oath as Tamil Nadu CM",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/pm-modi-congratulates-tvk-chief-vijay-on-taking-oath-as-tamil-nadu-cm/article70961622.ece",
+      "summary": "TVK chief and its Legislature Party Leader Vijay was sworn in as Tamil Nadu Chief Minister on May 10, 2026",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 13:53:35 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "78000182510af249a5d4cfe24064ab13",
+      "title": "Mythos | Double-edged sword",
+      "link": "https://www.thehindu.com/news/national/mythos-double-edged-sword/article70960067.ece",
+      "summary": "The Anthropic AI model can not only identify vulnerabilities in cyberspace that humans may have missed, but also generate ways to exploit them, potentially even for non-experts",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 13:49:26 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cd0bfcc281d05e78ecf535eb8e74c701",
+      "title": "Vijay, the second debutant Legislator, to be sworn in as T.N. CM since 1967",
+      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijay-the-second-debutant-legislator-to-be-sworn-in-tn-cm-since-1967/article70961702.ece",
+      "summary": "Mr. Vijay is also the first member of a minority religious denomination (Christian) to occupy the top post in the State",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 13:43:29 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -33342,19 +33914,6 @@
       "timestamp": "Sun, 10 May 2026 13:35:02 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "ae02e22b795d4a7b311874ff3d097ab0",
-      "title": "New generation, new voice, new imagination: Rahul, Kharge hail Vijay's swearing-in as T.N. CM",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/formation-of-this-govt-reaffirms-strength-of-self-respect-social-justice-kharge-after-vijays-swearing-in-as-tamil-nadu-cm/article70961696.ece",
-      "summary": "Mr. Vijay was sworn in as the Tamil Nadu Chief Minister on May 10, 2026 in a colourful ceremony attended by Congress leader Rahul Gandhi, ushering in the first non-DMK, non-AIADMK government in the southern State in 60 years",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 13:33:13 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -33438,19 +33997,6 @@
       "lang": "en"
     },
     {
-      "id": "c6decaa592a5423b5edae2e012ae9dc5",
-      "title": "PM Modi congratulates TVK chief Vijay on taking oath as Tamil Nadu CM",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/pm-modi-congratulates-tvk-chief-vijay-on-taking-oath-as-tamil-nadu-cm/article70961622.ece",
-      "summary": "TVK chief and its Legislature Party Leader Vijay was sworn in as Tamil Nadu Chief Minister on May 10, 2026",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 13:15:40 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "5670c7d3c34e2462a8876445b387110f",
       "title": "Karnataka’s Planning Minister D. Sudhakar passes away",
       "link": "https://www.thehindu.com/news/national/karnataka/karnataka-planning-minister-sudhakar-passes-away/article70961370.ece",
@@ -33464,42 +34010,16 @@
       "lang": "en"
     },
     {
-      "id": "dd0a5b01aa16bad73cb1debbccdb43d1",
-      "title": "Obituary | D. Sudhakar turned political adversities into advantages",
-      "link": "https://www.thehindu.com/news/national/karnataka/obituary-d-sudhakar-turned-political-adversities-into-advantages/article70961804.ece",
-      "summary": "Mr. Sudhakar, who used to maintain a low profile, was elected to the Karnataka Assembly for the first time from Challakere in 2004 on Congress ticket",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 13:15:14 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "dacb2f03d12c32449ab54330400462ad",
-      "title": "Yogi Cabinet Expension: मंत्री पद की शपथ लेने वाले नए चेहरे कौन? इन मंत्रियों का प्रमोशन संभव",
+      "title": "Yogi Cabinet Expansion: मंत्री पद की शपथ लेने वाले नए चेहरे कौन? इन मंत्रियों का प्रमोशन",
       "link": "https://www.livehindustan.com/uttar-pradesh/yogi-cabinet-expansion-6-new-faces-to-become-ministers-promotions-possible-for-these-ministers-201778398490369.html",
-      "summary": "योगी कैबिनेट का विस्तार आज दोपहर साढ़े तीन बजे जनभवन में होगा। इस बार मंत्री पद की शपथ लेने वाले संभावित नामों में भूपेन्द्र चौधरी, मनोज पांडेय, ⁠सुरेन्द्र दिलेर, हंसराज विश्वकर्मा, कृष्णा पासवान और कैलाश राजपूत शामिल हैं। इनके अलावा तीन मंत्रियों का प्रमोशन भी संभव माना जा रहा है।",
+      "summary": "योगी कैबिनेट का विस्तार आज दोपहर साढ़े तीन बजे जनभवन में होगा। इस बार मंत्री पद की शपथ लेने वाले नामों में भूपेन्द्र चौधरी, मनोज पांडेय, ⁠सुरेन्द्र दिलेर, हंसराज विश्वकर्मा, कृष्णा पासवान और कैलाश राजपूत शामिल हैं। इनके अलावा दो मंत्रियों का प्रमोशन भी होगा।",
       "date": "2026-05-10",
       "timestamp": "Sun, 10 May 2026 13:14:21 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "8ec02dfbe539839de366f12e3d7a9f25",
-      "title": "Five arrested for stealing power cables from residential layouts near Mysuru",
-      "link": "https://www.thehindu.com/news/national/karnataka/five-arrested-for-stealing-power-cables-from-residential-layouts-near-mysuru/article70961633.ece",
-      "summary": "Four bundles of ACSR wire weighing 281 kgs, one goods vehicle and cash amounting to ₹2.47 lakh were seized from the accused",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 13:13:08 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -33634,7 +34154,7 @@
     },
     {
       "id": "e5dadbaa4a837e52baa4489e353e2bd4",
-      "title": "Varanasi News: जेल से बाहर निकालने के लिए 15-20 हजार रुपये का सौदा, फर्जी दस्तावेज तैयार कर गिरोह बदल लेता था पहचान, दो गिरफ्तार",
+      "title": "जेल से बाहर निकालने का खेल: 15-20 हजार रुपये का सौदा, फर्जी दस्तावेज तैयार करवाते थे; ऐसे बदलते थे पहचान",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/a-deal-of-15-20-thousand-rupees-was-made-to-get-out-of-jail-the-gang-used-to-change-identities-by-preparing-fake-documents-two-arrested-varanasi-news-c-20-noi1138-1386161-2026-05-10",
       "summary": "जेल से बाहर निकालने के लिए 15-20 हजार रुपये का सौदा, फर्जी दस्तावेज तैयार कर गिरोह बदल लेता था पहचान, दो गिरफ्तार",
       "date": "2026-05-10",
@@ -33643,19 +34163,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "c906f33e79421baf1403aaca88747c18",
-      "title": "Fresh overhaul in Suvendu Adhikari administration likely in near future, say officials",
-      "link": "https://www.thehindu.com/elections/west-bengal-assembly/fresh-overhaul-in-suvendu-adhikari-administration-likely-in-near-future-say-officials/article70961736.ece",
-      "summary": "The transition towards a more stable administrative structure would follow the Election Commission’s unprecedented scale of pre-poll reshuffle across the State bureaucracy and police establishment, officials said",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 12:51:18 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -33698,19 +34205,6 @@
       "lang": "en"
     },
     {
-      "id": "f57ff1fee047f78095bbe3588f8fe6c5",
-      "title": "Assam: Himanta Biswa Sarma elected NDA leader, set to return as Chief Minister",
-      "link": "https://www.thehindu.com/elections/assam-assembly/assam-government-formation-himanta-biswa-sarma-legislature-party-leader-bjp-nda-alliance/article70961689.ece",
-      "summary": "Eight BJP legislators proposed the name of Mr. Sarma as its legislature party leader, Assam Central Observer J.P. Nadda said",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 12:46:53 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f03153590da71e7c3b557894db48c62b",
       "title": "Massive response to The Hindu EducationPlus Career Counselling Fair-2026 in Bengaluru",
       "link": "https://www.thehindu.com/news/national/karnataka/massive-response-to-the-hindu-educationplus-career-counselling-fair-2026-in-bengaluru/article70959892.ece",
@@ -33743,19 +34237,6 @@
       "summary": "It is not charisma or cine appeal alone that has gone in favour of Tamilaga Vettri Kazhagam (TVK) and its founder C. Joseph Vijay in the 2026 Assembly election. For years now, several sections of the people had been tiring of the AIADMK and the DMK and wanted to move on. Pollsters were confounded by the havoc wreaked by the ‘Vijay tide’.",
       "date": "2026-05-10",
       "timestamp": "Sun, 10 May 2026 12:44:29 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "cd0bfcc281d05e78ecf535eb8e74c701",
-      "title": "Vijay, the second debutant Legislator, to be sworn in as TN CM since 1967",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/vijay-the-second-debutant-legislator-to-be-sworn-in-tn-cm-since-1967/article70961702.ece",
-      "summary": "Mr. Vijay is also the first member of a minority religious denomination (Christian) to occupy the top post in the State",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 12:43:46 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -33816,9 +34297,9 @@
     },
     {
       "id": "9e5e215fa64f772ec0315603f8ee8d29",
-      "title": "Varanasi News: फ्रेंचाइजी दिलाने के नाम पर डायरेक्टर से 52़ 99 लाख की ठगी, नौ पर प्राथमिकी दर्ज",
+      "title": "वाराणसी में 52.99 लाख की ठगी: फ्रेंचाइजी दिलाने के नाम पर डायरेक्टर से फ्राॅड, नौ पर FIR; बुलाया गया था मुंबई",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/director-duped-of-rs-5299-lakh-in-the-name-of-providing-franchise-fir-registered-against-nine-varanasi-news-c-20-vns1021-1386347-2026-05-10",
-      "summary": "फ्रेंचाइजी दिलाने के नाम पर डायरेक्टर से 52़ 99 लाख की ठगी, नौ पर प्राथमिकी दर्ज",
+      "summary": "चितईपुर थाना क्षेत्र के विश्वकर्मा नगर कॉलोनी निवासी और रघुकुल कृपा हॉस्पिलिटी के डायरेक्टर अभिलाष नारायण सिंह से एफ लाउंज बाय फैशन टीवी की फ्रेंचाइजी दिलाने के नाम पर करीब 53 लाख रुपये की ठगी का मामला सामने आया है।",
       "date": "2026-05-10",
       "timestamp": "Sun, 10 May 2026 12:35:00 +0530",
       "section": "UP_Focus",
@@ -34088,19 +34569,6 @@
       "lang": "en"
     },
     {
-      "id": "1d00f4099d938d5dd6cf24f27c8d24d7",
-      "title": "Hantavirus-hit cruise ship arrives in Spain's Canary Islands",
-      "link": "https://www.thehindu.com/sci-tech/health/hantavirus-hit-cruise-ship-spain-canary-islands/article70961627.ece",
-      "summary": "The Dutch-flagged MV Hondius arrived at the Spanish port of Granadilla escorted by a Civil Guard vessel, AFP journalists reported, confirmed by data from the maritime tracking service VesselFinder",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 12:04:47 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "3a0d73e847b95a12e1a760dd9f5a4468",
       "title": "Bareilly News: विद्युत निगम की बड़ी कार्रवाई, बिजली चोरी के आरोप में 152 लोगों पर रिपोर्ट, 445 के कनेक्शन काटे",
       "link": "https://www.amarujala.com/uttar-pradesh/bareilly/cases-registered-against-152-people-on-charges-of-electricity-theft-in-bareilly-2026-05-10",
@@ -34125,19 +34593,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "e468149f52e9849a8b126818da3de5ca",
-      "title": "Iran-Israel war LIVE: British military says ship caught fire after being hit off coast of Qatar",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-10-2026/article70961359.ece",
-      "summary": "Iran on May 9 said it was still reviewing the United States’ proposal linked to ongoing negotiations over the West Asia conflict",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 12:02:25 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "633f82b9606e03c290d4729d6d91bcb1",
@@ -34257,19 +34712,6 @@
       "lang": "en"
     },
     {
-      "id": "b1c633a350ae13f91f3f1482e067e496",
-      "title": "Prime Minister Narendra Modi attacks Congress on ‘betrayal of allies’",
-      "link": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-attacks-congress-on-betrayal-of-allies/article70961586.ece",
-      "summary": "DMK was always working for the good of the Congress, and on several occasions, DMK has bailed Congress out of trouble,” the Prime Minister said",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 11:45:11 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "1398fc3d61629b3012d2c6e80f5032cb",
       "title": "हिमंत चुने गए असम विधायक दल के नेता: गवर्नर से मिलकर पेश किया सरकार बनाने का दावा, 12 मई को लेंगे CM पद की शपथ",
       "link": "https://www.amarujala.com/india-news/bjp-leader-dr-himanta-biswa-sarma-elected-as-the-leader-of-bjp-legislature-party-and-the-nda-legislature-party-2026-05-10",
@@ -34349,7 +34791,7 @@
     },
     {
       "id": "13ae442f3966807e15e2c3cd8a16b2d4",
-      "title": "Yogi Cabinet Expension: सपा से निष्कासित होकर भगवा खेमे में आईं, अब मंत्री बनेंगी; कौन हैं पूजा पाल?",
+      "title": "Yogi Cabinet Expansion: सपा से निष्कासित होकर भगवा खेमे में आईं, अब मंत्री बनेंगी; कौन हैं पूजा पाल?",
       "link": "https://www.livehindustan.com/uttar-pradesh/who-is-pooja-pal-now-become-a-minister-in-yogi-cabinet-201778390544712.html",
       "summary": "योगी मंत्रिमंडल के प्रस्तावित विस्तार में प्रयागराज की चर्चित नेता और कौशाम्बी की चायल सीट से विधायक पूजा पाल को शामिल किया जाएगा। पूजा पाल पहली बार योगी सरकार के मंत्रिमंडल का हिस्सा बनेंगी। लगातार दो बार विधायक रहीं पूजा पाल को 2017 में भाजपा लहर के बीच हार का सामना करना पड़ा था।",
       "date": "2026-05-10",
@@ -34478,19 +34920,6 @@
       "lang": "en"
     },
     {
-      "id": "18da8d6e202e5189b5977a5fb003c889",
-      "title": "What is the Governor’s role in a hung Assembly?",
-      "link": "https://www.thehindu.com/news/national/what-is-the-governors-role-in-a-hung-assembly/article70958937.ece",
-      "summary": "Why has Governor Rajendra Arlekar refused to swear in TVK party president Vijay as the new Chief Minister of Tamil Nadu? What is the primary objective of the Governor in such situations? What has the Supreme Court ruled in the past? Is the floor test the best way of proving majority?",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 11:00:59 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b51e3c2643150d91d66291ceeed118ae",
       "title": "UP News: बदायूं में गंगा एक्सप्रेसवे पर टूरिस्ट बस पलटी, चार यात्री घायल; हरिद्वार से प्रयागराज जा रहे थे सभी",
       "link": "https://www.amarujala.com/uttar-pradesh/budaun/tourist-bus-overturns-on-ganga-expressway-in-budaun-2026-05-10",
@@ -34514,19 +34943,6 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "d9f2c5243765d7ec7518dae828487fb4",
-      "title": "Twelve Pakistani police officers killed in car bombing and shootout",
-      "link": "https://www.thehindu.com/news/international/twelve-pakistani-police-officers-killed-in-car-bombing-and-shootout/article70961523.ece",
-      "summary": "A militant alliance known as the Ittehad-ul-Mujahideen claimed responsibility for the attack",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 10:52:13 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -34566,19 +34982,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "b1f7536e4fcb214e4fcc0d71156f8f7e",
-      "title": "Tamilaga Vettri Kazhagam | The star who stormed into politics",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/tamilaga-vettri-kazhagam-vijay-the-star-who-stormed-into-politics/article70960039.ece",
-      "summary": "The political organisation built by actor-turned-politician Vijay, which emerged as the single largest party in the Assembly, declares itself as a secular movement, rooted in the Tamil experience, and committed to social justice and equality",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 10:45:43 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -34790,6 +35193,19 @@
       "lang": "en"
     },
     {
+      "id": "0656808dcc671e8a4885b13428c7b47f",
+      "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
+      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
+      "summary": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 10:01:58 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "76dfb280c6e642124ffc29ee12ffa2e4",
       "title": "बेखौफ बदमाशों ने भाजयुमो नेता को मारी गोली, लखनऊ में देर रात ताबड़तोड़ फायरिंग से हड़कंप",
       "link": "https://www.livehindustan.com/uttar-pradesh/miscreants-shot-a-bjym-leader-near-a-police-station-in-lucknow-201778386132990.html",
@@ -34842,15 +35258,28 @@
       "lang": "en"
     },
     {
-      "id": "7ea5ab2bfb5cd8af7e98abd5c78c09ed",
-      "title": "Could hantavirus be the new emerging pathogen in Kerala?",
-      "link": "https://www.thehindu.com/news/national/kerala/could-hantavirus-be-the-new-emerging-pathogen-in-kerala/article70959251.ece",
-      "summary": "Presence of antibodies against the virus in blood samples was reported in the State in 1999 itself and one probable case of the virus-induced ‘hemorrhagic fever with renal syndrome’ was reported in 2014. Experts say a good number of ‘leptospirosis-like’ illnesses, wherein patients die within four to five days could be due to hantavirus or a co-infection of leptospirosis and hanta. Symptoms are similar and hard to distinguish without targeted serology tests",
+      "id": "15cbd8bb2ec1c1b8369ff151faf0257b",
+      "title": "6 new ministers to be included in Yogi govt:Swearing-in shortly, Hansraj Vishwakarma arrives with band and music procession",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/yogi-govt-expansion-6-new-ministers-take-oath-uttar-pradesh-137901201.html",
+      "summary": "The Yogi Cabinet will be expanded for the second time on Sunday. Six new ministers will take the oath at 3:30 PM. MLA Manoj Pandey, who rebelled from SP, will be made a minister. Apart from him, the names of former state president Bhupendra Chaudhary, Surendra Diler, Krishna Paswan, Hansraj Vishwakarma, and Kailash Rajput have also been finalised. Among the new ministers to be appointed, 1 is Brahmin, 3 are OBC, and 2 are from the Dalit community. Earlier on Saturday evening, around 6:30 PM, CM Yogi met with Governor Anandiben Patel. After talking for about 45 minutes, Yogi handed over the list of new ministers to be appointed to the Governor. Currently, there are a total of 54 ministers in the UP government, including CM Yogi. The first expansion of Yogi 2.0 took place on March 5, 2024, just before the Lok Sabha elections-2024. These will become ministers 1- Bhupendra Singh Chaudhary: Former UP BJP State President and among the prominent Jat faces of Western UP. He is a resident of Moradabad. Has been active in the Sangh and the BJP for a long time. Became a Legislative Council Member (MLC) for the first time in 2016. Is still an MLC. After the BJP government was formed in 2017, became Minister of State (Independent Charge) for Panchayati Raj and in 2019 became Cabinet Minister, Panchayati Raj. 2- Manoj Pandey: He is an MLA from the Unchahar assembly seat in Raebareli. He was a cabinet minister in the SP government from 2012-17. He was elected as an MLA on an SP ticket in 2022. He has also been the chief whip of SP in the assembly. Manoj Pandey is a major Brahmin leader in Awadh and Purvanchal. 3- Krishna Paswan: She is a BJP MLA from the Khaga assembly seat in Fatehpur district. Krishna Paswan, who started her struggle-filled life as an Anganwadi worker, is counted among the prominent Dalit leaders of the district. She has been an MLA 4 times and a district panchayat member twice. She is considered a trusted woman's face of UP BJP. 4- Surendra Diler: He is a BJP MLA from the Khair Assembly seat in Aligarh district. He is among the prominent Dalit youth leaders of the BJP. He is the son of former BJP MP from Hathras, Rajveer Singh Diler. His grandfather, Kishan Lal Diler, has been an MLA 6 times and an MP 4 times. His father, Rajveer Singh Diler, has been an MP once and an MLA once. 5- Hansraj Vishwakarma: He is a Legislative Council member (MLC) from the BJP. Hansraj Vishwakarma, who has a strong hold in backward class politics, has been active in politics for the past 34 years. He started his political journey from the booth level in 1989. He also played an active role in the Ram Mandir movement. His important role is recognised in the BJP's big victory in Varanasi in the 2019 Lok Sabha and 2022 Assembly elections. 6- Kailash Singh Rajput: Won as a BJP candidate from the Tirwa assembly seat in 1996. After that, contested and won elections on the BSP ticket in 2007. Rejoined the BJP in the 2017 assembly elections and won to reach the assembly. In 2022, he also registered a victory from the Tirwa assembly seat in Kannauj district. Attempt to remove Brahmins' displeasure There is an atmosphere of discontent in the Brahmin community due to issues like the Shankaracharya controversy, UGC's new rules, and controversial questions regarding the word 'Pandit' in police recruitment exams. According to sources, in the coordination meeting between the BJP government and organisation, RSS Joint General Secretary Arun Kumar had asked to address the grievances of Brahmins. Currently, there are a total of 7 Brahmin ministers in the cabinet, including Deputy CM Brajesh Pathak. After former minister Jitin Prasad became an MP and minister at the Centre, one seat in the Brahmin quota in Yogi's cabinet became vacant. The party has chosen Manoj Pandey for this. He will take the oath on Sunday. There will be 2 ministers from Dalit community By including Surendra Diler and Krishna Paswan in the cabinet, the government has tried to send a message to the Dalit community. Earlier, there were a total of 8 ministers from the Dalit community in the Yogi government, including Cabinet Minister Bebeerani Maurya. There are a total of 86 reserved seats in the UP Assembly. Of these, 84 seats are reserved for SC and 2 seats for ST. Of these, 67 Dalit MLAs belong to the BJP. Space created for women in Cabinet There are 51 women MLAs in the UP Assembly. Among them, 30 are from BJP, 4 from Apna Dal (S), and 1 from the RLD. There are a total of 5 women ministers in the Yogi government. The constitutional amendment bill required to implement women's reservation could not be passed in Parliament. BJP is making this an issue against the opposition among women. To strengthen this further, Krishna Paswan has been given a place in the cabinet. 3 faces from backward classes to become ministers From the backward classes, Deputy CM Keshav Prasad Maurya, Cabinet Ministers Swatantra Dev Singh, Dharampal Singh, Rakesh Sachan, Anil Rajbhar, Dara Singh Chauhan and Chaudhary Lakshmi Narayan are Cabinet Ministers. From allied parties, Cabinet Ministers Ashish Patel, Omprakash Rajbhar and Sanjay Nishad also belong to backward classes. There are 5 Ministers of State with Independent Charge and 6 Ministers of State. In the cabinet expansion taking place on Sunday, 3 faces from the backward classes have been included. These include former State President Bhupendra Chaudhary from the Jat community, Hansraj Vishwakarma and Kailash Rajput. 4 Ministers were made in the first cabinet expansion The first expansion of Yogi 2.0 took place on March 5, 2024, just before the Lok Sabha elections-2024. During this, 4 leaders were administered the oath of ministerial office. These included Suheldev Bharatiya Samaj Party chief Om Prakash Rajbhar, who broke the alliance with SP and joined the BJP, Dara Singh Chauhan, who left SP and joined the BJP, Anil Kumar from the RLD quota, and BJP's Sunil Sharma, who were administered the oath of ministerial office. Akhilesh Yadav's taunt, has the slip arrived from Delhi? SP chief Akhilesh Yadav has taken a jibe at the cabinet expansion in UP. He wrote - Has the slip come from Delhi? The CM's power is being eroded and trimmed. Ask even those whose cabinet it is. He wrote will you make reels, or will something good also happen? Know who are the ministers in Yogi cabinet right now",
       "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 09:51:06 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
+      "timestamp": "Sun, 10 May 2026 09:55:51 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a531412690643ac89f9f1ea3a4ff8793",
+      "title": "Libya’s Zawiya refinery resumes full operations",
+      "link": "https://www.aljazeera.com/news/2026/5/10/libyas-zawiya-refinery-resumes-full-operations?traffic_source=rss",
+      "summary": "Refinery closed for about two days after fighting near the facility 40km west of Tripoli.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 09:51:37 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -34920,6 +35349,19 @@
       "lang": "hi"
     },
     {
+      "id": "c7b8423c2054cb2972926c8f62bbe70b",
+      "title": "AFC Asian Cup 2027: Japan to face defending champions Qatar in tough draw",
+      "link": "https://www.aljazeera.com/sports/2026/5/10/afc-asian-cup-2027-japan-land-defending-champions-qatar-in-tough-draw?traffic_source=rss",
+      "summary": "Saudi Arabia will host the 2027 tournament from January 7 to February 5 and will face Palestine, Kuwait and Oman.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 09:20:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "21b7fcb89489041ca45a4ca77850fd07",
       "title": "UP News: निजी जानकारी को लेकर लोग सतर्क, स्वगणना प्रक्रिया की ले रहे जानकारी; विभाग ने बनाया है कंट्रोल रूम",
       "link": "https://www.amarujala.com/lucknow/people-are-cautious-regarding-personal-information-and-are-seeking-details-about-self-enumeration-process-2026-05-10",
@@ -34985,6 +35427,32 @@
       "lang": "hi"
     },
     {
+      "id": "00da9fbc2d1686675e2d69a6b2d005de",
+      "title": "OKC Thunder bury LA Lakers to take 3-0 NBA Playoff series lead",
+      "link": "https://www.aljazeera.com/sports/2026/5/10/okc-thunder-bury-la-lakers-to-take-3-0-nba-playoff-series-lead?traffic_source=rss",
+      "summary": "Thunder use an explosive second half to beat LeBron James and the Los Angeles Lakers 131-108 as Ajay Mitchell scores 24.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 08:57:44 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1a4acab8ceb87184e1203b92cbb1cbdc",
+      "title": "Syria sees first government reshuffle since al-Assad’s ouster: State media",
+      "link": "https://www.aljazeera.com/news/2026/5/10/syria-sees-first-government-reshuffle-since-al-assads-ouster-state-media?traffic_source=rss",
+      "summary": "Interim President Ahmed al-Sharaa's reshuffle comes amid protests over poor government performance.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 08:55:12 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a11b834e93c263217f50473eb2eb4c1d",
       "title": "Beyond the textbook",
       "link": "https://www.thehindu.com/opinion/open-page/beyond-the-textbook/article70956935.ece",
@@ -34998,10 +35466,23 @@
       "lang": "en"
     },
     {
+      "id": "7650c8cf9aa806ebd11d9224aad7e65c",
+      "title": "Rebel fighters kill at least 69 people in northeastern DR Congo",
+      "link": "https://www.aljazeera.com/news/2026/5/10/rebel-fighters-kill-at-least-69-people-in-northeastern-dr-congo?traffic_source=rss",
+      "summary": "Security officials say CODECO militia groups carried out the attack in Ituri province.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 08:42:46 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0e5c0582e3887cddcd56d171850722d4",
-      "title": "UP Yogi Cabinet News: यूपी में योगी मंत्रिमंडल का विस्तार आज, नेपाल में बिना आईडी एंट्री नहीं",
+      "title": "UP Yogi Cabinet News: यूपी में हो रहा योगी कैबिनेट का विस्तार; भूपेंद्र चौधरी, मनोज पांडे ने ली मंत्रीपद की शपथ",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-top-news-today-yogi-adityanath-cabinet-expansion-akhilesh-yadav-weather-politics-updates-live-blog-201778382215627.html",
-      "summary": "UP Yogi Cabinet News: यूपी में आज योगी आदित्यनाथ के मंत्रिमंडल विस्तार होगा। पूर्व प्रदेश अध्यक्ष समेत छह नए चेहरे आज यूपी सरकार के मंत्री बनेंगे। बिना आईडी नेपाल में अब एंट्री नहीं मिलेगी। नेपाल की बालेन सरकार ने भारतीयों पर नियम लगा दिए हैं। एंट्री के समय सभी को एक आईडी दिखानी होगी।",
+      "summary": "UP Yogi Cabinet News: यूपी में आज योगी आदित्यनाथ के मंत्रिमंडल विस्तार होगा। पूर्व प्रदेश अध्यक्ष समेत छह चेहरे आज यूपी सरकार के मंत्री बनेंगे। राज्यपाल के पास नामों की फाइनल सूची पहुंच गई है। इनमें से दो का प्रमोशन और अन्य चार को मंत्रिमंडल में जोड़े जाने की जानकारी है।",
       "date": "2026-05-10",
       "timestamp": "Sun, 10 May 2026 08:41:00 +0530",
       "section": "UP_Focus",
@@ -35063,6 +35544,45 @@
       "lang": "en"
     },
     {
+      "id": "72649de1cfcc53c5703ca1353051337e",
+      "title": "JNIM and Tuareg fighters join forces",
+      "link": "https://www.aljazeera.com/video/project-force-2/2026/5/10/jnim-and-tuareg-fighters-join-forces?traffic_source=rss",
+      "summary": "AJ's Defence Editor breaks down the latest threat to Mali’s government and the rapid retreat of Russian forces there",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 08:32:42 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e380f88c54101ee0f8e0d64f49fe4ff4",
+      "title": "7.28 lakh meters to be converted to postpaid:Process started in 7 districts of Gorakhpur-Basti division",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/gorakhpur-basti-meter-conversion-postpaid-process-starts-137900639.html",
+      "summary": "After public opposition, the government has decided to convert prepaid smart meters to postpaid. The number of such meters in the 7 districts of Gorakhpur and Basti divisions is 7 lakh 28 thousand 763. The process of converting them to postpaid has started. For now, the hassle of recharging has been eliminated, and no one's electricity will be cut off. After the meters become postpaid, connections of those who do not pay their electricity bills on time will be disconnected. After depositing the money, it will be reconnected in auto mode. The work of installing new meters in place of old meters in premises will continue, but these will not be converted to prepaid mode. The work of operating in prepaid mode had started in September 2025 The operation of postpaid smart meters in prepaid mode was initiated in September 2025. Messages were sent to consumers for this purpose. They were informed that the outstanding dues from before the operation in prepaid mode would be deposited in installments along with the prepaid meter recharge. This means that when a consumer recharged through the prepaid meter for electricity consumption, the outstanding dues of the old meter would also be deposited from that amount. Know how the problem increased While an awareness campaign was being run regarding electricity consumption through prepaid meters, even after depositing money, no accurate information was being recorded in the UPPCL Smart app regarding outstanding dues and old arrears in the meter, which was increasing the problem. Consumers alleged that even after recharging the meter, arrears were continuously showing in the app. Also, electricity was getting cut off at any time. Those who don't have Android phones were not able to find out anything at all. In recent days, women in the Gangtahi sub-center area of Sahjanwa block had uprooted prepaid meters from premises and staged a protest. Protests were taking place at several locations in the state. Consumer Adarsh from the Taramandal area said that despite continuous bill payments and running only one AC, the app sometimes shows a maximum demand of six kilowatts and sometimes shows something else. Even after recharging the meter several times in a single day, the outstanding amount does not get cleared. Ban on installing prepaid meters was imposed on April 18, but they are being installed on new connections A ban was imposed on installing smart prepaid meters on April 18 until technical flaws were investigated. Before this ban, they had already been installed at 7 lakh 22 thousand premises in the Gorakhpur-Basti division. Smart prepaid meters are to be installed at 26 lakh 95 thousand 826 premises in both divisions. Now, old meters are not being removed and replaced with smart prepaid meters, but the process of installing them on new connections will continue. It is being assumed that after converting all prepaid meters to postpaid, only postpaid meters will be installed for new connections as well. After converting prepaid meters to postpaid, messages for negative bills will not come. A ban has also been imposed on disconnecting connections. Now, consumers will get a lot of relief. This is the situation in the districts of Gorakhpur and Basti divisions",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 08:28:04 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d6f2d665721a3e440b37c6eef6b4eecb",
+      "title": "Deadly car bomb attack hits checkpoint in northwest Pakistan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/10/deadly-car-bomb-attack-hits-checkpoint-in-northwest-pakistan?traffic_source=rss",
+      "summary": "A suspected car bombing followed by a firefight at a police checkpoint has killed more than a dozen people in Bannu.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 08:21:02 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c698d611b29b5d8d70df852873bdf82f",
       "title": "'मेरी मां': रंग खत्म हो गए मां की तस्वीर बनाते-बनाते उनकी ममता की दास्तान इतनी लंबी जो थी, मदर्स डे पर खास",
       "link": "https://www.amarujala.com/photo-gallery/delhi-ncr/noida/children-showcase-their-talent-in-the-meri-maa-drawing-competition-organized-by-amar-ujala-2026-05-10",
@@ -35073,6 +35593,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "440b655dd1fc700c04fb8293e0f27abc",
+      "title": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss",
+      "summary": "Israel kills at least 24 people in Lebanon in one day as Tehran's response to US proposal to end the war is awaited.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 08:18:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -35138,19 +35671,6 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "02e310c3d14d55f8530bce196f26cac7",
-      "title": "Three-hour meeting fails to end impasse over Congress Chief Minister for Kerala",
-      "link": "https://www.thehindu.com/elections/kerala-assembly/impasse-over-congress-chief-minister-for-kerala/article70959697.ece",
-      "summary": "Deepa Dasmunsi, party general secretary in charge of Kerala, told the media after the meeting that the high command had time until May 23 to finalise the candidate; senior leaders said party chief Mallikarjun Kharge and Lok Sabha LoP Rahul Gandhi were visibly dismayed by the poster wars and public marches",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 07:58:39 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -35259,9 +35779,9 @@
     },
     {
       "id": "25954f0ab09e3e5904e5983108be5789",
-      "title": "Israel deports two Gaza aid flotilla activists",
+      "title": "Israel deports two abducted Gaza aid flotilla activists",
       "link": "https://www.aljazeera.com/news/2026/5/10/israel-deports-two-gaza-aid-flotilla-activists?traffic_source=rss",
-      "summary": "The pair was abducted by Israeli forces from the aid flotilla in late April and held in Israel.",
+      "summary": "The pair was seized by Israeli forces from the aid flotilla in late April and held in Israel.",
       "date": "2026-05-10",
       "timestamp": "Sun, 10 May 2026 07:13:50 +0000",
       "section": "International",
@@ -35427,19 +35947,6 @@
       "lang": "en"
     },
     {
-      "id": "0656808dcc671e8a4885b13428c7b47f",
-      "title": "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
-      "link": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Sarah Rainsford reports from Tenerife where the MV Hondius has arrived, after a deadly hantavirus outbreak.",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 06:42:04 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "a0959ee3971ad01989f5a61266bfe232",
       "title": "Bitcoin scam: ED arrests hacker Sriki, two others",
       "link": "https://www.thehindu.com/news/national/karnataka/bitcoin-scam-ed-arrests-hacker-sriki-two-others/article70959007.ece",
@@ -35532,7 +36039,7 @@
     },
     {
       "id": "fc6e843272f30cc772700a0f183a350b",
-      "title": "Strickland vs Chimaev – UFC 328: Strickland downs Chimaev on split decision",
+      "title": "Strickland delivers first defeat to Chimaev on split decision at UFC 328",
       "link": "https://www.aljazeera.com/sports/2026/5/10/strickland-vs-chimaev-ufc-328-strickland-downs-chimaev-on-split?traffic_source=rss",
       "summary": "Sean Strickland won 48–47, 48–47 and 47–48 against Khamzat Chimaev in a fight that failed to live up to its hype.",
       "date": "2026-05-10",
@@ -35649,9 +36156,9 @@
     },
     {
       "id": "f9b892319b85f8ee0024af978963daf7",
-      "title": "Maharashtra: NCW प्रमुख ने वन स्टॉप सेंटर का दौरा किया; बाबा सिद्दीकी के बॉडीगार्ड को नौकरी से निकाला गया",
+      "title": "Maharashtra: ठाणे में निर्माण कार्य विवाद को लेकर दो गुटों में खूनी संघर्ष, पत्थर-रॉड से हमले में चार लोग घायल",
       "link": "https://www.amarujala.com/india-news/maharashtra-updates-of-10-may-maharashtra-news-mumbai-politics-crime-pune-thane-news-in-hindi-2026-05-10",
-      "summary": "Maharashtra Updates Of 10 May: Maharashtra News, Mumbai, Politics, Crime, Pune, Thane; News in Hindi- Maharashtra: NCW प्रमुख ने वन स्टॉप सेंटर का दौरा किया; बाबा सिद्दीकी के बॉडीगार्ड को नौकरी से निकाला गया",
+      "summary": "Maharashtra Updates Of 10 May: Maharashtra News, Mumbai, Politics, Crime, Pune, Thane; News in Hindi- Maharashtra: ठाणे में निर्माण कार्य विवाद को लेकर दो गुटों में खूनी संघर्ष, पत्थर-रॉड से हमले में चार लोग घायल",
       "date": "2026-05-10",
       "timestamp": "Sun, 10 May 2026 05:26:49 +0530",
       "section": "National",
@@ -35672,19 +36179,6 @@
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
-    },
-    {
-      "id": "7d69143c6a04062cfb506ebd58848ca3",
-      "title": "Updates: शेख हसीना ने शुभेंदु अधिकारी को दी बधाई; भारत पहुंचे चिली के विदेश मंत्री; अचल तटरक्षक बल में शामिल",
-      "link": "https://www.amarujala.com/india-news/news-updates-of-10-may-west-bengal-news-suvendu-adhikari-mamata-banerjee-odisha-gujarat-news-in-hindi-2026-05-10",
-      "summary": "News Updates Of 10 May: West Bengal News, Suvendu Adhikari, Mamata Banerjee, Odisha, Gujarat, News in Hindi - Updates: शेख हसीना ने शुभेंदु अधिकारी को दी बधाई; भारत पहुंचे चिली के विदेश मंत्री; अचल तटरक्षक बल में शामिल",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 05:12:48 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "6d7f705ac9ebbf87e9a29d4e2bd28d92",
@@ -35753,7 +36247,7 @@
     },
     {
       "id": "014ea90b2978232f7b9d0271bcfd2fd0",
-      "title": "Mobile will warn of accident-prone zones on 4 highways:Google maps to show 121 blackspots; 1100+ deaths reported in 3 years",
+      "title": "QR code to highlight accident-prone zones on 4 highways:'Mission Safer Road' launched to curb mishaps; maps to point 121 blackspots",
       "link": "https://www.bhaskarenglish.in/local/rajasthan/news/rajasthan-google-maps-blackspots-accident-prevention-highways-137899828.html",
       "summary": "In Rajasthan, the 'Mission Safer Road' initiative has been launched to prevent accidents on highways. The police have issued a QR code. After scanning it, accident spots on 4 national highways passing through Jaipur (Delhi, Sikar, Ajmer and Agra) will appear on Google Maps. While driving, as soon as you scan the QR code, the distance to black spots will also start showing and the driver will become alert. Now you must be wondering To find answers to these questions, a Bhaskar reporter went to the highway and did a reality check. Read the full report The Bhaskar reporter first went to the Jaipur-Ajmer highway. As soon as we entered the highway, we scanned the QR code issued by the police and turned on the map. Different pre-marked spots started appearing at various locations on the map. Three spots were found within a 55-kilometer radius. The first spot was found approximately 30 kilometers after the 200 Feet Bypass bus stop while going towards Ajmer, at Mahla Mod. At this location, 27 accidents have occurred in the last three years. As soon as you click on the spot in the map, it tells you everything about that place, such as what type of spot it is and how many accidents have occurred. There is also a school at a short distance from this spot. People nearby informed that there is a turn a little ahead from here, due to which there is a risk of accidents happening here. Just 50 meters away from this is a flyover, from which vehicles coming down are also at speed. Local villager Narsilal Sharma said that accidents have happened here several times in front of him. When asked about the QR code, he said that he was not aware of it, but he knows this much that this place comes under the accident risk zone. One and a half kilometers after this, at Nasnoda Cut, there is a low risk zone spot, where 14 accidents have occurred in the last three years. Moving forward from here on the Ajmer Highway, 5 kilometers ahead, just past the Mokhampura intersection, a red zone appears on the map. This is a high-risk zone, meaning an A-type spot. According to the survey conducted by police for the QR code, 36 accidents occurred here between 2023-25. We spoke with truck driver Mukesh Shah standing at the petrol pump here. When asked about the map, he said that until now he was not aware of such a map. He says that if such spots are shown on the map, he will definitely use it. After this, the Bhaskar reporter conducted a reality check on National Highway Number 8 between Jaipur and Delhi. Here, about 37 kilometers from Jaipur in Achrol, the first black spot on this highway was found. This was at a place where underpass construction was ongoing. There are markets and crowds on both sides of the highway. This place had a yellow alert spot, where 16 accidents have occurred in the last three years. Raju Saini from the area said that work keeps going on here. This has made the road narrow. Due to this, two-wheelers often become victims of accidents. Black spots divided into 3 zones Police have identified 121 black spots. At these spots, 1108 people have died in 3 years. These spots have been divided into 3 different zones - Red, Orange and Yellow. According to the police survey, 162 deaths occurred at 6 red zone spots, 475 deaths at 37 orange zone spots and 471 deaths at 78 yellow zone spots.",
       "date": "2026-05-10",
@@ -35844,7 +36338,7 @@
     },
     {
       "id": "98f26ae6ba1754b0bfcc78b4c7bd55e3",
-      "title": "BJP Yuva Morcha leader shot in Lucknow, condition critical:Attacker fired 5 shots rapidly; supporters created ruckus at KGMU",
+      "title": "BJP Yuva Morcha leader shot in Lucknow:Attacker opens rapid fire on road; supporters protest at KGMU as condition remains critical",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/lucknow-kgmu-bjy-leader-shot-chetan-tiwari-attack-137899665.html",
       "summary": "BJP Yuva Morcha leader Chetan Tiwari (30) was critically injured in a life-threatening attack in Lucknow on Saturday night after an assailant allegedly fired five rounds at him. The incident took place around 8 pm in the Mehndiganj area of Bazar Khala when Chetan was standing outside his house. According to police, the attacker arrived on foot and suddenly pointed a pistol at him. Chetan tried to save himself by ducking, but the first bullet struck him in the waist, causing him to collapse on the road. The attacker then reportedly moved closer and fired additional shots at close range, targeting his shoulder and neck. When nearby residents tried to intervene, the accused allegedly pointed the pistol at them as well, forcing them to step back. The assailant fled the scene shortly after the attack. Locals informed the police and rushed Chetan to the KGMU Trauma Center, where his condition remains critical. Following the incident, a large number of people gathered at the trauma centre and created a commotion demanding the immediate arrest of the accused. Police officials spent nearly an hour calming the crowd. CCTV footage of the attack has also surfaced. Police identified the accused as Vaibhav Vajpayee (30), who lives in the same neighbourhood as Chetan. He has been taken into custody and is being questioned. Police suspect the attack was linked to an old rivalry. The entire incident in 4 pictures What is visible in the CCTV? Chaos continued for a long time at the Trauma Center With the help of local people, the injured BJP Yuva Morcha leader was immediately taken to KGMU Trauma Center. His supporters and acquaintances also reached there. They started creating a commotion. Their demand was that the attacker should be identified and arrested as soon as possible. On receiving information, Bazarkhala police reached the spot. They inspected the crime scene. Station in-charge Brijesh Singh said that no complaint has been received in the case yet. Police are scanning the footage of CCTV cameras installed nearby. In the preliminary investigation, various points, including old rivalries, are being probed. See pictures of the commotion at KGMU- Vaibhav, a resident of the locality, fired the shot, old enmity the reason According to police, Chetan Tiwari works in hoarding installation. He had an ongoing dispute with Vaibhav Vajpayee, who lives in the same neighborhood. The reason for the dispute is said to be related to hoardings. In this grudge, he attacked Chetan. Police are interrogating Vaibhav. DCP West and an altercation among people",
       "date": "2026-05-10",
@@ -35882,6 +36376,45 @@
       "lang": "en"
     },
     {
+      "id": "ba93ba59259ac3fd26dfcfd434db5153",
+      "title": "यूपी कॉलेज: 3813 छात्रों को 3.48 करोड़ की स्कॉलरशिप, ओबीसी को 1.86 करोड़; जानें अन्य का हाल",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/up-college-scholarships-worth-about-3-crore-awarded-3813-students-about-2-crore-for-obc-2026-05-10",
+      "summary": "उदय प्रताप कॉलेज ने 3813 छात्रों को 3.48 करोड़ की स्कॉलरशिप दी है। कॉलेज प्रशासन का दावा है कि पहली बार स्काॅलरशिप में इतनी धनराशि देने का रिकॉर्ड बना है।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:39:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "fa222e52e2cdcee9c502d433b875d0bc",
+      "title": "Kamal Haasan, Prakash Raj, R. Madhavan, Pooja Hegde ने Vijay को दी CM बनने की बधाई |Tamilnadu New CM",
+      "link": "https://www.amarujala.com/video/india-news/kamal-haasan-prakash-raj-r-madhavan-pooja-hegde-congratulated-vijay-on-becoming-the-cm-tamil-nadu-new-cm-2026-05-10",
+      "summary": "Kamal Haasan, Prakash Raj, R. Madhavan, Pooja Hegde ने Vijay को दी CM बनने की बधाई |Tamilnadu New CM",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:34:48 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "6af1bac45d9065cbea8539d4c03d41d4",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 10 मई के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-10",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:30:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "e1c0e83582d19f51bf08f531401fc6ac",
       "title": "Bengal New CM Oath : बंगाल में शुभेंदु सरकार बनने पर बोले अधीर रंजन,'वादा किया था उसे निभाना पड़ेगा'!",
       "link": "https://www.amarujala.com/video/india-news/bengal-new-cm-oath-on-the-formation-of-suvendu-government-in-bengal-adhir-ranjan-said-i-had-made-a-promise-2026-05-10",
@@ -35893,6 +36426,45 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "7d69143c6a04062cfb506ebd58848ca3",
+      "title": "News Updates: हुगली में टीएमसी नेता की हत्या, पार्टी कार्यालय के पीछे मिला शव; भाजपा पर लगा आरोप",
+      "link": "https://www.amarujala.com/india-news/news-updates-of-10-may-west-bengal-news-suvendu-adhikari-mamata-banerjee-odisha-gujarat-news-in-hindi-2026-05-10",
+      "summary": "News Updates Of 10 May: West Bengal News, Suvendu Adhikari, Mamata Banerjee, Odisha, Gujarat, News in Hindi - Updates: शेख हसीना ने शुभेंदु अधिकारी को दी बधाई; भारत पहुंचे चिली के विदेश मंत्री; अचल तटरक्षक बल में शामिल",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:25:53 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "14dd7ba81a5c8090264f31d9b28d0cf4",
+      "title": "PM Modi Bengaluru Visit: बंगलूरू में पीएम मोदी की यात्रा से पहले संदिग्ध सामग्री बरामद; कर्नाटक में हाई अलर्ट",
+      "link": "https://www.amarujala.com/india-news/security-alert-before-pm-modi-bengaluru-visit-two-gelatine-sticks-found-near-event-venue-2026-05-10",
+      "summary": "PM Modi Bengaluru Visit: बंगलूरू में पीएम मोदी की यात्रा से पहले संदिग्ध सामग्री बरामद; कर्नाटक में हाई अलर्ट",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:25:10 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "39ad398ce492cb2352d6cc960d828950",
+      "title": "अयोध्या में दुर्घटना में घायल युवक की इलाज के दौरा मौत, परिजनों का रो-रोकर बुरा हाल",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-tharaghatana-ma-ghayal-yavaka-ka-ilja-ka-thara-mata-parajana-ka-ra-rakara-bra-hal-2026-05-10",
+      "summary": "अयोध्या में दुर्घटना में घायल युवक की इलाज के दौरा मौत, परिजनों का रो-रोकर बुरा हाल",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:25:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
     },
     {
       "id": "219f2fa906a9854f55670f0d387174f2",
@@ -35908,6 +36480,32 @@
       "lang": "en"
     },
     {
+      "id": "954cdebf3a50f336051854ffaa4429e6",
+      "title": "Vijay के शपथ ग्रहण में पहुंचीं तृषा | Trisha Arrives at oath ceremony venue | Vijay Oath Ceremony",
+      "link": "https://www.amarujala.com/video/india-news/trisha-arrives-at-vijay-s-swearing-in-ceremony-trisha-arrives-at-oath-ceremony-venue-vijay-oath-ceremony-2026-05-10",
+      "summary": "Vijay के शपथ ग्रहण में पहुंचीं तृषा | Trisha Arrives at oath ceremony venue | Vijay Oath Ceremony",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:20:19 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c57a86a17387bf35c2458d2bb4fa4d30",
+      "title": "एक निशान, एक विधान, एक प्रधान' का सपना पूरा': मंच पर PM मोदी ने छुए थे पैर, जानिए वे माखनलाल सरकार क्या बोले",
+      "link": "https://www.amarujala.com/india-news/pm-modi-touched-his-feet-on-stage-find-out-what-makhanlal-sarkar-said-2026-05-10",
+      "summary": "PM Modi Touched His Feet on Stage Find Out What Makhanlal Sarkar Said- एक निशान, एक विधान, एक प्रधान' का सपना पूरा': मंच पर PM मोदी ने छुए थे पैर, जानिए वे माखनलाल सरकार क्या बोले",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:20:05 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "08fab930d442f7899a652c9ac3f20323",
       "title": "What is India’s first orbital data centre satellite?",
       "link": "https://www.thehindu.com/sci-tech/what-is-indias-first-orbital-data-centre-satellite/article70958948.ece",
@@ -35918,6 +36516,32 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5045c021d9ee2835edb9bca4321fa955",
+      "title": "पांच की मौत: वैष्णो देवी जाने के लिए पहले से शुरू कर दी थी खरीदारी, उत्तम की मेहनत को पूरे गांव ने किया सलाम",
+      "link": "https://www.amarujala.com/uttar-pradesh/bulandshahr/bulandshahr-road-accident-family-had-already-started-shopping-for-their-trip-to-vaishno-devi-2026-05-10",
+      "summary": "बुलंदशहर में उत्तम सिंह और उनके परिवार की सड़क हादसे में एक साथ मौत को लेकर गांव के लोग बहुत दुखी हैं। सभी लोग उत्तम की मेहनत और व्यवहार की भी तारीफ कर रहे थे।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:12:51 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "9981128c0fa0f46c9433a175e2ad8093",
+      "title": "UP Politics: दानिश आजाद अंसारी ने कहा- वक्फ की संपत्तियों का हो बेहतर रखरखाव, जल्द लगेगा रोजगार मेला",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/up-politics-danish-azad-ansari-says-waqf-properties-must-be-better-maintained-job-fair-organized-soon-2026-05-10",
+      "summary": "बलिया से लखनऊ जाते समय शनिवार देर शाम कासिमाबाद क्षेत्र के धरवार कला स्थित पूर्वांचल एक्सप्रेसवे ओवरब्रिज के पास अल्पसंख्यक कल्याण एवं हज राज्यमंत्री दानिश आजाद अंसारी का कार्यकर्ताओं ने जोरदार स्वागत किया।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:11:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -35947,6 +36571,19 @@
       "lang": "hi"
     },
     {
+      "id": "3e509a23e96e74ae58a5dba4189d7b9f",
+      "title": "UP: चलती ट्रेन में युवक की कनपटी पर मारी गोली, शव को बाहर फेंककर भागे दो बदमाश; पहुंची फोर्स",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/youth-shot-temple-aboard-moving-train-two-criminals-flee-after-throwing-body-out-forces-arrive-scene-2026-05-10",
+      "summary": "पीडीडीयू जंक्शन से दिलदारनगर होते हुए ताड़ीघाट जाने वाली पैसेंजर ट्रेन उस समय दहशत का पर्याय बन गई, जब चलती ट्रेन में दो अज्ञात बदमाशों ने एक युवक की कनपटी पर तमंचा सटाकर गोली मार दी।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 03:03:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "4c8ef5086b00f8c829fb943ae4ab8270",
       "title": "How could extreme weather affect World Cup 2026?",
       "link": "https://www.bbc.com/weather/articles/ce9p8m9xz13o?at_medium=RSS&at_campaign=rss",
@@ -35958,6 +36595,32 @@
       "source": "BBC World",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "bc339355379b75e48fed3044418c9980",
+      "title": "वाराणसी में पोस्टर वार: अखिलेश यादव को लिखा बिजली चोर, सपा नेताओं ने किया प्रदर्शन; सरकार विरोधी नारे",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/posters-against-akhilesh-yadav-sp-workers-protest-in-varanasi-demand-action-anti-government-slogans-raised-2026-05-10",
+      "summary": "समाजवादी पार्टी के राष्ट्रीय अध्यक्ष एवं पूर्व मुख्यमंत्री अखिलेश यादव के खिलाफ रामनगर स्थित पीएसी तिराहे पर लगाए गए आपत्तिजनक पोस्टर को लेकर रविवार को सपा कार्यकर्ताओं ने विरोध प्रदर्शन किया।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:55:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "8f1b2d9eac374b869cca738ef48999d2",
+      "title": "एक्शन में शुभेंदु अधिकारी: बंगाल में बड़ा प्रशासनिक बदलाव, सीएम ने पहले ही दिन लिया अहम फैसला",
+      "link": "https://www.amarujala.com/india-news/west-bengal-administration-overhaul-suvendu-adhikari-big-decision-on-day-one-2026-05-10",
+      "summary": "एक्शन में शुभेंदु अधिकारी: बंगाल में बड़ा प्रशासनिक बदलाव, सीएम ने पहले ही दिन लिया अहम फैसला west Bengal administration overhaul Suvendu Adhikari big decision on day one",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:46:10 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "45b6fbfdbdef0950dfc91373cf71e8ec",
@@ -35999,6 +36662,32 @@
       "lang": "en"
     },
     {
+      "id": "7c3e31a7feb9b489963e399170f7e3dd",
+      "title": "रोटरी क्लब की अनोखी पहल: विजय चौराहे पर लगाया सेवा स्टॉल, लोगों को दी जरूरी जानकारी",
+      "link": "https://www.amarujala.com/video/gorakhpur/video-rotary-clubs-unique-initiative-service-stall-set-up-at-vijay-square-providing-essential-information-to-people-2026-05-10",
+      "summary": "रोटरी क्लब की अनोखी पहल: विजय चौराहे पर लगाया सेवा स्टॉल, लोगों को दी जरूरी जानकारी",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:39:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "12a8618cb97934af67a2f3ac066ad995",
+      "title": "Bareilly News: डायबिटीज बढ़ा रही अवसाद और भूलने की बीमारी, डॉ. पीके माहेश्वरी बोले- समय रहते नियंत्रण जरूरी",
+      "link": "https://www.amarujala.com/uttar-pradesh/bareilly/dr-pk-maheshwari-says-diabetes-is-fueling-depression-and-memory-loss-2026-05-10",
+      "summary": "डॉ. पीके माहेश्वरी ने कहा- अनियंत्रित डायबिटीज मस्तिष्क पर डाल रही गंभीर असर",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:38:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "4c57a72b9bbad42e7335a2232a08d4d7",
       "title": "Lucknow News: पैरवी सही और प्रभावी हो तो ट्रिब्यूनल न्याय देने के लिए तैयार",
       "link": "https://www.amarujala.com/lucknow/if-advocacy-is-sound-and-effective-the-tribunal-is-ready-to-deliver-justice-lucknow-news-c-13-1-lko1028-1729979-2026-05-10",
@@ -36026,7 +36715,7 @@
     },
     {
       "id": "d6394dc440ec84756ada394ddd1790ce",
-      "title": "Betting-linked relationship reported in Jhansi:Cop's affair with gambling woman led to two broken marriage; man visited home on pretext of meetings",
+      "title": "Jhansi betting case reveals affair angle:Constable allegedly hid marriage, broke woman’s two engagements; mother claims daughter was trapped",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/jhansi-police-affair-gambling-woman-broken-marriage-homeguard-constable-rajat-137899395.html",
       "summary": "Suman Dwivedi, mother of 24-year-old Yashasvi Dwivedi, has made serious allegations against constable Rajat, claiming he trapped her daughter in a relationship while posted at Minerva Chowki around nine years ago. She said, “Rajat would often visit their home during patrol duty and gradually developed a relationship with her daughter, who was then studying in Class 12. According to her, once the affair came to light, the family arranged her marriage, and the relationship was temporarily broken”. However, she alleged, “In 2023, Rajat again influenced Yashasvi to end her engagement with another boy and start living with him. Although Rajat was already married, he concealed this fact from my daughter and later kept her under his control without formal marriage\". She also stated that the family came to know the truth after about five years, by which time the situation had already worsened. Separately, police on May 8 arrested Yashasvi Dwivedi and her associate Nisha Khan (32) from a flat in Royal City, Jhansi, in connection with an alleged betting racket. During the raid, police recovered jewellery worth ₹1.55 crore, including nine 100-gram gold biscuits, ₹18.92 lakh cash, 12 mobile phones and a laptop. Police officials said five accused, including constable Rajat, are currently absconding and efforts are on to trace them. First read, how the love story began Yashasvi Dwivedi, a resident of Chhaniyapura locality under Kotwali police station area, is the only daughter of her parents. She has a younger brother, Sudarshan, aged 11. Her father, Devendra Dwivedi, is posted as a Home Guard. Her mother, Suman Dwivedi, stated that in 2017 her husband was posted at Minerva Chowki, located around one kilometre from their residence. At the same time, constable Rajat Kumar Singh was also posted there. She alleged, “Rajat would frequently visit their home during patrol duties, often stopping under the pretext of drinking water or other reasons. According to her, Yashasvi was 16 years old at the time and studying in Class 12 when she was allegedly misled and drawn into a relationship”. Affair came to light when attending a wedding Suman said, “The family had no knowledge of the relationship initially. During this period, Yashasvi secretly attended a wedding of Rajat’s sisters in Agra, telling her family that she was going on a trip with friends”. She added that after a few days, the family came to know about the relationship and counselled their daughter before sending her to a hostel. By then, Rajat had reportedly been transferred to SOG. She further alleged, “Despite the posting change, the accused continued to exert influence and would visit the hostel to meet their daughter”. Suman added that due to the situation, the family had arranged their daughter’s marriage earlier, but Yashasvi later ended that relationship. After this, in 2023, she was again engaged to another boy, and the family hoped her future would finally settle. However, she alleged that Rajat later persuaded her daughter to break off this second engagement as well. Suman further said that she questioned her daughter repeatedly about why she was repeatedly ending engagements and whether there was any issue she was hiding. To this, Yashasvi reportedly said that she liked Rajat and would marry only him, but wanted to delay marriage for some time due to her younger brother. The mother added that when her daughter began expressing extreme emotional distress and threats of self-harm, the family refrained from exerting pressure. Eventually, she left the house and started living with Rajat, according to the allegation. The constable was married, he hid this fact Suman said, “My daughter says that Rajat touched me and I have a relationship with him. Now I will live with him only. But the reality is that he deceived her. Rajat was already married. He has two children. He trapped my daughter by claiming to be unmarried. After 5 years when he came to Jhansi with his family, my husband found out”. She added, “My daughter also asked him many times to marry, but Rajat kept making excuses every time. Till now he has not married. When we explained to our daughter, she would say no mom, now marriage is useless. I will not ruin any other boy's life. My daughter loved him, whereas Rajat has committed fraud. My daughter also says that she has not received the status of a wife till now”. 'If he loved my daughter, why did he run away?' - Suman Suman said, “My daughter has been trapped. Rajat was at the flat that day. As soon as he left, the police raided. When he was present at the flat, why did he run away? If he liked my daughter, he should not have run away”. She further said, “This is what love is. Rajat used my daughter. He built his own house, took care of his wife and children. What did he give my daughter? He only gave her food. Can't we feed her?” She added, “My daughter had completed B.Tech and was now doing M.Tech. She was very intelligent in studies. She wanted to join the police service. She had also recently appeared for the inspector's exam”. Found out when the police station called Suman said, \"After the daughter's arrest, when a call came from the police station, we went to the station. There, our daughter started saying, Papa, I won't come home because I cannot live with disgrace.\" She further added, “The daughter has made a mistake. That's why the police arrested her. But the constable Rajat's crime is greater than the daughter's. My daughter has very good character, but the constable's character is loose. I want Rajat to get the strictest punishment”. Suman said, “My daughter has broken my trust many times, she only listened to Rajat. Therefore, I won't be able to trust my daughter as much, but if she comes home after being released from jail, I will accept her. However, I will take it in writing that if anything happens to my child. If there is any trouble in coming and going, then Rajat will be responsible for it”. Now read the story of the arrest Raid on flat, gold worth ₹1.46 cr and silver worth ₹11 lakh found SSP BB GTS Murthy stated, “Sipri Bazaar police station was conducting checking at Bihari Tiraha on Friday (May 8) morning. Information was received that online betting on IPL matches was being conducted on a large scale in flat LS9 of Royal City. Police immediately raided the flat with a team”. Police arrested Yashaswi Dwivedi (24), a resident of Chhaniyapura, and Nisha Khan (32), a resident of Shastri Nagar in Premnagar. A trolley bag was kept near the sofa there, from which a large amount of cash and jewelry were recovered. Cash and electronic devices were found including gold worth ₹1.46 cr and silver worth ₹11 lakh. The SSP said, “During interrogation, it was revealed that Yashaswi is the girlfriend of constable Rajat. Constable Rajat, along with his associate Sumit Sahu, BJP leader Ashish Upadhyay, Vishal Bhargav, Prabhat Agrawal and 3 unknown persons, runs online betting on IPL matches. All the people used to come to the flat and bet through mobile phones and laptops. BJP leader Ashish Upadhyay was leading it”. He added, “Cash and jewelry were received in exchange for running the betting operation, which Rajat had brought to the flat in a bag a few days ago. The distribution of money and jewelry was to take place after the IPL ended. Both women were also to receive a share from this. Nisha Khan is the female friend of accused Sumit. A case has been registered against all of them under BNS and Gambling Act at Sipri Bazaar”. Were preparing to flee leaving Jhansi Sources say that there was a dispute between Nisha and Yashasvi over the distribution of money. Meanwhile, the police reached the house of absconding accused Sumit while searching for him. Information about Nisha was obtained from here. When the police interrogated Nisha, she exposed Yashasvi. Nisha told the police that Yashasvi was preparing to leave Jhansi with the cash. Constable had run over retired registrar Accused constable Rajat Kumar had made headlines 12 days ago. At that time, he had run over retired Assistant Registrar Maniram Verma (70) with a THAR vehicle at Bundelkhand University. Maniram had died on the spot. He was then arrested and sent to jail. He was posted at Poonch police station. The SSP had suspended him and initiated departmental action. He had been released from jail just a few days ago. He had reported for duty on May 7. After that, his name came up in betting. The SSP dismissed constable Rajat on May 7.",
       "date": "2026-05-10",
@@ -36075,6 +36764,19 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
+    },
+    {
+      "id": "e7a7080a204512660b70f49b81594c50",
+      "title": "New Tamil Nadu Govt: 'तमिलनाडु ने नई पीढ़ी और नई सोच को चुना', विजय के सीएम बनने पर खरगे और राहुल ने क्या कहा?",
+      "link": "https://www.amarujala.com/india-news/mallikarjun-kharge-and-rahul-gandhi-after-c-joseph-vijay-s-swearing-in-as-tamil-nadu-cm-2026-05-10",
+      "summary": "New Tamil Nadu Govt: 'तमिलनाडु ने नई पीढ़ी और नई सोच को चुना', विजय के सीएम बनने पर खरगे और राहुल ने क्या कहा?",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:33:29 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "fa6b8b78d13f208033eec5d21ab84aa2",
@@ -36312,7 +37014,7 @@
     },
     {
       "id": "e553be19f63b2a6facbe1dbc7b622690",
-      "title": "Gorakhpur News: पुलिस पहुंची तो थमा बवाल, पहरे में हुई शादी",
+      "title": "जरा सी चूक, चली गई जान: कपड़े पर मीट गिरा तो ले ली जान, फिर पुलिस पहरे में हुए फेरे- गोरखपुर की घटना",
       "link": "https://www.amarujala.com/gorakhpur/in-shahpur-police-station-area-the-baraatis-and-the-gharaatis-clashed-over-a-minor-dispute-during-dinner-at-a-wedding-ceremony-on-friday-gorakhpur-news-c-7-1-gkp1006-1316035-2026-05-10",
       "summary": "शाहपुर थाना क्षेत्र के आदर्शनगर स्थित मैरिज हॉल में शुक्रवार देर रात शादी समारोह में खाने के दौरान एक युवक के कपड़े पर मीट गिरने के मामूली विवाद में बराती-घराती भिड़ गए।",
       "date": "2026-05-10",
@@ -36415,6 +37117,19 @@
       "lang": "en"
     },
     {
+      "id": "c524fc6b8f308da27540423f3a405b97",
+      "title": "UP: '600 रुपये देकर बोला था उत्तम...', मां मेरे बीमार बेटे का रखना ध्यान; दर्दनाक हादसे में परिवार के 5 की मौत",
+      "link": "https://www.amarujala.com/uttar-pradesh/bulandshahr/bulandshahr-road-accident-parents-and-three-children-were-on-a-single-bike-all-five-died-in-accident-2026-05-10",
+      "summary": "मां, मैं माता वैष्णो देवी के दर्शन करने जा रहा हूं। तीन से चार दिन में लौट आऊंगा। तुम मेरे बेटे रियांश उर्फ कृष्णा का ध्यान रखना। वह बीमार भी है।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:25:10 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "e32ec94faab3503f64d5b133646f956f",
       "title": "Lucknow News: लोहिया में शुरू होंगे पेन मेडिसिन में डीएम कोर्स",
       "link": "https://www.amarujala.com/lucknow/dm-courses-in-pain-medicine-to-begin-at-lohia-lucknow-news-c-13-1-lko1028-1729989-2026-05-10",
@@ -36425,6 +37140,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "d2c2f64166ce7a1e54e2ad0508cd34af",
+      "title": "अयोध्या में डंपर की टक्कर से बाइक सवार युवक की मौत",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-dapara-ka-takakara-sa-bika-savara-yavaka-ka-mata-2026-05-10",
+      "summary": "अयोध्या में डंपर की टक्कर से बाइक सवार युवक की मौत",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:22:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
       "lang": "en"
     },
     {
@@ -36493,6 +37221,32 @@
       "lang": "en"
     },
     {
+      "id": "5c36fb46cb14970c55e99c9b0d59158f",
+      "title": "अयोध्या में शारदा सहायक नहर में मिला युवक का शव, पुलिस कर रही जांच",
+      "link": "https://www.amarujala.com/video-shots/uttar-pradesh/ayodhya/video-ayathhaya-ma-sharatha-sahayaka-nahara-ma-mal-yavaka-ka-shava-palsa-kara-raha-jaca-2026-05-10",
+      "summary": "अयोध्या में शारदा सहायक नहर में मिला युवक का शव, पुलिस कर रही जांच",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:20:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "871d20128d11803349d9865e30523bb9",
+      "title": "अयोध्या में जैन तीर्थों के संरक्षण पर हुआ मंथन",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-jana-taratha-ka-sarakashhanae-para-haaa-mathana-2026-05-10",
+      "summary": "अयोध्या में जैन तीर्थों के संरक्षण पर हुआ मंथन",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:19:59 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
       "id": "452b73cebf618b38c066d8cc66d49486",
       "title": "Lucknow News: पीएम आवास योजना कॉलोनी में घर से 15 लाख की चोरी",
       "link": "https://www.amarujala.com/lucknow/theft-of-15-lakhs-from-a-house-in-pm-awas-yojana-colony-lucknow-news-c-13-lko1096-1729305-2026-05-10",
@@ -36545,6 +37299,19 @@
       "lang": "en"
     },
     {
+      "id": "e3eb64d18ad5a7f53cfcaa96f470cb67",
+      "title": "AMU: पाल्क स्ट्रेट को सात घंटे में पार कर एएमयू छात्रा ने रचा इतिहास, पहले कर चुकी हैं इंग्लिश चैनल पार",
+      "link": "https://www.amarujala.com/uttar-pradesh/aligarh/amu-student-crosses-palk-strait-in-seven-hours-2026-05-10",
+      "summary": "अलीगढ़ मुस्लिम यूनिवर्सिटी की छात्रा व अंतरराष्ट्रीय ओपन वाटर तैराक आफरीन जबी ने पाल्क स्ट्रेट को मात्र सात घंटे पांच मिनट में पार कर विश्व रिकॉर्ड स्थापित करते हुए इतिहास रच दिया है।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:17:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "b8ef7bec010e57fde3659670f275a258",
       "title": "Lucknow News: खड़े ट्रेलर से भिड़ी पिकअप एक घंटे तक फंसा रहा क्लीनर",
       "link": "https://www.amarujala.com/lucknow/pickup-crashes-into-parked-trailer-cleaner-trapped-for-an-hour-lucknow-news-c-13-lko1004-1729533-2026-05-10",
@@ -36571,6 +37338,19 @@
       "lang": "en"
     },
     {
+      "id": "941050c4248e52db5b4de8d4a76af191",
+      "title": "UP: \"आखिरी 9 महीनों में ये मंत्री क्या कर लेंगे जब 9 साल में ये सरकार कुछ न कर सकी\", अखिलेश ने कसा तंज",
+      "link": "https://www.amarujala.com/lucknow/akhilesh-yadav-comments-on-up-cabinet-expansion-2026-05-10",
+      "summary": "समाजवादी पार्टी के राष्ट्रीय अध्यक्ष अखिलेश यादव ने यूपी में मंत्रिमंडल विस्तार को लेकर बयान दिया है। उन्होंने तंज भरे लहजे में एक्स पर बयान दिया कि आखिरी 9 महीनों में ये मंत्री क्या कर लेंगे जब 9 साल में ये सरकार कुछ न कर सकी।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:14:13 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "5853e9534af6e62dfdb141c5ca13299a",
       "title": "Gorakhpur News: पीएनजी के दाम दो रुपये बढ़ने से उपभोक्ताओं पर बढ़ा आर्थिक बोझ",
       "link": "https://www.amarujala.com/gorakhpur/the-price-has-increased-from-rs-4850-to-rs-5050-per-cubic-meter-gorakhpur-news-c-7-gkp1006-1315447-2026-05-10",
@@ -36581,6 +37361,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "49f356953c01d1c61e5d11da94c872f9",
+      "title": "UP News Live: योगी कैबिनेट में शामिल हुए छह नए चेहरे, भूपेंद्र सिंह व मनोज पांडेय बने मंत्री",
+      "link": "https://www.amarujala.com/live/lucknow/up-cm-yogi-adityanath-cabinet-expansion-live-updates-ministers-list-bhupendra-chaudhary-manoj-pandey-2026-05-10",
+      "summary": "UP Cabinet Expansion Live Updates : उत्तर प्रदेश में आज बहुप्रतीक्षित कैबिनेट विस्तार होने वाला है। शाम को तीन बजे जनभवन में राज्यपाल छह नेताओं को मंत्री पद की शपथ दिलाएंगी।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:11:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -36711,6 +37504,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "0f9be9bf5402a868023deb29602da49b",
+      "title": "अयोध्या में भाजपा महिला मोर्चा ने सांसद खिलाफ निकली जन आक्रोश पदयात्रा",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-bhajapa-mahal-maraca-na-sasatha-khalfa-nakal-jana-aakarasha-pathayatara-2026-05-10",
+      "summary": "अयोध्या में भाजपा महिला मोर्चा ने सांसद खिलाफ निकली जन आक्रोश पदयात्रा",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 02:08:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
       "lang": "en"
     },
     {
@@ -36922,6 +37728,19 @@
       "lang": "en"
     },
     {
+      "id": "ae79b0739a82d5ee6761462b626d2a41",
+      "title": "क्या फिर लौटेंगी ममता: 1977 के बाद जो बंगाल की सत्ता से गया वो दल कभी लौटकर नहीं आया, टीएमसी का क्या होगा?",
+      "link": "https://www.amarujala.com/india-news/west-bengal-assembly-election-results-trinamool-congress-tmc-mamata-banerjee-know-political-history-comeback-2026-05-10",
+      "summary": "बंगाल में छोटे या कम अवधि की सरकारें और मुख्यमंत्री दोनों की ही काफी कमी रही है। इसी का नतीजा है कि राज्य में शुभेंदु से पहले तक बंगाल के पूरे इतिहास में सिर्फ आठ मुख्यमंत्री ही रहे हैं।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 01:58:37 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "19c475f82a44e81e06acd5c9efeeef27",
       "title": "Gorakhpur News: गोरखपुर में 60 प्रतिशत अभ्यर्थियों ने छोड़ी पीजीटी भर्ती परीक्षा",
       "link": "https://www.amarujala.com/gorakhpur/upessc-successfully-conducted-the-pgt-exam-on-the-first-day-in-both-shifts-gorakhpur-news-c-7-gkp1038-1315703-2026-05-10",
@@ -36959,6 +37778,19 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
+    },
+    {
+      "id": "e36618f667908815e36fb00bda01f2fe",
+      "title": "PM Modi: 'साहस और शक्ति की विरासत ही हमारी सबसे बड़ी ताकत'; बंगलूरू में पीएम मोदी ने गिनाई भाजपा की उपलब्धियां",
+      "link": "https://www.amarujala.com/india-news/narendra-modi-bengaluru-rally-bjp-victory-bengal-assam-gujarat-election-speech-hindi-news-2026-05-10",
+      "summary": "narendra modi Bengaluru rally bjp victory bengal assam gujarat election speech hindi news- PM Modi: 'साहस और शक्ति की विरासत ही हमारी सबसे बड़ी ताकत'; बंगलूरू में पीएम मोदी ने गिनाई भाजपा की उपलब्धियां",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 01:57:36 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "da8850d91a2991969a48b6d8d41ca5e2",
@@ -37013,6 +37845,19 @@
       "lang": "en"
     },
     {
+      "id": "dcf0e49f7aa765c4d52abdbbe3dd4b14",
+      "title": "Car Engine Heat: कहीं आपकी कार का इंजन भी तो नहीं हो रहा ओवरहीट? जानें क्या हो सकती हैं वजहें और बचाव के उपाय",
+      "link": "https://www.amarujala.com/automobiles/car-engine-overheating-common-reasons-how-prevent-permanent-damage-2026-05-10",
+      "summary": "Car Engine Overheating Reasons: अगर आपकी कार का इंजन बार-बार गर्म हो रहा है, तो इसे गर्मियों की सामान्य समस्या समझकर नजरअंदाज करना भारी पड़ सकता है।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 01:55:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "edf0dad842d3552f1860699dc6a9e657",
       "title": "Lucknow News: शान से एकल खिताब भी जीते ऋभव सरोहा",
       "link": "https://www.amarujala.com/lucknow/ribhav-saroha-also-won-the-singles-title-with-pride-lucknow-news-c-13-1-lko1128-1729972-2026-05-10",
@@ -37049,6 +37894,32 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a5e887fd4e1b38685d933bd0be3c93f0",
+      "title": "गोरखपुर जर्नलिस्ट प्रेस क्लब में सजा कवि सम्मेलन का मंच, श्रोताओं ने जमकर उठाया लुत्फ",
+      "link": "https://www.amarujala.com/video/gorakhpur/video-the-stage-for-the-poetry-conference-was-set-up-at-the-gorakhpur-journalist-press-club-2026-05-10",
+      "summary": "गोरखपुर जर्नलिस्ट प्रेस क्लब में सजा कवि सम्मेलन का मंच, श्रोताओं ने जमकर उठाया लुत्फ",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 01:54:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "69a309a7eb5d30de76887b72713acb0e",
+      "title": "UP: काशी इतिहास से पुराना है, यही बोलकर चल रही 25 साल पहले जन्मी जेन जी की दुनिया; पढ़ें अनोखा इतिहास",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/kashi-is-older-history-itself-sentiment-drives-world-of-gen-z-born-just-25-years-ago-unique-history-2026-05-10",
+      "summary": "काशी के पुरुषार्थ की एक बड़ी कड़ी काशी हिंदू विश्वविद्यालय है। महामना मदन मोहन मालवीय का कथन था कि सत्य, ब्रह्मचर्य, व्यायाम, विद्या, देशभक्ति और आत्मत्याग से विद्यार्थियों को समाज में सम्मान के योग्य बनना चाहिए।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 01:53:47 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -37143,6 +38014,19 @@
       "lang": "en"
     },
     {
+      "id": "d0bdcf1e5037ecdb74cc51acb9d3dd08",
+      "title": "Shahjahanpur News: प्रेमिका से बात करने पर पिकअप चालक की हत्या, प्रेमी ने खौफनाक तरीके से ली जान, गिरफ्तार",
+      "link": "https://www.amarujala.com/uttar-pradesh/shahjahanpur/pickup-driver-murdered-for-talking-to-girlfriend-accused-arrested-in-shahjahanpur-2026-05-10",
+      "summary": "मदनापुर थाना क्षेत्र में सात मई को हुई थी पिकअप चालक हरिओम की हत्या, पुलिस ने किया खुलासा",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 01:47:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "09f84b3ed85ea261305071e05ea32c1c",
       "title": "Lucknow News: मनोज अकादमी ने जीता मुकाबला",
       "link": "https://www.amarujala.com/lucknow/manoj-academy-won-the-match-lucknow-news-c-13-1-lko1128-1729969-2026-05-10",
@@ -37167,6 +38051,19 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
+    },
+    {
+      "id": "021185296b73a1eb8fcb11f84d271595",
+      "title": "ट्रेंड में वंदे मातरम्: विजय के शपथ ग्रहण में दो बार गाया गया पूरा राष्ट्र गीत, लोग बोले- यह नया तमिलनाडु है",
+      "link": "https://www.amarujala.com/india-news/tamil-nadu-cm-oath-ceremony-people-reaction-on-social-media-vande-mataram-in-trend-thalapathy-vijay-2026-05-10",
+      "summary": "जोसेफ विजय के तमिलनाडु के मुख्यमंत्री पद की शपथ लेने के बाद सोशल मीडिया पर लोगों की प्रतिक्रिया देखने को मिल रही है।",
+      "date": "2026-05-10",
+      "timestamp": "Sun, 10 May 2026 01:45:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "704707263e9a599002da557db5507067",
@@ -37273,19 +38170,6 @@
       "lang": "en"
     },
     {
-      "id": "021185296b73a1eb8fcb11f84d271595",
-      "title": "ट्रेंड में वंदे मातरम्: विजय के शपथ ग्रहण में दो बार गाया गया पूरा राष्ट्र गीत, लोग बोले- यह नया तमिलनाडु है",
-      "link": "https://www.amarujala.com/india-news/tamil-nadu-cm-oath-ceremony-people-reaction-on-social-media-vande-mataram-in-trend-thalapathy-vijay-2026-05-10",
-      "summary": "जोसेफ विजय के तमिलनाडु के मुख्यमंत्री पद की शपथ लेने के बाद सोशल मीडिया पर लोगों की प्रतिक्रिया देखने को मिल रही है।",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 01:38:48 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "251e9aa16dee979bdb2ae08f9cea2498",
       "title": "Varanasi News: इमरजेंसी वार्ड में लगाई गई पीओएस मशीन",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/pos-machine-installed-in-the-emergency-ward-varanasi-news-c-20-vns1021-1386185-2026-05-10",
@@ -37361,19 +38245,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "6af1bac45d9065cbea8539d4c03d41d4",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 10 मई के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-10",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-05-10",
-      "timestamp": "Sun, 10 May 2026 01:30:29 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -48323,19 +49194,6 @@
       "lang": "en"
     },
     {
-      "id": "78000182510af249a5d4cfe24064ab13",
-      "title": "Mythos | Double-edged sword",
-      "link": "https://www.thehindu.com/news/national/mythos-double-edged-sword/article70960067.ece",
-      "summary": "The Anthropic AI model can not only identify vulnerabilities in cyberspace that humans may have missed, but also generate ways to exploit them, potentially even for non-experts",
-      "date": "2026-05-09",
-      "timestamp": "Sat, 09 May 2026 23:16:07 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "7d7450b7dbb8226ba6d3b235b1295d0a",
       "title": "Indian model's understated Met Gala debut revives debate on cultural representation",
       "link": "https://www.bbc.com/news/articles/cre13zeql51o?at_medium=RSS&at_campaign=rss",
@@ -48515,19 +49373,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "05a11291e3445927d90815fcc497f6d1",
-      "title": "Suvendu Adhikari | The Bengal pivot",
-      "link": "https://www.thehindu.com/news/national/west-bengal/suvendu-adhikari-the-bengal-pivot/article70960054.ece",
-      "summary": "Mamata Banerjee’s former trusted lieutenant has unseated her from power and become West Bengal’s first BJP Chief Minister",
-      "date": "2026-05-09",
-      "timestamp": "Sat, 09 May 2026 22:22:00 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -49449,19 +50294,6 @@
       "timestamp": "Sat, 09 May 2026 20:14:13 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "be6c930aea5d12c14295a2a372cb8a73",
-      "title": "Driving change in an autorickshaw: This Bengaluru NGO is helping single mothers, abuse survivors rise from the ashes",
-      "link": "https://www.thehindu.com/news/national/karnataka/driving-change-in-an-autorickshaw-this-bengaluru-ngo-is-helping-single-mothers-abuse-survivors-rise-from-the-ashes/article70958870.ece",
-      "summary": "Swavalambi Stree Auto-Rickshaw Driving Initiative by Bengaluru-based NGO Taliru Foundation has supported many women",
-      "date": "2026-05-09",
-      "timestamp": "Sat, 09 May 2026 20:14:05 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -72360,19 +73192,6 @@
       "lang": "en"
     },
     {
-      "id": "f3aa8790569e86ebc4352a70e0b18f86",
-      "title": "T.N. Government formation: IUML endorses M.K. Stalin’s demand for a new government",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/iuml-role-tamil-nadu-govt-formation-updates-may-8/article70955419.ece",
-      "summary": "Professor Kader Mohideen, the leader of the party, said his party has not given a letter of support to Tamilaga Vetri Kazhagam, led by actor Vijay.",
-      "date": "2026-05-08",
-      "timestamp": "Fri, 08 May 2026 21:06:37 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b7373d97c1760f345fa4eff55950a3ee",
       "title": "Emerging technologies like AI and quantum computing are transforming society, say experts",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/emerging-technologies-like-ai-and-quantum-computing-are-transforming-society-say-experts/article70955831.ece",
@@ -74305,19 +75124,6 @@
       "timestamp": "Fri, 08 May 2026 15:17:03 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "14418e62dbca42c5b90b957f197ed68b",
-      "title": "BJP won’t support any coalition formation in Tamil Nadu: Nainar Nagenthran",
-      "link": "https://www.thehindu.com/elections/tamil-nadu-assembly/bjp-wont-support-any-coalition-formation-in-tamil-nadu-nainar-nagenthran/article70954751.ece",
-      "summary": "The BJP, as part of the AIADMK-led National Democratic Alliance, contested 27 seats. The party’s nominee M. Bhojarajan won by a slim margin of 976 votes",
-      "date": "2026-05-08",
-      "timestamp": "Fri, 08 May 2026 15:16:14 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -82288,6 +83094,136 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ccfce9c5fdcde6fb51e1b317af6e7f0",
+      "title": "Inside ‘mommy brain’: How pregnancy and childbirth rewire the maternal mind",
+      "link": "https://timesofindia.indiatimes.com/india/inside-mommy-brain-how-pregnancy-and-childbirth-rewire-the-maternal-mind/articleshow/130990129.cms",
+      "summary": "Pregnancy and childbirth trigger significant physiological, psychological, and emotional transformations in women, often leading to \"mommy brain\" characterized by forgetfulness and mental fog. Scientific studies reveal neural recalibration, not decline, as the brain adapts to caregiving demands. This experience, while common, requires understanding and support for new mothers navigating identity shifts and cognitive loads.",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T15:32:50+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c25810488ba657328858448bae00bfed",
+      "title": "Full Vande Mataram recited: How Tamil Nadu CM Vijay used swearing in event to send message to BJP",
+      "link": "https://timesofindia.indiatimes.com/india/full-vande-mataram-recited-no-tamil-song-how-tamil-nadu-cm-vijay-used-swearing-in-event-to-send-message-to-bjp/articleshow/130989850.cms",
+      "summary": "",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T15:23:29+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ae51a4555e59ea34f22ac84a91e77758",
+      "title": "Major security scare: Explosive material found near PM Modi's event venue in Bengaluru outskirts",
+      "link": "https://timesofindia.indiatimes.com/india/major-security-scare-explosive-material-found-near-pm-modis-event-in-bengaluru-outskirts/articleshow/130990125.cms",
+      "summary": "",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T15:13:58+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a36b68b411ffac41d0f637a1c87daed3",
+      "title": "Quote of the day by Aristotle: “Educating the mind without educating the heart is no education at all.”",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/quote-of-the-day-by-aristotle-educating-the-mind-without-educating-the-heart-is-no-education-at-all-/articleshow/130989844.cms",
+      "summary": "",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T15:07:48+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b8ed45ea7c7214bde3ca9b5c4bf7a807",
+      "title": "Who is Q Manivannan? Indian-born trans immigrant without permanent UK residency elected to Scottish Parliament",
+      "link": "https://timesofindia.indiatimes.com/world/uk/who-is-q-manivannan-tamil-nadu-born-trans-immigrant-without-permanent-uk-residency-elected-to-scottish-parliament/articleshow/130989661.cms",
+      "summary": "",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T15:03:06+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "71366e99ff68de257e91cfbfb37da6a3",
+      "title": "World Lupus Day: Why this autoimmune disease hits women harder?",
+      "link": "https://timesofindia.indiatimes.com/india/world-lupus-day-why-this-autoimmune-disease-hits-women-harder/articleshow/130989494.cms",
+      "summary": "",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T14:33:34+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "909ee3be6678259f318dff7f263393fd",
+      "title": "A shared songbook, Runa Laila reassuring constant in delicate Indo-Bangla ties",
+      "link": "https://timesofindia.indiatimes.com/india/a-shared-songbook-runa-laila-reassuring-constant-in-delicate-indo-bangla-ties/articleshow/130989692.cms",
+      "summary": "Runa Laila, celebrating 50 years in Hindi films, continues to bridge India and Bangladesh through her music. Her powerful voice, first heard in 'Ek Se Badhkar Ek,' has been a constant amidst political shifts. Receiving the Minar-e-Dilli award, she emphasized music's healing power, a sentiment echoed by fans who find solace in her melodies.",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T14:33:26+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c87d70e97a17b7eab3ee85c9cd23a08b",
+      "title": "Risky robots: German researcher exposes 11,000 robot lawnmowers that could be hacked and controlled worldwide",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/risky-robots-german-researcher-exposes-11000-robot-lawnmowers-that-could-be-hacked-and-controlled-worldwide/articleshow/130989629.cms",
+      "summary": "",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T14:27:32+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0e8bbfeca71c4f761fceea404045c590",
+      "title": "Did Cleopatra really die from a snake bite: The truth behind Egypt’s last queen’s mysterious death",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/did-cleopatra-really-die-from-a-snake-bite-the-truth-behind-egypts-last-queens-mysterious-death/articleshow/130989499.cms",
+      "summary": "",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T14:19:59+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c65905beda8c293a98bcfaeba1a0aba7",
+      "title": "‘They should not be allowed to stand’: British MP Rupert Lowe slams election of Indian-born Scottish lawmaker without permanent visa",
+      "link": "https://timesofindia.indiatimes.com/world/uk/they-should-not-be-allowed-to-stand-british-mp-rupert-lowe-slams-election-of-indian-born-scottish-lawmaker-without-permanent-visa/articleshow/130989088.cms",
+      "summary": "",
+      "date": "2026-05-10",
+      "timestamp": "2026-05-10T13:58:42+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
