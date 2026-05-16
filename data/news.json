@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T22:39:57.703159+00:00",
+  "generated_at": "2026-05-16T23:45:40.932997+00:00",
   "stories": [
     {
       "id": "ac85fecbe50deb0d2cc31dde3ea89231",
@@ -37052,12 +37052,38 @@
       "lang": "en"
     },
     {
+      "id": "751a68897ba5a4a9428ac5a45eb04941",
+      "title": "Weather Update: 26 तक केरल पहुंचेगा मानसून, दक्षिण में बाढ़ का खतरा; उत्तर और मध्य भारत में भीषण सूखे की आशंका",
+      "link": "https://www.amarujala.com/india-news/imd-weather-news-monsoon-in-kerala-by-26-may-flood-risk-in-south-north-and-central-india-severe-drought-fear-2026-05-17",
+      "summary": "Weather Update: 26 तक केरल पहुंचेगा मानसून, दक्षिण में बाढ़ का खतरा; उत्तर और मध्य भारत में भीषण सूखे की आशंका",
+      "date": "2026-05-17",
+      "timestamp": "Sun, 17 May 2026 05:06:56 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "dfce58f01c01f33bef3eab5dd31a744a",
+      "title": "India, Netherlands elevating ties to strategic partnership, says PM Modi",
+      "link": "https://www.thehindu.com/news/national/india-netherlands-elevating-ties-to-strategic-partnership-says-pm-modi/article70988590.ece",
+      "summary": "India and the Netherlands inked a number of agreements to further enhance their cooperation in a range of areas",
+      "date": "2026-05-17",
+      "timestamp": "Sun, 17 May 2026 05:03:17 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0dfc8c8c39532bf4186144a9a68805db",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 17 मई के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-17",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-05-17",
-      "timestamp": "Sun, 17 May 2026 04:00:35 +0530",
+      "timestamp": "Sun, 17 May 2026 05:00:38 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -37070,7 +37096,7 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-05-17",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-05-17",
-      "timestamp": "Sun, 17 May 2026 04:00:22 +0530",
+      "timestamp": "Sun, 17 May 2026 05:00:23 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -37089,6 +37115,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "f26f2007753be27db0c9d3096e2adca1",
+      "title": "Suvendu targets Abhishek, says all his properties will be accounted for",
+      "link": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-cm-suvendu-adhikari-alleges-diamond-harbour-people-denied-voting-rights-for-decade/article70987305.ece",
+      "summary": "West Bengal Chief Minister Suvendu Adhikari held his first public meeting after winning elections at Falta, which falls under the Diamond Harbour Lok Sabha seat held by Abhishek Banerjee; Re-polling in the Falta assembly seat will be held on May 21",
+      "date": "2026-05-17",
+      "timestamp": "Sun, 17 May 2026 03:30:48 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "3a1fc79810fb47aaa88dac2844d21e84",
@@ -48843,6 +48882,19 @@
       "lang": "en"
     },
     {
+      "id": "e46f665743b3d152e823124add163fda",
+      "title": "Bolivia launches early-morning crackdown on roadblocks outside La Paz",
+      "link": "https://www.aljazeera.com/gallery/2026/5/16/bolivia-launches-early-morning-crackdown-on-roadblocks-outside-la-paz?traffic_source=rss",
+      "summary": "The government of Rodrigo Paz has sent about 3,500 soldiers and police to clear protesters demanding his resignation.",
+      "date": "2026-05-16",
+      "timestamp": "Sat, 16 May 2026 23:24:54 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "aded9d8040a51dcd424d583e197b14fa",
       "title": "Bengaluru realtor receives ransom threat call from man claiming be Vicky Shetty",
       "link": "https://www.thehindu.com/news/national/karnataka/bengaluru-realtor-receives-ransom-threat-call-from-man-claiming-be-vicky-shetty/article70988251.ece",
@@ -48956,6 +49008,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "23a38385dd866417048c7141259600af",
+      "title": "German police assault protesters at Nakba anniversary rally",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/16/german-police-assault-protesters-at-nakba-anniversary-rally?traffic_source=rss",
+      "summary": "German police hit and pepper-spray protesters as thousands gathered in Berlin to mark the 78th anniversary of the Nakba.",
+      "date": "2026-05-16",
+      "timestamp": "Sat, 16 May 2026 22:59:59 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -50983,19 +51048,6 @@
       "timestamp": "Sat, 16 May 2026 19:05:02 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "f26f2007753be27db0c9d3096e2adca1",
-      "title": "Bengal CM Suvendu Adhikari alleges Diamond Harbour people denied voting rights for decade",
-      "link": "https://www.thehindu.com/elections/west-bengal-assembly/bengal-cm-suvendu-adhikari-alleges-diamond-harbour-people-denied-voting-rights-for-decade/article70987305.ece",
-      "summary": "In his first political meeting since he became Chief Minister, Mr. Adhikari said, \"The Falta repolls will re-establish voter rights where people have not been able to vote for 10 years ever since Abhishek Banerjee arrived on its political scene.”",
-      "date": "2026-05-16",
-      "timestamp": "Sat, 16 May 2026 19:04:03 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -96289,6 +96341,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3d62be57888052d97498e75cf1a1b0ef",
+      "title": "Gains of past decades will be lost if crisis continues: PM Modi in The Netherlands",
+      "link": "https://timesofindia.indiatimes.com/india/gains-of-past-decades-will-be-lost-if-crisis-continues-pm-modi-in-the-netherlands/articleshow/131147592.cms",
+      "summary": "Prime Minister Modi warned that global challenges like pandemics, wars, and energy crises could push a large population back into poverty, potentially undoing decades of progress. He highlighted India's \"unprecedented\" transformation under his leadership, urging the diaspora to join the nation's journey towards becoming a developed country.",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-17T05:01:46+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6b9398831ec4b2761a65bf9aeec5dc61",
+      "title": "NTA gets 2 new joint secretaries, 2 joint directors",
+      "link": "https://timesofindia.indiatimes.com/india/nta-gets-2-new-joint-secretaries-2-joint-directors/articleshow/131147563.cms",
+      "summary": "",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-17T04:46:36+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4dc49e37e193253e758794405cbad2b1",
+      "title": "CBSE brings 3-language rule to Class 9 from July; no board exam for 3rd",
+      "link": "https://timesofindia.indiatimes.com/india/cbse-brings-3-language-rule-to-class-9-from-july-no-board-exam-for-3rd/articleshow/131147546.cms",
+      "summary": "",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-17T04:37:59+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "56c648dd003b6a57d25b1068ee2e3e55",
+      "title": "Was misquoted, I’m proud of our youth, says CJI Surya Kant",
+      "link": "https://timesofindia.indiatimes.com/india/was-misquoted-im-proud-of-our-youth-says-cji-surya-kant/articleshow/131147495.cms",
+      "summary": "",
+      "date": "2026-05-16",
+      "timestamp": "2026-05-17T04:12:44+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
