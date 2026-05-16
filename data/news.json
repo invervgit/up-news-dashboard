@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T21:54:13.590550+00:00",
+  "generated_at": "2026-05-16T22:39:57.703159+00:00",
   "stories": [
     {
       "id": "ac85fecbe50deb0d2cc31dde3ea89231",
@@ -37052,25 +37052,12 @@
       "lang": "en"
     },
     {
-      "id": "85b50a4e9b051914bd5ce2b86c0ca587",
-      "title": "Canadian cruise passenger gets presumptive positive hantavirus test result after ship outbreak",
-      "link": "https://www.thehindu.com/news/international/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result-after-ship-outbreak/article70988561.ece",
-      "summary": "Results from the National Microbiology Lab in Winnipeg to confirm the case are expected to come over the weeken",
-      "date": "2026-05-17",
-      "timestamp": "Sun, 17 May 2026 03:16:17 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "0dfc8c8c39532bf4186144a9a68805db",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 17 मई के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-17",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-05-17",
-      "timestamp": "Sun, 17 May 2026 03:00:36 +0530",
+      "timestamp": "Sun, 17 May 2026 04:00:35 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -37083,12 +37070,51 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-05-17",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-05-17",
-      "timestamp": "Sun, 17 May 2026 03:00:22 +0530",
+      "timestamp": "Sun, 17 May 2026 04:00:22 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "feceb03a66a05fff9b3af0284a6c9cfa",
+      "title": "West Bengal Bulldozer Action News: बंगाल में अवैध कब्जों पर बुलडोजर कार्रवाई पर हाईकोर्ट की रोक!",
+      "link": "https://www.amarujala.com/video/india-news/west-bengal-bulldozer-action-news-high-court-stays-bulldozer-action-against-illegal-encroachments-in-bengal-2026-05-17",
+      "summary": "West Bengal Bulldozer Action News: बंगाल में अवैध कब्जों पर बुलडोजर कार्रवाई पर हाईकोर्ट की रोक!",
+      "date": "2026-05-17",
+      "timestamp": "Sun, 17 May 2026 03:36:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3a1fc79810fb47aaa88dac2844d21e84",
+      "title": "PM Modi in Netherlands LIVE: India, Netherlands elevating ties to strategic partnership, says Modi",
+      "link": "https://www.thehindu.com/news/national/pm-modi-netherlands-visit-five-nation-tour-energy-trade-diplomatic-relations-live-updates-may-16-2026/article70986095.ece",
+      "summary": "PM Narendra Modi on May 16 met King of the Netherlands Willem-Alexander and Queen Maxima at the Royal Palace and discussed close cooperation in digital technology, innovation, fintech and blue economy",
+      "date": "2026-05-17",
+      "timestamp": "Sun, 17 May 2026 03:20:26 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "85b50a4e9b051914bd5ce2b86c0ca587",
+      "title": "Canadian cruise passenger gets presumptive positive hantavirus test result after ship outbreak",
+      "link": "https://www.thehindu.com/news/international/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-result-after-ship-outbreak/article70988561.ece",
+      "summary": "Results from the National Microbiology Lab in Winnipeg to confirm the case are expected to come over the weeken",
+      "date": "2026-05-17",
+      "timestamp": "Sun, 17 May 2026 03:16:17 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "4e71771c0b4aa322b62da2e402ce2317",
@@ -37534,7 +37560,7 @@
     },
     {
       "id": "b2ff0f9364e484f58e58b3528aaeda3f",
-      "title": "Court of Arbitration: भारत ने ठुकराया कोर्ट ऑफ आर्बिट्रेशन का फैसला, कहा- सिंधु जल समझौते पर रोक जारी रहेगी",
+      "title": "बिन पानी सब सून: अवैध अदालत के सहारे पाकिस्तान 10 साल से मांग रहा सिंधु जल; 2026 में भारत ने फिर दिखाया आईना",
       "link": "https://www.amarujala.com/india-news/mea-statement-indus-waters-treaty-court-of-arbitration-mea-randhir-jaiswal-india-pakistan-water-dispute-2026-05-17",
       "summary": "Court of Arbitration: भारत ने ठुकराया कोर्ट ऑफ आर्बिट्रेशन का फैसला, कहा- सिंधु जल समझौते पर रोक जारी रहेगी",
       "date": "2026-05-17",
@@ -38581,19 +38607,6 @@
       "timestamp": "Sun, 17 May 2026 00:12:05 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3a1fc79810fb47aaa88dac2844d21e84",
-      "title": "PM Modi in Netherlands LIVE: Modi invites Dutch companies to design, innovate and manufacture in India",
-      "link": "https://www.thehindu.com/news/national/pm-modi-netherlands-visit-five-nation-tour-energy-trade-diplomatic-relations-live-updates-may-16-2026/article70986095.ece",
-      "summary": "PM Narendra Modi on May 16 met King of the Netherlands Willem-Alexander and Queen Maxima at the Royal Palace and discussed close cooperation in digital technology, innovation, fintech and blue economy",
-      "date": "2026-05-17",
-      "timestamp": "Sun, 17 May 2026 00:11:20 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -49116,6 +49129,19 @@
       "lang": "en"
     },
     {
+      "id": "6b2e9a92e32f6b75c8c96bec96c9b2d9",
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+      "date": "2026-05-16",
+      "timestamp": "Sat, 16 May 2026 22:27:44 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "831f7aa2e9ecc1d15c5a91174df0b444",
       "title": "CBSE makes third language mandatory for Class IX from July 1",
       "link": "https://www.thehindu.com/education/cbse-makes-third-language-mandatory-for-class-ix/article70986846.ece",
@@ -49412,6 +49438,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c59f041302e372c8e98ed08ac0c787bf",
+      "title": "Two presidential campaign staffers killed in Colombia as elections near",
+      "link": "https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss",
+      "summary": "Rights office says the violence could hinder 'exercise of political rights' ahead of May vote to replace Gustavo Petro.",
+      "date": "2026-05-16",
+      "timestamp": "Sat, 16 May 2026 21:42:04 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -52382,7 +52421,7 @@
       "id": "a82bbed0f2d203fbb2f27bec88c165d8",
       "title": "Tens of thousands march in London in far-right and pro-Palestine protests",
       "link": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss",
-      "summary": "British capital sees heightened security as right wing rally takes place at the same time as Nakba Day march.",
+      "summary": "British capital sees heightened security as a right-wing rally takes place at the same time as Nakba Day march.",
       "date": "2026-05-16",
       "timestamp": "Sat, 16 May 2026 13:59:39 +0000",
       "section": "International",
@@ -83952,19 +83991,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "6b2e9a92e32f6b75c8c96bec96c9b2d9",
-      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-      "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-      "date": "2026-05-15",
-      "timestamp": "Fri, 15 May 2026 23:59:07 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
