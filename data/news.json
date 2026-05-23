@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T21:49:19.550076+00:00",
+  "generated_at": "2026-05-23T22:46:47.159364+00:00",
   "stories": [
     {
       "id": "8329382a3e12727c8d40f764f67cdb2e",
@@ -34686,25 +34686,12 @@
       "lang": "en"
     },
     {
-      "id": "655917c797e75f779c00573a8317a228",
-      "title": "Electricity Crisis: कहीं फुके ट्रांसफॉर्मर तो कई जिलों में गुल रही बिजली; भीषण गर्मी से ओडिशा में जनजीवन बेहाल",
-      "link": "https://www.amarujala.com/india-news/odisha-electricity-crisis-blown-transformers-widespread-power-outages-across-many-districts-intense-heat-2026-05-24",
-      "summary": "Electricity Crisis: कहीं फुके ट्रांसफॉर्मर तो कई जिलों में गुल रही बिजली; भीषण गर्मी से ओडिशा में जनजीवन बेहाल",
-      "date": "2026-05-24",
-      "timestamp": "Sun, 24 May 2026 03:03:52 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "082ec3f5673b054c4d09a071e2a8de8d",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 24 मई के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-24",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-05-24",
-      "timestamp": "Sun, 24 May 2026 03:00:41 +0530",
+      "timestamp": "Sun, 24 May 2026 04:00:38 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -34717,7 +34704,20 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-05-24",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-05-24",
-      "timestamp": "Sun, 24 May 2026 03:00:27 +0530",
+      "timestamp": "Sun, 24 May 2026 04:00:25 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "655917c797e75f779c00573a8317a228",
+      "title": "Electricity Crisis: कहीं फुके ट्रांसफॉर्मर तो कई जिलों में गुल रही बिजली; भीषण गर्मी से ओडिशा में जनजीवन बेहाल",
+      "link": "https://www.amarujala.com/india-news/odisha-electricity-crisis-blown-transformers-widespread-power-outages-across-many-districts-intense-heat-2026-05-24",
+      "summary": "Electricity Crisis: कहीं फुके ट्रांसफॉर्मर तो कई जिलों में गुल रही बिजली; भीषण गर्मी से ओडिशा में जनजीवन बेहाल",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 03:03:52 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -46464,6 +46464,19 @@
       "lang": "en"
     },
     {
+      "id": "bb0263dd4e647bdcaf936bbe058135ec",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
+      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
+      "date": "2026-05-23",
+      "timestamp": "Sat, 23 May 2026 22:10:24 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a0250cd84e9e07589b71769f84bd9740",
       "title": "Uppal flyover works push traffic into residential lanes in eastern Hyderabad, double commute times for residents",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/uppal-flyover-works-push-traffic-into-residential-lanes-in-eastern-hyderabad-double-commute-times-for-residents/article71014643.ece",
@@ -46824,19 +46837,6 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "bb0263dd4e647bdcaf936bbe058135ec",
-      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
-      "link": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on.",
-      "date": "2026-05-23",
-      "timestamp": "Sat, 23 May 2026 21:14:57 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -48895,6 +48895,19 @@
       "lang": "en"
     },
     {
+      "id": "2b8d6d9b0f309159e56080b6557ead90",
+      "title": "UP के 75 जिलों में लागू होगी ‘श्रमिक विद्या योजना’, CM योगी बोले- कोई बच्चा मजबूरी में शिक्षा से वंचित न रहे",
+      "link": "https://www.patrika.com/lucknow-news/shramik-vidya-yojana-will-be-implemented-in-entire-uttar-pradesh-20603396",
+      "summary": "मुख्यमंत्री योगी आदित्यनाथ (Chief Minister Yogi Adityanath) ने श्रमिक कल्याण, कौशल विकास और रोजगार सृजन को मजबूत बनाने के लिए अहम फैसले लिए हैं। सीएम योगी (CM Yogi) ने कहा कि आर्थिक मजबूरी के कारण कोई भी बच्चा शिक्षा से वंचित न रहे। इसके लिए ‘बाल श्रमिक विद्या योजना’ को प्रदेश के 75 जिलों में लागू किया जाएगा। CM योगी ने कहा कि प्रदेश सरकार युवाओं और श्रमिकों को बेहतर अवसर उपलब्ध कराने के लिए कौशल विकास, रोजगार मेलों, सेवामित्र व्यवस्था और श्रमिक सुविधा केंद्रों को और मजबूत करने पर जोर दे रही है।",
+      "date": "2026-05-23",
+      "timestamp": "Sat, 23 May 2026 16:28:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "b9dec90f1c3d65b358b7b01c64116d76",
       "title": "यूपी पंचायत चुनाव से पहले प्रधानों को ओपी राजभर का संकेत, अब्बास अंसारी से पल्ला झाड़ा",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-panchayat-elections-om-prakash-rajbhar-signals-to-pradhans-distances-himself-from-mla-abbas-ansari-201779533488027.html",
@@ -49308,19 +49321,6 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "2b8d6d9b0f309159e56080b6557ead90",
-      "title": "UP के 75 जिलों में लागू होगी ‘श्रमिक विद्या योजना’, CM योगी बोले- कोई बच्चा मजबूरी में शिक्षा से वंचित न रहे",
-      "link": "https://www.patrika.com/lucknow-news/shramik-vidya-yojana-will-be-implemented-in-entire-uttar-pradesh-20603396",
-      "summary": "मुख्यमंत्री योगी आदित्यनाथ (Chief Minister Yogi Adityanath) ने श्रमिक कल्याण, कौशल विकास और रोजगार सृजन को मजबूत बनाने के लिए अहम फैसले लिए हैं। सीएम योगी (CM Yogi) ने कहा कि आर्थिक मजबूरी के कारण कोई भी बच्चा शिक्षा से वंचित न रहे। इसके लिए ‘बाल श्रमिक विद्या योजना’ को प्रदेश के 75 जिलों में लागू किया जाएगा। CM योगी ने कहा कि प्रदेश सरकार युवाओं और श्रमिकों को बेहतर अवसर उपलब्ध कराने के लिए कौशल विकास, रोजगार मेलों, सेवामित्र व्यवस्था और श्रमिक सुविधा केंद्रों को और मजबूत करने पर जोर दे रही है।",
-      "date": "2026-05-23",
-      "timestamp": "Sat, 23 May 2026 15:12:37 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -94131,6 +94131,84 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a83d6a81894b20f75bccd2479712172c",
+      "title": "Site, web accounts blocked, says Cockroach Janta Party founder",
+      "link": "https://timesofindia.indiatimes.com/india/site-web-accounts-blocked-says-cockroach-janta-party-founder/articleshow/131287471.cms",
+      "summary": "",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-24T03:56:05+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "30f36d44841f7d21f521639cce073579",
+      "title": "217 Indians joined Russian army, 49 dead, Centre tells SC",
+      "link": "https://timesofindia.indiatimes.com/india/217-indians-joined-russian-army-49-dead-centre-tells-sc/articleshow/131285686.cms",
+      "summary": "",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-24T03:25:01+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cc45f638364dbde4367d5b3355a42da3",
+      "title": "Crack down on fake education institutions, HC tells Centre",
+      "link": "https://timesofindia.indiatimes.com/india/crack-down-on-fake-education-institutions-hc-tells-centre/articleshow/131285684.cms",
+      "summary": "",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-24T03:22:09+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "09da3db57693180e6380dae6dd2754e7",
+      "title": "Only 6 states now have fertility rate above replacement level",
+      "link": "https://timesofindia.indiatimes.com/india/only-6-states-now-have-fertility-rate-above-replacement-level/articleshow/131285680.cms",
+      "summary": "",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-24T03:14:35+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "91bb524aae70e114733c69f67b9e05ae",
+      "title": "Ex-bureaucrats write to CJI over remarks on green litigants",
+      "link": "https://timesofindia.indiatimes.com/india/ex-bureaucrats-write-to-cji-over-remarks-on-green-litigants/articleshow/131285675.cms",
+      "summary": "",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-24T03:09:16+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ae2271512477cec4cc8894472240fc82",
+      "title": "PM Modi's strength not just in policy, but also in trust he builds: Shivraj Singh Chouhan",
+      "link": "https://timesofindia.indiatimes.com/india/pm-modis-strength-not-just-in-policy-but-also-in-trust-he-builds-shivraj-singh-chouhan/articleshow/131285673.cms",
+      "summary": "",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-24T03:06:12+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
