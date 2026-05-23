@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:46:47.159364+00:00",
+  "generated_at": "2026-05-23T23:52:51.327710+00:00",
   "stories": [
     {
       "id": "8329382a3e12727c8d40f764f67cdb2e",
@@ -34691,7 +34691,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-24",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-05-24",
-      "timestamp": "Sun, 24 May 2026 04:00:38 +0530",
+      "timestamp": "Sun, 24 May 2026 05:00:44 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -34704,12 +34704,51 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-05-24",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-05-24",
-      "timestamp": "Sun, 24 May 2026 04:00:25 +0530",
+      "timestamp": "Sun, 24 May 2026 05:00:28 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "39d0e9b524c572cd714676d3abaf78fb",
+      "title": "Rashifal 24 May 2026: देखिए क्या कहती है आपकी राशि",
+      "link": "https://www.amarujala.com/video/india-news/horoscope-24-may-2026-see-what-your-zodiac-sign-says-2026-05-24",
+      "summary": "देखिए क्या कहती है आपकी राशि",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 05:00:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d06ba8abbab6eb65005dfd0d1366a787",
+      "title": "Trump says agreement with Iran 'largely negotiated,' includes opening strait",
+      "link": "https://www.thehindu.com/news/international/trump-says-agreement-with-iran-largely-negotiated-includes-opening-strait/article71015849.ece",
+      "summary": "Iranian Foreign Ministry spokesman Esmaeil Baghaei noted what he called “a trend towards rapprochement,” but said, “it does not necessarily mean that we and the United States will reach an agreement on the important issues”",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 04:37:11 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5fa6338dba6ded7d98054e852b3953c5",
+      "title": "Iran-Israel war LIVE: Trump says agreement with Iran 'largely negotiated,' includes opening strait",
+      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-donald-trump-us-iran-peace-talks-live-updates-may-23-2026/article71013439.ece",
+      "summary": "Among the West Asian countries whose leaders joined a call on Saturday to discuss the deal were Saudi Arabia, United Arab Emirates, Qatar, Egypt, Jordan and Bahrain, Mr. Trump said.",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 04:25:33 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "655917c797e75f779c00573a8317a228",
@@ -34723,6 +34762,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "62cd06d86943ed7a54e45a959e6c30af",
+      "title": "West Bengal gained infamy due to recruitment scams, new recruitment policy in next Budget session: CM",
+      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengalgained-infamy-due-to-recruitment-scams-new-recruitment-policy-in-next-budget-session-cm/article71014999.ece",
+      "summary": "The allegation of corruption in government jobs came to hurt the Trinamool Congress and the party lost the recently concluded assembly elections to the Bharatiya Janata Party (BJP).",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 02:33:34 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "95f7372cf9bc25b7d1173fc363ae109a",
@@ -35154,6 +35206,19 @@
       "lang": "en"
     },
     {
+      "id": "8d8fafe021ab2d0e9fd92d5340161ceb",
+      "title": "Why did Kerala scrap the SilverLine project?",
+      "link": "https://www.thehindu.com/news/national/kerala/why-did-kerala-scrap-the-silverline-project/article71014889.ece",
+      "summary": "What was the project and why was it projected as a game-changer for Kerala’s transport sector? Why did the land acquisition process trigger protests? What processes were put in place to acquire land? What were the concerns over the project?",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 02:12:04 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "257db28488eb329e424be0b3e4f204df",
       "title": "Gorakhpur News: नीरज के तूफानी शतक से हॉक स्पोर्ट्स की रोमांचक जीत",
       "link": "https://www.amarujala.com/gorakhpur/t20-match-played-at-kusmhi-cricket-ground-neeraj-became-man-of-the-match-gorakhpur-news-c-7-gkp1038-1330973-2026-05-24",
@@ -35177,6 +35242,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "7b9a18da33216a912574910811050479",
+      "title": "What did the Supreme Court say about bail under UAPA?",
+      "link": "https://www.thehindu.com/news/national/what-did-the-supreme-court-say-about-bail-under-uapa/article71014894.ece",
+      "summary": "What are the disagreements between recent Supreme Court rulings on UAPA bail? Why is bail so difficult under Section 43D(5) of the UAPA? What did the Court say in K.A. Najeeb about prolonged incarceration and bail? What role does Article 21 play in UAPA bail jurisprudence?",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 02:09:09 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -35736,6 +35814,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "a2daaa47b3cc5c42030691a46e3f289d",
+      "title": "How has the BCCI resisted RTI scrutiny?",
+      "link": "https://www.thehindu.com/news/national/how-has-the-bcci-resisted-rti-scrutiny/article71013670.ece",
+      "summary": "Why does the body not qualify as a public authority? What does the CIC order say? What are the implications?",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 01:27:54 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -46243,15 +46334,15 @@
       "lang": "en"
     },
     {
-      "id": "5fa6338dba6ded7d98054e852b3953c5",
-      "title": "Iran-Israel war updates: Iran chief negotiator vows 'crushing' response if U.S. returns to war",
-      "link": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-donald-trump-us-iran-peace-talks-live-updates-may-23-2026/article71013439.ece",
-      "summary": "Trump ‘seriously considering’ launching new strikes against Iran: report",
+      "id": "203426d8c1b2210cf9cef074e8256ff8",
+      "title": "US police responding to reports of shots fired near White House",
+      "link": "https://www.aljazeera.com/news/2026/5/23/us-police-responding-to-reports-of-shots-fired-near-white-house?traffic_source=rss",
+      "summary": "The US Secret Service is investigating reported gunfire outside the White House.",
       "date": "2026-05-23",
-      "timestamp": "Sat, 23 May 2026 22:54:03 +0530",
+      "timestamp": "Sat, 23 May 2026 22:52:43 +0000",
       "section": "International",
       "report_category": "International",
-      "source": "The Hindu",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -94131,6 +94222,32 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "866ede0ae023bbc49fe919e5c72f1f4a",
+      "title": "White House gunfire scare: Footage shows journalists running for shelter",
+      "link": "https://timesofindia.indiatimes.com/world/us/white-house-gunfire-scare-footage-shows-journalists-running-for-shelter/articleshow/131287497.cms",
+      "summary": "",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-24T04:57:28+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7aa30cc14d9c7690f4fb8b8b2147942c",
+      "title": "SpaceX's Starship flight hits most targets in pre-IPO test",
+      "link": "https://timesofindia.indiatimes.com/science/spacexs-starship-flight-hits-most-targets-in-pre-ipo-test/articleshow/131287492.cms",
+      "summary": "",
+      "date": "2026-05-23",
+      "timestamp": "2026-05-24T04:31:03+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
