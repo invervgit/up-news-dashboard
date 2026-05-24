@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T21:51:48.396758+00:00",
+  "generated_at": "2026-05-24T22:53:10.616821+00:00",
   "stories": [
     {
       "id": "8329382a3e12727c8d40f764f67cdb2e",
@@ -34686,6 +34686,19 @@
       "lang": "en"
     },
     {
+      "id": "ffdd4d4623036fa7138a6589460ced01",
+      "title": "Blast targeting train kills at least 20 in Pakistan",
+      "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 22:11:51 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a14ac242c7c41bf4d52e1c21b7b2d664",
       "title": "Assam Rifles apprehend key accused in 2023 abduction-murder of two Meitei students",
       "link": "https://www.thehindu.com/news/national/assam-rifles-apprehend-key-accused-in-2023-abduction-murder-of-two-meitei-students/article71018107.ece",
@@ -34695,6 +34708,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cf99e4c5614b351c0f0ae9418cdb8696",
+      "title": "Ecuador’s Noboa pledges to extradite criminals in State of the Union speech",
+      "link": "https://www.aljazeera.com/news/2026/5/24/ecuadors-noboa-pledges-to-extradite-criminals-in-state-of-the-union-speech?traffic_source=rss",
+      "summary": "The right-wing president highlighted anti-crime operations and economic progress, while critics warned of abuses.",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 22:04:28 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -34773,6 +34799,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "635376527efae572e97a4dc16b490638",
+      "title": "Cuba thanks China for rice shipment amid worsening humanitarian conditions",
+      "link": "https://www.aljazeera.com/news/2026/5/24/cuba-thanks-china-for-rice-shipment-amid-worsening-humanitarian-conditions?traffic_source=rss",
+      "summary": "The Caribbean island has faced a fuel blockade that has cut off essential supplies, as Trump seeks regime change.",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 21:53:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -36623,19 +36662,6 @@
       "lang": "en"
     },
     {
-      "id": "1f14df047db933377415539d3691d501",
-      "title": "‘छलावे की राजनीति बंद करो’, BSP का विपक्ष पर करारा हमला, मायावती बोलीं- जनता 5वीं बार बसपा की तरफ देख रही",
-      "link": "https://www.patrika.com/lucknow-news/up-politics-news-bsp-chief-mayawati-held-party-organization-meeting-targets-opposition-20606253",
-      "summary": "UP Politics: बसपा सुप्रीमो मायावती (BSP National President Mayawati) ने राजधानी लखनऊ में पार्टी संगठन को मजबूत करने को लेकर राज्य स्तरीय बैठक की। इस बैठक में उन्होंने कार्यकर्ताओं को आगामी विधानसभा चुनाव 2027 (UP Assembly Elections) की तैयारियों के लिए प्रेरित किया। बैठक में मायावती ने पार्टी कार्यकर्ताओं का हौसला बढ़ाते हुए कहा- हाथी पर बटन दबाना है, 5वीं बार सत्ता में वापस आना है। इसके साथ ही मायावती ने पार्टी कार्यकर्ताओं से आर्थिक सहयोग की भी अपील की।",
-      "date": "2026-05-24",
-      "timestamp": "Sun, 24 May 2026 17:25:43 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
-      "lang": "en"
-    },
-    {
       "id": "594dbdfff9989f0f76b5827d6299b6a9",
       "title": "Kerala seeks urgent intervention over CBSE Plus Two evaluation complaints",
       "link": "https://www.thehindu.com/news/national/kerala/kerala-seeks-urgent-intervention-over-cbse-plus-two-evaluation-complaints/article71017530.ece",
@@ -36997,6 +37023,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1f14df047db933377415539d3691d501",
+      "title": "‘छलावे की राजनीति बंद करो’, BSP का विपक्ष पर करारा हमला, मायावती बोलीं- जनता 5वीं बार बसपा की तरफ देख रही",
+      "link": "https://www.patrika.com/lucknow-news/up-politics-news-bsp-chief-mayawati-held-party-organization-meeting-targets-opposition-20606253",
+      "summary": "UP Politics: बसपा सुप्रीमो मायावती (BSP National President Mayawati) ने राजधानी लखनऊ में पार्टी संगठन को मजबूत करने को लेकर राज्य स्तरीय बैठक की। इस बैठक में उन्होंने कार्यकर्ताओं को आगामी विधानसभा चुनाव 2027 (UP Assembly Elections) की तैयारियों के लिए प्रेरित किया। बैठक में मायावती ने पार्टी कार्यकर्ताओं का हौसला बढ़ाते हुए कहा- हाथी पर बटन दबाना है, 5वीं बार सत्ता में वापस आना है। इसके साथ ही मायावती ने पार्टी कार्यकर्ताओं से आर्थिक सहयोग की भी अपील की।",
+      "date": "2026-05-24",
+      "timestamp": "Sun, 24 May 2026 15:43:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -38024,19 +38063,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
-      "lang": "en"
-    },
-    {
-      "id": "ffdd4d4623036fa7138a6589460ced01",
-      "title": "Blast targeting train kills at least 20 in Pakistan",
-      "link": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
-      "date": "2026-05-24",
-      "timestamp": "Sun, 24 May 2026 12:26:09 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -66315,12 +66341,25 @@
       "lang": "en"
     },
     {
-      "id": "a8464567cbb9839aad142033f3ec9a92",
-      "title": "RR vs MI Match Highlights:प्लेऑफ में पहुंची राजस्थान रॉयल्स,मुंबई इंडियंस को दी 30 रनों से मात",
-      "link": "https://www.amarujala.com/video/india-news/rr-vs-mi-match-highlights-rajasthan-royals-reach-playoffs-beat-mumbai-indians-by-30-runs-2026-05-25",
-      "summary": "आईपीएल 2026 के लीग चरण का रोमांचक अंत राजस्थान रॉयल्स की बड़ी जीत के साथ हुआ।",
+      "id": "677b067266618c9f1489b227afbe8a7b",
+      "title": "नौतपा आज से शुरू: कई राज्यों में पारा 46 डिग्री के पार, शुक्रवार तक राहत नहीं; UP में लू और आंधी की दोहरी मार",
+      "link": "https://www.amarujala.com/india-news/nautapa-begins-today-temperatures-exceed-46-degrees-in-many-states-no-relief-until-friday-up-weather-2026-05-25",
+      "summary": "Nautapa begins today: Temperatures exceed 46 degrees in many states, no relief until Friday; UP Weather - नौतपा आज से शुरू: कई राज्यों में पारा 46 डिग्री के पार, शुक्रवार तक राहत नहीं; UP में लू और आंधी की दोहरी मार",
       "date": "2026-05-25",
-      "timestamp": "Mon, 25 May 2026 03:10:50 +0530",
+      "timestamp": "Mon, 25 May 2026 04:19:25 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "9885759b4d4ef78cc8ce11d71f159215",
+      "title": "Karnataka: कर्नाटक में कांग्रेस का फिर सियासी नाटक शुरू, सिद्धारमैया दिल्ली तलब; नेतृत्व बदलाव की चर्चा तेज",
+      "link": "https://www.amarujala.com/india-news/karnataka-political-drama-resumes-siddaramaiah-call-by-delhi-as-speculation-over-leadership-change-intensifies-2026-05-25",
+      "summary": "Karnataka: कर्नाटक में कांग्रेस का फिर सियासी नाटक शुरू, सिद्धारमैया दिल्ली तलब, नेतृत्व बदलाव की चर्चा तेज",
+      "date": "2026-05-25",
+      "timestamp": "Mon, 25 May 2026 04:17:44 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -66333,7 +66372,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-25",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-05-25",
-      "timestamp": "Mon, 25 May 2026 03:00:38 +0530",
+      "timestamp": "Mon, 25 May 2026 04:00:40 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -66346,7 +66385,20 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-05-25",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-05-25",
-      "timestamp": "Mon, 25 May 2026 03:00:24 +0530",
+      "timestamp": "Mon, 25 May 2026 04:00:27 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a8464567cbb9839aad142033f3ec9a92",
+      "title": "RR vs MI Match Highlights:प्लेऑफ में पहुंची राजस्थान रॉयल्स,मुंबई इंडियंस को दी 30 रनों से मात",
+      "link": "https://www.amarujala.com/video/india-news/rr-vs-mi-match-highlights-rajasthan-royals-reach-playoffs-beat-mumbai-indians-by-30-runs-2026-05-25",
+      "summary": "आईपीएल 2026 के लीग चरण का रोमांचक अंत राजस्थान रॉयल्स की बड़ी जीत के साथ हुआ।",
+      "date": "2026-05-25",
+      "timestamp": "Mon, 25 May 2026 03:10:50 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -92415,6 +92467,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7bd90b251fb45bc76bcd325cb3034bae",
+      "title": "Sub-inspector among 6 cops suspended over explosives on PM Modi convoy route in Bengaluru",
+      "link": "https://timesofindia.indiatimes.com/india/sub-inspector-among-6-cops-suspended-over-explosives-on-pm-modi-convoy-route-in-bengaluru/articleshow/131296943.cms",
+      "summary": "",
+      "date": "2026-05-24",
+      "timestamp": "2026-05-25T03:35:17+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "be52fe8122ae9b3a260755084eb9a783",
+      "title": "1.5 lakh fake AI citations slipped into scientific record in 2025: Study",
+      "link": "https://timesofindia.indiatimes.com/india/1-5-lakh-fake-ai-citations-slipped-into-scientific-record-in-2025-study/articleshow/131296937.cms",
+      "summary": "",
+      "date": "2026-05-24",
+      "timestamp": "2026-05-25T03:33:03+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "67e1c34e2275917ea347041e375e8cb0",
+      "title": "‘He was never...’: WH shooter's mother breaks silence after seeing son’s death on social media",
+      "link": "https://timesofindia.indiatimes.com/world/us/he-was-never-violent-white-house-shooter-nasire-bests-mother-breaks-silence-after-seeing-sons-death-on-social-media/articleshow/131296622.cms",
+      "summary": "",
+      "date": "2026-05-24",
+      "timestamp": "2026-05-25T03:20:45+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7df7593d004a5d4191bca8103981dd40",
+      "title": "Government brings in experts from IITs & PSBs to fix glitches in CBSE portal",
+      "link": "https://timesofindia.indiatimes.com/india/government-brings-in-experts-from-iits-psbs-to-fix-glitches-in-cbse-portal/articleshow/131296923.cms",
+      "summary": "",
+      "date": "2026-05-24",
+      "timestamp": "2026-05-25T03:12:03+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
