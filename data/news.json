@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T22:55:28.635399+00:00",
+  "generated_at": "2026-05-30T23:57:35.912665+00:00",
   "stories": [
     {
       "id": "ff960a65dd0d40eebbaf128d66b18aab",
@@ -33092,7 +33092,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-05-31",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-05-31",
-      "timestamp": "Sun, 31 May 2026 04:00:31 +0530",
+      "timestamp": "Sun, 31 May 2026 05:00:32 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -33105,7 +33105,7 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-05-31",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-05-31",
-      "timestamp": "Sun, 31 May 2026 04:00:18 +0530",
+      "timestamp": "Sun, 31 May 2026 05:00:20 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -33474,6 +33474,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "6d7caf99d72d31b8f75485413e98b3bc",
+      "title": "Venezuela’s Opposition candidate Edmundo González calls for Presidential elections",
+      "link": "https://www.thehindu.com/news/international/venezuelas-opposition-candidate-edmundo-gonzalez-calls-for-presidential-elections/article71042718.ece",
+      "summary": "Former Venezuelan opposition candidate Edmundo González is calling for presidential elections as the five-month mark of interim President Delcy Rodríguez’s administration approaches, following a U.S. military intervention that ousted Nicolás Maduro in January",
+      "date": "2026-05-31",
+      "timestamp": "Sun, 31 May 2026 02:17:17 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -45277,6 +45290,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "64809f36b919cb71ed70a20ef6523d98",
+      "title": "How Putin became master of the image",
+      "link": "https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss",
+      "summary": "From enigmatic KGB agent to wartime ruler, this is how Putin has repeatedly reinvented his image, and himself.",
+      "date": "2026-05-30",
+      "timestamp": "Sat, 30 May 2026 23:17:26 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -90777,6 +90803,71 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5766f89b355e4b59e33ecc0198d22938",
+      "title": "On the day it set 3-month deadline for high courts, Supreme Court gave verdict reserved for 15 months",
+      "link": "https://timesofindia.indiatimes.com/india/on-the-day-it-set-3-month-deadline-for-hcs-sc-gave-verdict-reserved-for-15-months/articleshow/131417433.cms",
+      "summary": "",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-31T04:56:04+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "94ca5fce045ff901ddacb543477829f7",
+      "title": "More married women take part in household decisions about purchases, health, family trips: NHS survey",
+      "link": "https://timesofindia.indiatimes.com/india/more-married-women-take-part-in-household-decisions-about-purchases-health-family-trips-nhs-survey/articleshow/131417425.cms",
+      "summary": "",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-31T04:49:31+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c6516c41e2577e1b2238c05a4d2ea79d",
+      "title": "In outreach to Bangladesh PM, India hails his father's 1971 address",
+      "link": "https://timesofindia.indiatimes.com/world/south-asia/in-outreach-to-bangladesh-pm-india-hails-his-fathers-1971-address/articleshow/131417417.cms",
+      "summary": "",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-31T04:43:38+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ca03f49a88acec83bac4b304d99ea25f",
+      "title": "Google fined by Delhi HC for misdirecting searches to rivals' products",
+      "link": "https://timesofindia.indiatimes.com/india/google-fined-by-delhi-hc-for-misdirecting-searches-to-rivals-products/articleshow/131417405.cms",
+      "summary": "",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-31T04:32:06+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "257eb74998c156cdfb60092ca5b2e0a1",
+      "title": "Delhi HC: Taking part in protest no ground to deny PMLA bail",
+      "link": "https://timesofindia.indiatimes.com/india/delhi-hc-taking-part-in-protest-no-ground-to-deny-pmla-bail/articleshow/131417387.cms",
+      "summary": "Grants Relief To PFI Member In Jail For Over A Year",
+      "date": "2026-05-30",
+      "timestamp": "2026-05-31T04:25:34+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
