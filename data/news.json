@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T07:46:06.129217+00:00",
+  "generated_at": "2026-07-11T09:22:11.574619+00:00",
   "stories": [
     {
       "id": "be04d538d6f42e2e264c4928711931c4",
@@ -45554,14 +45554,391 @@
       "lang": "en"
     },
     {
-      "id": "75c733c814e8012e11740590b379225f",
-      "title": "PM Modi in New Zealand LIVE: India, New Zealand elevate ties to strategic partnership",
-      "link": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-new-zealand-visit-live-updates-on-july-11-2026/article71209319.ece",
-      "summary": "Prime Minister Narendra Modi landed in Auckland last night in the third and final leg of his three-nation tour that largely focused on expanding cooperation in the Indo-Pacific against the backdrop of China’s increasing assertiveness in the region",
+      "id": "0d1b7a843baa654df353353b29c0cd63",
+      "title": "Security forces launch search operations in Manipur after two Assam Rifles personnel killed",
+      "link": "https://www.thehindu.com/news/national/manipur/security-forces-launch-search-operations-in-manipur-after-two-assam-rifles-personnel-killed/article71209613.ece",
+      "summary": "On July 10, Assam Rifles said the paramilitary force, in coordination with the Border Security Force and Manipur Police, commenced a large-scale search operation in the Nungshang area",
       "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 13:06:53 +0530",
+      "timestamp": "Sat, 11 Jul 2026 14:42:28 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "90da3f5ea1fff26ee221fc17ff257ee4",
+      "title": "Bihar led 'second Independence movement' during Emergency: C.P. Radhakrishnan",
+      "link": "https://www.thehindu.com/news/national/bihar/bihar-led-second-independence-movement-during-emergency-cp-radhakrishnan/article71209860.ece",
+      "summary": "“Bihar had not only played a crucial role in the country’s freedom struggle but also led from the front to spearhead the second independence movement during the Emergency,” says C.P. Radhakrishnan",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:41:23 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f8b6514de97d3681a04d1f1129fb53b6",
+      "title": "Slashed perks among factors affecting mental health of Assam’s tea garden executives",
+      "link": "https://www.thehindu.com/news/national/assam/slashed-perks-among-factors-affecting-mental-health-of-assams-tea-garden-executives/article71205237.ece",
+      "summary": "A new study has identified restricted decision latitude, referring to a severe lack of control, autonomy, and flexibility, as the most frequently occurring category of workplace stress risk factors",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:40:30 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "136800265daf0a448eefbeeeef73a34f",
+      "title": "Security tightened at Red Fort after bomb threat call; no suspicious objects found",
+      "link": "https://www.thehindu.com/news/cities/Delhi/security-tightened-at-red-fort-after-bomb-threat-call-no-suspicious-objects-found/article71209764.ece",
+      "summary": "A bomb threat call was received at the Mumbai police control room, which was forwarded to the Delhi Police control room",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:38:15 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b320b75b831b79c436f006343cd496c5",
+      "title": "AIADMK criticises Vijay for visiting Karur with an eye on byelections",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/aiadmk-criticises-vijay-for-visiting-karur-with-an-eye-on-byelections/article71209735.ece",
+      "summary": "D. Jayakumar said the Chief Minister could have paid solatium on his own, instead of providing government jobs to the families of those of who lost their lives in Karur stampede",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:38:05 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c00174b99f674b5f994f2ae4baa49b5b",
+      "title": "Bengal CM hands over job letter, ₹25 lakh cheque to kin of man lynched after girl’s rape, murder",
+      "link": "https://www.thehindu.com/news/national/west-bengal/bengal-cm-hands-over-job-letter-25-lakh-cheque-to-kin-of-man-lynched-after-girls-rape-murder/article71209780.ece",
+      "summary": "The Chief Minister handed over an appointment letter for the post of civic volunteer to Indrajit Mondal's elder brother and a ₹25 lakh cheque to his parents",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:35:11 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ef8f087e3f76bcb5920fd3725973fb55",
+      "title": "Tussle for Punjab Congress chief post: Bhupesh Baghel meets leaders from Channi camp",
+      "link": "https://www.thehindu.com/news/national/punjab/tussle-for-punjab-congress-chief-post-leaders-from-channi-camp-arrive-to-meet-baghel/article71209687.ece",
+      "summary": "Former Minister Gurpreet Kangar said the meeting was being held specifically to discuss whether Amrinder Singh Raja Warring’s leadership was acceptable to them or not; Bhupesh Baghel had already ruled out any change in the State party leadership",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:34:34 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c15cf210b4111d1407d4699769d68168",
+      "title": "सड़क की मांग को लेकर टंकी पर चढ़ा युवक; 4 घंटे चला हाईवोल्टेज ड्रामा, पुलिस के छूटे पसीने",
+      "link": "https://www.livehindustan.com/uttar-pradesh/youth-climbs-water-tank-demanding-road-high-four-hours-high-voltage-drama-in-pilibhit-201783759932027.html",
+      "summary": "पीलीभीत के सुनगढ़ी थाना क्षेत्र के गांव बरहा में सड़क निर्माण की मांग को लेकर राजकुमार पानी की टंकी पर चढ़ गया। ग्रामीणों ने बताया कि 10 साल से संपर्क मार्ग जर्जर है। सूचना पर पहुंचे प्रशासन ने समझाकर करीब चार घंटे बाद उसे नीचे उतारा। एसडीएम ने बताया कि सड़क निर्माण का प्रस्ताव भेजा जा चुका है।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:34:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b934877bd9a6ad0d6ba518e513743baa",
+      "title": "Born in Sri Lanka, brought up in India, residing in the US: IT employee faces threat of being declared ‘stateless’",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/born-in-sri-lanka-brought-up-in-india-residing-in-the-us-it-employee-faces-threat-of-being-declared-stateless/article71209634.ece",
+      "summary": "Madras High Court directs Indian Embassy in Washington DC to keep in abeyance till July 22 a notice instructing him to surrender his passport",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:26:39 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a7a21b420ca83b69ae95620a86027a32",
+      "title": "Datia byelection: Narottam Mishra's supporters clash with M.P. Police, block highway after BJP ticket snub",
+      "link": "https://www.thehindu.com/news/national/madhya-pradesh/mp-datia-byelection-narottam-mishra-supporters-clash-police-bjp-ticket/article71209826.ece",
+      "summary": "The nearly 12-hour blockade on NH-44 by over 3,000 protesters left the Datia Superintendent of Police and several police personnel injured before security forces cleared the highway and arrested some agitators, officials said.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:26:27 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "75c733c814e8012e11740590b379225f",
+      "title": "PM Modi in New Zealand LIVE: 'India-NZ Waka' ready to embark on new voyage together, says Modi at diaspora event",
+      "link": "https://www.thehindu.com/news/national/prime-minister-narendra-modi-new-zealand-visit-live-updates-on-july-11-2026/article71209319.ece",
+      "summary": "India and New Zealand elevate ties to \"strategic partnership\" during PM Modi's visit to Auckland in the third and final leg of his three-nation tour",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:26:16 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d95e02180261ea80046798d902b8d97f",
+      "title": "बच्चों के अश्लील फोटो-वीडियो के ऑनलाइन नेटवर्क का भंडाफोड़, महराजगंज से कानपुर तक ऐक्शन",
+      "link": "https://www.livehindustan.com/uttar-pradesh/online-network-of-child-pornography-busted-action-taken-from-maharajganj-and-kanpur-201783758906623.html",
+      "summary": "उत्तर प्रदेश के महाराजगंज में चाइल्ड पोर्न कंटेंट का ऑनलाइन नेटवर्क का भंडाफोड़ हुआ है। पुलिस ने चार आरोपियों को गिरफ्तार किया है। वहीं कानपुर में एक ऐसा शख्स पकड़ा गया है जो मासूम बच्चियों के अश्लील वीडियो बनाकर अपने मोबाइल में रखता था। उस शख्स ने अपनी चचेरी बहन तक को नहीं बख्शा।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:22:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "fbbfa9dc6f7e72298ce146e6241c066b",
+      "title": "Organ trade racket: ED expands probe, summons doctors part of Kerala hospitals’ internal evaluation committees",
+      "link": "https://www.thehindu.com/news/national/kerala/organ-trade-racket-ed-expands-probe-summons-doctors-part-of-kerala-hospitals-internal-evaluation-committees/article71209580.ece",
+      "summary": "Financial records are also under scrutiny to determine if doctors received illicit payments in the form of kickbacks or commissions to fast-track approvals",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:20:27 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a17060c0f02c1a1fe64a6c25e3cecf4a",
+      "title": "J&K being punished on Statehood status because people voted NC to power: Omar Abdullah",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-being-punished-on-statehood-status-becausepeople-voted-nc-to-power-omar-abdullah/article71209801.ece",
+      "summary": "Omar Abdullah invited all the J&K parties to join the protest at Jantar Mantar on the first day of the monsoon session of the Parliament",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:08:44 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "91bc51149d686bcb830952befde3838a",
+      "title": "Kerala CM V.D. Satheesan visits Kollur, offers special pooja at Mookambika Temple",
+      "link": "https://www.thehindu.com/news/cities/Mangalore/kerala-cm-vd-satheesan-visits-kollur-offers-special-pooja-at-mookambika-temple/article71209755.ece",
+      "summary": "A staunch devotee of Kollur Sri Mookambika, Mr. Satheesan visited Kollur for the first time after assuming office as Kerala CM.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 14:07:34 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ceb9731c969cd379e6475ce68d5af67e",
+      "title": "Repair work at water treatment plant disrupts drinking water supply in Shivamogga",
+      "link": "https://www.thehindu.com/news/national/karnataka/repair-work-at-water-treatment-plant-disrupts-drinking-water-supply-in-shivamogga/article71209469.ece",
+      "summary": "Officers of Shivamogga City Corporation and the Karnataka Urban Water Supply and Drainage Board issued a statement that there was a leakage in the clariflocculator that plays a major role in water treatment.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:52:57 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6664fc2cf21ee8be63aad7b812abe72c",
+      "title": "I am not Gandhi; be your own hero: Wangchuk amid indefinite fast",
+      "link": "https://www.thehindu.com/news/national/i-am-not-gandhi-be-your-own-hero-wangchuk-amid-indefinite-fast/article71209685.ece",
+      "summary": "\"Many people call me the Gandhi of the 21st century or a modern Gandhi. Others call me a hero. These comments make me uncomfortable. I am neither Gandhi nor a hero. I am just an ordinary citizen who has tried to fulfil his responsibilities,\"says Sonam Wangchuk",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:52:43 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "030c75c7f4c44180cf9fd69c525c2f48",
+      "title": "राम मंदिर की हुंडियों से कितनी रकम उड़ी? क्यों कभी पता नहीं चल पाएगी हकीकत, तगड़ी थी प्लानिंग",
+      "link": "https://www.livehindustan.com/uttar-pradesh/ayodhya-ram-mandir-donation-chori-may-never-be-fully-quantified-inside-story-trust-negligence-201783757603072.html",
+      "summary": "अयोध्या राम मंदिर दान चोरी मामले में बड़ा खुलासा! आखिर क्यों कभी पता नहीं चल पाएगा कि हुंडियों से कितनी रकम चोरी हुई? जानें कैसे अनुकल्प और अविनाश ने ट्रस्ट का भरोसा जीत रचा पूरा खेल।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:47:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "60d724ff7266cd6d759aa357307ff0d9",
+      "title": "UN Special Rapporteurs raise concerns over SIR and use of AI-driven models for exclusion of minorities",
+      "link": "https://www.thehindu.com/news/national/un-special-rapporteurs-raise-concerns-over-sir-and-use-of-ai-driven-models-for-exclusion-of-minorities/article71209551.ece",
+      "summary": "UN Report flags multiple issues with SIR including alleged use of opaque AI-driven systems which lack remedies and has a political narrative aimed at exclusion of minorities",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:44:58 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b0b4abad46b4f9f9471caafb8b01059d",
+      "title": "The unfulfilled solar promise of India and Germany",
+      "link": "https://www.thehindu.com/news/national/the-unfulfilled-solar-promise-of-india-and-germany/article71206840.ece",
+      "summary": "Three years after both countries signed a landmark agreement to facilitate the migration of Indian solar technicians to Germany, not a single such technician has made the journey; the experience exposes a wider disconnect between ambitious labour mobility agreements and the realities of skill development, labour market demand and the aspirations of India’s emerging green workforce",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:39:13 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "915387344abe4b249cee699fe7953226",
+      "title": "World Records Union recognises Biju BP from Kerala for his all-India motorcycle ride with a mission",
+      "link": "https://www.thehindu.com/society/former-banker-all-india-solo-motorbike-ride-girl-empowerment-education/article71205809.ece",
+      "summary": "A former banker, Thiruvananthapuram-native Biju PB, won the recognition for riding across the States and Union Territories, championing the cause of empowerment of girls through education",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:39:00 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "40e0b9225da3edd1c61ab31677a82f9c",
+      "title": "Over 300 employees hit as ecosystem company Talrop shuts offices across Kerala",
+      "link": "https://www.thehindu.com/news/national/kerala/over-300-employees-hit-as-ecosystem-company-talrop-shuts-offices-across-kerala/article71209740.ece",
+      "summary": "Affected employees staged a protest march to the company’s head office at Thrikkakara on July 11, demanding clearance of dues",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:38:48 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "820ff822691e2b06681a7c47363908f8",
+      "title": "पतंग के लिए दौड़ा पोता, बचाने पहुंचे दादा; हाईटेंशन लाइन की चपेट में आने से दोनों की मौत",
+      "link": "https://www.livehindustan.com/uttar-pradesh/grandfather-and-grandson-die-after-being-hit-by-a-high-tension-line-while-flying-kites-201783753005935.html",
+      "summary": "बुलंदशहर में पतंग बचाने में एक मासूम हाईटेंशन लाइन की चपेट में आ गया। यह देख दादा जब बचाने पहुंचे तो वह भी करंट से झुलस गए। इस हादसे में पहले दादा की फिर बाद में पोते की मौत हो गई। वहीं, दो लोगों की मौत से परिवार में मातम पसर गया।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:38:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "aed493581a49f74e061f898803a578b0",
+      "title": "Wayanad debris slip: search intensified for lone missing project manager",
+      "link": "https://www.thehindu.com/news/national/kerala/wayanad-debris-slip-search-intensified-for-lone-missing-project-manager/article71209573.ece",
+      "summary": "​Mr. Rana, a project manager from Himachal Pradesh, remains unaccounted for after a massive debris slide struck the under-construction Wayanad twin-tunnel road project at Kalladi",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:26:39 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "756a9da60b51c082c6501984658ddc91",
+      "title": "Jagga Reddy backs Revanth’s early poll strategy and says MLAs renomination lies with CM and party high command",
+      "link": "https://www.thehindu.com/news/national/telangana/jagga-reddy-backs-revanths-early-poll-strategy-and-says-mlas-renomination-lies-with-cm-and-party-high-command/article71209672.ece",
+      "summary": "Jagga Reddy said the Congress leadership was united behind Revanth Reddy’s vision and decisions",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:26:33 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0444b2b87d23cf6c1ee3a1af1931d44a",
+      "title": "14 invasive plants behind grassland loss in one of India’s first tiger reserves",
+      "link": "https://www.thehindu.com/news/national/assam/14-invasive-plants-behind-grassland-loss-in-one-of-indias-first-tiger-reserves/article71209522.ece",
+      "summary": "Data provided by the Forest Department in Assam’s Bodoland Territorial Council reveal that the relative loss in grassland cover in Manas Tiger Reserve in 30 years since 1990 was 43.59%",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:23:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "68e24a15145a2dec0ff8d9d41cf3b17e",
+      "title": "गोरखपुर में रोडरेज: पिता के साथ जा रही लड़की को कार से खींच पीटा, बैड टच; कपडे़ फाड़ने की कोशिश",
+      "link": "https://www.livehindustan.com/uttar-pradesh/road-rage-in-gorakhpur-girl-travelling-with-father-dragged-from-car-beaten-touched-attempt-to-tear-clothes-201783755479469.html",
+      "summary": "Road rage in Gorakhpur: गोरखपुर रोडरेज की हैरान कर देने वाली घटना सामने आई है। यहां पिता के साथ जा रही एक लड़की को कार से खींचकर पीटा गया। यही नहीं लड़की को गंदे ढंग से छुआ गया और उसके कपड़े फाड़ने की कोशिश की गई। पुलिस ने केस दर्ज कर एक आरोपित को गिरफ्तार कर लिया है। कुछ अन्य की तलाश की जा रही है।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:22:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "04086c5507f010bc84ac97e35503f2db",
+      "title": "TTDC launches ₹99 chicken biriyani amid rising restaurant prices",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/ttdc-launches-99-chicken-biriyani-amid-rising-restaurant-prices/article71207519.ece",
+      "summary": "The ₹99 offer is for chicken biriyani. Each serving comprises approximately 450–500 grams of chicken biriyani and is accompanied by onion raita and brinjal gravy",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:18:25 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f2e669e84d48370782fdbe2eee1ef925",
+      "title": "Monsoon tracker LIVE: Cloudy skies to persist in Delhi; highways blocked after landslides in hill States",
+      "link": "https://www.thehindu.com/news/national/monsoon-rain-in-india-imd-weather-forecast-flood-rainfall-alerts-live-updates-july-11-2026/article71209337.ece",
+      "summary": "Widespread rainfall lashed large parts of Uttar Pradesh on July 10, bringing daytime temperatures below normal at several places, with heavy to very heavy rainfall being forecast at isolated places",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:15:38 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c233bfa7559ded141c97d1e4e92b51c9",
+      "title": "Nine in ten: Why Jammu and Kashmir’s private hospitals have India’s highest C-Section rate",
+      "link": "https://www.thehindu.com/sci-tech/health/nine-in-ten-why-jammu-and-kashmirs-privatehospitals-have-indias-highest-c-section-rate/article71209545.ece",
+      "summary": "In India, medical experts attribute the increase in C-sections to a combination of more institutional deliveries, improved detection of high-risk pregnancies, increasing maternal age and medical complications, greater use of assisted reproductive technologies, previous C-sections, and the rapid growth of private-sector obstetric care",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 13:12:21 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -45601,32 +45978,6 @@
       "timestamp": "Sat, 11 Jul 2026 13:05:35 +0530",
       "section": "International",
       "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "ef8f087e3f76bcb5920fd3725973fb55",
-      "title": "Tussle for Punjab Congress chief post: Leaders from Channi camp arrive to meet Baghel",
-      "link": "https://www.thehindu.com/news/national/punjab/tussle-for-punjab-congress-chief-post-leaders-from-channi-camp-arrive-to-meet-baghel/article71209687.ece",
-      "summary": "Former Minister Gurpreet Kangar said the meeting was being held specifically to discuss whether Amrinder Singh Raja Warring’s leadership was acceptable to them or not; Bhupesh Baghel had already ruled out any change in the State party leadership",
-      "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 13:05:32 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "6664fc2cf21ee8be63aad7b812abe72c",
-      "title": "I am not Gandhi; be your own hero: Wangchuk amid indefinite fast",
-      "link": "https://www.thehindu.com/news/national/i-am-not-gandhi-be-your-own-hero-wangchuk-amid-indefinite-fast/article71209685.ece",
-      "summary": "\"Many people call me the Gandhi of the 21st century or a modern Gandhi. Others call me a hero. These comments make me uncomfortable. I am neither Gandhi nor a hero. I am just an ordinary citizen who has tried to fulfil his responsibilities,\"says Sonam Wangchuk",
-      "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 13:04:41 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -45814,19 +46165,6 @@
       "lang": "en"
     },
     {
-      "id": "c233bfa7559ded141c97d1e4e92b51c9",
-      "title": "Nine in ten: Why Jammu and Kashmir’s private hospitals have India’s highest C-Section rate",
-      "link": "https://www.thehindu.com/sci-tech/health/nine-in-ten-why-jammu-and-kashmirs-privatehospitals-have-indias-highest-c-section-rate/article71209545.ece",
-      "summary": "In India, medical experts attribute the increase in C-sections to a combination of more institutional deliveries, improved detection of high-risk pregnancies, increasing maternal age and medical complications, greater use of assisted reproductive technologies, previous C-sections, and the rapid growth of private-sector obstetric care",
-      "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 12:53:50 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "20f682c8e22c7a495b703071de87ac95",
       "title": "Meerut Dalit girl’s murder escalates in war of words in U.P. as leaders took potshots",
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/meerut-dalit-girls-murder-escalates-in-war-of-words-in-up-as-leaders-took-potshots/article71207000.ece",
@@ -45905,19 +46243,6 @@
       "lang": "en"
     },
     {
-      "id": "04086c5507f010bc84ac97e35503f2db",
-      "title": "TTDC launches ₹99 chicken biriyani amid rising restaurant prices",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/ttdc-launches-99-chicken-biriyani-amid-rising-restaurant-prices/article71207519.ece",
-      "summary": "The ₹99 offer is for chicken biriyani. Each serving comprises approximately 450–500 grams of chicken biriyani and is accompanied by onion raita and brinjal gravy",
-      "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 12:47:29 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f057654a2a47c360bd9bef207ff758d5",
       "title": "एकेटीयू: रजिस्ट्रेशन शुरू कर चुके 4000 छात्रों को एक मौका",
       "link": "https://www.amarujala.com/lucknow/aktu-an-opportunity-for-4000-students-who-have-already-started-registration-lucknow-news-c-13-1-lko1028-1822932-2026-07-11",
@@ -45952,19 +46277,6 @@
       "timestamp": "Sat, 11 Jul 2026 12:45:04 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "0444b2b87d23cf6c1ee3a1af1931d44a",
-      "title": "14 invasive plants behind grassland loss in one of India’s first tiger reserves",
-      "link": "https://www.thehindu.com/news/national/assam/14-invasive-plants-behind-grassland-loss-in-one-of-indias-first-tiger-reserves/article71209522.ece",
-      "summary": "Data provided by the Forest Department in Assam’s Bodoland Territorial Council reveal that the relative loss in grassland cover in Manas Tiger Reserve in 30 years since 1990 was 43.59%",
-      "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 12:42:20 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -46045,19 +46357,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "aed493581a49f74e061f898803a578b0",
-      "title": "Wayanad debris slip: search intensified for lone missing project manager",
-      "link": "https://www.thehindu.com/news/national/kerala/wayanad-debris-slip-search-intensified-for-lone-missing-project-manager/article71209573.ece",
-      "summary": "​Mr. Rana, a project manager from Himachal Pradesh, remains unaccounted for after a massive debris slide struck the under-construction Wayanad twin-tunnel road project at Kalladi",
-      "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 12:36:40 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -46503,19 +46802,6 @@
       "lang": "en"
     },
     {
-      "id": "f2e669e84d48370782fdbe2eee1ef925",
-      "title": "Monsoon tracker LIVE: Cloudy skies to persist in Delhi; highways blocked after landslides in hill States",
-      "link": "https://www.thehindu.com/news/national/monsoon-rain-in-india-imd-weather-forecast-flood-rainfall-alerts-live-updates-july-11-2026/article71209337.ece",
-      "summary": "Widespread rainfall lashed large parts of Uttar Pradesh on July 10, bringing daytime temperatures below normal at several places, with heavy to very heavy rainfall being forecast at isolated places",
-      "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 12:13:24 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f0d348c2b4e18eb3d05ae6ced5e0c589",
       "title": "Vijay announces memorial for Karur stampede victims, faults police for not informing him of the crowd",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/cm-vijayannounces-memorial-for-karur-stampede-victims-faults-police-for-not-informing-him-of-the-crowd/article71206499.ece",
@@ -46608,7 +46894,7 @@
     },
     {
       "id": "2755c3964341725b0fa8de83414811b7",
-      "title": "काशी के गरजे तीन फाइटर जेट: एयरफोर्स की रिहर्सल से रोमांचित हुए लोग, एयर शो की तैयारी; नमो घाट हेलीपैड सील",
+      "title": "काशी में गरजे तीन फाइटर जेट: एयरफोर्स के रिहर्सल से रोमांचित हुए लोग, एयर शो की तैयारी; नमो घाट हेलीपैड सील",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/three-fighter-jets-roar-over-kashi-people-thrilled-by-air-force-rehearsal-preparations-for-air-show-underway-2026-07-11",
       "summary": "शनिवार की सुबह काशी के आसमान में अचानक एक साथ तीन फाइटर जेट गरजने लगे तो लोग अपने घरों, छतों और सड़कों पर निकल आए। तेज आवाज के साथ शहर के ऊपर लगातार चक्कर लगा रहे लड़ाकू विमानों ने हर किसी का ध्यान अपनी ओर खींच लिया।",
       "date": "2026-07-11",
@@ -46799,6 +47085,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9643c6b6a176f1840720f0502d0456a6",
+      "title": "आरव की मां की गुहार: मेरे सामने लटकाया जाए दरिंदा विराज, कहा- चाहती हूं कि उसकी मौत का मंजर मैं आंखों से देखूं",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/firozabad/aarav-s-mother-plea-hang-monster-viraj-right-in-front-of-me-2026-07-11",
+      "summary": "जिस बेरहमी से उस दरिंदे ने मेरे डेढ़ साल के मासूम बेटे को सड़क पर पटक-पटककर मार डाला।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 11:47:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -47505,7 +47804,7 @@
     },
     {
       "id": "f346d3d1ae1ae26325bf60405c14d033",
-      "title": "रामपुर में हादसा: कॉर्बेट घूमने जा रहे कंपनी कर्मचारियों की कार खड़े कैंटर से टकराई, तीन की मौत, चार गंभीर",
+      "title": "रामपुर में हादसा: कॉर्बेट घूमने जा रहे कंपनी कर्मचारियों की कार खड़े कैंटर से टकराई, चार की मौत, तीन गंभीर",
       "link": "https://www.amarujala.com/uttar-pradesh/rampur/car-carrying-company-employees-to-corbett-collides-with-parked-canter-three-dead-2026-07-11",
       "summary": "दिल्ली से रामनगर स्थित कॉर्बेट नेशनल पार्क घूमने जा रहे एक निजी कंपनी के कर्मचारियों की कार शनिवार तड़के सड़क किनारे खड़े कैंटर में पीछे से घुस गई।",
       "date": "2026-07-11",
@@ -47803,6 +48102,58 @@
       "lang": "en"
     },
     {
+      "id": "8108f84aa993e0502de0df996db3d4b5",
+      "title": "Tarang Overbridge to remain closed for 18 days:PWD will replace expansion joints and bearings of the structure",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/pwd-replace-expansion-joints-bearings-tarang-overbridge-gorakhpur-closure-138415786.html",
+      "summary": "The Tarang Overbridge, which goes from Tarang Mod to Harhawa Phatak in Gorakhpur, will remain closed for repair works from 13 July to 30 July. The Public Works Department (PWD) will replace the expansion joints and bearings of the bridge. Permission has been received from the traffic police in this regard. During the repair, the movement of all types of vehicles on the overbridge will be completely prohibited. Earlier, at the Tarang railway crossing, long traffic jams used to occur daily for hours during the movement of trains. To provide relief to people from this problem, an overbridge was constructed from Tarang Mod to Harhawa Phatak a few years ago. After the construction of the bridge, the traffic jams at the railway crossing were largely reduced, and the commute for thousands of people became easier. Need for repair came to light during inspection Recently, PWD engineers conducted a technical inspection of the bridge. During the inspection, the need to replace expansion joints and bearings came to light. Subsequently, a proposal for maintenance work was prepared to ensure the safety and strength of the bridge. Now, the work of replacing both parts will be carried out within the stipulated period. Target to complete work by July 30 U.P. Singh, Executive Engineer of PWD Construction Division-3, stated that repair work will begin on 13 July and is targeted to be completed by 30 July. He informed that people will have to use alternative routes during the work. The traffic department has also appealed to the general public for cooperation, so that the repair work can be completed on time and the city's traffic system remains smooth.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 09:16:03 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "fb1a6225d7da81150e5da668cae5654c",
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 09:01:15 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "01024ec8db153e3e2f826547e50f03e5",
+      "title": "Cuba suffers second nationwide blackout in five days",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/cuba-suffers-second-nationwide-blackout-in-five-days?traffic_source=rss",
+      "summary": "Cuba suffers second nationwide blackout in five days",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 09:00:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e0831ee9a898224e92da3969189b6535",
+      "title": "Russian missile attacks wound 11 in Kyiv",
+      "link": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+      "summary": "In the latest salvo in one of the war's deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 08:53:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e7f27a5c6ddac88636ac3db3aab7245a",
       "title": "यूपी में मानसून का तांडव! रिकॉर्ड तोड़ बारिश, कई जिले बेहाल!",
       "link": "https://www.amarujala.com/video-shots/short-videos/monsoon-havoc-in-up-record-breaking-rainfall-leaves-several-districts-in-distress-2026-07-11",
@@ -47855,6 +48206,32 @@
       "lang": "en"
     },
     {
+      "id": "7b48fd7eadb73bd8bd57988d7bc3d25d",
+      "title": "Indonesia’s anti-graft prosecutor quits after police seize gold and cash",
+      "link": "https://www.aljazeera.com/news/2026/7/11/indonesias-anti-graft-prosecutor-quits-after-police-seize-gold-and-cash?traffic_source=rss",
+      "summary": "Police seized 74kg of gold bars and $20m cash in various currencies.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 08:43:10 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a5cc5780a2bb8a9f1b958f43dd98d2c2",
+      "title": "Janata Darshan cancelled tomorrow for plantation drive:CM urges everyone to plant a tree and take responsibility for its protection",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/gorakhpur/news/cm-urges-plant-tree-protection-gorakhpur-plantation-drive-138415557.html",
+      "summary": "The regular 'Janata Darshan' (public audience) held during Chief Minister Yogi Adityanath's visit to Gorakhpur will not take place on Sunday (12 July). The decision to postpone it has been taken due to the 'Plantation Mahayagya 2026'. The state has a target of planting 35 crore saplings. To achieve this, the Chief Minister will inaugurate this grand plantation drive by planting a sapling near the Gorakhpur Link Expressway on Sunday at 7:45 AM. The Shri Gorakhnath Temple office has stated that the Janata Darshan programme will remain postponed tomorrow to ensure maximum public participation in this grand plantation drive. The Chief Minister will arrive at the Gorakhpur Link Expressway at 7:45 AM. There, he will plant a sapling near the Bhagwanpur Toll Plaza. With this, the 'Plantation Mahayagya' will commence across the entire state. After this, he will address the public meeting organised there. Chief Minister Yogi Adityanath has appealed to all state residents to ensure their participation in the tree plantation mega-campaign by planting at least one sapling and taking a pledge to protect it. The Chief Minister said that in line with Prime Minister Narendra Modi's call, every citizen should try to convert the resolve of environmental protection into a reality by planting 'one tree in the name of mother'. Complainants come from far and wide Upon receiving information about the Chief Minister's presence in Gorakhpur, complainants come from far and wide to Gorakhnath Temple with their problems. Usually, when the Chief Minister is present here, a 'Janata Darshan' (public audience) is organised. This is the first time that an official announcement has been issued regarding the postponement of the 'Janata Darshan' programme. The purpose behind issuing the information on time is to prevent people from coming here unnecessarily and facing inconvenience. The Chief Minister will depart for Lucknow tomorrow afternoon.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 08:42:09 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "13efe2d21a8c1a727337bd25e1732495",
       "title": "आरव हत्याकांड: जघन्य अपराध की मिली सजा, मां को इसलिए नहीं दी सूचना; विराज की फांसी पर सगे भाइयों ने ये कहा",
       "link": "https://www.amarujala.com/uttar-pradesh/firozabad/death-sentence-for-aarav-s-killer-viraj-silence-grips-family-brothers-accept-court-verdict-2026-07-11",
@@ -47865,6 +48242,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2a09893dd5ccebb51db949181ee28b98",
+      "title": "Newly-released video shows Peter Falconio's killer questioned",
+      "link": "https://www.bbc.co.uk/news/videos/c0rylp72p9ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Australian police have released bodycam footage showing one of the last attempts to get Bradley Murdoch to reveal the location of Peter Falconio's body, on the 25th anniversary of his murder.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 08:35:33 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1145141b04836ea6c3455b7b29aba95d",
+      "title": "Watch World Cup: Merino, Spain beats Belgium, move on to semifinals",
+      "link": "https://www.aljazeera.com/video/2026/7/11/video-world-cup-2026-highlights?traffic_source=rss",
+      "summary": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 08:30:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -47881,6 +48284,32 @@
       "lang": "en"
     },
     {
+      "id": "3d215df4d5c7e6ff19a6a5ff33288e30",
+      "title": "Russian overnight strikes on Kyiv injure ten",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/russian-overnight-strikes-on-kyiv-injure-ten?traffic_source=rss",
+      "summary": "Russian overnight strikes on Kyiv injure ten",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 08:25:11 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9f48b5a19858b92c83bbd6306e056961",
+      "title": "New dinosaur species as long as cricket pitch discovered in Thailand",
+      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
+      "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 08:23:45 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d93e8ee38e52426a7efc95c25c76854b",
       "title": "अपने परिवार की बहन-बेटियों के अश्लील वीडियो बनाकर रखता था दुकानदार, गूगल के अलर्ट से खुली करतूत",
       "link": "https://www.livehindustan.com/uttar-pradesh/shopkeeper-kept-pornographic-video-of-girls-from-his-family-and-neighborhood-201783737487302.html",
@@ -47894,6 +48323,19 @@
       "lang": "en"
     },
     {
+      "id": "d4089f8d2c25e8d1cd11e2f98cff520c",
+      "title": "‘Sealed in blood’: Where does the China-North Korea alliance stand today?",
+      "link": "https://www.aljazeera.com/news/2026/7/11/sealed-in-blood-where-does-the-china-north-korea-alliance-stand-today?traffic_source=rss",
+      "summary": "China and North Korea are celebrating the 65th anniversary of a friendship treaty this week.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 08:21:20 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "586ee77909058bce78ce33ab26a56c4b",
       "title": "UP: कॉकरोच बनकर प्रदर्शन करने वाले फायरमैन जितेंद्र राठौर बर्खास्त, भ्रष्टाचार के आरोपों के बीच बड़ी कार्रवाई",
       "link": "https://www.amarujala.com/uttar-pradesh/firozabad/fireman-dismissed-after-cockroach-protest-and-corruption-allegations-2026-07-11",
@@ -47903,6 +48345,19 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c5c0d9506929bc546c10c35b57683c67",
+      "title": "Kali temple dome collapses during road widening work:PWD employee killed, another injured; demolition halted",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/pwd-employee-killed-temple-dome-collapse-mughalsarai-138415435.html",
+      "summary": "A major accident occurred late on Friday night during the demolition of an ancient Kali temple in the Mughalsarai Kotwali area amid road widening work. During the demolition, the massive dome of the temple suddenly collapsed. A PWD employee died in the accident, while another person was seriously injured. The demolition work was underway late at night using a bulldozer for road widening. During this time, PWD employee Jhumri alias Baldev (58), a resident of Padav Dandi, was standing there holding a rope. Suddenly, the temple dome collapsed. While falling, the dome hit the bulldozer bucket, changed direction and fell on Baldev and another person, trapping them. Chaos broke out at the spot after the accident. Both injured persons were immediately taken to hospital, where Baldev died during treatment. The other injured person is undergoing treatment. After the incident, administrative officials, police personnel and local residents started relief and rescue operations. The demolition work was halted for some time as a safety measure. As soon as the information was received, Mughalsarai SDM Rajiv Mohan Saxena and Kotwali in-charge Vijay Pratap Singh reached the spot. The officials inspected the site and gathered details about the entire incident. The cause of the accident is being investigated.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 08:18:05 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -47985,6 +48440,19 @@
       "lang": "en"
     },
     {
+      "id": "73275e69f21765bad12e686544517e54",
+      "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+      "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
+      "summary": "US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 08:04:57 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a67c083eff497b734b65ee3da922714f",
       "title": "Railways issue alert after cable cuts trigger signal failures, safety concerns",
       "link": "https://www.thehindu.com/news/national/railways-issue-alert-after-cable-cuts-trigger-signal-failures-safety-concerns/article70041525.ece",
@@ -48024,6 +48492,19 @@
       "lang": "en"
     },
     {
+      "id": "0ab674c969b7051433ee90b3069a0a83",
+      "title": "Bird hits Flydubai aircraft in Lucknow:Emergency landing carried out, 163 passengers onboard; plane stranded at airport for 6 hours",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/flydubai-aircraft-emergency-landing-lucknow-bird-hit-138415344.html",
+      "summary": "A Flydubai aircraft (FD-443) heading to Lucknow was hit by a bird on Saturday morning when it was approaching the city. Following the bird strike, the pilot carried out an emergency landing. The aircraft had 163 passengers onboard. The flight was scheduled to reach Lucknow at 6:35 am and was expected to arrive 40 minutes late. After the bird hit, the pilot requested an emergency slot on the runway. The aircraft landed safely at Lucknow airport at 7:13 am. Even after around six hours, the aircraft remained parked in the airport’s parking bay at 1:30 pm. Following the incident, the plane was moved from the runway to the parking bay, where a detailed technical inspection is being carried out. The aircraft was already delayed by 48 minutes from its scheduled time. The same aircraft was scheduled to depart from Lucknow for Dubai again after an hour.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 07:59:41 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "8b211b25a8c0306c0e5213507da2460b",
       "title": "IITs, IIMs push back against VBSA norms",
       "link": "https://www.thehindu.com/education/iits-iims-push-back-against-vbsa-norms/article71207083.ece",
@@ -48059,6 +48540,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ae6eb008521fcb7319f59b0954d64e01",
+      "title": "Wembanyama signs contract with Spurs for five years, $252m: Report",
+      "link": "https://www.aljazeera.com/sports/2026/7/11/wembanyama-signs-contract-with-spurs-for-five-years-252m-report?traffic_source=rss",
+      "summary": "Victor Wemnanyama, the NBA's tallest player, inked the third-largest rookie extension in history.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 07:51:49 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -48519,7 +49013,7 @@
     },
     {
       "id": "a65efbe5875a046ad4c2464f3a6bb6e9",
-      "title": "IT Company owner among 4 killed in Rampur road accident:Car rams into DCM while travelling to Uttarakhand; passengers trapped inside",
+      "title": "IT company owner among 4 killed in Rampur road accident:Car rams into DCM while travelling to Uttarakhand; passengers trapped inside",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/delhi-nainital-car-accident-rampura-fatalities-injuries-138414650.html",
       "summary": "On Saturday at 5 AM, a speeding Eco car crashed into a stationary DCM in Rampur, UP. In the accident, four people sitting in the car died on the spot. Three were seriously injured. All were going from Delhi to Nainital for sightseeing. According to eyewitnesses, the DCM was parked on the roadside. The Eco car coming from behind must have been traveling at a speed of around 100kmph. The collision was so severe that the front part of the car was completely smashed. Its roof flew off. The people sitting in the car kept writhing inside. A video after the accident has surfaced. In it, a blood-soaked youth trapped among the corpses is pleading with people for help. He says, ‘Brother, save me’. After great effort, the police pulled out the bodies. The injured were taken to a nearby hospital. Police say that all 7 people in the car are said to be residents of Delhi-NCR. All were between 30 and 35 years of age. All had left from Delhi for Uttarakhand to visit Jim Corbett National Park and Nainital. 3 pictures of the accident-",
       "date": "2026-07-11",
@@ -48752,19 +49246,6 @@
       "lang": "hi"
     },
     {
-      "id": "fb1a6225d7da81150e5da668cae5654c",
-      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
-      "link": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
-      "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 04:06:56 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "c7be1f0753a378f866eba7567ea578a1",
       "title": "World Cup: Kane vs Haaland in England-Norway quarterfinal striker battle",
       "link": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers?traffic_source=rss",
@@ -48781,7 +49262,7 @@
       "id": "1a8433eb3127f0336dbf8049c1bb9749",
       "title": "VIDEO|Rajpal Yadav's stubbornness lands him in jail after cheque:Said 'I will not repay, even if I have to go to jail repeatedly'",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/rajpal-yadav-jail-cheque-bounce-delhi-court-138414239.html",
-      "summary": "Bollywood actor Rajpal Yadav has been sentenced to three months in jail by the Delhi High Court on Friday in a cheque bounce case. His wife Radha Yadav has also been fined. In fact, it was Rajpal Yadav’s own stand that landed him in trouble. After coming out of Tihar Jail the last time, he had said, “I will not return the money, even if I have to go to jail again and again.” What is the cheque bounce case and how is it connected to the film ‘Ata Pata Laapata’? Understand the complete matter in this VIDEO…",
+      "summary": "Bollywood actor Rajpal Yadav was sentenced to three months in jail by the Delhi High Court on Friday in a cheque bounce case. His wife Radha Yadav has also been fined. In fact, it was Rajpal Yadav’s own stand that landed him in trouble. After coming out of Tihar Jail the last time, he had said, “I will not return the money, even if I have to go to jail again and again.” What is the cheque bounce case and how is it connected to the film ‘Ata Pata Laapata’? Understand the complete matter in this VIDEO…",
       "date": "2026-07-11",
       "timestamp": "Sat, 11 Jul 2026 03:52:57 +0000",
       "section": "UP_Focus",
@@ -48869,6 +49350,32 @@
       "lang": "en"
     },
     {
+      "id": "b8905f187da952487cbec8d6d79c632c",
+      "title": "ED के आरोप: ममता सरकार के वक्त मंत्री ने फ्लैट के बदले दी सरकारी नौकरी, अपराध की कमाई से खड़ा किया साम्राज्य",
+      "link": "https://www.amarujala.com/india-news/ed-allegations-minister-under-mamata-government-granted-government-jobs-in-exchange-for-flats-built-an-empire-2026-07-11",
+      "summary": "ED के आरोप: ममता सरकार के वक्त मंत्री ने फ्लैट के बदले दी सरकारी नौकरी, अपराध की कमाई से खड़ा किया साम्राज्य ED allegations Minister under Mamata government granted government jobs in exchange for flats built an empire",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:40:31 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "6f648382975525609bfb6a78add5ef8d",
+      "title": "न्यूजीलैंड में बोले पीएम मोदी,वो मफलर आज भी मेरे पास",
+      "link": "https://www.amarujala.com/video/india-news/pm-modi-said-in-new-zealand-i-still-have-that-muffler-with-me-2026-07-11",
+      "summary": "न्यूजीलैंड में बोले पीएम मोदी,वो मफलर आज भी मेरे पास",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:37:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "fb42c4625fd9dba4b355c9f8f149efa9",
       "title": "Lucknow News: रविवार को भी करा सकेंगे आधार कार्ड में संशोधन",
       "link": "https://www.amarujala.com/lucknow/you-will-be-able-to-get-corrections-made-to-your-aadhaar-card-on-sundays-as-well-lucknow-news-c-13-1-vns1028-1822960-2026-07-11",
@@ -48895,6 +49402,19 @@
       "lang": "en"
     },
     {
+      "id": "86eabd6ebb3d3491db582b9f64de048c",
+      "title": "Gorakhpur News: शास्त्री चौक पर सपा नेताओं ने लगाया विवादित बैनर, पुलिस-नगर निगम ने हटवाया",
+      "link": "https://www.amarujala.com/gorakhpur/sp-leaders-put-up-a-controversial-poster-in-gorakhpur-police-and-the-municipal-corporation-had-it-removed-2026-07-11",
+      "summary": "शहर के शास्त्री चौक पर शुक्रवार देर रात सपा नेताओं ने अयोध्या राम मंदिर में चढ़ावा की रकम में गबन से जुड़े आरोपों वाला विवादित बैनर लगा दिया।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:35:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
       "id": "f5781eb3e5e3e895f4044495b6c28caa",
       "title": "Lucknow News: बादलों की मेहरबानी से गर्मी के तेवर ठंडे",
       "link": "https://www.amarujala.com/lucknow/heatwave-abated-thanks-to-the-clouds-lucknow-news-c-13-1-vns1028-1822958-2026-07-11",
@@ -48908,6 +49428,19 @@
       "lang": "en"
     },
     {
+      "id": "907eb19e5e57d08fcbd6ce750cb1d9a2",
+      "title": "Varanasi News: स्थिर गेहूं नीति, वैज्ञानिक भंडारण और मूल्य संवर्धन जरूरी; आधुनिक गेहूं अर्थव्यवस्था का रोडमैप",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-news-stable-wheat-policy-scientific-storage-value-addition-essential-roadmap-modern-wheat-economy-2026-07-11",
+      "summary": "होटल ताज गंगेज में शुक्रवार को व्हीट प्रोडक्ट्स प्रमोशन सोसायटी (डब्ल्यूपीपीएस) की दूसरे दिन हुई बैठक में गेहूं अर्थव्यवस्था और फ्लोर मिलिंग उद्योग से जुड़े विभिन्न पहलुओं पर चर्चा हुई",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:33:01 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "9be5ff779a1be148c2d64116e43c49d9",
       "title": "Lucknow News: ठप हुआ उपकेंद्र, 10 घंटे तक रहा बिजली संकट",
       "link": "https://www.amarujala.com/lucknow/substation-shut-down-power-crisis-lasted-10-hours-lucknow-news-c-13-1-vns1028-1822957-2026-07-11",
@@ -48918,6 +49451,45 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "55ec706434c254261b9319c9654018e6",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 11 जुलाई के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-11",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:30:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "63e92acb11cf3cb154e63b8d034b699e",
+      "title": "पढ़ें 11 जुलाई के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-07-11",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "6490abcc87ef562c3725e71d441809b6",
+      "title": "नोएडा में नाले में गिरकर इंजीनियर आर्यन की मौत, अब ढका गया नाला; देखें क्या बोले प्रत्यक्षदर्शी",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-engineer-aryan-dies-after-falling-into-a-drain-in-noida-2026-07-11",
+      "summary": "नोएडा में नाले में गिरकर इंजीनियर आर्यन की मौत, अब ढका गया नाला; देखें क्या बोले प्रत्यक्षदर्शी",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:30:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -49100,6 +49672,19 @@
       "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "73a5a457e55ef73e698804f2fe6440fc",
+      "title": "Moradabad: खुद कबूला पूरा सच! पत्नी-बेटे की हत्या के पीछे ये थी वजह",
+      "link": "https://www.amarujala.com/video-shots/short-videos/moradabad-confessed-the-whole-truth-this-was-the-reason-behind-the-murder-of-his-wife-and-son-2026-07-11",
+      "summary": "पत्नी-बेटा हत्याकांड में नया खुलासा: शव अलग-अलग फेंकने की वजह आई सामने, खुद कुबूला सच; 15 साल पहले हुए थे एक",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:22:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -49363,6 +49948,19 @@
       "lang": "en"
     },
     {
+      "id": "5f8370a2762e49e1a94ae02ecd53b3c5",
+      "title": "Lucknow: लखनऊ में लैडिंग से पहले विमान से टकराया पक्षी, 163 यात्री थे सवार, सभी सुरक्षित",
+      "link": "https://www.amarujala.com/lucknow/a-bird-collided-with-a-plane-arriving-in-lucknow-from-dubai-2026-07-11",
+      "summary": "दुबई से लखनऊ आ रहे आ रहे एक विमान की लखनऊ एयरपोर्ट पर लैडिंग से पहले एक पक्षी टकरा गया।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:12:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "3ec0e4ae955bc985260e380f27ef6074",
       "title": "Gorakhpur News: चोरी-लूट करने वाले गिरोह के दो गुर्गों पर की गई गैंगस्टर की कार्रवाई",
       "link": "https://www.amarujala.com/gorakhpur/action-under-the-gangsters-act-taken-against-two-members-of-a-gang-involved-in-theft-and-robbery-gorakhpur-news-c-7-gkp1062-1381033-2026-07-11",
@@ -49400,6 +49998,19 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
+    },
+    {
+      "id": "f1569155d5561a92dece128603b994d3",
+      "title": "Maharashtra: मराठवाड़ा में लगातार भूकंप के झटके, क्या खतरे को नजरअंदाज कर रही सरकार? उद्धव गुट का बड़ा आरोप",
+      "link": "https://www.amarujala.com/india-news/maharashtra-shiv-sena-ubt-target-mahayuti-government-over-response-to-marathwada-tremors-2026-07-11",
+      "summary": "Maharashtra: मराठवाड़ा में लगातार भूकंप के झटके, क्या खतरे को नजरअंदाज कर रही सरकार? उद्धव गुट का बड़ा आरोप",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:11:27 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "1f6690aa799d85122caa930b596848de",
@@ -49572,9 +50183,9 @@
     },
     {
       "id": "18bc91265d21f097a77766d4697cc51c",
-      "title": "Gorakhpur News: जिला पंचायत अध्यक्षों का पावर बहाल, दरकिनार होने पर सदस्यों ने उठाए सवाल",
+      "title": "Gorakhpur News: जिपं अध्यक्ष बने प्रशासक...सदस्य बोले-सदस्यों के साथ नाइंसाफी न करे सरकार, हमें भी दो अधिकार",
       "link": "https://www.amarujala.com/gorakhpur/powers-of-district-panchayat-presidents-restored-members-raised-questions-after-being-sidelined-gorakhpur-news-c-7-gkp1062-1381812-2026-07-11",
-      "summary": "Powers of District Panchayat Presidents restored; members raised questions after being sidelined.",
+      "summary": "जिला पंचायत अध्यक्षों का कार्यकाल 11 जुलाई को समाप्त होने से एक दिन पहले प्रदेश सरकार ने उन्हें प्रशासक नियुक्त कर दिया है।",
       "date": "2026-07-11",
       "timestamp": "Sat, 11 Jul 2026 02:07:18 +0530",
       "section": "UP_Focus",
@@ -49740,6 +50351,19 @@
       "lang": "en"
     },
     {
+      "id": "f79ca0ec673b4e3ff7b8a1f6574fa379",
+      "title": "एम्स के सात साल: इलाज के लिए भरोसा बढ़ा, बनाए रखने की चुनौती भी बढ़ी- बुलंदियों पर गोरखपुर AIIMS",
+      "link": "https://www.amarujala.com/gorakhpur/gorakhpur-aiims-completes-seven-years-trust-in-treatment-grows-facilities-expanded-2026-07-11",
+      "summary": "एम्स गोरखपुर शनिवार को अपना सातवां स्थापना दिवस मना रहा है। सात वर्षों में संस्थान पूर्वांचल का ही नहीं, बिहार और नेपाल के लाखों मरीजों के लिए उच्चस्तरीय इलाज का प्रमुख केंद्र बन गया है।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 02:02:21 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
       "id": "bfc591bb90d9e7966ad1e4bd141371ce",
       "title": "Varanasi News: राजस्थानी मेले में दिखेंगे जयपुर के परिधान व सूरत की ज्वेलरी",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/jaipurs-attire-and-surats-jewellery-will-be-on-display-at-the-rajasthani-fair-varanasi-news-c-20-vns1021-1461559-2026-07-11",
@@ -49870,6 +50494,19 @@
       "lang": "en"
     },
     {
+      "id": "25907e872738e017beea83c898188afe",
+      "title": "आरव की मां की गुहार, मेरे सामने लटकाया जाए दरिंदा विराज",
+      "link": "https://www.amarujala.com/video-shots/short-videos/aarav-s-mother-pleads-let-the-monster-viraj-be-hanged-before-my-eyes-2026-07-11",
+      "summary": "जिस बेरहमी से उस दरिंदे ने मेरे डेढ़ साल के मासूम बेटे को सड़क पर पटक-पटककर मार डाला, उसे देखकर मेरा कलेजा फट गया था।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:57:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "f3e707afe2933f8aff2ad1c95c080b2c",
       "title": "Man hurls papers at Supreme Court Bench after incoherent submissions",
       "link": "https://www.thehindu.com/news/national/man-hurls-papers-at-supreme-court-bench-after-incoherent-submissions/article71205937.ece",
@@ -49922,6 +50559,19 @@
       "lang": "en"
     },
     {
+      "id": "4b38c1e02a66f1a9e546bfed8cc39763",
+      "title": "UP: पत्नी के इलाज के लिए 59 की उम्र में भी मजदूरी करता था बलदेव, अब वो सहारा भी टूटा; गुंबद से दबकर हुई मौत",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/baldev-59-age-worked-laborer-fund-his-wife-medical-treatment-even-that-support-is-gone-in-chandauli-2026-07-11",
+      "summary": "पीडीडीयू नगर में सड़क चौड़ीकरण परियोजना के तहत शुक्रवार देर रात एक बड़ा हादसा हो गया। मुगलसराय कोतवाली क्षेत्र स्थित प्राचीन काली मंदिर के ध्वस्तीकरण के दौरान यह घटना हुई।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:54:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "76c16e21de6d5512fec0d7a358defed3",
       "title": "Varanasi News: डॉ. अंबेडकर की प्रतिमा क्षतिग्रस्त, नई प्रतिमा स्थापित हुई",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/dr-ambedkars-statue-damaged-new-statue-installed-varanasi-news-c-20-vns1021-1461455-2026-07-11",
@@ -49933,6 +50583,32 @@
       "source": "Amar Ujala",
       "district": "Varanasi",
       "lang": "en"
+    },
+    {
+      "id": "69946b75517d2ca3a61a9d32e1663eb1",
+      "title": "नागरीप्रचारिणी सभा मनाएगी 133वां स्थापना दिवस, चार दिवसीय समारोह का आयोजन; VIDEO",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-nagari-pracharini-sabha-to-celebrate-133rd-foundation-day-four-day-event-organized-2026-07-11",
+      "summary": "नागरीप्रचारिणी सभा मनाएगी 133वां स्थापना दिवस, चार दिवसीय समारोह का आयोजन; VIDEO",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:53:47 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "cc77d9367ca569648cca25dfdefebe71",
+      "title": "Mumbai: ज्वेलरी फर्म में 5.80 करोड़ कीमत के सोने का गबन, क्या 15 साल का भरोसा बना करोड़ों के गबन की वजह?",
+      "link": "https://www.amarujala.com/india-news/mumbai-jwellery-firm-got-scammed-crores-by-manager-crime-committed-in-mumbai-came-to-light-in-patna-2026-07-11",
+      "summary": "Mumbai: ज्वेलरी फर्म में 5.80 करोड़ कीमत के सोने का गबन, क्या 15 साल का भरोसा बना करोड़ों के गबन की वजह?",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:52:05 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "47be916ef35267c5f2b10a74a03a0c34",
@@ -50013,6 +50689,19 @@
       "lang": "en"
     },
     {
+      "id": "d6557dfcf363a0e7f10a694da6e2abc2",
+      "title": "अमर उजाला की खबर का असर, सेक्टर-50 के कुंडली नाले की सफाई शुरू, जेसीबी और ट्रकों से हटाया जा रहा कचरा",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-cleaning-of-the-kundli-drain-in-noida-sector-50-has-begun-2026-07-11",
+      "summary": "अमर उजाला की खबर का असर, सेक्टर-50 के कुंडली नाले की सफाई शुरू, जेसीबी और ट्रकों से हटाया जा रहा कचरा",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:46:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "d30a0e3a6028d85c55584e3d882b6606",
       "title": "Meta pulls new AI image feature after days of backlash",
       "link": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
@@ -50075,6 +50764,19 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b392856521a02b5dec34958cc0947166",
+      "title": "UP: सीएम योगी खुद लगाएंगे पौधा, करेंगे 35 करोड़ पौधरोपण महायज्ञ का शुभारंभ- गोरखपुर में लगेंगे 55 लाख पौधे",
+      "link": "https://www.amarujala.com/gorakhpur/cm-yogi-will-launch-the-mega-tree-plantation-drive-from-gorakhpur-on-sunday-2026-07-11",
+      "summary": "मुख्यमंत्री योगी आदित्यनाथ रविवार को गोरखपुर से, प्रदेशव्यापी पौधरोपण महायज्ञ - 2026 का शुभारंभ करेंगे।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:40:01 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
       "lang": "en"
     },
     {
@@ -50156,6 +50858,19 @@
       "lang": "en"
     },
     {
+      "id": "35a744e6ee009a6241d06d8c8ca54d77",
+      "title": "VIDEO : खुदाई कर डाली गई थी बिजली की लाइन, देर रात बारिश में सड़क धंसी",
+      "link": "https://www.amarujala.com/video/lucknow/video-video-khathaii-kara-dal-gaii-tha-bjal-ka-lina-thara-rata-brasha-ma-saugdhaka-thhasa-2026-07-11",
+      "summary": "VIDEO : खुदाई कर डाली गई थी बिजली की लाइन, देर रात बारिश में सड़क धंसी",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:31:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "519c236db02a4d29e170a7cd101d1a9d",
       "title": "Demolition of tilted building on M.G. Road deferred",
       "link": "https://www.thehindu.com/news/national/kerala/demolition-of-tilted-building-in-kochi-may-take-7-10-days-due-to-safety-concerns/article71207109.ece",
@@ -50169,6 +50884,45 @@
       "lang": "en"
     },
     {
+      "id": "450f2e1d75eddd5f7408e3513644b627",
+      "title": "Delhi-NCR Rain/Weather Update: बारिश, तुफान? अगले छह दिन कैसा रहने वाला है दिल्ली-एनसीआर का मौसम?",
+      "link": "https://www.amarujala.com/video/india-news/delhi-ncr-rain-weather-update-rain-storms-what-will-the-weather-be-like-in-delhi-ncr-over-the-next-six-days-2026-07-11",
+      "summary": "Delhi-NCR Rain/Weather Update: बारिश, तुफान? अगले छह दिन कैसा रहने वाला है दिल्ली-एनसीआर का मौसम?",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:31:07 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "322ccb0b15d2ca2347943b47421d9707",
+      "title": "कौन हैं आशुतोष तिवारी,जो दतिया में पूर्व गृह मंत्री नरोत्तम मिश्रा पर पड़े भारी?",
+      "link": "https://www.amarujala.com/video/india-news/who-is-ashutosh-tiwari-who-bested-former-home-minister-narottam-mishra-in-datia-2026-07-11",
+      "summary": "कौन हैं आशुतोष तिवारी,जो दतिया में पूर्व गृह मंत्री नरोत्तम मिश्रा पर पड़े भारी?",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:30:31 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "75b80d0660b1e0ab1691c3c8717a2ed4",
+      "title": "Karnataka: साहूकार के अत्याचार से परेशान शख्स ने दी जान, मरने से पहले वीडियो शूट कर लगाए गंभीर आरोप",
+      "link": "https://www.amarujala.com/india-news/karnataka-man-driven-suicide-by-moneylender-harassment-records-video-making-serious-allegations-before-dying-2026-07-11",
+      "summary": "Karnataka Man driven suicide by moneylender harassment records video making serious allegations before dying.",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:29:21 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "5be10bb6f67f134d3e8b9933cce49511",
       "title": "UP Weather: आज भी कई जिलों में भारी बारिश का अलर्ट, पूर्वी हिस्से में गरज-चमक के साथ बरसेंगे बादल; चेतावनी",
       "link": "https://www.amarujala.com/lucknow/up-heavy-rains-lashed-the-entire-state-with-temperatures-dropping-by-four-degrees-these-cities-2026-07-10",
@@ -50179,6 +50933,45 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ee4e40744d920f1c4ab8b27919057462",
+      "title": "Iran America War: तेहरान पर गिरेंगी 1000 मिसाइलें! ट्रंप ने सैनिकों को दे दिया आदेश",
+      "link": "https://www.amarujala.com/video/india-news/iran-america-war-warns-iran-claims-orders-given-if-tehran-tries-to-assassinate-him-2026-07-11",
+      "summary": "अमेरिका और ईरान में बढ़ते तनाव के बीच राष्ट्रपति ट्रंप ने ईरान को लेकर बेहद सख्त और आक्रामक बयान दिया है. ट्रंप ने अपने सोशल मीडिया प्लेटफॉर्म ट्रुथ सोशल पर दावा किया कि अमेरिका की 1000 मिसाइलें \"लॉक्ड एंड लोडेड\" हैं।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:25:17 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "93cc1a531eae3146d99794ffb8374602",
+      "title": "Bareilly News: सैन्य अफसर की पत्नी के अश्लील फोटो वायरल करने की धमकी, कैफे संचालक के खिलाफ रिपोर्ट दर्ज",
+      "link": "https://www.amarujala.com/uttar-pradesh/bareilly/fir-against-cafe-owner-for-threatening-to-circulate-photos-of-army-officer-wife-in-bareilly-2026-07-11",
+      "summary": "सैन्य अफसर ने कोतवाली में दर्ज कराई रिपोर्ट, पुलिस ने शुरू की जांच",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:25:06 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "760d60d0a8595924f44d7e0391940769",
+      "title": "Varanasi News: पति की हत्या के बाद अंतिम संस्कार का आरोप, FIR का आदेश; शरीर नीला होता देख गहराया था संदेह",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/varanasi-allegation-performing-last-rites-after-husband-murder-fir-ordered-suspicion-body-turn-blue-2026-07-11",
+      "summary": "पति की हत्या कर परिजनों को सूचना दिए बिना अंतिम संस्कार करने के आरोपों को मुख्य न्यायिक मजिस्ट्रेट की अदालत ने गंभीर माना है।",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:23:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -50208,6 +51001,19 @@
       "lang": "en"
     },
     {
+      "id": "ee858f4492589ba265d5ff13626a55d4",
+      "title": "टेक्नो कॉन्सर्ट ड्रग्स कांड: मुख्य आरोपी का जुड़वा भाई गिरफ्तार, 13 जुलाई तक पुलिस हिरासत में भेजा गया",
+      "link": "https://www.amarujala.com/india-news/techno-concert-drug-scandal-twin-brother-of-the-prime-accused-arrested-remanded-to-police-custody-2026-07-11",
+      "summary": "Techno concert drug scandal Twin brother of the prime accused arrested; remanded to police custody",
+      "date": "2026-07-11",
+      "timestamp": "Sat, 11 Jul 2026 01:08:32 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "59c5d5ec119b02a0f2e57cff9d4bf30b",
       "title": "Lucknow News: ब्रज-रस की अमृत वर्षा से सराबोर हुई राजधानी",
       "link": "https://www.amarujala.com/lucknow/the-capital-was-drenched-in-the-nectarean-shower-of-the-essence-of-braj-lucknow-news-c-13-1-lko1028-1822942-2026-07-11",
@@ -50232,32 +51038,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "55ec706434c254261b9319c9654018e6",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 11 जुलाई के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-11",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 01:01:05 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "63e92acb11cf3cb154e63b8d034b699e",
-      "title": "पढ़ें 11 जुलाई के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-07-11",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-07-11",
-      "timestamp": "Sat, 11 Jul 2026 01:00:42 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "4c89742b3bfd669c12f10097ead2f209",
@@ -73726,7 +74506,7 @@
     },
     {
       "id": "fbc04936ff14c9cf7a93bf6b406b3640",
-      "title": "Forced to wait his turn, Marine Le Pen's deputy returns to the shadows",
+      "title": "The photo that shows who's really on top in Le Pen's party",
       "link": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
       "summary": "Thirty-year-old Jordan Bardella had been groomed for success as France's next hard-right leader. He will now have to wait longer.",
       "date": "2026-07-10",
@@ -73773,6 +74553,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e34aaebe85d075037ebeab9fe481607d",
+      "title": "Russia trains sights on schools, offices and buses in busy Ukrainian city",
+      "link": "https://www.bbc.co.uk/news/articles/c3dyyln23v8o?at_medium=RSS&at_campaign=rss",
+      "summary": "In Zaporizhzhia, the densely populated city close to the front line, the security situation is deteriorating.",
+      "date": "2026-07-10",
+      "timestamp": "Fri, 10 Jul 2026 23:02:35 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -74090,7 +74883,7 @@
     },
     {
       "id": "a67d615e2744cc792c7b13781fc05314",
-      "title": "Twelve men and 12 women enter a Buddhist temple - will the monks help them find love?",
+      "title": "Dating can be hard in South Korea - so the monks stepped in",
       "link": "https://www.bbc.co.uk/news/articles/cgmdkw7wmkgo?at_medium=RSS&at_campaign=rss",
       "summary": "Dating can be hard in South Korea. A group of monks hope a 30-hour rural retreat can help.",
       "date": "2026-07-10",
@@ -74319,19 +75112,6 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "9f48b5a19858b92c83bbd6306e056961",
-      "title": "New dinosaur species with neck as long as cricket pitch discovered in Thailand",
-      "link": "https://www.bbc.co.uk/news/articles/crely7g8xepo?at_medium=RSS&at_campaign=rss",
-      "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
-      "date": "2026-07-10",
-      "timestamp": "Fri, 10 Jul 2026 21:30:57 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -75165,6 +75945,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "6c0e26f9e136fa8200ccf2762509c534",
+      "title": "'Really frightening, unbelievably quick': Witnesses describe fleeing deadly Spain wildfire",
+      "link": "https://www.bbc.co.uk/news/articles/c932zyex1w2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Holidaymakers tell the BBC how they grabbed a change of clothes, bundled into cars and fled the flames and smoke.",
+      "date": "2026-07-10",
+      "timestamp": "Fri, 10 Jul 2026 18:56:06 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -77700,19 +78493,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "f8b6514de97d3681a04d1f1129fb53b6",
-      "title": "Slashed perks among factors affecting mental health of Assam’s tea garden executives",
-      "link": "https://www.thehindu.com/news/national/assam/slashed-perks-among-factors-affecting-mental-health-of-assams-tea-garden-executives/article71205237.ece",
-      "summary": "A new study has identified restricted decision latitude, referring to a severe lack of control, autonomy, and flexibility, as the most frequently occurring category of workplace stress risk factors",
-      "date": "2026-07-10",
-      "timestamp": "Fri, 10 Jul 2026 12:00:43 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -84693,6 +85473,71 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "14f056a3213ee0cb0e803284b1c1396e",
+      "title": "'Our futures intertwined': PM Modi pitches deeper India-New Zealand ties in Auckland",
+      "link": "https://timesofindia.indiatimes.com/india/our-futures-intertwined-pm-modi-pitches-deeper-india-new-zealand-ties-in-auckland/articleshow/132327609.cms",
+      "summary": "",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T14:21:22+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e8c27b627b0b79a31955ee5c7935b976",
+      "title": "UK triple murder suspect arrested in South Africa after international manhunt",
+      "link": "https://timesofindia.indiatimes.com/world/uk/man-wanted-for-killing-wife-two-daughters-in-uk-arrested-in-south-africa-after-international-manhunt/articleshow/132326938.cms",
+      "summary": "",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T13:32:38+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "08a3d8487754abd47b92cea5650f2d9e",
+      "title": "Ex-Met police officer jailed 7 years for raping female colleague after New Year's eve party",
+      "link": "https://timesofindia.indiatimes.com/world/uk/ex-met-police-officer-jailed-7-years-for-raping-female-colleague-after-new-years-eve-party/articleshow/132326873.cms",
+      "summary": "",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T13:28:33+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c0224682bde26d01fa792d4e7a2f1cdc",
+      "title": "PM Modi quintessential politician, favours direct contact with electorate: MEA official in New Zealand",
+      "link": "https://timesofindia.indiatimes.com/india/pm-modi-quintessential-politician-favours-direct-contact-with-electorate-mea-official-in-new-zealand/articleshow/132326925.cms",
+      "summary": "The Ministry of External Affairs explained Prime Minister Modi's direct engagement style with voters. He prefers connecting with the electorate without intermediaries, which is a political method. This approach has contributed to his electoral success and long tenure as Prime Minister. The visit aimed to strengthen the rule-based Indo-Pacific order with New Zealand.",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T13:26:33+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0d3ff73d0c04f33ddf3d88581ecc741b",
+      "title": "'Public's rightful grain is being looted': Kharge attacks BJP over alleged MP ethanol scam",
+      "link": "https://timesofindia.indiatimes.com/india/publics-rightful-grain-is-being-looted-kharge-attacks-bjp-over-alleged-mp-ethanol-scam/articleshow/132326748.cms",
+      "summary": "Congress president Mallikarjun Kharge criticized the Madhya Pradesh government for alleged corruption. He highlighted a Rs 1,200 crore rice scam involving diverted grain. This rice was meant for malnourished children and women. An investigation is underway after a complaint about undelivered rice. Kharge also mentioned land scam allegations against the chief minister.",
+      "date": "2026-07-11",
+      "timestamp": "2026-07-11T13:14:07+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
