@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:41:22.976005+00:00",
+  "generated_at": "2026-07-12T23:46:58.001038+00:00",
   "stories": [
     {
       "id": "be04d538d6f42e2e264c4928711931c4",
@@ -35336,6 +35336,19 @@
       "lang": "en"
     },
     {
+      "id": "1f1e8ee37f0103a9dda3ccc649e37631",
+      "title": "At least 27 killed in Bangkok bar fire",
+      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through flames to escape.",
+      "date": "2026-07-12",
+      "timestamp": "Sun, 12 Jul 2026 23:40:50 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "15b530344069cb60f31e310811ecd34f",
       "title": "230 kg of gutkha seized, two held in Villupuram",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/230-kg-of-gutkha-seized-two-held-in-villupuram/article71213757.ece",
@@ -35475,6 +35488,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4343cfebcc7c36c7cf6f5fa2ea208153",
+      "title": "US launches new wave of strikes against Iran aimed at ‘degrading’ military",
+      "link": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
+      "summary": "Sunday's attacks follow three previous days of tit-for-tat strikes between Iran and US as a June ceasefire deal frays.",
+      "date": "2026-07-12",
+      "timestamp": "Sun, 12 Jul 2026 23:03:32 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -35755,7 +35781,7 @@
       "id": "b2e44540b8de5a08f02eb6fb80ca474e",
       "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
       "link": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
+      "summary": "A spokesman for the 71-year-old South Carolina senator says initial findings suggest Graham's cause of death was related to his heart.",
       "date": "2026-07-12",
       "timestamp": "Sun, 12 Jul 2026 22:08:07 GMT",
       "section": "International",
@@ -36697,19 +36723,6 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "1f1e8ee37f0103a9dda3ccc649e37631",
-      "title": "At least 27 killed in Bangkok bar fire",
-      "link": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "summary": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
-      "date": "2026-07-12",
-      "timestamp": "Sun, 12 Jul 2026 20:13:14 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -66918,7 +66931,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-13",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-07-13",
-      "timestamp": "Mon, 13 Jul 2026 04:00:34 +0530",
+      "timestamp": "Mon, 13 Jul 2026 05:00:37 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -66931,9 +66944,74 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-07-13",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-07-13",
-      "timestamp": "Mon, 13 Jul 2026 04:00:21 +0530",
+      "timestamp": "Mon, 13 Jul 2026 05:00:24 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "0cfd3e67a4d9a38b3c8cdd48e390b5d6",
+      "title": "Rashifal 13 July 2026: देखिए क्या कहती है आपकी राशि",
+      "link": "https://www.amarujala.com/video/india-news/horoscope-for-13-july-2026-see-what-your-zodiac-sign-says-2026-07-13",
+      "summary": "देखिए क्या कहती है आपकी राशि",
+      "date": "2026-07-13",
+      "timestamp": "Mon, 13 Jul 2026 05:00:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "28e44a872490fba3a02578a24e3c2ca1",
+      "title": "At least 27 killed as fire breaks out at pub in Bangkok",
+      "link": "https://www.thehindu.com/news/international/bangkok-pub-fire-deaths-thailand-july-13-2026/article71215014.ece",
+      "summary": "Firefighters took about half an hour to bring the fire under control; cause of the fire is unknown and under investigation",
+      "date": "2026-07-13",
+      "timestamp": "Mon, 13 Jul 2026 04:55:19 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cc211810ced35fa8088da6daa6bc65ea",
+      "title": "James Webb Space Telescope: आकाशगंगा में एलियन मेगास्ट्रक्चर के मिले सुराग, मिले कौन से वैज्ञानिक प्रमाण?",
+      "link": "https://www.amarujala.com/india-news/alien-megastructure-signs-may-be-found-around-red-dwarf-and-white-dwarf-stars-study-2026-07-13",
+      "summary": "James Webb Space Telescope: आकाशगंगा में एलियन मेगास्ट्रक्चर के मिले सुराग, मिले कौन से वैज्ञानिक प्रमाण? alien-megastructure-signs-may-be-found-around-red-dwarf-and-white-dwarf-stars-study",
+      "date": "2026-07-13",
+      "timestamp": "Mon, 13 Jul 2026 04:52:09 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "bf1de45ce9707e20d1960a3b674949eb",
+      "title": "West Bengal government seeks support of DMSC for cervical cancer vaccination for sex workers in Sonagachi",
+      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-government-seeks-support-of-dmsc-for-cervical-cancer-vaccination-for-sex-workers-in-sonagachi/article71214307.ece",
+      "summary": "Durbar Mahila Samanwaya Committee, a collective for working on rights and recognition of sex workers, celebrates 31 years",
+      "date": "2026-07-13",
+      "timestamp": "Mon, 13 Jul 2026 04:41:02 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "76d7bcdc3f932a1cb40fff985dc37bcf",
+      "title": "राष्ट्रीय स्वास्थ्य अनुसंधान नीति-2026: छह गुना बढ़ेगा स्वास्थ्य अनुसंधान पर खर्च, कई बड़ी बीमारियों पर फोकस",
+      "link": "https://www.amarujala.com/india-news/national-health-research-policy-2026-draft-health-research-spending-to-rise-focus-on-cancer-tb-diabetes-2026-07-13",
+      "summary": "राष्ट्रीय स्वास्थ्य अनुसंधान नीति-2026: छह गुना बढ़ेगा स्वास्थ्य अनुसंधान पर खर्च, कई बड़ी बीमारियों पर फोकस national-health-research-policy-2026-draft-health-research-spending-to-rise-focus-on-cancer-tb-diabetes",
+      "date": "2026-07-13",
+      "timestamp": "Mon, 13 Jul 2026 04:37:56 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -68005,6 +68083,19 @@
       "lang": "en"
     },
     {
+      "id": "fbc46a1b7834f1c9442bc9362d046f43",
+      "title": "West Asia war updates: Projectiles hit Iran's Gulf island of Qeshm, state media says",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
+      "summary": "U.S. attacks Iran over ship being hit in Hormuz; Tehran responds by hitting Arab states",
+      "date": "2026-07-13",
+      "timestamp": "Mon, 13 Jul 2026 02:15:43 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "26df79bb7942447fc3530a62bd8359e6",
       "title": "Varanasi News: काशी में निर्वासित क्रांतिकारी पुस्तक का किया गया विमोचन",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/book-kashi-mein-nirvasit-krantikari-launched-varanasi-news-c-20-vns1056-1463891-2026-07-13",
@@ -68275,19 +68366,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "28e44a872490fba3a02578a24e3c2ca1",
-      "title": "At least 27 killed as fire breaks out at pub in Bangkok",
-      "link": "https://www.thehindu.com/news/international/bangkok-pub-fire-deaths-thailand-july-13-2026/article71215014.ece",
-      "summary": "Firefighters took about half an hour to bring the fire under control; cause of the fire is unknown and under investigation",
-      "date": "2026-07-13",
-      "timestamp": "Mon, 13 Jul 2026 01:47:57 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -68600,19 +68678,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
-      "lang": "en"
-    },
-    {
-      "id": "fbc46a1b7834f1c9442bc9362d046f43",
-      "title": "West Asia war LIVE: Projectiles hit Iran's Gulf island of Qeshm, state media says",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-iran-us-ceasefire-donald-trump-tehran-attacks-strait-of-hormuz-ships-live-updates-july-12-2026/article71212951.ece",
-      "summary": "U.S. attacks Iran over ship being hit in Hormuz; Tehran responds by hitting Arab states",
-      "date": "2026-07-13",
-      "timestamp": "Mon, 13 Jul 2026 00:44:09 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -91154,6 +91219,45 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b8e57d58c642ac2563952a6f0d0dd2a1",
+      "title": "Dhar's Saraswati is Gayatri: Science ends 900-year mix-up",
+      "link": "https://timesofindia.indiatimes.com/india/dhars-saraswati-is-gayatri-science-ends-900-year-mix-up/articleshow/132354021.cms",
+      "summary": "A 12th-century sculpture previously identified as Saraswati has been correctly identified as Gayatri. Digital documentation and 3D mapping revealed iconographic clues missed for centuries. The absence of a veena, a common Saraswati attribute, proved crucial in this re-identification. This rare image of Gayatri, embodying Vedic wisdom, was unearthed in Dhar. The rediscovered icon now represents Madhya Pradesh's digital heritage mission.",
+      "date": "2026-07-12",
+      "timestamp": "2026-07-13T05:06:10+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8b6ce1c6b64d2e831362cc1e3998b9a0",
+      "title": "Delivery agent barges into woman's Bengaluru flat, flashes her",
+      "link": "https://timesofindia.indiatimes.com/india/delivery-agent-barges-into-womans-bengaluru-flat-flashes-her/articleshow/132353980.cms",
+      "summary": "A Bengaluru food vlogger reported a frightening incident involving a delivery agent. The agent allegedly forced his way into her washroom and exposed himself. Police arrested the 22-year-old delivery agent, Vijay Mallikarjun Kamat, following the complaint. Kamat claimed he only needed to use the washroom and denied exposing himself. Flipkart confirmed the termination of the delivery partner's engagement after the incident.",
+      "date": "2026-07-12",
+      "timestamp": "2026-07-13T04:41:12+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7d6b55c44329170c3c2aa22ced6d7d1e",
+      "title": "Liquor gangs go to war in 'dry' Bihar, 3 dead in 4 days",
+      "link": "https://timesofindia.indiatimes.com/india/liquor-gangs-go-to-war-in-dry-bihar-3-dead-in-4-days/articleshow/132353966.cms",
+      "summary": "Three alleged liquor smugglers died in Samastipur district over four days. One incident involved the murder of Prabhat Choudhary and his associate Sunny Kumar. Another victim, Ishant Kumar, was kidnapped and murdered, his body later found buried. Police suspect financial disputes and prior working relationships led to these killings. Authorities are intensifying their crackdown on liquor smuggling networks in the region.",
+      "date": "2026-07-12",
+      "timestamp": "2026-07-13T04:35:28+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
