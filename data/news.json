@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T21:45:11.943172+00:00",
+  "generated_at": "2026-07-17T22:42:46.489298+00:00",
   "stories": [
     {
       "id": "a3c654e4c424f23df9002b9c5d993e14",
@@ -48934,25 +48934,12 @@
       "lang": "en"
     },
     {
-      "id": "fe20ea1a1cfd9d72c7ca213a995bbac1",
-      "title": "UP Politics: शिवपाल यादव के बयान पर जमकर बरसे ओपी राजभर, दे डाली इलाज कराने की नसीहत!",
-      "link": "https://www.amarujala.com/video/india-news/up-politics-op-rajbhar-lashes-out-at-shivpal-yadav-s-statement-advises-him-to-get-medical-treatment-2026-07-18",
-      "summary": "UP Politics: शिवपाल यादव के बयान पर जमकर बरसे ओपी राजभर, दे डाली इलाज कराने की नसीहत!",
-      "date": "2026-07-18",
-      "timestamp": "Sat, 18 Jul 2026 03:05:36 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "62113aac5034b0d9925cde9038487f11",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 18 जुलाई के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-18",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-07-18",
-      "timestamp": "Sat, 18 Jul 2026 03:00:32 +0530",
+      "timestamp": "Sat, 18 Jul 2026 04:00:31 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -48965,7 +48952,72 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-07-18",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-07-18",
-      "timestamp": "Sat, 18 Jul 2026 03:00:18 +0530",
+      "timestamp": "Sat, 18 Jul 2026 04:00:17 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c619348a6adc640533c958b67570b959",
+      "title": "Jantar Mantar protest updates: Opposition support grows as Wangchuk’s hunger strike continues on day 20",
+      "link": "https://www.thehindu.com/news/national/sonam-wangchuk-hunger-strike-cjp-protest-in-delhi-jantar-mantar-cockroach-janta-party-live-updates-july-17-2026/article71232683.ece",
+      "summary": "“The medical team stated that Sonam Wangchuk continues to be under 24-hour medical vigilance, with his health being monitored closely,” the CJP said",
+      "date": "2026-07-18",
+      "timestamp": "Sat, 18 Jul 2026 04:00:02 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9c3b664f72aac71bf47ec0f9c06f1cd1",
+      "title": "Congress alleges irregularities in gram sabha approvals for Ken-Betwa project",
+      "link": "https://www.thehindu.com/news/national/madhya-pradesh/congress-alleges-irregularities-in-gram-sabha-approvals-for-ken-betwa-project/article71234805.ece",
+      "summary": "Leader of the Opposition in the State Assembly Umang Singhar alleged corruption worth crores in the distribution of compensation and in awarding contracts to companies.",
+      "date": "2026-07-18",
+      "timestamp": "Sat, 18 Jul 2026 03:56:28 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3766990338e611f61486bd5f486a4c10",
+      "title": "Groping breasts not part of routine gynaecological examination, says Gauhati High Court",
+      "link": "https://www.thehindu.com/news/national/assam/groping-breasts-not-part-of-routine-gynaecological-examination-says-gauhati-high-court/article71234451.ece",
+      "summary": "Considering the convicted doctor’s age, the court reduces his sentence in the 17-year-old case to ₹5,000 in default of imprisonment for two months",
+      "date": "2026-07-18",
+      "timestamp": "Sat, 18 Jul 2026 03:41:07 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "293ea2f93bf8597a1061d8170f5579d8",
+      "title": "‘Sharad Pawar should take the final call on allying with NDA’",
+      "link": "https://www.thehindu.com/news/national/maharashtra/sharad-pawar-should-take-the-final-call-on-allying-with-nda/article71234881.ece",
+      "summary": "Merger unlikely, say leaders from NCP and NCP(SP); Eknath Shinde stays out, as anxiety in NCP(SP) camp grows",
+      "date": "2026-07-18",
+      "timestamp": "Sat, 18 Jul 2026 03:16:58 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fe20ea1a1cfd9d72c7ca213a995bbac1",
+      "title": "UP Politics: शिवपाल यादव के बयान पर जमकर बरसे ओपी राजभर, दे डाली इलाज कराने की नसीहत!",
+      "link": "https://www.amarujala.com/video/india-news/up-politics-op-rajbhar-lashes-out-at-shivpal-yadav-s-statement-advises-him-to-get-medical-treatment-2026-07-18",
+      "summary": "UP Politics: शिवपाल यादव के बयान पर जमकर बरसे ओपी राजभर, दे डाली इलाज कराने की नसीहत!",
+      "date": "2026-07-18",
+      "timestamp": "Sat, 18 Jul 2026 03:05:36 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -50127,19 +50179,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "c619348a6adc640533c958b67570b959",
-      "title": "Jantar Mantar protest LIVE: Opposition support grows as Wangchuk’s hunger strike continues on day 20",
-      "link": "https://www.thehindu.com/news/national/sonam-wangchuk-hunger-strike-cjp-protest-in-delhi-jantar-mantar-cockroach-janta-party-live-updates-july-17-2026/article71232683.ece",
-      "summary": "“The medical team stated that Sonam Wangchuk continues to be under 24-hour medical vigilance, with his health being monitored closely,” the CJP said",
-      "date": "2026-07-18",
-      "timestamp": "Sat, 18 Jul 2026 01:03:57 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -72386,6 +72425,19 @@
       "lang": "en"
     },
     {
+      "id": "7036d05f04d16d069939803702ee6a7e",
+      "title": "Iraq signs deals with Western oil firms, including to revive Syria pipeline",
+      "link": "https://www.aljazeera.com/news/2026/7/17/iraq-signs-deals-with-western-oil-firms-including-to-revive-syria-pipeline?traffic_source=rss",
+      "summary": "Deal with Chevron aims to rebuild a crude oil pipeline that runs from Iraq's oil-rich Kirkuk to Syria's Baniyas.",
+      "date": "2026-07-17",
+      "timestamp": "Fri, 17 Jul 2026 22:19:19 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "036b4159cfcdd8b27a41029a2fb581bd",
       "title": "State govt. approves filling of 15,000 government school teacher posts",
       "link": "https://www.thehindu.com/news/national/karnataka/state-govt-approves-filling-of-15000-government-school-teacher-posts/article71234873.ece",
@@ -72425,6 +72477,19 @@
       "lang": "en"
     },
     {
+      "id": "5f7126d64a2d022743fab91fc4879449",
+      "title": "Kim Jong Un was meant to be their only idol - then North Koreans discovered K-pop",
+      "link": "https://www.bbc.co.uk/news/articles/c0jygjezvlwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Defectors tell the BBC that despite restrictions, K-pop has cut through in the stifling dictatorship.",
+      "date": "2026-07-17",
+      "timestamp": "Fri, 17 Jul 2026 22:14:12 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "de7688dcb0cf096e1fa9c628b6fd1604",
       "title": "Government brings major changes in the weightage of marks for teacher recruitments in Karnataka",
       "link": "https://www.thehindu.com/news/national/karnataka/government-brings-major-changes-in-the-weightage-of-marks-for-teacher-recruitments-in-karnataka/article71230810.ece",
@@ -72434,6 +72499,32 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7ff42aa6396f575c1f265622c3ae39ba",
+      "title": "White House defends Argentina team over Falklands banner",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rmjk0740o?at_medium=RSS&at_campaign=rss",
+      "summary": "The comments could further fuel the row over the incident, which has seen Downing Street back calls for Fifa to investigate.",
+      "date": "2026-07-17",
+      "timestamp": "Fri, 17 Jul 2026 22:12:54 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c1a696612fc36dce9c822d588ba84bf3",
+      "title": "US launches seventh straight night of strikes on Iran",
+      "link": "https://www.aljazeera.com/news/2026/7/17/us-launches-seventh-straight-night-of-strikes-on-iran?traffic_source=rss",
+      "summary": "The US military says it's degrading Iran's military but has been accused by Tehran of targeting civilian infrastructure.",
+      "date": "2026-07-17",
+      "timestamp": "Fri, 17 Jul 2026 22:11:12 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -72659,6 +72750,19 @@
       "lang": "en"
     },
     {
+      "id": "667dffcedff6006bd432ce4dd16ec6f3",
+      "title": "Tackling Messi ‘huge challenge’ for Spain in World Cup final: Merino",
+      "link": "https://www.aljazeera.com/sports/2026/7/17/tackling-messi-huge-challenge-for-spain-in-world-cup-final-merino?traffic_source=rss",
+      "summary": "Spanish midfielder says he has 'huge confidence' in his abilities after his impressive performances as a substitute.",
+      "date": "2026-07-17",
+      "timestamp": "Fri, 17 Jul 2026 21:39:01 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e0843d31c4e6705c081f42fe8f9794c7",
       "title": "पति गया बाहर तो ससुर की नीयत हुई खराब, जबरदस्ती करने पर बहू ने काट दिया प्राइवेट पार्ट",
       "link": "https://www.livehindustan.com/uttar-pradesh/sasur-made-sexual-advances-after-husband-left-bahu-severed-his-private-part-when-he-tried-to-force-himself-on-her-201784303564459.html",
@@ -72685,6 +72789,19 @@
       "lang": "en"
     },
     {
+      "id": "fe406a690badfe5cf7c88a53f86fd4e7",
+      "title": "Herbert leads British Open golf, equals record lowest score at a major",
+      "link": "https://www.aljazeera.com/sports/2026/7/17/herbert-leads-british-open-golf-equals-record-lowest-score-at-a-major?traffic_source=rss",
+      "summary": "Australian golfer Herbert ended the second round of the British Open with a two-shot lead on eight-under.",
+      "date": "2026-07-17",
+      "timestamp": "Fri, 17 Jul 2026 21:35:56 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "f3c949ff1597a416c923b061aef0aef7",
       "title": "ISL star swaps jersey for writer’s pen in maiden travelogue",
       "link": "https://www.thehindu.com/news/national/kerala/isl-star-swaps-jersey-for-writers-pen-in-maiden-travelogue/article71233465.ece",
@@ -72694,6 +72811,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cc34ea833fe299c08cffa4a07d355050",
+      "title": "Star speedcubers square off at European championship",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/star-speedcubers-square-off-at-european-championship?traffic_source=rss",
+      "summary": "More than 1,200 speedcubers from 53 countries are descending are attending the European Speedcubing Championship.",
+      "date": "2026-07-17",
+      "timestamp": "Fri, 17 Jul 2026 21:33:45 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -73156,7 +73286,7 @@
       "id": "177a69bf8df50a5adcabc71bc3e8019a",
       "title": "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
       "link": "https://www.aljazeera.com/news/2026/7/17/suspected-somali-pirates-seize-tanker-near-yemen-amid-wave-of-hijackings?traffic_source=rss",
-      "summary": "The seizure of the Astana is the latest in a rapidly growing wave of piracy sweeping the Gulf of Aden.",
+      "summary": "The seizure of the Asana is the latest in a rapidly growing wave of piracy sweeping the Gulf of Aden.",
       "date": "2026-07-17",
       "timestamp": "Fri, 17 Jul 2026 20:57:27 +0000",
       "section": "International",
@@ -95925,6 +96055,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d8a90947dbc5f922c1e56e311f142b74",
+      "title": "Congress warns Punjab dissidents against indiscipline, armtwisting, gives no assurances",
+      "link": "https://timesofindia.indiatimes.com/india/congress-warns-punjab-dissidents-against-indiscipline-armtwisting-gives-no-assurances/articleshow/132469965.cms",
+      "summary": "Congress leaders were sternly told to maintain party discipline and avoid public criticism. Dissenting Punjab leaders met with AICC general secretary K C Venugopal regarding their grievances. They were instructed to address internal matters through designated organizational channels. Any open dissent was deemed politically detrimental and unacceptable to the party leadership. The party emphasized focusing on upcoming state elections and maintaining organizational unity.",
+      "date": "2026-07-17",
+      "timestamp": "2026-07-18T03:33:19+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
