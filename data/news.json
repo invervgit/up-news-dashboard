@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T22:42:36.892474+00:00",
+  "generated_at": "2026-07-18T23:47:36.161708+00:00",
   "stories": [
     {
       "id": "a3c654e4c424f23df9002b9c5d993e14",
@@ -38521,16 +38521,16 @@
       "lang": "en"
     },
     {
-      "id": "89c6451b4dd59b1995656427d29bc350",
-      "title": "Cyber Crime: नौकरी और पॉलिसी के नाम पर 1000 लोगों से करोड़ों की जालसाजी, नोएडा में अवैध कॉल सेंटर्स का खुलासा",
-      "link": "https://www.amarujala.com/delhi-ncr/cyber-crime-fraud-worth-crores-involving-1-000-people-under-the-guise-of-jobs-and-insurance-policies-2026-07-19",
-      "summary": "नोएडा शहर में दो और अवैध कॉल सेंटरों का खुलासा हुआ है।",
+      "id": "3f2509f65599f3c96cfb23788618c4e2",
+      "title": "काशी में लगातार बढ़ रहीं गंगा: 24 घंटे में 17 सेंटीमीटर बढ़ा जलस्तर, शीतला घाट का आरती स्थल जलमग्न",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/ganga-water-level-rises-11-meters-below-the-danger-mark-in-varanasi-2026-07-19",
+      "summary": "जलस्तर बढ़ने से न केवल लोगों को परेशानी का सामना करना पड़ रहा है, बल्कि धार्मिक गतिविधियों पर भी असर पड़ा है।",
       "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 04:05:04 +0530",
+      "timestamp": "Sun, 19 Jul 2026 05:14:02 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
-      "district": "Noida",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -38539,7 +38539,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-19",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 04:00:32 +0530",
+      "timestamp": "Sun, 19 Jul 2026 05:00:37 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -38552,12 +38552,90 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-07-19",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 04:00:19 +0530",
+      "timestamp": "Sun, 19 Jul 2026 05:00:23 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "54b62e097e190030989215cdcd450256",
+      "title": "Zanzibar Prez India Visit: जांजीबार के राष्ट्रपति चार दिवसीय भारत दौरे पर, रणनीतिक साझेदारी बढ़ाने पर जोर",
+      "link": "https://www.amarujala.com/india-news/zanzibar-prez-hussein-ali-mwinyi-in-india-4-day-official-visit-hindi-updates-india-tanzania-partnership-news-2026-07-19",
+      "summary": "Zanzibar Prez India Visit: जांजीबार के राष्ट्रपति चार दिवसीय भारत दौरे पर, रणनीतिक साझेदारी बढ़ाने पर जोर",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 04:38:49 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "624963306a4fda479dee99b46dda232b",
+      "title": "डिजिटल आत्मनिर्भरता: भारत को मिला अपना सुरक्षित राष्ट्रीय समय नेटवर्क, विदेशी प्रणालियों से मिलेगी मुक्ति",
+      "link": "https://www.amarujala.com/india-news/india-launches-secure-national-time-network-white-rabbit-technology-2026-07-19",
+      "summary": "डिजिटल आत्मनिर्भरता: भारत को मिला अपना सुरक्षित राष्ट्रीय समय नेटवर्क, विदेशी प्रणालियों से मिलेगी मुक्ति india launches secure national time network white rabbit technology",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 04:35:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a07b75f7acd87465e251702d650af91a",
+      "title": "Lok Sabha Party Position List: उद्धव के बागी सांसदो को विलय की मंजूरी,TMC के बागी सांसद बैठेंगे अलग!",
+      "link": "https://www.amarujala.com/video/india-news/lok-sabha-party-position-list-merger-approved-for-uddhav-s-rebel-mps-rebel-tmc-mps-to-sit-separately-2026-07-19",
+      "summary": "Lok Sabha Party Position List: उद्धव के बागी सांसदो को विलय की मंजूरी,TMC के बागी सांसद बैठेंगे अलग!",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 04:30:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "77cdaee6886472f46473fb00e3826bbf",
+      "title": "फर्जी OMR शीट पर NTA सख्त: AI दस्तावेजों पर होगी कानूनी कार्रवाई, छात्रों के माता-पिता के लिए क्या अहम सलाह?",
+      "link": "https://www.amarujala.com/india-news/nta-warns-against-fake-and-ai-generated-omr-sheets-for-scrutiny-2026-07-19",
+      "summary": "फर्जी OMR शीट पर NTA सख्त: AI दस्तावेजों पर होगी कानूनी कार्रवाई, छात्रों के माता-पिता के लिए क्या अहम सलाह? nta warns against fake and ai generated omr sheets for scrutiny",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 04:23:51 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "ac3764061bb2b22d9701dbc63c2e36cb",
+      "title": "Amarnath, Vaishno Devi Yatras to be temporarily suspended from July 19",
+      "link": "https://www.thehindu.com/news/national/amarnath-vaishno-devi-yatras-to-be-temporarily-suspended-from-july-19/article71239224.ece",
+      "summary": "“In view of inclement weather forecast issued by IMD, Shri Amarnathji Yatra shall remain temporarily suspended from both the Pahalgam and Baltal routes with effect from 19.07.2026 as a precautionary measure to ensure the safety and well-being of the pilgrims,” says Kashmir Divisional Commissioner",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 04:08:42 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "89c6451b4dd59b1995656427d29bc350",
+      "title": "Cyber Crime: नौकरी और पॉलिसी के नाम पर 1000 लोगों से करोड़ों की जालसाजी, नोएडा में अवैध कॉल सेंटर्स का खुलासा",
+      "link": "https://www.amarujala.com/delhi-ncr/cyber-crime-fraud-worth-crores-involving-1-000-people-under-the-guise-of-jobs-and-insurance-policies-2026-07-19",
+      "summary": "नोएडा शहर में दो और अवैध कॉल सेंटरों का खुलासा हुआ है।",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 04:05:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
     },
     {
       "id": "04f51077a16439dba1ba4cf120199247",
@@ -50793,6 +50871,19 @@
       "lang": "en"
     },
     {
+      "id": "6c026758397b6060a00ac253571972b6",
+      "title": "Saka hat-trick helps England down France to win World Cup 2026 Bronze Final",
+      "link": "https://www.aljazeera.com/sports/2026/7/18/saka-hat-trick-helps-england-down-france-to-win-world-cup-2026-bronze-final?traffic_source=rss",
+      "summary": "Kylian Mbappe scores twice for France to hit World Cup record, but England win 6-4 in third-place playoff final.",
+      "date": "2026-07-18",
+      "timestamp": "Sat, 18 Jul 2026 23:22:12 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "cd9556d85d4c746f99b57b0e2ada5d46",
       "title": "Aamir Khan receives alleged threat from Lawrence Bishnoi gang, police verifying social media post",
       "link": "https://www.thehindu.com/news/cities/mumbai/aamir-khan-receives-alleged-threat-from-lawrence-bishnoi-gang-police-verifying-social-media-post/article71238210.ece",
@@ -50802,6 +50893,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "60395047013c28d9df96c59c2a626362",
+      "title": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
+      "link": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
+      "summary": "Mbappe is back on track to defend his Golden Boot title, which he and Messi have traded between themselves throughout the tournament.",
+      "date": "2026-07-18",
+      "timestamp": "Sat, 18 Jul 2026 23:20:31 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -50985,6 +51089,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "dd22b0503ce220f06923838499d2e3ca",
+      "title": "World Cup final tickets near $2.3m mark on FIFA’s resale platform",
+      "link": "https://www.aljazeera.com/sports/2026/7/18/world-cup-final-tickets-near-2-3m-mark-on-fifas-resale-platform?traffic_source=rss",
+      "summary": "While no tickets are available on FIFA's sales platform, they are being resold for sky-high prices on resale sites.",
+      "date": "2026-07-18",
+      "timestamp": "Sat, 18 Jul 2026 22:41:47 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -53160,7 +53277,7 @@
     },
     {
       "id": "e2dbffacabc226d8b72c05af12d6f1bc",
-      "title": "England vs France LIVE: FIFA World Cup 2026",
+      "title": "England 6-4 France LIVE: FIFA World Cup 2026",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/7/18/france-vs-england-live-fifa-world-cup-2026-third-place-playoff?traffic_source=rss",
       "summary": "Live coverage and text updates from our commentary stream of the Bronze Final as Mbappe's France play Kane's England.",
       "date": "2026-07-18",
@@ -96081,6 +96198,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9921eeaf23c0955a30bc7e1a0f1de058",
+      "title": "US launches fresh airstrikes on Iran after attack on American troops in Jordan",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/us-launches-fresh-airstrikes-on-iran-after-attack-on-american-troops-in-jordan/articleshow/132488646.cms",
+      "summary": "United States forces launched new airstrikes against Iran on President Donald Trump's orders. These strikes aim to degrade Iran's ability to threaten commercial shipping. The operation also retaliates for recent attacks on American service members in Jordan. The US Central Command confirmed the military action began at 6 p.m. ET. Iran has not yet issued any official comment on the developments.",
+      "date": "2026-07-18",
+      "timestamp": "2026-07-19T04:40:15+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
