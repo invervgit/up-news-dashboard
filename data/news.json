@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T11:51:54.823094+00:00",
+  "generated_at": "2026-07-19T13:03:47.298603+00:00",
   "stories": [
     {
       "id": "a3c654e4c424f23df9002b9c5d993e14",
@@ -38352,12 +38352,233 @@
       "lang": "en"
     },
     {
+      "id": "69c4be533aab13dd3ab5b4b662dc0144",
+      "title": "Bandi Sanjay urges Centre to probe diversion of Telangana PR funds",
+      "link": "https://www.thehindu.com/news/national/telangana/bandi-sanjay-urges-centre-to-probe-diversion-of-telangana-pr-funds/article71241149.ece",
+      "summary": "",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 18:26:45 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3d2ee4e3d37b3b914b124c859eef8581",
+      "title": "Four in Hyderabad found practising allopathy without required qualifications during TGMC inspections",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/four-in-hyderabad-found-practising-allopathy-without-required-qualifications-during-tgmc-inspections/article71241381.ece",
+      "summary": "",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 18:26:44 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "055712c192ec05e933555e820e270750",
+      "title": "Govt. constitutes single window committee for speedy clearances for affordable housing projects",
+      "link": "https://www.thehindu.com/news/national/telangana/govt-constitutes-single-window-committee-for-speedy-clearances-for-affordable-housing-projects/article71238687.ece",
+      "summary": "",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 18:20:33 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0d21bc351554646368686594e8e593de",
+      "title": "Silence on Ram Temple donation theft is unacceptable: Kharge, Rahul to PM",
+      "link": "https://www.thehindu.com/news/national/rahul-kharge-write-to-pm-seek-probe-into-theft-of-donations-at-ayodhya-ram-temple/article71240735.ece",
+      "summary": "The Leaders of the Opposition in the Rajya Sabha and Lok Sabha demand the Prime Minister order an independent probe into the issue ‘as the people of India are watching’",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 18:12:55 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9aa6c33beeb086aaafa11f63809378f5",
       "title": "Sonam Wangchuk hunger strike LIVE: PIL interpreted wrongly; Sonam's health is fine, there was no need for Govt intervention, says Gitanjali",
       "link": "https://www.thehindu.com/news/national/cjp-sonam-wangchuk-2026-protest-cockroach-janata-party-abhijeet-dipke-hunger-strike-july-19-2026-updates/article71240515.ece",
       "summary": "Delhi HC declines interim relief on plea by Wangchuk's wife seeking transfer from Safdarjung Hospital",
       "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 17:18:28 +0530",
+      "timestamp": "Sun, 19 Jul 2026 18:12:03 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4f29b9f152570dad165fbbe90ea24c90",
+      "title": "State-run Institute of Nephro-Urology performs 10 kidney transplants in 17 days, highest monthly tally so far",
+      "link": "https://www.thehindu.com/news/national/karnataka/state-run-institute-of-nephro-urology-performs-10-kidney-transplants-in-17-days-highest-monthly-tally-so-far/article71238526.ece",
+      "summary": "",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 18:09:30 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5a71810bb717546aec6e86f9847f43f5",
+      "title": "Jammu and Kashmir rains LIVE: 10 feared dead, houses damaged in flash floods in JK",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/amarnath-yatra-2026-live-updates-temporary-suspension-pahalgam-baltal-routes-jammu-and-kashmir-heavy-rains/article71240667.ece",
+      "summary": "Union Home Minister Amit Shah spoke to Jammu and Kashmir L-G Manoj Sinha and CM Omar Abdullah to take stock of the flood situation in Rajouri district.",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 18:09:15 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c53db045e50cc036a7348d5443ffaf9c",
+      "title": "Kerala Government declares July 20 an educational holiday on account of the Argentina-Spain FIFA World Cup final",
+      "link": "https://www.thehindu.com/news/national/kerala/kerala-government-declares-july-20-an-educational-holiday-on-account-of-the-argentina-spain-fifa-world-cup-final/article71240877.ece",
+      "summary": "Football fans and associations across Kerala greeted the government’s decision with much fanfare. Fans, residents’ associations and sports clubs have set up huge wall-sized LED screens in public squares and parks to broadcast the spirit of the match to the audience.",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 18:08:24 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eb06713d998ae0bd77922f4b60fa17dd",
+      "title": "Security intensified in Delhi ahead of Parliament session, CJP’s march call",
+      "link": "https://www.thehindu.com/news/national/security-intensified-in-delhi-ahead-of-parliament-session-cjps-march-call/article71241235.ece",
+      "summary": "The Delhi Police has deployed additional personnel, strengthened barricading and is conducting intensive vehicle checks at key entry points",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 18:07:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "96fa8514ae6e672363a96a5da546f70d",
+      "title": "Police in Madhya Pradesh move activist on hunger strike at Ken-Betwa site to hospital",
+      "link": "https://www.thehindu.com/news/national/police-action-forces-end-to-tribal-protest-against-mps-ken-betwa-project-after-15-days/article71240801.ece",
+      "summary": "The Congress’s Leader of the Opposition in the Madhya Pradesh Assembly Umang Singhar slams police action, comparing it with that of the Delhi Police against Sonam Wangchuk; ‘the BJP government has made suppressing every dissenting voice its governing model’, he says",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 18:04:47 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a956829ae70d6c45f0b2cb4b5f1d75ed",
+      "title": "Question paper leaks a national crisis, says Kerala Minister; Congress to stage youth protest on August 1",
+      "link": "https://www.thehindu.com/news/national/kerala/question-paper-leaks-a-national-crisis-says-kerala-minister-congress-to-stage-youth-protest-on-august-1/article71240788.ece",
+      "summary": "Sunny Joseph alleges that Kerala too is witnessing similar irregularities in recruitment examinations, and criticises the Opposition for objecting to the State government’s decision to investigate alleged irregularities in PSC examinations",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 18:00:00 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5f0232be7470b2c75dba020af7e6a5fe",
+      "title": "Revanth Reddy says Telangana will produce future Football World Cup stars",
+      "link": "https://www.thehindu.com/news/national/telangana/revanth-reddy-says-telangana-will-produce-future-football-world-cup-stars/article71241326.ece",
+      "summary": "",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 17:57:47 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2f839637eccd435f291379b93f18517d",
+      "title": "वाराणसी के बाद अब अयोध्या में मांस पार्टी, सरयू नदी में नाव पर बैठकर खाया मटन, तीन लोग गिरफ्तार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/mutton-party-held-on-boat-ayodhya-saryu-river-alcohol-consumed-video-goes-viral-three-arrested-201784463133233.html",
+      "summary": "अयोध्या एक वीडियो सोशल मीडिया पर वायरल हो गया। वीडियो में कुछ लोग सरयू नदी में नाव पर बैठकर मांस पार्टी और शराब पीते नजर आए। वीडियो वायरल होने के बाद पुलिस ने तीन लोगों को गिरफ्तार कर लिया।",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 17:49:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7dd1d0962d2b8db44ce53b8358b22f2f",
+      "title": "‘There was no need for Govt. intervention’: Wangchuk’s wife Gitanjali on Delhi HC refusing interim relief on hospital transfer",
+      "link": "https://www.thehindu.com/news/national/sonam-wangchuk-gitanjali-angmo-wife-remarks-after-delhi-hc-refuses-relief-hospital-transfer-delhi/article71241233.ece",
+      "summary": "Gitanjali Angmo said the PIL was “wrongly interpreted” and that they will file another petition on July 20",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 17:43:09 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1dac40fd800ea774f8f5da08fa3351d2",
+      "title": "वीडियो बनाने की बजाय मदद करें; मगरमच्छ के हमले में बच्चे की मौत पर बोले CM योगी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/help-instead-of-making-videos-cm-yogi-speaks-on-child-death-in-crocodile-attack-201784461704295.html",
+      "summary": "मुख्यमंत्री योगी आदित्यनाथ ने 200 करोड़ रुपये से अधिक लागत से बने उत्तर प्रदेश राज्य आपदा प्रबंधन प्राधिकरण (एसडीएमए) के नए मुख्यालय और वेबसाइट का लोकार्पण किया। उन्होंने आपदा से निपटने में जनभागीदारी पर जोर दिया और बहराइच में मगरमच्छ के हमले में बच्चे की मौत पर दुख जताते हुए सतर्क रहने की अपील की।",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 17:36:39 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7c98475fa60f2f030949b4662222bb68",
+      "title": "Amit Shah inaugurates India's first immersive language museum in Kolkata",
+      "link": "https://www.thehindu.com/news/national/west-bengal/amit-shah-inaugurates-indias-first-immersive-language-museum-in-kolkata/article71241179.ece",
+      "summary": "India's first immersive language museum, also known as Shabdalok, celebrates the country's rich linguistic heritage and showcases the evolution of its oral and written traditions through interactive and technology-driven exhibits",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 17:34:31 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2910a67838fa4569e1f1f02bf3dfbc22",
+      "title": "Telangana Employees Health Scheme suffers birth pangs",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-employees-health-scheme-suffers-birth-pangs/article71240981.ece",
+      "summary": "Network hospitals demand financially viable packages while website is fraught with technical glitches",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 17:30:55 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "43db0c2cea8fdecdc38091e65789f413",
+      "title": "Delhi HC declines interim relief on plea by Wangchuk’s wife seeking transfer from Safdarjung Hospital",
+      "link": "https://www.thehindu.com/news/national/sonam-wangchuks-wife-gitanjali-angmo-moves-delhi-hc-to-shift-him-from-safdarjung-hospital/article71240711.ece",
+      "summary": "The Court accepted the Centre’s stand that shifting him to Safdarjung was a medical decision, not an arbitrary one",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 17:19:15 +0530",
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
@@ -38373,19 +38594,6 @@
       "timestamp": "Sun, 19 Jul 2026 17:18:07 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "a956829ae70d6c45f0b2cb4b5f1d75ed",
-      "title": "Question paper leaks a national crisis, says Kerala Minister; Congress to stage youth protest on August 1",
-      "link": "https://www.thehindu.com/news/national/kerala/question-paper-leaks-a-national-crisis-says-kerala-minister-congress-to-stage-youth-protest-on-august-1/article71240788.ece",
-      "summary": "Sunny Joseph alleges that Kerala too is witnessing similar irregularities in recruitment examinations, and criticises the Opposition for objecting to the State government’s decision to investigate alleged irregularities in PSC examinations",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 17:15:54 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -38425,19 +38633,6 @@
       "timestamp": "Sun, 19 Jul 2026 17:05:44 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7c98475fa60f2f030949b4662222bb68",
-      "title": "Amit Shah inaugurates India's first immersive language museum in Kolkata",
-      "link": "https://www.thehindu.com/news/national/west-bengal/amit-shah-inaugurates-indias-first-immersive-language-museum-in-kolkata/article71241179.ece",
-      "summary": "India's first immersive language museum, also known as Shabdalok, celebrates the country's rich linguistic heritage and showcases the evolution of its oral and written traditions through interactive and technology-driven exhibits",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 17:03:42 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -38547,19 +38742,6 @@
       "lang": "en"
     },
     {
-      "id": "43db0c2cea8fdecdc38091e65789f413",
-      "title": "Delhi HC declines interim relief on plea by Wangchuk’s wife seeking transfer from Safdarjung Hospital",
-      "link": "https://www.thehindu.com/news/national/sonam-wangchuks-wife-gitanjali-angmo-moves-delhi-hc-to-shift-him-from-safdarjung-hospital/article71240711.ece",
-      "summary": "The Court accepted the Centre’s stand that shifting him to Safdarjung was a medical decision, not an arbitrary one",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 16:04:04 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "d19bedaf0e6c05166a13b1531e4897cf",
       "title": "Rule changes on the cards to streamline land conversion, title deed distribution, says Kerala Revenue Minister",
       "link": "https://www.thehindu.com/news/national/kerala/rule-changes-on-the-cards-to-streamline-land-conversion-title-deed-distribution-says-kerala-revenue-minister/article71240999.ece",
@@ -38622,19 +38804,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "5a71810bb717546aec6e86f9847f43f5",
-      "title": "Jammu and Kashmir rains LIVE: 10 feared dead, houses damaged in flash floods in JK",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/amarnath-yatra-2026-live-updates-temporary-suspension-pahalgam-baltal-routes-jammu-and-kashmir-heavy-rains/article71240667.ece",
-      "summary": "Union Home Minister Amit Shah spoke to Jammu and Kashmir L-G Manoj Sinha and CM Omar Abdullah to take stock of the flood situation in Rajouri district.",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 15:34:17 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -38937,19 +39106,6 @@
       "lang": "en"
     },
     {
-      "id": "c53db045e50cc036a7348d5443ffaf9c",
-      "title": "Kerala Government declares July 20 an educational holiday on account of the Argentina-Spain FIFA World Cup final",
-      "link": "https://www.thehindu.com/news/national/kerala/kerala-government-declares-july-20-an-educational-holiday-on-account-of-the-argentina-spain-fifa-world-cup-final/article71240877.ece",
-      "summary": "Football fans and associations across Kerala greeted the government’s decision with much fanfare. Fans, residents’ associations and sports clubs have set up huge wall-sized LED screens in public squares and parks to broadcast the spirit of the match to the audience.",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 13:13:59 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "7ce44a9790ba33d55e11a2fe6b291537",
       "title": "नक्शा पास कराने से पहले फायर ब्रिगेड को देनी होगी जानकारी, NOC के बाद ही आगे बढ़ेगी कार्रवाई",
       "link": "https://www.livehindustan.com/uttar-pradesh/before-getting-the-map-approved-information-will-have-to-be-given-to-the-fire-brigade-action-will-proceed-only-after-noc-201784446062649.html",
@@ -39028,19 +39184,6 @@
       "lang": "en"
     },
     {
-      "id": "96fa8514ae6e672363a96a5da546f70d",
-      "title": "Police action forces end to tribal protest against MP’s Ken-Betwa project after 15 days",
-      "link": "https://www.thehindu.com/news/national/police-action-forces-end-to-tribal-protest-against-mps-ken-betwa-project-after-15-days/article71240801.ece",
-      "summary": "The police dismantled the protest site, on the banks of Barana river near Kupi village, and symbolic pyres used by the demonstrators",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 12:56:23 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "a6e352087e4bb78a2fbc844aa323410b",
       "title": "Mau News: चहारदीवारी फांदकर भागा संप्रेक्षण गृह में बंद किशोर, दो होमगार्ड सहित पांच के विरुद्ध प्राथमिकी दर्ज",
       "link": "https://www.amarujala.com/uttar-pradesh/mau/juvenile-escapes-from-observation-home-by-scaling-boundary-wall-police-fir-against-five-people-in-mau-2026-07-19",
@@ -39054,6 +39197,32 @@
       "lang": "en"
     },
     {
+      "id": "0109295f449ac365d9219cb625c66bf7",
+      "title": "'Pay me half my salary, transfer me':IAS officer who performed sit-ups writes to government following Jalaun slapping row",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/rinku-singh-rahi-ias-jalaun-slapping-controversy-letter-government-138484295.html",
+      "summary": "UP IAS Rinku Singh Rahi has once again refused to back down. He has written a six-page letter to the Principal Secretary, Appointment and Personnel Department, in which he has demanded that he be given responsibilities like his other batchmates. If he is not eligible for this, then he should be transferred to another state. Until the order comes, he should be given only half-day's salary, reads Rinku's letter. Rinku is currently posted as Joint Magistrate in Orai, Jalaun. Rinku had a dispute with BJP leader and Block Pramukh Ramraja Niranjan on 23 June. Rinku had gone to inspect the BJP leader's 'Betwa Ice and Cold Storage', where Rinku had slapped Niranjan's mobile and pushed him. Later, he was transferred from Jalaun to Orai. Now read what Rinku Singh wrote in the letter “It will not be possible to continue the job,” according to the letter shared on Facebook IAS Rinku Singh expressed his anguish by posting a letter on Facebook. He wrote, “Good governance and less work means less salary. A colleague compared my situation to a volcano. Just as continuous turmoil goes on inside a volcano, a huge amount of lava keeps forming, but only a small part of it is visible outside; similarly, my struggle against the mismanagement within the system continues mostly uninterrupted and only a small part of it comes out publicly.” “One reason for this is also that there are very few people within the system who accept (not even talking about walking) my walking on this path of struggle. Perhaps they have fear for themselves or their close ones that someone might come and stop the fulfilment of their greed from the government system. Or there is an ego that says they are no less honest and dutiful than anyone else. Whereas most people outside the system will either not understand these internal administrative struggles, or will get confused, or will consider it a waste of time. Therefore, only as much is shared publicly as is necessary and appropriate in the public interest,” he said. “In this context, at the persistent request of well-wishers, I am sharing one of my letters. Perhaps this letter may provide an answer to the question - what exactly do I want to do? Will the common people benefit from my struggle/fight? And why do I face similar circumstances and problems at almost every place? Will I be able to deliver any output in my lifetime (whereas the reason for zero output is that no one believes that this can happen. However, if there is even a discussion on good governance, a lot of output will come.... if some work gets done, then politics itself will improve).” “To those colleagues or senior persons who advise me from time to time that why don't I compromise like others and get the work done, my humble request to them is that please accept one thing about me - if there is no good governance (basic governance), then it will not be possible for me either to do this job in a normal manner.” Big statements by Rinku Singh Rahi... 1- I will not take salary without work “While holding the current post of SDM (Judicial), I get only about four hours of work in a day. When I am not able to work to my full capacity, the government can give half salary if it wants. I should be posted at a place where I can work according to the rules. If there is no such place in Uttar Pradesh, then posting them in another state should also be considered.” He called the DM's public hearing programme a show and said that it hurts his inner soul. He said that spending time with the DM in public hearing is like deceiving oneself. 2- Salary continued without responsibility In the letter, Rinku Singh mentioned the incident that occurred in Shahjahanpur, in which a video of him doing sit-ups in front of lawyers had surfaced. He wrote, “After this incident, he was kept attached to the Revenue Council for about a year, due to which he continued to receive salary without any responsibility.” He said that this was against his moral principles. Later, at his request, he was posted in Jalaun. 3- Created WhatsApp groups for good governance Rahi claimed in the letter that to establish good governance in Jalaun, he created separate WhatsApp groups for each gram panchayat and locality. Officials, employees, and common citizens were added to these groups so that transparency and public participation in administrative work could be increased. He said that through these groups, social audit of the actual presence and work of gram panchayat secretaries, lekhpals, sanitation workers, and other field employees became possible. This brought to light corruption and irregularities in many cases, and common people also submitted complaints and suggestions with evidence. 4- Accused of not sharing important information Rinku Singh also alleged in the letter that despite repeated requests, much important administrative information was not made available in these WhatsApp groups. These include daily attendance of Lekhpals, Gram Panchayat Secretaries and other field staff, pending work and information related to daily tasks performed. He says that making such information public could have further strengthened transparency and accountability in administration. 5- ‘Not being allowed to work’ Rinku Singh alleged in the letter that during action on cases of illegal occupation and encroachment in Jalaun tehsil, he faced obstacles at administrative and other levels. He has mentioned Cabinet Minister Swatantra Dev Singh and Jalaun BJP MLA Gauri Shankar Verma in his letter. In the letter, he has alleged that while serving as SDM in Jalaun, he was given instructions not to take action in some cases of illegal occupation and encroachment. He also wrote that impartial investigation of cases linked to some influential people was affected. Actually, on June 22, a fire broke out in a building in Lucknow, in which 15 young people died. After this incident, while serving as SDM Jalaun, Rinku Singh Rahi had inspected Ramraja Niranjan's cold storage. During a 10-minute fire mock drill, no fire extinguishing arrangements could be initiated in the cold storage in any way, and a report was sought on this. Documents related to cold storage operations were also not available. Rahi claims that after this entire sequence of events, even before the investigation committee's report came, he was transferred to the post of SDM (Judicial). Know who Rinku Singh Rahi is... Resident of Hathras, first became PCS, then IAS Rinku Singh Rahi was born on 20 May 1982, in Hathras, in a Dalit family. He is a resident of village Uswa in Sasni police station area. The elder of two brothers, Rinku's father, Saudan Singh Rahi, used to run a flour mill to support the family. Due to the weak financial condition of the family, Rinku studied in a government school. After passing 12th with good marks, he received a scholarship. With its help, he completed B.Tech from Tata Institute in Jamshedpur. In 2004, Rinku Singh passed the PCS examination. During his job, he appeared for the UPSC Civil Services examination through the disabled quota. In 2021, he secured 683rd rank and became an IAS officer. In the family, his wife, Sulekha, has been a yoga teacher. He has a 10-year-old son named Dhruv Rahi. His uncle Raghuvir Singh Rahi was the district president during the BSP regime. 7 bullets were fired for exposing corruption After becoming a PCS officer, Rinku Singh's first posting in 2008 was as District Social Welfare Officer in Muzaffarnagar. There, he had exposed corruption occurring in scholarships and pensions. Rinku had told Dainik Bhaskar, “In the investigation, I found out that ₹100 crore had been embezzled. Behind this, apart from a political party, there was an entire gang.” At that time, there was a BSP government. On March 26, 2009, Rinku was playing badminton with a colleague. Just then, two attackers opened rapid fire on them. Rinku Rahi was hit by seven bullets. Of these, two hit his face. His jaw came out, and his face was disfigured. Additionally, one ear was damaged, and he lost vision in one eye. Stayed in hospital for a month, staged a sit-in protest After this attack, Rinku was taken to a Higher Centre in Meerut. He remained admitted in Subharti Medical College, Meerut for about a month. He returned after recovering from the operation. After this, Rinku had sought some information from the department under RTI to expose the scam. However, even after a year, he was not given the information. After this, on March 26, 2012, Rinku Rahi started a hunger strike outside the Lucknow Directorate. The police picked up Rinku Rahi from there and sent him to a Mental Hospital in Lucknow.",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 12:53:42 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "74ad62f8442d440e9b38ec631a64054e",
+      "title": "Tate brothers arrested in US as further UK charges take total to 59",
+      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 12:53:20 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0bd0b0be685bcd75dffe769bf65f2787",
       "title": "U.S. military says two troops dead, one missing after Iran attacks base in Jordan",
       "link": "https://www.thehindu.com/news/international/us-military-says-two-troops-dead-one-missing-after-iran-attacks-base-in-jordan/article71240883.ece",
@@ -39062,19 +39231,6 @@
       "timestamp": "Sun, 19 Jul 2026 12:51:07 +0530",
       "section": "International",
       "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "0d21bc351554646368686594e8e593de",
-      "title": "Rahul, Kharge write to PM; seek probe into theft of donations at Ayodhya Ram temple",
-      "link": "https://www.thehindu.com/news/national/rahul-kharge-write-to-pm-seek-probe-into-theft-of-donations-at-ayodhya-ram-temple/article71240735.ece",
-      "summary": "Congress leaders demand that the findings and the Trust’s accounts should be made public so that every devotee knows how their offerings have been utilised",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 12:44:36 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -39103,6 +39259,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "50b0f0d235dcfe7b29884e2fa80f6dd4",
+      "title": "Indian court rejects bid to release hunger-striking activist from hospital",
+      "link": "https://www.aljazeera.com/news/2026/7/19/indian-court-rejects-bid-to-release-hunger-striking-activist-from-hospital?traffic_source=rss",
+      "summary": "The wife of 59-year-old Sonam Wangchuk says his enforced hospitalisation is 'illegal detention'.",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 12:38:24 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -39167,6 +39336,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8fb629ddc720d35ca0cc057f02ec361b",
+      "title": "Spain or Argentina, who will win the FIFA World Cup? Ex-player predictions",
+      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-argentina-fifa-world-cup-who-will-win-prediction-ex-players?traffic_source=rss",
+      "summary": "Former player predictions as the European and South American champions clash in a World Cup final for the first time.",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 12:29:57 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -39418,6 +39600,19 @@
       "lang": "en"
     },
     {
+      "id": "35b5f1309da7e864f4112a548e7c86f0",
+      "title": "India’s cockroach politics is no joke",
+      "link": "https://www.aljazeera.com/opinions/2026/7/19/indias-cockroach-politics-is-no-joke?traffic_source=rss",
+      "summary": "The Cockroach Janta Party has crept onto the political scene at a time when Indian democracy is struggling.",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 11:57:47 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "677624da1eb998645854ceef2e22de00",
       "title": "Jaunpur News: कक्षा में छात्र के बंद रह जाने पर शिक्षिका निलंबित, बीएसए ने बैठाई जांच; लापरवाही का आरोप",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/jaunpur-teacher-suspended-after-student-left-locked-in-classroom-bsa-orders-inquiry-negligence-alleged-2026-07-19",
@@ -39428,6 +39623,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "11496eba1f4284d9090231e1f7b6be58",
+      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 11:57:10 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -39821,19 +40029,6 @@
       "lang": "en"
     },
     {
-      "id": "11496eba1f4284d9090231e1f7b6be58",
-      "title": "US and Iran exchange strikes after two US soldiers killed in Jordan",
-      "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 11:10:40 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "d12cec7737457683fef46ecec7fb1fa2",
       "title": "News in Frames: The weight of a nation’s food",
       "link": "https://www.thehindu.com/news/national/news-in-frames-the-weight-of-a-nations-food/article71240654.ece",
@@ -39896,19 +40091,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "74ad62f8442d440e9b38ec631a64054e",
-      "title": "Tate brothers arrested in US as further UK charges take total to 59",
-      "link": "https://www.bbc.co.uk/news/articles/cwymly9yd33o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Crown Prosecution Service says it has requested their extradition from the US, while their lawyer says they are innocent.",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 11:04:50 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -40224,6 +40406,19 @@
       "lang": "en"
     },
     {
+      "id": "97e0169570f81408a9720c7d047066f0",
+      "title": "Messi on the brink of history - will it be his last World Cup game?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cql1xxxpndlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Argentina captain Lionel Messi will play his 34th World Cup match in Sunday's final, but will it be his last appearance?",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 09:55:22 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d33b250b27b139a19ed7160364132702",
       "title": "तोता हमारे पास है! 50 हजार के लिए 700 लोगों ने किया फोन, तलाश में खर्च हुए वकील के एक लाख रुपये",
       "link": "https://www.livehindustan.com/uttar-pradesh/700-people-called-for-50000-rupees-lawyer-spent-1-lakh-to-find-parrot-201784434599509.html",
@@ -40290,9 +40485,9 @@
     },
     {
       "id": "bcb8d094f03ea716d2b821b7b6c3ba6d",
-      "title": "Block chiefs become administrators in UP:Government bars major decisions, pradhan appointments still pending in High Court",
+      "title": "Block chiefs become administrators in UP:Government bars major decisions, pradhan appointments still pending in court",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/lucknow/news/up-government-appoints-block-chiefs-administrators-yogi-adityanath-138482806.html",
-      "summary": "The Uttar Pradesh government has, for the first time, appointed all 826 block chiefs as administrators after doing the same for gram pradhans and district panchayat chairpersons. The Yogi Adityanath government issued the order on Sunday afternoon, marking the first such move in the state's history. According to the Panchayati Raj Department, the first meeting of the current block chiefs was held on July 20, 2021, and their five-year tenure ends on Sunday. With the new order, they will continue as administrators and will be allowed to handle only routine administrative work. They will not be authorised to take any policy decisions independently. Any proposal involving policy matters will have to be sent to the state government through the District Magistrate (DM), with the final approval resting with the government. Sources said the government will soon issue detailed guidelines clarifying the powers of block chiefs as administrators, including which works they can carry out independently and which will require prior approval from the District Magistrate. High Court had questioned appointment of gram pradhans as administrators On June 26, the Allahabad High Court expressed strong displeasure over the delay in holding panchayat elections while hearing a petition challenging the appointment of gram pradhans as administrators. A bench led by Justice Siddharth Nandan asked the state government how it had appointed gram pradhans as administrators, observing that the move appeared to violate an earlier division bench order and could amount to contempt of court. The High Court said gram pradhans could not be allowed to continue as administrators. It noted that the government orders dated May 25 and May 26, 2026, which sought to extend the tenure of gram pradhans, had already been declared unconstitutional. The court also termed the postponement of panchayat elections unconstitutional and directed the government to file an affidavit along with the OBC reservation report and a timeline for conducting the elections. However, it did not grant any interim stay. The petition was filed by Arvind Rathore of Saharanpur. The court fixed the next hearing for July 13 and warned that if the government failed to provide a satisfactory response by then, the concerned official would have to appear in person. The story is being updated",
+      "summary": "The Uttar Pradesh government has, for the first time, appointed all 826 block chiefs as administrators after doing the same for gram pradhans and district panchayat chairpersons. The Yogi Adityanath government issued the order on Sunday afternoon, marking the first such move in the state's history. According to the Panchayati Raj Department, the first meeting of the current block chiefs was held on July 20, 2021, and their five-year tenure ends on Sunday. With the new order, they will continue as administrators and will be allowed to handle only routine administrative work. They will not be authorised to take any policy decisions independently. Any proposal involving policy matters will have to be sent to the state government through the District Magistrate (DM), with the final approval resting with the government. Sources said the government will soon issue detailed guidelines clarifying the powers of block chiefs as administrators, including which works they can carry out independently and which will require prior approval from the District Magistrate. High Court had questioned appointment of gram pradhans as administrators On June 26, the Allahabad High Court expressed strong displeasure over the delay in holding panchayat elections while hearing a petition challenging the appointment of gram pradhans as administrators. A bench led by Justice Siddharth Nandan asked the state government how it had appointed gram pradhans as administrators, observing that the move appeared to violate an earlier division bench order and could amount to contempt of court. The High Court said gram pradhans could not be allowed to continue as administrators. It noted that the government orders dated May 25 and May 26, 2026, which sought to extend the tenure of gram pradhans, had already been declared unconstitutional. The court also termed the postponement of panchayat elections unconstitutional and directed the government to file an affidavit along with the OBC reservation report and a timeline for conducting the elections. However, it did not grant any interim stay. The petition was filed by Arvind Rathore of Saharanpur. The court fixed the next hearing for July 13 and warned that if the government failed to provide a satisfactory response by then, the concerned official would have to appear in person.",
       "date": "2026-07-19",
       "timestamp": "Sun, 19 Jul 2026 09:43:14 +0000",
       "section": "UP_Focus",
@@ -40459,9 +40654,9 @@
     },
     {
       "id": "ad73dbcbd3886432f9c7b5dcb1d69308",
-      "title": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
+      "title": "Seven more people rescued after boat sinks in Indonesia, 18 still missing",
       "link": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
-      "summary": "The survivors were found clinging to a fish trap and floating debris at sea three days after the boat sank.",
+      "summary": "Some survivors were found on an island, others were clinging to floating debris at sea days after the boat sank.",
       "date": "2026-07-19",
       "timestamp": "Sun, 19 Jul 2026 09:08:55 +0000",
       "section": "International",
@@ -40589,7 +40784,7 @@
     },
     {
       "id": "abc3be8d2d95ca5a09d153cc354db78b",
-      "title": "Lucknow school van driver arrested for rape:Sobbing minor identifies accuser, recalls abuse",
+      "title": "Lucknow school van driver arrested for rape:Sobbing minor identifies accused, recalls abuse",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/lucknow/news/lucknow-school-van-driver-arrested-rape-case-minor-victim-138482390.html",
       "summary": "A four-year-old girl studying in nursery was raped by a school van driver in Lucknow. On Saturday, the girl fell ill. When her parents took her to the hospital, the ghastly crime was revealed. When the mother asked the child, she narrated her ordeal. Later, the family reached the police station with the girl, and the police immediately caught the accused and brought him to the station. Upon seeing him, the girl became frightened and started crying. Pointing towards the accused, she said, “Uncle did bad things.” The police registered a case and arrested the accused, Girish Mishra. The incident is from a private school in the Talkatora area of the capital. The accused is a resident of Unnao The girl's parents live in Rajajipuram. They have jobs in the private sector. The mother said, “A van was arranged to take our daughter to and from school. The van was driven by Girish Mishra from Unnao. When the daughter came home from school on Friday, she was frightened. Her health was also not well.” “At that time, I did not pay much attention. On Saturday, the girl's health deteriorated further. She had a fever along with stomach pain. I took my daughter to the hospital along with my husband. The doctors' examination revealed that the girl had been raped. Hearing this, we were shocked. When asked, the daughter named the van driver,” she said. Accused confesses to the crime The accused has confessed to his crime during police interrogation. Girish Mishra said he did wrong acts with the girl while making children sit and get down from the van. He has been working as a driver for 20 years. He has driven vehicles for different institutions at different places. Inspector Kuldeep said- A case has been registered under POCSO Act and rape sections based on the victim's mother's complaint. The accused Girish Mishra has been locked up in custody. It is being investigated whether he has committed any wrongdoing with any other child. Children who travel in his van are being questioned. School staff will also be interrogated. The girl has been admitted to the hospital for treatment.",
       "date": "2026-07-19",
@@ -40952,6 +41147,123 @@
       "lang": "en"
     },
     {
+      "id": "40a537df6482694adcefe92a10e73c88",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 जुलाई के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-19",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:30:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "35ec671611bc63eb27c308277924e341",
+      "title": "Pilibhit News: संदिग्ध हालात में युवक की मौत, पत्नी पर जहर देकर हत्या का आरोप, जांच में जुटी पुलिस",
+      "link": "https://www.amarujala.com/uttar-pradesh/pilibhit/man-dies-under-suspicious-circumstances-wife-accused-of-murder-in-pilibhit-2026-07-19",
+      "summary": "बीसलपुर नगर के एकता नगर कॉलोनी का मामला, पत्नी के कथित प्रेमी को पुलिस ने हिरासत में लिया",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:28:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a4b6db35b0e9078c96b2d29def98f4b9",
+      "title": "Noida News: सर्वोदय ममता फाउंडेशन ने लगाए 100 पौधे",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/sarvodaya-mamata-foundation-planted-100-saplings-grnoida-news-c-23-1-lko1064-100607-2026-07-19",
+      "summary": "सर्वोदय ममता फाउंडेशन ने लगाए 100 पौधे",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:27:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "56b0b1cabb026fae11ff07565c246816",
+      "title": "Banda: भीखर देवी मंदिर के गर्भगृह से अष्टधातु की देवी प्रतिमा चोरी, श्रद्धालुओं में आक्रोश",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/banda-idol-of-the-goddess-made-of-ashtadhatu-stolen-from-temple-sanctum-2026-07-19",
+      "summary": "थानाक्षेत्र जसपुरा के गांव रामपुर स्थित भीखर देवी मंदिर से चोर अष्टधातु की प्राचीन प्रतिमा चोरी कर ले गए। रविवार सुबह नियमित पूजा-अर्चना के लिए पहुंचे पुजारी को गर्भगृह से प्रतिमा गायब मिली। इसकी जानकारी पर गांव में हड़कंप मच गया।",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:25:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "4cc910fd3dcb5a03612117554e092016",
+      "title": "Noida News: फलदार व औषधि पौधों से निखरेगा ग्रेनो वेेस्ट",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/greater-noida-west-to-be-enhanced-with-fruit-bearing-and-medicinal-plants-grnoida-news-c-23-1-lko1064-100612-2026-07-19",
+      "summary": "फलदार व औषधि पौधों से निखरेगा ग्रेनो वेेस्ट",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:23:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "9a5d29d5564eca7ec36a32e542befd7b",
+      "title": "Aligarh: शॉर्ट सर्किट से स्वीट्स हाउस में लगी भीषण आग, लाखों का नुकसान, ऊपरी मंजिल पर सो रहे थे आठ कर्मचारी",
+      "link": "https://www.amarujala.com/uttar-pradesh/aligarh/fire-broke-out-in-sweets-house-due-to-short-circuit-2026-07-19",
+      "summary": "टप्पल कस्बे के मुख्य मार्ग पर स्थित अशोक स्वीट्स हाउस में शनिवार देर रात दो बजे हुए शॉर्ट सर्किट से भीषण आग लग गई। जिससे काउंटर, फर्नीचर, फ्रिज सहित लाखों रुपये का सामान जल गया।",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:23:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "196d508934cc292fc84b47ee314de4e8",
+      "title": "Noida News: 4 फीसदी भूखंड की मांग को लेकर आज होगा किसानों का अनशन",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/dfgfsd-grnoida-news-c-23-1-lko1064-100602-2026-07-19",
+      "summary": "4 फीसदी भूखंड की मांग को लेकर आज होगा किसानों का अनशन",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:22:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "6e32ff58485e8e32ede772d3b881a29b",
+      "title": "Noida News: कार का शीशा तोड़कर लैपटॉप चोरी",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/laptop-stolen-after-breaking-car-window-noida-news-c-1-noi1095-4518410-2026-07-19",
+      "summary": "कार का शीशा तोड़कर लैपटॉप चोरी",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:21:53 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "c46ff6642d6fd3928c4a16abd1905b14",
+      "title": "अपनों ने ही लूटी अस्मत: बरामदे में सो रही महिला से जेठ ने किया दुष्कर्म, विरोध करने पर जान की दी धमकी",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/fir-registered-against-brother-in-law-for-allegedly-misdeeds-with-woman-2026-07-19",
+      "summary": "कायमगंज कोतवाली क्षेत्र के एक गांव की महिला ने अपने जेठ पर तमंचे से धमकाकर दुष्कर्म करने का आरोप लगाया। महिला ने कोर्ट के आदेश पर जेठ के खिलाफ रिपोर्ट दर्ज कराई है।",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:20:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "61216418899d5313d1eca923aa9ea056",
       "title": "'DM sir, my uncle locked our house, please open it':Child reaches Lakhimpur tehsil alone, says SHO acts only for commission",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/lakhimpur-kheri-child-dm-public-hearing-house-occupation-complaint-138481576.html",
@@ -40962,6 +41274,32 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "3d000eecb56aadb0a30348e7353e5f42",
+      "title": "'NCPI को चुनाव आयोग से मिली मान्यता': सुदीप बंद्योपाध्याय का विपक्ष पर निशाना, सर्वदलीय बैठक से किया था वॉकआउट",
+      "link": "https://www.amarujala.com/india-news/sudip-bandyopadhyay-hits-back-opposition-walkout-all-party-meeting-tmc-rebel-mps-ncpi-monsoon-session-ec-2026-07-19",
+      "summary": "'NCPI को चुनाव आयोग से मिली मान्यता': सुदीप बंद्योपाध्याय का विपक्ष पर निशाना, सर्वदलीय बैठक से किया था वॉकआउट Sudip Bandyopadhyay hits back opposition-walkout-all-party-meeting-tmc-rebel-mps-ncpi-monsoon-session-EC",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:15:35 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b42f3e5c6d1281de1ef4c1d9b18a4a93",
+      "title": "लखनऊ में बॉलीवुड एंड अवध पर आयोजित कार्यक्रम में की गई चर्चा",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-blvada-eda-avathha-para-aayajata-karayakarama-ma-ka-gaii-caraca-2026-07-19",
+      "summary": "लखनऊ में बॉलीवुड एंड अवध पर आयोजित कार्यक्रम में की गई चर्चा",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:15:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -40978,6 +41316,19 @@
       "lang": "en"
     },
     {
+      "id": "536054d641e0f77047c6b5a98fd20289",
+      "title": "लखनऊ में नशे की लत लगवाकर युवकों से कराते चोरी, पुलिस ने गैंग का किया पर्दाफाश",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-nasha-ka-lta-lgavakara-yavaka-sa-karata-cara-palsa-na-gaga-ka-kaya-parathafasha-2026-07-19",
+      "summary": "लखनऊ में नशे की लत लगवाकर युवकों से कराते चोरी, पुलिस ने गैंग का किया पर्दाफाश",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:13:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "7b0b437dff4fcb22de85f262c39a1b43",
       "title": "आज के दिन: राष्ट्रपति मुर्मू की तीन देशों की यात्रा का आगाज, फीफा विश्व कप फाइनल में अर्जेंटीना बनाम स्पेन",
       "link": "https://www.amarujala.com/india-news/aaj-ke-din-19-july-president-droupadi-murmu-fifa-world-cup-final-india-vs-england-3rd-odi-and-more-news-update-2026-07-19",
@@ -40989,6 +41340,58 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "1a787ccac747dbb909b58765f6f0a62e",
+      "title": "यूपी में मानसून अपने रंग में, 20 जुलाई को 60 जिलों में भारी बारिश की चेतावनी; जानें अपडेट",
+      "link": "https://www.amarujala.com/video/lucknow/video-yapa-ma-manasana-apana-raga-ma-20-jalii-ka-60-jal-ma-bhara-brasha-ka-catavana-jana-apadata-2026-07-19",
+      "summary": "यूपी में मानसून अपने रंग में, 20 जुलाई को 60 जिलों में भारी बारिश की चेतावनी; जानें अपडेट",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:08:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "d47fc4d695f5bc59e0aff9f1b5d7a89e",
+      "title": "Noida News: ससुराल में शराब पिलाकर युवक को पीटा",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/young-man-beaten-after-being-made-to-drink-alcohol-noida-news-c-491-1-rgh1002-8508-2026-07-19",
+      "summary": "ससुराल में शराब पिलाकर युवक को पीटा",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:05:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "9072a0fda5a7f7e72dfc33d1dee8034a",
+      "title": "अयोध्या में राम मंदिर में साधु-संतों को प्रतिनिधित्व दिए जाने की मांग तेज",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-rama-mathara-ma-sathha-sata-ka-paratanathhatava-thae-jana-ka-maga-taja-2026-07-19",
+      "summary": "अयोध्या में राम मंदिर में साधु-संतों को प्रतिनिधित्व दिए जाने की मांग तेज",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:05:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "bfa096c12672f44bdfe346766efdc119",
+      "title": "UP Big News: यूपी में ब्लॉक प्रमुख भी बने प्रशासक, नीट में चयन न होने पर छात्रा ने खाया जहर; नदी में समाया घर",
+      "link": "https://www.amarujala.com/photo-gallery/lucknow/block-pramukhs-appointed-as-administrators-in-up-student-consumes-poison-after-failing-to-qualify-for-neet-2026-07-19",
+      "summary": "हम आपके लिए उत्तर प्रदेश से जुड़ी दिनभर की सभी प्रमुख और अहम खबरों का संक्षिप्त, लेकिन प्रभावी सार लेकर आए हैं।",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 06:00:40 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
     },
     {
       "id": "da1b5a49ba8aa2d94d84d0f9146d7f25",
@@ -41043,6 +41446,19 @@
       "lang": "en"
     },
     {
+      "id": "2ec39632b7b89f0ca979635087a633a2",
+      "title": "अस्पताल में मारपीट का मामला: 14 दिन की न्यायिक हिरासत में शिवसेना पार्षद रमेश म्हात्रे, कोर्ट क्या दिया आदेश?",
+      "link": "https://www.amarujala.com/india-news/assault-case-shiv-sena-corporator-ramesh-mhatre-has-been-remanded-to-judicial-custody-for-14-days-2026-07-19",
+      "summary": "Assault Case: Shiv Sena corporator Ramesh Mhatre has been remanded to judicial custody for 14 days - अस्पताल में मारपीट का मामला: 14 दिन की न्यायिक हिरासत में शिवसेना पार्षद रमेश म्हात्रे, कोर्ट क्या दिया आदेश?",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 05:49:30 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "70a1ff51966dfd96a1ebb990de096aeb",
       "title": "Top News: फीफा विश्वकप में इंग्लैंड को कांस्य; ईरान से बौखलाए अमेरिका का पलटवार, लॉर्ड्स में भारत-इंग्लैंड ODI",
       "link": "https://www.amarujala.com/india-news/top-news-19-july-2026-us-air-strikes-iran-nta-omr-sheet-ram-mandir-theft-case-2026-07-19",
@@ -41054,6 +41470,32 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "c9700ec202ed3f313e6fb437c1c6f20d",
+      "title": "Noida News: अधूरे नाले ने बढ़ाई मुसीबत, सड़ते पानी से घंघौला-मायंचा बेहाल",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/dfsgf-grnoida-news-c-23-1-lko1064-100606-2026-07-19",
+      "summary": "अधूरे नाले ने बढ़ाई मुसीबत, सड़ते पानी से घंघौला-मायंचा बेहाल",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 05:47:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "84cca8e2e8068c805eb3b9a46b227e38",
+      "title": "लखनऊ में दो तस्कर गिरफ्तार, 20 किग्रा गांजा बरामद",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-tha-tasakara-garafatara-20-kagara-gaja-bramatha-2026-07-19",
+      "summary": "लखनऊ में दो तस्कर गिरफ्तार, 20 किग्रा गांजा बरामद",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 05:47:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
     },
     {
       "id": "d6ed7f8e571dc88488d4113bdf0685bb",
@@ -41082,6 +41524,19 @@
       "lang": "en"
     },
     {
+      "id": "802ac55192408522b8803edce0bc1c14",
+      "title": "सपना टूटा तो जिंदगी की डोर भी तोड़ी: नीट में चयन न होने से आहत छात्रा ने खाया जहर, इलाज के दौरान मौत",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/students-stressed-over-not-qualifying-for-neet-consume-poison-days-during-treatment-2026-07-19",
+      "summary": "डॉक्टर बनने का सपना संजोए हमीरपुर जिले के राठ कस्बे की छात्रा की उपचार के दौरान मौत हो गई। परिजनों के अनुसार छात्रा राष्ट्रीय पात्रता सह प्रवेश परीक्षा (नीट) में चयन न होने के बाद मानसिक तनाव में थी।",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 05:37:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "40416b67741856c3f6f45b69a427b457",
       "title": "नाइजीरियन ठग रुपए ऐंठने के साथ ही फैला रहा था नशा, 10 करोड़ की ड्रग्स के साथ UP STF ने पकड़ा",
       "link": "https://www.livehindustan.com/uttar-pradesh/nigerian-thug-was-extorting-money-and-spreading-drugs-up-stf-caught-him-with-drugs-worth-rs-10-crore-201784418977443.html",
@@ -41106,6 +41561,45 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "c86825af77f4d4e5e55674c55ff1d848",
+      "title": "Bengal: 'भारतीय चेतना का वैश्विक प्रकाश स्तंभ रहा है बंगाल', शब्द संग्रहालय के उद्घाटन पर बोले अमित शाह",
+      "link": "https://www.amarujala.com/india-news/amit-shah-inaugurates-museum-of-word-kolkata-bengal-indian-consciousness-2026-07-19",
+      "summary": "Bengal: 'भारतीय चेतना का वैश्विक प्रकाश स्तंभ रहा है बंगाल', शब्द संग्रहालय के उद्घाटन पर बोले अमित शाह amit-shah-inaugurates-museum-of-word-kolkata-bengal-indian-consciousness",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 05:26:10 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3f34cbbe1377257377e0058a3fcccbcb",
+      "title": "Nagaland Rain Havoc: नगालैंड में भारी बारिश से कई जगह भूस्खलन, आठ लोगों की मौत, 12 घायल",
+      "link": "https://www.amarujala.com/india-news/nagaland-at-least-8-people-have-died-and-12-others-injured-following-massive-landslide-2026-07-19",
+      "summary": "Nagaland At least 8 people have died and 12 others injured following massive landslide- Nagaland Rain Havoc: नगालैंड में भारी बारिश से कई जगह भूस्खलन, आठ लोगों की मौत, 12 घायल",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 05:22:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "666665c205d7187d30802dbae9d6bc92",
+      "title": "Aligarh: महिला लापता, पति ने दी किसी के साथ जाने की तहरीर, भाई ने लगाया हत्या कर शव छिपाने का आरोप",
+      "link": "https://www.amarujala.com/uttar-pradesh/aligarh/woman-missing-from-home-2026-07-19",
+      "summary": "एक महिला घर से लापता हो गई। पति ने पत्नी के किसी के साथ चले जाने की तहरीर दी है, वहीं महिला के भाई ने जीजा पर हत्या कर शव को छिपाने की रिपोर्ट दर्ज कराई है।",
+      "date": "2026-07-19",
+      "timestamp": "Sun, 19 Jul 2026 05:20:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
     },
     {
       "id": "ca30c8db587586a0971bff5980cdc4af",
@@ -41209,32 +41703,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "40a537df6482694adcefe92a10e73c88",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 जुलाई के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-19",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 05:00:47 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "802ac55192408522b8803edce0bc1c14",
-      "title": "सपना टूटा तो जिंदगी की डोर भी तोड़ी: नीट में चयन न होने से आहत छात्रा ने खाया जहर, इलाज के दौरान मौत",
-      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/students-stressed-over-not-qualifying-for-neet-consume-poison-days-during-treatment-2026-07-19",
-      "summary": "डॉक्टर बनने का सपना संजोए हमीरपुर जिले के राठ कस्बे की छात्रा की उपचार के दौरान मौत हो गई। परिजनों के अनुसार छात्रा राष्ट्रीय पात्रता सह प्रवेश परीक्षा (नीट) में चयन न होने के बाद मानसिक तनाव में थी।",
-      "date": "2026-07-19",
-      "timestamp": "Sun, 19 Jul 2026 04:54:47 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -43763,7 +44231,7 @@
       "id": "87fdd57e8ff3609e65f69dce97979909",
       "title": "UP: पत्नी से डरे पति का हाथरस से आया हैरान करने वाला मामला, आठ दिन से घर में है बंद, बचाने की लगा रहा गुहार",
       "link": "https://www.amarujala.com/uttar-pradesh/hathras/story-of-a-husband-afraid-of-his-wife-2026-07-19",
-      "summary": "हाथरस शहर के मोहल्ला बालापट्टी से हैरान कर देना वाला मामला सामने आया है। शिक्षक रहे अशोक कुमार पिछले आठ दिनों से अपने कमरे में बंद है।",
+      "summary": "पत्नी के खौफ के कारण एक बुजुर्ग शिक्षक आठ दिन से अपने ही घर में बंद है। रोटी व पानी के लिए परेशान की मदद करने में परिवार व आस-पड़ोसी डर रहे हैं।",
       "date": "2026-07-19",
       "timestamp": "Sun, 19 Jul 2026 01:29:16 +0530",
       "section": "UP_Focus",
@@ -55182,19 +55650,6 @@
       "timestamp": "Sat, 18 Jul 2026 22:31:23 +0530",
       "section": "International",
       "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "4f29b9f152570dad165fbbe90ea24c90",
-      "title": "State-run Institute of Nephro-Urology performs 10 kidney transplants in 17 days, highest monthly tally so far",
-      "link": "https://www.thehindu.com/news/national/karnataka/state-run-institute-of-nephro-urology-performs-10-kidney-transplants-in-17-days-highest-monthly-tally-so-far/article71238526.ece",
-      "summary": "",
-      "date": "2026-07-18",
-      "timestamp": "Sat, 18 Jul 2026 22:28:39 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -89338,6 +89793,58 @@
       "lang": "en"
     },
     {
+      "id": "d5c467359d5a67dbaa03a4d24c39ae6c",
+      "title": "After 38 years, DNA test reveals two US men were switched at birth; families sue North Dakota hospital",
+      "link": "https://timesofindia.indiatimes.com/world/us/after-38-years-dna-test-reveals-two-us-men-were-switched-at-birth-families-sue-north-dakota-hospital/articleshow/132494542.cms",
+      "summary": "",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T18:17:59+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "32963bfef5e6272ad8a30813b09c1d35",
+      "title": "Archaeologists unearthed a rare 2,600-year-old Assyrian stele, a decade after ISIS damaged the city",
+      "link": "https://timesofindia.indiatimes.com/science/archaeologists-in-iraq-unearthed-a-rare-2600-year-old-assyrian-stele-of-king-ashurbanipal-at-ninevehs-shamash-gate-nearly-a-decade-after-isis-damaged-the-ancient-city/articleshow/132493986.cms",
+      "summary": "A stunning 2,600-year-old Assyrian monument has surfaced in Nineveh, Iraq, celebrating the architectural feats of King Ashurbanipal. Unearthed amidst restoration efforts at the Shamash Gate, this stone artifact reveals essential details about Assyrian urban development. This significant find stands as a testament to the resilience of cultural identities, aiding in reconciling historical disruptions and preservation.",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T18:15:35+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "47b6e0980428881d4cb916a43bcf751c",
+      "title": "'NCPI recognised by EC': Sudip Bandyopadhyay hits back after opposition's walkout over TMC rebels' presence",
+      "link": "https://timesofindia.indiatimes.com/india/ncpi-recognised-by-ec-sudip-bandyopadhyay-hits-back-after-oppositions-walkout-over-tmc-rebels-presence/articleshow/132494263.cms",
+      "summary": "The Nationalist Citizens Party of India attended an all-party meeting ahead of the Monsoon Session. Opposition parties staged a symbolic walkout to protest the invitation extended to NCPI leaders. NCPI leaders defended their party's recognition by the Election Commission and its MPs' presence. They stated that the Lok Sabha Speaker would clarify seating arrangements and disqualification matters. The government defended inviting the NCPI as they had requested recognition.",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T17:54:38+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0fc6112d9b5e2e5fbf48a79103ace758",
+      "title": "Evening newswrap: HC rejects wife's plea to move Sonam Wangchuk to private hospital; Spain's largest wildfire burns 16,000 hectares, and more",
+      "link": "https://timesofindia.indiatimes.com/india/evening-newswrap-hc-rejects-wifes-plea-to-move-sonam-wangchuk-to-private-hospital-spains-largest-wildfire-burns-16000-hectares-and-more/articleshow/132493961.cms",
+      "summary": "",
+      "date": "2026-07-19",
+      "timestamp": "2026-07-19T17:40:50+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0de5c7eb73b36d6c8ae6b6dc5832ddee",
       "title": "Who will care for the child? Why many women remain outside the workforce",
       "link": "https://timesofindia.indiatimes.com/india/who-will-care-for-the-child-why-many-women-remain-outside-the-workforce/articleshow/132491918.cms",
@@ -89354,7 +89861,7 @@
       "id": "b5bce411b04a3b22a66b9ff2701e2d35",
       "title": "'Govt was within its right': Why Delhi HC backed Sonam Wangchuk's hospital shift",
       "link": "https://timesofindia.indiatimes.com/india/govt-was-within-its-right-why-delhi-hc-backed-sonam-wangchuks-hospital-shift/articleshow/132493321.cms",
-      "summary": "The Delhi High Court rejected a plea to move Sonam Wangchuk to a private hospital. The court noted no force was used in his transfer to Safdarjung Hospital. Family members have been granted round-the-clock access to the fasting activist. Doctors are monitoring his health and administering oral substances with consent. The government acted within its rights to provide care for Wangchuk.",
+      "summary": "The Delhi high court rejected a plea to move Sonam Wangchuk to a private hospital. The court noted no force was used in his transfer to Safdarjung Hospital. Family members have been granted round-the-clock access to the fasting activist. Doctors are monitoring his health and administering oral substances with consent. The government acted within its rights to provide care for Wangchuk.",
       "date": "2026-07-19",
       "timestamp": "2026-07-19T16:29:28+05:30",
       "section": "National",
@@ -89599,7 +90106,7 @@
     },
     {
       "id": "329ae8f913d2fee0420ea229d27a82d3",
-      "title": "Iran says US attacked under-construction nuclear plant, condemns 'violation of international law'",
+      "title": "'Second attack in two days': Kuwait says Iran hit power, water desalination plant",
       "link": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-iran-strikes-us-soldiers-kill-jordan-us-attack-strait-of-hormuz-deal-latest-updates/liveblog/132491349.cms",
       "summary": "",
       "date": "2026-07-19",
