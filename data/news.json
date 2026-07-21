@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T22:49:49.530102+00:00",
+  "generated_at": "2026-07-21T23:52:02.653166+00:00",
   "stories": [
     {
       "id": "b750217c9e4de15272688ad8bcaf3499",
@@ -145,12 +145,25 @@
       "lang": "en"
     },
     {
+      "id": "622a0a4133175ce27eb356d4e0857396",
+      "title": "Updates: तमिलनाडु के ऑरोविले में अगस्त भर उत्सव की कवायद; गुजरात के 115 मृतकों के परिजनों को 25-25 लाख मुआवजा",
+      "link": "https://www.amarujala.com/india-news/national-updates-22nd-july-neet-2026-cjp-protest-wangchuk-fast-north-east-west-south-india-politics-crime-news-2026-07-22",
+      "summary": "Updates: तमिलनाडु के ऑरोविले में अगस्त भर उत्सव की कवायद; गुजरात के 115 मृतकों के परिजनों को 25-25 लाख मुआवजा",
+      "date": "2026-07-22",
+      "timestamp": "Wed, 22 Jul 2026 05:04:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "0318094aa9251221ae75c092162594ce",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 22 जुलाई के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-22",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-07-22",
-      "timestamp": "Wed, 22 Jul 2026 04:00:30 +0530",
+      "timestamp": "Wed, 22 Jul 2026 05:00:33 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -163,12 +176,38 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-07-22",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-07-22",
-      "timestamp": "Wed, 22 Jul 2026 04:00:18 +0530",
+      "timestamp": "Wed, 22 Jul 2026 05:00:20 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "146ecff8565b2e42d8bb063e95c38bf6",
+      "title": "Congress demands action against former Home Secretary over 1993 firing incident",
+      "link": "https://www.thehindu.com/news/national/west-bengal/congressdemands-action-against-former-home-secretary-over-1993-firing-incident/article71250094.ece",
+      "summary": "The party has also vowed to strengthen their fight against the BJP and bring a change in the central power in 2029.",
+      "date": "2026-07-22",
+      "timestamp": "Wed, 22 Jul 2026 04:48:31 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9b72f633eea513a0745247184f241582",
+      "title": "Outbound portability of medical scheme benefits Rajasthan’s patients",
+      "link": "https://www.thehindu.com/sci-tech/health/outbound-portability-of-medical-scheme-benefits-rajasthans-patients/article71250061.ece",
+      "summary": "Over 5,900 claims amounting to ₹17 crore have been submitted by the patients for speciality treatment in States such as Gujarat, Haryana, Maharashtra and Delhi. These treatments included heart stent procedures, heart bypass surgery, cancer surgery, chemotherapy, dialysis and Caesarean deliveries",
+      "date": "2026-07-22",
+      "timestamp": "Wed, 22 Jul 2026 04:38:46 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "875bf52d4baf5187b8ed8dc62366d836",
@@ -203,6 +242,19 @@
       "summary": "Farmers wanted to peacefully go to Delhi and participate in the rally but the BJP-led Haryana government has stopped them by erecting barricades, Sarwan Singh Pandher, farmer leader and coordinator of the Desh Bachao Morcha, says",
       "date": "2026-07-22",
       "timestamp": "Wed, 22 Jul 2026 03:44:55 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1bc84ae8fc5564d81aa1bb05c15cbee4",
+      "title": "Former Odisha CM Naveen Patnaik demands resignation of Education Minister Dharmendra Pradhan",
+      "link": "https://www.thehindu.com/news/national/former-odisha-cm-naveen-patnaik-demands-resignation-of-education-minister-dharmendra-pradhan/article71250656.ece",
+      "summary": "Terming the situation “very serious” and “very grave”. he said a number of students were violently attacked and injured",
+      "date": "2026-07-22",
+      "timestamp": "Wed, 22 Jul 2026 03:34:03 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -1583,6 +1635,19 @@
       "timestamp": "Wed, 22 Jul 2026 01:01:03 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f9bb5ad2db93cd112b971990e1da4838",
+      "title": "BJP condemns Speaker’s observations on DMK MLA arrest",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/bjp-condemns-speakers-observations-on-dmk-mla-arrest/article71250059.ece",
+      "summary": "BJP State president Nainar Nagenthran said that it was not only a tradition, but also part of rules that the Speaker was to be informed if an MP or an MLA was arrested",
+      "date": "2026-07-22",
+      "timestamp": "Wed, 22 Jul 2026 00:59:32 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -15303,6 +15368,32 @@
       "lang": "en"
     },
     {
+      "id": "39384d8560be9411e0112352b2f2ceee",
+      "title": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
+      "link": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
+      "summary": "The Lebanese army has begun deploying in three southern towns as part of a US-backed framework agreement with Israel.",
+      "date": "2026-07-21",
+      "timestamp": "Tue, 21 Jul 2026 22:56:12 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bdab6d3b3e81d8357b9be9c00266714e",
+      "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
+      "link": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss",
+      "summary": "US report says the beleaguered government in Havana is the 'connective tissue' of a global 'anti-American coalition'.",
+      "date": "2026-07-21",
+      "timestamp": "Tue, 21 Jul 2026 22:55:43 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "cb57821d13d30c03e88de3f45a383e6e",
       "title": "Africa surpasses Asia with highest population facing hunger: UN",
       "link": "https://www.thehindu.com/news/international/africa-surpasses-asia-with-highest-population-facing-hunger-un/article71250795.ece",
@@ -15312,6 +15403,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "576950e5c4ac56e793126f105476b86f",
+      "title": "Moldova chooses new prime minister as it pushes for EU membership",
+      "link": "https://www.aljazeera.com/news/2026/7/21/moldova-chooses-new-prime-minister-as-it-pushes-for-eu-membership?traffic_source=rss",
+      "summary": "Political newcomer Vasile Tofan inherits Moldova's push to join the European Union by 2030.",
+      "date": "2026-07-21",
+      "timestamp": "Tue, 21 Jul 2026 22:53:42 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -15592,7 +15696,7 @@
       "id": "dcdfffafa5d9b7d3f824b79ffda5827a",
       "title": "Zelenskyy replaces Ukraine military chief after protests",
       "link": "https://www.aljazeera.com/news/2026/7/21/zelenskyy-replaces-ukraine-military-chief-after-protests?traffic_source=rss",
-      "summary": "Replaced military chief Syrskyi clashed with former Defence Minister Fedorov, whose removal last week led to protests.",
+      "summary": "Replaced military chief Syrskii clashed with former Defence Minister Fedorov, whose removal last week led to protests.",
       "date": "2026-07-21",
       "timestamp": "Tue, 21 Jul 2026 21:58:32 +0000",
       "section": "International",
@@ -16850,19 +16954,6 @@
       "lang": "en"
     },
     {
-      "id": "42d520524171cc7cba9813038ce54f5a",
-      "title": "दिल्ली छात्र प्रदर्शन पर CM योगी का पहला बयान, कुछ लोग युवाओं को गुमराह करने की कोशिश कर रहे हैं",
-      "link": "https://www.patrika.com/lucknow-news/up-cm-yogi-adityanath-first-reaction-on-delhi-coaching-students-protest-20766715",
-      "summary": "CM Yogi Adityanath: देश की राजधानी दिल्ली में छात्रों के बड़े प्रदर्शन के बाद उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने पहली बार अपनी प्रतिक्रिया दी है। सीएम योगी ने साफ कहा कि जो लोग युवाओं के भविष्य से खिलवाड़ कर रहे हैं, उन्हें जेल की सलाखों के पीछे ही जगह मिलेगी। श्रावस्ती में एक कार्यक्रम को संबोधित करते हुए सीएम योगी ने कहा कि उनकी सरकार ने अब तक यूपी में 9 लाख युवाओं को बिना किसी सिफारिश और रिश्वत के सरकारी नौकरियां दी हैं। उन्होंने आरोप लगाया कि कुछ लोग जानबूझकर युवाओं को गुमराह कर रहे हैं और उन्हें सड़कों पर उतार रहे हैं।",
-      "date": "2026-07-21",
-      "timestamp": "Tue, 21 Jul 2026 19:50:41 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
-      "lang": "en"
-    },
-    {
       "id": "d9828b1128eba6b828047d1e4a7ecd4a",
       "title": "NGO flags accountability, citizen participation gaps in CURE Bill",
       "link": "https://www.thehindu.com/news/national/telangana/cure-bill-could-be-better-says-ngo/article71249590.ece",
@@ -17016,6 +17107,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "42d520524171cc7cba9813038ce54f5a",
+      "title": "दिल्ली छात्र प्रदर्शन पर CM योगी का पहला बयान: ‘युवाओं के भविष्य से खिलवाड़ करने वाले सलाखों के पीछे होंगे’",
+      "link": "https://www.patrika.com/lucknow-news/up-cm-yogi-adityanath-first-reaction-on-delhi-coaching-students-protest-20766715",
+      "summary": "CM Yogi Adityanath: देश की राजधानी दिल्ली में छात्रों के बड़े प्रदर्शन के बाद उत्तर प्रदेश के मुख्यमंत्री योगी आदित्यनाथ ने पहली बार अपनी प्रतिक्रिया दी है। सीएम योगी ने साफ कहा कि जो लोग युवाओं के भविष्य से खिलवाड़ कर रहे हैं, उन्हें जेल की सलाखों के पीछे ही जगह मिलेगी। श्रावस्ती में एक कार्यक्रम को संबोधित करते हुए सीएम योगी ने कहा कि उनकी सरकार ने अब तक यूपी में 9 लाख युवाओं को बिना किसी सिफारिश और रिश्वत के सरकारी नौकरियां दी हैं। उन्होंने आरोप लगाया कि कुछ लोग जानबूझकर युवाओं को गुमराह कर रहे हैं और उन्हें सड़कों पर उतार रहे हैं।",
+      "date": "2026-07-21",
+      "timestamp": "Tue, 21 Jul 2026 19:28:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -99279,6 +99383,45 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5586445daae0bb3afe64b86f2dd30cd3",
+      "title": "Another SC judge, the 3rd, opts out of hearing Gadling bail plea",
+      "link": "https://timesofindia.indiatimes.com/india/another-sc-judge-the-3rd-opts-out-of-hearing-gadling-bail-plea/articleshow/132548912.cms",
+      "summary": "",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-22T04:42:55+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a7ce11316e626723cba13bebebcdc592",
+      "title": "Modi government picks a Sikh again to head minorities panel",
+      "link": "https://timesofindia.indiatimes.com/india/modi-govt-picks-a-sikh-again-to-head-minorities-panel/articleshow/132548884.cms",
+      "summary": "",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-22T04:38:50+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "74dfafbe17e5bae9b1701a362585c764",
+      "title": "France lawmakers pass law banning social media for children under 15; first EU nation to do so",
+      "link": "https://timesofindia.indiatimes.com/world/europe/france-lawmakers-pass-law-banning-social-media-for-children-under-15-first-eu-nation-to-do-so/articleshow/132548839.cms",
+      "summary": "France has approved a nationwide ban on social media for children under fifteen. This new law also prohibits mobile phone use within high schools across the nation. President Macron wants the ban to begin at the start of the next school year. This measure aims to protect young users from harmful online content and its effects. Several other European countries are also considering similar restrictions on digital platforms.",
+      "date": "2026-07-21",
+      "timestamp": "2026-07-22T04:11:25+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
