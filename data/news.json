@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T21:54:01.861392+00:00",
+  "generated_at": "2026-07-26T22:54:28.176969+00:00",
   "stories": [
     {
       "id": "1a437338ed3a39dcb400cf08fa2c777c",
@@ -39496,6 +39496,19 @@
       "lang": "en"
     },
     {
+      "id": "5cc4f8366a0356837365f9ebf339bd9f",
+      "title": "The Indian Army's first woman boxer is now chasing Commonwealth gold",
+      "link": "https://www.bbc.co.uk/news/articles/c5y0m8z6de3o?at_medium=RSS&at_campaign=rss",
+      "summary": "World champion Jaismine Lamboria targets Commonwealth gold in Glasgow Games.",
+      "date": "2026-07-26",
+      "timestamp": "Sun, 26 Jul 2026 22:06:46 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e75e03cfc22aae78b7d936872dfd3270",
       "title": "Kargil Vijay Diwas celebrated in Belagavi",
       "link": "https://www.thehindu.com/news/national/karnataka/kargil-vijay-diwas-celebrated-in-belagavi/article71269795.ece",
@@ -39557,6 +39570,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2392fd6b9f67f091fcefb1402d0085c0",
+      "title": "Trump’s border czar probes possible vetting failures after ICE shooting",
+      "link": "https://www.aljazeera.com/news/2026/7/26/trumps-border-czar-suggests-vetting-failures-after-deadly-ice-shooting?traffic_source=rss",
+      "summary": "ICE officer under review for alleged mental health struggles, violent behavior amid deadly shooting case in Maine.",
+      "date": "2026-07-26",
+      "timestamp": "Sun, 26 Jul 2026 21:59:53 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -39869,6 +39895,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5d93951044d6870b36084f19c50dea05",
+      "title": "What’s causing the unprecedented wildfires in Europe?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/26/whats-causing-the-unprecedented-wildfires-in-europe?traffic_source=rss",
+      "summary": "France and Spain have deployed thousands of firefighters, and neighbouring countries have sent help.",
+      "date": "2026-07-26",
+      "timestamp": "Sun, 26 Jul 2026 21:17:57 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -71788,17 +71827,17 @@
       "lang": "en"
     },
     {
-      "id": "dd7931c1f0c76cc0d06817a9c27bf42c",
-      "title": "Ayodhya: राम मंदिर में ऑनलाइन दान करते ही अब भक्तों को तुरंत रसीद, चढ़ावा चोरी प्रकरण के बीच पारदर्शिता पर जोर",
-      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/ayodhya-devotees-will-now-get-instant-receipts-after-donating-online-at-the-ram-temple-2026-07-27",
-      "summary": "चढ़ावा चोरी प्रकरण के बाद श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट ने दान व्यवस्था में पारदर्शिता और जवाबदेही बढ़ाने की दिशा में बड़ा कदम उठाया है।",
+      "id": "0aa2ebba32a2433d1c1bd25228537314",
+      "title": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार?",
+      "link": "https://www.amarujala.com/live/india-news/parliament-monsoon-session-live-updates-lok-sabha-rajya-sabha-proceedings-bills-om-birla-cp-radhakrishnan-news-2026-07-27",
+      "summary": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार?",
       "date": "2026-07-27",
-      "timestamp": "Mon, 27 Jul 2026 03:17:14 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
+      "timestamp": "Mon, 27 Jul 2026 04:13:47 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "Amar Ujala",
-      "district": "Ayodhya",
-      "lang": "en"
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "f66b0082e30506f1d238919250b7516f",
@@ -71806,7 +71845,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-27",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-07-27",
-      "timestamp": "Mon, 27 Jul 2026 03:00:49 +0530",
+      "timestamp": "Mon, 27 Jul 2026 04:00:45 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -71819,12 +71858,77 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-07-27",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-07-27",
-      "timestamp": "Mon, 27 Jul 2026 03:00:35 +0530",
+      "timestamp": "Mon, 27 Jul 2026 04:00:33 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "11ec3dd357f008b4fa5cf861f5dfaabb",
+      "title": "U.S. appeals court upholds injunction that blocks Trump's order to create federal voter list",
+      "link": "https://www.thehindu.com/news/international/us-appeals-court-upholds-injunction-that-blocks-trumps-order-to-create-federal-voter-list/article71270630.ece",
+      "summary": "Donald Trump issued an executive order for the director of U.S. Citizenship and Immigration Services and the commissioner of the Social Security Administration to create a “state citizenship list” of eligible voters",
+      "date": "2026-07-27",
+      "timestamp": "Mon, 27 Jul 2026 03:54:48 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d6dbb9ed5d21b4f8e5fecfeb5f9aa98c",
+      "title": "गोवा में नीट प्रदर्शन में दिखे 'उमर खालिद' के पोस्टर: सीएम सावंत हुए सख्त; बोले- यहां नहीं चलेगा यह एजेंडा",
+      "link": "https://www.amarujala.com/india-news/umar-khalid-posters-spotted-at-neet-protest-in-goa-cm-sawant-takes-tough-stand-2026-07-27",
+      "summary": "गोवा में नीट प्रदर्शन में दिखे 'उमर खालिद' के पोस्टर: सीएम सावंत हुए सख्त; बोले- यहां नहीं चलेगा यह एजेंडा- Umar Khalid posters spotted at NEET protest in Goa CM Sawant takes tough stand",
+      "date": "2026-07-27",
+      "timestamp": "Mon, 27 Jul 2026 03:53:42 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "dc13de8b1bf27143218f2493a74777a6",
+      "title": "Search for 17 missing crew after Vietnamese cargo ship sinks in South China Sea",
+      "link": "https://www.thehindu.com/news/international/vietnamese-cargo-ship-sinks-in-south-china-sea/article71270513.ece",
+      "summary": "A search is underway for 17 people missing after a Vietnamese cargo ship carrying 62 people sank in bad weather in the disputed South China Sea",
+      "date": "2026-07-27",
+      "timestamp": "Mon, 27 Jul 2026 03:43:56 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fff15c3bafdd8645a7544136968e9d46",
+      "title": "Jantar Mantar Protest:प्रधानमंत्री के खिलाफ आपत्तिजनक पोस्ट पर एक्शन में आई दिल्ली पुलिस",
+      "link": "https://www.amarujala.com/video/india-news/jantar-mantar-protest-delhi-police-swings-into-action-over-an-objectionable-post-against-the-prime-minister-2026-07-27",
+      "summary": "Jantar Mantar Protest:प्रधानमंत्री के खिलाफ आपत्तिजनक पोस्ट पर एक्शन में आई दिल्ली पुलिस",
+      "date": "2026-07-27",
+      "timestamp": "Mon, 27 Jul 2026 03:29:31 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "dd7931c1f0c76cc0d06817a9c27bf42c",
+      "title": "Ayodhya: राम मंदिर में ऑनलाइन दान करते ही अब भक्तों को तुरंत रसीद, चढ़ावा चोरी प्रकरण के बीच पारदर्शिता पर जोर",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/ayodhya-devotees-will-now-get-instant-receipts-after-donating-online-at-the-ram-temple-2026-07-27",
+      "summary": "चढ़ावा चोरी प्रकरण के बाद श्रीराम जन्मभूमि तीर्थ क्षेत्र ट्रस्ट ने दान व्यवस्था में पारदर्शिता और जवाबदेही बढ़ाने की दिशा में बड़ा कदम उठाया है।",
+      "date": "2026-07-27",
+      "timestamp": "Mon, 27 Jul 2026 03:17:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
     },
     {
       "id": "b18259557361964668f7bde7d299b64c",
@@ -98295,6 +98399,58 @@
       "lang": "en"
     },
     {
+      "id": "b16b9d8f20c0902c4102779a4a1a315e",
+      "title": "At no point did government stop students from protesting: Nirmala Sitharaman",
+      "link": "https://timesofindia.indiatimes.com/india/at-no-point-did-government-stop-students-from-protesting-nirmala-sitharaman/articleshow/132649820.cms",
+      "summary": "The government allowed student protests and focused on conducting the NEET re-examination promptly. Culprits involved in paper leaks were arrested and brought before the judicial process. A timely re-examination prevented a year's academic disruption for students. Education Minister Dharmendra Pradhan resigned after the successful re-examination process. India also faces inflation risks from external and internal factors this year.",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-27T03:50:01+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "06a6100cd1c1aab66062f298aa683d0e",
+      "title": "PM Modi hails youth for taking India to arenas once beyond reach",
+      "link": "https://timesofindia.indiatimes.com/india/pm-modi-hails-youth-for-taking-india-to-arenas-once-beyond-reach/articleshow/132648346.cms",
+      "summary": "Prime Minister Narendra Modi praised young Indians for recent achievements. PV Sindhu won the Japan Open badminton title, making the nation proud. India's first privately developed orbital rocket, Vikram-1, also achieved a successful launch. Students excelled in international science Olympiads, securing numerous medals. These accomplishments demonstrate the nation's confident and capable young generation.",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-27T03:36:26+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7bcaea26d98cbef7db09863c9c59b405",
+      "title": "Jammu and Kashmir: Amid NH closure, Railways operates special trains to help stranded pilgrims",
+      "link": "https://timesofindia.indiatimes.com/india/jammu-and-kashmir-amid-nh-closure-railways-operates-special-trains-to-help-stranded-pilgrims/articleshow/132648337.cms",
+      "summary": "",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-27T03:27:36+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "72d86db203abade05739b3f2c6b7cf94",
+      "title": "India saw more than 5,000 child adoptions last year, highest in a decade",
+      "link": "https://timesofindia.indiatimes.com/india/india-saw-more-than-5000-adoptions-last-year-highest-in-a-decade/articleshow/132648316.cms",
+      "summary": "India saw a record 5,022 children adopted between April 2025 and March 2026. Domestic adoptions accounted for 4,603 children, while inter-country adoptions numbered 419. Special needs children adoption increased by twenty-five percent, reaching 392 last year. Adoptions of girls also rose by eight percent, continuing past trends. Relative and step-parent adoptions saw a significant fifty percent increase.",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-27T03:15:45+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a591d9ed85909fb510d103536aa5b829",
       "title": "Did you approve lethal force, pellet guns: Rahul Gandhi to Amit Shah; bill in Lok Sabha today",
       "link": "https://timesofindia.indiatimes.com/india/did-you-approve-lethal-force-pellet-guns-rahul-gandhi-to-amit-shah-bill-in-lok-sabha-today/articleshow/132648159.cms",
@@ -98394,6 +98550,19 @@
       "timestamp": "2026-07-27T01:31:01+05:30",
       "section": "National",
       "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "19d2c3d51f97b4761423ea00ed76076d",
+      "title": "Ethanol blended fuel damaged vehicles of people, claims Maharashtra Congress chief",
+      "link": "https://timesofindia.indiatimes.com/india/ethanol-blended-fuel-damaged-vehicles-of-people-claims-maharashtra-congress-chief/articleshow/132647638.cms",
+      "summary": "",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-27T01:31:01+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "TOI India",
       "district": "",
       "lang": "en"
