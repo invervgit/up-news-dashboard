@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T22:54:28.176969+00:00",
+  "generated_at": "2026-07-26T23:56:04.504374+00:00",
   "stories": [
     {
       "id": "1a437338ed3a39dcb400cf08fa2c777c",
@@ -39808,19 +39808,6 @@
       "lang": "en"
     },
     {
-      "id": "65afbcee18ab0bd7c22f00a16163ddaa",
-      "title": "Revanth to speak to Rahul Gandhi on opening Parliament, Assembly doors for Gen Z",
-      "link": "https://www.thehindu.com/news/national/telangana/revanth-to-speak-to-rahul-gandhi-on-opening-parliament-assembly-doors-for-gen-z/article71270049.ece",
-      "summary": "",
-      "date": "2026-07-26",
-      "timestamp": "Sun, 26 Jul 2026 21:26:24 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "a797e3b20d060a22b558718b3eb04df6",
       "title": "Russian and Ukrainian strikes kill at least 10",
       "link": "https://www.thehindu.com/news/international/russian-and-ukrainian-strikes-kill-at-least-10/article71270140.ece",
@@ -71827,12 +71814,38 @@
       "lang": "en"
     },
     {
+      "id": "f71f3e8d057df420720296aab741071e",
+      "title": "Explainer: विपक्ष के PM मोदी-शाह से क्या सवाल, जिन पर संसद में तय बवाल, विधेयकों पर सरकार की क्या रहेगी चाल?",
+      "link": "https://www.amarujala.com/india-news/parliament-monsoon-session-week-2-modi-govt-india-alliance-neet-paper-leak-students-protest-opposition-agenda-2026-07-27",
+      "summary": "शिक्षा मंत्री धर्मेंद्र प्रधान के इस्तीफे के बाद छात्रों का आंदोलन खत्म हो गया, लेकिन इसके बाद भी संसद के हंगामेदार रहने के पूरे आसार हैं। कांग्रेस पार्टी के एक पूर्व केंद्रीय मंत्री ने कहा कि छात्रों का जंतर-मंतर का आंदोलन खत्म हुआ है।",
+      "date": "2026-07-27",
+      "timestamp": "Mon, 27 Jul 2026 05:05:56 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "0aa2ebba32a2433d1c1bd25228537314",
       "title": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार?",
       "link": "https://www.amarujala.com/live/india-news/parliament-monsoon-session-live-updates-lok-sabha-rajya-sabha-proceedings-bills-om-birla-cp-radhakrishnan-news-2026-07-27",
       "summary": "Parliament Monsoon Session: दिल्ली में छात्रों पर बलप्रयोग मामले में घेरेगा विपक्ष, सरकार कैसे करेगी पलटवार?",
       "date": "2026-07-27",
-      "timestamp": "Mon, 27 Jul 2026 04:13:47 +0530",
+      "timestamp": "Mon, 27 Jul 2026 05:04:14 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "a3cae48512691f7a9c023b835909cc68",
+      "title": "Top News: संसद में सरकार को घेरेगा विपक्ष; CWG में भारत को एक गोल्ड समेत चार पदक; अस्पताल से छूटेंगे वांगचुक",
+      "link": "https://www.amarujala.com/india-news/top-headlines-big-news-today-parliament-monsoon-session-glasgow-cwg-west-asia-entertainment-politics-news-2026-07-27",
+      "summary": "Top News: संसद में सरकार को घेरेगा विपक्ष; CWG में भारत को एक गोल्ड समेत चार पदक; अस्पताल से छूटेंगे वांगचुक",
+      "date": "2026-07-27",
+      "timestamp": "Mon, 27 Jul 2026 05:03:01 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "Amar Ujala",
@@ -71845,7 +71858,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-27",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-07-27",
-      "timestamp": "Mon, 27 Jul 2026 04:00:45 +0530",
+      "timestamp": "Mon, 27 Jul 2026 05:00:50 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -71858,9 +71871,35 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-07-27",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-07-27",
-      "timestamp": "Mon, 27 Jul 2026 04:00:33 +0530",
+      "timestamp": "Mon, 27 Jul 2026 05:00:39 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "65afbcee18ab0bd7c22f00a16163ddaa",
+      "title": "Revanth to speak to Rahul Gandhi on opening Parliament, Assembly doors for Gen Z",
+      "link": "https://www.thehindu.com/news/national/telangana/revanth-to-speak-to-rahul-gandhi-on-opening-parliament-assembly-doors-for-gen-z/article71270049.ece",
+      "summary": "CM Revanth Reddy said that for Congress, the country was first and that is why it stayed away from leading the students’ movement lest the BJP would have termed it a politically motivated agitation",
+      "date": "2026-07-27",
+      "timestamp": "Mon, 27 Jul 2026 04:44:20 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a339ad6c566bf0f2b974c15365787084",
+      "title": "जहरीले कफ सिरप पर सख्ती: उत्पादन बंद करने से लाइसेंस निलंबन तक की हुई कार्रवाई; कितनी फैक्टरियों पर लगा ताला?",
+      "link": "https://www.amarujala.com/india-news/crackdown-toxic-cough-syrups-actions-ranging-halting-production-license-suspension-how-many-factories-shutdown-2026-07-27",
+      "summary": "जहरीले कफ सिरप पर सख्ती: उत्पादन बंद करने से लाइसेंस निलंबन तक की हुई कार्रवाई; कितनी फैक्टरियों पर लगा ताला?- Crackdown toxic cough syrups Actions ranging halting production license suspension how many factories shutdown",
+      "date": "2026-07-27",
+      "timestamp": "Mon, 27 Jul 2026 04:32:44 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -73356,6 +73395,19 @@
       "timestamp": "Mon, 27 Jul 2026 00:57:44 +0530",
       "section": "International",
       "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8afaba90bb362661db82af3eefa337ee",
+      "title": "Eroding identities of Brahmaputra’s children",
+      "link": "https://www.thehindu.com/news/national/assam/eroding-identities-of-brahmaputras-children/article71268874.ece",
+      "summary": "Across Assam, decades of government-issued records are failing the citizenship test before Foreigners Tribunals and the Gauhati High Court. As spelling variations, age mismatches, and shifting residences come under scrutiny, Rahul Karmakar speaks with families that are fighting to prove they belong",
+      "date": "2026-07-27",
+      "timestamp": "Mon, 27 Jul 2026 00:56:25 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -98395,6 +98447,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9c2d7d109fcfbd060de2663fe972749d",
+      "title": "US FDA nod for 1st pill to replace jabs to fight high cholesterol",
+      "link": "https://timesofindia.indiatimes.com/india/us-fda-nod-for-1st-pill-to-replace-jabs-to-fight-high-cholesterol/articleshow/132650155.cms",
+      "summary": "",
+      "date": "2026-07-26",
+      "timestamp": "2026-07-27T04:47:06+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
