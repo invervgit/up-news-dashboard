@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:56:14.290951+00:00",
+  "generated_at": "2026-07-29T23:57:13.602734+00:00",
   "stories": [
     {
       "id": "192389264bfb9eed6ebe3e1d0932dad5",
@@ -106,6 +106,19 @@
       "lang": "en"
     },
     {
+      "id": "6a3af18e3e3b5bd586ff62e16b70f3cb",
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea?traffic_source=rss",
+      "summary": "Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.",
+      "date": "2026-07-29",
+      "timestamp": "Wed, 29 Jul 2026 23:34:26 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1a86b83c37865126b982895668decc3f",
       "title": "NHAI removes 361 encroachments from national highways after Supreme Court order",
       "link": "https://www.thehindu.com/news/national/nhai-removes-361-encroachments-from-national-highways-after-supreme-court-order/article71281740.ece",
@@ -119,6 +132,32 @@
       "lang": "en"
     },
     {
+      "id": "a308e40f793a063cd3e98982b0996630",
+      "title": "Nicaragua’s Daniel Ortega aims to bar ‘traitors’ from future elections",
+      "link": "https://www.aljazeera.com/news/2026/7/29/nicaraguas-daniel-ortega-aims-to-bar-traitors-from-future-elections?traffic_source=rss",
+      "summary": "Ortega has overseen a sweeping crackdown on civil society in Nicaragua and concentrated power in his own hands.",
+      "date": "2026-07-29",
+      "timestamp": "Wed, 29 Jul 2026 23:30:22 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5fd07f7c23b0fc331f0f23527c0e8f02",
+      "title": "Israel slams Canada for statement opposing West Bank settlement expansion",
+      "link": "https://www.aljazeera.com/news/2026/7/29/israel-slams-canada-for-statement-opposing-west-bank-settlement-expansion?traffic_source=rss",
+      "summary": "Canada says that illegal settlements in occupied Palestinian territory undermine 'peace, security and stability'.",
+      "date": "2026-07-29",
+      "timestamp": "Wed, 29 Jul 2026 23:29:24 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a47a6d5b67d2fe1321b584c84177d871",
       "title": "Karnataka High Court questions conduct of Malur judicial officer on public road; stays FIR registered against three for overtaking her car",
       "link": "https://www.thehindu.com/news/national/karnataka/karnataka-high-court-questions-conduct-of-malur-judicial-officer-on-public-road-stays-fir-registered-against-three-for-overtaking-her-car/article71283070.ece",
@@ -128,6 +167,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b6958fee0479adb73f13773b8addbee4",
+      "title": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "link": "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss",
+      "summary": "The Department of Justice has issued separate filings in support of Trump's case to toss the defamation award.",
+      "date": "2026-07-29",
+      "timestamp": "Wed, 29 Jul 2026 23:25:37 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -167,6 +219,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7fe6eecf869fe7eaa204ee3cd1cbf3bb",
+      "title": "Iraq calls Saudi-US attacks a ‘flagrant violation of sovereignty’",
+      "link": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
+      "summary": "Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.",
+      "date": "2026-07-29",
+      "timestamp": "Wed, 29 Jul 2026 23:10:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -245,6 +310,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "41dff5c1cff01a4adf589634bd3ed26a",
+      "title": "India's CJP protests: Why tech alone won't stop exam paper leaks",
+      "link": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
+      "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
+      "date": "2026-07-29",
+      "timestamp": "Wed, 29 Jul 2026 22:50:14 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -36935,6 +37013,45 @@
       "lang": "en"
     },
     {
+      "id": "b2e432d3d75a32ac5c17faa4c4f4ea9b",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 30 जुलाई के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-30",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-07-30",
+      "timestamp": "Thu, 30 Jul 2026 05:01:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "002d1a1187ff0c2b87a0a9eab8cf2c71",
+      "title": "पढ़ें 30 जुलाई के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-07-30",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-07-30",
+      "timestamp": "Thu, 30 Jul 2026 05:00:49 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "bcb52e29899827b43bdbcdb5d4aea7f0",
+      "title": "Rahul Gandhi on Amit Shah: राहुल गांधी के 'फायरिंग' वाले बयान का सपा ने किया खुलकर समर्थन!",
+      "link": "https://www.amarujala.com/video/india-news/rahul-gandhi-on-amit-shah-sp-openly-supported-rahul-gandhi-s-firing-statement-2026-07-30",
+      "summary": "Rahul Gandhi on Amit Shah: राहुल गांधी के 'फायरिंग' वाले बयान का सपा ने किया खुलकर समर्थन!",
+      "date": "2026-07-30",
+      "timestamp": "Thu, 30 Jul 2026 04:30:03 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "01800024abf9651e5746f39214fc067d",
       "title": "कांवड़ यात्रा की कहानी: पुराणों में क्या हैं इससे जुड़ी मान्यताएं, कहां-कहां से निकलती है, कब से हुई शुरुआत?",
       "link": "https://www.amarujala.com/india-news/kanwar-yatra-saavan-lord-shiv-history-significance-and-puranas-story-from-ram-to-parshuram-and-ravan-explained-2026-07-30",
@@ -36961,32 +37078,6 @@
       "lang": "en"
     },
     {
-      "id": "b2e432d3d75a32ac5c17faa4c4f4ea9b",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 30 जुलाई के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-07-30",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-07-30",
-      "timestamp": "Thu, 30 Jul 2026 04:00:59 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "002d1a1187ff0c2b87a0a9eab8cf2c71",
-      "title": "पढ़ें 30 जुलाई के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-07-30",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-07-30",
-      "timestamp": "Thu, 30 Jul 2026 04:00:46 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "e1c4f998ba810689a6c3103771e40ca8",
       "title": "Noida: अब मामूरा के खुले नाले में गिरकर बुजुर्ग की मौत, लगातार हो रहे हैं जानलेवा हादसे लेकिन नहीं बदलते हालात",
       "link": "https://www.amarujala.com/delhi-ncr/noida-elderly-man-dies-after-falling-into-an-open-drain-in-mamura-2026-07-30",
@@ -36997,6 +37088,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "09116a11302ba5b035095c3d09b48d43",
+      "title": "Bihar cabinet gives nod to fill up 22,981 posts of Anganwadi workers",
+      "link": "https://www.thehindu.com/news/national/bihar/bihar-cabinet-gives-nod-to-fill-up-22981-posts-of-anganwadi-workers/article71282475.ece",
+      "summary": "Nod for creation of 19 posts of District & Additional Sessions Judge for Exclusive Special Courts; Three posts of DASJ created for Additional Special Courts",
+      "date": "2026-07-30",
+      "timestamp": "Thu, 30 Jul 2026 03:42:28 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -38321,6 +38425,19 @@
       "timestamp": "Thu, 30 Jul 2026 00:52:25 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4270961c9aa0281fdb396ed73e834ac0",
+      "title": "GCC Council passes 19 resolutions at nearly six-hour long meeting",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/gcc-council-passes-19-resolutions-at-nearly-six-hour-long-meeting/article71282810.ece",
+      "summary": "Although the meeting extended for nearly six hours, this has been the least number of resolutions passed in the recent years",
+      "date": "2026-07-30",
+      "timestamp": "Thu, 30 Jul 2026 00:49:07 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -100215,6 +100332,32 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0bb63b27b8fb47fb672c0f814844c241",
+      "title": "Denied seat, student hacks IIT-Kanpur website to show his 'merit'",
+      "link": "https://timesofindia.indiatimes.com/india/denied-seat-student-hacks-iit-kanpur-website-to-show-his-merit/articleshow/132724055.cms",
+      "summary": "A BTech applicant hacked IIT Kanpur's website seeking admission consideration. He claimed he was denied a fair chance in the selection process. The IIT director invited the candidate to campus for an assessment. He stressed that hacking was not the correct approach to gain entry. The institute will consider him if genuine talent is demonstrated.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-30T04:44:26+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "342420a6e67b010963b406180543a37f",
+      "title": "Rahul Gandhi remarks row: BJP hits back, calls Congress MP's claim 'a pack of lies'",
+      "link": "https://timesofindia.indiatimes.com/india/rahul-gandhis-remarks-row-bjp-strikes-back-says-congress-mps-claim-a-pack-of-lies/articleshow/132724024.cms",
+      "summary": "The BJP strongly objects if Rahul Gandhi called students an idiot. They welcome the remark if it was self-directed by the Congress leader. BJP leaders accused Rahul Gandhi of spreading falsehoods and misleading the nation. They stated no bullets were fired during the student protests. The party highlighted government dialogue and efforts to strengthen laws against paper leaks.",
+      "date": "2026-07-29",
+      "timestamp": "2026-07-30T04:27:13+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
