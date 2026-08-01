@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T21:48:49.720301+00:00",
+  "generated_at": "2026-08-01T22:48:24.551311+00:00",
   "stories": [
     {
       "id": "192389264bfb9eed6ebe3e1d0932dad5",
@@ -48817,12 +48817,25 @@
       "lang": "en"
     },
     {
+      "id": "359f4e2911e305709f9cabcd41c0dac2",
+      "title": "UP: नोएडा में अब पानी से भरी हौदी में डूबकर मासूम की मौत, सुरक्षा के इंतजामों की पड़ताल कर रही है पुलिस",
+      "link": "https://www.amarujala.com/delhi-ncr/up-innocent-child-drowns-in-water-filled-tank-in-noida-2026-08-02",
+      "summary": "इस बार पानी से भरी हाैदी मासूम के लिए जानलेवा साबित हुई।",
+      "date": "2026-08-02",
+      "timestamp": "Sun, 02 Aug 2026 04:09:09 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "201a6d144f17a33e9baf49039fd17dfc",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 2 अगस्त के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-02",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-02",
-      "timestamp": "Sun, 02 Aug 2026 03:00:46 +0530",
+      "timestamp": "Sun, 02 Aug 2026 04:00:50 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -48835,12 +48848,51 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-02",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-02",
-      "timestamp": "Sun, 02 Aug 2026 03:00:32 +0530",
+      "timestamp": "Sun, 02 Aug 2026 04:00:37 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "d37ae8f94a279f627acd02aa5286200f",
+      "title": "News Updates: पांच रेलवे अफसर भ्रष्टाचार में संलिप्त, जबरन सेवानिवृत्ति की सिफारिश; CJP की फंडिंग जांच की मांग",
+      "link": "https://www.amarujala.com/india-news/national-updates-2nd-august-railways-corruptoin-cjp-fund-probe-congress-north-east-west-south-india-politics-2026-08-02",
+      "summary": "News Updates: पांच रेलवे अफसर भ्रष्टाचार में संलिप्त, जबरन सेवानिवृत्ति की सिफारिश; CJP की फंडिंग जांच की मांग",
+      "date": "2026-08-02",
+      "timestamp": "Sun, 02 Aug 2026 03:52:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "8176ee5059f52370e6022fc66bcf9c40",
+      "title": "J&K speeds up FRA implementation; warns Forest Dept. against eviction notices",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-speeds-up-fra-implementation-warns-forest-dept-against-eviction-notices/article71295725.ece",
+      "summary": "The announcement comes months after the Lok Bhavan and the elected government were at loggerheads over the eviction drive in Jammu’s Sunjwan, Bathindi, Raika, and Sidhra areas in Jammu",
+      "date": "2026-08-02",
+      "timestamp": "Sun, 02 Aug 2026 03:28:42 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ee275237e8bc699d425fb47277426654",
+      "title": "Eggs twice a week for students in Kolkata schools, says Bengal CM Suvendu Adhikari",
+      "link": "https://www.thehindu.com/news/national/west-bengal/suvendu-inaugurates-iskcons-kitchen-in-kolkata-for-school-mid-day-meals-to-benefit-44000-students/article71294219.ece",
+      "summary": "Mr. Adhikari reiterated that ISKCON follows a tradition of serving pure vegetarian food and that the State government had no intention of asking the organisation to alter its practices",
+      "date": "2026-08-02",
+      "timestamp": "Sun, 02 Aug 2026 03:14:36 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "17a2ba8cb54b0ad8e22d9e05a9fc4af4",
@@ -62363,6 +62415,19 @@
       "lang": "en"
     },
     {
+      "id": "07e61deeecc759e965a77ebfd14bef39",
+      "title": "Tourist plane crashes in Peru, killing 13",
+      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
+      "date": "2026-08-01",
+      "timestamp": "Sat, 01 Aug 2026 22:34:20 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ed99e08bed944c6120388c4b5a189bdc",
       "title": "DSS activists detained ahead of PM’s visit to Mysuru",
       "link": "https://www.thehindu.com/news/national/karnataka/dss-activists-detained-ahead-of-pms-visit-to-mysuru/article71295571.ece",
@@ -62372,6 +62437,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8985384f80eec1d1f85a40cfcb16315e",
+      "title": "US Arabs eye ‘historic’ Senate win for Abdul El-Sayed despite AIPAC attacks",
+      "link": "https://www.aljazeera.com/news/2026/8/1/us-arabs-eye-historic-senate-win-for-abdul-el-sayed-despite-aipac-attacks?traffic_source=rss",
+      "summary": "Senate race in Michigan comes to embody Democratic rift over Israel, as AIPAC spends heavily against progressive doctor.",
+      "date": "2026-08-01",
+      "timestamp": "Sat, 01 Aug 2026 22:31:52 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -62714,6 +62792,19 @@
       "lang": "en"
     },
     {
+      "id": "2392b535404b62614d6326535193e598",
+      "title": "Why did Ceuta migrant mayhem chill already frosty Israel-Spain relations?",
+      "link": "https://www.aljazeera.com/news/2026/8/1/why-did-ceuta-migrant-mayhem-chill-already-frosty-israel-spain-relations?traffic_source=rss",
+      "summary": "What caused more than 50,000 migrants to storm a Spanish enclave in Africa, and did Israel have anything to do with it?",
+      "date": "2026-08-01",
+      "timestamp": "Sat, 01 Aug 2026 21:42:26 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "34f3d99f12e2f4947559dd65503fc4d3",
       "title": "CBI registers alleged ₹1,816.22-crore EPFO investment fraud case against Reliance Capital",
       "link": "https://www.thehindu.com/news/national/cbi-registers-alleged-181622-crore-epfo-investment-fraud-case-against-reliance-capital/article71293972.ece",
@@ -62918,6 +63009,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "82bb88b3430faafa88c0139e351a184d",
+      "title": "Al Jazeera reports from Ceuta as migrants leave the enclave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/1/al-jazeera-reports-from-ceuta-as-migrants-leave-the-enclave?traffic_source=rss",
+      "summary": "Spain says “virtually all” of the estimated 60,000 migrants who stormed its North African enclave of Ceuta have left.",
+      "date": "2026-08-01",
+      "timestamp": "Sat, 01 Aug 2026 21:15:50 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -63143,6 +63247,19 @@
       "lang": "en"
     },
     {
+      "id": "cc04b4b2bfa4ef13a1575ac7d41a7a4b",
+      "title": "How Australia combines modern tech and Indigenous knowledge to fight fire",
+      "link": "https://www.bbc.co.uk/news/articles/czdmvr984yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "As Europe faces its worst wildfires in decades, Australia offers lessons in disaster preparedness.",
+      "date": "2026-08-01",
+      "timestamp": "Sat, 01 Aug 2026 21:03:42 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0494e5d566d8b5caa22fdbe4fa161607",
       "title": "Kerala floods 2026: cloudburst-like event exposes gaps in State’s weather forecasting, disaster preparedness",
       "link": "https://www.thehindu.com/news/national/kerala/kerala-floods-2026-cloudburst-like-event-exposes-gaps-in-states-weather-forecasting-disaster-preparedness/article71295370.ece",
@@ -63204,19 +63321,6 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "07e61deeecc759e965a77ebfd14bef39",
-      "title": "Tourist plane crashes in Peru, killing 13",
-      "link": "https://www.bbc.co.uk/news/articles/c70g132erlko?at_medium=RSS&at_campaign=rss",
-      "summary": "The small plane was flying over the Nazca Lines ​archaeological site when it crashed, according to local reports.",
-      "date": "2026-08-01",
-      "timestamp": "Sat, 01 Aug 2026 20:51:09 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -65324,19 +65428,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "ee275237e8bc699d425fb47277426654",
-      "title": "Suvendu inaugurates ISKCON’s kitchen in Kolkata for school mid-day meals, to benefit 44,000 students",
-      "link": "https://www.thehindu.com/news/national/west-bengal/suvendu-inaugurates-iskcons-kitchen-in-kolkata-for-school-mid-day-meals-to-benefit-44000-students/article71294219.ece",
-      "summary": "Initially, ISKCON will serve mid-day meals to 44,000 students in 500 Kolkata schools; within the next three months, mid-day meals will reach 2.5 lakh students, West Bengal Chief Minister Suvendu Adhikari",
-      "date": "2026-08-01",
-      "timestamp": "Sat, 01 Aug 2026 16:38:24 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
