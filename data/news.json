@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:23:26.247770+00:00",
+  "generated_at": "2026-08-09T23:24:35.654012+00:00",
   "stories": [
     {
       "id": "2e7cf4fb2f29c6d82df3beb9671be057",
@@ -34283,6 +34283,19 @@
       "lang": "en"
     },
     {
+      "id": "d00525c902a1647fa18fad01aac2cd51",
+      "title": "Union reports 108 attacks on Palestinian journalists in July",
+      "link": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+      "summary": "Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
+      "date": "2026-08-09",
+      "timestamp": "Sun, 09 Aug 2026 23:01:25 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a99dfb560172510e233ce55fa2c621e6",
       "title": "Agricultural Extension Education department at Vellayani Agri College celebrates golden jubilee",
       "link": "https://www.thehindu.com/news/national/kerala/agricultural-extension-education-department-at-vellayani-agri-college-celebrates-golden-jubilee/article71325453.ece",
@@ -34335,6 +34348,19 @@
       "lang": "en"
     },
     {
+      "id": "a701b3f89f1980ffe872d2f18cd7bbbf",
+      "title": "What’s driving unrest in Pakistan-administered Kashmir?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_dnrexp-260808-warrinera-pakistankashmir-100826?traffic_source=rss",
+      "summary": "Pakistan-administered Kashmir is facing its biggest political crisis in years. Al Jazeera's Ava Warriner explains.",
+      "date": "2026-08-09",
+      "timestamp": "Sun, 09 Aug 2026 22:37:11 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e53f4fc80d88a7d2aba4f84d127b68e1",
       "title": "Jharkhand government cancels JPSC exam; protests to continue till CBI probe ordered, say students",
       "link": "https://www.thehindu.com/news/national/jharkhand/jharkhand-exam-stir-protesters-stick-to-demand-for-cbi-probe-into-exam-anomaly-jharkhand-govt-says-98-demands-met/article71325193.ece",
@@ -34383,6 +34409,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "16ffb56829b87c0e774a2ee3a833d165",
+      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
+      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
+      "date": "2026-08-09",
+      "timestamp": "Sun, 09 Aug 2026 22:27:53 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -36272,19 +36311,6 @@
       "lang": "en"
     },
     {
-      "id": "a3c50ff3c459ff5b98f9680bbaf68853",
-      "title": "West Asia war LIVE: Netanyahu vows Iran will 'not have nuclear weapons' with or without deal",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-uae-attacks-strait-of-hormuz-lebanon-infiltration-donald-trump-irgc-netanyahu/article71323971.ece",
-      "summary": "\"I want to emphasise once again: with an agreement or without an agreement, as long as I am Prime Minister, Iran will not have nuclear weapons,\" Mr. Netanyahu said at a cabinet meeting",
-      "date": "2026-08-09",
-      "timestamp": "Sun, 09 Aug 2026 18:25:52 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "51f1a497fdeac05e9b19f68169ca407c",
       "title": "Power demand in Andhra Pradesh projected to grow at 6.90% CAGR over next decade",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/power-demand-in-andhra-pradesh-projected-to-grow-at-690-cagr-over-next-decade/article71324750.ece",
@@ -36398,19 +36424,6 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "16ffb56829b87c0e774a2ee3a833d165",
-      "title": "Residents warned to brace for the worst as Canada wildfire rages out of control",
-      "link": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Bald Range wildfire in British Columbia, still considered \"out of control\", has spread over 53 sq miles (136 sq km).",
-      "date": "2026-08-09",
-      "timestamp": "Sun, 09 Aug 2026 18:03:55 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -37023,19 +37036,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "4178fe594aafa496909bd9c8a1f022bb",
-      "title": "Yemen’s Houthis claim attack on Aramco facility as Saudi says fire extinguished",
-      "link": "https://www.thehindu.com/news/international/fire-extinguished-at-aramco-facility-in-jizan-says-saudi-arabia/article71324246.ece",
-      "summary": "Saudi Energy ‌Ministry did not immediately specify the cause of the fire; Houthis spokesperson said the attack on the facility was launched in response to incursions by drones from the Gulf monarchy into northwest Yemen",
-      "date": "2026-08-09",
-      "timestamp": "Sun, 09 Aug 2026 15:39:17 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -82396,14 +82396,14 @@
       "lang": "en"
     },
     {
-      "id": "c62c81b47f982049ae9488501e22a421",
-      "title": "Maharashtra FDA to introduce end-to-end traceability of milk to fight adulteration",
-      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-to-introduce-end-to-end-traceability-of-milk-to-fight-adulteration/article71325631.ece",
-      "summary": "Digitisation initiative to be launched to connect milk to milch animals and to trace anomalies to arrest adulteration process",
+      "id": "a3c50ff3c459ff5b98f9680bbaf68853",
+      "title": "West Asia war LIVE: Netanyahu vows Iran will 'not have nuclear weapons' with or without deal",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-uae-attacks-strait-of-hormuz-lebanon-infiltration-donald-trump-irgc-netanyahu/article71323971.ece",
+      "summary": "\"I want to emphasise once again: with an agreement or without an agreement, as long as I am Prime Minister, Iran will not have nuclear weapons,\" Mr. Netanyahu said at a cabinet meeting",
       "date": "2026-08-10",
-      "timestamp": "Mon, 10 Aug 2026 03:41:56 +0530",
-      "section": "National",
-      "report_category": "National_General",
+      "timestamp": "Mon, 10 Aug 2026 04:33:16 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -82414,7 +82414,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-10",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-10",
-      "timestamp": "Mon, 10 Aug 2026 03:30:25 +0530",
+      "timestamp": "Mon, 10 Aug 2026 04:30:26 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -82427,12 +82427,90 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-10",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-10",
-      "timestamp": "Mon, 10 Aug 2026 03:30:13 +0530",
+      "timestamp": "Mon, 10 Aug 2026 04:30:14 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "cd152e58fed8fc360f8e9bb1d9b2cf52",
+      "title": "SDRF Rescue Operation: गंगा घाटों पर देवदूत बने SDRF जवान, 21 कांवड़ियों की बचाई जान",
+      "link": "https://www.amarujala.com/video/india-news/sdrf-rescue-operation-sdrf-personnel-turn-guardian-angels-at-ganga-ghats-saving-the-lives-of-21-kanwariyas-2026-08-10",
+      "summary": "SDRF Rescue Operation: गंगा घाटों पर देवदूत बने SDRF जवान, 21 कांवड़ियों की बचाई जान",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 04:30:03 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "4f522765f74b1eafadb6ed86facd608d",
+      "title": "Several injured in Denmark in suspected underworld shooting: police",
+      "link": "https://www.thehindu.com/news/international/several-injured-in-holbaek-denmark-shooting/article71326146.ece",
+      "summary": "Police said in a statement they were present at several locations in Holbaek, about 70 km west of Copenhagen, following “a shooting in which multiple people have been hit”",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 04:25:25 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f3cbbe302d1564c39482167e73df4ee4",
+      "title": "Israeli military closes Palestinian Christian village Taybeh, citing settler attacks",
+      "link": "https://www.thehindu.com/news/international/israeli-military-closes-palestinian-christian-village-taybeh-citing-settler-attacks/article71326145.ece",
+      "summary": "An Israeli military spokesperson said turning Taybeh into a closed military zone was “due to some violent attacks ‌by Israelis in the region.”",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 04:15:49 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "36d205c7a8aa5eafaec49d5deff3610c",
+      "title": "ईडी प्रमुख को सेवा विस्तार: राहुल नवीन 2027 तक संभालेंगे प्रवर्तन निदेशालय, जीरो टॉलरेंस पर क्या बोली सरकार?",
+      "link": "https://www.amarujala.com/india-news/ed-chief-service-extension-rahul-navin-to-head-the-enforcement-directorate-until-2027-govt-on-zero-tolerance-2026-08-10",
+      "summary": "ईडी प्रमुख को सेवा विस्तार: राहुल नवीन 2027 तक संभालेंगे प्रवर्तन निदेशालय, जीरो टॉलरेंस पर क्या बोली सरकार?",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 04:15:09 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "6e710969b357a85ae5251798c9045f45",
+      "title": "Pushing One Health approach, U.P. priorities early identification and reporting of emerging zoonotic diseases",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/pushing-one-health-approach-up-priorities-early-identification-and-reporting-of-emerging-zoonotic-diseases/article71325413.ece",
+      "summary": "Mukesh Kumar Meshram, Additional Chief Secretary, Animal Husbandry, Dairy Development and Fisheries Department said that under the RISE Global Health Security (RISE GHS) Project, the Animal Husbandry Department, in collaboration with the Forest and Wildlife Department, successfully conducted active surveillance for Avian Influenza among wild migratory birds at 19 Ramsar and other important wetland sites",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 03:47:07 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c62c81b47f982049ae9488501e22a421",
+      "title": "Maharashtra FDA to introduce end-to-end traceability of milk to fight adulteration",
+      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-to-introduce-end-to-end-traceability-of-milk-to-fight-adulteration/article71325631.ece",
+      "summary": "Digitisation initiative to be launched to connect milk to milch animals and to trace anomalies to arrest adulteration process",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 03:41:56 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "f3113488575f2b7bcc7cddc3ae750f2d",
@@ -83088,11 +83166,11 @@
       "id": "7215ee9c7d9dc229d2921a40e899ec5f",
       "title": "Group flags online terror threat issued against Pandits in Kashmir, seeks probe",
       "link": " ",
-      "summary": "Panun Kashmir says a threat issued by United Liberation Council “has specifically named members of the Kashmiri Pandit community and disclosed their telephone numbers”",
+      "summary": "",
       "date": "2026-08-10",
       "timestamp": "Mon, 10 Aug 2026 02:14:34 +0530",
       "section": "National",
-      "report_category": "National_Judicial",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -83173,6 +83251,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "4178fe594aafa496909bd9c8a1f022bb",
+      "title": "Houthi attacks kill 11 in Yemen, target Saudi refinery",
+      "link": "https://www.thehindu.com/news/international/fire-extinguished-at-aramco-facility-in-jizan-says-saudi-arabia/article71324246.ece",
+      "summary": "A medical source in Mokha said three civilians and eight military personnel had been killed in the Houthi attacks",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 02:13:15 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -84014,6 +84105,19 @@
       "summary": "",
       "date": "2026-08-10",
       "timestamp": "Mon, 10 Aug 2026 00:35:27 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "825499137bb033f6075d29c35288f794",
+      "title": "Chennai, a land of opportunity and exposure, says Health Minister K.G. Arunraj",
+      "link": "https://www.thehindu.com/news/cities/chennai/chennai-a-land-of-opportunity-and-exposure-says-health-minister-kg-arunraj/article71302389.ece",
+      "summary": "",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 00:33:35 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -107794,6 +107898,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e6caafab01cca19e1b842330f1ad975c",
+      "title": "To bypass Bosphorus & Hormuz, Russia moots direct rail link to India",
+      "link": "https://timesofindia.indiatimes.com/india/to-bypass-bosphorus-hormuz-russia-moots-direct-rail-link-to-india/articleshow/133076764.cms",
+      "summary": "Russia has proposed a direct rail corridor to connect to the Indian Ocean, aiming to circumvent the perilous straits. This ambitious route would pass through Turkmenistan, Iran, Afghanistan, and Pakistan. However, experts highlight significant logistical and financial hurdles. For New Delhi, gaining Pakistan's commitment to security cooperation is essential. If realized, this corridor might provide a vital overland freight option to reduce reliance on maritime routes.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-10T04:20:37+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cef04cb5ed7f59e89f62ff3bac429cc4",
+      "title": "Dope test of turbulent Air India flight’s pilot ‘not negative’, sent for confirmation, says government",
+      "link": "https://timesofindia.indiatimes.com/india/dope-test-of-turbulent-ai-flights-pilot-not-negative-sent-for-confirmation-says-government/articleshow/133076744.cms",
+      "summary": "Following a serious incident involving altitude loss on an Air India flight, the pilot was subjected to a dope screening test. The results were not definitively negative, thereby calling for additional confirmatory tests. As a result, seventeen passengers and crew members were hospitalized. In response, the aviation ministry has initiated an investigation and temporarily removed both pilots from their flying duties until the inquiry concludes.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-10T04:07:51+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "700109fc0a2c94ff7a5e9112c4191350",
+      "title": "India among top nations in quantum technology, says science minister Jitendra Singh",
+      "link": "https://timesofindia.indiatimes.com/india/india-among-top-nations-in-quantum-technology-says-science-minister-jitendra-singh/articleshow/133076727.cms",
+      "summary": "India is now at par with global leaders in advanced technology and manufacturing. Technology and artificial intelligence have significantly improved access to opportunities and education. Chandrayaan's discovery of water molecules on the Moon showcases India's specific capabilities. Opening the space and nuclear sectors to private companies has spurred rapid expansion. This progress indicates a fast pace in both manufacturing and technological development.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-10T03:59:10+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "748d4d927075952d9d052c7ebc4cdde8",
+      "title": "Rahul to Amit Shah: Won’t stop demanding accountability",
+      "link": "https://timesofindia.indiatimes.com/india/rahul-to-amit-shah-wont-stop-demanding-accountability/articleshow/133076636.cms",
+      "summary": "Rahul Gandhi has raised concerns regarding Home Minister Amit Shah's muted response to police actions against students protesting at Jantar Mantar over paper leaks. Jairam Ramesh reminded the minister of his silence during a previous security incident in Parliament, emphasizing the need for accountability as the monsoon session nears its conclusion, with opposition members urging the government to address the youth's grievances.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-10T03:47:42+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
