@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:25:06.530231+00:00",
+  "generated_at": "2026-08-09T22:23:26.247770+00:00",
   "stories": [
     {
       "id": "2e7cf4fb2f29c6d82df3beb9671be057",
@@ -34764,6 +34764,19 @@
       "lang": "en"
     },
     {
+      "id": "d89f1e56f38afcbb82167692556dec0c",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "date": "2026-08-09",
+      "timestamp": "Sun, 09 Aug 2026 21:25:04 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0aa8cefdd84a27b500297aadd897548f",
       "title": "State softball body to conduct regional tournaments",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/state-softball-body-to-conduct-regional-tournaments/article71324674.ece",
@@ -34890,6 +34903,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "04fed5edd7a41a0291ef3fd5e01819c6",
+      "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
+      "date": "2026-08-09",
+      "timestamp": "Sun, 09 Aug 2026 20:58:18 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -36623,19 +36649,6 @@
       "lang": "en"
     },
     {
-      "id": "7c5a284379721ead3fd013dfc799756b",
-      "title": "BJD sees potential opportunity to regain political ground",
-      "link": "https://www.thehindu.com/news/national/odisha/bjd-sees-potential-opportunity-to-regain-political-ground/article71324587.ece",
-      "summary": "Thriving on BJP government’s apparent loss of sheen and lack of strong political alternative in Odisha, the regional party appears to be putting its best foot forward",
-      "date": "2026-08-09",
-      "timestamp": "Sun, 09 Aug 2026 17:11:16 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b92afdce1ff01e5f11b964e8df34e690",
       "title": "NIA arrests alleged mastermind in illegal explosives case from Kerala’s Manjeri",
       "link": "https://www.thehindu.com/news/national/kerala/nia-arrests-alleged-mastermind-in-illegal-explosives-case-from-keralas-manjeri/article71324648.ece",
@@ -36923,9 +36936,9 @@
     },
     {
       "id": "f85f6caecf212fabac6d567422b81213",
-      "title": "UAE extradites alleged international crime boss Daniel Kinahan to Ireland",
+      "title": "Alleged cartel boss Daniel Kinahan charged in Ireland amid heavy security",
       "link": "https://www.aljazeera.com/news/2026/8/9/uae-extradites-alleged-international-crime-boss-daniel-kinahan-to-ireland?traffic_source=rss",
-      "summary": "Daniel Kinahan is the latest alleged member of the multinational organised crime group to face charges in Dublin.",
+      "summary": "Daniel Kinahan is the latest alleged member of the multinational organised crime group to be charged in Dublin.",
       "date": "2026-08-09",
       "timestamp": "Sun, 09 Aug 2026 16:00:50 +0000",
       "section": "International",
@@ -37962,19 +37975,6 @@
       "lang": "en"
     },
     {
-      "id": "d89f1e56f38afcbb82167692556dec0c",
-      "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-      "date": "2026-08-09",
-      "timestamp": "Sun, 09 Aug 2026 14:18:10 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e7bafd5f55f22e08efa7765f54f3f7a6",
       "title": "मुरादाबाद में तेंदुए की दहशत! इन इलाकों में लगे 16 पिंजरे, तैयारी देखने पहुंचे अफसर",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-moradabad-leopard-attack-16-cages-installed-to-capture-officers-observing-preparations-201786264282036.html",
@@ -38595,19 +38595,6 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "04fed5edd7a41a0291ef3fd5e01819c6",
-      "title": "Suspected crime boss Daniel Kinahan returning to Ireland in high-security operation",
-      "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Irish Prison Service bought a bulletproof and bombproof van to transport the 49-year-old to court after his extradition from Dubai.",
-      "date": "2026-08-09",
-      "timestamp": "Sun, 09 Aug 2026 12:39:18 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -39402,19 +39389,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "3967e550063ac7a0f8fbcf433bd4362b",
-      "title": "Mayawati opposes ‘creamy layer’ for SCs, STs in reservation, hits out at RSS",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-opposes-creamy-layer-for-scs-sts-in-reservation-hits-out-at-rss/article71324123.ece",
-      "summary": "Mayawati urged the RSS to respect the Constitution and stop advocating any changes to the reservation system.",
-      "date": "2026-08-09",
-      "timestamp": "Sun, 09 Aug 2026 11:27:30 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -43579,7 +43553,7 @@
     },
     {
       "id": "31ccb7fc491ad2f53ed1fd5e7c08495d",
-      "title": "सवालों के घेरे में एअर इंडिया टर्बुलेंस: सरकार को डोप टेस्ट की अंतिम रिपोर्ट का इंतजार, AAIB कर रहा जांच",
+      "title": "एअर इंडिया विमान टर्बुलेंस: सरकार को डोप टेस्ट की अंतिम रिपोर्ट का इंतजार, AAIB जांच के बीच उठ रहे कितने सवाल?",
       "link": "https://www.amarujala.com/india-news/air-india-phuket-delhi-turbulence-final-drug-report-awaited-crew-members-taken-off-roster-says-govt-2026-08-09",
       "summary": "Air India Phuket-Delhi turbulence: Final drug report awaited, crew members taken off roster, says govt - सवालों के घेरे में एअर इंडिया टर्बुलेंस: सरकार को डोप टेस्ट की अंतिम रिपोर्ट का इंतजार, AAIB कर रहा जांच",
       "date": "2026-08-09",
@@ -82422,12 +82396,25 @@
       "lang": "en"
     },
     {
+      "id": "c62c81b47f982049ae9488501e22a421",
+      "title": "Maharashtra FDA to introduce end-to-end traceability of milk to fight adulteration",
+      "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-fda-to-introduce-end-to-end-traceability-of-milk-to-fight-adulteration/article71325631.ece",
+      "summary": "Digitisation initiative to be launched to connect milk to milch animals and to trace anomalies to arrest adulteration process",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 03:41:56 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "73ee9fda071d735b285ebc8a4132d449",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 10 अगस्त के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-10",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-10",
-      "timestamp": "Mon, 10 Aug 2026 02:30:25 +0530",
+      "timestamp": "Mon, 10 Aug 2026 03:30:25 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -82440,12 +82427,90 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-10",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-10",
-      "timestamp": "Mon, 10 Aug 2026 02:30:14 +0530",
+      "timestamp": "Mon, 10 Aug 2026 03:30:13 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "f3113488575f2b7bcc7cddc3ae750f2d",
+      "title": "Rahul Gandhi in Prayagraj:राहुल के 'भारतीय डिग्रियों' वाले बयान पर बवाल, भाजपा ने किया पलटवार!",
+      "link": "https://www.amarujala.com/video/india-news/rahul-gandhi-in-prayagraj-uproar-over-rahul-s-remarks-on-indian-degrees-bjp-hits-back-2026-08-10",
+      "summary": "Rahul Gandhi in Prayagraj:राहुल के 'भारतीय डिग्रियों' वाले बयान पर बवाल, भाजपा ने किया पलटवार!",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 03:30:02 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3967e550063ac7a0f8fbcf433bd4362b",
+      "title": "BSP president Mayawati opposes ‘creamy layer’ idea for SCs, STs, hits out at RSS",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/mayawati-opposes-creamy-layer-for-scs-sts-in-reservation-hits-out-at-rss/article71324123.ece",
+      "summary": "Mayawati described the RSS’s position a reflection of a ‘casteist mindset’, adding it might serve narrow political interests but would undermine constitutional objectives",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 02:42:24 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "da1faf3ab732fe94db6e6e53cd6fde7c",
+      "title": "Protests on Nashik-Pune highway against revised Nashik-Pune railway route",
+      "link": "https://www.thehindu.com/news/national/maharashtra/protests-on-nashik-pune-highway-against-revised-nashik-pune-railway-route/article71325688.ece",
+      "summary": "MLC Satyajeet Tambe, nephew of Congress leader Balasaheb Thorat, was detained by police.",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 02:38:46 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ddfb28e6985b6d176dac9448bcace96f",
+      "title": "Census 2027: Ladakh to lead Independent India’s first caste enumeration",
+      "link": "https://www.thehindu.com/news/national/ladakh/census-2027-ladakh-to-lead-caste-enumeration-in-independent-india/article71325361.ece",
+      "summary": "Census form likely to have 40 questions, defence structures to be recorded on paper",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 02:36:15 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "31e5b76f3f07fa3107a5880b38c4664e",
+      "title": "Government data point to uneven implementation of NRTS, with several large States lagging behind",
+      "link": "https://www.thehindu.com/sci-tech/health/government-data-point-to-uneven-implementation-of-nrts-with-several-large-states-lagging-behind/article71324872.ece",
+      "summary": "Government data tabled in the Lok Sabha last month show that only 14.24 lakh of the country’s 46.02 lakh registered nursing personnel have been enrolled on the Nurses Registration and Tracking System",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 02:30:02 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7c5a284379721ead3fd013dfc799756b",
+      "title": "BJD sees potential opportunity to regain political ground",
+      "link": "https://www.thehindu.com/news/national/odisha/bjd-sees-potential-opportunity-to-regain-political-ground/article71324587.ece",
+      "summary": "Thriving on BJP government’s apparent loss of sheen and lack of strong political alternative in Odisha, the regional party appears to be putting its best foot forward",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 02:28:55 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "b2082ff7b10d18fd8752887e0f618fea",
@@ -83023,11 +83088,11 @@
       "id": "7215ee9c7d9dc229d2921a40e899ec5f",
       "title": "Group flags online terror threat issued against Pandits in Kashmir, seeks probe",
       "link": " ",
-      "summary": "",
+      "summary": "Panun Kashmir says a threat issued by United Liberation Council “has specifically named members of the Kashmiri Pandit community and disclosed their telephone numbers”",
       "date": "2026-08-10",
       "timestamp": "Mon, 10 Aug 2026 02:14:34 +0530",
       "section": "National",
-      "report_category": "National_General",
+      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -83938,19 +84003,6 @@
       "timestamp": "Mon, 10 Aug 2026 00:43:36 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "ddfb28e6985b6d176dac9448bcace96f",
-      "title": "Census 2027: Ladakh to lead independent India’s first caste enumeration",
-      "link": "https://www.thehindu.com/news/national/ladakh/census-2027-ladakh-to-lead-caste-enumeration-in-independent-india/article71325361.ece",
-      "summary": "Census form likely to have 40 questions, defence structures to be recorded on paper",
-      "date": "2026-08-10",
-      "timestamp": "Mon, 10 Aug 2026 00:39:42 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -107742,6 +107794,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f354e895dcef922bce719cf858401164",
+      "title": "Government may be going slow on FCRA to woo DMK, NCP(SP) for delimitation",
+      "link": "https://timesofindia.indiatimes.com/india/government-may-be-going-slow-on-fcra-to-woo-dmk-ncpsp-for-delimitation/articleshow/133075158.cms",
+      "summary": "As Parliament approaches its closing week, the FCRA amendment bill is notably absent from Monday's Lok Sabha agenda, signaling a possible political strategy from the government. The legislation's contentious nature is drawing connections to the pending delimitation exercise. Opposition groups, including DMK and NCP(SP), have raised alarms over its provisions. It seems the government wishes to foster a detailed discussion to address these criticisms.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-10T03:28:55+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "45b1fb91787c15386f240ac6176f67b7",
+      "title": "ED chargesheets against RCom, Reliance Infra in 40k crore bank fraud",
+      "link": "https://timesofindia.indiatimes.com/india/ed-chargesheets-against-rcom-reliance-infra-in-40k-crore-bank-fraud/articleshow/133075153.cms",
+      "summary": "The Enforcement Directorate has formally charged Reliance Communications and Reliance Infrastructure with serious financial offenses, including money laundering involving over forty thousand crore rupees in misappropriated bank funds. The allegations indicate substantial financial misconduct by both companies and related individuals. The agency is pursuing the confiscation of properties worth more than eight thousand crore rupees, stemming from a deliberate scheme to misdirect public funds from vital infrastructure projects.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-10T03:19:48+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5b6bbd6902d77c12e588ba3475b47e6f",
+      "title": "One crore homes completed and delivered under PM scheme: Government",
+      "link": "https://timesofindia.indiatimes.com/india/one-crore-homes-completed-and-delivered-under-pm-scheme-government/articleshow/133075146.cms",
+      "summary": "Since the inception of the Pradhan Mantri Awas Yojna, over one crore urban houses have been built, representing a significant achievement in housing development. Since 2015, 1.25 crore houses have gained approval, with nearly one crore allocated to women. Furthermore, PMAY-Urban 2.0 introduced over 2.09 lakh houses for EWS families, while 1.4 lakh homes were sanctioned for pucca construction under the Beneficiary Led Construction scheme.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-10T03:11:57+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "58568c9e7bc5705884aedfb81294b988",
+      "title": "ED director Rahul Navin's tenure extended by a year",
+      "link": "https://timesofindia.indiatimes.com/india/ed-director-rahul-navins-tenure-extended-by-a-year/articleshow/133074961.cms",
+      "summary": "Rahul Navin received a one-year extension as ED director, which ends his fixed tenure. His service is now extended until August 2027, including post-superannuation service. Navin's tenure began in September 2023 and was appointed ED director in August 2024. He has established a roadmap for completing probes and auctioning attached properties. This roadmap aims to return assets to rightful claimants and fraud victims.",
+      "date": "2026-08-09",
+      "timestamp": "2026-08-10T02:57:37+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
