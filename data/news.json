@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:30:59.692178+00:00",
+  "generated_at": "2026-08-10T23:28:30.208351+00:00",
   "stories": [
     {
       "id": "2e7cf4fb2f29c6d82df3beb9671be057",
@@ -11213,7 +11213,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-11",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-11",
-      "timestamp": "Tue, 11 Aug 2026 03:30:26 +0530",
+      "timestamp": "Tue, 11 Aug 2026 04:30:27 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -11226,12 +11226,38 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-11",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-11",
-      "timestamp": "Tue, 11 Aug 2026 03:30:13 +0530",
+      "timestamp": "Tue, 11 Aug 2026 04:30:14 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "532d6160f352a98b9dd7a78495387419",
+      "title": "Tiranga is a symbol of India’s honour, pride and glory, says Yogi",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/tiranga-is-a-symbol-of-indias-honour-pride-and-glory-says-yogi/article71328815.ece",
+      "summary": "",
+      "date": "2026-08-11",
+      "timestamp": "Tue, 11 Aug 2026 04:07:43 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "611e1c0ca15718b6bbff5ee64405f617",
+      "title": "BJP, BJD at tug-of-war over employment in Odisha",
+      "link": "https://www.thehindu.com/news/national/odisha/bjp-bjd-at-tug-of-war-over-employment-in-odisha/article71328538.ece",
+      "summary": "Investment proposals worth approximately ₹21 lakh crore are expected to generate 20 lakh employment opportunities, says Odisha CM Mohan Charan Majhi",
+      "date": "2026-08-11",
+      "timestamp": "Tue, 11 Aug 2026 04:03:28 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "f32a27eb7d19d0c86a387d84974650f9",
@@ -11245,6 +11271,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "56f55c13f3210f2d0280eac1ae7d9b13",
+      "title": "Driver dies days after assault by group of kanwariyas in Uttar Pradesh; FIRs give conflicting accounts",
+      "link": "https://www.thehindu.com/news/national/driver-dies-days-after-assault-by-group-of-kanwariyas-in-uttar-pradesh-firs-give-conflicting-accounts/article71328753.ece",
+      "summary": "Azeem was beaten up allegedly by an auto driver and kanwariyas; auto driver’s family blames Azeem",
+      "date": "2026-08-11",
+      "timestamp": "Tue, 11 Aug 2026 03:19:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "0809e55e50fac2cb7417b9a4f6c5a740",
@@ -11751,6 +11790,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "c7fe044b1584583afc7a3cae6084b9cd",
+      "title": "For Jharkhand’s job aspirants, it was a march for lost years",
+      "link": "https://www.thehindu.com/news/national/for-jharkhands-job-aspirants-it-was-a-march-for-lost-years/article71329576.ece",
+      "summary": "Protesters say State has been battling paper leaks, exam cancellations since its formation; job aspirants say they want a CBI probe into recruitment anomalies as they do not trust State authorities; they question police for putting up barbed barricades like ‘on border’ and warn that youth will give an answer through votes",
+      "date": "2026-08-11",
+      "timestamp": "Tue, 11 Aug 2026 02:41:15 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -12776,6 +12828,19 @@
       "timestamp": "Tue, 11 Aug 2026 00:39:45 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1bda54c71397389b4669e346cca18be1",
+      "title": "Petroleum dealers condemn police ‘harassment’ over digital transactions",
+      "link": "https://www.thehindu.com/news/cities/chennai/petroleum-dealers-condemn-police-harassment-over-digital-transactions/article71329338.ece",
+      "summary": "TNPDA president says that OMC’s dealers will be forced to consider suspension of all digital payment modes and card transactions if the harassment continues",
+      "date": "2026-08-11",
+      "timestamp": "Tue, 11 Aug 2026 00:39:37 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -73790,6 +73855,19 @@
       "lang": "en"
     },
     {
+      "id": "eef912aae9e11b33b0485134294d102c",
+      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
+      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The American Academy of Pediatrics calls the recommendation on measles, mumps and rubella shots \"dangerous\".",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 23:03:52 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "04531c4f938dd966003a6c3516c7680d",
       "title": "Iran says Saudi-Pakistan-Turkey deal shows 'change in perception' towards U.S.",
       "link": "https://www.thehindu.com/news/international/iran-says-saudi-pakistan-turkey-deal-shows-change-in-perception-towards-us/article71329795.ece",
@@ -73920,6 +73998,19 @@
       "lang": "en"
     },
     {
+      "id": "b12079e84921a0fe63d0e6c14fa040a2",
+      "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
+      "summary": "Video from Pereira airport in Colombia shows violent shaking during a magnitude 7.4 earthquake",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 22:46:32 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7bacc9e1b7e318266a3247655733b3ba",
       "title": "Mohsen Rezaei appointed as secretary of Iran's top security body",
       "link": "https://www.thehindu.com/news/international/mohsen-rezaei-appointed-as-secretary-of-irans-top-security-body/article71329753.ece",
@@ -73946,6 +74037,19 @@
       "lang": "en"
     },
     {
+      "id": "70722259f8d3ffe87729018b17dffc14",
+      "title": "Ceuta mayor calls for migrant detention amid mass influx crisis",
+      "link": "https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss",
+      "summary": "Thousands of migrants in Ceuta face dire conditions, sparking political and social tensions in the Spanish territory.",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 22:41:03 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "3d0539611e4333c686f72e389d9ac414",
       "title": "K.M. Basheer hit-and-run case: witnesses give crucial testimony in court",
       "link": "https://www.thehindu.com/news/national/kerala/km-basheer-hit-and-run-case-witnesses-give-crucial-testimony-in-court/article71329334.ece",
@@ -73955,6 +74059,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2c6789df379b6279a11d74b1fcf3f31d",
+      "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
+      "summary": "Rescue teams are searching collapsed buildings after a powerful earthquake struck western Colombia.",
+      "date": "2026-08-10",
+      "timestamp": "Mon, 10 Aug 2026 22:35:48 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -74515,19 +74632,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "eef912aae9e11b33b0485134294d102c",
-      "title": "Trump signs order to limit childhood vaccines and split MMR shots",
-      "link": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration recommends separating the measles, mumps and rubella vaccine into three different shots administered in separate visits.",
-      "date": "2026-08-10",
-      "timestamp": "Mon, 10 Aug 2026 21:33:25 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -109770,6 +109874,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2be131a2a8d6b5d37be69aab8d793eaa",
+      "title": "India move will muddle border talks: China",
+      "link": "https://timesofindia.indiatimes.com/india/india-move-will-muddle-border-talks-china/articleshow/133139655.cms",
+      "summary": "",
+      "date": "2026-08-10",
+      "timestamp": "2026-08-11T04:39:37+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
