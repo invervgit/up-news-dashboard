@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:33:38.626489+00:00",
+  "generated_at": "2026-08-12T23:34:22.174595+00:00",
   "stories": [
     {
       "id": "adb17cba9e012a3114585a6ffcbf5502",
@@ -119,6 +119,45 @@
       "lang": "en"
     },
     {
+      "id": "e8d9fc84b4892ee84a96dfda760c21e8",
+      "title": "Trump administration arrests Southern Poverty Law Center expert for fraud",
+      "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-arrests-southern-poverty-law-center-expert-for-fraud?traffic_source=rss",
+      "summary": "Heidi Beirich, an expert on far-right extremism, has been charged over alleged misuse of donor funds to pay informants.",
+      "date": "2026-08-12",
+      "timestamp": "Wed, 12 Aug 2026 23:23:14 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3efd54bc16e7368082377fa58e9dae8d",
+      "title": "Media groups sue Trump over paid access to public social media posts",
+      "link": "https://www.aljazeera.com/economy/2026/8/12/media-groups-sue-trump-over-paid-access-to-public-social-media-posts?traffic_source=rss",
+      "summary": "Lawsuit claims Trump profits unfairly by charging up to $100,000 monthly for exclusive access to presidential posts.",
+      "date": "2026-08-12",
+      "timestamp": "Wed, 12 Aug 2026 23:23:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f56645047879e8b11824d648e3e9f063",
+      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "date": "2026-08-12",
+      "timestamp": "Wed, 12 Aug 2026 23:19:57 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "66178920d8f0994f7c53c4f677e3175c",
       "title": "CJP’s Saurav Das alleges ‘intimidation’ by Puducherry police; official rejects claim as false",
       "link": "https://www.thehindu.com/news/national/cjps-saurav-das-alleges-intimidation-by-puducherry-police-official-rejects-claim-as-false/article71338196.ece",
@@ -167,6 +206,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b3998ae854a36d687b1988ae6866c431",
+      "title": "Travis Kelce shares first details from his wedding to Taylor Swift - 'Best night of my life'",
+      "link": "https://www.bbc.co.uk/news/articles/cx2r179e232o?at_medium=RSS&at_campaign=rss",
+      "summary": "In the comments, Kelce called Swift his \"wife\" for first time and said it was a \"childhood dream\" to wed at Madison Square Garden.",
+      "date": "2026-08-12",
+      "timestamp": "Wed, 12 Aug 2026 23:11:35 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -262,15 +314,28 @@
       "lang": "en"
     },
     {
-      "id": "a62d2fe9ebeb18fc6b63190200ae9736",
-      "title": "For I-Day, Reception (At Home) at Rashtrapati Bhavan to showcase country’s cultural heritage",
-      "link": "https://www.thehindu.com/news/national/for-i-day-reception-at-home-at-rashtrapati-bhavan-to-showcase-countrys-cultural-heritage/article71335842.ece",
-      "summary": "Around 35 artists from the four States of Chhattisgarh, Goa, Madhya Pradesh and Maharashtra will present folk dances and musical traditions, including Maharashtra’s Lavani and Songhi Mukhawate",
+      "id": "09fddf747c47c10e06e85412e1649c83",
+      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
+      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
       "date": "2026-08-12",
-      "timestamp": "Wed, 12 Aug 2026 22:56:57 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
+      "timestamp": "Wed, 12 Aug 2026 22:58:45 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "357b44f60f4dc52500a09320deced082",
+      "title": "Thousands of Canadians call for US ambassador's expulsion",
+      "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
+      "date": "2026-08-12",
+      "timestamp": "Wed, 12 Aug 2026 22:56:44 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -366,6 +431,19 @@
       "lang": "en"
     },
     {
+      "id": "39a15cb021ebfb8f2beea59056f0b11f",
+      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
+      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
+      "date": "2026-08-12",
+      "timestamp": "Wed, 12 Aug 2026 22:41:46 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b795b0c861addf92b9a38e5ef7cd07ea",
       "title": "Interview focused on CV, previous experience, say Ram Temple CEO candidates",
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/interview-focused-on-cv-previous-experience-say-ram-temple-ceo-candidates/article71337290.ece",
@@ -453,6 +531,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "799c8133faa84ebe3d42323586d633be",
+      "title": "Trump administration plans to give ICE officers electric-shock gloves",
+      "link": "https://www.aljazeera.com/news/2026/8/12/trump-administration-plans-to-give-ice-officers-electric-shock-gloves?traffic_source=rss",
+      "summary": "US Homeland Security is expected to buy up to $20m in gloves amid criticism of the president's immigration crackdown.",
+      "date": "2026-08-12",
+      "timestamp": "Wed, 12 Aug 2026 22:22:57 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -1315,19 +1406,6 @@
       "lang": "en"
     },
     {
-      "id": "f56645047879e8b11824d648e3e9f063",
-      "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
-      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
-      "date": "2026-08-12",
-      "timestamp": "Wed, 12 Aug 2026 20:58:39 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "a412aa868145d2eebdf38b630584dc74",
       "title": "BJP opposes Nagendra’s re-induction into Cabinet",
       "link": "https://www.thehindu.com/news/national/karnataka/bjp-opposes-nagendras-re-induction-into-cabinet/article71337087.ece",
@@ -1363,32 +1441,6 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "09fddf747c47c10e06e85412e1649c83",
-      "title": "Trump says White House press secretary Karoline Leavitt to leave post",
-      "link": "https://www.bbc.co.uk/news/articles/cvglzrvyrz3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Leavitt will depart from her role to spend time with her young children and family, the president says.",
-      "date": "2026-08-12",
-      "timestamp": "Wed, 12 Aug 2026 20:57:47 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "39a15cb021ebfb8f2beea59056f0b11f",
-      "title": "Woman pulled alive from rubble 36 hours after Colombia quake",
-      "link": "https://www.bbc.co.uk/news/articles/cz7d2e5wlgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Following a 10-hour rescue operation, emergency workers pulled the 32-year-old from beneath slabs of concrete.",
-      "date": "2026-08-12",
-      "timestamp": "Wed, 12 Aug 2026 20:56:11 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -3197,19 +3249,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "357b44f60f4dc52500a09320deced082",
-      "title": "Thousands of Canadians call for US ambassador's expulsion",
-      "link": "https://www.bbc.co.uk/news/articles/c9d83j4ql2xo?at_medium=RSS&at_campaign=rss",
-      "summary": "An online petition accusing Pete Hoekstra of diplomatic interference in Canadian domestic affairs has garnered more than 60,000 signatures.",
-      "date": "2026-08-12",
-      "timestamp": "Wed, 12 Aug 2026 16:35:52 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -36303,12 +36342,116 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-13",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-13",
-      "timestamp": "Thu, 13 Aug 2026 04:00:43 +0530",
+      "timestamp": "Thu, 13 Aug 2026 05:00:40 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "25d70417a56ca409a2d8fae726c3a462",
+      "title": "पढ़ें 13 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-13",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 05:00:27 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "f9c803840d56fe18e320dba9fec73837",
+      "title": "TOP News: नीट पेपर लीक मामले में 13 आरोपियों पर सुनवाई आज; झारखंड भर्ती घोटाले में 150 लोग जांच के घेरे में",
+      "link": "https://www.amarujala.com/india-news/top-news-neet-paper-leak-justice-yashwant-varma-case-pixel-11-launch-britain-by-election-and-more-2026-08-13",
+      "summary": "TOP News: नीट पेपर लीक मामले में 13 आरोपियों पर सुनवाई आज; झारखंड भर्ती घोटाले में 150 लोग जांच के घेरे में",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 04:56:21 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "01581a1d29f93c7f6cbbbd185399e42d",
+      "title": "Saffron to white to saffron again: No end to controversy over painting of Kolkata’s Academy of Fine Arts",
+      "link": "https://www.thehindu.com/news/cities/kolkata/saffron-to-white-to-saffron-again-no-end-to-controversy-over-painting-of-kolkatas-academy-of-fine-arts/article71337383.ece",
+      "summary": "BJP state president Samik Bhattacharya said that action will be taken against the ones who did it as politics of colour is not part of BJP’s agenda.",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 04:42:23 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2555f4d0312030d8059fed01421ab4ee",
+      "title": "अरुणाचल के ताक्सिंग में घुस रहा ड्रैगन: PPA की फैक्ट फाइंडिंग टीम ने जताई चिंता, रिपोर्ट में PLA पर क्या दावे?",
+      "link": "https://www.amarujala.com/india-news/whether-dragon-entering-taksing-in-arunachal-ppa-fact-finding-team-concerned-know-claim-about-pla-in-report-2026-08-13",
+      "summary": "अरुणाचल के ताक्सिंग में घुस रहा ड्रैगन: PPA की फैक्ट फाइंडिंग टीम ने जताई चिंता, रिपोर्ट में PLA पर क्या दावे?",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 04:37:15 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "939b5a0948ecded6aee2d13e73e504a2",
+      "title": "Gen-Z Connect: मैदान-ए-जंग में कम आयु के युवाओं को उतारने की कवायद, खास वर्ग से जुड़ने व इन्हें साधने की मुहिम",
+      "link": "https://www.amarujala.com/india-news/gen-z-connect-and-politics-eyes-on-young-people-in-political-arena-campaign-to-win-over-specific-demography-2026-08-13",
+      "summary": "Gen-Z Connect: मैदान-ए-जंग में कम आयु के युवाओं को उतारने की कवायद, खास वर्ग से जुड़ने व इन्हें साधने की मुहिम",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 04:28:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3b97056af7162fc938da56ef7ac566d9",
+      "title": "The marathoner technocrat who gave new direction to Tata Group",
+      "link": "https://www.thehindu.com/business/Industry/the-marathoner-technocrat-who-gave-new-direction-to-tata-group/article71337151.ece",
+      "summary": "N. Chandrasekharan steered the Tata conglomerate through unchartered territories making massive investments in semiconductors, electronics manufacturing, consumer Internet platform, mobile technology and battery giga-factories",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 04:22:05 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dba60d2e34e7559aa9f011e9bd49ac10",
+      "title": "Lucknow: शत्रु संपत्तियां अब किराये पर नहीं दी जाएंगी, सरकार करेगी नीलामी; गृह मंत्रालय ने दिए निर्देश",
+      "link": "https://www.amarujala.com/lucknow/lucknow-enemy-properties-will-no-longer-be-rented-out-the-government-will-auction-them-2026-08-13",
+      "summary": "शत्रु संपत्तियों को अब सरकार न किराये पर देगी और न ही लीज पर। लीज का नवीनीकरण भी नहीं होगा।",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 04:14:39 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "7a91c3a49271a62dadbe450f32d973ff",
+      "title": "झारखंड भर्ती घोटाला : सीआईडी की पूछताछ में वित्तीय लेनदेन का खुलासा, ईडी जांच के घेरे में 150 लोग",
+      "link": "https://www.amarujala.com/india-news/jharkhand-jharkhand-jpsc-scam-financial-transactions-revealed-during-cid-probe-150-people-under-ed-scanner-2026-08-13",
+      "summary": "झारखंड भर्ती घोटाला : सीआईडी की पूछताछ में वित्तीय लेनदेन का खुलासा, ईडी जांच के घेरे में 150 लोग",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 04:12:42 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "8c2e42085539499f1fdf4fef38dde02d",
@@ -36319,19 +36462,6 @@
       "timestamp": "Thu, 13 Aug 2026 03:36:45 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
-      "id": "25d70417a56ca409a2d8fae726c3a462",
-      "title": "पढ़ें 13 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-13",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-08-13",
-      "timestamp": "Thu, 13 Aug 2026 03:30:12 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
@@ -37286,6 +37416,32 @@
       "lang": "en"
     },
     {
+      "id": "e0a46b303ebca0f596ca011ce6b53c34",
+      "title": "CM cautions police against being lenient towards criminals",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/cm-cautions-police-against-being-lenient-towards-criminals/article71337953.ece",
+      "summary": "Police need to constantly evolve their methods, strengthen technology integration, says the Chief Minister, and directs them to intensify action against ganja, drugs and social media-driven criminal activity",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 02:31:57 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "934456727e050e2f7ec1e94359410061",
+      "title": "A.P. CM Naidu calls for value addition to beach sand minerals",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/ap-cm-naidu-calls-for-value-addition-to-beach-sand-minerals/article71336988.ece",
+      "summary": "Adani Group briefs Naidu about the titanium plant proposed in Srikakulam district with an investment of ₹16,000 crore",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 02:31:00 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d95e0eb45e2f3a9bfd9375978079b6a9",
       "title": "Gorakhpur News: शिवकुमार हत्याकांड में चार्जशीट की तैयारी, हलका इंचार्ज की भूमिका की भी जांच",
       "link": "https://www.amarujala.com/gorakhpur/viral-videos-and-electronic-evidence-alongside-fewer-witnesses-will-form-the-basis-of-the-investigation-gorakhpur-news-c-7-gkp1038-1417095-2026-08-13",
@@ -37361,6 +37517,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "a62d2fe9ebeb18fc6b63190200ae9736",
+      "title": "For Independence Day Reception (At Home), Rashtrapati Bhavan to showcase country’s cultural heritage",
+      "link": "https://www.thehindu.com/news/national/for-i-day-reception-at-home-at-rashtrapati-bhavan-to-showcase-countrys-cultural-heritage/article71335842.ece",
+      "summary": "Around 35 artists from the four States of Chhattisgarh, Goa, Madhya Pradesh and Maharashtra will present folk dances and musical traditions, including Maharashtra’s Lavani and Songhi Mukhawate",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 02:24:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
