@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:34:47.349617+00:00",
+  "generated_at": "2026-08-13T23:34:49.329804+00:00",
   "stories": [
     {
       "id": "adb17cba9e012a3114585a6ffcbf5502",
@@ -25157,6 +25157,19 @@
       "lang": "en"
     },
     {
+      "id": "77ee309f16961c85ae3e2065d515621c",
+      "title": "Gaza City police chief killed as Israel pushes on with deadly strikes",
+      "link": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
+      "summary": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 23:09:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "88d87a7f29953e58930116c54c259f74",
       "title": "माफिया अतीक अहमद गैंग पर बड़ी चोट की तैयारी, 156 करोड़ की बेनामी संपत्ति होगी कुर्क",
       "link": "https://www.livehindustan.com/uttar-pradesh/mafia-don-atiq-ahmeds-gang-move-afoot-to-deal-a-major-blow-benami-assets-worth-156-crore-to-be-attached-201786641683971.html",
@@ -25167,6 +25180,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7d4982bf95fa98d2530c50cdaff03d9c",
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 23:06:23 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -25530,19 +25556,6 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7d4982bf95fa98d2530c50cdaff03d9c",
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "date": "2026-08-13",
-      "timestamp": "Thu, 13 Aug 2026 22:02:54 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -98963,7 +98976,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-14",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 04:00:36 +0530",
+      "timestamp": "Fri, 14 Aug 2026 05:00:38 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -98976,12 +98989,129 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-14",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 04:00:22 +0530",
+      "timestamp": "Fri, 14 Aug 2026 05:00:22 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "83ddf81284416fc6b2c0f2686d70db2c",
+      "title": "Air India: एक मिनट में 676 फीट नीचे आया था विमान, एअर इंडिया फुकेट-दिल्ली उड़ान मामले की जांच और क्या खुलासे?",
+      "link": "https://www.amarujala.com/india-news/air-india-aircraft-dropped-676-feet-in-one-minute-phuket-delhi-flight-incident-probe-on-pilots-daily-drug-test-2026-08-14",
+      "summary": "Air India: एक मिनट में 676 फीट नीचे आया था विमान, एअर इंडिया फुकेट-दिल्ली उड़ान मामले की जांच और क्या खुलासे?",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:53:23 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "cb7a280ffa6023a87ce481576d7dc04b",
+      "title": "Ambala Sikh Sangat Protest: कौन हैं गुरसिमरन सिंह मंड जिसकी पिटाई पर पुलिस से भिड़े सिख? Haryana",
+      "link": "https://www.amarujala.com/video/india-news/ambala-sikh-sangat-protest-who-is-gursimran-singh-mand-whose-beating-led-sikhs-to-clash-with-the-police-har-2026-08-14",
+      "summary": "अंबाला में सिख समाज और पुलिस के बीच हुई भिड़ंत ने पूरे विवाद को और ज्यादा गरमा दिया है। लेकिन इस तनाव की शुरुआत आखिर हुई कहां से? पूरा मामला जुड़ा है गुरसिमरन सिंह मंड से।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:49:34 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "7b2476468e8b4ef7b581e0a0b3f7eb91",
+      "title": "Jewar MLA hits back at opposition over criticism of water logging video",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/jewar-mla-hits-back-at-opposition-over-criticism-of-water-logging-video/article71342059.ece",
+      "summary": "During the SP rule, nothing happened for the construction and development of the airport, Jewar MLA Dhirendra Singh said",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:31:43 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c8f501c2774d75a460d51c81a0001fd7",
+      "title": "Uttar Pradesh government accelerates disposal of revenue cases",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-government-accelerates-disposal-of-revenue-cases/article71342168.ece",
+      "summary": "“Under Section 24, related to demarcation/measurement, 28,556 cases were pending as of December 31, 2025. From January 1 to July 31, 2026, 91,472 new cases were received, of which 39,645 cases were disposed,” a government statement said",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:28:23 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1ffb210fbdf6b92a91304f3655324a50",
+      "title": "क्या केंद्रीय सियासत में बड़े उलटफेर के संकेत?: एनडीए के कुनबे में शामिल होगा द्रमुक, कैबिनेट में जगह भी संभव",
+      "link": "https://www.amarujala.com/india-news/national-politics-signs-of-major-shifts-dmk-set-to-join-nda-cabinet-berth-possible-ncp-sharad-pawar-and-others-2026-08-14",
+      "summary": "क्या केंद्रीय सियासत में बड़े उलटफेर के संकेत?: एनडीए के कुनबे में शामिल होगा द्रमुक, कैबिनेट में जगह भी संभव",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:27:16 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "4db799df9947f8fefae4b3e5feded29b",
+      "title": "Two arrested after Muslim man dies following alleged assault by Kanwariyas",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/two-arrested-after-muslim-man-dies-following-alleged-assault-by-kanwariyas/article71342269.ece",
+      "summary": "Hapur Police have arrested two men, Lokesh and Shivam, in connection with the death of 27-year-old Mohd Azeem, who died from injuries sustained during an alleged assault by kanwariyas following a road accident",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:25:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "27880a689acbe2b09f0299f0a22b5029",
+      "title": "Health Minister apologises after disability rights activists protest against his use of expression",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/health-minister-apologises-after-disability-rights-activists-protested-his-use-of-term/article71342468.ece",
+      "summary": "",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:19:20 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9a0495b32efd37c4f39c70dd561e5189",
+      "title": "आकस्मिक नहीं LAC पर हलचल: भारत-चीन वार्ता से पहले सीमा पर तनाव सोचा समझा पैटर्न! जिनपिंग की यात्रा पर कब-क्या?",
+      "link": "https://www.amarujala.com/india-news/activity-near-lac-is-no-coincidence-border-tension-ahead-of-india-china-talks-calculated-pattern-jinping-regim-2026-08-14",
+      "summary": "आकस्मिक नहीं LAC पर हलचल: भारत-चीन वार्ता से पहले सीमा पर तनाव सोचा समझा पैटर्न! जिनपिंग की यात्रा पर कब-क्या?",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:16:23 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c2527bad2d346a0f8eb1eee4b4ad69e9",
+      "title": "अल्टीमेटम : सरकारी जमीन से एक सप्ताह में हटाएं चर्च",
+      "link": "https://www.amarujala.com/lucknow/ultimatum-remove-church-from-government-land-within-a-week-lucknow-news-c-13-lko1096-1874797-2026-08-14",
+      "summary": "मोहनलालगंज के नया खेड़ा भदुसेवा में सरकारी जमीन पर बनाए गए चर्च के बाहर बृहस्पतिवार को प्रशासन ने नोटिस चस्पा कर एक सप्ताह का अल्टीमेटम दिया है।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:10:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
     },
     {
       "id": "4f9274dbeac5dcf70d5b4717effa11c9",
@@ -98994,6 +99124,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "03d045a9bb5b081b887df91311b444d6",
+      "title": "Bengal government withdraws Banga Bibhusan to BJP MP Nagendra Roy",
+      "link": "https://www.thehindu.com/news/national/west-bengal/bengal-government-withdraws-banga-bibhusan-to-bjp-mp-nagendra-roy/article71341237.ece",
+      "summary": "Nagendra Roy was conferred the award in February this year by the Trinamool Congress government. A leader from Cooch Behar was nominated to the Upper House from West Bengal in July 2023 as a candidate backed by the BJP.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 03:16:35 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -100398,19 +100541,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "27880a689acbe2b09f0299f0a22b5029",
-      "title": "Health Minister apologises after disability rights activists protest against his use of expression",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/health-minister-apologises-after-disability-rights-activists-protested-his-use-of-term/article71342468.ece",
-      "summary": "",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 01:28:04 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
