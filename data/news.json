@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T21:38:22.758895+00:00",
+  "generated_at": "2026-08-13T22:34:47.349617+00:00",
   "stories": [
     {
       "id": "adb17cba9e012a3114585a6ffcbf5502",
@@ -25534,6 +25534,19 @@
       "lang": "en"
     },
     {
+      "id": "7d4982bf95fa98d2530c50cdaff03d9c",
+      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
+      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 22:02:54 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "08606c7dccfb76f00db9befde9b16e1d",
       "title": "Shops in Kadavanthra fined ₹6,500 in food safety drive",
       "link": "https://www.thehindu.com/news/national/kerala/shops-in-kadavanthra-fined-6500-in-food-safety-drive/article71342010.ece",
@@ -25686,6 +25699,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e1e53d14aa13f362316ffa2dade6b8d1",
+      "title": "Engine parts smashed Ryanair window that man's head was sucked out of, report says",
+      "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
+      "summary": "A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 21:43:47 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -25950,6 +25976,19 @@
       "lang": "en"
     },
     {
+      "id": "9400b1af0c958c332059783f32d0e501",
+      "title": "Tate supporters rally for brothers ahead of bail hearing in Miami",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/tate-supporters-rally-for-brothers-ahead-of-bail-hearing-in-miami?traffic_source=rss",
+      "summary": "Supporters of Andrew and Tristan Tate gathered outside a Miami detention centre ahead of their bail hearing.",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 21:17:45 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "47693728ddae2391e6ac0abb3af8f868",
       "title": "Divi’s skill training initiative empowers 21 women",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/divis-skill-training-initiative-empowers-21-women/article71340922.ece",
@@ -26028,6 +26067,19 @@
       "lang": "en"
     },
     {
+      "id": "871b8e7582a8887b6034c031826bfd0c",
+      "title": "Israeli strikes in Gaza kill two, including police chief",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-strikes-in-gaza-kill-two-including-police-chief?traffic_source=rss",
+      "summary": "Israeli drone strikes killed at least 2 people and wounded several others in Gaza on Thursday.",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 21:10:47 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6b99792f2c656c9b00d42f9650765310",
       "title": "SVU gets advanced scanner to digitise ancient manuscripts",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/svu-gets-advanced-scanner-to-digitise-ancient-manuscripts/article71341355.ece",
@@ -26090,6 +26142,32 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "bfd7e96bf8de47aec5d164313f8c70c9",
+      "title": "Mexico says Colombia rejected its earthquake rescue team",
+      "link": "https://www.aljazeera.com/news/2026/8/13/mexico-says-colombia-rejected-its-earthquake-rescue-team?traffic_source=rss",
+      "summary": "Colombia denies politics played a role after Mexico said its military rescuers were refused entry.",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 21:04:45 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "042d39bb5eed44e03dca292658f43b72",
+      "title": "What’s at stake in Zambia’s elections?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss",
+      "summary": "The economy dominates voter concerns in the southern African country.",
+      "date": "2026-08-13",
+      "timestamp": "Thu, 13 Aug 2026 21:04:22 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -26752,19 +26830,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "7d4982bf95fa98d2530c50cdaff03d9c",
-      "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
-      "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of sailors on the USS Abraham Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
-      "date": "2026-08-13",
-      "timestamp": "Thu, 13 Aug 2026 20:01:30 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -98898,7 +98963,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-14",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 03:00:55 +0530",
+      "timestamp": "Fri, 14 Aug 2026 04:00:36 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -98911,12 +98976,64 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-14",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 03:00:39 +0530",
+      "timestamp": "Fri, 14 Aug 2026 04:00:22 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "4f9274dbeac5dcf70d5b4717effa11c9",
+      "title": "Yamuna City: जेब में रखा ब्रांडेड कंपनी का मोबाइल फटा, युवक के दोनों हाथ झुलसे; धमाके से स्टेशन पर मची भगदड़",
+      "link": "https://www.amarujala.com/delhi-ncr/yamuna-city-branded-mobile-phone-in-pocket-explodes-leaving-youth-with-burnt-hands-2026-08-14",
+      "summary": "जेब में रखा ब्रांडेट कंपनी का मोबाइल फटने के कारण दनकौर कोतवाली क्षेत्र के गांव पीपलका निवासी 26 वर्षीय युवक गंभीर रूप से घायल हो गया।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 03:26:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "37e1f762c98702ebd4d27c99d58768a5",
+      "title": "Contribution of Syama Prasad to be included in school textbooks from next year: Adhikari",
+      "link": "https://www.thehindu.com/news/national/west-bengal/contribution-of-syama-prasad-to-be-included-in-school-textbooks-from-next-year-adhikari/article71341565.ece",
+      "summary": "After the BJP came to power in West Bengal, the new government is going an extra mile to build statues and memorial in the name of Syama Prasad Mookerjee",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 03:12:33 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b7e6968f310c877e71a9f59b46da7a54",
+      "title": "Bihar to provide financial assistance, job to Bharat Bhushan Tiwari’s family",
+      "link": "https://www.thehindu.com/news/national/bihar/bihar-to-provide-financial-assistance-job-to-bharat-bhushan-tiwaris-family/article71340873.ece",
+      "summary": "",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 03:06:40 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ab2593d9b8e0f17fea5644cbae983bc6",
+      "title": "Protect farmers’ rights before pushing cement project: Meghalaya tribal body tells government",
+      "link": "https://www.thehindu.com/news/national/meghalaya/protect-farmers-rights-before-pushing-cement-project-meghalaya-tribal-body-tells-government/article71341628.ece",
+      "summary": "The authorities in East Jaintia Hills have been unable to hold public hearings following opposition to a ₹1,800-crore integrated cement plant and limestone mining project since May",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 02:56:51 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "c4b575717eee1b5573180b165d98e19e",
@@ -112461,6 +112578,84 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9b51f4aa231ced4b209d340d9df54b31",
+      "title": "Monsoon Session washed out; INDIA bloc skips customary tea",
+      "link": "https://timesofindia.indiatimes.com/india/monsoon-session-washed-out-india-bloc-skips-customary-tea/articleshow/133224389.cms",
+      "summary": "LS Posts 19% Productivity And RS 39%",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-14T03:33:50+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "819bbc40e9bdc66b1c1c99bc3aa783aa",
+      "title": "Indian officials may join Taliban’s Victory Day celebrations",
+      "link": "https://timesofindia.indiatimes.com/india/indian-officials-may-join-talibans-victory-day-celebrations/articleshow/133224364.cms",
+      "summary": "",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-14T03:30:46+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "96e577dcf791bf2218b18ae743265301",
+      "title": "US saw most cases of attack on Indians abroad in 2021-25: MEA",
+      "link": "https://timesofindia.indiatimes.com/india/us-saw-most-cases-of-attack-on-indians-abroad-in-2021-25-mea/articleshow/133224357.cms",
+      "summary": "",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-14T03:27:04+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "198ec2bd38c9fe45354d689db7e36043",
+      "title": "Disproportionate assets case: Rahul Gandhi questions Allahabad HC order, says shift case",
+      "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-questions-allahabad-hc-order-says-shift-case/articleshow/133224343.cms",
+      "summary": "",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-14T03:22:23+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0d0c9d30dd7217ee7948231f1c9abb08",
+      "title": "SC slams Centre &FSSAI, says you can’t take court for a ride",
+      "link": "https://timesofindia.indiatimes.com/india/sc-slams-centre-fssai-says-you-canttake-court-for-a-ride/articleshow/133224327.cms",
+      "summary": "",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-14T03:17:17+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4cc8f431619d1e695638087532bf5764",
+      "title": "Consumer forums can’t be mere rehabalitaion centres for retired: Supreme Court",
+      "link": "https://timesofindia.indiatimes.com/india/consumer-forums-cant-be-mere-rehabalitaion-centres-for-retired-sc/articleshow/133224317.cms",
+      "summary": "",
+      "date": "2026-08-13",
+      "timestamp": "2026-08-14T03:13:05+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
