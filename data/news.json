@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:53:08.027266+00:00",
+  "generated_at": "2026-08-14T11:39:41.082242+00:00",
   "stories": [
     {
       "id": "adb17cba9e012a3114585a6ffcbf5502",
@@ -28663,19 +28663,6 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "ef9d8448815cc48f5519b40e51f96306",
-      "title": "Zambians voting as president bids for second term",
-      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hakainde Hichilema wants five more years but continued cost of living pressures have dented his appeal.",
-      "date": "2026-08-13",
-      "timestamp": "Thu, 13 Aug 2026 14:29:11 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -87518,6 +87505,227 @@
       "lang": "en"
     },
     {
+      "id": "6bc69d08e4971c796e63c4850980cc3c",
+      "title": "सिपाही की पत्नी ने सरकारी राइफल से खुद को उड़ाया, गोली की आवाज पर दौड़ पड़ीं बेटियां",
+      "link": "https://www.livehindustan.com/uttar-pradesh/saharanpur-constable-wife-shoots-herself-with-service-rifle-201786706627970.html",
+      "summary": "उत्तर प्रदेश के सहारनपुर में सिपाही की पत्नी ने सरकारी राइफल से खुद को उड़ा लिया। उसकी मौत हो गई। सिपाही परिवार करीब दो-तीन साल से मनीष कुमार के मकान में किराए पर रह रहा था। पुलिस जांच पड़ताल कर रही है।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 17:04:13 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "10ced89e7513feb6cacceb18f5576d94",
+      "title": "Supreme Court dismisses plea against A.P. HC order quashing land pooling scheme case against CM Naidu, Minister",
+      "link": "https://www.thehindu.com/news/national/supreme-court-dismisses-plea-against-ap-hc-order-quashing-land-pooling-scheme-case-against-cm-naidu-minister/article71345294.ece",
+      "summary": "\"Political battles should not be fought in court,\" the CJI told Kumar and disposed of the petition filed by Alla Rama Krishna Reddy challenging the July 15 order",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 17:02:59 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eb8d45afe3aee7607e467e781f41d1b9",
+      "title": "BJP MP apologises for remarks on Netaji after booked by Bengal police",
+      "link": "https://www.thehindu.com/news/cities/kolkata/bjp-mp-issues-apology-for-remarks-at-netaji-after-firs-registered-by-bengal-police/article71345020.ece",
+      "summary": "Six FIRs have been registered, five persons have been arrested and 282 social media posts have been taken down.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:59:52 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e1e11a82a358c2248188f066d0ee486d",
+      "title": "Supreme Court quashes criminal proceedings against comedian Samay Raina, four others over disability remarks",
+      "link": "https://www.thehindu.com/news/national/supreme-court-quashes-criminal-proceedings-against-comedian-samay-raina-four-others-over-disability-remarks/article71345127.ece",
+      "summary": "The top court appreciated the efforts made by them in organising a chess tournament in March for disabled persons and helping raise awareness about organisations working for persons with disabilities",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:57:36 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1afe7fd93f33885f9390ed1c2102a0d5",
+      "title": "‘Deeply flawed approach’: ABVP slams Bar Council directive against NALSAR graduates’ enrolment",
+      "link": "https://www.thehindu.com/news/national/deeply-flawed-approach-bar-councils-nalsar-enrolment-u-turn-draws-criticism-from-abvp/article71344738.ece",
+      "summary": "The RSS-affiliated group argued that students should not be held accountable for alleged wrongdoing in which they had no role; institutions like the BCI must refrain from issuing such arbitrary directions, ABVP says",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:55:27 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "33bc790b255c28f1bd454bb4ec8d723f",
+      "title": "Nearly one in two adults in Andhra Pradesh overweight, says Health Minister",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/nearly-one-in-two-adults-in-andhra-pradesh-overweight-says-health-minister/article71341691.ece",
+      "summary": "Satya Kumar Yadav said the force would draw officials from the Health, Education, Sports, and Women and Child Welfare departments, and that an action plan based on the conference’s recommendations would go to the Chief Minister",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:51:23 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8fad6fe2d12af22fa2254c811f84452e",
+      "title": "Expert body formed to protect Thamaraikani tank in Sholinganallur, Tamil Nadu govt. tells Madras High Court",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/expert-body-formed-to-protect-thamaraikani-tank-in-sholinganallur-tamil-nadu-govt-tells-madras-high-court/article71344790.ece",
+      "summary": "AAG makes the submission in response to a PIL petition filed by Arappor Iyakkam in 2019 against construction of a building for the Semmenchery police station on the waterbody",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:44:42 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "94a4f61afb0829ffe51c96644de58a76",
+      "title": "‘4200 करोड़ के प्रोजेक्ट में भ्रष्टाचार!’ लखनऊ-कानपुर एक्सप्रेसवे मामला हाईकोर्ट पहुंचा, केंद्र-यूपी सरकार से जवाब तलब",
+      "link": "https://www.patrika.com/lucknow-news/lucknow-kanpur-expressway-high-court-scam-corrption-accusation-20832113",
+      "summary": "Lucknow Kanpur Expressway Scam: लखनऊ-कानपुर एक्सप्रेसवे के निर्माण में भ्रष्टाचार और बड़े पैमाने पर अनियमितताओं के आरोपों को लेकर इलाहाबाद हाईकोर्ट की लखनऊ बेंच में दाखिल याचिका पर सुनवाई हुई। कोर्ट ने मामले में केंद्र और उत्तर प्रदेश सरकार से जवाब मांगा है। अदालत ने सड़क परिवहन और राजमार्ग मंत्रालय के सचिव, NHAI अध्यक्ष और यूपी परिवहन विभाग के प्रमुख सचिव समेत सभी पक्षकारों को काउंटर एफिडेविट दाखिल करने का निर्देश दिया है। याचिका में एक्सप्रेसवे निर्माण की कोर्ट की निगरानी में जांच कराने की मांग की गई है।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:44:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "f42459f11c3db69077411e34ba2e414a",
+      "title": "Congress has shown anti-women attitude by keeping them out of Karnataka ministry, says BJP",
+      "link": "https://www.thehindu.com/news/national/karnataka/congress-has-shown-anti-women-attitude-by-keeping-them-out-of-karnataka-ministry-says-bjp/article71344899.ece",
+      "summary": "Opposition BJP members staged a protest in Bengaluru against women not getting ministerial representation",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:43:39 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c5f591fd75de415b80e85d250e6e1542",
+      "title": "UPST Rank Holders Association in Kerala calls off Secretariat protest",
+      "link": "https://www.thehindu.com/news/national/kerala/upst-rank-holders-association-in-kerala-calls-off-secretariat-protest/article71345183.ece",
+      "summary": "Protesters agree to withdraw from stir based on General Education Minister N. Samsudheen’s assurance that demands raised by them will be examined and those found favourable will be implemented at the earliest",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:41:57 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "301ccbdea13bc30a843a50d7bb50499a",
+      "title": "यूपी के 12 अफसरों को मिलेगा राष्ट्रपति वीरता पदक, 81 पुलिस पदक से होंगे सम्मानित",
+      "link": "https://www.livehindustan.com/uttar-pradesh/12-up-officers-to-receive-president-gallantry-medal-81-to-be-honoured-with-police-medals-201786704402942.html",
+      "summary": "यूपी के 12 पुलिस अफसरों और 81 पुलिसकर्मियों को स्वतंत्रता दिवस पर सम्मानित किया जाएगा। 12 अफसरों को वीरता पदक और 81 कर्मियों को पुलिस पदक दिया जाएगा।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:27:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "1d155f67392d2f83c9e43079d817a689",
+      "title": "UP Rain Alert: ‘कहीं समाया स्कूल, कहीं चारपाई बना सहारा!’ यूपी में बारिश और बाढ़ से बिगड़े हालात",
+      "link": "https://www.patrika.com/lucknow-news/up-weather-forecast-heavy-rain-alert-monsoon-update-2026-20832085",
+      "summary": "UP Weather Forecast Heavy Rain Alert: उत्तर प्रदेश में मानसून एक बार फिर सक्रिय हो गया है। शुक्रवार को लखनऊ, नोएडा, गाजियाबाद, बरेली और संभल समेत 25 शहरों में अच्छी बारिश हुई। नोएडा में गलियों में एक-दो फीट तक पानी भर गया। मौसम विभाग ने आज सभी 75 जिलों में बारिश का अलर्ट जारी किया है, जबकि 20 जिलों में भारी बारिश की संभावना जताई गई है।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:25:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "a5d54f8c39d892b4e4bca86e456d6063",
+      "title": "Kerala’s Congress MLA C.R. Mahesh apologises for seat belt violation",
+      "link": "https://www.thehindu.com/news/national/kerala/keralas-congress-mla-cr-mahesh-apologises-for-seat-belt-violation/article71345148.ece",
+      "summary": "In a Facebook post, the Karunagappally MLA says travelling without a seat belt is against the law and admits that such a mistake happened on his part",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:23:57 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9fa547bc2869bf2462a3b4e28cb588cb",
+      "title": "Independence Day 2026: Where am I from? The complicated meaning of home for Indians abroad",
+      "link": "https://www.thehindu.com/society/independence-day-2026-where-am-i-from-home-indians-abroad/article71327373.ece",
+      "summary": "A seemingly simple question becomes complicated when identity and belonging span three continents",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:22:35 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "76eb6510d399f99fd12c7071bede0f41",
+      "title": "साइकिल सवार बच्चे पर कार चढ़ाई; 25 मीटर तक घसीटा, रोंगटे खड़े कर देने वाला वीडियो",
+      "link": "https://www.livehindustan.com/uttar-pradesh/car-runs-over-child-on-bicycle-dragged-for-25-meter-chilling-video-in-kanpur-201786703924717.html",
+      "summary": "कानपुर के कल्याणपुर में कार ने साइकिल सवार आठवीं के छात्र आदि को टक्कर मार दी। छात्र कार के पिछले पहिये में फंस गया, फिर चालक उसे 20-25 मीटर तक घसीटकर कार छोड़कर फरार हो गया। गंभीर घायल छात्र अस्पताल में भर्ती है। पुलिस ने कार जब्त कर आरोपी चालक की तलाश शुरू कर दी है।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:22:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "436ce3fe0771b6a2557de0cdea9a1ead",
+      "title": "Independence Day 2026: A hidden lake of lotuses, and the India I keep seeking",
+      "link": "https://www.thehindu.com/society/independence-day-2026-hidden-lake-lotuses-india-travel/article71327878.ece",
+      "summary": "On India’s 80th Independence Day, a reflection on wrong turns, happy accidents and the thrill of exploring the country, minus maps and social media",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:21:43 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f4d7b97faa688f29f4cfde6c67136289",
+      "title": "Minister B.Z. Zameer Ahmed Khan sought exemption from Karnataka CM from hoisting flag on Independence Day: BJP",
+      "link": "https://www.thehindu.com/news/national/karnataka/bjp-attacks-minister-bz-zameer-ahmed-khan-for-writing-to-karnataka-cm-seeking-exemption-from-flag-hoisting-responsibility-on-independence-day/article71344959.ece",
+      "summary": "The Minister informed the CM that he was not in a position to take up the responsibility of hoisting the flag in Vijayanagara district as he needed to focus on preparations for the forthcoming polls to various local bodies",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:21:35 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a3939a90f56a1f08b2c33c60f279778a",
       "title": "DMK likely to increase district units to over 100 as part of organisational revamp",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/dmk-likely-to-increase-district-units-to-over-100-as-part-of-organisational-revamp/article71344871.ece",
@@ -87557,32 +87765,6 @@
       "lang": "en"
     },
     {
-      "id": "eb8d45afe3aee7607e467e781f41d1b9",
-      "title": "BJP MP issues apology for remarks at Netaji after FIRs registered by Bengal police",
-      "link": "https://www.thehindu.com/news/cities/kolkata/bjp-mp-issues-apology-for-remarks-at-netaji-after-firs-registered-by-bengal-police/article71345020.ece",
-      "summary": "Six FIRs have been registered, five persons have been arrested and 282 social media posts have been taken down.",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 16:11:16 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "f42459f11c3db69077411e34ba2e414a",
-      "title": "Congress has shown anti-women attitude by keeping them out of Karnataka ministry, says BJP",
-      "link": "https://www.thehindu.com/news/national/karnataka/congress-has-shown-anti-women-attitude-by-keeping-them-out-of-karnataka-ministry-says-bjp/article71344899.ece",
-      "summary": "Opposition BJP members staged a protest in Bengaluru against women not getting ministerial representation",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 16:07:36 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "fc2873efeb9a5c75af5dfe8b87fae856",
       "title": "Six police personnel injured as protest turns violent in Ambala; National Highway cleared after lathicharge",
       "link": "https://www.thehindu.com/news/national/haryana/police-personnel-injured-as-protest-turns-violent-in-ambala-national-highway-cleared-after-lathicharge/article71344171.ece",
@@ -87604,6 +87786,19 @@
       "timestamp": "Fri, 14 Aug 2026 16:05:34 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b480b3eacdd9e5c83f1b88597a7b1726",
+      "title": "What does Turkey’s new legislation for amnesty to Kurdish people propose | Explained",
+      "link": "https://www.thehindu.com/news/international/what-doesturkeysnew-legislation-for-amnesty-to-kurdish-people-propose-explained/article71344104.ece",
+      "summary": "What is the context behind the legislation? What are the provisions of the new legislation? What are the shortcomings of the legislation?",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 16:05:17 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -87635,6 +87830,19 @@
       "lang": "en"
     },
     {
+      "id": "887b30fd534a64403dd9d5d71bee9d8a",
+      "title": "UP Politics: आजम खान पर शिवपाल के बयान के बाद सियासत तेज, सीएम योगी ने उठाए बड़े सवाल",
+      "link": "https://www.patrika.com/lucknow-news/yogi-adityanath-reaction-shivpal-yadav-azam-khan-home-minister-statement-20831844",
+      "summary": "Yogi Adityanath News: उत्तर प्रदेश की राजनीति में एक बार फिर वरिष्ठ समाजवादी नेता आजम खान को लेकर सियासी माहौल गर्म हो गया है। समाजवादी पार्टी के राष्ट्रीय महासचिव शिवपाल सिंह यादव द्वारा वर्ष 2027 में सपा सरकार बनने पर आजम खान को गृह मंत्री बनाए जाने संबंधी बयान के बाद मुख्यमंत्री योगी आदित्यनाथ ने इस पर प्रतिक्रिया दी है। लखनऊ में आयोजित विभाजन विभीषिका स्मृति दिवस कार्यक्रम के दौरान मुख्यमंत्री ने समाजवादी पार्टी की राजनीति और उसके पुराने कार्यकाल पर सवाल उठाते हुए कई राजनीतिक टिप्पणियां कीं। मुख्यमंत्री के बयान के बाद प्रदेश की राजनीति में नई बहस छिड़ गई है और भाजपा तथा समाजवादी पार्टी के बीच आरोप-प्रत्यारोप का दौर तेज हो गया है।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 15:55:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "b56165d316f258684a8c2432380e463d",
       "title": "Union Minister attends World Elephant Day programme at Visakhapatnam school",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/union-minister-attends-world-elephant-day-programme-at-visakhapatnam-school/article71342489.ece",
@@ -87656,19 +87864,6 @@
       "timestamp": "Fri, 14 Aug 2026 15:43:28 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "33bc790b255c28f1bd454bb4ec8d723f",
-      "title": "Nearly one in two adults in Andhra Pradesh overweight, says Health Minister",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/nearly-one-in-two-adults-in-andhra-pradesh-overweight-says-health-minister/article71341691.ece",
-      "summary": "Satya Kumar Yadav said the force would draw officials from the Health, Education, Sports, and Women and Child Welfare departments, and that an action plan based on the conference’s recommendations would go to the Chief Minister",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 15:38:32 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -87734,19 +87929,6 @@
       "timestamp": "Fri, 14 Aug 2026 15:27:13 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "9fa547bc2869bf2462a3b4e28cb588cb",
-      "title": "Independence Day 2026: Where am I from? The complicated meaning of home for Indians abroad",
-      "link": "https://www.thehindu.com/society/independence-day-2026-where-am-i-from-home-indians-abroad/article71327373.ece",
-      "summary": "A seemingly simple question becomes complicated when identity and belonging span three continents",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 15:22:06 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -87931,19 +88113,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "1afe7fd93f33885f9390ed1c2102a0d5",
-      "title": "‘Deeply flawed approach’: Bar Council’s NALSAR enrolment U-turn draws criticism from ABVP",
-      "link": "https://www.thehindu.com/news/national/deeply-flawed-approach-bar-councils-nalsar-enrolment-u-turn-draws-criticism-from-abvp/article71344738.ece",
-      "summary": "The RSS’ student wing argued that students should not be held accountable for alleged wrongdoing in which they had no role",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 14:22:25 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -88161,19 +88330,6 @@
       "summary": "",
       "date": "2026-08-14",
       "timestamp": "Fri, 14 Aug 2026 13:46:56 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "436ce3fe0771b6a2557de0cdea9a1ead",
-      "title": "Independence Day 2026: A hidden lake of lotuses, and the India I keep seeking",
-      "link": "https://www.thehindu.com/society/independence-day-2026-hidden-lake-lotuses-india-travel/article71327878.ece",
-      "summary": "On India’s 80th Independence Day, a reflection on wrong turns, happy accidents and the thrill of exploring the country, minus maps and social media",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 13:43:38 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -89104,6 +89260,19 @@
       "lang": "en"
     },
     {
+      "id": "ef9d8448815cc48f5519b40e51f96306",
+      "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+      "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The electoral commission said violence had \"resulted in the theft of marked ballot papers\".",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 11:37:31 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ef46deb97940c58957ed54b128f62f41",
       "title": "जाति क्या, कोविड टीका कहां लगवाया?: जनगणना में सरकार पूछेगी कौन से 40 सवाल? गृह मंत्रालय ने जारी कर दी सूची",
       "link": "https://www.amarujala.com/india-news/what-are-40-questions-that-will-be-asked-in-census-2027-ministry-of-home-affairs-releases-list-2026-08-14",
@@ -89195,6 +89364,19 @@
       "lang": "en"
     },
     {
+      "id": "ce0e5dc9e2838d4b8d2be6d099543398",
+      "title": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
+      "link": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss",
+      "summary": "US ambassador to Israel has issued a rare condemnation of a violent siege on families in the West Bank village of Qusra.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 11:28:14 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "da63ea4a1d2c8f47a7407b1443aa994a",
       "title": "IIT Madras-incubated startup signs ₹100-crore deal with T.N. govt. to scale up EV charger manufacturing",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/iit-madras-incubated-startup-signs-100-crore-deal-with-tamil-nadu-govt-to-scale-up-ev-charger-manufacturing/article71342165.ece",
@@ -89221,6 +89403,19 @@
       "lang": "en"
     },
     {
+      "id": "38158d12788693be4645733559e0ea0b",
+      "title": "Teacher dies inside car:Wife breaks down, daughter cries, ‘Papa, wake up, let’s go home’",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/sitapur-government-teacher-found-dead-car-roadside-tragedy-138726258.html",
+      "summary": "A government teacher died while sitting in his car in Sitapur. His body was found around 10 AM on Friday morning, in the seat next to the driver in a car parked by the roadside. The car door was open. Seeing the car parked for a long time, nearby shopkeepers became suspicious. They went closer, called out, and shook the body, but there was no movement. Upon receiving information, the police arrived at the scene. Shortly after, the wife and daughter of teacher Radheshyam Patel (50) arrived at the scene. Seeing her husband's body, the wife became distraught. She clung to the body and started crying. The daughter, crying, said - 'Dad, you just left home, please get up and let's go home.' Death is suspected to be due to a heart attack. Police have sent the body for post-mortem. The incident occurred near the Fire Brigade Office in the city Kotwali area. See two pictures related to the incident Going to school by car, it got a puncture on the way Radheshyam Patel, a resident of Ismailpur locality in Kotwali Dehat, was a teacher at the aided school Janata Madhyamik Vidyalaya Sonari. Besides his wife Anuradha Patel, the family includes a daughter Yashasvi (21) and a son Anoop (18). The family said that Radheshyam left for school at 7:30 AM on Friday in his Maruti-800 car. He had travelled 15 km from home when suddenly the car's rear tire punctured. He stopped the car on the roadside and started changing the tire himself. Eyewitness shopkeeper said - took out the spare tire then sat in the car Eyewitness shopkeeper Azhar said - When the tire punctured, he himself took out the spare tire to change it. He took the tire out of the boot and placed it near the car. Then perhaps he suddenly felt some anxiety. He went and sat in the car. After that, he did not come out of the car again. According to Azhar, we thought he might have sat in the car due to fatigue. So we didn't pay much attention. I got busy with bike servicing work in the shop. About two hours later, by 10 o'clock, the car was still seen standing there. Its door was open. When we became suspicious, we went closer. There we saw that he was lying unconscious on the car seat. We tried to wake him up. But when there was no movement, we informed the police. Police arrived at the scene. They gathered information from the people nearby. Clerk who worked with him informed the daughter Retired clerk Sushil Kumar Srivastava, who had worked with the teacher, said - My house is in the lane opposite to where Radheshyam's car broke down. I retired from this school 6 months ago. I received a call from the school cook saying that Radheshyam had not come to school today. I called his daughter and found out that he had left in the morning. Meanwhile, a boy from the neighbourhood informed that Radheshyam sir's car was parked in front, and he was found unconscious in the car. After this, I reached the spot. Immediately, I called his daughter. -",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 11:18:30 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "c451adb885027db976f6d5f2813f3604",
       "title": "Azamgarh: कागज की गड्डी देकर ठगी करने वाले टप्पेबाजी गैंग के तीन बदमाश गिरफ्तार, मुठभेड़ में दो को लगी गोली",
       "link": "https://www.amarujala.com/uttar-pradesh/azamgarh/three-cunning-members-of-swindling-gang-arrested-in-police-encounter-in-azamgarh-2026-08-14",
@@ -89231,6 +89426,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "5b3d921ad681a4caed1fa67f01c887a6",
+      "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
+      "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
+      "summary": "Manchester City's Enzo Maresca coy on the future of midfielder Rodri ahead of Community Shield showdown with Arsenal.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 11:18:22 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -89312,6 +89520,32 @@
       "lang": "en"
     },
     {
+      "id": "c58bdf720094c42a28ff613fba82b37e",
+      "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
+      "link": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
+      "summary": "US Secretary of Defense Pete Hegseth claims US Navy can sustain blockade despite reports of poor conditions.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 11:06:59 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8b837b80ff49667c3d97f7069d1aff09",
+      "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+      "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+      "summary": "Ukraine says it has liberated 26 settlements in the south as it retools under heavy bombardment.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 11:04:40 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "42daa52feecdda6704f1f15e399ad9b6",
       "title": "अल्टीमेटम : सरकारी जमीन से एक सप्ताह में हटाएं चर्च, कब्जा नहीं हटा तो चलेगा बुलडोजर, नोटिस चस्पा",
       "link": "https://www.amarujala.com/lucknow/ultimatum-remove-church-from-government-land-within-a-week-2026-08-14",
@@ -89377,6 +89611,19 @@
       "lang": "en"
     },
     {
+      "id": "4d2799cede52ce1f28739b1f8d8214cd",
+      "title": "Stolen Matisse artworks recovered by police in Brazil",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 10:55:39 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "1a5b5252e49adfddc9a7bea966276dde",
       "title": "Mumbai to get a batch of new AC local train rakes by 2027: CM Fadnavis",
       "link": "https://www.thehindu.com/news/cities/mumbai/mumbai-to-get-a-batch-of-new-ac-local-train-rakes-by-2027-cm-fadnavis/article71341090.ece",
@@ -89413,6 +89660,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "ff0f01f6c440a94bc5ed8fb6ba77e02c",
+      "title": "Record-breaking rain in Japan leaves several dead, thousands stranded",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
+      "summary": "At least four people were killed, and one remains missing after record-breaking rain triggered flooding in Japan.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 10:52:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -89557,19 +89817,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "b480b3eacdd9e5c83f1b88597a7b1726",
-      "title": "What does Turkey’s new legislation for amnesty to Kurdish people propose | Explained",
-      "link": "https://www.thehindu.com/news/international/what-doesturkeysnew-legislation-for-amnesty-to-kurdish-people-propose-explained/article71344104.ece",
-      "summary": "What is the context behind the legislation? What are the provisions of the new legislation? What are the shortcomings of the legislation?",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 10:23:05 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "88f099e328ea1c424ce42565565a20ed",
@@ -90235,19 +90482,6 @@
       "lang": "en"
     },
     {
-      "id": "4d2799cede52ce1f28739b1f8d8214cd",
-      "title": "Stolen Matisse artworks recovered by police in Brazil",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-      "summary": "A man is arrested after eight works by the French artist are found at a home in greater São Paulo.",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 08:34:19 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "821db1601095af5ebf52d94bc39600b4",
       "title": "CJP: 'अगर सारे लीगल कॉकरोच एक साथ आ जाएं तो क्या होगा?', मुख्य न्यायाधीश-नालसर विवाद के बीच बोले अभिजीत दीपके",
       "link": "https://www.amarujala.com/india-news/what-would-happen-if-all-the-legal-cockroaches-came-together-deepke-speaks-amidst-chief-justice-nalsar-dispute-2026-08-14",
@@ -90602,7 +90836,7 @@
       "id": "63d0d97f0c62e11427e5a914f987cea2",
       "title": "Computer operator beaten to death:Names attackers in video before dying; FIR against 6, including former block chief and ration dealer",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/pratapgarh-computer-operator-murder-video-statement-accused-arrest-138723982.html",
-      "summary": "In Pratapgarh, on Thursday evening around 7 PM, a computer operator of the Supply Department was beaten to death. While returning home from the office, the accused, who were already ambushed, brutally beat him with sticks, iron rods, and the butt of a revolver. After the beating, the accused, thinking him dead, left him and fled. On information from nearby people, his family arrived and took him to the hospital, where he died. Before his death, a video statement of the computer operator has emerged. In it, he has accused six people, including a former block head, of attacking him. The incident is from Sindhora village in Leelapur police station area, about 15 kilometers from the district headquarters. Based on the family's complaint, the police have registered an FIR against 6 named individuals, including the former block head and his quota dealer brother. Read full news in chronological manner Ambushed while returning home Saurabh Vishwakarma (32), a resident of Sindhora village under Leelapur police station, worked as a computer operator on contract in the Supply Department. Saurabh was married to a girl named Anchal a year ago. He also has a four-month-old daughter. Saurabh has three brothers. The elder brother, Sushil Vishwakarma, is a taxi driver. The second brother, Sonu Vishwakarma, does farming at home. Saurabh was the youngest in the family. According to the complaint, between approximately 7 and 7:15 PM on August 13, Saurabh was returning home from the supply office located in Lalganj. He had just reached about 150 meters past Gajadhar Inter College in the city when 6 unknown people, including Saurabh Tiwari (32), Daroga Tiwari (30), Sonu Tiwari (30), and Anuj Tiwari (32), who were already ambushing him, surrounded him. Beaten with an iron rod and rifle butt The accused attacked Saurabh with iron rods, sticks, and the butt of a revolver. When he fell on the road, seriously injured, the accused, thinking him dead, left him at the spot and fled. While leaving, the accused also took Saurabh's mobile phone. Friends took him to the hospital Hearing Saurabh's screams after the attack, people from the vicinity reached the spot. They informed his friends Sonu Upadhyay and Shubham Pandey about the incident. Both reached the spot and took Saurabh to the medical college for treatment, where doctors declared him dead. A video from before Saurabh's death has also surfaced. In it, he has also named the accused and said- Daroga Tiwari and his brother Bade Tiwari's son, along with 8-10 people, assaulted me with sticks. They hit my neck with a rifle butt and also broke my leg. Firing at home four months ago Family members said that Sonu Tiwari, brother of former block head Bade Tiwari of Laxmanpur, who is a ration dealer. The accused had harbored enmity after Sonu's ration card work was not approved. About four months ago, the accused had also fired 6-7 rounds at their house. Due to this animosity, the accused have murdered Saurabh. Police force deployed, body sent for post-mortem Considering the tension in the area after the incident, police force was deployed. ASP Brijnandan Rai reached the spot with the police team and gathered information about the incident. The body was taken into custody and sent for post-mortem. Brijnandan Rai informed that a case has been registered based on Saurabh's complaint. It is a case of old enmity. The accused are being searched for. One accused, Daroga Tiwari, was arrested on Friday morning.",
+      "summary": "A computer operator with the Supply Department in Pratapgarh was beaten to death. At around 7 pm on Thursday, he was returning home from work when the accused, who were lying in wait, attacked him with sticks, iron rods and the butt of a revolver. The attackers fled after leaving him, believing he was dead. Family members reached the spot after being informed by local residents and took him to hospital. Doctors declared him dead. Before his death, the computer operator named six attackers, including a former block chief. A video of his statement has also surfaced. The incident took place in the Lilapur police station area, around 15 km from the district headquarters. Based on a complaint by the family, police have registered an FIR against six named accused, including the former block chief and his brother, who is a ration dealer. The 32-year-old computer operator, Saurabh Vishwakarma, got married a year ago. He has a four-month-old daughter. His wife, Aanchal, broke down after seeing her husband's body. Here is the full case in sequence Saurabh Vishwakarma (32), a resident of Sindhora village in the Lilapur police station area, worked as a contractual computer operator in the Supply Department. He was the youngest of three brothers. His elder brother Sushil Vishwakarma drives a taxi, while his other brother Sonu Vishwakarma is a farmer. According to the family complaint, Saurabh was returning home from the Supply Office in Lalganj between 7 pm and 7.15 pm on August 13. When he reached around 150 metres beyond Gajadhar Inter College, Saurabh Tiwari (32), Daroga Tiwari (30), Sonu Tiwari (30), Anuj Tiwari (32) and others surrounded him. The accused brutally assaulted him. Hearing Saurabh's cries for help, local residents reached the spot. They informed Saurabh's friends Sonu Upadhyay and Shubham Pandey about the incident. Both reached the spot and took Saurabh to the Medical College for treatment, where doctors declared him dead. As soon as the incident was reported, ASP Brijnandan Rai reached the spot with a police team and took details of the incident. Police have been deployed in the area in view of the tension. Read full news in chronological manner Before dying, he said: They hit me with a gun butt and broke my leg Before his death, the computer operator said, \"Daroga Tiwari and the son of his brother Bade Tiwari, along with 8-10 people, beat me with sticks. They hit my neck with the butt of a gun and also broke my leg.\" Family says accused had opened fire at their house four months ago The family said Sanjay alias Bade Tiwari is the former block chief of Laxmanganj, while his brother Sonu Tiwari is a ration dealer. The accused allegedly developed a grudge after Saurabh refused to approve a ration card-related work for Sonu. Four months ago, the accused had also allegedly fired 6-7 rounds at their house. The family said Saurabh was killed because of this dispute. Father-in-law demands encounter of accused Saurabh's father-in-law, Sajjan Vishwakarma, said, \"Our demand is that all the accused should be arrested. After their arrest, they should be killed in an encounter and their houses should be demolished with bulldozers. Saurabh's wife should be given a government job. The government should also provide financial assistance for his four-month-old daughter.\" Friends took him to the hospital Hearing Saurabh's screams after the attack, people from the vicinity reached the spot. They informed his friends Sonu Upadhyay and Shubham Pandey about the incident. Both reached the spot and took Saurabh to the medical college for treatment, where doctors declared him dead. A video from before Saurabh's death has also surfaced. In it, he has also named the accused and said- Daroga Tiwari and his brother Bade Tiwari's son, along with 8-10 people, assaulted me with sticks. They hit my neck with a rifle butt and also broke my leg. Firing at home four months ago Family members said that Sonu Tiwari, brother of former block head Bade Tiwari of Laxmanpur, who is a ration dealer. The accused had harbored enmity after Sonu's ration card work was not approved. About four months ago, the accused had also fired 6-7 rounds at their house. Due to this animosity, the accused have murdered Saurabh. Police force deployed, body sent for post-mortem Considering the tension in the area after the incident, police force was deployed. ASP Brijnandan Rai reached the spot with the police team and gathered information about the incident. The body was taken into custody and sent for post-mortem. Brijnandan Rai informed that a case has been registered based on Saurabh's complaint. It is a case of old enmity. The accused are being searched for. One accused, Daroga Tiwari, was arrested on Friday morning.",
       "date": "2026-08-14",
       "timestamp": "Fri, 14 Aug 2026 07:16:37 +0000",
       "section": "UP_Focus",
@@ -90924,6 +91158,58 @@
       "lang": "en"
     },
     {
+      "id": "3e264d0c9d6f744decbe9c9fae8a2990",
+      "title": "AmbedkarNagar: एग्रीमेंट के नाम पर करा लिया जमीन का बैनामा, दो लाख का चेक भी निकला फर्जी; चार के खिलाफ FIR",
+      "link": "https://www.amarujala.com/uttar-pradesh/ambedkar-nagar/land-sale-deed-executed-under-guise-of-agreement-in-ambedkar-nagar-fir-registered-against-four-individuals-2026-08-14",
+      "summary": "यूपी के अंबेडकरनगर में कर्ज दिलाने के नाम पर जमीन का आरोपी ने इकरारनामा कराने का झांसा देकर करीब आठ बिस्वा भूमि का बैनामा करा लिया।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 05:07:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "74981ee9eae2bf36685dee55236d3a17",
+      "title": "Noida News: कलेक्ट्रेट के जनसुविधा केंद्र की होगी मरम्मत",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/the-collectorates-public-facilitation-centre-will-undergo-repairs-noida-news-c-23-1-lko1064-103210-2026-08-14",
+      "summary": "कलेक्ट्रेट के जनसुविधा केंद्र की होगी मरम्मत",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 05:07:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "35a0030638e18d5640c54bfeac5a49e2",
+      "title": "नकली सोने के जाल में फंसाते: महिलाओं को झांसे में फंसाकर चेन-कुंडल लूटे, दंपती समेत पांच शातिर गिरफ्तार",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/gang-defrauding-people-with-fake-gold-busted-and-five-accused-arrested-2026-08-14",
+      "summary": "ग्रेटर नोएडा की बिसरख पुलिस ने नकली सोना दिखाकर लोगों को ठगने वाले एक गिरोह का भंडाफोड़ किया है।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 05:05:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "8b3e8293f5afceb442e5414abc34df03",
+      "title": "महाराष्ट्र: आश्रम स्कूलों में दो साल में 584 छात्रों की मौत, हर दिन गई औसतन एक की जान; कैसे सामने आया आंकड़ा?",
+      "link": "https://www.amarujala.com/india-news/maharashtra-ashram-schools-584-student-deaths-two-years-gadchiroli-devendra-fadnavis-2026-08-14",
+      "summary": "महाराष्ट्र: आश्रम स्कूलों में दो साल में 584 छात्रों की मौत, हर दिन गई औसतन एक की जान; कैसे सामने आया आंकड़ा? maharashtra-ashram-schools-584-student-deaths-two-years-gadchiroli-devendra-fadnavis",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 05:03:50 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "c689ebf55170a28024fcf39a6b1fd2de",
       "title": "Record rainfall leaves four dead, thousands stranded in Japan",
       "link": "https://www.aljazeera.com/news/2026/8/14/record-rainfall-leaves-four-dead-thousands-stranded-in-japan?traffic_source=rss",
@@ -90934,6 +91220,84 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a4942a895be54e8a64f4fc1545ddbd43",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 14 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-14",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 05:00:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a264675dffeebf72a134b555ce10af29",
+      "title": "CRPF: सीआरपीएफ के 19 जवानों की मौत का जिम्मेदार कौन, NHRC ने गृह सचिव और डीजी से तलब की विस्तृत रिपोर्ट",
+      "link": "https://www.amarujala.com/india-news/crpf-who-is-responsible-for-deaths-of-19-crpf-personnel-nhrc-seeks-a-detailed-report-from-hs-and-dg-2026-08-14",
+      "summary": "CRPF: Who is responsible for deaths of 19 CRPF personnel? NHRC seeks a detailed report from HS and DG. - CRPF: सीआरपीएफ के 19 जवानों की मौत का जिम्मेदार कौन, NHRC ने गृह सचिव और डीजी से तलब की विस्तृत रिपोर्ट",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:58:52 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "712ef016249f5bcc6378f8bd70e9fe0c",
+      "title": "Noida News: राष्ट्रीय पैरा-आर्चर लोरी को डीएम ने खेल किट देकर किया सम्मानित",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/district-magistrate-honors-national-para-archer-lori-by-presenting-a-sports-kit-noida-news-c-23-1-lko1064-103212-2026-08-14",
+      "summary": "District Magistrate honors national para-archer Lori by presenting a sports kit.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:58:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "fb63b0493495a514cf28f71d7b9b5d1b",
+      "title": "Noida News: जिम्स आउटसोर्स कर्मचारी ने मांगों को लेकर 17 अगस्त को दी धरने की चेतावनी",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/jims-outsourced-employees-warn-of-a-sit-in-protest-on-august-17-over-their-demands-noida-news-c-23-1-lko1064-103218-2026-08-14",
+      "summary": "जिम्स आउटसोर्स कर्मचारी ने मांगों को लेकर 17 अगस्त को दी धरने की चेतावनी",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:57:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "b7e1282f1167431af89b83fd8148e542",
+      "title": "उभरते खिलाड़ी : देश का प्रतिनिधित्व करना चाहते हैं आदित्य सिंह",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/rising-athlete-aditya-singh-aims-to-represent-the-country-noida-news-c-1-noi1095-4611728-2026-08-14",
+      "summary": "Rising Athlete: Aditya Singh aims to represent the country.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:56:09 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "fc064b0cd7a81873369f87624be02e93",
+      "title": "लखनऊ में मुस्लिम राष्ट्रीय मंच सूफी शाह मलंग प्रकोष्ठ ने निकाला कैंडल मार्च",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-ma-masalma-rashhataraya-maca-safa-shaha-malga-parakashhatha-na-nakal-kadal-maraca-2026-08-14",
+      "summary": "लखनऊ में मुस्लिम राष्ट्रीय मंच सूफी शाह मलंग प्रकोष्ठ ने निकाला कैंडल मार्च",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:52:45 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -90963,6 +91327,19 @@
       "lang": "en"
     },
     {
+      "id": "a9068b94383477686cca907a34b653a1",
+      "title": "Noida News: अगस्त क्रांति पर भ्रष्टाचार के खिलाफ प्राधिकरण में प्रदर्शन",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/protest-against-corruption-at-the-authority-on-august-kranti-day-noida-news-c-23-1-lko1064-103221-2026-08-14",
+      "summary": "अगस्त क्रांति पर भ्रष्टाचार के खिलाफ प्राधिकरण में प्रदर्शन",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:50:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "cb7a280ffa6023a87ce481576d7dc04b",
       "title": "Ambala Sikh Sangat Protest: कौन हैं गुरसिमरन सिंह मंड जिसकी पिटाई पर पुलिस से भिड़े सिख? Haryana",
       "link": "https://www.amarujala.com/video/india-news/ambala-sikh-sangat-protest-who-is-gursimran-singh-mand-whose-beating-led-sikhs-to-clash-with-the-police-har-2026-08-14",
@@ -90974,6 +91351,45 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "c33987d807c472ee9270abb8f700f49a",
+      "title": "अयोध्या में रामचंद्र दास परमहंस की 23वीं पुण्यतिथि पर जनप्रतिनिधियों-संतों ने अर्पित की श्रद्धांजलि",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-ramacathara-thasa-paramahasa-ka-23va-panaeyatatha-para-janaparatanathhaya-sata-na-arapata-ka-sharathathhajal-2026-08-14",
+      "summary": "अयोध्या में रामचंद्र दास परमहंस की 23वीं पुण्यतिथि पर जनप्रतिनिधियों-संतों ने अर्पित की श्रद्धांजलि",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:41:34 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "c1d14ba7daaa36d66c6213087f709555",
+      "title": "Noida News: डिजिटल अरेस्ट कर 1.29 करोड़ की ठगी के आरोपी को नहीं मिली राहत",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/dffdgsg-grnoida-news-c-23-1-lko1064-103209-2026-08-14",
+      "summary": "अदालत से)माई सिटी रिपोर्टरग्रेटर नोएडा। साइबर क्राइम थाना पुलिस द्वारा दर्ज साइबर ठगी के एक मामले में आरोपी आकाश की जमानत अर्जी",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:40:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "e0b9a3a469a2fec8b9764a6c08089842",
+      "title": "Noida News: सबजूनियर कुश्ती के जिला स्तरीय ट्रायल 17 अगस्त को",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/district-level-trials-for-sub-junior-wrestling-on-august-17-noida-news-c-23-1-lko1064-103222-2026-08-14",
+      "summary": "District-level trials for sub-junior wrestling on August 17.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:39:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
     },
     {
       "id": "c2c11d7d901310316b29e0a522c2d305",
@@ -90989,6 +91405,32 @@
       "lang": "en"
     },
     {
+      "id": "90f7afe6046e3386c3dc0acf5a36c74a",
+      "title": "'पंजाब की शांति बिगाड़ना चाहते हैं कुछ ताकतें': हमले के बाद गरजे सुखबीर सिंह बादल, बोले- ऐसा नहीं होने दूंगा",
+      "link": "https://www.amarujala.com/india-news/sukhbir-singh-badal-nanded-kirpan-attack-punjab-peace-statement-2026-08-14",
+      "summary": "sukhbir singh badal nanded kirpan attack punjab peace statement 'पंजाब की शांति बिगाड़ना चाहते हैं कुछ ताकतें': हमले के बाद गरजे सुखबीर सिंह बादल, बोले-ऐसा नहीं होने दूंगा",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:38:20 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "64680e15da59a41e4c1469e0031ad2f6",
+      "title": "Railway: ट्रेनों को सुपरफास्ट बताकर यात्रियों से वसूले 168 करोड़, इस रिपोर्ट में सफाई व्यवस्था भी कटघरे में",
+      "link": "https://www.amarujala.com/india-news/cag-report-railways-superfast-surcharge-trains-cleanliness-irregularities-2026-08-14",
+      "summary": "Railway: ट्रेनों को सुपरफास्ट बताकर यात्रियों से वसूले 168 करोड़, इस रिपोर्ट में सफाई व्यवस्था भी कटघरे में cag-report-railways-superfast-surcharge-trains-cleanliness-irregularities",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:37:44 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "8b1c27c4025dd53db4e014a80c775189",
       "title": "Uttar Pradesh teaching job aspirants to run campaign to pressurise government for recruitment drive",
       "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-teaching-job-aspirants-to-run-campaign-to-pressurise-government-for-recruitment-drive/article71341612.ece",
@@ -91000,6 +91442,32 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "e6755a5154113a11a256093f69f4cdfa",
+      "title": "Noida News: बाल वाटिका के छात्रों को निशुल्क पुस्तकें वितरित",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/free-books-distributed-to-bal-vatika-students-noida-news-c-1-noi1095-4611684-2026-08-14",
+      "summary": "Free books distributed to Bal Vatika students.",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:33:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "9ce5a1e1709107238394131005fbc365",
+      "title": "Bomb Threat in Delhi: 15 अगस्त से पहले मिली दिल्ली को दहलाने की धमकी",
+      "link": "https://www.amarujala.com/video/india-news/bomb-threat-in-delhi-threat-to-rock-delhi-received-ahead-of-august-15-2026-08-14",
+      "summary": "दिल्ली में स्वतंत्रता दिवस से ठीक एक दिन पहले सुरक्षा व्यवस्था को लेकर चिंता बढ़ाने वाली खबर सामने आई है।",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:33:42 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "7b2476468e8b4ef7b581e0a0b3f7eb91",
@@ -91051,6 +91519,19 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2058d52c498c99919908ed74c3d19a2a",
+      "title": "अयोध्या में तारुन के कंपोजिट विद्यालय में बच्चों ने कागज से बनाए सुंदर तिरंगा बैज",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/ayodhya/video-ayathhaya-ma-tarana-ka-kapajata-vathayalya-ma-bcaca-na-kagaja-sa-bnae-sathara-taraga-bja-2026-08-14",
+      "summary": "अयोध्या में तारुन के कंपोजिट विद्यालय में बच्चों ने कागज से बनाए सुंदर तिरंगा बैज",
+      "date": "2026-08-14",
+      "timestamp": "Fri, 14 Aug 2026 04:25:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
       "lang": "en"
     },
     {
@@ -91158,19 +91639,6 @@
       "lang": "en"
     },
     {
-      "id": "a4942a895be54e8a64f4fc1545ddbd43",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 14 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-14",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 04:00:37 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "cc3c27f2614b32f52c340236a40f2f7b",
       "title": "Brazil begins exploring retaliatory options to new US tariffs",
       "link": "https://www.aljazeera.com/news/2026/8/14/brazil-begins-exploring-retaliatory-options-to-new-us-tariffs?traffic_source=rss",
@@ -91211,9 +91679,9 @@
     },
     {
       "id": "eb9fa256e0232dd58f655193b8a9710e",
-      "title": "Explainer: एफसीआरए विधेयक जेपीसी के पास क्यों भेजा गया, क्या है संयुक्त संसदीय समिति और कैस करती है काम?",
+      "title": "Explainer: एफसीआरए विधेयक जेपीसी के पास क्यों भेजा गया, क्या है संयुक्त संसदीय समिति और कैसे करती है काम?",
       "link": "https://www.amarujala.com/india-news/why-was-the-fcra-bill-sent-to-the-jpc-what-is-a-joint-parliamentary-committee-and-how-does-it-work-2026-08-14",
-      "summary": "Explainer: एफसीआरए विधेयक जेपीसी के पास क्यों भेजा गया, क्या है संयुक्त संसदीय समिति और कैस करती है काम?",
+      "summary": "Explainer: एफसीआरए विधेयक जेपीसी के पास क्यों भेजा गया, क्या है संयुक्त संसदीय समिति और कैसे करती है काम?",
       "date": "2026-08-14",
       "timestamp": "Fri, 14 Aug 2026 03:55:34 +0530",
       "section": "National",
@@ -105896,6 +106364,45 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9ad97718bf9f470c8a8859c2507e8537",
+      "title": "Massachusetts residents sue data centre over 27 diesel generators near homes",
+      "link": "https://timesofindia.indiatimes.com/world/us/massachusetts-residents-sue-data-centre-over-27-diesel-generators-and-16-cooling-towers-near-homes-raising-fears-of-pollution-and-noise/articleshow/133239275.cms",
+      "summary": "",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T16:57:07+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fb9315608b0ac25f671b377244674551",
+      "title": "Why has Britain's grass turned yellow? Scientists warn about the future of the island after 'driest month ever'",
+      "link": "https://timesofindia.indiatimes.com/science/why-has-britains-grass-turned-yellow-scientists-warn-about-the-future-of-the-island-after-driest-month-ever/articleshow/133238537.cms",
+      "summary": "After experiencing the driest July on record, England's picturesque green fields have succumbed to a fading yellow hue. This alarming trend of increasing heatwaves significantly affects lawns and public parks. While native grasses possess resilience during droughts and can deepen their roots to conserve water, extended dry periods inevitably lead them to enter a dormant state, awaiting rain.",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T16:18:29+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "848b7bcba650858b36c207f2d13bafa8",
+      "title": "Nearly 80 men found shackled in an ancient Athens mass grave were locals",
+      "link": "https://timesofindia.indiatimes.com/world/europe/nearly-80-men-found-shackled-in-an-ancient-athens-mass-grave-were-locals-not-outsiders/articleshow/133238216.cms",
+      "summary": "",
+      "date": "2026-08-14",
+      "timestamp": "2026-08-14T16:11:43+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
