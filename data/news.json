@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:14:33.748229+00:00",
+  "generated_at": "2026-08-15T23:13:58.928288+00:00",
   "stories": [
     {
       "id": "adb17cba9e012a3114585a6ffcbf5502",
@@ -37564,7 +37564,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-16",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-16",
-      "timestamp": "Sun, 16 Aug 2026 03:30:21 +0530",
+      "timestamp": "Sun, 16 Aug 2026 04:30:21 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -37577,7 +37577,7 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-16",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-16",
-      "timestamp": "Sun, 16 Aug 2026 03:30:12 +0530",
+      "timestamp": "Sun, 16 Aug 2026 04:30:12 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -37962,6 +37962,19 @@
       "lang": "en"
     },
     {
+      "id": "10bd957eef4d130f671b2f7d17f7f4df",
+      "title": "Teenager electrocuted while fixing Tricolour at Madhya Pradesh school",
+      "link": "https://www.thehindu.com/news/national/madhya-pradesh/teenager-electrocuted-while-fixing-tricolour-at-madhya-pradesh-school/article71350446.ece",
+      "summary": "The student died on the spot after coming into contact with an 11-kV power line passing over the school roof",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 00:16:06 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "65b1002fd61be418d94b51711d58b033",
       "title": "Ballari remembers its rich legacy in freedom struggle on Independence Day",
       "link": "https://www.thehindu.com/news/national/karnataka/ballari-remembers-its-rich-legacy-in-freedom-struggle-on-independence-day/article71350033.ece",
@@ -37983,6 +37996,19 @@
       "timestamp": "Sun, 16 Aug 2026 00:14:47 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3f8e1cb0f7d1943631ae9907433683ac",
+      "title": "Don’t make statements that BJP can exploit, Akhilesh Yadav tells Samajwadi Party leaders",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/dont-make-statements-that-bjp-can-exploit-akhilesh-yadav-tells-samajwadi-party-leaders/article71349960.ece",
+      "summary": "The party chief was reacting to the SP leader Shivpal Singh Yadav’s statement that Azam Khan would be the State’s Home Minister when their party comes to power",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 00:14:12 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -53740,6 +53766,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c6db7ffbe488200422d3dc4350e5c8d3",
+      "title": "US Democrats finalise major shakeup to 2028 presidential primary calendar",
+      "link": "https://www.aljazeera.com/news/2026/8/15/us-democrats-finalise-major-shakeup-to-2028-presidential-primary-calendar?traffic_source=rss",
+      "summary": "South Carolina will again take centre stage as the first nominating contest, pushing Iowa from its top spot.",
+      "date": "2026-08-15",
+      "timestamp": "Sat, 15 Aug 2026 22:22:46 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -109471,6 +109510,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "caf2e781bf5bc296e58dd1d2d5c1fd98",
+      "title": "PM Modi puts women's quota back on table, makes fresh pitch to opposition",
+      "link": "https://timesofindia.indiatimes.com/india/pm-modi-puts-womens-quota-back-on-table-makes-fresh-pitch-to-opposition/articleshow/133267661.cms",
+      "summary": "Dishonest Pitch, Bill Passed In Sept 2023: Cong",
+      "date": "2026-08-15",
+      "timestamp": "2026-08-16T04:22:17+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
