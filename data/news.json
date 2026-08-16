@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:14:14.900802+00:00",
+  "generated_at": "2026-08-16T23:14:12.529325+00:00",
   "stories": [
     {
       "id": "adb17cba9e012a3114585a6ffcbf5502",
@@ -37845,6 +37845,19 @@
       "lang": "en"
     },
     {
+      "id": "18e36077e30551812ac03926b3c795df",
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 22:41:34 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "139896c0381d8905ca539efc51f33606",
       "title": "Thousands evacuate after Indonesia quake kills 53, aftershocks hamper rescue efforts",
       "link": "https://www.thehindu.com/news/international/indonesia-earthquake-death-toll-flores-island-damage-and-evacuations/article71352038.ece",
@@ -37975,6 +37988,19 @@
       "lang": "en"
     },
     {
+      "id": "f4d298cfccffc843180d05a3e4c29f7b",
+      "title": "Thailand has a gun problem - 10 million of them",
+      "link": "https://www.bbc.co.uk/news/articles/cevml4701emo?at_medium=RSS&at_campaign=rss",
+      "summary": "Recent shootings have highlighted the country's troubled relationship with guns, with laws doing little to curb the violence.",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 22:09:04 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "bd1f9be38db53d3695d206640a842fe9",
       "title": "कहां-कहां से आ गए थे, चवन्नी का रुपया बना दिया, फिर भी... अखिलेश का बिना नाम लिए जंयत पर हमला",
       "link": "https://www.livehindustan.com/uttar-pradesh/akhilesh-yadav-target-rld-chief-jayant-chaudhary-up-elections-alliance-partner-201786897603541.html",
@@ -38040,19 +38066,6 @@
       "lang": "en"
     },
     {
-      "id": "18e36077e30551812ac03926b3c795df",
-      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
-      "date": "2026-08-16",
-      "timestamp": "Sun, 16 Aug 2026 21:57:13 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "2895be403e66d438ef7930d58a123948",
       "title": "‘We were never seen as a mind, only as a vote’: Neha Bora on India’s student resistance and the fight for democracy",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/we-were-never-seen-as-a-mind-only-as-a-vote-neha-bora-on-indias-student-resistance-and-the-fight-for-democracy/article71353537.ece",
@@ -38062,6 +38075,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "66f49e0cc5dc7fa60ebdc34515ce012f",
+      "title": "What could stop Israeli settler attacks on Palestinians?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+      "summary": "Violence in the occupied West Bank has intensified under Israel's far-right Netanyahu government.",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 21:54:58 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -39486,7 +39512,7 @@
       "id": "9ade0d7cd62ce7fc726fa099e125d055",
       "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
       "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-      "summary": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+      "summary": "After meeting with the US envoy, Hamas says it called on the Board of Peace to ‘compel’ Israel to accept the plan.",
       "date": "2026-08-16",
       "timestamp": "Sun, 16 Aug 2026 19:23:28 +0000",
       "section": "International",
@@ -72100,25 +72126,12 @@
       "lang": "en"
     },
     {
-      "id": "e3f2ffc8251dbdd8a1d8f2d372117e57",
-      "title": "Border Disputes: ड्रोन से होगा भारत-नेपाल सीमा का संयुक्त सर्वे, तीन साल में करेंगे नदी वाले हिस्सों की मैपिंग",
-      "link": "https://www.amarujala.com/lucknow/joint-survey-of-india-nepal-border-to-be-conducted-using-drones-2026-08-17",
-      "summary": "भारत और नेपाल के बीच सीमा से जुड़े तकनीकी विवादों के समाधान के लिए दोनों देशों ने आधुनिक सर्वेक्षण तकनीक के इस्तेमाल पर जोर दिया है।",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 03:40:36 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Lucknow",
-      "lang": "en"
-    },
-    {
       "id": "fc6f17b6388de6b7623d86c8c04681e1",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 17 अगस्त के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-17",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 03:30:25 +0530",
+      "timestamp": "Mon, 17 Aug 2026 04:30:21 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -72131,12 +72144,90 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-17",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 03:30:12 +0530",
+      "timestamp": "Mon, 17 Aug 2026 04:30:10 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "64dbae4e1dd6ce04557e6840e6b3d71a",
+      "title": "बंगाल के स्कूल पर सवाल: CJP के अभियान से जुड़े युवा के पिता की मौत, कटघरे में भाजपा; CM शुभेंदु ने क्या कहा?",
+      "link": "https://www.amarujala.com/india-news/questions-on-school-in-bengal-father-of-cjp-volunteer-dies-bjp-under-scrutiny-cm-suvendu-abhijeet-dipke-react-2026-08-17",
+      "summary": "बंगाल के स्कूल पर सवाल: CJP के अभियान से जुड़े युवा के पिता की मौत, कटघरे में भाजपा; CM शुभेंदु ने क्या कहा?",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 04:21:49 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "81aae72a996e8ac4acd39e9523bebde1",
+      "title": "Noida: फ्लैट खरीदारों को फंसाने वालों पर कसा शिकंजा, सीबीआई जांच शुरू; प्राधिकरण अधिकारियों से चार दिन पूछताछ",
+      "link": "https://www.amarujala.com/delhi-ncr/noida-crackdown-on-those-who-duped-flat-buyers-cbi-probe-begins-2026-08-17",
+      "summary": "केंद्रीय जांच ब्यूरो (सीबीआई) ने शहर की ग्रुप हाउसिंग परियोजनाओं में फ्लैट खरीदारों को फंसाए जाने पर जांच शुरू कर दी है।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 03:59:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "f2c56aaa22e46265c6f3819737468aa0",
+      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+      "link": "https://www.thehindu.com/news/international/trump-orders-pentagon-to-scale-back-joint-exercises-with-south-korea/article71354064.ece",
+      "summary": "U.S. and South Korean forces were set to practise joint operations, but Trump’s comment followed his claim that South Korea refused to help in denuclearising Iran",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 03:55:47 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b6458fd1412e4e8eb2221299c66c6779",
+      "title": "सरहद पर स्वतंत्रता दिवस: LoC पर गूंजे नारे- कब्जे वाला कश्मीर बनेगा हिंदुस्तान, केरन घाटी में खूब हुई आतिशबाजी",
+      "link": "https://www.amarujala.com/lucknow/slogans-echo-at-the-loc-pakistan-occupied-kashmir-will-become-part-of-india-2026-08-17",
+      "summary": "उत्तरी कश्मीर के सीमांत जिले कुपवाड़ा की केरन घाटी में इस बार स्वतंत्रता दिवस पर बेहद भावुक दृश्य देखने को मिला।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 03:54:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "0af86f354c5ddef946c9c1bafb1c2b24",
+      "title": "Groundwater that glows yellow-green in U.P.",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/contaminated-groundwater-in-uttar-pradesh-poses-health-risks/article71322801.ece",
+      "summary": "Decades of industrial waste dumping have contaminated groundwater with chromium (VI) across parts of three Uttar Pradesh districts, exposing villagers to unsafe water and serious health risks",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 03:41:29 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e3f2ffc8251dbdd8a1d8f2d372117e57",
+      "title": "Border Disputes: ड्रोन से होगा भारत-नेपाल सीमा का संयुक्त सर्वे, तीन साल में करेंगे नदी वाले हिस्सों की मैपिंग",
+      "link": "https://www.amarujala.com/lucknow/joint-survey-of-india-nepal-border-to-be-conducted-using-drones-2026-08-17",
+      "summary": "भारत और नेपाल के बीच सीमा से जुड़े तकनीकी विवादों के समाधान के लिए दोनों देशों ने आधुनिक सर्वेक्षण तकनीक के इस्तेमाल पर जोर दिया है।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 03:40:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
     },
     {
       "id": "bda39c29632a6cff65198df9c2ed0885",
@@ -72708,6 +72799,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "61f169d699ceee6c9e1a0f1bb2feb3cb",
+      "title": "Five-member panel to hold talks with Haryana CM Over Jeevan Kundu murder",
+      "link": "https://www.thehindu.com/news/national/haryana/five-member-panel-to-hold-talks-with-haryana-cm-over-jeevan-kundu-murder/article71353382.ece",
+      "summary": "The mahapanchayat warned that the highways linking Hisar with Chandigarh and Delhi would be blocked indefinitely if the discussions with the Chief Minister failed to yield a satisfactory outcome",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 02:37:13 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -73424,6 +73528,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "e2cb34a7abb65aa5f5dcb455f9199d40",
+      "title": "Questions raised over hospital dustbin procurement in Bihar",
+      "link": "https://www.thehindu.com/news/national/bihar/questions-raised-over-hospital-dustbin-procurement-in-bihar/article71352922.ece",
+      "summary": "RJD targets BJP over alleged irregularities in hospital dustbin purchases, while BMSICL officials defend the procurement process, saying there is a significant difference between ordinary dustbins and those procured for hospitals",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:12:56 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "3fe188aba00b0d6121b32a0c9959ac93",
@@ -97368,6 +97485,45 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "55e25b967e007e36bcc6bca35681becd",
+      "title": "Fleeing drowning scene not proof of culpability, says SC; acquits 2 held guilty of killing friend",
+      "link": "https://timesofindia.indiatimes.com/india/fleeing-drowning-scene-not-proof-of-culpability-says-sc-acquits-2-held-guilty-of-killing-friend/articleshow/133283933.cms",
+      "summary": "Acquits 2 Men Held Guilty Of Killing Friend",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-17T04:24:12+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2937558b533ea9452caa32a7a3d53954",
+      "title": "ED: TMC paid little-known company Rs 160 crore to buy a jet & helicopter",
+      "link": "https://timesofindia.indiatimes.com/india/ed-tmc-paid-little-known-company-rs-160-crore-to-buy-a-jet-helicopter/articleshow/133283898.cms",
+      "summary": "'Paid Another Rs 187Cr As Rent But Didn't Utilise Minimum Guaranteed Hours, Chartered Others For Rs 149Cr'",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-17T04:03:44+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "545de5651cd7bc99b79b197d226dd44b",
+      "title": "E coli found in drinking water, rail stations lack basic facilities: CAG",
+      "link": "https://timesofindia.indiatimes.com/india/e-coli-found-in-drinking-water-rail-stations-lack-basic-facilities-cag/articleshow/133283882.cms",
+      "summary": "",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-17T03:56:35+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
