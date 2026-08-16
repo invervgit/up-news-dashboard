@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:16:54.305798+00:00",
+  "generated_at": "2026-08-16T20:14:49.894503+00:00",
   "stories": [
     {
       "id": "adb17cba9e012a3114585a6ffcbf5502",
@@ -38963,6 +38963,19 @@
       "lang": "en"
     },
     {
+      "id": "84664161a4e8efe102f6082a8853f9c6",
+      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
+      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 20:01:51 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "357aa81bd9786e661188621bdf0650a8",
       "title": "Six arrested for attempting to sell fake Panchaloha Lakshmi idol, stone in Hyderabad",
       "link": "https://www.thehindu.com/news/national/telangana/six-held-for-attempting-to-sell-fake-panchaloha-lakshmi-idol-stone-in-hyderabad/article71352850.ece",
@@ -38998,6 +39011,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0af7cc5988a922840ef0353b6ed44f94",
+      "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 19:58:14 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -39050,6 +39076,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "47113be88d7452506821351be7b69b42",
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+      "summary": "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control.",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 19:50:36 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -39210,6 +39249,19 @@
       "lang": "en"
     },
     {
+      "id": "cf76392a2f07548204ce307137f956a3",
+      "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+      "summary": "Turkish President Recep Tayyip Erdogan said continued Israeli attacks on Lebanon are a source of serious concern.",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 19:29:31 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8e419fbf9f67be2e9cbf85a47917c947",
       "title": "Bangladesh sets extradition of Hasina, Hadi’s killers as conditions for Tarique Rahman’s India visit",
       "link": "https://www.thehindu.com/news/national/bangladesh-says-pm-tarique-rahman-will-not-visit-india-until-sheikh-hasinas-extradition/article71352525.ece",
@@ -39301,6 +39353,19 @@
       "lang": "en"
     },
     {
+      "id": "9ade0d7cd62ce7fc726fa099e125d055",
+      "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+      "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+      "summary": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 19:23:28 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9b1cc581e32b7ad13b3229d99980b0f4",
       "title": "BRS MLAs flay CM’s claims, comments made in Sangareddy",
       "link": "https://www.thehindu.com/news/national/telangana/brs-mlas-flay-cms-claims-comments-made-in-sangareddy/article71352623.ece",
@@ -39310,6 +39375,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b25891165b272d7ca328cb5a98706fab",
+      "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
+      "summary": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
+      "date": "2026-08-16",
+      "timestamp": "Sun, 16 Aug 2026 19:18:24 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -39860,19 +39938,6 @@
       "lang": "en"
     },
     {
-      "id": "47113be88d7452506821351be7b69b42",
-      "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 200 firefighters are trying to keep the two fires apart on Salamina, Greek media report.",
-      "date": "2026-08-16",
-      "timestamp": "Sun, 16 Aug 2026 17:44:23 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "d97f62ff976e05ca825197924b41d5e2",
       "title": "Akhilesh Yadav BJP Attack: जातीय जनगणना न करनी पड़े, इसलिए चालबाजी कर रही सरकार, अखिलेश यादव का BJP पर हमला",
       "link": "https://www.patrika.com/lucknow-news/akhilesh-yadav-bjp-attack-ram-dhan-e20-petrol-caste-census-employment-20836585",
@@ -40168,19 +40233,6 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "84664161a4e8efe102f6082a8853f9c6",
-      "title": "Belgian wildfire doubles in size on third day tearing through nature reserve",
-      "link": "https://www.bbc.co.uk/news/articles/cp8eex1nmpvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Hundreds of firefighters are trying to contain the flames consuming the major park.",
-      "date": "2026-08-16",
-      "timestamp": "Sun, 16 Aug 2026 15:25:38 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -71788,32 +71840,6 @@
       "lang": "en"
     },
     {
-      "id": "fc6f17b6388de6b7623d86c8c04681e1",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 17 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-17",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 12:30:25 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "bbf2bdd9d4500684ce21c0c3b4426379",
-      "title": "पढ़ें 17 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-17",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 12:30:13 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "01e334e9772cd04f90e9e7e888aba631",
       "title": "Ayodhya News: भक्ति के हिंडोले पर झूमी अयोध्या, सावन मेला शुरू",
       "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/sawan-mela-begins-ayodhya-news-c-97-1-ayo1002-156432-2026-08-17",
@@ -71954,6 +71980,97 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "f6573d19e117ef93324e60db2ef32e3e",
+      "title": "Student Protest: 'छात्रों के समर्थन में एकजुट हो विपक्ष', AISA प्रमुख नेहा बोरा ने विपक्ष से और क्या अपील की?",
+      "link": "https://www.amarujala.com/india-news/student-protest-aisa-chief-neha-bora-urges-opposition-to-stand-in-solidarity-with-protesting-students-2026-08-17",
+      "summary": "Student Protest: 'छात्रों के समर्थन में एकजुट हो विपक्ष', AISA प्रमुख नेहा बोरा ने विपक्ष से और क्या अपील की?",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:31:48 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "fc6f17b6388de6b7623d86c8c04681e1",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 17 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-17",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:30:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "bbf2bdd9d4500684ce21c0c3b4426379",
+      "title": "पढ़ें 17 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-17",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5607111ce30872a02a734bb3d5f1587f",
+      "title": "Asish Banerjee Passed Away: आशीष बनर्जी की मौत पर ममता ने तोड़ी चुप्पी, बताया कौन जिम्मेदार?",
+      "link": "https://www.amarujala.com/video/india-news/asish-banerjee-passes-away-mamata-breaks-silence-on-asish-banerjee-s-death-reveals-who-is-responsible-2026-08-17",
+      "summary": "Asish Banerjee Passed Away: आशीष बनर्जी की मौत पर ममता ने तोड़ी चुप्पी, बताया कौन जिम्मेदार?",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:15:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "5d206616dfebcf3e607b7b0e580e4e4b",
+      "title": "Noida: दो सड़क दुर्घटनाओं में कई लोग घायल, दो की हालत गंभीर; एक घटना सेक्टर 19 और दूसरी 128 की",
+      "link": "https://www.amarujala.com/delhi-ncr/noida-several-people-injured-in-two-road-accidents-2026-08-17",
+      "summary": "नोएडा ग्रेटर नोएडा एक्सप्रेस-वे पर सेक्टर 93-128 के सामने बने जेपी फ्लाइओवर पर रविवार रात एक ट्रैक्टर-ट्रॉली पलट गई।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:01:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "73eb0a953f9c427a086719547a571559",
+      "title": "Congress protests in Kalaburagi against ‘purification’ ritual at Kharge’s rally venue in Uttarakhand",
+      "link": "https://www.thehindu.com/news/national/karnataka/congress-protests-in-kalaburagi-against-purification-ritual-at-kharges-rally-venue-in-uttarakhand/article71353343.ece",
+      "summary": "Party leaders condemn alleged caste discrimination in Uttarakhand, burn tyres during demonstration",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 00:54:01 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ae652840f6c0e0ed4cb8134be4a0cd59",
+      "title": "Karnataka government has failed to mitigate drought, says Kumaraswamy; opens handloom products market",
+      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-government-has-failed-to-mitigate-drought-says-kumaraswamy-opens-handloom-products-market/article71353661.ece",
+      "summary": "",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 00:52:54 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -95834,6 +95951,32 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d35a6fbdf92e8caeb481ffbe59aee163",
+      "title": "In 1988, an English farmer stopped cultivating his entire 377-acre wheat farm",
+      "link": "https://timesofindia.indiatimes.com/world/uk/in-1988-an-english-farmer-stopped-cultivating-his-entire-377-acre-wheat-farm-35-years-later-it-became-one-of-central-englands-biggest-refuges-for-scrub-woodland-and-rare-wildlife/articleshow/133280872.cms",
+      "summary": "An abandoned wheat farm in England has been transformed into a thriving nature reserve after decades of neglect. Following a dedicated public campaign, £1.5 million was raised to acquire the land, ensuring its protection for future generations. This 377-acre area now boasts a rich variety of wildlife, including numerous endangered bird species, and will be overseen by the Wildlife Trust as a cherished habitat.",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-17T01:21:11+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a47769bb4062e95130815a168aaf9c25",
+      "title": "Barrierless tolling makes road users fall in line, drop in number of e-notices at plazas",
+      "link": "https://timesofindia.indiatimes.com/india/barrierless-tolling-makes-road-users-fall-in-line-drop-in-number-of-e-notices-at-plazas/articleshow/133281792.cms",
+      "summary": "",
+      "date": "2026-08-16",
+      "timestamp": "2026-08-17T01:13:26+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
