@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:46:46.531674+00:00",
+  "generated_at": "2026-08-17T08:35:50.082409+00:00",
   "stories": [
     {
       "id": "adb17cba9e012a3114585a6ffcbf5502",
@@ -16694,19 +16694,6 @@
       "lang": "en"
     },
     {
-      "id": "7a115a21d7155ec8de953550b74a87fc",
-      "title": "Supreme Court notice to Centre, CBI on CJP’s activities, monetisation of judges’ remarks in court",
-      "link": "https://www.thehindu.com/news/national/supreme-court-notice-to-centre-cbi-on-cjps-activities-monetisation-of-judges-remarks-in-court/article71331240.ece",
-      "summary": "Isolated fragments of oral proceedings are selectively clipped, meme-ified, mimicked, commercially circulated, and transformed into viral digital content detached from constitutional and procedural context, the petition added.",
-      "date": "2026-08-11",
-      "timestamp": "Tue, 11 Aug 2026 12:50:08 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "e186d9be1770f42502ad773e80419aab",
       "title": "How can caste appellations exist in names of streets, roads in Tamil Nadu even in 2026, asks Madras High Court",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/how-can-caste-appellations-exist-in-names-of-streets-roads-in-tamil-nadu-even-in-2026-asks-madras-high-court/article71331040.ece",
@@ -28013,19 +28000,6 @@
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "0b5811c10b199b6bc00b79e4acbb8372",
-      "title": "Rajya Sabha Chairperson regrets disruptions during Monsoon Session; House productivity only 39%",
-      "link": "https://www.thehindu.com/news/national/rajya-sabha-chairperson-regrets-disruptions-during-monsoon-session-house-productivity-only-39/article71340225.ece",
-      "summary": "C.P. Radhakrishnan rued that members did not make the fullest use of the opportunities to raise the voice of the people",
-      "date": "2026-08-13",
-      "timestamp": "Thu, 13 Aug 2026 16:50:14 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
       "district": "",
       "lang": "en"
     },
@@ -56435,6 +56409,253 @@
       "lang": "en"
     },
     {
+      "id": "1f6cafc6e92ee61c4c0b7402691c5e04",
+      "title": "Are courts precluded from granting fair, just compensation in nuclear accident: SC asks Centre",
+      "link": "https://www.thehindu.com/news/national/are-courts-precluded-from-granting-fair-just-compensation-in-nuclear-accident-sc-asks-centre/article71355428.ece",
+      "summary": "The SHANTI Act permits private companies to set up civil nuclear power plants but exempts them from liability beyond ₹3,000 crore in the event of any unfortunate incident",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:59:36 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "fe2eedfc33f4f18154cf525e3da5aa64",
+      "title": "SC to look into plea to distinguish between criticism of judiciary and online distortion of what judges actually say in court",
+      "link": "https://www.thehindu.com/news/national/supreme-court-to-look-into-plea-to-distinguish-between-criticism-of-judiciary-and-online-distortion-of-what-judges-actually-say-in-court/article71355141.ece",
+      "summary": "Chief Justice of India Surya Kant says judges walk a very thin line",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:59:05 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1b9121dafa672316755cc4595a04de8e",
+      "title": "ISKCON vs ISKCON: SC to consider setting up bench to hear review plea on Bengaluru temple",
+      "link": "https://www.thehindu.com/news/national/iskcon-vs-iskcon-sc-to-consider-setting-up-bench-to-hear-review-plea-on-bengaluru-temple/article71355208.ece",
+      "summary": "The Supreme Court had allowed the plea of ISKCON Bangalore challenging a Karnataka High Court order that ruled in favour of ISKCON Mumbai over control of the iconic temple and educational complex in Bengaluru",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:58:43 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7a115a21d7155ec8de953550b74a87fc",
+      "title": "Supreme Court notice to Centre, CBI on CJP’s activities, monetisation of judges’ remarks in court",
+      "link": "https://www.thehindu.com/news/national/supreme-court-notice-to-centre-cbi-on-cjps-activities-monetisation-of-judges-remarks-in-court/article71331240.ece",
+      "summary": "Isolated fragments of oral proceedings are selectively clipped, meme-ified, mimicked, commercially circulated, and transformed into viral digital content detached from constitutional and procedural context, the petition added.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:58:39 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9bdfcaa31d4765da31fb84975ada5169",
+      "title": "CJI flags ‘misuse’ of live-streamed court proceedings on social media",
+      "link": "https://www.thehindu.com/news/national/cji-flags-misuse-of-live-streamed-court-proceedings-on-social-media/article71342425.ece",
+      "summary": "Chief Justice of India Surya Kant says video of proceedings cannot be used for commercial gain, says his reference to ‘cockroaches’ was “misused” and was a “malicious attempt to mislead the youth”",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:57:55 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0b5811c10b199b6bc00b79e4acbb8372",
+      "title": "Rajya Sabha Chairperson regrets disruptions during Monsoon Session; House productivity only 39%",
+      "link": "https://www.thehindu.com/news/national/rajya-sabha-chairperson-regrets-disruptions-during-monsoon-session-house-productivity-only-39/article71340225.ece",
+      "summary": "C.P. Radhakrishnan rued that members did not make the fullest use of the opportunities to raise the voice of the people",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:56:52 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "23e395aa1740009085449c22288e192d",
+      "title": "About seven injured in stampede like situation near Ujjain Mahakaleshwar Temple",
+      "link": "https://www.thehindu.com/news/national/madhya-pradesh/people-injured-in-stampede-like-situation-near-ujjain-mahakaleshwar-temple/article71355387.ece",
+      "summary": "Ujjain Collector Roshan Kumar Singh told The Hindu that the situation was now under control and that some people who felt uneasy are being given medical care",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:56:07 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1e5034fd0fb71df823b6f08e751cd9e9",
+      "title": "Supreme Court halts HC proceedings against Rahul Gandhi in disproportionate assets case",
+      "link": "https://www.thehindu.com/news/national/supreme-court-halts-hc-proceedings-against-rahul-gandhi-in-disproportionate-assets-case/article71355349.ece",
+      "summary": "“If the courts want to issue directions [for inquiry/investigation], the courts are expected to fulfill the principles of natural justice,” Chief Justice Kant addressed the CBI counsel, Additional Solicitor General S.V. Raju.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:56:01 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d27057cf87799d924fad7992725ecb0f",
+      "title": "मंदिर में वर्चस्व की जंग, पूर्व महंत के गुर्गों ने साधु-संतों को पीटा, 5 गिरफ्तार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/former-mahant-along-with-his-henchmen-beat-up-sadhus-and-saints-over-chair-of-ancient-kali-mandir-201786954248638.html",
+      "summary": "मुरादाबाद में प्राचीन काली मंदिर के महंत की कुर्सी पर कब्जे का विवाद मारपीट और धमकी देने तक पहुंच गया। मंदिर से हटाए गए पूर्व महंत सज्जन गिरी ने अपने साथियों के साथ मंदिर परिसर में घुसकर मारपीट की। वर्तमान महंत की तहरीर पर पुलिस ने पांच को गिरफ्तार कर लिया।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:52:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d1dbceb28cabbdcb7c0f392f590bd9e6",
+      "title": "Andhra Pradesh Assembly LIVE: 141 cases in 148 days to stall Mega DSC, alleges Lokesh",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-assembly-monsoon-session-live-updates-august-17-2026/article71355330.ece",
+      "summary": "The session is expected to run for four days, to Thursday; Amaravati works, Polavaram, rainfall deficit and farmers' issues are expected to be addressed",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:51:13 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "42b3bc8f430e12e78864e2edd80f8a1a",
+      "title": "Tamil Nadu Assembly: Group clash, not drugs behind killing of Coimbatore student Amuthan, says Law Minister",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-assembly-group-clash-not-drugs-behind-killing-of-coimbatore-student-amuthan-says-law-minister-r-nirmalkumar/article71355258.ece",
+      "summary": "Social Justice Minister Vanni Arasu and Backward Classes Minister V. Sampath Kumar met Amuthan’s parents and offered ₹6 lakh in compensation and government job to his brother.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:47:49 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "daae2f71db93a8f1235d62289562fb9f",
+      "title": "SC refuses to interfere with ECI's decision to keep 2002 as base year for SIR in Sikkim",
+      "link": "https://www.thehindu.com/news/national/sc-refuses-to-interfere-with-ecis-decision-to-keep-2002-as-base-year-for-sir-in-sikkim/article71355321.ece",
+      "summary": "The bench said no ground was made out to interfere with the ECI’s decision to fix 2002 as the base year, and dismissed the petition",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:45:01 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a33554567978def415c3034e1ab91cc0",
+      "title": "Sanskrit varsity mock funeral row: V-C Ciza Thomas alleges assault amid SFI protest; Governor, Home dept call for action against protesters",
+      "link": "https://www.thehindu.com/news/national/kerala/sanskrit-varsity-mock-funeral-row-v-c-ciza-thomas-alleges-assault-amid-sfi-protest-governor-home-dept-call-for-action-against-protesters/article71355175.ece",
+      "summary": "Sree Sankaracharya University of Sanskrit Vice-Chancellor alleges she was hit on her head and her hair pulled while leaving varsity after Syndicate meeting on August 13 amid protests led by SFI to press various demands",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:38:40 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a7d82b52a32703a92675a002d34f5c11",
+      "title": "Flood bout in July 2026 fails to help hydel generation in Telangana",
+      "link": "https://www.thehindu.com/news/national/telangana/flood-bout-in-july-2026-fails-to-help-hydel-generation-in-telangana/article71353434.ece",
+      "summary": "Paddy and cotton continue to command lion’s share in sowing area despite deficit rain. Major reservoirs serving Telangana’s needs still have over 300 tmc ft of flood cushion.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:36:03 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "89681fee93a698e32123e451e9fe636f",
+      "title": "बीज से स्टोरेज तक सब्सिडी; यूपी के आलू किसानों के लिए योगी सरकार की 3 नई स्कीम",
+      "link": "https://www.livehindustan.com/uttar-pradesh/from-storage-to-seed-subsidies-yogi-government-offers-major-relief-to-up-potato-farmers-201786953278054.html",
+      "summary": "योगी सरकार ने आलू किसानों के लिए तीन राहत योजनाएं शुरू की हैं। 1000 करोड़ रुपये के भाव स्थिरता कोष से बाजार भाव गिरने पर सब्सिडी मिलेगी। निजी कोल्ड स्टोरेज में आलू रखने पर 100 रुपये प्रति क्विंटल तक और आधार बीज पर 1000 रुपये प्रति क्विंटल तक छूट दी जाएगी।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:33:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "7207224098ac8fd13523e436faedccd8",
+      "title": "Bhogapuram airport takes over Visakhapatnam’s flights; first day brings praise and a long drive",
+      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/bhogapuram-airport-takes-over-visakhapatnams-flights-first-day-brings-praise-and-a-long-drive/article71355098.ece",
+      "summary": "Union Civil Aviation Minister Kinjarapu Ram Mohan Naidu flagged off the first commercial flights; passengers praised the terminal and flagged the drive, with one taking 50 minutes from Siripuram before dawn",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:30:30 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "99f7dfff575770cf5ae08ce21cb17332",
+      "title": "Rahul Gandhi seeks accountability over UGC-NET exam cancellation by NTA",
+      "link": "https://www.thehindu.com/news/national/rahul-gandhi-seeks-accountability-over-ugc-net-exam-cancellation-by-nta/article71355040.ece",
+      "summary": "NTA makes the mistake but the student serves the sentence, Mr. Gandhi said.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:16:16 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c62e84f0d415df62fa4f8990e9736f4a",
+      "title": "Unusual black hole found at universe’s dawn presents dusty mystery to astronomers",
+      "link": "https://www.thehindu.com/sci-tech/science/unusual-black-hole-found-at-universes-dawn-presents-dusty-mystery-to-astronomers/article71355346.ece",
+      "summary": "An international team of astronomers has found an unusual object that may help explain what at least some of these red dots actually are: unusually young and rapidly growing black holes surrounded by an enormous amount of dense gas",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:16:13 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c2d59bf03b2f2d88013ed2720182940f",
+      "title": "बरेली में कुत्तों ने बच्ची को मार डाला, कानपुर में सांड ने किसान की ली जान; यूपी में आवारा जानवरों का आतंक",
+      "link": "https://www.livehindustan.com/uttar-pradesh/dogs-kill-girl-in-bareilly-bull-claims-farmer-life-in-kanpur-menace-of-stray-animals-in-up-201786951898018.html",
+      "summary": "यूपी में आवारा पशुओं का आतंक जानलेवा बनता जा रहा है। बरेली के लटूरी गांव में आवारा कुत्तों के झुंड ने घर के बाहर खेल रही छह वर्षीय इनायत पर हमला कर दिया, जिससे उसकी मौत हो गई। वहीं कानपुर में सांड़ के हमले में 69 वर्षीय किसान उमाशंकर साहू की जान चली गई।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 13:13:58 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "21556b50dc107cdb650302b89234cd7d",
       "title": "‘Rajarshi Shahguda’: Telangana’s Kolam families name settlement after Adilabad district Collector",
       "link": "https://www.thehindu.com/news/national/telangana/rajarshi-shahguda-telanganas-kolam-families-name-settlement-after-adilabad-district-collector/article71355158.ece",
@@ -56656,19 +56877,6 @@
       "lang": "hi"
     },
     {
-      "id": "7207224098ac8fd13523e436faedccd8",
-      "title": "Bhogapuram airport takes over Visakhapatnam’s flights; first day brings praise and a long drive",
-      "link": "https://www.thehindu.com/news/cities/Visakhapatnam/bhogapuram-airport-takes-over-visakhapatnams-flights-first-day-brings-praise-and-a-long-drive/article71355098.ece",
-      "summary": "Union Civil Aviation Minister Kinjarapu Ram Mohan Naidu flagged off the first commercial flights; passengers praised the terminal and flagged the drive, with one taking 50 minutes from Siripuram before dawn",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 12:46:38 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "7e2fe7bc526c52b20209d0566ca03b53",
       "title": "Weather Update: मानसून का पूरे यूपी में असर, आज 46 जिलों में भारी बारिश की चेतावनी; यहां हो सकता है वज्रपात",
       "link": "https://www.amarujala.com/lucknow/up-monsoon-grips-entire-state-heavy-rain-warning-issued-for-46-districts-on-monday-2026-08-16",
@@ -56708,19 +56916,6 @@
       "lang": "en"
     },
     {
-      "id": "1b9121dafa672316755cc4595a04de8e",
-      "title": "ISKCON vs ISKCON: SC to consider setting up bench to hear review plea on Bengaluru temple",
-      "link": "https://www.thehindu.com/news/national/iskcon-vs-iskcon-sc-to-consider-setting-up-bench-to-hear-review-plea-on-bengaluru-temple/article71355208.ece",
-      "summary": "The Supreme Court had allowed the plea of ISKCON Bangalore challenging a Karnataka High Court order that ruled in favour of ISKCON Mumbai over control of the iconic temple and educational complex in Bengaluru",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 12:42:16 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ab5345193864e70c95e1cc43eaf2b96a",
       "title": "सांवला रंग बना दुश्मन: सास-ससुर देते थे ताने, पति ने भी रख दी ये शर्त; कोर्ट ने तीनों को सुनाई दो साल की सजा",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/agra-dowry-case-husband-and-parents-in-law-sentenced-to-two-years-in-prison-2026-08-17",
@@ -56734,19 +56929,6 @@
       "lang": "en"
     },
     {
-      "id": "a33554567978def415c3034e1ab91cc0",
-      "title": "Sanskrit varsity mock funeral row: V-C Ciza Thomas alleges assault amid SFI protest; Governor, Home dept call for action against protesters",
-      "link": "https://www.thehindu.com/news/national/kerala/sanskrit-varsity-mock-funeral-row-v-c-ciza-thomas-alleges-assault-amid-sfi-protest-governor-home-dept-call-for-action-against-protesters/article71355175.ece",
-      "summary": "Sree Sankaracharya University of Sanskrit Vice-Chancellor alleges she was hit on her head and her hair pulled while leaving varsity after Syndicate meeting on August 13 amid protests led by SFI to press various demands",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 12:41:00 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ee047eab041142cc00e3b43c7c3d073f",
       "title": "Jalaun: 33 केवी लाइन शिफ्टिंग को लेकर विवाद, बच्चों संग कलेक्ट्रेट पहुंचे स्कूल प्रबंधक, डीएम को सौंपा ज्ञापन",
       "link": "https://www.amarujala.com/uttar-pradesh/kanpur/jalaun-dispute-over-33-kv-line-shifting-school-manager-arrives-at-collectorate-with-children-2026-08-17",
@@ -56757,19 +56939,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "fe2eedfc33f4f18154cf525e3da5aa64",
-      "title": "Supreme Court to look into plea to distinguish between criticism of judiciary and online distortion of what judges actually say in court",
-      "link": "https://www.thehindu.com/news/national/supreme-court-to-look-into-plea-to-distinguish-between-criticism-of-judiciary-and-online-distortion-of-what-judges-actually-say-in-court/article71355141.ece",
-      "summary": "Chief Justice of India Surya Kant says judges walk a very thin line",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 12:39:55 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -56994,19 +57163,6 @@
       "lang": "en"
     },
     {
-      "id": "99f7dfff575770cf5ae08ce21cb17332",
-      "title": "Rahul Gandhi seeks accountability over UGC-NET exam cancellation by NTA",
-      "link": "https://www.thehindu.com/news/national/rahul-gandhi-seeks-accountability-over-ugc-net-exam-cancellation-by-nta/article71355040.ece",
-      "summary": "NTA makes the mistake but the student serves the sentence, Mr. Gandhi said.",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 12:14:39 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ec9e37f67314851fccc1dc72b84f10ca",
       "title": "शाहजहांपुर में दर्दनाक हादसा: बारिश में नए मकान का लिंटर गिरने से चाचा-भतीजे की मौत, महिला गंभीर घायल",
       "link": "https://www.amarujala.com/uttar-pradesh/shahjahanpur/uncle-and-nephew-die-after-house-roof-slab-collapses-during-rain-woman-critically-injured-in-shahjahanpur-2026-08-17",
@@ -57190,7 +57346,7 @@
     },
     {
       "id": "aa7a19a583c7fa92e654ef7057024886",
-      "title": "UP: ई-पॉस से फीडबैक की निगरानी का शुभारंभ, योगी बोले- पहले ‘कोटेदार’ शब्द से ही चिढ़ते थे लोग; अब बदलाव आया",
+      "title": "UP News: ‘लूट उनकी होती थी, गाली आप खाते थे’, कोटेदारों को सीएम योगी की सौगात; कमीशन भी बढ़ा",
       "link": "https://www.amarujala.com/lucknow/feedback-from-ration-dealers-to-be-monitored-via-e-pos-in-up-2026-08-17",
       "summary": "मुख्यमंत्री योगी आदित्यनाथ ने सिंगल स्टेज डोर-स्टेप डिलीवरी के तहत ई-पॉस आधारित उचित दर विक्रेता फीडबैक प्रणाली का शुभारंभ किया।",
       "date": "2026-08-17",
@@ -58827,6 +58983,19 @@
       "lang": "en"
     },
     {
+      "id": "a475e5039468a73c4d88c7077b59d0a6",
+      "title": "Kushner to meet Netanyahu to push Trump Gaza plan",
+      "link": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+      "summary": "The talks come one day after the US president's son-in-law held a rare meeting with Hamas leaders in Egypt.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 08:13:04 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c81a5907969d678eb20ca84cd44ed4db",
       "title": "लखनऊ: छात्राओं के प्रदर्शन से लखनऊ-हरदोई रोड पर लगा लंबा जाम, बेटियां बोली हमें न्याय चाहिए",
       "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-chhatarao-ka-paratharashana-sa-lkhanauu-harathaii-rada-para-lga-lb-jama-btaya-bl-hama-nayaya-cahae-2026-08-17",
@@ -58853,6 +59022,19 @@
       "lang": "en"
     },
     {
+      "id": "5ff300b394e7339fa00c8272fb359d9d",
+      "title": "SP and BJP leaders clash in wrestling bout:15-minute match in Varanasi ends in draw; had also contested election against each other",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/varanasi/news/varanasi-wrestling-match-sp-bjp-leaders-draw-nagpanchami-akhara-138752178.html",
+      "summary": "A unique contest took place in a Varanasi wrestling arena on Nag Panchami. SP leader Aman Yadav and BJP councillor Ram Singh Kallu, who had previously faced each other in an electoral contest, went head-to-head in the wrestling arena on Monday. Their bout at the Bachau Veer Akhara at BHU lasted around 15 minutes. Both tried several moves to pin each other down, but neither could secure a victory. The match ended in a draw, with the ₹5,100 prize money divided equally between them. See pictures- Wrestlers gather at Kashi akharas Wrestling in Kashi's akharas is part of a long-standing Nag Panchami tradition. Wrestlers began arriving at different arenas from around 7am on Monday. Children and adults alike took part at the Bachau Veer Akhara, located at the ancient Hanuman temple on the BHU campus. Ram Singh Kallu and Aman Yadav also train at this akhara. When someone invited the two leaders to wrestle against each other, they entered the arena and tested their strength. The crowd's enthusiasm grew as soon as the bout began. For around 15 minutes, both wrestlers attempted to pin each other, but neither managed to win. The referee ultimately declared both of them winners, and the ₹5,100 prize money was shared equally. The two had also competed against each other in the last councillor election from the same ward. The SP fielded Aman Yadav, while the BJP nominated Ram Singh Kallu. Ram Singh won that electoral contest. Dutch visitor swings 21kg mace At 9am, the Hanuman idol was formally worshipped at the historic akhara at Tulsi Ghat. The wrestlers then bowed to the soil before beginning their bouts. Local residents and visitors from outside the city gathered to watch. Herbert, a visitor from the Netherlands, also attended the akhara. He watched the wrestlers, learnt about Indian wrestling techniques and observed traditional exercises. He swung a 21kg mace and also learnt how the jori, a pair of heavy clubs, is used. Herbert said he first visited India in 2017. Since then, he has developed an interest in traditional Indian sports and akhara culture and now also trains wrestlers in the Netherlands. Wants to train in the rain Herbert said traditional Indian exercises are not merely about physical strength but are rooted in a long-standing sporting and training tradition. He particularly enjoys practising with the jori and swinging the mace. Despite the rain during the wrestling programme, he expressed his desire to train in the akhara and said he would practise there if the rain stopped. Gullu and Kashi Pehlwan also draw Another bout at the Bachau Veer Akhara saw Gullu Pehlwan take on Kashi Pehlwan. Their match also ended in a draw. A large number of local wrestlers took part in the Nag Panchami competition, continuing Kashi's traditional akhara wrestling culture. Performances help identify weaknesses Vishambhar Nath Mishra, who runs the akhara and is a professor at BHU-IIT, said the annual Nag Panchami programme was organised at the venue. He said the day's rituals and worship were performed, with the Hanuman idol brought from Sankat Mochan Temple for worship. Performances were then organised for the boys and girls training at the akhara. According to Mishra, the purpose of these performances is to identify where each trainee is weaker or stronger so that their shortcomings can be corrected and they can be trained accordingly.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 08:05:56 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "661c74aa3e6a8b6b94c8eba717403b69",
       "title": "लखनऊ: शिक्षकों की कमी के चलते धरने पर छात्राएं, सीएम योगी को बुलाने की मांग, एक बच्ची हुई बीमार",
       "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-shakashhaka-ka-kama-ka-calta-thharana-para-chhatarae-saema-yaga-ka-blna-ka-maga-eka-bcaca-haii-bmara-2026-08-17",
@@ -58863,6 +59045,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "e505f6480ac7ebb16250676caff8b38f",
+      "title": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+      "link": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+      "summary": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 08:00:05 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -58942,6 +59137,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "2595d356fcf8b2916000e750f46cc064",
+      "title": "Top Zambian opposition figures arrested days after presidential vote",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 07:31:36 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "f2c56aaa22e46265c6f3819737468aa0",
@@ -60193,9 +60401,9 @@
     },
     {
       "id": "3faf612b1c393bf0bc3121f1919db58a",
-      "title": "Mother donates kidney to save son's life:₹7 lakh transplant fails in Mohali; both fall ill, family sells 1 bigha land",
+      "title": "Mother donates kidney to save son's life:₹7 lakh transplant fails in Mohali; both fall ill, family sells 1 bigha land for treatment",
       "link": "https://www.bhaskarenglish.in/local/chandigarh/news/mohali-hospital-kidney-transplant-failure-altaf-family-crisis-138749953.html",
-      "summary": "Altaf’s mother donated her kidney to save the life of the son she had given birth to. However, after the transplant at a private hospital in Mohali, the transplanted kidney reportedly failed. As Altaf’s health deteriorated, his father took him to PGI Chandigarh. He remained admitted there for around eight days, but his condition did not improve. He now requires dialysis every third day. The family goes to PGI for dialysis at ₹500, but if they do not get a slot, they have to pay ₹3,000 at a private centre. With treatment costs mounting, the family has even had to sell their one bigha of land. Altaf and his father shared their ordeal while speaking outside PGI. Know the complete case in sequence Worked as a driver in Abu Dhabi for five years Altaf is a resident of Najibabad tehsil in Bijnor, Uttar Pradesh. He worked as a driver in Abu Dhabi for around five years. Initially, he earned ₹20,000 a month, while his monthly income had risen to around ₹25,000 by the time he returned to India. Altaf is married but has no children. Sudden leg pain led to discovery of kidney disease One day, Altaf suddenly developed severe pain in his leg, followed by swelling. He received treatment in Abu Dhabi and was later discharged. His family then brought him back to India. After medical examinations in Bijnor, doctors found that he had kidney problems. Mother decided to donate her kidney When a kidney transplant became necessary, Altaf’s mother, Sherunika, decided to donate one of her kidneys. According to the family, Sherunika had previously suffered from kidney stones. His father, Shahid, had informed the doctors about this before the transplant. Transplant performed in Mohali in October 2025 Altaf underwent a kidney transplant at a private hospital in Mohali in October 2025. According to the family, the procedure cost around ₹7 lakh. The family hoped the transplant would improve Altaf’s health and allow him to return to a normal life. However, his condition began deteriorating again after some time. The family says the transplanted kidney subsequently failed. Taken to PGI for further treatment After Altaf’s condition worsened, his family took him to PGI Chandigarh in July 2026. He remained admitted there for around eight days before being discharged. However, he continued to require dialysis. The family now takes him to an outside dialysis centre every third day, where each session costs around ₹3,000. Altaf is unable to speak, so his family understands his daily needs and problems through his gestures and physical condition. Mother’s health also deteriorated after donating kidney Altaf’s mother, Sherunika, has also frequently been unwell since donating her kidney. According to the family, she suffers from stomach pain and intermittent fever. While Altaf’s treatment continues, Sherunika’s health has also become a concern. His father, Shahid, is looking after both of them. Family now has to arrange ₹3,000 every third day Altaf, who once worked as a driver in Abu Dhabi, is now dependent on regular medical treatment. According to the family, around ₹9.5 lakh has been spent on the transplant and subsequent treatment. The family has also sold one bigha of land to meet the medical expenses. Altaf now requires dialysis every third day, costing around ₹3,000 per session. As he cannot speak, his father Shahid is responsible for arranging his treatment and covering the expenses. The family’s biggest challenge now is ensuring that Altaf’s treatment continues without interruption.",
+      "summary": "Altaf’s mother donated her kidney to save life of the son she had given birth to. However, after the transplant at a private hospital in Mohali, the transplanted kidney reportedly failed. As Altaf’s health deteriorated, his father took him to PGI Chandigarh. He remained admitted there for around eight days, but his condition did not improve. He now requires dialysis every third day. The family goes to PGI for dialysis at ₹500, but if they do not get a slot, they have to pay ₹3,000 at a private centre. With treatment costs mounting, the family even had to sell their one bigha of land. Altaf and his father shared their ordeal while speaking outside PGI. Know the complete case in sequence Worked as a driver in Abu Dhabi for five years Altaf is a resident of Najibabad tehsil in Bijnor, Uttar Pradesh. He worked as a driver in Abu Dhabi for around five years. Initially, he earned ₹20,000 a month, while his monthly income had risen to around ₹25,000 by the time he returned to India. Altaf is married but has no children. Sudden leg pain led to discovery of kidney disease One day, Altaf suddenly developed severe pain in his leg, followed by swelling. He received treatment in Abu Dhabi and was later discharged. His family then brought him back to India. After medical examinations in Bijnor, doctors found that he had kidney problems. Mother decided to donate her kidney When a kidney transplant became necessary, Altaf’s mother, Sherunika, decided to donate one of her kidneys. According to the family, Sherunika had previously suffered from kidney stones. His father, Shahid, had informed the doctors about this before the transplant. Transplant performed in Mohali in October 2025 Altaf underwent a kidney transplant at a private hospital in Mohali in October 2025. According to the family, the procedure cost around ₹7 lakh. The family hoped the transplant would improve Altaf’s health and allow him to return to a normal life. However, his condition began deteriorating again after some time. The family says the transplanted kidney subsequently failed. Taken to PGI for further treatment After Altaf’s condition worsened, his family took him to PGI Chandigarh in July 2026. He remained admitted there for around eight days before being discharged. However, he continued to require dialysis. The family now takes him to an outside dialysis centre every third day, where each session costs around ₹3,000. Altaf is unable to speak, so his family understands his daily needs and problems through his gestures and physical condition. Mother’s health also deteriorated after donating kidney Altaf’s mother, Sherunika, has also frequently been unwell since donating her kidney. According to the family, she suffers from stomach pain and intermittent fever. While Altaf’s treatment continues, Sherunika’s health has also become a concern. His father, Shahid, is looking after both of them. Family now has to arrange ₹3,000 every third day Altaf, who once worked as a driver in Abu Dhabi, is now dependent on regular medical treatment. According to the family, around ₹9.5 lakh has been spent on the transplant and subsequent treatment. The family has also sold one bigha of land to meet the medical expenses. Altaf now requires dialysis every third day, costing around ₹3,000 per session. As he cannot speak, his father Shahid is responsible for arranging his treatment and covering the expenses. The family’s biggest challenge now is ensuring that Altaf’s treatment continues without interruption.",
       "date": "2026-08-17",
       "timestamp": "Mon, 17 Aug 2026 02:37:18 +0000",
       "section": "UP_Focus",
@@ -60855,6 +61063,19 @@
       "lang": "en"
     },
     {
+      "id": "b75db0cb3d3963a828500e7dfdba7faf",
+      "title": "लखनऊ: आइडियल कॉलोनी के सामने झुकी जीएसआई की बाउंड्री वॉल, हादसे का खतरा",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-aaidayal-kalna-ka-samana-jhaka-jaesaaaii-ka-budara-val-hathasa-ka-khatara-2026-08-17",
+      "summary": "लखनऊ: आइडियल कॉलोनी के सामने झुकी जीएसआई की बाउंड्री वॉल, हादसे का खतरा",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 02:04:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "ff5a8736f5a980536cd0b0649e6f67ac",
       "title": "Varanasi News: बाइक सवार कांवरिया की टक्कर से पैदल जा रहे कांवरिया की मौत",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/pedestrian-kanwariya-dies-after-being-hit-by-a-kanwariya-on-a-motorcycle-varanasi-news-c-20-gkp1008-1507439-2026-08-17",
@@ -60881,6 +61102,19 @@
       "lang": "en"
     },
     {
+      "id": "fc6f17b6388de6b7623d86c8c04681e1",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 17 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-17",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 02:00:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "9815f003271c3709c9358a0a204f8ac7",
       "title": "Stomach surgery leads to hand being severed twice:Lucknow mother blames doctors’ negligence for ruining son’s life",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/lucknow/news/lucknow-lohia-hospital-ankit-rathore-doctor-negligence-case-138749802.html",
@@ -60890,6 +61124,19 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e53b91341f01ff91be40dbe8289f744d",
+      "title": "UP: यूपी रोडवेज बस में गूंजी किलकारी, सफर के बीच गर्भवती ने दिया बच्ची को जन्म; चालक ने मानवता का निभाया फर्ज",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/baby-girl-born-on-moving-roadways-bus-driver-rushes-mother-to-chc-in-saiyan-2026-08-17",
+      "summary": "आगरा से मनियां जा रही रोडवेज बस में गर्भवती महिला को अचानक प्रसव पीड़ा होने लगी।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:59:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -60907,6 +61154,45 @@
       "lang": "hi"
     },
     {
+      "id": "877e6b94c731c4dcaebfcd175b5cf9e2",
+      "title": "लखनऊ: बिठूर से गंगाजल लेकर इटौंजा लौटे 13 सौ कांवड़ियों ने रत्नेश्वर महादेव का किया जलाभिषेक",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-bthara-sa-gagajal-lkara-itaja-lta-13-sa-kavaugdhaya-na-ratanashavara-mahathava-ka-kaya-jalbhashhaka-2026-08-17",
+      "summary": "लखनऊ: बिठूर से गंगाजल लेकर इटौंजा लौटे 13 सौ कांवड़ियों ने रत्नेश्वर महादेव का किया जलाभिषेक",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:56:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "5a040cbfb453a73ad96f22a284b17e45",
+      "title": "तमिलनाडु में किसानों का 75000 रुपये तक का कर्ज माफ: 13.34 लाख किसानों को मिलेगा लाभ; CM विजय ने क्या एलान किए?",
+      "link": "https://www.amarujala.com/india-news/tamil-nadu-crop-loan-waiver-farmers-vijay-75000-up-to-13-lakh-beneficiaries-2026-08-17",
+      "summary": "तमिलनाडु में किसानों का 75000 रुपये तक का कर्ज माफ: 13.34 लाख किसानों को मिलेगा लाभ; CM विजय ने क्या एलान किए?",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:56:28 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "17aff91941cec86a5c9fdb0cbe558bf8",
+      "title": "UP: उफनाई गंगा चेतावनी बिंदु से 13 सेमी. ऊपर पहुंची, आठ मोहल्लों में घुसा पानी, नावों से हो रहा है आवागमन",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/up-swelling-ganga-rises-13-cm-above-the-warning-mark-water-enters-eight-neighborhoods-2026-08-17",
+      "summary": "गंगा नदी का जलस्तर तेजी से बढ़ रहा। बुधवार को चेतावनी बिंदु 112 मीटर से 13 सेंटीमीटर ऊपर जलस्तर पहुंच गया है। किनारे बसे आठ मोहल्लों में पानी घुसने से लोगों की दुश्वारियां बढ़ गई हैं।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:56:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "c8757400d72d529b6c55a20f56e36074",
       "title": "Ram Lalla joins Jhoola Vihar first time in 500 years:Silver Palanquin adorned with flowers in Ayodhya; three brothers join him | VIDEO",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/ayodhya-ram-lalla-jhulotsav-procession-silver-palanquin-video-138749773.html",
@@ -60917,6 +61203,58 @@
       "report_category": "UP_Focus",
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5b186ef65a9daeb7af266e7723fdd6c5",
+      "title": "UP: 'हत्या की है... जेल तो जाना ही था', मुस्कुराया और रौब झाड़ते हुए बोला मुमताज का कातिल, अनपढ़ समझा है क्या?",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/kanpur/accused-in-mumtaz-murder-arrested-in-encounter-kanpur-2026-08-17",
+      "summary": "कानपुर के साढ़ थाना इलाके के देवषढ़ गांव में बीते सात अगस्त की रात घर में घुसकर मुमताज की हत्या कर लूटपाट करने वाले मुख्य आरोपी शोयल खान उर्फ रानू को पुलिस ने रविवार तड़के कुंदौली दंगल मार्ग पर मुठभेड़ में गिरफ्तार कर लिया।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:50:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a3ee7e0d8bc3bf6cf5eeb0b365059c3f",
+      "title": "लखनऊ: चौक के बाग महानारायण गोमती पहलवान अखाड़े में कुश्ती का हुआ आयोजन",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-caka-ka-bga-mahanarayanae-gamata-pahalvana-akhaugdha-ma-kashata-ka-haaa-aayajana-2026-08-17",
+      "summary": "लखनऊ: चौक के बाग महानारायण गोमती पहलवान अखाड़े में कुश्ती का हुआ आयोजन",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:49:31 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "92d79b2151c8698d88f404283304df18",
+      "title": "CJP के बाद ‘दिमागी नक्सल पार्टी’: रातोंरात जुड़े 1.9 लाख फॉलोअर्स; PM मोदी के बयान से नए डिजिटल कैंपेन को जन्म",
+      "link": "https://www.amarujala.com/india-news/dimagi-naxal-party-gained-1-9-lakh-followers-overnight-on-instagram-pm-modi-statement-sparked-digital-campaign-2026-08-17",
+      "summary": "CJP के बाद ‘दिमागी नक्सल पार्टी’: रातोंरात जुड़े 1.9 लाख फॉलोअर्स; PM मोदी के बयान से नए डिजिटल कैंपेन को जन्म- Dimagi Naxal Party gained 1.9 lakh followers overnight on Instagram PM Modi statement sparked digital campaign",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:48:18 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "184385861e4c8c4a92689b08e6ed3666",
+      "title": "लखनऊ: हाईकोर्ट के आदेश पर चला नगर निगम का बुलडोजर, नाले पर बने अवैध निर्माण ध्वस्त",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-haiikarata-ka-aathasha-para-cal-nagara-nagama-ka-bldajara-nal-para-bna-avathha-naramanae-thhavasata-2026-08-17",
+      "summary": "लखनऊ: हाईकोर्ट के आदेश पर चला नगर निगम का बुलडोजर, नाले पर बने अवैध निर्माण ध्वस्त",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:45:16 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -60946,6 +61284,58 @@
       "lang": "en"
     },
     {
+      "id": "78269ae479f0ce8ad6adf9493226a019",
+      "title": "Budaun News: कछला गंगा घाट पर उमड़ी लाखों श्रद्धालुओं की भीड़, रात में दिखा अद्भुत नजारा",
+      "link": "https://www.amarujala.com/uttar-pradesh/budaun/massive-crowd-of-devotees-thronged-the-kachhla-ganga-ghat-2026-08-17",
+      "summary": "सावन माह के तीसरे सोमवार को भगवामय हुआ कछला गंगा घाट, दिखा आस्था का जनसैलाब",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:40:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a0d73ad60082aeeb61d51bd413507ba5",
+      "title": "बॉम्बे हाई कोर्ट क्लर्क भर्ती विवाद: छात्रों ने खत्म किया आंदोलन, प्रशासन को दिया 7 दिन का समय; क्या रखी मांग?",
+      "link": "https://www.amarujala.com/india-news/bombay-high-court-clerk-typing-test-glitches-aspirants-halt-protest-demand-re-examination-2026-08-17",
+      "summary": "बॉम्बे हाई कोर्ट क्लर्क भर्ती विवाद: छात्रों ने खत्म किया आंदोलन, प्रशासन को दिया 7 दिन का समय; क्या रखी मांग? bombay high court clerk typing test glitches aspirants halt protest demand re examination",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:38:52 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "72f23336b7904ee815fd3e8f767f69c6",
+      "title": "आस्था और उत्साह का सैलाब, काशी में बारिश के बीच जयकारों से गूंजे शिवालय ;video",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-a-surge-of-faith-and-enthusiasm-shiva-temples-in-kashi-resonate-with-chants-amidst-the-rain-2026-08-17",
+      "summary": "आस्था और उत्साह का सैलाब, काशी में बारिश के बीच जयकारों से गूंजे शिवालय ;video",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:36:01 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "a122d3df31ca1a424807644d4a32872d",
+      "title": "नाग पंचमी पर बीएचयू में दंगल, बच्चों से लेकर बड़े पहलवान हुए शामिल;video",
+      "link": "https://www.amarujala.com/video/uttar-pradesh/varanasi/video-wrestling-match-held-at-bhu-on-nag-panchami-participants-ranged-from-children-to-veteran-wrestlers-2026-08-17",
+      "summary": "नाग पंचमी पर बीएचयू में दंगल, बच्चों से लेकर बड़े पहलवान हुए शामिल;video",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:35:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "692ea0de8a404239266edfcae192f506",
       "title": "UP to recruit 1 lakh outsourced workers:Existing staff to get salary hike of up to ₹15,000; know what benefits they will receive",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/lucknow/news/up-government-outsourced-staff-salary-hike-yogi-adityanath-138749725.html",
@@ -60972,6 +61362,19 @@
       "lang": "hi"
     },
     {
+      "id": "05156d9a28da3bf2507f5b8de6cfd0e0",
+      "title": "वाराणसी पुलिस की कार्रवाई: वीडीए की सील तोड़कर निर्माण कराने पर जमीन मालिक समेत पांच बिल्डरों के खिलाफ एफआईआर",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/police-fir-registered-against-five-builders-including-landowner-for-construction-after-breaking-vda-seal-2026-08-17",
+      "summary": "सुरक्षा मानकों की भी अनदेखी की गई। उत्तर प्रदेश नगर नियोजन एवं विकास अधिनियम के तहत 14 जुलाई को नोटिस जारी किया गया था।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:28:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "9c8b62b8b4ccebf8126ef24161775f46",
       "title": "Israeli settlers pitch tents for new illegal outpost in occupied West Bank",
       "link": "https://www.aljazeera.com/news/2026/8/17/israeli-settlers-pitch-tents-for-new-illegal-outpost-in-occupied-west-bank?traffic_source=rss",
@@ -60995,6 +61398,58 @@
       "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "096a701b81c7f0c45921ddc246dc8401",
+      "title": "लखनऊ: चौक के बाग महानारायण गोमती पहलवान अखाड़े में हुई कुश्ती प्रतियोगिता, मौके पर पहुंचे डिप्टी सीएम",
+      "link": "https://www.amarujala.com/video/lucknow/video-lkhanauu-caka-ka-bga-mahanarayanae-gamata-pahalvana-akhaugdha-ma-haii-kashata-paratayagata-maka-para-pahaca-dapata-saema-2026-08-17",
+      "summary": "लखनऊ: चौक के बाग महानारायण गोमती पहलवान अखाड़े में हुई कुश्ती प्रतियोगिता, मौके पर पहुंचे डिप्टी सीएम",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:19:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "7ed2d94d30909d021446b7328d22f297",
+      "title": "SC: आय से अधिक संपत्ति मामले में राहुल गांधी को अंतरिम राहत, सुप्रीम कोर्ट ने हाईकोर्ट की सुनवाई पर लगाई रोक",
+      "link": "https://www.amarujala.com/india-news/supreme-court-asks-allahabad-hc-not-to-proceed-with-da-case-against-rahul-gandhi-2026-08-17",
+      "summary": "Supreme Court: आय से अधिक संपत्ति मामले में राहुल गांधी को अंतरिम राहत, सुप्रीम कोर्ट ने हाईकोर्ट की सुनवाई पर लगाई रोक Supreme court asks Allahabad HC not to proceed with DA case against Rahul Gandhi",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:18:33 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "9e8ade17832e338a830c7753f4fa0418",
+      "title": "नशेड़ी का हाईवोल्टेज ड्रामा: रिटायर दरोगा के बेटे ने लाइसेंसी रिवाल्वर से की फायरिंग, पुलिस पर दागीं गोलियां",
+      "link": "https://www.amarujala.com/uttar-pradesh/aligarh/retired-inspector-son-fired-from-licensed-revolver-2026-08-17",
+      "summary": "अलीगढ़ में रिटायर दरोगा के छोटे बेटे ने नशे के लिए रुपये न मिलने पर जमकर उत्पात मचाया। आरोपी ने घर में तोड़फोड़ करने के बाद पिता के साथ भी मारपीट की और पिता की लाइसेंसी रिवाल्वर उन पर तान दी।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:17:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a10c324449adcacdf9ec35c55070618f",
+      "title": "वाराणसी-गाजीपुर हाईवे पर हादसा: तेज रफ्तार कार ने कांवड़ियों को रौंदा, एक की मौत; तीन की हालत गंभीर",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/car-accident-of-kanwariyas-on-highway-one-dead-three-in-critical-condition-in-varanasi-2026-08-17",
+      "summary": "घटना के बाद आसपास के ग्रामीणों व पुलिस ने तत्काल पहुंच कर सभी घायलों को उपचार के लिए पं दीनदयाल उपाध्याय अस्पताल पहुंचाया। वहां चिकित्सकों ने विनीत तिवारी (25) पुत्र विनोद तिवारी, निवासी काल भैरव वाराणसी को मृत घोषित कर दिया।",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:16:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
       "lang": "en"
     },
     {
@@ -61076,6 +61531,19 @@
       "lang": "en"
     },
     {
+      "id": "ded05c050003784da23feaebb8c5cc86",
+      "title": "Prashant Kishor Bankipur MLA Oath Ceremony: इस अंदाज में ली पीके ने विधायक पद की शपथ | Bankipur MLA",
+      "link": "https://www.amarujala.com/video/india-news/prashant-kishor-bankipur-mla-oath-ceremony-this-is-how-pk-took-the-oath-of-office-as-mla-bankipur-mla-2026-08-17",
+      "summary": "Prashant Kishor Bankipur MLA Oath Ceremony: इस अंदाज में ली पीके ने विधायक पद की शपथ | Bankipur MLA",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 01:11:57 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "dc87ba588cc9ab867ec0c27cad614eb9",
       "title": "Farrukhabad: एक ही परिवार के तीन लोगों सहित चार कांवड़िया गंगा में डूबे, तलाश में जुटी एनडीआरफ व गोताखोर",
       "link": "https://www.amarujala.com/uttar-pradesh/kanpur/farrukhabad-four-kanwariyas-including-three-members-of-the-same-family-drowned-in-the-ganges-2026-08-17",
@@ -61125,19 +61593,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
-      "lang": "en"
-    },
-    {
-      "id": "fc6f17b6388de6b7623d86c8c04681e1",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 17 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-17",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 01:00:38 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -84983,19 +85438,6 @@
       "lang": "en"
     },
     {
-      "id": "9bdfcaa31d4765da31fb84975ada5169",
-      "title": "CJI flags ‘misuse’ of live-streamed court proceedings on social media",
-      "link": "https://www.thehindu.com/news/national/cji-flags-misuse-of-live-streamed-court-proceedings-on-social-media/article71342425.ece",
-      "summary": "Chief Justice of India Surya Kant says video of proceedings cannot be used for commercial gain, says his reference to ‘cockroaches’ was “misused” and was a “malicious attempt to mislead the youth”",
-      "date": "2026-08-14",
-      "timestamp": "Fri, 14 Aug 2026 00:28:24 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "7616f5af5c913fd4e6be3128e478674e",
       "title": "Layout approval given after considering conservation areas, says TGIIC",
       "link": "https://www.thehindu.com/news/national/telangana/layout-approval-given-after-considering-conservation-areas-says-tgiic/article71342258.ece",
@@ -85100,10 +85542,101 @@
       "lang": "en"
     },
     {
+      "id": "30aebe7ad966f5ff639addd69352d091",
+      "title": "18-year-old Belgian thought he found €1; then uncovered €9m in gold",
+      "link": "https://timesofindia.indiatimes.com/world/uk/18-year-old-belgian-student-thought-he-found-a-1-coin-during-his-summer-construction-job-he-then-uncovered-gold-worth-9-million/articleshow/133290486.cms",
+      "summary": "",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T13:44:25+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "56a338085d3bbb54ca2e4a12c9411f13",
+      "title": "'Tent fell, barricades collapsed': Stampede-like situation at Ujjain temple leaves devotees injured",
+      "link": "https://timesofindia.indiatimes.com/india/tent-fell-barricades-collapsed-stampede-like-situation-at-ujjain-temple-leaves-devotees-injured/articleshow/133290877.cms",
+      "summary": "",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T13:41:28+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "62fd908fa13cb35c5124f3dee7dc2297",
+      "title": "Cauvery row: Supreme Court asks Karnataka to comply with water release directions to Tamil Nadu",
+      "link": "https://timesofindia.indiatimes.com/india/cauvery-row-supreme-court-asks-karnataka-to-comply-with-water-release-directions-to-tamil-nadu/articleshow/133290747.cms",
+      "summary": "",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T13:30:24+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4380b3ae0b0779f4cfaba08f047bb4f8",
+      "title": "After 25 years at Adobe, engineer laid off; now he is a driver",
+      "link": "https://timesofindia.indiatimes.com/etimes/work-career/after-25-years-at-adobe-tech-engineer-was-laid-off-and-spent-a-year-searching-for-work-he-now-drives-a-school-bus-and-says-he-has-found-happiness/articleshow/133290133.cms",
+      "summary": "A senior software engineer with twenty-five years at Adobe was laid off last year. He struggled to find new tech employment for a year after his dismissal. This led him to pursue a new career as a school bus driver for his local district. While his new role pays less, he finds contentment and supportive colleagues. His experience highlights challenges faced by experienced tech professionals in the current job market.",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T13:16:50+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "66a14e87b6386b436cc330fff486d439",
+      "title": "An 18-year-old construction worker in Belgium uncovered a €9 million gold hoard",
+      "link": "https://timesofindia.indiatimes.com/world/europe/an-18-year-old-construction-worker-in-belgium-uncovered-a-9-million-gold-hoard-hidden-inside-a-former-brewery-cellar/articleshow/133287748.cms",
+      "summary": "",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T13:15:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "092f054d246f3661bc0795c958cd58af",
+      "title": "California student turned pickleball fundraiser for St. Jude into a sports platform that raised more than $90,000",
+      "link": "https://timesofindia.indiatimes.com/world/us/meet-olivia-shekou-the-california-student-who-turned-one-pickleball-fundraiser-for-st-jude-into-a-sports-platform-that-grew-to-17-states-and-raised-more-than-90000/articleshow/133290322.cms",
+      "summary": "Olivia Shekou has successfully generated over ninety thousand dollars through her innovative sports philanthropy platform, known as Netting Miracles. Her initiative empowers students to spearhead fundraising events. Currently, she is gearing up for an exciting new fundraiser aimed at helping women and children in Uganda, scheduled to take place at Flyte Racquet Club in San Rafael. Her platform has now broadened its support across seventeen states, backing various charitable causes.",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T13:08:37+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "75e315d1df6c21bf5e51c114c23871cf",
       "title": "California startup JetZero is building a $3 billion aircraft that promises to cut fuel consumption by 50%, carry 250 passengers",
       "link": "https://timesofindia.indiatimes.com/world/us/california-startup-jetzero-is-building-a-3-billion-manta-ray-aircraft-that-promises-to-cut-fuel-consumption-by-50-carry-250-passengers-and-replace-traditional-windows-with-screens-japan-airlines-just-joined-the-project/articleshow/133287884.cms",
       "summary": "JetZero is unveiling a cutting-edge 'manta ray' aircraft aimed at revolutionizing the future of commercial aviation. This groundbreaking design is expected to yield impressive fuel savings and significantly lower emissions. With a full-scale prototype scheduled to take flight by 2027, Japan Airlines is on board to provide operational insights, paving the way for expected commercial operations in the early 2030s.",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-17T13:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f21cd506aaf64600ebc8cf674953f7c2",
+      "title": "Teacher leads 2,800 students in 29-year effort to restore New Zealand coast",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-1997-a-new-zealand-teacher-began-planting-a-windswept-coastal-paddock-with-year-9-students-29-years-later-12425-plants-have-turned-it-into-native-habitat/articleshow/133288191.cms",
+      "summary": "Retired teacher Janet Pottinger spent 29 years helping Buller High School students restore native vegetation at Tauranga Bay and Cape Foulwind in New Zealand. Since 1997, around 2,800 students have planted 12,425 native plants across 108 trips. The project has transformed former grassland into habitat supporting birds, seals, lizards and other native wildlife.",
       "date": "2026-08-17",
       "timestamp": "2026-08-17T13:00:00+05:30",
       "section": "International",
@@ -85127,7 +85660,7 @@
     },
     {
       "id": "3f8fc367b038b61f345757611d1a2f60",
-      "title": "Two Air India pilots fail prelim dope test; sample sent for confirmation test",
+      "title": "2 more Air India pilots fail to clear dope test after Phuket-Delhi flight scare; taken off duty",
       "link": "https://timesofindia.indiatimes.com/india/two-air-india-pilots-fail-prelim-dope-test-sample-sent-for-confirmation-test/articleshow/133289912.cms",
       "summary": "Air India's recent pilot screening revealed two non-negative dope test results, leading to these pilots being grounded while awaiting confirmatory tests. In response, the aviation ministry has instructed the DGCA to revise current dope testing protocols. The intended policy overhaul aims to impose stricter penalties for pilots found using illegal drugs, while also distinguishing between accidental use of medication and intentional substance abuse.",
       "date": "2026-08-17",
