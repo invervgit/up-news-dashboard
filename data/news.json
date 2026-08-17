@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:17:37.192252+00:00",
+  "generated_at": "2026-08-17T23:16:44.345121+00:00",
   "stories": [
     {
       "id": "adb17cba9e012a3114585a6ffcbf5502",
@@ -12144,6 +12144,97 @@
       "lang": "en"
     },
     {
+      "id": "2fbca7eb46cb03a7784871d54fadfb78",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 18 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-18",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 04:30:22 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "caf685bb74b01df80bb6d2c2640047e2",
+      "title": "पढ़ें 18 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-18",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 04:30:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3d2ceb3b97bce589f705001465b8bd5e",
+      "title": "West Asia war highlights: Trump threatens Oman as it works with Iran on Strait of Hormuz deal",
+      "link": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-17-2026/article71354691.ece",
+      "summary": "Iran says 60-day deadline ‘irrelevant’; Yemen's Houthi rebels target a Saudi military vessel and four accompanying boats in the Red Sea",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 04:27:05 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "589fdfdbad1281fa5ae73aae184c6b18",
+      "title": "Bengal: सर्किट हाउस खाली कराने पर महुआ मोइत्रा ने ओम बिरला को दिया नोटिस, अधिकारियों पर क्या गंभीर आरोप लगाए?",
+      "link": "https://www.amarujala.com/india-news/bengal-mahua-moitra-moves-privilege-notice-against-officials-over-circuit-house-eviction-what-are-allegation-2026-08-18",
+      "summary": "Bengal: सर्किट हाउस खाली कराने पर महुआ मोइत्रा ने ओम बिरला को दिया नोटिस, अधिकारियों पर क्या गंभीर आरोप लगाए?",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 04:26:00 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "88f07024850c556b37652de06a9cfb82",
+      "title": "Greater Noida: यमुना सिटी में बनेगा क्रिकेट स्टेडियम और बस अड्डा, 92वीं बोर्ड बैठक में फैसला, ताइवान सिटी को भ",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/cricket-stadium-to-be-built-in-yamuna-city-decision-on-bus-terminal-also-taken-at-92nd-board-meeting-approval-2026-08-18",
+      "summary": "यमुना सिटी में अंतरराष्ट्रीय क्रिकेट स्टेडियम का निर्माण किया जाएगा। इसके अलावा, एक अंतरराज्यीय बस अड्डा और आधुनिक किसान मंडी भी बनाई जाएगी।",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 04:18:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "d32491f41d0404017d16f931476d6ac0",
+      "title": "Trump’s envoy says Hamas disarmament could begin within 30 days",
+      "link": "https://www.thehindu.com/news/international/trumps-envoy-says-hamas-disarmament-could-begin-within-30-days/article71358083.ece",
+      "summary": "The comments came as Jared Kushner and Netanyahu agreed that an American general would verify Hamas’s disarmament, an Israeli official said, as the premier insisted there would be no Israeli pullout from Gaza until then",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 04:12:31 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e8a832793aec25cdf5e07a00d495db26",
+      "title": "Twisha Sharma case: CBI accuses Giribala, Samarth of abetment of suicide",
+      "link": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-case-samarth-singh-giribala-singh-named-in-cbis-charge-sheet/article71355607.ece",
+      "summary": "In the chargesheet, the CBI has named Samarth, a lawyer, and Giribala, a former district judge, whom the deceased's family has accused of mental abuse, physical violence.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 03:56:15 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "076e218a55df65ca4763d4c5592c89da",
       "title": "JSSC-CGL Exam Cancelled: JSSC-CGL परीक्षा हुई रद्द मंत्रियों ने खत्म कराया छात्रों नेताओं का अनशन!",
       "link": "https://www.amarujala.com/video/india-news/jssc-cgl-exam-cancelled-jssc-cgl-exam-called-off-ministers-get-student-leaders-to-end-their-hunger-strike-2026-08-18",
@@ -12157,30 +12248,30 @@
       "lang": "hi"
     },
     {
-      "id": "2fbca7eb46cb03a7784871d54fadfb78",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 18 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-18",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "id": "b3d2984c1235436f08a858f5292de545",
+      "title": "Delhi Court orders property attachment of Advocate Mehmood Pracha over unpaid fine",
+      "link": "https://www.thehindu.com/news/national/delhi-court-orders-property-attachment-of-advocate-mehmood-pracha-over-unpaid-fine/article71357159.ece",
+      "summary": "Advocate Mehmood Pracha did not pay a ₹6 lakh fine for seeking to have the Supreme Court’s 2019 Ayodhya verdict declared null and void",
       "date": "2026-08-18",
-      "timestamp": "Tue, 18 Aug 2026 03:30:24 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
+      "timestamp": "Tue, 18 Aug 2026 03:13:08 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
-      "id": "caf685bb74b01df80bb6d2c2640047e2",
-      "title": "पढ़ें 18 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-18",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "id": "2c610fa5b40a9edafd579965acd98164",
+      "title": "Floods hit 7.85 lakh people in 6 Odisha districts",
+      "link": "https://www.thehindu.com/news/national/odisha/floods-hit-785-lakh-people-in-6-odisha-districts/article71356782.ece",
+      "summary": "Odisha CM Mohan Charan Majhi accompanied by Revenue and Disaster Management Minister Suresh Pujari, visited Jajpur district to make a spot assessment about flood response",
       "date": "2026-08-18",
-      "timestamp": "Tue, 18 Aug 2026 03:30:12 +0530",
+      "timestamp": "Tue, 18 Aug 2026 02:54:05 +0530",
       "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
       "district": "",
-      "lang": "hi"
+      "lang": "en"
     },
     {
       "id": "4e4870ca856ff71d76b706ca3aeeb271",
@@ -12193,6 +12284,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "330dfae32753372dba01848bc42ef71a",
+      "title": "Left parties renew call to scrap NTA, NEP after UGC-NET paper errors",
+      "link": "https://www.thehindu.com/news/national/left-parties-renew-call-to-scrap-nta-nep-after-ugc-net-paper-errors/article71357931.ece",
+      "summary": "CPI(M), CPI and CPI(ML) say the retest announcement exposes deep flaws in the examination system; demand an overhaul of the education policy and testing mechanism",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 02:42:51 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -58229,19 +58333,6 @@
       "lang": "en"
     },
     {
-      "id": "e8a832793aec25cdf5e07a00d495db26",
-      "title": "Twisha Sharma case: CBI accuses Giribala, Samarth of abetment of suicide",
-      "link": "https://www.thehindu.com/news/national/madhya-pradesh/twisha-sharma-death-case-samarth-singh-giribala-singh-named-in-cbis-charge-sheet/article71355607.ece",
-      "summary": "In the chargesheet, the CBI has named Samarth, a lawyer, and Giribala, a former district judge, whom the deceased's family has accused of mental abuse, physical violence.",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 22:31:45 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "c35cb4fda6ca3a0231a627ad028e10d9",
       "title": "Congress steps up attack on NTA over UGC-NET retest, seeks white paper on cancelled exams",
       "link": "https://www.thehindu.com/news/national/will-pm-respond-youth-demand-answers-congress-on-nta-retest-for-3-ugc-net-papers/article71354936.ece",
@@ -58264,6 +58355,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "38f24e7846d3fbac240e80408fb4bc49",
+      "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
+      "link": "https://www.aljazeera.com/news/2026/8/17/as-rubble-clears-colombia-begins-focusing-on-recovery-after-the-earthquake?traffic_source=rss",
+      "summary": "A week after a deadly quake, Colombia turns from rescue efforts to shelter, aid and rebuilding.",
+      "date": "2026-08-17",
+      "timestamp": "Mon, 17 Aug 2026 22:26:12 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -59426,7 +59530,7 @@
     },
     {
       "id": "4b6dce38ca0223a5c31776b820a2ad9c",
-      "title": "Trump’s approval rating sinks to new low",
+      "title": "Trump’s approval rating sinks to new low at 33 percent",
       "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
       "summary": "New poll found a majority of US citizens concerned about the US war on Iran.",
       "date": "2026-08-17",
@@ -61047,19 +61151,6 @@
       "report_category": "UP_Focus",
       "source": "Patrika",
       "district": "Lucknow",
-      "lang": "en"
-    },
-    {
-      "id": "3d2ceb3b97bce589f705001465b8bd5e",
-      "title": "West Asia war LIVE: Trump threatens to bomb Oman if they get in way of Hormuz deal",
-      "link": "https://www.thehindu.com/news/international/iran-us-west-asia-war-strait-of-hormuz-donald-trump-live-updates-on-august-17-2026/article71354691.ece",
-      "summary": "Very happy to see that Saudi Arabia, Turkiye, and Pakistan have recently, and finally, signed the Mecca Joint Defence Agreement, said U.S. President Donald Trump",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 18:12:15 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -95041,6 +95132,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2af8224eff62bafc164177d8d30599ff",
+      "title": "Fake govt offices set up, funds siphoned off in Gujarat",
+      "link": "https://timesofindia.indiatimes.com/india/fake-govt-offices-set-up-funds-siphoned-off-in-gujarat/articleshow/133308614.cms",
+      "summary": "",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-18T04:27:05+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "354046c077c0c9632fdca545f490c81b",
+      "title": "2 Air India pilots have failed dope test so far, taken off duty",
+      "link": "https://timesofindia.indiatimes.com/india/2-air-india-pilots-have-failed-dope-test-so-far-taken-off-duty/articleshow/133308576.cms",
+      "summary": "",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-18T04:15:00+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d8fb7a09520182710f5dee418d3cae64",
+      "title": "3,000-year-old inscription naming Masn may help archaeologists identify the lost Egyptian city",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/a-3000-year-old-inscription-naming-masn-may-help-archaeologists-identify-the-lost-egyptian-city/articleshow/133297906.cms",
+      "summary": "A remarkable sandstone lintel inscribed with the titles of Ramesses II was uncovered at Tell Abu Seify. This inscription reveals valuable information about the restoration of a statue of Horus, the Lord of Masn. Such findings bolster the theory that this site may very well be the fabled lost city of Masn, showcasing evolution from a significant religious and military hub to an industrial quarry through recent excavations.",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-18T04:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b6f7a1aabb23ac6ad29a8e42466d29a9",
+      "title": "I-Day terror plot foiled: ISI-backed ring busted, 253 operatives held across 14 states",
+      "link": "https://timesofindia.indiatimes.com/india/i-day-terror-plot-foiled-isi-backed-ring-busted-253-operatives-held-across-14-states/articleshow/133307027.cms",
+      "summary": "Shahzad Bhatti Gang's Terror Plans Foiled",
+      "date": "2026-08-17",
+      "timestamp": "2026-08-18T03:45:26+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
