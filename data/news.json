@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:16:07.543861+00:00",
+  "generated_at": "2026-08-18T23:16:16.007896+00:00",
   "stories": [
     {
       "id": "adf8bf31b22024cf2181bcc2ffcf894b",
@@ -106,25 +106,12 @@
       "lang": "hi"
     },
     {
-      "id": "7774fd14d94039035c338c581bc04b39",
-      "title": "Satyendar Jain Arrested: AAP नेता सत्येंद्र जैन सहित 6 गिरफ्तार, ACB ने की कार्रवाई!",
-      "link": "https://www.amarujala.com/video/india-news/satyendar-jain-arrested-6-arrested-including-aap-leader-satyendar-jain-acb-takes-action-2026-08-19",
-      "summary": "Satyendar Jain Arrested: AAP नेता सत्येंद्र जैन सहित 6 गिरफ्तार, ACB ने की कार्रवाई!",
-      "date": "2026-08-19",
-      "timestamp": "Wed, 19 Aug 2026 03:33:39 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "96f776492584ece77624f7330a34ce8f",
       "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 अगस्त के मुख्य और ताजा समाचार",
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-19",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-19",
-      "timestamp": "Wed, 19 Aug 2026 03:30:27 +0530",
+      "timestamp": "Wed, 19 Aug 2026 04:30:26 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -137,7 +124,33 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-19",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-19",
-      "timestamp": "Wed, 19 Aug 2026 03:30:13 +0530",
+      "timestamp": "Wed, 19 Aug 2026 04:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "0d4a35975a33f3d318b70a50710734fc",
+      "title": "मौसम: देहरादून में भारी बारिश का ऑरेंज अलर्ट, हिमाचल में चूना पत्थर खान ढही, तीन मजदूर दबे; IMD ने क्या कहा?",
+      "link": "https://www.amarujala.com/india-news/weather-news-dehradun-heavy-rain-orange-alert-himachal-mine-collapse-assam-odisha-flood-jharkhand-imd-forecast-2026-08-19",
+      "summary": "मौसम: देहरादून में भारी बारिश का ऑरेंज अलर्ट, हिमाचल में चूना पत्थर खान ढही, तीन मजदूर दबे; IMD ने क्या कहा?",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 04:22:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "7774fd14d94039035c338c581bc04b39",
+      "title": "Satyendar Jain Arrested: AAP नेता सत्येंद्र जैन सहित 6 गिरफ्तार, ACB ने की कार्रवाई!",
+      "link": "https://www.amarujala.com/video/india-news/satyendar-jain-arrested-6-arrested-including-aap-leader-satyendar-jain-acb-takes-action-2026-08-19",
+      "summary": "Satyendar Jain Arrested: AAP नेता सत्येंद्र जैन सहित 6 गिरफ्तार, ACB ने की कार्रवाई!",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 03:33:39 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
@@ -896,6 +909,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "5dc1a4d424cc89e85cfe209e266de882",
+      "title": "NCB busts drug trafficking network involving illegally overstaying foreign nationals",
+      "link": "https://www.thehindu.com/news/national/ncb-busts-drug-trafficking-network-involving-illegally-overstaying-foreign-nationals/article71360942.ece",
+      "summary": "The agency, in coordination with the police and immigration authorities, is launching a nationwide fortnight-long drive, “Trinetra,” next month to identify overstaying foreigners and initiate action",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 02:28:06 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -14198,6 +14224,19 @@
       "lang": "en"
     },
     {
+      "id": "fe46301241cff53d3f135e7434f033d2",
+      "title": "Minnesota official sues Texas governor to force ICE agent’s extradition",
+      "link": "https://www.aljazeera.com/news/2026/8/18/minnesota-official-sues-texas-governor-to-force-ice-agents-extradition?traffic_source=rss",
+      "summary": "State Attorney General Keith Ellison has called for the transfer of ICE agent accused of lying about nonfatal shooting.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 22:55:50 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "637eb93b6d9e524dbe0d1d641ba72a94",
       "title": "Keralam CM denies CPI(M) accusation that govt. has ceded executive power to Lok Bhavan",
       "link": "https://www.thehindu.com/news/national/kerala/keralam-cm-denies-cpim-accusation-that-govt-has-ceded-executive-power-to-rss-controlled-lok-bhavan/article71360842.ece",
@@ -14282,8 +14321,8 @@
       "summary": "Lebanon’s judicial authorities have decided to hand over a former Syrian military officer to Damascus",
       "date": "2026-08-18",
       "timestamp": "Tue, 18 Aug 2026 22:49:12 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -14454,6 +14493,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6dabd09016cfc839ce348542a97f5df1",
+      "title": "The Indian activist jailed after taking on a luxury hotel plan",
+      "link": "https://www.bbc.co.uk/news/articles/c0ej24qd3qpo?at_medium=RSS&at_campaign=rss",
+      "summary": "An activist's detention has brought under focus a larger battle over land and development around the famed Kaziranga National Park.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 22:18:50 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -14901,9 +14953,9 @@
     },
     {
       "id": "4ab7725d93e6133367e76ac473e0cced",
-      "title": "Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
+      "title": "DR Congo’s Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
       "link": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
-      "summary": "Officials warn they are continuing to identify new chains of transmission, which need to be broken to stop the spread.",
+      "summary": "Officials warn they are continuing to identify new chains of transmission that need to be broken to stop the spread.",
       "date": "2026-08-18",
       "timestamp": "Tue, 18 Aug 2026 21:24:52 +0000",
       "section": "International",
@@ -95691,6 +95743,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d1c6ad387bb27ccebceac7d5e997fae9",
+      "title": "Ex-SC judge to lead probe into police action on CJP Parliament march",
+      "link": "https://timesofindia.indiatimes.com/india/ex-sc-judge-to-lead-probe-into-police-action-on-cjp-parliament-march/articleshow/133334424.cms",
+      "summary": "",
+      "date": "2026-08-18",
+      "timestamp": "2026-08-19T04:29:57+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b7ef1cfb3891eeac53ee84f29168f110",
+      "title": "NTA removes 600 experts, brings 4-tier paper checks",
+      "link": "https://timesofindia.indiatimes.com/india/nta-removes-600-experts-brings-4-tier-paper-checks/articleshow/133334410.cms",
+      "summary": "The National Testing Agency is undergoing a significant overhaul by replacing existing experts with specialized newcomers. To ensure quality, a rigorous four-tier reviewing system will be introduced to meticulously evaluate every examination paper. This reform comes on the heels of notable mistakes discovered in recent assessments. Additionally, the agency is welcoming fresh personnel and relocating its offices while implementing enhanced security measures and a thorough audit process.",
+      "date": "2026-08-18",
+      "timestamp": "2026-08-19T04:23:47+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "68a5995aa2167c3a0b0aa4f0ecca36c0",
+      "title": "Captain of ship attacked in Hormuz dead or alive? SC seeks report from government",
+      "link": "https://timesofindia.indiatimes.com/india/captain-of-ship-attacked-in-hormuz-dead-or-alive-sc-seeks-report-from-government/articleshow/133334360.cms",
+      "summary": "The Supreme Court has instructed the Union government to look into the baffling case of Capt Ashish Kumar's disappearance. His wife presented a petition with ransom calls and WhatsApp messages hinting at his possible survival. After DNA tests disproved his presumed death following a ship attack, the court is now requesting a status report on the efforts to locate him from the Solicitor General by Monday.",
+      "date": "2026-08-18",
+      "timestamp": "2026-08-19T04:00:28+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5b8e0b2489f274d27059ba44ea147540",
+      "title": "Highways may get traffic 'road test' before launch",
+      "link": "https://timesofindia.indiatimes.com/india/highways-may-get-traffic-road-test-before-launch/articleshow/133333662.cms",
+      "summary": "",
+      "date": "2026-08-18",
+      "timestamp": "2026-08-19T03:45:52+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
