@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:17:27.457046+00:00",
+  "generated_at": "2026-08-18T22:16:07.543861+00:00",
   "stories": [
     {
       "id": "adf8bf31b22024cf2181bcc2ffcf894b",
@@ -106,6 +106,58 @@
       "lang": "hi"
     },
     {
+      "id": "7774fd14d94039035c338c581bc04b39",
+      "title": "Satyendar Jain Arrested: AAP नेता सत्येंद्र जैन सहित 6 गिरफ्तार, ACB ने की कार्रवाई!",
+      "link": "https://www.amarujala.com/video/india-news/satyendar-jain-arrested-6-arrested-including-aap-leader-satyendar-jain-acb-takes-action-2026-08-19",
+      "summary": "Satyendar Jain Arrested: AAP नेता सत्येंद्र जैन सहित 6 गिरफ्तार, ACB ने की कार्रवाई!",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 03:33:39 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "96f776492584ece77624f7330a34ce8f",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-19",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 03:30:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "4dffaf65452df12cc75691d80f8701d4",
+      "title": "पढ़ें 19 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-19",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 03:30:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "72d481b4ac6b2647fb63283208a875ea",
+      "title": "Why is PM CARES Fund keeping large sums idle, asks RTI activist",
+      "link": "https://www.thehindu.com/news/national/pm-cares-fund-audit-2024-25-domestic-foreign-donations/article71360330.ece",
+      "summary": "PM CARES Fund, a public charitable trust established in March 2020 to support relief efforts during public health emergencies and other disasters, is chaired by the Prime Minister and funded entirely through voluntary contributions",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 03:04:53 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "05f25b2f45eda63e49bf42f8e77a28b1",
       "title": "Lucknow News: वशिष्ठ नगर योजना में एमएसएमई को 50 एकड़ जमीन",
       "link": "https://www.amarujala.com/lucknow/50-acres-of-land-to-msmes-in-vashisht-nagar-scheme-lucknow-news-c-13-lko1070-1880445-2026-08-19",
@@ -168,6 +220,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "912d586962057e95ffa7f4666ff1d869",
+      "title": "Gorakhpur News: सोशल मीडिया पर अपहरण-रंगदारी की झूठी सूचना फैलाने पर प्राथमिकी दर्ज",
+      "link": "https://www.amarujala.com/gorakhpur/in-the-video-the-young-man-had-claimed-he-was-being-abducted-gorakhpur-news-c-7-gkp1062-1422090-2026-08-19",
+      "summary": "In the video, the young man had claimed he was being abducted.",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 02:44:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
       "lang": "en"
     },
     {
@@ -415,6 +480,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "058445885b5a3a8da929f29f13d7a066",
+      "title": "Gold mine collapses in Central African Republic, killing at least 30 miners",
+      "link": "https://www.thehindu.com/news/international/gold-mine-collapses-in-central-african-republic-killing-many-miners/article71362272.ece",
+      "summary": "The low-tech, artisanal mine collapsed in the Abba region of the Nana-Mambere prefecture, according to Florian Gaguende, one of the surviving miners",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 02:37:48 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -743,19 +821,6 @@
       "lang": "en"
     },
     {
-      "id": "96f776492584ece77624f7330a34ce8f",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 19 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-19",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-08-19",
-      "timestamp": "Wed, 19 Aug 2026 02:30:27 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "d8f310563a3f3301da744e9f085ea7fb",
       "title": "Gorakhpur News: अज्ञात वाहन की टक्कर से महिला की मौत",
       "link": "https://www.amarujala.com/gorakhpur/woman-dies-after-being-hit-by-an-unidentified-vehicle-gorakhpur-news-c-7-gkp1062-1422250-2026-08-19",
@@ -769,19 +834,6 @@
       "lang": "en"
     },
     {
-      "id": "4dffaf65452df12cc75691d80f8701d4",
-      "title": "पढ़ें 19 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-19",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-08-19",
-      "timestamp": "Wed, 19 Aug 2026 02:30:13 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
-    {
       "id": "5f2cf35e8fe66ed56feec3edfc967ee2",
       "title": "Lucknow News: बैडमिंटन... पहले दिन खेले गए 80 से अधिक मुकाबले",
       "link": "https://www.amarujala.com/lucknow/badminton-more-than-80-matches-played-on-the-first-day-lucknow-news-c-13-1-lko1028-1881303-2026-08-19",
@@ -792,6 +844,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "6b7f6b5d62f3c66b5d3aad3493d7fede",
+      "title": "Bengal hotel fire: Two owners held, death toll rises to nine",
+      "link": "https://www.thehindu.com/news/national/west-bengal/bengal-hotel-fire-two-owners-held-death-toll-rises/article71361224.ece",
+      "summary": "During an inspection by the Birbhum district administration, at least 15 hotels have been found where fire safety arrangements were not in place. The administration is directed to seal all those hotels",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 02:29:35 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -1276,14 +1341,14 @@
       "lang": "hi"
     },
     {
-      "id": "72d481b4ac6b2647fb63283208a875ea",
-      "title": "Why is PM CARES Fund keeping large sums idle, asks RTI activist",
-      "link": "https://www.thehindu.com/news/national/pm-cares-fund-audit-2024-25-domestic-foreign-donations/article71360330.ece",
-      "summary": "PM CARES Fund, a public charitable trust established in March 2020 to support relief efforts during public health emergencies and other disasters, is chaired by the Prime Minister and funded entirely through voluntary contributions",
+      "id": "4c84ee8e6f2590f80912bd581a625dd3",
+      "title": "Lawyers boycott work in J&K’s Poonch after ‘police search judge’s vehicle’",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/lawyers-boycott-work-in-jks-poonch-after-policesearch-judges-vehicle/article71361938.ece",
+      "summary": "Lawyers in Poonch boycott court after police allegedly “disrespected a judge” during a vehicle search, demanding an inquiry",
       "date": "2026-08-19",
-      "timestamp": "Wed, 19 Aug 2026 01:43:50 +0530",
+      "timestamp": "Wed, 19 Aug 2026 01:50:54 +0530",
       "section": "National",
-      "report_category": "National_Govt",
+      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -1375,6 +1440,19 @@
       "timestamp": "Wed, 19 Aug 2026 01:16:39 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "70b83f6e245d3a477e342e304e653305",
+      "title": "A vision for an inclusive Bangladesh",
+      "link": "https://www.thehindu.com/opinion/op-ed/a-vision-for-an-inclusive-bangladesh/article71361607.ece",
+      "summary": "Under Prime Minister Tarique Rahman, Bangladesh’s democratic journey seeks inclusion, equality, dignity, and accountable governance",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 01:14:35 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -1622,6 +1700,19 @@
       "timestamp": "Wed, 19 Aug 2026 00:32:00 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "94c50532ebaa767ab924e4210e7b755e",
+      "title": "Residents stop lorries near Cheyyar for damaging water pipelines, roads",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/residents-stop-lorries-near-cheyyar-for-damaging-water-pipelines-roads/article71360596.ece",
+      "summary": "They say the continuous movement of the lorries is damaging the pipelines that supply water to Nedumpirai and Moranam villages; they demand regulation of movement of lorries on the route",
+      "date": "2026-08-19",
+      "timestamp": "Wed, 19 Aug 2026 00:29:16 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -14549,6 +14640,19 @@
       "lang": "en"
     },
     {
+      "id": "31db817bd8e9b5dcfd023c20b641afb6",
+      "title": "Bolivia arrests political adviser to Latin American right-wingers",
+      "link": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
+      "summary": "Arrest comes after attack on activist Nadia Beller, who says she was targeted for her opposition to corruption.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 21:50:43 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9317344917bf63e4bcf1459bf0e52989",
       "title": "RSS meet to discuss demographic imbalance, drug abuse among youth",
       "link": "https://www.thehindu.com/news/national/rss-meet-to-discuss-demographic-imbalance-drug-abuse-among-youth/article71361125.ece",
@@ -14757,6 +14861,58 @@
       "lang": "en"
     },
     {
+      "id": "70c8e6921248440f9debfa87571661d1",
+      "title": "Trump administration moves to end rule protecting swaths of forest land",
+      "link": "https://www.aljazeera.com/news/2026/8/18/trump-administration-moves-to-end-rule-protecting-swaths-of-forest-land?traffic_source=rss",
+      "summary": "US Agriculture Department says rescinding 2001 rule will help reduce wildfire risk and return control to local managers.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 21:26:47 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7c1ca33b382712104c168382d3e853c3",
+      "title": "Why is the US ramping up Tomahawk production?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/18/why-is-the-us-ramping-up-tomahawk-production?traffic_source=rss",
+      "summary": "The Pentagon has contracted a defence manufacturer to increase the output of cruise missiles.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 21:26:07 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "43f70b2101e9841dded2329ed0bf2922",
+      "title": "Syria opens Assad-era nuclear programme to UN probe",
+      "link": "https://www.aljazeera.com/news/2026/8/18/syria-opens-assad-era-nuclear-programme-to-un-probe?traffic_source=rss",
+      "summary": "UN watchdog reports that it found large amounts of material at undisclosed sites in Syria.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 21:25:06 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4ab7725d93e6133367e76ac473e0cced",
+      "title": "Congo Ebola outbreak ‘global emergency’ as infections pass 5,000: WHO",
+      "link": "https://www.aljazeera.com/news/2026/8/18/congo-ebola-outbreak-global-emergency-as-infections-pass-5000-who?traffic_source=rss",
+      "summary": "Officials warn they are continuing to identify new chains of transmission, which need to be broken to stop the spread.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 21:24:52 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "eb813df7b67477bf73b1995d0eebc226",
       "title": "1.95 lakh blocking orders just the tip of the iceberg, says Kharge",
       "link": "https://www.thehindu.com/news/national/195-lakh-blocking-orders-just-the-tip-of-the-iceberg-says-kharge/article71360997.ece",
@@ -14939,6 +15095,19 @@
       "lang": "en"
     },
     {
+      "id": "484dcf2ffb6380db306ccd62dec59193",
+      "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
+      "link": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
+      "summary": "US president hits out as states bordering the Strait of Hormuz continue talks on managing the strategic waterway.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 21:03:59 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ea986deba595bc6bea5de6e03a289579",
       "title": "KERC drafts ESR 2026: Power cut data on bills, faster connections",
       "link": "https://www.thehindu.com/news/national/karnataka/kerc-drafts-esr-2026-power-cut-data-on-bills-faster-connections/article71361388.ece",
@@ -14948,6 +15117,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "157811759c8743d7feae2fd981631bb1",
+      "title": "Israeli strike reported to kill at least six in Gaza City",
+      "link": "https://www.aljazeera.com/news/2026/8/18/israeli-strike-reported-to-kill-at-least-six-in-gaza-city?traffic_source=rss",
+      "summary": "The strike comes as efforts to push an agreement aimed at ending hostilities remain stalled.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 21:03:04 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -15105,6 +15287,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a719a4c20d2aed91010fd463abdefc2e",
+      "title": "WHO: Ebola can be contained in months if enough funding is provided",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/who-ebola-can-be-contained-in-months-if-enough-funding-is-provided?traffic_source=rss",
+      "summary": "The World Health Organization says the Ebola outbreak in DR Congo can be brought under control in three months.",
+      "date": "2026-08-18",
+      "timestamp": "Tue, 18 Aug 2026 20:53:44 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -95496,6 +95691,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1c8c2298dd3cfa6b0641e8f03d204b40",
+      "title": "Trump's voter ID praise follows Gyanesh Kumar - Sergio Gor meet",
+      "link": "https://timesofindia.indiatimes.com/india/trumps-voter-id-praise-follows-gyanesh-kumar-sergio-gor-meet/articleshow/133332198.cms",
+      "summary": "Recently, US President Donald Trump commended India’s voter ID system after a meeting between Indian election official Gyanesh Kumar and US Ambassador Sergio Gor. Kumar detailed the extensive issuance of photo identity cards and impressive voter turnout in India. He emphasized that the rigorous examination of elections by political parties contributes to high public trust in the electoral process.",
+      "date": "2026-08-18",
+      "timestamp": "2026-08-19T02:56:43+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
