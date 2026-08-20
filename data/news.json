@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:22:05.760364+00:00",
+  "generated_at": "2026-08-20T22:20:24.608066+00:00",
   "stories": [
     {
       "id": "8bc7aa28a435e048a58863eac08f16a6",
@@ -26375,6 +26375,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0ccc91a56e918ae38312fce963cf1a32",
+      "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+      "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+      "summary": "Former leader was escorted from Adiala jail to Shifa International Hospital, following court order, local media reports.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 21:18:10 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -84333,6 +84346,58 @@
       "lang": "en"
     },
     {
+      "id": "d252db99937e1805fa23cb84c0a6299b",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 21 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-21",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-21",
+      "timestamp": "Fri, 21 Aug 2026 03:30:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "65b5acfa2af8a66c4868fd62c4fe882d",
+      "title": "पढ़ें 21 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-21",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-21",
+      "timestamp": "Fri, 21 Aug 2026 03:30:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "777d7230a562ea72bdac4f345dd41527",
+      "title": "पाकिस्तान-चीन दोनों अलग चुनौती: पूर्व सेना प्रमुख नरवणे ने ड्रैगन को बताया प्रतिस्पर्धी, किससे ज्यादा खतरा?",
+      "link": "https://www.amarujala.com/india-news/former-army-chief-naravane-calls-china-a-competitor-and-pakistan-neighbour-should-india-watch-more-closely-2026-08-21",
+      "summary": "पाकिस्तान-चीन दोनों अलग चुनौती: पूर्व सेना प्रमुख नरवणे ने ड्रैगन को बताया प्रतिस्पर्धी, किससे ज्यादा खतरा?",
+      "date": "2026-08-21",
+      "timestamp": "Fri, 21 Aug 2026 03:00:39 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c1cea3b1ddc34173dc8c85f0389b7c5b",
+      "title": "Lucknow News: एक असलहे से फायर मिस हुआ तो दूसरे से मार दी गोली",
+      "link": "https://www.amarujala.com/lucknow/when-the-shot-from-one-weapon-misfired-he-fired-using-the-other-lucknow-news-c-13-lko1096-1884268-2026-08-21",
+      "summary": "गोमतीनगर के मिठाई वाले चौराहे के पास आईसीआईसीआई बैंक के बाहर पत्नी दिव्या की गोली मारकर हत्या करने वाला मानस पूरी योजना के साथ आया था।",
+      "date": "2026-08-21",
+      "timestamp": "Fri, 21 Aug 2026 02:58:02 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "2d4f355e155291ee2eb6ceb4c327407d",
       "title": "TISS में बनेगा स्कूल ऑफ एनालिटिक्स: रतन टाटा के नाम पर रखने की तैयारी; क्या बदलेंगे तकनीकी शिक्षा के मायने?",
       "link": "https://www.amarujala.com/india-news/tiss-to-establish-school-of-analytics-in-ratan-tata-name-will-it-transform-future-of-technical-education-2026-08-21",
@@ -84721,32 +84786,6 @@
       "source": "Amar Ujala",
       "district": "Lucknow",
       "lang": "en"
-    },
-    {
-      "id": "d252db99937e1805fa23cb84c0a6299b",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 21 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-21",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-08-21",
-      "timestamp": "Fri, 21 Aug 2026 02:30:25 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "65b5acfa2af8a66c4868fd62c4fe882d",
-      "title": "पढ़ें 21 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-21",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-08-21",
-      "timestamp": "Fri, 21 Aug 2026 02:30:12 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "075d68fabea77ddba5a6219c2b982118",
@@ -85451,6 +85490,19 @@
       "lang": "en"
     },
     {
+      "id": "6bdc8046f3e515bab433302df191fbc0",
+      "title": "Government allows duty-free import of 10 lakh tonnes of raw sugar until October 31",
+      "link": "https://www.thehindu.com/news/national/government-allows-duty-free-import-of-10-lakh-tonnes-of-raw-sugar-until-october-31/article71370748.ece",
+      "summary": "To control prices, the government imposed a stockholding limit on bulk consumers using more than 10 tonnes of sugar a month",
+      "date": "2026-08-21",
+      "timestamp": "Fri, 21 Aug 2026 01:23:40 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "350df384e77f230bf3a8a1707ffa1f31",
       "title": "Need for phones with 8 GB RAM raises concern among Census enumerators in JK",
       "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/need-for-phones-with-8-gb-ram-raises-concern-among-census-enumerators-in-jk/article71370606.ece",
@@ -85628,6 +85680,19 @@
       "timestamp": "Fri, 21 Aug 2026 00:19:40 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e9676c065ad9893f38bcdaba26895040",
+      "title": "CM Fadnavis selling Mumbai’s open land to BJP MLAs and friend: Aaditya Thackeray",
+      "link": "https://www.thehindu.com/news/national/maharashtra/cm-selling-mumbais-open-land-to-bjp-mlas-and-friend-aaditya-thackeray/article71369426.ece",
+      "summary": "The Shiv Sena (UBT) leader’s call for a protest comes after the BMC general house approved the conversion of the land reservation of Neville Dsouza turf into a convention centre on August 19",
+      "date": "2026-08-21",
+      "timestamp": "Fri, 21 Aug 2026 00:19:16 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -97017,6 +97082,58 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "056f2a701b65a5cec90d75fba44d4259",
+      "title": "New UK govt booklet tells asylum-seekers rape and child sex abuse are illegal",
+      "link": "https://timesofindia.indiatimes.com/world/uk/new-uk-govt-booklet-tells-asylum-seekers-rape-and-child-sex-abuse-are-illegal/articleshow/133387181.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-21T03:28:07+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f10008999cf4b0eef365c6c54f42eee3",
+      "title": "CARA to tweak rules to boost regulatory system",
+      "link": "https://timesofindia.indiatimes.com/india/cara-to-tweak-rules-to-boost-regulatory-system/articleshow/133387808.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-21T03:16:38+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0ac5ce5d9ec7c9305233f14668d07e98",
+      "title": "After 30 years, SC acquits 2 accused of taking Rs 20 bribe",
+      "link": "https://timesofindia.indiatimes.com/india/after-30-years-sc-acquits-2-accused-of-taking-rs-20-bribe/articleshow/133387613.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-21T03:01:01+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c1f6bfb2a0cc33194d5febbd007bcc77",
+      "title": "6 Indians on board hijacked cargo ship carrying Turkish weapons off Somalia's coast",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/6-indians-on-board-hijacked-cargo-ship-carrying-turkish-weapons-off-somalias-coast/articleshow/133387586.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-21T02:49:53+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
