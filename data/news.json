@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:35:50.935780+00:00",
+  "generated_at": "2026-08-20T08:30:22.985427+00:00",
   "stories": [
     {
       "id": "8bc7aa28a435e048a58863eac08f16a6",
@@ -881,19 +881,6 @@
       "timestamp": "Wed, 19 Aug 2026 21:44:14 +0530",
       "section": "National",
       "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "e367d7d7c8c886010d75524317903e70",
-      "title": "Tamil Nadu government order to prevent student participation in Left, CJP protests sparks controversy, withdrawn",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-order-seeking-steps-to-prevent-students-from-protesting-withdrawn-after-row/article71363796.ece",
-      "summary": "The directive was based on a part of the agenda of the Law and Order Meeting chaired by the Chief Secretary, a couple of days after the resignation of Union Education Minister Dharmendra Pradhan following massive protests by students at Jantar Mantar steered by the CJP.",
-      "date": "2026-08-19",
-      "timestamp": "Wed, 19 Aug 2026 21:42:22 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -25664,14 +25651,339 @@
       "lang": "en"
     },
     {
+      "id": "adeca7adfdc652e7db756339a5b1cdae",
+      "title": "लखनऊ में ICICI बैंक की रिलेशनशिप मैनेजर की हत्या, पति ने बहन को भी मारी गोली, खुद भी जान दे दी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/lucknow-icici-bank-relationship-manager-divya-mishra-murdered-husband-accused-of-the-killing-201787212794489.html",
+      "summary": "उत्तर प्रदेश की राजधानी लखनऊ में ICICI बैंक की रिलेशनशिप मैनेजर दिव्या की हत्या कर दी गई है। हत्या का आरोप दिव्या के पति पर ही लगा है। वारदात के बाद पुलिस मामले में जांच पड़ताल शुरू कर दी है।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:52:51 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "5639f14594ed7c5d262dddcbb4f8f876",
+      "title": "Patna High Court goes hard on noise pollution",
+      "link": "https://www.thehindu.com/news/national/bihar/patna-high-court-goes-hard-on-noise-pollution/article71368228.ece",
+      "summary": "Expressing concern over road accidents and public inconvenience caused by pressure horns, the court directed police officials to issue challans (fines) under Section 190(2) of the Motor Vehicles Act, 1988.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:47:03 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b51adb2035edb0693596589e0ebaa736",
+      "title": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+      "link": "https://www.thehindu.com/news/international/us-religious-freedom-body-seeks-sanctions-against-rss-no-high-level-meetings-with-its-leaders/article71368052.ece",
+      "summary": "The remarks of the religious freedom body’s chief came weeks ahead of RSS Chief Mohan Bhagwat’s visit to the U.S.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:40:25 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "69c28a73792bf87efbac33d563dffc56",
+      "title": "Rashtriya Swayamsevak Sangh: A look at its origins, ideology and rise (1925-1966)",
+      "link": "https://www.thehindu.com/news/national/rashtriya-swayamsevak-sangh-a-look-at-its-origins-ideology-and-rise-1925-1966/article69813925.ece",
+      "summary": "The RSS rose amid India’s battle to overthrow the British Raj, with the aim of establishing a ‘Hindu nation’ via cultural and religious revival",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:39:42 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "79d3d866ac4d44fc2919a24194862744",
+      "title": "यूपी में शहज़ाद भट्टी नेटवर्क पर एटीएस का बड़ा एक्शन, 52 संदिग्ध आतंकी गिरफ्तार",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-ats-action-against-shahzad-bhatti-network-52-suspected-terrorists-arrested-201787212132576.html",
+      "summary": "एटीएस और यूपी पुलिस ने शहजाद भट्टी से जुड़े मॉड्यूल के अब तक 52 संदिग्ध आतंकियों को गिरफ्तार किया है। 60 संदिग्ध युवकों के विरुद्ध निरोधात्मक कार्रवाई भी की गई है। देशभर में 14 राज्यों में एटीएस ने शहजाद भट्टी नेटवर्क के 250 से ज्यादा संदिग्धों को गिरफ्तार किया था।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:38:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2286688d3242d2c6a4daa36c77fa3584",
+      "title": "100 days of governments in Keralam, Puducherry, Tamil Nadu and West Bengal",
+      "link": "https://www.thehindu.com/news/national/100-days-of-governments-in-assam-keralam-puducherry-tamil-nadu-west-bengal/article71368278.ece",
+      "summary": "Here is a collection of articles from The Hindu as governments in Keralam, Puducherry, Tamil Nadu and West Bengal complete 100 days in power",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:38:23 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b0e1ae9b67c67c664cff2e7cb6065d4e",
+      "title": "Shigellosis resurfaces in Keralam; 3-year-old from capital hospitalised",
+      "link": "https://www.thehindu.com/news/national/kerala/shigellosis-resurfaces-in-keralam-3-year-old-from-capital-hospitalised/article71368091.ece",
+      "summary": "Health officials renew public health warnings, urging people to be cautious about the food and beverages they consume outside their homes, especially during the festival season",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:38:21 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e6cd00e50eaef75571e2e798dfbee373",
+      "title": "BJP demands Pinarayi Vijayan’s resignation as Keralam Opposition Leader over ED findings in CMRL case",
+      "link": "https://www.thehindu.com/news/national/kerala/bjp-demands-pinarayi-vijayans-resignation-as-keralam-opposition-leader-over-ed-findings-in-cmrl-case/article71368081.ece",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:35:39 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c02c5fcfca50c883bd51b81ec57d312b",
+      "title": "ED claims to have seized handwritten notes of Veena relating to fund transfer to Dubai",
+      "link": "https://www.thehindu.com/news/national/kerala/ed-claims-to-have-seized-handwritten-notes-of-veena-relating-to-fund-transfer-to-dubai/article71366235.ece",
+      "summary": "The notes contain the “names of persons, amounts handled, spent” besides the amount transferred to Dubai. The searches conducted on the premises related to Veena and the promoters of CMRL on May 27, 2026, yielded the documents, it says",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:34:27 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9b8a8edb3b2fcf5ce7cf58fc1dd1c10b",
+      "title": "Hotel lease-holder arrested, two detained after Kolkata hotel inferno kills nine",
+      "link": "https://www.thehindu.com/news/cities/kolkata/hotel-lease-holder-arrested-persons-detained-after-kolkata-hotel-inferno/article71367874.ece",
+      "summary": "Of the nine, five are Bangladeshi nationals and one each from Bihar and West Bengal; two victims are yet to be indentified; the hotel’s owner, Bireshwar Mitra, is still absconding, said police.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:32:38 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0db595a9936fc5f7086bd3d26e6702d0",
+      "title": "Sitharaman-led ministerial delegation meets Singapore PM Lawrence Wong",
+      "link": "https://www.thehindu.com/news/national/finance-minister-nirmala-sitharaman-lawrence-wong-india-singapore-ismr/article71368006.ece",
+      "summary": "Established in 2022, the ISMR is a key high-level economic mechanism between India and Singapore.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:28:39 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0a0dfd580934faad6b475b83766fd5c0",
+      "title": "‘Missed Independence Day? Go to Pakistan:’ Thrissur school owner’s remarks spark controversy",
+      "link": "https://www.thehindu.com/news/national/kerala/missed-independence-day-go-to-pakistan-thrissur-school-owners-remarks-spark-controversy/article71352603.ece",
+      "summary": "Parents question branding of absent students as ‘anti-national;’ SFI takes out protest march against school management",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:23:58 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "26123b377baff97b93ce347c3691a4f4",
+      "title": "Two doctors of Mumbai's Parsi community to receive Nishan-e-Imtiaz for keeping secret Jinnah's illness",
+      "link": "https://www.thehindu.com/news/national/two-doctors-of-mumbais-parsi-community-to-receive-nishan-e-imtiaz-for-keeping-secret-jinnahs-illness/article71367700.ece",
+      "summary": "Elaborating on the importance of their act, Mr. Iqbal said that any revelation about Jinnah’s frail health could have impacted the creation of Pakistan in 1947.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:21:59 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "92dee705ba599c3f7321e1f2e5f06f03",
+      "title": "Pakistan to honour two Indian doctors: What is Nishan-e-Imtiaz?",
+      "link": "https://www.thehindu.com/news/international/pakistan-nishan-e-imtiaz-india-doctors-explained-jinnah-gandhi/article71368031.ece",
+      "summary": "‘Nishan-e-Imtiaz’ or the ‘Order of Excellence’ is Pakistan’s highest civilian honour, which will be conferred upon two doctors of Mumbai’s Parsi community",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:21:30 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8cad733460fe1d9ec8519cb750367130",
+      "title": "Bhubaneswar drivers' protest: 113 arrested, 354 vehicles seized over violence, says Police",
+      "link": "https://www.thehindu.com/news/national/odisha/bhubaneswar-drivers-protest-113-arrested-354-vehicles-seized-over-violence-says-police/article71368187.ece",
+      "summary": "So far, seven FIRs have been registered against the protesters at Kharvel Nagar police station in this connection with the violence",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:19:07 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eb05b61a2e86323b25c0ccf28be34f51",
+      "title": "Rahul Gandhi's event in Pune gets nod with 30 curbs, 'objectionable' banners barred",
+      "link": "https://www.thehindu.com/news/national/maharashtra/rahul-gandhi-event-in-pune-gets-nod-with-30-curbs-august-22/article71367902.ece",
+      "summary": "The 'Chhatron Ki Goonj' (voice of students) event is specifically dedicated to female students to discuss issues like education, safety, equality, competitive exams, and career opportunities",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:17:27 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e367d7d7c8c886010d75524317903e70",
+      "title": "Tamil Nadu government order to prevent student participation in Left, CJP protests sparks controversy, withdrawn",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-order-seeking-steps-to-prevent-students-from-protesting-withdrawn-after-row/article71363796.ece",
+      "summary": "The directive was based on a part of the agenda of the Law and Order Meeting chaired by the Chief Secretary, a couple of days after the resignation of Union Education Minister Dharmendra Pradhan following massive protests by students at Jantar Mantar steered by the CJP.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:16:20 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b6454942ef7c2a765ca49a3765e761e5",
+      "title": "72-year-old Bengaluru man falls to death from his apartment",
+      "link": "https://www.thehindu.com/news/national/karnataka/72-year-old-man-falls-to-death-from-18th-floor-of-his-apartment/article71353667.ece",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:15:15 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3d3771424e1ddc306ee4f6c1c16550fd",
+      "title": "West Asia LIVE: Iran says Trump's 'Economic D-Day' is a diversion from U.S. domestic problems",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-missile-strikes-strait-of-hormuz-ceasefire-deal-washington-tehran-donald-trump/article71367590.ece",
+      "summary": "Iran's armed forces warned Gulf countries against assisting the U.S. military on August 19, hours after the UAE announced it was severing economic ties with Tehran following new attacks on shipping",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:14:32 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e07b0c09366127664f4c80e6e3fc603f",
+      "title": "जेन अल्फा के समर्थन में सरकार पर बरसीं मायावती, बोलीं- स्कूल में शिक्षक हैं न पानी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/mayawati-lashes-out-at-the-government-in-support-of-gen-alpha-says-schools-lack-both-teachers-and-water-201787211385113.html",
+      "summary": "जेन अल्फा के समर्थन में बसपा सु्प्रीमो मायावती सरकार पर खूब बरसीं। मायावती ने कहा कि जेन-अल्फा यानी 2013 के बाद पैदा हुए बच्चों के स्कूलों की बदहाली आज देश की सबसे बड़ी चिंता बन गई है।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:13:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "19f38b76d796e0ce7fe309817ee8a255",
+      "title": "U.S. sanctions on International Criminal Court officials | Explained",
+      "link": "https://www.thehindu.com/news/international/us-sanctions-on-international-criminal-court-officials-explained/article71367867.ece",
+      "summary": "U.S. Secretary of State Marco Rubio, announcing the sanctions, said that the ICC has made multiple attempts to assert authority over U.S. nationals and citizens of countries outside the court’s jurisdiction",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:13:38 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "97e002217bbc5f026c68e9b4b5e0f95b",
+      "title": "Why Keralam’s differently abled children are bearing the brunt of withheld Samagra Shiksha funds",
+      "link": "https://www.thehindu.com/news/national/kerala/why-keralams-differently-abled-children-are-bearing-the-brunt-of-withheld-samagra-shiksha-funds/article71367830.ece",
+      "summary": "Samagra Shiksha funds to Keralam have been withheld by Union government since 2023-24, affecting thousands of differently abled children",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:13:12 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "fc79935ebc7fc7d8c01ac5f7113e5e20",
       "title": "Jadavpur University on the boil as ABVP and SFI supporters clash over general body meeting",
       "link": "https://www.thehindu.com/news/national/west-bengal/jadavpur-university-violence-abvp-and-sfi-supporters-clash/article71368039.ece",
       "summary": "The AVBP claimed that supporters were manhandled by the Left-backed unions; student leader said BJP MLA Sarbari Mukherjee was blaming students after orchestrating the violence",
       "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 13:02:27 +0530",
+      "timestamp": "Thu, 20 Aug 2026 13:12:27 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "59eb24a6ed872d1037bd6a48bde1861b",
+      "title": "Quickest way to erode Gen Z goodwill is to use it as a threat: J&K CM Omar",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jampk-cm-omar-abdullah-warns-against-using-gen-z-as-a-threat/article71367901.ece",
+      "summary": "His remarks came in response to an undated video in which a young woman could be seen raising her voice against the Ladakh Police at a checkpoint. The girl in the video said, \"We are Gen Z and we are not going to tolerate this.\"",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:11:11 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "428d1dccb0a8f0515adbf0e5ef712f46",
+      "title": "No motive behind circular on student participation in CJP, Left parties’ protests: Tamil Nadu Higher Education Minister",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/no-motive-behind-circular-on-student-participation-in-cjp-left-parties-protests-tamil-nadu-higher-education-minister/article71368123.ece",
+      "summary": "The Minister’s statement comes after a now-withdrawn directive issued by the Higher Education Department, which had sought coordinated action to prevent students from participating in protests organised by the Left parties and CJP",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:07:22 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "501c00638d6132a09d6add1d2ae63833",
+      "title": "Quiet channel between ICE and Iran shaped deportation flights, newly released emails show",
+      "link": "https://www.thehindu.com/news/international/quiet-channel-between-ice-and-iran-shaped-deportation-flights-newly-released-emails-show/article71367966.ece",
+      "summary": "The president of the National Iranian American Council, said the emails undermine Mr. Trump's assertions that the U.S. is at war with Iran to save ordinary Iranians from a repressive regime.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:06:01 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -25682,9 +25994,22 @@
       "link": "https://www.thehindu.com/news/national/lawyers-protest-outside-bci-office-demand-chairman-manan-mishras-resignation-amid-nalsar-row/article71368148.ece",
       "summary": "One of the protestors, Advocate Umesh Kumar, questioned the Chairman’s record on lawyer welfare; he accused Mr. Mishra of spearheading “political agendas” while staying silent on issues of lawyers",
       "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 13:01:55 +0530",
+      "timestamp": "Thu, 20 Aug 2026 13:03:16 +0530",
       "section": "National",
       "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f823ce7464ed08cafac5b3c0672bd65d",
+      "title": "Tamil Nadu’s encroachment problem in Agasthyamalai",
+      "link": "https://www.thehindu.com/opinion/op-ed/tamil-nadus-encroachment-problem/article71366474.ece",
+      "summary": "The Supreme Court has pulled up the State for not dealing with encroachers in Agasthyamalai",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:02:38 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -25779,19 +26104,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "59eb24a6ed872d1037bd6a48bde1861b",
-      "title": "Quickest way to erode Gen Z goodwill is to use it as a threat: J&K CM Omar",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jampk-cm-omar-abdullah-warns-against-using-gen-z-as-a-threat/article71367901.ece",
-      "summary": "His remarks came in response to an undated video in which a young woman could be seen raising her voice against the Ladakh Police at a checkpoint. The girl in the video said, \"We are Gen Z and we are not going to tolerate this.\"",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 12:53:48 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "3dc5bfc90efd6460e4506ee1ec743b11",
@@ -25963,32 +26275,6 @@
       "lang": "en"
     },
     {
-      "id": "b51adb2035edb0693596589e0ebaa736",
-      "title": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
-      "link": "https://www.thehindu.com/news/international/us-religious-freedom-body-seeks-sanctions-against-rss-no-high-level-meetings-with-its-leaders/article71368052.ece",
-      "summary": "The remarks of the religious freedom body’s chief came weeks ahead of RSS Chief Mohan Bhagwat’s visit to the U.S.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 12:42:07 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "e6cd00e50eaef75571e2e798dfbee373",
-      "title": "BJP demands Pinarayi Vijayan’s resignation as Keralam Opposition Leader over ED findings in CMRL case",
-      "link": "https://www.thehindu.com/news/national/kerala/bjp-demands-pinarayi-vijayans-resignation-as-keralam-opposition-leader-over-ed-findings-in-cmrl-case/article71368081.ece",
-      "summary": "",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 12:41:40 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "8b6c4333b1e3dda835be2f3177a5f545",
       "title": "Varanasi News: तीज महोत्सव में दिखी बनारस की लोकसंस्कृति की झलक",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/a-glimpse-of-banarass-folk-culture-was-seen-at-the-teej-festival-varanasi-news-c-20-vns1022-1511738-2026-08-20",
@@ -26145,19 +26431,6 @@
       "lang": "en"
     },
     {
-      "id": "3d3771424e1ddc306ee4f6c1c16550fd",
-      "title": "West Asia LIVE: Trump vows 'tremendous' economic costs on Iran partners",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-missile-strikes-strait-of-hormuz-ceasefire-deal-washington-tehran-donald-trump/article71367590.ece",
-      "summary": "Iran's armed forces warned Gulf countries against assisting the U.S. military on August 19, hours after the UAE announced it was severing economic ties with Tehran following new attacks on shipping",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 12:24:52 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "df6dd12d6ebb84e93dc65fd675c14fc3",
       "title": "Varanasi News: कारोबारी माहौल को मजबूत और अंतरराष्ट्रीय बाजार तलाशने पर मंथन",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/deliberations-on-strengthening-the-business-environment-and-exploring-international-markets-varanasi-news-c-20-vns1056-1512336-2026-08-20",
@@ -26194,19 +26467,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Ayodhya",
-      "lang": "en"
-    },
-    {
-      "id": "0db595a9936fc5f7086bd3d26e6702d0",
-      "title": "Sitharaman-led ministerial delegation meets Singapore PM Lawrence Wong",
-      "link": "https://www.thehindu.com/news/national/finance-minister-nirmala-sitharaman-lawrence-wong-india-singapore-ismr/article71368006.ece",
-      "summary": "Established in 2022, the ISMR is a key high-level economic mechanism between India and Singapore.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 12:17:49 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -26327,19 +26587,6 @@
       "lang": "en"
     },
     {
-      "id": "97e002217bbc5f026c68e9b4b5e0f95b",
-      "title": "Why Keralam’s differently abled children are bearing the brunt of withheld Samagra Shiksha funds",
-      "link": "https://www.thehindu.com/news/national/kerala/why-keralams-differently-abled-children-are-bearing-the-brunt-of-withheld-samagra-shiksha-funds/article71367830.ece",
-      "summary": "Samagra Shiksha funds to Keralam have been withheld by Union government since 2023-24, affecting thousands of differently abled children",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 12:11:08 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "715356ba2399fc7eaa6d85cd20a01fca",
       "title": "Indian national dies in Israel; suspect arrested",
       "link": "https://www.thehindu.com/news/national/indian-national-dies-in-israel-suspect-arrested/article71368001.ece",
@@ -26431,6 +26678,19 @@
       "lang": "en"
     },
     {
+      "id": "b7fb5c31db2a9bffcae5a9d768ba1661",
+      "title": "78 लाख से कराया मंदिर का जीर्णोद्धार, फिर पूजा करने से रोका, BJP विधायक ने लगाया जातिगत भेदभाव का आरोप",
+      "link": "https://www.patrika.com/lucknow-news/lucknow-bjp-mla-jai-devi-kaushal-temple-controversy-20846100",
+      "summary": "Uttar Pradesh News: लखनऊ की काकोरी सीट से भाजपा विधायक जय देवी कौशल के साथ मंदिर में पूजा को लेकर विवाद खड़ा हो गया है। विधायक का आरोप है कि जिस शीतला मंदिर के जीर्णोद्धार के लिए उन्होंने करीब 78 लाख रुपये स्वीकृत कराए, उसी मंदिर में उन्हें पूजा और आरती करने से रोक दिया गया। घटना के समय भाजपा के मंडल अध्यक्ष समेत पार्टी के कई पदाधिकारी भी मौजूद थे।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:02:50 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "c76e6d23c1deaf58d0f8680c3820622c",
       "title": "अदालत : रिमांड पर उठाए गए सवाल पर सुनवाई 25 को",
       "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/court-hearing-on-questions-raised-regarding-remand-on-the-25th-ayodhya-news-c-97-1-ayo1002-156756-2026-08-20",
@@ -26509,6 +26769,19 @@
       "lang": "en"
     },
     {
+      "id": "0dafe89abe84f04d60c6b7ba98c2a37e",
+      "title": "कौन हैं सपना यादव? काफिला रुकवाकर अखिलेश को कान की बाली देने के बाद से चर्चा में, जानिए पूरा मामला",
+      "link": "https://www.patrika.com/lucknow-news/sapna-yadav-who-offered-earrings-to-akhilesh-yadav-for-btc-jobs-20846021",
+      "summary": "SP President Akhilesh Yadav: उत्तर प्रदेश के कानपुर में पूर्व मुख्यमंत्री और समाजवादी पार्टी के मुखिया अखिलेश यादव से मुलाकात के दौरान एक छात्रा का वीडियो सोशल मीडिया पर तेजी से वायरल हो रहा है। इस वीडियो में BTC पास छात्रा सपना यादव ने नौकरी की मांग करते हुए अखिलेश यादव को अपने कान की बाली देने की पेशकश की थी। आइए जानते हैं कि आखिर सपना यादव कौन हैं और उन्होंने ऐसा क्यों किया?",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 11:56:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "a3ce7efcfd0a8432958474bbd0d7e1a2",
       "title": "Leopard caught in trap set for wild boar in Keralam",
       "link": "https://www.thehindu.com/news/national/kerala/leopard-caught-in-trap-set-for-wild-boar-in-keralam/article71367795.ece",
@@ -26561,19 +26834,6 @@
       "lang": "en"
     },
     {
-      "id": "eb05b61a2e86323b25c0ccf28be34f51",
-      "title": "Rahul Gandhi's event in Pune gets nod with 30 curbs, 'objectionable' banners barred",
-      "link": "https://www.thehindu.com/news/national/maharashtra/rahul-gandhi-event-in-pune-gets-nod-with-30-curbs-august-22/article71367902.ece",
-      "summary": "The 'Chhatron Ki Goonj' (voice of students) event is specifically dedicated to female students to discuss issues like education, safety, equality, competitive exams, and career opportunities",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 11:50:12 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "902a9c03d339f09fd74fab755514c3c2",
       "title": "घर के बाहर खेल रहे 6 साल के बच्चे को गुलदार ने बनाया निवाला, इलाके में फैली दहशत",
       "link": "https://www.livehindustan.com/uttar-pradesh/bijnor-leopard-kills-6-year-old-child-playing-outside-his-home-panic-grips-the-area-201787205687999.html",
@@ -26584,19 +26844,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "501c00638d6132a09d6add1d2ae63833",
-      "title": "Quiet channel between ICE and Iran shaped deportation flights, newly released emails show",
-      "link": "https://www.thehindu.com/news/international/quiet-channel-between-ice-and-iran-shaped-deportation-flights-newly-released-emails-show/article71367966.ece",
-      "summary": "The president of the National Iranian American Council, said the emails undermine Mr. Trump's assertions that the U.S. is at war with Iran to save ordinary Iranians from a repressive regime.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 11:48:35 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -26886,19 +27133,6 @@
       "lang": "en"
     },
     {
-      "id": "19f38b76d796e0ce7fe309817ee8a255",
-      "title": "U.S. sanctions on International Criminal Court officials | Explained",
-      "link": "https://www.thehindu.com/news/international/us-sanctions-on-international-criminal-court-officials-explained/article71367867.ece",
-      "summary": "U.S. Secretary of State Marco Rubio, announcing the sanctions, said that the ICC has made multiple attempts to assert authority over U.S. nationals and citizens of countries outside the court’s jurisdiction",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 10:59:38 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "2122c7c4564eb7910ce46df6d3a54cff",
       "title": "Local body polls in Andhra Pradesh: A race against time for funds, constitutional compliance | Explainer",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/local-body-polls-in-andhra-pradesh-a-race-against-time-for-funds-constitutional-compliance-explainer/article71367848.ece",
@@ -27011,19 +27245,6 @@
       "timestamp": "Thu, 20 Aug 2026 10:36:03 +0530",
       "section": "National",
       "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "26123b377baff97b93ce347c3691a4f4",
-      "title": "Two doctors of Mumbai's Parsi community to receive Nishan-e-Imtiaz for keeping secret Jinnah's illness",
-      "link": "https://www.thehindu.com/news/national/two-doctors-of-mumbais-parsi-community-to-receive-nishan-e-imtiaz-for-keeping-secret-jinnahs-illness/article71367700.ece",
-      "summary": "Elaborating on the importance of their act, Mr. Iqbal said that any revelation about Jinnah’s frail health could have impacted the creation of Pakistan in 1947.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 10:35:29 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -27221,6 +27442,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c9b8fbf71eee3b721c7a1142cd733e0d",
+      "title": "बच्चों ने सड़क पर उतरकर उठाई आवाज, अब यूपी सरकार ने लिया बड़ा फैसला, DM खुद स्कूल पहुंचकर बच्चों से करेंगे सीधा संवाद",
+      "link": "https://www.patrika.com/lucknow-news/up-school-dm-cdo-jen-alpha-children-dialogue-teachers-orders-20845852",
+      "summary": "Uttar Pradesh School News: उत्तर प्रदेश में स्कूली बच्चों के सड़क पर उतरकर अपनी मांगें रखने के बाद शासन और प्रशासन अब स्कूलों की व्यवस्था को लेकर ज्यादा गंभीर नजर आ रहा है। लखनऊ के मोहान रोड पर सर्वोदय विद्यालय के छात्रों के प्रदर्शन से लेकर जिलों में स्कूलों की व्यवस्थाओं की समीक्षा तक, सरकार अब बच्चों की समस्याओं को सीधे समझने की कोशिश कर रही है।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 10:14:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -27718,19 +27952,6 @@
       "lang": "en"
     },
     {
-      "id": "c02c5fcfca50c883bd51b81ec57d312b",
-      "title": "ED claims to have seized handwritten notes of Veena relating to fund transfer to Dubai",
-      "link": "https://www.thehindu.com/news/national/kerala/ed-claims-to-have-seized-handwritten-notes-of-veena-relating-to-fund-transfer-to-dubai/article71366235.ece",
-      "summary": "The notes contain the “names of persons, amounts handled, spent” besides the amount transferred to Dubai. The searches conducted on the premises related to Veena and the promoters of CMRL on May 27, 2026, yielded the documents, it says",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 08:43:48 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "64c1d0aa3c1c823bfe1d230b11f8d785",
       "title": "यूपी में पत्रिका समूह के प्रधान संपादक गुलाब कोठारी, ‘स्त्री: देह से आगे’ विषय पर चलेगा मंथन, आप भी हो सकते हैं शामिल",
       "link": "https://www.patrika.com/lucknow-news/gulab-kothari-patrika-editor-in-chief-up-visit-stree-deh-se-aage-event-20844625",
@@ -27900,6 +28121,19 @@
       "lang": "en"
     },
     {
+      "id": "86bbf061a626bc6124b90e6387f46469",
+      "title": "Video shows Russian missile strike on Ukrainian capital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
+      "summary": "Ukrainian officials say at least 12 people were killed and dozens injured after Russian ballistic missiles struck Kyiv.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 08:18:15 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c085db74468a3cf85a7827900689a4ee",
       "title": "UP: फर्जी बिलों से 10 करोड़ का कारोबार, 50 लाख से अधिक की कर चोरी, एसआईबी जीएसटी की जांच में खुलासा",
       "link": "https://www.amarujala.com/uttar-pradesh/bareilly/investigation-by-sib-gst-reveals-rs-10-crore-turnover-via-fake-bills-and-tax-evasion-exceeding-rs-50-lakh-2026-08-20",
@@ -27926,6 +28160,19 @@
       "lang": "en"
     },
     {
+      "id": "98a3e76164e788f08dd00ed7e8024acd",
+      "title": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
+      "summary": "Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000 Palestinian homes in Israel.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 08:16:47 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0f4a7ac417835bf3aa7e7070db98d537",
       "title": "Maharashtra: मुंबई को और 150 डबल-डेकर इलेक्ट्रिक बसें; मंत्री गणेश नाइक ठाणे सुरंग मार्ग से मलबा हटाने पर सख्त",
       "link": "https://www.amarujala.com/india-news/maharashtra-updates-ganesh-naik-thane-tunnel-best-150-electric-buses-bjp-shiv-sena-ncp-politics-crime-news-2026-08-20",
@@ -27937,6 +28184,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "3a7087b85d82d30677de5408acf97b8b",
+      "title": "Four workers dead after being hit by train in Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 08:14:20 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "5e6f4582e1cf179f375b41e4f95b67a8",
@@ -28004,6 +28264,19 @@
       "lang": "en"
     },
     {
+      "id": "3a0b7c777586fad77cceef73e4748180",
+      "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 07:59:55 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "921cf86c0a974628981f7cb8cdc71ed1",
       "title": "स्मार्ट सिटी आगरा की एक तस्वीर: जिस सड़क से निकले सीएम योगी, वो भी धंस गई; पैचवर्क भी न आया काम",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/road-cm-yogi-traveled-on-collapses-in-agra-after-patchwork-at-134-spots-2026-08-20",
@@ -28014,6 +28287,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "31ce4efd84a9f7c69b3fd57ba45bf865",
+      "title": "Netanyahu warns Israel will not tolerate Turkish military presence in Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-clip-netanyahu-turkey-sot-il?traffic_source=rss",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu says Israel will not tolerate a Turkish military presence in Syria.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 07:50:07 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -28030,6 +28316,19 @@
       "lang": "en"
     },
     {
+      "id": "0068e55f07fe0833307afe617c42365b",
+      "title": "Female bank employee shot dead:Husband killed outside ICICI bank in Lucknow, accused shoots himself too",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/lucknow/news/lucknow-icici-bank-employee-divya-mishra-murder-investigation-138781336.html",
+      "summary": "A female bank officer was shot dead in broad daylight in a posh area of Lucknow on Thursday. At around 12 noon, a man arrived by car and called the woman outside the ICICI Bank branch. He spoke to her for a short while before allegedly shooting her and fleeing the scene. Hearing the gunshot, bank employees and people nearby rushed to the spot. The female was taken to a nearby hospital, where doctors declared her dead. The accused was also captured on CCTV footage. The incident took place outside the ICICI Bank branch, around 200 metres from Gomti Nagar police station. Police officers reached the scene after receiving information about the incident, while a forensic team began examining the spot. Divya Mishra was an ICICI Bank assistant manager The deceased has been identified as Divya Mishra, an assistant manager at ICICI Bank. She lived in Alambagh. According to preliminary information, Divya had filed a court petition seeking divorce from her husband, Manas, around a year ago. Police are investigating the circumstances surrounding the shooting and the accused's alleged involvement. News is being continuously updated….",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 07:45:39 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "040377eacf46473e9180df6ce058dbb8",
       "title": "Trump threatens economic punishment on ‘any country’ helping Iran",
       "link": "https://www.thehindu.com/news/international/trump-threatens-economic-punishment-on-any-country-helping-iran/article71367586.ece",
@@ -28039,6 +28338,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5844d05c3d3ca6ec534bfc69c5733d08",
+      "title": "Oil flows nearly tripled before US-Iran MoU expired, analysis shows",
+      "link": "https://www.aljazeera.com/economy/2026/8/20/oil-flows-nearly-tripled-before-us-iran-mou-expired?traffic_source=rss",
+      "summary": "Some 374 million barrels of oil exited the Gulf during 60-day window covered by MoU, Kpler data shows.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 07:38:22 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -28078,19 +28390,6 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3a0b7c777586fad77cceef73e4748180",
-      "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 07:19:40 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -28267,7 +28566,7 @@
       "id": "d6ae836f19063aa014df63299f3ada6f",
       "title": "Bangladesh holds presidential election in first contested vote in 35 years",
       "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
-      "summary": "BNP's Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.",
+      "summary": "BNP's Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmad, nominee of Jamaat-led 11-party alliance.",
       "date": "2026-08-20",
       "timestamp": "Thu, 20 Aug 2026 06:38:39 +0000",
       "section": "International",
@@ -28400,19 +28699,6 @@
       "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
       "date": "2026-08-20",
       "timestamp": "Thu, 20 Aug 2026 06:08:02 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "3a7087b85d82d30677de5408acf97b8b",
-      "title": "Four workers dead after being hit by train in Japan",
-      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
-      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 06:02:10 GMT",
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
@@ -29409,7 +29695,7 @@
     },
     {
       "id": "d7ad6d7be8755ed46059693aac21fef3",
-      "title": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
+      "title": "Russian missile barrage kills at least 12 people in Ukraine’s Kyiv",
       "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
       "summary": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
       "date": "2026-08-20",
@@ -30227,6 +30513,19 @@
       "lang": "en"
     },
     {
+      "id": "e8977d0725cf7fce9fc98051a33976e1",
+      "title": "पुलिस की बड़ी कार्रवाई: आजमगढ़ में चोरी करने वाले गिरोह का पर्दाफाश, मुठभेड़ में चार अंतरजनपदीय चोर गिरफ्तार",
+      "link": "https://www.amarujala.com/uttar-pradesh/azamgarh/four-members-of-an-inter-district-theft-gang-arrested-in-an-azamgarh-police-encounter-2026-08-20",
+      "summary": "पुलिस पूछताछ में अभियुक्तों ने आजमगढ़ सहित गाजीपुर, बलिया और जौनपुर में भी चोरी की वारदातें स्वीकार कीं। इस कार्रवाई से अहरौला क्षेत्र की दो और तहबरपुर क्षेत्र की दो चोरी का खुलासा हुआ है।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:54:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "3e4eb506278f31647b2b16612f3b88bf",
       "title": "YouTubers banned from entering UP govt schools:Restrictions on taking photos, videos; CJP running ‘School Thik Karo’ campaign",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/up-schools-ban-youtubers-photography-videography-ayodhya-bsa-order-138779366.html",
@@ -30251,6 +30550,19 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "f26b6230fe8c97f12e5724e105322b58",
+      "title": "राहुल गांधी का दावा- पीएम मोदी का शासन आखिरी दौर में, उत्तराधिकारी की तलाश शुरू हुई; कांग्रेस को क्या सलाह दी?",
+      "link": "https://www.amarujala.com/india-news/pm-modi-s-political-rule-in-final-phase-search-for-successor-underway-rahul-gandhi-at-cwc-say-sources-2026-08-20",
+      "summary": "राहुल गांधी का दावा- पीएम मोदी का शासन आखिरी दौर में, उत्तराधिकारी की तलाश शुरू हुई; कांग्रेस को क्या सलाह दी?",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:49:20 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "a7fe8e4f46b85f19bf1565fdc5c8f999",
@@ -30305,6 +30617,19 @@
       "lang": "en"
     },
     {
+      "id": "497a6bc87a53e841d6b5ed1065491254",
+      "title": "UP: राजधानी में विधायक ने मंदिर में भेदभाव का लगाया आरोप, बोलीं- मंदिर प्रशासन ने उचित व्यवहार नहीं किया",
+      "link": "https://www.amarujala.com/lucknow/up-mla-alleges-discrimination-at-a-temple-in-the-capital-says-temple-administration-did-not-treat-her-proper-2026-08-20",
+      "summary": "लखनऊ के काकोरी स्थित शीतला मंदिर में पूजा के दौरान भेदभाव के आरोपों को लेकर विवाद सामने आया। मलिहाबाद विधायक ने मंदिर प्रशासन पर उचित सम्मान न देने का आरोप लगाया। सोशल मीडिया पोस्ट के बाद विरोध शुरू हुआ।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:40:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "170c8de298b2d35bcf6b93f94a73fdd4",
       "title": "2,000 students leave hostels in Prayagraj:Beds submerged in rain, food shortage forces exodus; say, ‘We craved even tea’",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/prayagraj-rain-floods-students-leave-hostels-georgetown-hardships-138779342.html",
@@ -30331,6 +30656,19 @@
       "lang": "en"
     },
     {
+      "id": "e68ab019d5535a76c3a8a964602d777c",
+      "title": "वाराणसी की बड़ी खबरें: सेना के जवान की मौत के मामले में एफआईआर, गांजे की तस्करी में दो को 10-10 साल की सजा",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/top-stories-from-varanasi-fir-registered-in-army-soldier-death-case-two-sentenced-to-10-years-for-smuggling-2026-08-20",
+      "summary": "आरोप है कि सूचना देने के बावजूद बिजली निगम का कोई कर्मचारी नहीं पहुंचा। रात करीब आठ बजे सुनील शौच जा रहे थे।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:36:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "45300ec9a7177f9286cc62e6a2425e5a",
       "title": "College closed after MSF protest over union chairman’s suspension",
       "link": "https://www.thehindu.com/news/national/kerala/college-closed-after-msf-protest-over-union-chairmans-suspension/article71364551.ece",
@@ -30342,6 +30680,136 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "4d855096ef4f98f6d846cb16749d215d",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-20",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:30:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "917ce686abe332d971bd20a315ee14d1",
+      "title": "पढ़ें 20 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-20",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "527439aaec04420c3b1d662268b372cb",
+      "title": "Big Action on Azam Khan : आजम खान के 'जौहर' पर ईडी का छापा | ED Raids Azam Khan's Jauhar Trust",
+      "link": "https://www.amarujala.com/video/india-news/major-action-against-azam-khan-ed-raids-azam-khan-s-jauhar-trust-2026-08-20",
+      "summary": "निर्माण से लेकर संचालन तक विवादों में घिरी जौहर यूनिवर्सिटी पर संकट के बादल मंडरा रहे हैं... पूर्व मंत्री आजम खां और उनके जौहर ट्रस्ट पर ईडी की कार्रवाई कई गंभीर आरोपों के चलते हुई है..",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:30:12 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "1b300593f809269ce6364b0e761fcb48",
+      "title": "UP: भाजपा विधायक से माफी, अब फिर बदला बाल योगी का सुर; बोले- झुका नहीं, बुजुर्ग समझकर जताया था खेद",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/bal-yogi-changes-his-tone-after-apologizing-to-bjp-mla-2026-08-20",
+      "summary": "भाजपा विधायक चौधरी बाबूलाल से माफी मांगने के एक दिन बाद बाल योगी ने नया वीडियो जारी कर कहा कि उन्होंने बुजुर्ग होने के नाते अपने शब्दों पर खेद जताया था, इसे उनकी कमजोरी न समझा जाए।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:26:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8bb06a57397137fdc99890334b968d28",
+      "title": "Budaun News: एलपीजी गैस उपभोक्ताओं को राहत, अब 23 अगस्त तक करा सकेंगे ई-केवाईसी",
+      "link": "https://www.amarujala.com/uttar-pradesh/budaun/relief-for-lpg-consumers-e-kyc-can-now-be-completed-by-august-23-in-budaun-2026-08-20",
+      "summary": "बदायूं जिले में अभी तक करीब डेढ़ लाख उपभोक्ताओं ने नहीं कराई है ई-केवाईसी, तय समय पर केवाईसी न कराने पर अटक सकती है गैस आपूर्ति",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:24:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "a7532943b6aa5a88b5880232299a43be",
+      "title": "लद्दाख में Gen Z महिला के बवाल का वीडियो वायरल: पूर्व अफसर नाराज; बोले- जवान सैलरी लेने से पहले टैक्स देते हैं",
+      "link": "https://www.amarujala.com/india-news/ladakh-gen-z-woman-video-goes-viral-ex-army-officers-upset-says-soldiers-pay-taxes-before-drawing-salaries-2026-08-20",
+      "summary": "लद्दाख में Gen Z महिला के बवाल का वीडियो वायरल: पूर्व अफसर नाराज; बोले- जवान सैलरी लेने से पहले टैक्स देते हैं- Ladakh Gen Z woman Video goes viral ex army officers upset says soldiers pay taxes before drawing salaries",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:22:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "33d13698785736f4ac093d8414d2a1d2",
+      "title": "Hathras: कॉलेज जाते समय पीछा कर फब्तियां कसकर छेड़छाड़, निकाह करने का बना रहा दबाव, डर के साये में युवती",
+      "link": "https://www.amarujala.com/uttar-pradesh/hathras/young-man-harassing-a-girl-2026-08-20",
+      "summary": "कॉलेज और बाजार जाने के दौरान 21 वर्षीय युवती का पीछा करने, छेड़छाड़ और निकाह के लिए दबाव बनाने का मामला सामने आया है। युवती के सभासद पिता की तहरीर पर कोतवाली सदर पुलिस ने एटा के मारहरा निवासी युवक और उसके जीजा के खिलाफ रिपोर्ट दर्ज की है।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:17:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e0725051093c50ae18a1335635f465a3",
+      "title": "UP: लखनऊ में पति ने बैंक कर्मी पत्नी की हत्या की, फिर खुद को भी गोली से उड़ाया; ICICI बैंक के बाहर वारदात",
+      "link": "https://www.amarujala.com/lucknow/up-major-crime-in-broad-daylight-in-lucknow-female-bank-employee-shot-dead-in-a-rapid-burst-of-gunfire-assa-2026-08-20",
+      "summary": "लखनऊ के गोमतीनगर क्षेत्र में बैंक के सामने दिनदहाड़े एक महिला बैंक कर्मचारी की गोली मारकर हत्या कर दी गई। कार सवार बदमाश ने महिला को दो गोलियां मारीं और फरार हो गया। गंभीर हालत में अस्पताल पहुंचने पर डॉक्टरों ने उसे मृत घोषित कर दिया।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:16:30 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "f0446b2a21b16e556b74429083251a6e",
+      "title": "35 साल बाद बांग्लादेश को मिलेगा नया राष्ट्रपति,जानिए कौन दौड़ में सबसे आगे?",
+      "link": "https://www.amarujala.com/video/india-news/bangladesh-to-get-a-new-president-after-35-years-find-out-who-is-leading-the-race-2026-08-20",
+      "summary": "बांग्लादेश में आज नए राष्ट्रपति का चुनाव होने वाला है। सत्तारूढ़ बीएनपी के बड़े नेता मिर्जा फखरुल इस्लाम आलमगीर इस चुनाव में सबसे आगे माने जा रहे हैं।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:13:26 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "9901662ab4a294994e36cd97364a6c8a",
+      "title": "West Bengal: जादवपुर विश्वविद्यालय में भिड़े एसएफआई-एबीवीपी समर्थक, कैंपस में तनाव जारी; झड़प की वजह क्या?",
+      "link": "https://www.amarujala.com/india-news/sfi-and-abvp-supporters-clash-at-jadavpur-university-tension-persists-on-campus-what-caused-the-clash-2026-08-20",
+      "summary": "West Bengal: जादवपुर यूनिवर्सिटी में भिड़े एसएफआई-एबीवीपी समर्थक, कैंपस में तनाव जारी; झड़प की वजह क्या? SFI and ABVP supporters clash at Jadavpur University; tension persists on campus; what caused the clash",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:10:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "8d6533311e32c29645831c6bc5156c47",
@@ -30394,32 +30862,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "4d855096ef4f98f6d846cb16749d215d",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-20",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 01:00:41 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "917ce686abe332d971bd20a315ee14d1",
-      "title": "पढ़ें 20 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-20",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 01:00:17 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "8d2c62e1ab3956c614971b86d7fb2b98",
@@ -30747,19 +31189,6 @@
       "lang": "en"
     },
     {
-      "id": "f823ce7464ed08cafac5b3c0672bd65d",
-      "title": "Tamil Nadu’s encroachment problem",
-      "link": "https://www.thehindu.com/opinion/op-ed/tamil-nadus-encroachment-problem/article71366474.ece",
-      "summary": "The Supreme Court has pulled up the State for not dealing with encroachers in Agasthyamalai",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 00:06:22 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b60909fc32e7284e68167ab2341c55e9",
       "title": "Syndicate member seeks relaxation of punching system for Calicut University faculty",
       "link": "https://www.thehindu.com/news/national/kerala/syndicate-member-seeks-relaxation-of-punching-system-for-calicut-university-faculty/article71364947.ece",
@@ -30813,7 +31242,7 @@
     },
     {
       "id": "1aacf2c507d29f9f7a2d3e5685d85238",
-      "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+      "title": "Iran war live: Tehran says Trump’s ‘economic warfare’ will fail",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
       "summary": "Trump says Washington may resume talks with Tehran 'at some point'.",
       "date": "2026-08-20",
@@ -44793,19 +45222,6 @@
       "summary": "The government is trying to politicise the issue without substantive evidence, alleges former Minister Adimulapu Suresh",
       "date": "2026-08-16",
       "timestamp": "Sun, 16 Aug 2026 20:16:42 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "0a0dfd580934faad6b475b83766fd5c0",
-      "title": "‘Missed Independence Day? Go to Pakistan:’ Thrissur school owner’s remarks spark controversy",
-      "link": "https://www.thehindu.com/news/national/kerala/missed-independence-day-go-to-pakistan-thrissur-school-owners-remarks-spark-controversy/article71352603.ece",
-      "summary": "Parents question branding of absent students as ‘anti-national;’ SFI takes out protest march against school management",
-      "date": "2026-08-16",
-      "timestamp": "Sun, 16 Aug 2026 20:13:32 +0530",
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
@@ -75324,19 +75740,6 @@
       "lang": "en"
     },
     {
-      "id": "b6454942ef7c2a765ca49a3765e761e5",
-      "title": "72-year-old man falls to death from 18th floor of his apartment",
-      "link": "https://www.thehindu.com/news/national/karnataka/72-year-old-man-falls-to-death-from-18th-floor-of-his-apartment/article71353667.ece",
-      "summary": "",
-      "date": "2026-08-17",
-      "timestamp": "Mon, 17 Aug 2026 00:15:51 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "f068e5c721340308d52813379090bc27",
       "title": "Third leg of seaside festival held in Vizag",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/third-leg-of-seaside-festival-held-in-vizag/article71353712.ece",
@@ -86786,6 +87189,45 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "508f8f2f22cfd1c991870fcb4f3f5c21",
+      "title": "Scientists found the world’s fastest star moving at 15,500 miles per second",
+      "link": "https://timesofindia.indiatimes.com/science/scientists-found-the-worlds-fastest-star-moving-at-15500-miles-per-second-over-8-the-speed-of-light-and-it-could-test-einsteins-theory/articleshow/133369895.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T13:39:14+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "16ac6f4d464cfb0de4e71d7fe207f7ff",
+      "title": "Broxted Estate Solar Farm: biodiversity rises 41% in long-term study",
+      "link": "https://timesofindia.indiatimes.com/world/uk/a-uk-solar-farm-began-generating-electricity-in-2013-12-years-later-its-biodiversity-had-risen-41-per-cent/articleshow/133365712.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T13:15:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d17e74e315f1165ee9d6b975444938f2",
+      "title": "NALSAR row sparks fresh protest: Lawyers demand resignation of BCI chief Manan Mishra",
+      "link": "https://timesofindia.indiatimes.com/india/nalsar-row-sparks-fresh-protest-lawyers-demand-resignation-of-bci-chief-manan-mishra/articleshow/133369105.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T13:14:08+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
