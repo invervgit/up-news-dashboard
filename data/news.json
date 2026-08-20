@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T06:35:20.035810+00:00",
+  "generated_at": "2026-08-20T07:35:50.935780+00:00",
   "stories": [
     {
       "id": "8bc7aa28a435e048a58863eac08f16a6",
@@ -1234,19 +1234,6 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "64c1d0aa3c1c823bfe1d230b11f8d785",
-      "title": "यूपी में पत्रिका समूह के प्रधान संपादक गुलाब कोठारी, ‘स्त्री: देह से आगे’ विषय पर चलेगा मंथन, आप भी हो सकते हैं शामिल",
-      "link": "https://www.patrika.com/lucknow-news/gulab-kothari-patrika-editor-in-chief-up-visit-stree-deh-se-aage-event-20844625",
-      "summary": "Gulab Kothari UP Visit: पत्रिका समूह के प्रधान संपादक गुलाब कोठारी उत्तर प्रदेश (यूपी) के पांच दिवसीय प्रवास पर बुधवार को लखनऊ पहुंचे। गुलाब कोठारी 23 अगस्त तक यूपी में रहेंगे। इस दौरान वह लखनऊ और बाराबंकी में विभिन्न शैक्षणिक संस्थाओं, कॉलेजों, विश्वविद्यालयों और महिला समूहों की ओर से आयोजित ‘स्त्री: देह से आगे’ विषय विवेचन कार्यक्रमों को संबोधित करेंगे। इस दौरान वे विद्यार्थियों, शिक्षाविदों और प्रबुद्धजनों से संवाद भी करेंगे।",
-      "date": "2026-08-19",
-      "timestamp": "Wed, 19 Aug 2026 21:15:22 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Patrika",
-      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -17097,19 +17084,6 @@
       "lang": "en"
     },
     {
-      "id": "12c2985a4c33d6e1287c5bb33b6c67ed",
-      "title": "Only 40% of world’s health facilities meet basic sanitation standards: UN",
-      "link": "https://www.thehindu.com/news/international/only-40-of-worlds-health-facilities-meet-basic-sanitation-standards-un/article71359447.ece",
-      "summary": "It found there was no sanitation service at more than one in 10 health facilities globally, serving 936 million people.",
-      "date": "2026-08-18",
-      "timestamp": "Tue, 18 Aug 2026 13:37:02 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "006065765fece69b48c93393048101c0",
       "title": "Asian allies call U.S.-South Korea security ties ‘critical’ as Trump praises Kim",
       "link": "https://www.thehindu.com/news/international/asian-allies-stress-critical-cooperation-as-trump-slashes-korea-drills/article71359224.ece",
@@ -25690,6 +25664,71 @@
       "lang": "en"
     },
     {
+      "id": "fc79935ebc7fc7d8c01ac5f7113e5e20",
+      "title": "Jadavpur University on the boil as ABVP and SFI supporters clash over general body meeting",
+      "link": "https://www.thehindu.com/news/national/west-bengal/jadavpur-university-violence-abvp-and-sfi-supporters-clash/article71368039.ece",
+      "summary": "The AVBP claimed that supporters were manhandled by the Left-backed unions; student leader said BJP MLA Sarbari Mukherjee was blaming students after orchestrating the violence",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:02:27 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c4e9026a3fedb01242665a704ad4f7f6",
+      "title": "Lawyers protest outside BCI office, demand Chairman Manan Mishra’s resignation amid NALSAR row",
+      "link": "https://www.thehindu.com/news/national/lawyers-protest-outside-bci-office-demand-chairman-manan-mishras-resignation-amid-nalsar-row/article71368148.ece",
+      "summary": "One of the protestors, Advocate Umesh Kumar, questioned the Chairman’s record on lawyer welfare; he accused Mr. Mishra of spearheading “political agendas” while staying silent on issues of lawyers",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:01:55 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f8cdf0993cd446ed1f2882fee3386132",
+      "title": "Rajiv Gandhi-era reforms: From 18-year-old voters to National Policy on Education",
+      "link": "https://www.thehindu.com/news/national/rajiv-gandhi-reforms-birth-anniversary-congress-key-policies-decision-1984/article71367754.ece",
+      "summary": "Rajiv Gandhi’s government lowered the voting age to 18, established C-DOT to develop telecom technology and introduced the National Policy on Education in 1986.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:00:55 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eb9e466c69831dcc43c1f18e8c7927a6",
+      "title": "Mumbai Cybercrime police arrest two from Bihar, Jharkhand in ₹48.60 lakh ‘Boss’ scam",
+      "link": "https://www.thehindu.com/news/national/maharashtra/mumbai-cybercrime-police-arrest-two-from-bihar-jharkhand-in-4860-lakh-boss-scam/article71366280.ece",
+      "summary": "It was also found that the accused were allegedly linked to almost seven similar cases across India.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 13:00:02 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ebee25f4734587138a185c48197faec9",
+      "title": "Census training programme deferred in Manipur’s Imphal West amid protests over NRC demand",
+      "link": "https://www.thehindu.com/news/national/manipur/census-training-programme-deferred-in-manipurs-imphal-west-amid-protests-over-nrc-demand/article71367913.ece",
+      "summary": "Protestors Wednesday (August 19) burnt effigies of politicians and took out rallies in different parts of Manipur's valley districts on the second day of the 48-hour general strike called by the Campaign for Just and Fair Delimitation (JFD) to press for updation of the NRC before the census exercise is conducted in the State.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:58:16 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "bc16ce9cd63a1d7993bd2944df00922e",
       "title": "Varanasi News: फोन-पे से मजदूर के खाते से 69,999 रुपये निकाले",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/withdrawn-from-a-laborers-account-via-phonepe-varanasi-news-c-20-vns1056-1511866-2026-08-20",
@@ -25700,6 +25739,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "ce3fa62065c2c410b232081267bbff96",
+      "title": "Borders neglected in past, top priority for Modi government now: Rijiju on claims of Chinese intrusion in Arunachal",
+      "link": "https://www.thehindu.com/news/national/borders-neglected-in-past-top-priority-for-modi-government-now-rijiju-on-claims-of-chinese-intrusion-in-arunachal/article71368107.ece",
+      "summary": "Kiren Rejiju, who represents Arunachal West in the Lok Sabha, come amid renewed concerns over Chinese military activity in the Upper Subansiri region of Arunachal Pradesh",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:56:29 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -25716,6 +25768,45 @@
       "lang": "en"
     },
     {
+      "id": "23acd1ea7d63428686361cbe48515377",
+      "title": "वंदे मातरम विवाद: 'कांग्रेस की तुष्टिकरण की नीति', गृह मंत्री शाह का कांग्रेस पर बड़ा हमला; VHP ने क्या कहा?",
+      "link": "https://www.amarujala.com/india-news/vande-mataram-row-congress-appeasement-policy-amit-shah-attack-vhp-reaction-2026-08-20",
+      "summary": "वंदे मातरम विवाद: 'कांग्रेस की तुष्टिकरण की नीति', गृह मंत्री शाह का कांग्रेस पर बड़ा हमला; VHP ने क्या कहा?",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:54:52 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "59eb24a6ed872d1037bd6a48bde1861b",
+      "title": "Quickest way to erode Gen Z goodwill is to use it as a threat: J&K CM Omar",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jampk-cm-omar-abdullah-warns-against-using-gen-z-as-a-threat/article71367901.ece",
+      "summary": "His remarks came in response to an undated video in which a young woman could be seen raising her voice against the Ladakh Police at a checkpoint. The girl in the video said, \"We are Gen Z and we are not going to tolerate this.\"",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:53:48 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3dc5bfc90efd6460e4506ee1ec743b11",
+      "title": "Bengal, J&K, Ladakh and five other State Collectors empowered to grant citizenship under CAA",
+      "link": "https://www.thehindu.com/news/national/district-collectors-in-eight-states-uts-empowered-to-grant-citizenship-under-caa-bjp-bengal-win/article71367931.ece",
+      "summary": "The MHA order is significant as the amendments to the CAA Rules, which first came into effect on March 11, 2024, have been notified after the BJP came to power in West Bengal this year",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:53:16 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c80e3ff44433daed41e53314e2c364a0",
       "title": "Varanasi News: बीएचयू अस्पताल की ओपीडी में 50 सुरक्षा कर्मी, 10 छात्रों से डॉक्टर को छुड़ाने में लगे 40 मिनट",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/it-took-minutes-for-security-personnel-to-rescue-a-doctor-from-students-at-the-bhu-hospital-opd-varanasi-news-c-20-vns1056-1511986-2026-08-20",
@@ -25726,6 +25817,45 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "569de22272cfd3ad9cf024fe8f67f99b",
+      "title": "Pakistan summons U.S. Chargé d’Affaires over Sergio Gor's remarks on JK",
+      "link": "https://www.thehindu.com/news/international/pakistan-summons-us-charge-daffaires-over-sergio-gors-remarks-on-jk/article71367872.ece",
+      "summary": "The statement further highlighted that the “irresponsible statement” by the U.S. ambassador “negated the long-standing and well-documented position of the United States on the Jammu and Kashmir dispute”",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:52:37 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f4d2da3939512b4478b14b32fcc94a21",
+      "title": "Prayagraj Flood : कानपुर गंगा बैराज से छोड़ा जा रहा 2.95 लाख क्यूसेक पानी, प्रयागराज में बढ़ा बाढ़ का खतरा",
+      "link": "https://www.amarujala.com/uttar-pradesh/allahabad/2-95-lakh-cusecs-of-water-being-released-from-the-kanpur-ganga-barrage-flood-risk-rises-in-prayagraj-2026-08-19",
+      "summary": "गंगा-यमुना के बढ़ते जलस्तर के बीच कानपुर गंगा बैराज से छोड़े जा रहे पानी ने प्रयागराज की चिंता बढ़ा दी है। कानपुर बैराज से 2,95,637 क्यूसेक पानी प्रति सेकंड गंगा में छोड़ा जा रहा है। मानसूनी बारिश और नरौरा डैम समेत सहायक नदियों से लगातार पानी आने...",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:51:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "44329be8dfc94f3561ff29213d022d0f",
+      "title": "Tarun Tejpal appeals in Supreme Court against 10-year term in 2013 rape case",
+      "link": "https://www.thehindu.com/news/national/tarun-tejpal-appeals-in-supreme-court-against-10-year-term-in-2013-rape-case/article71368147.ece",
+      "summary": "Tarun Tejpal’s appeal comes as the State of Goa, on August 18, 2026, moved the Supreme Court for enhancing his quantum of punishment",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:50:59 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -25742,6 +25872,58 @@
       "lang": "en"
     },
     {
+      "id": "12c2985a4c33d6e1287c5bb33b6c67ed",
+      "title": "Only 40% of world’s health facilities meet basic sanitation standards: UN",
+      "link": "https://www.thehindu.com/news/international/only-40-of-worlds-health-facilities-meet-basic-sanitation-standards-un/article71359447.ece",
+      "summary": "It found there was no sanitation service at more than one in 10 health facilities globally, serving 936 million people.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:50:28 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5563bc2f117e48896cc7a8c177740058",
+      "title": "Uttar Pradesh and Japan launch ₹3,191 crore manufacturing projects",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/uttar-pradesh-and-japan-launch-3191-crore-manufacturing-projects/article71368062.ece",
+      "summary": "These projects have a potential employment of more than 10,000 people",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:50:08 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5703ac2381597ea369dde535a4e7a742",
+      "title": "Death sentence for preacher found guilty of sexually assaulting four minor girls in Tirunelveli",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/death-sentence-for-preacher-found-guilty-of-sexually-assaulting-four-minor-girls-in-tirunelveli/article71368043.ece",
+      "summary": "S. Abraham, 50, who had been running a prayer hall at Mela Ilanthaikulam, sexually assaulted the minors under the guise of taking moral science classes for them in 2022",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:48:19 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "98bec07ef5191b19b001364874cb1f58",
+      "title": "UP: शिक्षक नहीं, 4 ट्रेडों में प्रशिक्षण ठप, बख्शी का तालाब ITI में 26 पदों के सापेक्ष 6 अनुदेशक; जानें हकीकत",
+      "link": "https://www.amarujala.com/lucknow/up-training-in-4-trades-stalled-due-to-lack-of-instructors-bakshi-ka-talab-iti-has-only-6-instructors-agains-2026-08-20",
+      "summary": "बख्शी का तालाब स्थित राजकीय आईटीआई में अनुदेशकों की कमी से चार ट्रेडों का प्रशिक्षण प्रभावित हो गया है। 26 स्वीकृत पदों के मुकाबले केवल छह अनुदेशक तैनात हैं। टर्नर, इलेक्ट्रिक, वेल्डर और वायरमैन ट्रेड में पढ़ाई ठप होने की स्थिति है।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:47:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "1999f4c6e0c4f4a84e775c875c21dcb9",
       "title": "UP Weather Report: आज बुंदेलखंड के इन जिलों में भारी बारिश का अलर्ट; कई इलाकों के लिए ऑरेंज अलर्ट जारी",
       "link": "https://www.amarujala.com/lucknow/up-record-rainfall-in-pratapgarh-and-prayagraj-heavy-rain-alert-issued-for-these-districts-on-thursday-warn-2026-08-19",
@@ -25752,6 +25934,58 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "344607090675a1cc25f316b1bf1dc8b1",
+      "title": "BHU Admission: पीजी में 80% प्रवेश, यूजी के चौथे राउंड में भर गईं 8000 सीटें; राजनीति विज्ञान में 103 दाखिले",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/bhu-admission-80-of-pg-seats-filled-8-000-seats-filled-in-fourth-round-of-ug-admissions-in-varanasi-2026-08-20",
+      "summary": "दो दिन बाद अंतिम मॉपअप राउंड का भी प्रवेश पूरा हो जाएगा यानी इसके बाद करीब 1000 सीटों के भरने का अंदेशा है। इससे कुल 7500 सीटें भर सकती हैं।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:45:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "4743179e16d0b469c8240aa361e289b9",
+      "title": "Unauthorised structures outside Pakistan High Commission pulled down in Delhi",
+      "link": "https://www.thehindu.com/news/cities/Delhi/unauthorised-structures-outside-pakistan-high-commission-pulled-down-in-delhi/article71368075.ece",
+      "summary": "Visuals showed that the demolition left a trail of rubble outside the mission, with broken metal railings and gates, twisted metal frames, roofing sheets, bricks and chunks of concrete and plaster strewn across the paved area.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:44:32 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b51adb2035edb0693596589e0ebaa736",
+      "title": "USCIRF seeks sanctions against RSS, no high-level meetings with its leaders",
+      "link": "https://www.thehindu.com/news/international/us-religious-freedom-body-seeks-sanctions-against-rss-no-high-level-meetings-with-its-leaders/article71368052.ece",
+      "summary": "The remarks of the religious freedom body’s chief came weeks ahead of RSS Chief Mohan Bhagwat’s visit to the U.S.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:42:07 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e6cd00e50eaef75571e2e798dfbee373",
+      "title": "BJP demands Pinarayi Vijayan’s resignation as Keralam Opposition Leader over ED findings in CMRL case",
+      "link": "https://www.thehindu.com/news/national/kerala/bjp-demands-pinarayi-vijayans-resignation-as-keralam-opposition-leader-over-ed-findings-in-cmrl-case/article71368081.ece",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:41:40 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -25768,6 +26002,58 @@
       "lang": "en"
     },
     {
+      "id": "7a0a27435aac84a27be88b4e74294b68",
+      "title": "चर्चित जज के कोर्ट से 100 मुकदमे ट्रांसफर, 22 दोषियों को फांसी की सजा सुना चुके हैं रवि कुमार दिवाकर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/100-cases-transferred-from-high-profile-judge-court-ravi-kumar-diwakar-has-sentenced-22-convicts-to-death-201787208234163.html",
+      "summary": "2 दोषियों को फांसी की सजा चुके जज रवि कुमार दिवाकर फिर चर्चाओं में हैं। दरअसल, उनकी कोर्ट से करीब 100 ऐसे मुकदमे वापस लिए जाने की बात सामने आई है। जिला जज ने इन मुकदमों को रिकॉल करते हुए अन्य कोर्ट में ट्रांसफर कर दिए हैं।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:37:42 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "597ca40d01029ab8e4a51a5fc5c48a5f",
+      "title": "धारदार हथियार से हमला फिर पैर में बिजली के तार लपेटकर छोड़ा करंट, हत्या से फैली सनसनी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-ambedkarnagar-man-killed-attacked-with-sharp-object-given-electric-shock-with-wire-in-legs-201787207300890.html",
+      "summary": "अंबेडकरनगर में एक युवकी की बेरहमी से हत्या से सनसनी फैल गई। युवक का खून से लथपथ शव घर के चैनल के पास मिला। पहले धारदार हथियार से हमला हुआ था फिर पैर में बिजली का तार लपेटकर करंट प्रवाहित किया गया था।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:37:40 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e46828ebeca6a89bfb7a45a90655b916",
+      "title": "UP: शहजाद भट्टी और उसके नेटवर्क के सदस्यों को आतंकी घोषित किया जाए, यूपी पुलिस ने गृहमंत्रालय से की सिफारिश",
+      "link": "https://www.amarujala.com/lucknow/up-recommendation-made-to-the-ministry-of-home-affairs-to-declare-shahzad-bhatti-and-members-of-his-network-a-2026-08-20",
+      "summary": "शहजाद भट्टी और उसके नेटवर्क से जुड़े सदस्यों को आतंकी घोषित करने की सिफारिश गृह मंत्रालय से की गई है। सुरक्षा एजेंसियां नेटवर्क से जुड़े लोगों की गतिविधियों और संपर्कों की जांच कर रही हैं।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:37:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "eee0a0e5389bc78639de8bb42ab160df",
+      "title": "Noida News: श्रीलंकाई ऊर्जा मंत्री ने नोएडा की सोलर यूनिट देखकर कहा-श्रीलंका लेगा भारत से सीख",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/shri-lanka-power-minister-arrived-in-noida-and-visit-soler-plant-noida-news-c-1-1-noi1430-4630877-2026-08-20",
+      "summary": "Shri Lanka power minister arrived in noida and visit soler plant",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:35:38 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "1254c130dc5e37a9acb3ed77bb9957de",
       "title": "Varanasi News: महिला आयोग की सदस्य ने निहारी काशी की आभा",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/the-womens-commission-member-admired-the-splendor-of-kashi-varanasi-news-c-20-vns1056-1511965-2026-08-20",
@@ -25778,6 +26064,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "368cf818f2f04e8a2780dc9e59781aa2",
+      "title": "Kangana Ranaut on Baba Ramdev: कंगना ने भड़क कर नीले ड्रम की फोटो क्यों डाल दी?",
+      "link": "https://www.amarujala.com/video/india-news/kangana-ranaut-shares-blue-drump-photo-after-baba-ramdev-controversy-2026-08-20",
+      "summary": "बाबा रामदेव को कंगना रनौत ने खरी-खरी सुनाई जिसके बाद उनका बयान खूब वायरल हो रहा है लेकिन इसी बीच उन्होंने नीले ड्रम की फोटो भी शेयर कर दी। आखिर क्यों जानिए",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:34:04 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "d099ccb88b0ceefc409d466e0e34d4f9",
+      "title": "Rajiv Gandhi helped prepare India for promise of 21st century, says Congress",
+      "link": "https://www.thehindu.com/news/national/rajiv-gandhi-birth-anniversary-tributes/article71367965.ece",
+      "summary": "“Perhaps the most meaningful tribute to Rajiv Ji would be to strengthen India's timeless spirit of empathy, harmony and reconciliation, while nurturing intellectual freedom, innovation and the aspirations of our young people,” Mallikarjun Kharge said",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:33:21 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -25794,6 +26106,19 @@
       "lang": "en"
     },
     {
+      "id": "6375433cba6d55255d37550b75b72ca9",
+      "title": "ग्रेटर नोएडा के जिम में लगी भीषण आग, छत पर फंसे 5 लोगों को दमकलकर्मियों ने सुरक्षित बचाया",
+      "link": "https://www.amarujala.com/video-shots/delhi-ncr/noida/video-massive-fire-breaks-out-at-a-greater-noida-gym-firefighters-safely-rescue-5-people-trapped-on-the-roof-2026-08-20",
+      "summary": "ग्रेटर नोएडा के जिम में लगी भीषण आग, छत पर फंसे 5 लोगों को दमकलकर्मियों ने सुरक्षित बचाया",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:28:47 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "062bf183c725c7a66caf2b608f44c2c3",
       "title": "Varanasi News: अभिनेता अमित सियाल ने गलियों में चखी बनारसी हींग की कचौड़ी",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/actor-amit-sial-savored-banarasi-hing-kachoris-in-the-lanes-varanasi-news-c-20-vns1022-1512173-2026-08-20",
@@ -25804,6 +26129,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "198eb2a04892bf198f9fe119abe71ec8",
+      "title": "Spurious liquor deaths in Bhavnagar, Gujarat: death toll rises to seven, 30 hospitalised",
+      "link": "https://www.thehindu.com/news/national/gujarat/spurious-liquor-deaths-in-bhavnagar-gujarat-death-toll-rises-to-seven-30-hospitalised/article71368002.ece",
+      "summary": "12 bootleggers have been detained in connection with spurious liquor consumption in Bhavnagar, Gujarat, with an FIR registered against 21 persons, police said",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:26:33 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3d3771424e1ddc306ee4f6c1c16550fd",
+      "title": "West Asia LIVE: Trump vows 'tremendous' economic costs on Iran partners",
+      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-missile-strikes-strait-of-hormuz-ceasefire-deal-washington-tehran-donald-trump/article71367590.ece",
+      "summary": "Iran's armed forces warned Gulf countries against assisting the U.S. military on August 19, hours after the UAE announced it was severing economic ties with Tehran following new attacks on shipping",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:24:52 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -25846,6 +26197,32 @@
       "lang": "en"
     },
     {
+      "id": "0db595a9936fc5f7086bd3d26e6702d0",
+      "title": "Sitharaman-led ministerial delegation meets Singapore PM Lawrence Wong",
+      "link": "https://www.thehindu.com/news/national/finance-minister-nirmala-sitharaman-lawrence-wong-india-singapore-ismr/article71368006.ece",
+      "summary": "Established in 2022, the ISMR is a key high-level economic mechanism between India and Singapore.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:17:49 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a212c12a13c700b098d78b5385c9c6a0",
+      "title": "UP: 11वीं के छात्र को हुआ शिक्षिका से प्यार, इतनी बढ़ गईं नजदीकियां; फिर इस फैसले ने सभी को चौंका दिया",
+      "link": "https://www.amarujala.com/uttar-pradesh/agra/class-11-student-falls-love-for-his-tutor-their-bond-grew-incredibly-close-decision-left-everyone-stunned-2026-08-20",
+      "summary": "उत्तर प्रदेश के आगरा जिले में 11वीं के छात्र और शिक्षिका के प्यार का मामलला सामने आया है।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:17:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "ee73c01970878d0f7fadcdce91f97b87",
       "title": "Ayodhya News: सेवानिवृत्त बैंककर्मी ने गोली मार की खुदकुशी",
       "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/retired-bank-employee-commits-suicide-by-shooting-himself-ayodhya-news-c-97-1-slko1023-156699-2026-08-20",
@@ -25856,6 +26233,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "c45d2d49086c5c99746e9a1f7b4e5e27",
+      "title": "Supreme Court upholds definition of ‘industry’ as per Industrial Relations Code, 2020",
+      "link": "https://www.thehindu.com/news/national/supreme-court-upholds-definition-of-industry-as-per-industrial-relations-code-2020/article71367986.ece",
+      "summary": "The Bench said the expansive interpretation of ‘industry’ given in the the 1978 judgment authored by J. Krishna Iyer would operate in pending industrial disputes prior to Industrial Relations Code 2020.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:15:45 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "397f660bcebc4f657b2ca02f09ea8095",
+      "title": "Shahjahanpur News: बिजली के खंभे में उतरे करंट से कक्षा दो के छात्र की मौत, शव गोद में लेकर बिलख पड़ी मां",
+      "link": "https://www.amarujala.com/uttar-pradesh/shahjahanpur/class-2-student-dies-after-coming-into-contact-with-live-current-from-an-electric-pole-in-shahjahanpur-2026-08-20",
+      "summary": "मीरानपुर कटरा कस्बा के मोहल्ला बंगशान की घटना, घर के बाहर खेल रहा था आठ साल का असद",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:15:29 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -25870,6 +26273,19 @@
       "source": "Amar Ujala",
       "district": "Ayodhya",
       "lang": "en"
+    },
+    {
+      "id": "8bacba838fe22781e64eda4e92d231d1",
+      "title": "Accident: तेलंगाना में दर्दनाक हादसा, सड़क किनारे कुएं में गिरी कार; दंपति और दो बच्चों की मौत",
+      "link": "https://www.amarujala.com/india-news/telangana-road-accident-couple-two-children-die-after-car-plunges-into-well-2026-08-20",
+      "summary": "Accident: तेलंगाना में दर्दनाक हादसा, सड़क किनारे कुएं में गिरी कार; दंपति और दो बच्चों की मौत",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:13:55 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "1f2148da77304cf6c4fb62d9cd94d058",
@@ -25898,6 +26314,84 @@
       "lang": "en"
     },
     {
+      "id": "425cec325ad60e1249fb9eca6a2184d9",
+      "title": "ग्रेटर नोएडा: गलगोटिया यूनिवर्सिटी में जापानी डेलिगेशन, पर्यटन मंत्री की मौजूदगी में अनुबंध पत्र पर हस्ताक्षर",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/greater-noida-japanese-delegation-at-galgotias-university-2026-08-20",
+      "summary": "गलगोटिया यूनिवर्सिटी में एक साइनिंग सेरेमनी आयोजित की गई। जापान के राज्यपाल कोटारो नागासाकी और यूनिवर्सिटी के अध्यक्ष ने अनुबंध पत्र पर हस्ताक्षर किए।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:11:55 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "97e002217bbc5f026c68e9b4b5e0f95b",
+      "title": "Why Keralam’s differently abled children are bearing the brunt of withheld Samagra Shiksha funds",
+      "link": "https://www.thehindu.com/news/national/kerala/why-keralams-differently-abled-children-are-bearing-the-brunt-of-withheld-samagra-shiksha-funds/article71367830.ece",
+      "summary": "Samagra Shiksha funds to Keralam have been withheld by Union government since 2023-24, affecting thousands of differently abled children",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:11:08 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "715356ba2399fc7eaa6d85cd20a01fca",
+      "title": "Indian national dies in Israel; suspect arrested",
+      "link": "https://www.thehindu.com/news/national/indian-national-dies-in-israel-suspect-arrested/article71368001.ece",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:08:16 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "174f6207a4002bb8beba3f9e0b10dd67",
+      "title": "Male tiger photographed at Assam’s Dihing Patkai National Park",
+      "link": "https://www.thehindu.com/news/national/assam/male-tiger-photographed-at-assams-dihing-patkai-national-park/article71367994.ece",
+      "summary": "The big cat was captured on camera during monitoring by the Zoological Survey of India (ZSI) in collaboration with the State forest department",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:08:11 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1f7425938f54b3ca75ad5c5e8a5388e3",
+      "title": "Sugar Price Hike: E20 Petrol की वजह से चीनी महंगी और सरकार गन्ने से परेशान",
+      "link": "https://www.amarujala.com/video/india-news/sugar-prices-soar-10-in-a-month-so-why-govt-just-halved-stock-limits-2026-08-20",
+      "summary": "अब मिठाई बनाने वाले बड़े कारोबारी, कोल्ड ड्रिंक कंपनियां और फूड प्रोसेसिंग से जुड़ी बड़ी कंपनियां जरूरत से ज्यादा चीनी जमा करके नहीं रख सकेंगी. सरकार ने ऐसे बड़े खरीदारों के लिए चीनी का स्टॉक रखने की सीमा तय कर दी है. तो ऐसा क्यों हुआ",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:06:48 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "01891ee26cce39156f7851c52be3aebc",
+      "title": "Suna Hai Kya: खुद ही अपनी पोल खोल रहे अफसर, काउंटर करने में छूट रहे पसीने, मेरी टीम है तो बेटा भी खेलेगा",
+      "link": "https://www.amarujala.com/lucknow/suna-hai-kya-officers-are-exposing-themselves-struggling-to-counter-the-situation-2026-08-20",
+      "summary": "यूपी के एक जिले में पुलिस अफसर के परिजन के साथ हुई वारदात में अफसर खुद ही अपनी पोल खोलने लगे हैं। ऐसे में अन्य अफसरों को मुंह छिपाना पड़ रहा है। वहीं, पढ़ाई-लिखाई वाले विभाग में सवालों को काउंटर करने में पसीना आ रहा है। पढ़ें ये किस्से:",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:05:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "ad622f5e45685e3abf6068ecc0a59500",
       "title": "Ayodhya News: चंपत, अनिल ने बढ़ाई सक्रियता, गोपाल राव भी लौटे अयोध्या",
       "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/champat-and-anil-have-stepped-up-their-activities-gopal-rao-has-also-returned-to-ayodhya-ayodhya-news-c-97-1-ayo1002-156716-2026-08-20",
@@ -25909,6 +26403,19 @@
       "source": "Amar Ujala",
       "district": "Ayodhya",
       "lang": "en"
+    },
+    {
+      "id": "732231a51ee71582cb69fd58834bc21c",
+      "title": "NRC की मांग पर मणिपुर में बवाल: धरने के दूसरे दिन सड़कों पर उतरी महिलाएं; 23 अगस्त तक सभी शिक्षण संस्थान बंद",
+      "link": "https://www.amarujala.com/india-news/uproar-in-manipur-over-nrc-demand-census-training-postponed-in-imphal-west-all-educational-institutions-closed-2026-08-20",
+      "summary": "NRC की मांग पर मणिपुर में बवाल: धरने के दूसरे दिन सड़कों पर उतरी महिलाएं; 23 अगस्त तक सभी शिक्षण संस्थान बंद-Uproar in Manipur over NRC demand Census training postponed in Imphal West All educational institutions closed",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:04:07 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "f557c0ca71421a6792ccb4e7521f70cd",
@@ -25969,6 +26476,32 @@
       "summary": "एडीसीपी पूर्वी शिवा सिंह ने मंगलवार देर रात चकेरी और जाजमऊ क्षेत्र में शराब ठेकों पर छापा मारकर 12 लोगों को पकड़ा। वह बिना वर्दी के प्राइवेट वाहन से मौके पर पहुंची थीं। उनकी कार्रवाई से चकेरी और जाजमऊ पुलिस में खलबली मच गई।",
       "date": "2026-08-20",
       "timestamp": "Thu, 20 Aug 2026 12:00:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ccd20041ba64e61a0bc0c13ed9030eaf",
+      "title": "Bareilly News: 'अभ्युदय' से हो रहा भाग्योदय, निशुल्क कोचिंग से कामयाबी की राह पर बढ़ रहे युवा",
+      "link": "https://www.amarujala.com/uttar-pradesh/bareilly/youth-are-advancing-on-the-path-to-success-through-abhyuday-free-coaching-in-bareilly-2026-08-20",
+      "summary": "वर्ष 2026-27 में भी अब तक 307 विद्यार्थियों का अभ्युदय कोचिंग के लिए किया गया है चयन",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 12:00:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "d1de5b4ecac1d8b6aa7562d743f60041",
+      "title": "UP: खेत पर जा रहे किशोर को लगा टूटे तार से करंट, बचाने के लिए दौड़े युवक की भी मौत; परिजनों में मचा कोहराम",
+      "link": "https://www.amarujala.com/uttar-pradesh/mathura/broken-11kv-power-line-claims-two-lives-in-mathura-teen-dies-while-going-to-field-2026-08-20",
+      "summary": "विवेक अपने पिता के लिए चाय लेकर खेत जा रहा था, तभी उसका पैर टूटे बिजली के तार पर पड़ गया; उसे बचाने पहुंचे गुलाब भी करंट की चपेट में आ गए।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 11:59:50 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -26159,9 +26692,9 @@
     },
     {
       "id": "d8a16a92139933cbdbd37b45c881d688",
-      "title": "स्कूल प्रिंसिपल हत्या मामला: 27 बार चाकू से किए थे वार, आखिरी कॉल में 'बाबू' शब्द से मिला सुराग; कौन थे कातिल?",
+      "title": "स्कूल प्रिंसिपल हत्या मामला: चाकू से किए थे 27 वार, आखिरी कॉल में 'बाबू' से मिला सुराग; आखिर कौन थे कातिल?",
       "link": "https://www.amarujala.com/india-news/hyderabad-principal-roopa-reddy-murder-class-10-students-27-stab-wounds-cash-iphone-babu-call-2026-08-20",
-      "summary": "स्कूल प्रिंसिपल हत्या मामला: 27 बार चाकू से किए थे वार, आखिरी कॉल में 'बाबू' शब्द से मिला सुराग; कौन थे कातिल?",
+      "summary": "स्कूल प्रिंसिपल हत्या मामला: चाकू से किए थे 27 वार, आखिरी कॉल में 'बाबू' से मिला सुराग; आखिर कौन थे कातिल?",
       "date": "2026-08-20",
       "timestamp": "Thu, 20 Aug 2026 11:36:55 +0530",
       "section": "National",
@@ -26169,19 +26702,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "3dc5bfc90efd6460e4506ee1ec743b11",
-      "title": "District collectors in eight States, UTs empowered to grant citizenship under CAA; central panels phased out",
-      "link": "https://www.thehindu.com/news/national/district-collectors-in-eight-states-uts-empowered-to-grant-citizenship-under-caa-bjp-bengal-win/article71367931.ece",
-      "summary": "The MHA order is significant as the amendments to the CAA Rules, which first came into effect on March 11, 2024, have been notified after the BJP came to power in West Bengal this year",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 11:36:43 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "db15cec4320f378da3c4f3642cc564da",
@@ -26195,32 +26715,6 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
-    },
-    {
-      "id": "4d855096ef4f98f6d846cb16749d215d",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-20",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 11:30:30 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "917ce686abe332d971bd20a315ee14d1",
-      "title": "पढ़ें 20 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-20",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 11:30:12 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "38b1566f3432a4ab5399fb1b419a5581",
@@ -26249,19 +26743,6 @@
       "lang": "en"
     },
     {
-      "id": "97e002217bbc5f026c68e9b4b5e0f95b",
-      "title": "Why Keralam’s differently abled children are bearing the brunt of withheld Samagra Shiksha funds",
-      "link": "https://www.thehindu.com/news/national/kerala/why-keralams-differently-abled-children-are-bearing-the-brunt-of-withheld-samagra-shiksha-funds/article71367830.ece",
-      "summary": "Samagra Shiksha funds to Keralam have been withheld by Union government since 2023-24, affecting thousands of differently abled children adversely",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 11:23:10 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "7b0aaa64e547b7ab4742bb3ed697b01b",
       "title": "क्षेत्रीय प्रभारी के स्वागत के दौरान आपस में भिड़े भाजपाई, तमाचे के साथ चले जूते चप्पल",
       "link": "https://www.livehindustan.com/uttar-pradesh/bjp-members-clash-during-regional-in-charges-welcome-slaps-shoes-slippers-exchanged-201787204086724.html",
@@ -26286,19 +26767,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "ebee25f4734587138a185c48197faec9",
-      "title": "Census training programme deferred in Manipur’s Imphal West amid protests over NRC demand",
-      "link": "https://www.thehindu.com/news/national/manipur/census-training-programme-deferred-in-manipurs-imphal-west-amid-protests-over-nrc-demand/article71367913.ece",
-      "summary": "Protestors Wednesday (August 19) burnt effigies of politicians and took out rallies in different parts of Manipur's valley districts on the second day of the 48-hour general strike called by the Campaign for Just and Fair Delimitation (JFD) to press for updation of the NRC before the census exercise is conducted in the State.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 11:18:32 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "0c10cfd6d79b1692bef33e09f94f6f2a",
@@ -26350,19 +26818,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "59eb24a6ed872d1037bd6a48bde1861b",
-      "title": "Quickest way to erode Gen Z goodwill is to use it as a threat: J&K CM Omar",
-      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/jampk-cm-omar-abdullah-warns-against-using-gen-z-as-a-threat/article71367901.ece",
-      "summary": "His remarks came in response to an undated video in which a young woman could be seen raising her voice against the Ladakh Police at a checkpoint. The girl in the video said, \"We are Gen Z and we are not going to tolerate this.\"",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 11:09:57 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -26457,19 +26912,6 @@
       "lang": "en"
     },
     {
-      "id": "569de22272cfd3ad9cf024fe8f67f99b",
-      "title": "Pakistan summons U.S. Chargé d’Affaires over Sergio Gor's remarks on JK",
-      "link": "https://www.thehindu.com/news/international/pakistan-summons-us-charge-daffaires-over-sergio-gors-remarks-on-jk/article71367872.ece",
-      "summary": "The statement further highlighted that the “irresponsible statement” by the U.S. ambassador “negated the long-standing and well-documented position of the United States on the Jammu and Kashmir dispute”",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 10:56:48 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "3871e4527ea534fc7009c751d57b31fa",
       "title": "शाहजहांपुर गौतम हत्याकांड: आरोपी समीर के मकान पर बुलडोजर चलाने की तैयारी, घर से बाहर निकाला गया सामान",
       "link": "https://www.amarujala.com/uttar-pradesh/shahjahanpur/shahjahanpur-gautam-murder-case-preparations-underway-to-demolish-accused-sameer-house-with-a-bulldozer-2026-08-20",
@@ -26528,19 +26970,6 @@
       "summary": "The idea that a survivor of sexual assault must behave in a certain way to be seen as credible persists in court judgments, despite criticism of such reasoning and efforts by the judiciary to address it",
       "date": "2026-08-20",
       "timestamp": "Thu, 20 Aug 2026 10:41:31 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "eb9e466c69831dcc43c1f18e8c7927a6",
-      "title": "Mumbai Cybercrime police arrest two from Bihar, Jharkhand in ₹48.60 lakh Boss scam",
-      "link": "https://www.thehindu.com/news/national/maharashtra/mumbai-cybercrime-police-arrest-two-from-bihar-jharkhand-in-4860-lakh-boss-scam/article71366280.ece",
-      "summary": "It was also found that the accused were allegedly linked to almost seven similar cases across India.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 10:41:12 +0530",
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
@@ -26990,19 +27419,6 @@
       "lang": "hi"
     },
     {
-      "id": "3d3771424e1ddc306ee4f6c1c16550fd",
-      "title": "West Asia LIVE: Trump vows 'tremendous' economic costs on Iran partners",
-      "link": "https://www.thehindu.com/news/international/iran-us-war-live-updates-missile-strikes-strait-of-hormuz-ceasefire-deal-washington-tehran-donald-trump/article71367590.ece",
-      "summary": "Iran's armed forces warned Gulf countries against assisting the U.S. military on August 19, hours after the UAE announced it was severing economic ties with Tehran following new attacks on shipping",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 09:52:59 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "d2dfcb7cd017596567392f27889991fd",
       "title": "Agra: एत्मादपुर के सब रजिस्ट्री ऑफिस में बवाल, जानें क्या हुआ जब आपस में भिड़ गए दो अधिवक्ता; बैनामा लेखक घायल",
       "link": "https://www.amarujala.com/uttar-pradesh/agra/clash-at-etmadpur-sub-registrar-office-over-registration-slot-deed-writer-injured-2026-08-20",
@@ -27315,6 +27731,19 @@
       "lang": "en"
     },
     {
+      "id": "64c1d0aa3c1c823bfe1d230b11f8d785",
+      "title": "यूपी में पत्रिका समूह के प्रधान संपादक गुलाब कोठारी, ‘स्त्री: देह से आगे’ विषय पर चलेगा मंथन, आप भी हो सकते हैं शामिल",
+      "link": "https://www.patrika.com/lucknow-news/gulab-kothari-patrika-editor-in-chief-up-visit-stree-deh-se-aage-event-20844625",
+      "summary": "Gulab Kothari UP Visit: पत्रिका समूह के प्रधान संपादक गुलाब कोठारी उत्तर प्रदेश (यूपी) के पांच दिवसीय प्रवास पर बुधवार को लखनऊ पहुंचे। गुलाब कोठारी 23 अगस्त तक यूपी में रहेंगे। इस दौरान वह लखनऊ और बाराबंकी में विभिन्न शैक्षणिक संस्थाओं, कॉलेजों, विश्वविद्यालयों और महिला समूहों की ओर से आयोजित ‘स्त्री: देह से आगे’ विषय विवेचन कार्यक्रमों को संबोधित करेंगे। इस दौरान वे विद्यार्थियों, शिक्षाविदों और प्रबुद्धजनों से संवाद भी करेंगे।",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 08:43:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "690018a22515fe3a3d4dab25e9437990",
       "title": "Ladakh civil society groups submit list of non-negotiable points to MHA officials, Chief Secretary in Leh",
       "link": "https://www.thehindu.com/news/national/ladakh/ladakh-civil-society-groups-submit-list-of-non-negotiable-points-to-mha-officials-chief-secretary-in-leh/article71366272.ece",
@@ -27614,6 +28043,19 @@
       "lang": "en"
     },
     {
+      "id": "d943ab90a3c53e0446e3077ecc2df472",
+      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 07:33:11 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "704196c8ad9b62d7eb553afc07f8fe2b",
       "title": "India-PAK: पाकिस्तानी उच्चायोग के बाहर सुरक्षा घेरा तोड़ा गया, इस्लामाबाद की कार्रवाई के बाद भारत का एक्शन",
       "link": "https://www.amarujala.com/india-news/india-pakistan-relations-security-perimeter-outside-pakistan-high-commission-delhi-removed-what-is-the-reason-2026-08-20",
@@ -27636,6 +28078,71 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3a0b7c777586fad77cceef73e4748180",
+      "title": "At least 12 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 07:19:40 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "63133e9361d31d60d71247bce14ced54",
+      "title": "Top seeds Sabalenka, Zverev knocked out of Cincinnati Open",
+      "link": "https://www.aljazeera.com/sports/2026/8/20/top-seeds-sabalenka-zverev-knocked-out-of-cincinnati-open?traffic_source=rss",
+      "summary": "World No 1 Aryna Sabalenka stunned by Sara Bejlek, while French Open champion Alexander Zverev exits after fourth round.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 07:17:13 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8f98ee0d8e80289a664ea9b32d498961",
+      "title": "Over 200,000 people newly displaced in Sudan’s Kordofan as fighting rages",
+      "link": "https://www.aljazeera.com/news/2026/8/20/over-200000-people-newly-displaced-in-sudans-kordofan-as-fighting-rages?traffic_source=rss",
+      "summary": "UN warns of surging displacement in Kordofan as power and water infrastructure come under attack in El Obeid.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 07:11:37 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dbd0dbb9afc75001723ab6af7e281ebd",
+      "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",
+      "link": "https://www.bbc.co.uk/news/articles/ckg3j3yn4exo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors say Erin Patterson's sentence was \"manifestly inadequate\" as it allows for the possibility of parole.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 07:08:35 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "397f745b66b29fdaec932632ca0728f8",
+      "title": "Lionel Messi scores first goal for Inter Miami since father’s death",
+      "link": "https://www.aljazeera.com/sports/2026/8/20/lionel-messi-scores-first-goal-for-inter-miami-since-fathers-death?traffic_source=rss",
+      "summary": "Messi's 26th-minute goal in the MLS fixture comes just 11 days after the passing of his father Jorge on August 8.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 07:08:23 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -27757,6 +28264,19 @@
       "lang": "en"
     },
     {
+      "id": "d6ae836f19063aa014df63299f3ada6f",
+      "title": "Bangladesh holds presidential election in first contested vote in 35 years",
+      "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-holds-presidential-election-in-first-contested-vote-in-35-years?traffic_source=rss",
+      "summary": "BNP's Mirza Fakhrul Islam Alamgir is pitted against ex-army officer Oli Ahmed, nominee of Jamaat-led 11-party alliance.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 06:38:39 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "ee4e1d7e86b74bb93565f842fd8ea19d",
       "title": "यूपी: प्रदेश में विनोद तावड़े की होगी असली परीक्षा, सरकार-संगठन के बीच तालमेल बैठाना बड़ी जिम्मेदारी",
       "link": "https://www.amarujala.com/lucknow/up-vinod-tawde-will-face-the-real-test-in-the-state-coordinating-between-the-government-and-the-organization-2026-08-20",
@@ -27797,9 +28317,9 @@
     },
     {
       "id": "6dc3ec3646ba67e8ff5844eddeeb8570",
-      "title": "5-foot iron rod driven into cousin’s ear, killing him:Sambhal dispute over children’s fight; doctor says 4 inches penetrated skull",
+      "title": "5-foot iron rod driven into cousin’s ear, killing him:Sambhal dispute over children’s fight; doctor says 4 inches entered brain bone",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/sambhal-murder-iron-rod-attack-cousin-dispute-cctv-footage-138780846.html",
-      "summary": "In Sambhal, a young man was murdered by attacking him with a 5-foot long iron rod. During a children's dispute, his cousin inserted a rod into his ear. The rod went about 4 inches inside through the ear and got stuck in the skull. Doctors removed the rod through an operation, but about 4 hours later, the young man's condition started to deteriorate. Doctors referred him to Delhi, but he died on the way around 2:30 AM on Wednesday late night. The incident is from Rajpura police station area, about 30 kilometers away from the district headquarters. The young man's operation was performed at Acharya Hospital in Bulandshahr. According to doctors, the skull bone was fractured by the rod. Along with a brain injury, a blood clot had also formed. According to the police, a quarrel broke out between two cousins over a children's dispute. During this, one brother inserted a rod into the other's ear. - Know the full story... Kanhaiya and Badan Singh, residents of Chaupur Danda village in the Rajpura police station area, are neighbors. Both are cousins. Their houses are facing each other, with a path of about 4 to 5 feet in between. A few days ago, an argument broke out between the two families over a children's dispute. On Tuesday evening, both sides again confronted each other over this old dispute. As the dispute escalated, bricks and stones were thrown from both sides. During this, a young man from Badan Singh's family came with an iron rod. He first tried to attack Kanhaiya with the rod, and then inserted the rod into his ear. Kanhaiya fell to the ground, seriously injured by the rod. The accused fled from the spot. Family members took him to the Gannaur Community Health Center. After first aid, doctors referred him to Aligarh Medical College. A two-hour operation was performed in Bulandshahr Family members brought Kanhaiya to Aligarh late Tuesday night. As his condition did not improve, he was brought to Acharya Hospital in Bulandshahr. Investigation revealed that the rebar had penetrated about 4 inches deep through his ear and was lodged in the skull bone. Doctors stated that pulling the rebar out directly could have been fatal. Therefore, the protruding part was first cut off with a grinder. After this, the rebar lodged inside was removed in an operation lasting about 2 hours. Doctors said the skull bone was fractured Dr. Ashish Acharya of Acharya Hospital stated that when the young man was brought to the hospital, his condition was extremely critical. The rebar had pierced through his ear, gone about 4 inches inside, and got embedded in the skull bone. This caused the bone to break and resulted in a brain injury. According to the doctor, there was an immediate risk of death if the rebar was pulled out. Therefore, it was first cut and then removed. After the operation, the patient's condition showed improvement for some time, but due to blood clotting in the brain and the broken bone, his condition deteriorated again late in the evening. He was referred to Delhi, but he died on the way. 3 live videos of the fight surfaced Three live videos related to the dispute between both parties have also surfaced. Police are including these videos and other evidence in the investigation. Based on the videos, the role of both parties during the assault and stone-pelting is being investigated. One accused arrested, two sought Rajpura Police Station in-charge Sandeep Chaudhary said- Kanhaiya's mother Kamlesh had filed an FIR against Badan Singh, Brijpal, and Lakshmi for assault. After Kanhaiya's death, a murder charge has been added to the case. Accused Badan Singh, son of Leeladhar, has been arrested. Two other accused are being searched for. Kanhaiya used to run his family by farming and laboring Kanhaiya used to do farming and labor work. His wife's name is Kranti Devi. The family includes a 7-year-old daughter Chanchal and a 4-year-old son Vivek. After Kanhaiya's death, his wife, children, and other family members are in a state of distress, crying inconsolably.",
+      "summary": "A young man was killed in Sambhal after his cousin allegedly attacked him with a 5-foot-long iron rod, driving it through his ear. The rod penetrated around 4 inches and became lodged in his skull. Doctors removed the rod during an operation, but around four hours later, the man's condition deteriorated. He was referred to Delhi but died on the way at around 2.30am on Wednesday. The incident took place in the Rajpura police station area, around 30km from the district headquarters. The victim, Kanhaiya, underwent surgery at Acharya Hospital in Bulandshahr. Doctors said the rod fractured his skull and caused a brain injury, while a blood clot also developed. According to police, the incident followed an argument between two cousins over a dispute involving their children. See photos- Know the full story- Kanhaiya and Badan Singh, residents of Chaupur Danda village under Rajpura police station, are cousins and neighbours. Their houses face each other, with a narrow path of around 4 to 5 feet between them. A few days earlier, their families had argued over a dispute involving their children. On Tuesday evening, the two sides confronted each other again over the same issue. The argument escalated, with both sides allegedly throwing bricks and stones. During the clash, a young man from Badan Singh's family arrived carrying an iron rod. He initially tried to attack Kanhaiya with it before allegedly driving the rod into his ear. Kanhaiya collapsed with serious injuries, while the accused fled. His family took him to the Gunnaur Community Health Centre, where he received first aid before doctors referred him to Aligarh Medical College. Two-hour operation carried out in Bulandshahr The family took Kanhaiya to Aligarh late on Tuesday night. As his condition failed to improve, they brought him to Acharya Hospital in Bulandshahr. Doctors found that the rod had penetrated around 4 inches through his ear and become lodged in the skull bone. They said pulling it out directly could have proved fatal. The protruding section was therefore first cut off using a grinder, after which doctors removed the portion lodged inside during an operation lasting around two hours. Doctor: Rod fractured skull and caused brain injury Dr Ashish Acharya of Acharya Hospital said Kanhaiya was in an extremely critical condition when he arrived. According to the doctor, the rod entered through the ear, travelled around 4 inches into the head and became embedded in the skull bone. It fractured the bone and caused a brain injury. He said there was an immediate risk of death if the rod had been pulled out directly. It was therefore cut first and then removed surgically. Kanhaiya's condition initially improved after the operation, but deteriorated again later in the evening due to blood clotting in the brain and the fractured bone. He was referred to Delhi but died on the way. Three live videos of clash emerge Three live videos related to the dispute between the two sides have also surfaced. Police are examining these videos along with other evidence as part of the investigation. The footage is being used to establish the roles of both sides during the assault and stone-pelting. One accused arrested, two others being sought Rajpura police station in-charge Sandeep Chaudhary said- Kanhaiya's mother, Kamlesh, had lodged an FIR against Badan Singh, Brijpal and Lakshmi for assault. After Kanhaiya's death, a murder charge was added to the case. Badan Singh, son of Leeladhar, has been arrested. Two other accused are being searched for. Kanhaiya supported family through farming and labour Kanhaiya worked in farming and daily-wage labour to support his family. His wife is Kranti Devi. They have a 7-year-old daughter, Chanchal, and a 4-year-old son, Vivek. Following Kanhaiya's death, his wife, children and other family members are devastated and have been crying inconsolably.",
       "date": "2026-08-20",
       "timestamp": "Thu, 20 Aug 2026 06:29:46 +0000",
       "section": "UP_Focus",
@@ -27880,6 +28400,19 @@
       "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
       "date": "2026-08-20",
       "timestamp": "Thu, 20 Aug 2026 06:08:02 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3a7087b85d82d30677de5408acf97b8b",
+      "title": "Four workers dead after being hit by train in Japan",
+      "link": "https://www.bbc.co.uk/news/articles/c5yrnz24j22o?at_medium=RSS&at_campaign=rss",
+      "summary": "The train collided with the four men at Shin-Kanuma Station, north of Tokyo, authorities say.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 06:02:10 GMT",
       "section": "International",
       "report_category": "International",
       "source": "BBC World",
@@ -28043,19 +28576,6 @@
       "lang": "en"
     },
     {
-      "id": "3a0b7c777586fad77cceef73e4748180",
-      "title": "Russia launches missile strikes on Kyiv and surrounding region, killing at least eight",
-      "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, according to the State Emergency Service of Ukraine.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 05:25:23 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "b9b850f4ff08fc1c685e56ba85bd2b43",
       "title": "Weather Forecast 20 Aug 2026: देखिए क्या है आपके यहां मौसम का हाल",
       "link": "https://www.amarujala.com/video/india-news/weather-forecast-for-august-20-2026-check-the-weather-conditions-in-your-area-2026-08-20",
@@ -28067,32 +28587,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "f4d2da3939512b4478b14b32fcc94a21",
-      "title": "Prayagraj Flood : कानपुर गंगा बैराज से छोड़ा जा रहा 2.95 लाख क्यूसेक पानी, प्रयागराज में बढ़ा बाढ़ का खतरा",
-      "link": "https://www.amarujala.com/uttar-pradesh/allahabad/2-95-lakh-cusecs-of-water-being-released-from-the-kanpur-ganga-barrage-flood-risk-rises-in-prayagraj-2026-08-19",
-      "summary": "गंगा-यमुना के बढ़ते जलस्तर के बीच कानपुर गंगा बैराज से छोड़े जा रहे पानी ने प्रयागराज की चिंता बढ़ा दी है। कानपुर बैराज से 2,95,637 क्यूसेक पानी प्रति सेकंड गंगा में छोड़ा जा रहा है। मानसूनी बारिश और नरौरा डैम समेत सहायक नदियों से लगातार पानी आने...",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 05:19:01 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "d943ab90a3c53e0446e3077ecc2df472",
-      "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-      "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-      "summary": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-      "date": "2026-08-20",
-      "timestamp": "Thu, 20 Aug 2026 05:10:09 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "049240f8180b49f0b20736751f340ebe",
@@ -28317,7 +28811,7 @@
     },
     {
       "id": "58575e9562ff27f250ac41e09237336c",
-      "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+      "title": "Trump vows tougher economic measures on Iran and supporting countries",
       "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after a 60-day ceasefire expired on Monday, with no sign of a diplomatic or military off-ramp to the conflict.",
       "date": "2026-08-20",
@@ -28694,7 +29188,7 @@
     },
     {
       "id": "0a59bb6689517109a87b6b1de948a412",
-      "title": "Mother says, ‘They offered ₹8 crore for my son’s murder’:‘Nothing matters more than a child’; 10, including former SP MLC, get life",
+      "title": "Mother says, ‘They offered ₹8 crore to settle son’s murder’:‘Nothing matters more than a child’; 10, including former SP MLC, get life",
       "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/auraiya-murder-case-kamlesh-pathak-life-sentence-verdict-138779587.html",
       "summary": "My son was killed in the temple. We were at home. We are very satisfied with the verdict that has come after six years. We faced many difficulties. One son was murdered, while the other kept attending court hearings. We were pressured to compromise. Some offered ₹7 crore, while others offered ₹8 crore. But there is no compromise greater than one’s child. As she said this, tears welled up in the eyes of Sarla Chaubey, mother of advocate Manjul Chaubey. 10 sentenced to life imprisonment In the case involving the murder of Manjul Chaubey and his teacher sister Sudha Chaubey in Auraiya, the court has sentenced 10 people, including former SP MLC Kamlesh Pathak, to life imprisonment. The verdict comes six years after the murders and brings relief to the family, which says it faced pressure and repeated attempts to reach a compromise. Family remembers six-year struggle After the verdict, the Dainik Bhaskar team reached Narayanpur locality, around 10 km from the district headquarters, and spoke to the family about the long legal battle and their experience during the six years. The family says that despite the difficulties, it remained determined to pursue the case until the court delivered its verdict. Complete incident details Advocate and cousin shot dead in broad daylight In Auraiya, advocate Manjul Chaubey and his cousin Sudha Chaubey were shot dead in broad daylight on January 15, 2020. Their family members were allegedly chased and assaulted, while police personnel were also attacked during the incident. Six years later, on Wednesday, August 19, at around 2 pm, the MP-MLA Court sentenced 10 convicts, including former SP MLC Kamlesh Pathak and his two brothers, to life imprisonment. Dispute over temple land led to enmity Kamlesh Pathak and Manjul Chaubey were friends before their relationship turned hostile over one bigha of temple land. The land was registered in the name of Maniram Bagia. According to the case, Kamlesh Pathak allegedly transferred the land to his own name through a sale deed. Manjul’s family opposed the transfer and got the sale deed cancelled. This dispute reportedly marked the beginning of the enmity between the two families, which eventually led to the double murder. What family members said about the court's decision Manjul Chaubey's house is located in Narayanpur locality. When we arrived, father Shivkumar Chaubey, wife Sarla, and 6-year-old granddaughter Aradhya were sitting in the verandah of the house. Aradhya was two and a half months old at the time of her father's murder. The daughter-in-law and daughter were also sitting nearby. There was satisfaction on everyone's faces regarding the verdict. Father Shivkumar, recalling the incident, says, We used to go to the temple for worship. That day too, we went to worship. These people, I don't know what got into them, started abusing us. They said that you will not worship here, this is our place. Suddenly they brought a gun and started firing. Our son and niece died. Father-in-law Shivkumar says, We are satisfied with the court's decision. We thank the government. The administration also fully cooperated with us in this. I never went to court, but my sons Sanjay and Ashish advocated strongly. They avenged their brother's murder. Went to court for the first time in 6 years The case ran for 6 years after my son's murder, but today was the first time we went to court. We didn't even see the faces of the murderers. We didn't dare to see their faces. We told our sons and came home. We didn't dare to stay there and hear the verdict. Our sons called and informed us about the verdict. Recalling the incident, Shivkumar says, After my son's murder, our daughter-in-law became like a madwoman. She started eating only once a day. Our granddaughter was only two and a half months old at that time. We somehow managed the family. Today, the court has done justice to our family. Mother became emotional remembering the incident The daughter and daughter-in-law were not ready to talk on camera and went inside the house. Mother Sarla Devi became emotional remembering the incident. Then, composing herself, she said, Today I am very satisfied with the court's decision. Many problems came. Many times I received threats. Many times pressure was put to compromise by taking 7-8 crore rupees. But, there is no compromise in the death of a child. Two brothers jointly advocated in court Manjul's family included father Shivkumar, mother Sarla, elder brother Sanjay, and a sister Rashmi, besides his wife Aarti and two-and-a-half-month-old daughter Aradhya. Rashmi is a government teacher and was married at that time. Meanwhile, Sudha's family included father Arvind Kumar, mother Guddi Devi (now deceased), brother Ashish Chaubey, and two sisters. Both sisters were married. Sudha was a government teacher and was to be married. Ashish and Sanjay pursued the case. After the court's decision, Sudha's brother Ashish said, On March 15, 2020, I and my entire family went to Panchmukhi Hanuman Temple for worship. There, Kamlesh Pathak, his brothers Santosh Pathak, Ramu Pathak, their brother-in-law, and other people surrounded and attacked us. In this, our brother Manjul and sister Sudha died. Ashish says, Our elder brother Sanjay Chaubey was shot in the leg. I, my father, and both my sisters were also injured. First of all, I would like to thank the administration, who supported me. They gave me the strength to fight against such a notorious criminal, against whom 80 cases are registered and no one in society dares to speak. I am satisfied with the decision. I had hoped for justice and trusted the court. Today, justice has won. How two close friends became sworn enemies Who is Kamlesh Pathak?",
       "date": "2026-08-20",
@@ -29188,9 +29682,9 @@
     },
     {
       "id": "5b623475ef84383a47adbfe285fc4002",
-      "title": "Gorakhpur News: रामगढ़ताल में चलेगी एसी फेरी, जलमार्ग से जुड़ेंगे चिड़ियाघर, कन्वेंशन सेंटर और नया सवेरा",
+      "title": "UP : रामगढ़ताल में चलेगी 50 सीटर एसी फेरी; जलमार्ग से जुड़ेंगे चिड़ियाघर, कन्वेंशन सेंटर और नया सवेरा",
       "link": "https://www.amarujala.com/gorakhpur/ac-ferries-to-operate-in-ramgarh-tal-zoo-convention-center-and-naya-savera-to-be-connected-via-waterways-gorakhpur-news-c-7-gkp1038-1423039-2026-08-20",
-      "summary": "AC ferries to operate in Ramgarh Tal; zoo, convention center, and Naya Savera to be connected via waterways.",
+      "summary": "रामगढ़ताल की सैर अब और खास होने जा रही है। गोरखपुर विकास प्राधिकरण (जीडीए) ताल पर 50 यात्रियों की क्षमता वाली वातानुकूलित फेरी सेवा शुरू करने की तैयारी में है।",
       "date": "2026-08-20",
       "timestamp": "Thu, 20 Aug 2026 02:42:08 +0530",
       "section": "UP_Focus",
@@ -29305,9 +29799,9 @@
     },
     {
       "id": "584d9ba458a789da68ad927a94864555",
-      "title": "Gorakhpur News: कस्तूरबा विद्यालय से रात में निकलीं तीन छात्राएं, पुलिस ने खोजा",
+      "title": "Gorakhpur: कस्तूरबा विद्यालय से रात में निकलीं 3 छात्राएं, पुलिस ने खंगाले 150 CCTV- 20 घंटे में खोज निकाला",
       "link": "https://www.amarujala.com/gorakhpur/three-students-left-kasturba-vidyalaya-at-night-police-found-them-gorakhpur-news-c-7-gkp1038-1423441-2026-08-20",
-      "summary": "Three students left Kasturba Vidyalaya at night; police found them.",
+      "summary": "राजघाट इलाके के नार्मल स्थित कस्तूरबा गांधी बालिका आवासीय विद्यालय से मंगलवार रात करीब साढ़े आठ बजे तीन छात्राएं अचानक हॉस्टल से निकल गईं।",
       "date": "2026-08-20",
       "timestamp": "Thu, 20 Aug 2026 02:38:42 +0530",
       "section": "UP_Focus",
@@ -29850,6 +30344,19 @@
       "lang": "en"
     },
     {
+      "id": "8d6533311e32c29645831c6bc5156c47",
+      "title": "Budaun Accident: हादसे में गई मां की जान, दो साल का विनोद अस्पताल में मम्मी-मम्मी कहकर रोता रहा",
+      "link": "https://www.amarujala.com/uttar-pradesh/budaun/mother-lost-her-life-in-the-accident-two-year-old-son-kept-crying-in-the-hospital-2026-08-20",
+      "summary": "बदायूं में बुधवार तड़के गंगा एक्सप्रेसवे पर हुआ था भीषण हादसा, दो महिलाओं समेत तीन लोगों की गई थी जान",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:05:13 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "c6fa189a7df98496bd603b2b7f808110",
       "title": "ACB finds irregularities in Karimnagar civic body town planning section",
       "link": "https://www.thehindu.com/news/national/telangana/acb-finds-irregularities-in-karimnagar-civic-body-town-planning-section/article71364475.ece",
@@ -29887,6 +30394,32 @@
       "source": "The Hindu",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "4d855096ef4f98f6d846cb16749d215d",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 20 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-20",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:00:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "917ce686abe332d971bd20a315ee14d1",
+      "title": "पढ़ें 20 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-20",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-20",
+      "timestamp": "Thu, 20 Aug 2026 01:00:17 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "8d2c62e1ab3956c614971b86d7fb2b98",
@@ -86257,6 +86790,97 @@
       "lang": "en"
     },
     {
+      "id": "ff373548dec306b25322b5cc867bd2d9",
+      "title": "In 1970s, Marty Bluewater bought land on island planned for 800 homes; he is now its only resident",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-the-1970s-marty-bluewater-bought-a-small-piece-of-a-washington-island-planned-for-800-homes-decades-later-the-entire-400-acre-island-is-a-wildlife-refuge-and-he-is-its-only-resident/articleshow/133366474.cms",
+      "summary": "Protection Island in Washington was once planned as a holiday community with 800 homes. Marty Bluewater bought a piece of the island in the 1970s, but conservationists later fought to protect its important wildlife habitat. In 1982, the entire 400-acre island became a National Wildlife Refuge. Bluewater was allowed to stay and eventually became its only human resident.",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T12:43:10+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eeafad2a0d9ea1e77b594ba13ff4dc0e",
+      "title": "'Anti-national decision': Amit Shah slams Congress's stand to stick to first two stanzas of Vande Mataram",
+      "link": "https://timesofindia.indiatimes.com/india/anti-national-decision-amit-shah-slams-congresss-stand-to-stick-to-first-two-stanzas-of-vande-mataram/articleshow/133368055.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T12:42:47+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0d193a095e2b4bba106ae56d63d13e3b",
+      "title": "Vietnam seeks to cut death penalty to four crimes under criminal code overhaul",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/vietnam-seeks-to-cut-death-penalty-to-four-crimes-under-criminal-code-overhaul/articleshow/133367813.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T12:39:44+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "52f0602f70e00a61a968a7d4d1952572",
+      "title": "US Air Force major held again days after arrest for calling for Trump’s impeachment",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-air-force-major-held-again-days-after-arrest-for-calling-for-trumps-impeachment/articleshow/133366932.cms",
+      "summary": "A US Air Force major, Jason Watson, finds himself detained once more for voicing his criticism of President Trump and advocating for his impeachment. Currently in pretrial confinement, Watson's refusal to wear his military uniform led to this latest arrest. This incident follows his earlier detention on the Capitol steps for expressing political opinions, showcasing his awareness of the repercussions he faces for his stance.",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T12:34:10+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2dbefc6a8c7f4722b5379a1d030cba0f",
+      "title": "Panic in Amethi as 29 copper spheres emerge from ground during house construction; Archaeology (ASI) team examines suspected ammunition",
+      "link": "https://timesofindia.indiatimes.com/india/panic-in-amethi-as-29-copper-spheres-emerge-from-ground-during-house-construction-archaeology-asi-team-examines-suspected-ammunition/articleshow/133366804.cms",
+      "summary": "During construction work in Bhanauli village, workers discovered twenty-nine large metal spheres buried deep within the ground. These intriguing copper spheres, each measuring sixty centimeters across, resembled ancient munitions. Local police and the Uttar Pradesh Archaeology Department quickly secured the unusual find. Specialists are now engaged in examining the spheres to determine their historical significance and origin, with plans for additional archaeological research to ascertain their context.",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T12:22:20+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "93e7d64111fbe36071ecc8d5c9af66fe",
+      "title": "‘Correct interpretation’: SC upholds broad definition of ‘industry’ laid down in 1978 judgment",
+      "link": "https://timesofindia.indiatimes.com/india/correct-interpretation-sc-upholds-broad-definition-of-industry-laid-down-in-1978-judgment/articleshow/133366928.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T12:19:16+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4d91700de238033e98152e71af9dc8df",
+      "title": "Overnight Russian missile strikes leave 6 dead, 33 wounded across Kyiv",
+      "link": "https://timesofindia.indiatimes.com/world/europe/overnight-russian-missile-strikes-leave-6-dead-33-wounded-across-kyiv/articleshow/133366620.cms",
+      "summary": "",
+      "date": "2026-08-20",
+      "timestamp": "2026-08-20T12:06:46+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "b8e6735bfa611ecbb3ad135ac55b3202",
       "title": "Indian national dies in Israel; suspect arrested, Embassy says probe under way",
       "link": "https://timesofindia.indiatimes.com/india/indian-national-dies-in-israel-suspect-arrested-embassy-says-probe-under-way/articleshow/133366309.cms",
@@ -86271,7 +86895,7 @@
     },
     {
       "id": "2d5dba6c5347768df10196f47807d19f",
-      "title": "Amit Shah chairs Southern Zonal Council meeting in Tamil Nadu Vijay, DKS among key participants",
+      "title": "Amit Shah chairs Southern Zonal Council meeting in Tamil Nadu; Vijay, DKS among key participants",
       "link": "https://timesofindia.indiatimes.com/india/amit-shah-chairs-southern-zonal-council-meeting-in-tamil-nadu-vijay-dks-among-key-participants-key-points/articleshow/133366572.cms",
       "summary": "In Tamil Nadu, Union Home Minister Amit Shah presided over a pivotal Southern Zonal Council meeting, gathering representatives from five states alongside three Union Territories. The discussions focused on crucial matters such as water sharing and infrastructure advancements. This council acts as a vital forum for fostering dialogue between state governments and the Centre, demonstrating a commitment to cooperative federalism and effective dispute resolution.",
       "date": "2026-08-20",
@@ -86492,7 +87116,7 @@
     },
     {
       "id": "f090a6e88c6299e3d5070cf7e41c19e1",
-      "title": "SC orders clinics for periodic health checkup of captive elephants",
+      "title": "SCorders clinics for periodic health checkup of captive elephants",
       "link": "https://timesofindia.indiatimes.com/india/sc-orders-clinics-for-periodic-health-checkup-of-captive-elephants/articleshow/133362744.cms",
       "summary": "The Supreme Court has mandated that the Centre set up specialized clinics for captive elephants, ensuring they receive essential periodic health checkups. Additionally, the ruling requires DNA mapping of each captive elephant to combat illegal trade. The court emphasizes the importance of maintaining these animals' welfare, instructing states to complete DNA profiling to thwart unlawful commercial activities and transfers.",
       "date": "2026-08-20",
