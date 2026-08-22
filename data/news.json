@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:15:19.896588+00:00",
+  "generated_at": "2026-08-22T23:14:40.078048+00:00",
   "stories": [
     {
       "id": "8bc7aa28a435e048a58863eac08f16a6",
@@ -39579,7 +39579,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-23",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-23",
-      "timestamp": "Sun, 23 Aug 2026 03:30:24 +0530",
+      "timestamp": "Sun, 23 Aug 2026 04:30:24 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -39587,17 +39587,43 @@
       "lang": "en"
     },
     {
-      "id": "8c33fbf1ebb9c3f50653f145dd555d48",
-      "title": "पढ़ें 23 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-23",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "id": "4d87eed880228e295c2127fd659a5355",
+      "title": "चीनी की जमाखोरी पर सख्ती: 70 से 80 रुपये तक पहुंचे दाम, यूपी समेत इन राज्यों में निगरानी के निर्देश जारी",
+      "link": "https://www.amarujala.com/india-news/sugar-hoarding-crackdown-prices-reach-rs-70-to-80-surveillance-orders-issued-in-up-other-state-2026-08-23",
+      "summary": "चीनी की जमाखोरी पर सख्ती: 70 से 80 रुपये तक पहुंचे दाम, यूपी समेत इन राज्यों में निगरानी के निर्देश जारी",
       "date": "2026-08-23",
-      "timestamp": "Sun, 23 Aug 2026 03:30:12 +0530",
+      "timestamp": "Sun, 23 Aug 2026 04:30:24 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "8c33fbf1ebb9c3f50653f145dd555d48",
+      "title": "पढ़ें 23 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-23",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-23",
+      "timestamp": "Sun, 23 Aug 2026 04:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "76e77090750f00edc9812bcbb9f4e79f",
+      "title": "Canada retaliates as trade war with U.S. escalates",
+      "link": "https://www.thehindu.com/news/international/canada-retaliates-as-trade-war-with-us-escalates/article71379056.ece",
+      "summary": "Negotiations between the neighbouring countries broke down on August 21 in Washington, putting into force new 50% U.S. tariffs impacting about $20 billion worth of goods, or 5.5% of Canadian exports to the United States",
+      "date": "2026-08-23",
+      "timestamp": "Sun, 23 Aug 2026 03:41:26 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "f4da1d3d253fe38f66f933dcc80cbae5",
@@ -50620,6 +50646,19 @@
       "section": "National",
       "report_category": "National_Opposition",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ab5edc665323fe99957330724a6249da",
+      "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+      "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+      "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
+      "date": "2026-08-22",
+      "timestamp": "Sat, 22 Aug 2026 22:29:07 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -97095,6 +97134,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "474d334a43285c262ba3f155291b5202",
+      "title": "'Vanished from tracking system': How Panama-flagged cargo ship with 24 on board sank off Odisha coast",
+      "link": "https://timesofindia.indiatimes.com/india/vanished-from-tracking-system-how-panama-flagged-cargo-ship-with-24-on-board-sank-off-odisha-coast/articleshow/133432951.cms",
+      "summary": "",
+      "date": "2026-08-22",
+      "timestamp": "2026-08-23T03:55:18+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
