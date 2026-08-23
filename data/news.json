@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:14:50.303452+00:00",
+  "generated_at": "2026-08-23T23:14:50.488771+00:00",
   "stories": [
     {
       "id": "8bc7aa28a435e048a58863eac08f16a6",
@@ -71416,7 +71416,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-24",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-24",
-      "timestamp": "Mon, 24 Aug 2026 03:30:23 +0530",
+      "timestamp": "Mon, 24 Aug 2026 04:30:25 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -71429,12 +71429,25 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-24",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-24",
-      "timestamp": "Mon, 24 Aug 2026 03:30:10 +0530",
+      "timestamp": "Mon, 24 Aug 2026 04:30:12 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "f7a067f476226f08d30f76ea1a5f4f1e",
+      "title": "लखनऊ: रेलवे सिग्नल ब्लास्ट साजिश में चार संदिग्ध आतंकियों के खिलाफ चार्जशीट, एटीएस ने किया पुख्ता सबूत का दावा",
+      "link": "https://www.amarujala.com/lucknow/lucknow-chargesheet-filed-against-four-suspected-terrorists-in-railway-signal-blast-plot-2026-08-24",
+      "summary": "आलमनगर रेलवे स्टेशन से गिरफ्तार किए गए चार संदिग्ध आतंकियों के खिलाफ एटीएस ने चार्जशीट दाखिल कर दी है।",
+      "date": "2026-08-24",
+      "timestamp": "Mon, 24 Aug 2026 03:47:10 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
     },
     {
       "id": "6ea7ddbc76de08e671fa3a4468f01cfd",
@@ -71707,6 +71720,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "a04f4e8ae9ec02f73797cf4d33d13ca6",
+      "title": "Aaditya Thackeray accuses BMC of giving open spaces to institutions linked to BJP lawmakers",
+      "link": "https://www.thehindu.com/news/national/maharashtra/aaditya-thackeray-accuses-bmc-of-giving-open-spaces-to-institutions-linked-to-bjp-lawmakers/article71382237.ece",
+      "summary": "Aaditya Thackeray warned, he would do a sit-in outside the BMC office to reclaim the open spaces",
+      "date": "2026-08-24",
+      "timestamp": "Mon, 24 Aug 2026 02:45:03 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -98109,6 +98135,45 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6032f9cdc63959959a6f73319b59c65a",
+      "title": "Change in revenue record doesn't create, end property title: SC",
+      "link": "https://timesofindia.indiatimes.com/india/change-in-revenue-record-doesnt-create-end-property-title-sc/articleshow/133448459.cms",
+      "summary": "",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-24T04:20:49+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3b1b81efb99913bf68f77cfbbaf361d7",
+      "title": "Parliament monsoon session yet to be prorogued, BJP, Congress face off over women’s bill",
+      "link": "https://timesofindia.indiatimes.com/india/monsoon-session-yet-to-be-prorogued-bjp-congress-face-off-over-womens-bill/articleshow/133448409.cms",
+      "summary": "",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-24T03:53:04+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6f6ead7e7a323c7f0efdc718ebbe8739",
+      "title": "'Killed Nijjar for drug trafficking': Goldy Brar in leaked audio",
+      "link": "https://timesofindia.indiatimes.com/india/killed-nijjar-for-drug-trafficking-goldy-brar-in-leaked-audio/articleshow/133447346.cms",
+      "summary": "Using youth for drugs, P 6",
+      "date": "2026-08-23",
+      "timestamp": "2026-08-24T03:44:28+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
