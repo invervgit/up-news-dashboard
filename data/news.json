@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:19:37.226389+00:00",
+  "generated_at": "2026-08-25T23:19:48.526022+00:00",
   "stories": [
     {
       "id": "9bd4ea40099968ab8e014da782514389",
@@ -54,12 +54,12 @@
       "lang": "en"
     },
     {
-      "id": "99e3d9dc55e06b15763a4badf79f8e74",
-      "title": "Village in Raebareli tense after mud smeared on Ambedkar’s statue",
-      "link": "https://www.thehindu.com/news/national/uttar-pradesh/village-in-raebareli-tense-after-mud-smeared-on-ambedkars-statue/article71389654.ece",
-      "summary": "The police assured the villagers of swift identification of the culprits and strict legal action; police have been deployed in the village as a precautionary measure, and the situation is under control",
+      "id": "af5f71e1d38174ce575534bb740e3277",
+      "title": "Suvendu vows to keep Mamata off the streets, TMC chairperson says not taking political sanyas",
+      "link": "https://www.thehindu.com/news/national/west-bengal/suvendu-vows-to-keep-mamata-off-the-streets-tmc-chairperson-says-not-taking-political-sanyas/article71389096.ece",
+      "summary": "Over the past few years, the politics in West Bengal has hinged on the electoral contest between Suvendu Adhikari and Mamata Banerjee",
       "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 03:44:49 +0530",
+      "timestamp": "Wed, 26 Aug 2026 04:43:06 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
@@ -72,7 +72,7 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-26",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 03:30:26 +0530",
+      "timestamp": "Wed, 26 Aug 2026 04:30:25 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
@@ -85,12 +85,51 @@
       "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-26",
       "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
       "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 03:30:13 +0530",
+      "timestamp": "Wed, 26 Aug 2026 04:30:12 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "2bdd298001086bc279b46beccc8ecddc",
+      "title": "Iran, Oman hold talks on managing Strait of Hormuz",
+      "link": "https://www.thehindu.com/news/international/iran-oman-hold-talks-on-managing-strait-of-hormuz/article71390541.ece",
+      "summary": "A joint statement by the two countries said the proposed framework includes a “joint temporary navigational corridor” and both countries working to clear mines from the waterway",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 04:17:21 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0a93d8653c38bbd811dc95313110159e",
+      "title": "When sea food edged out catch from river",
+      "link": "https://www.thehindu.com/news/cities/chennai/when-sea-food-edged-out-catch-from-river/article71385832.ece",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 04:00:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "99e3d9dc55e06b15763a4badf79f8e74",
+      "title": "Village in Raebareli tense after mud smeared on Ambedkar’s statue",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/village-in-raebareli-tense-after-mud-smeared-on-ambedkars-statue/article71389654.ece",
+      "summary": "The police assured the villagers of swift identification of the culprits and strict legal action; police have been deployed in the village as a precautionary measure, and the situation is under control",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 03:44:49 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "cb31221710eb3319959507ac982ad6e1",
@@ -327,6 +366,19 @@
       "lang": "en"
     },
     {
+      "id": "ef7c89c05a31927be04d8a88dfa0381b",
+      "title": "BJD criticises proposal to lease out Bhubaneswar airport to private entity",
+      "link": "https://www.thehindu.com/news/national/odisha/bjd-criticises-proposal-to-lease-out-bhubaneswar-airport-to-private-entity/article71389636.ece",
+      "summary": "Biju Patnaik International Airport is estimated to be worth between ₹5,000 crore and ₹7,000 crore, while around 50 lakh people use this airport every year, BJD says",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 02:50:42 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "59b36815be282cdb66fd9966be5f5023",
       "title": "Gorakhpur News: मार्ट में महिला के पर्स से चोरी की कोशिश, चार शातिर महिलाएं पकड़ी गईं",
       "link": "https://www.amarujala.com/gorakhpur/attempt-to-steal-from-a-womans-purse-at-a-mart-four-cunning-women-caught-gorakhpur-news-c-7-gkp1038-1429495-2026-08-26",
@@ -350,6 +402,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "08c29374a94d0087b1258278562f8f1a",
+      "title": "U.P. Congress president urges PM Modi to review ethanol-blended fuel policy; questions rising sugar prices",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/up-congress-president-urges-pm-modi-to-review-ethanol-blended-fuel-policy-questions-rising-sugar-prices/article71389468.ece",
+      "summary": "Ajay Rai reminded the Prime Minister that he had previously written to the latter on July 7, addressing “scientific, economic, environmental, and consumer interest-related inquiries” regarding ethanol-blended fuels",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 02:50:13 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -14120,6 +14185,19 @@
       "lang": "en"
     },
     {
+      "id": "9c3f9d7aec3894008a29c809a17dcd3a",
+      "title": "योगी कैबिनेट का बड़ा फैसला, MBBS-BDS इंटर्न डॉक्टरों का स्टाइपेंड 12 हजार से बढ़कर 25 हजार रुपये हुआ",
+      "link": "https://www.patrika.com/lucknow-news/yogi-cabinetup-mbbs-bds-intern-doctor-stipend-hike-20860724",
+      "summary": "UP Intern Doctor Stipend Hike: उत्तर प्रदेश में चिकित्सा शिक्षा से जुड़े छात्रों के लिए योगी सरकार ने बड़ी राहत की घोषणा की है। राज्य के सरकारी मेडिकल कॉलेजों, चिकित्सा संस्थानों और चिकित्सा विश्वविद्यालयों में रोटेटिंग इंटर्नशिप कर रहे एमबीबीएस और बीडीएस छात्रों के मासिक स्टाइपेंड में भारी बढ़ोतरी की गई है। मंगलवार को हुई राज्य कैबिनेट की बैठक में इस अहम प्रस्ताव को मंजूरी मिल गई, जिसके तहत अब इंटर्न डॉक्टरों को 12 हजार रुपये के बजाय 25 हजार रुपये प्रतिमाह स्टाइपेंड दिया जाएगा।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 23:42:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "d4f8b6f5c1f8d280ab38117de04844ea",
       "title": "जिस वंदे भारत ट्रेन से यात्रा कर रही थीं UP की राज्यपाल आनंदीबेन पटेल, उस पर गुजरात में पथराव; पुलिस ने एक को दबोचा",
       "link": "https://www.livehindustan.com/gujarat/man-held-near-surat-hurls-stones-at-vande-bharat-train-with-governor-anandiben-patel-on-board-201787680883513.html",
@@ -14627,6 +14705,19 @@
       "lang": "en"
     },
     {
+      "id": "ee77d5e3a8dd348c5d3a4ab8e6315e51",
+      "title": "Brazil fines TikTok $30m for child data privacy violations",
+      "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
+      "summary": "Owner ByteDance ordered to erase illegally obtained child data in Brazil as crackdown on tech giants intensifies.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 22:06:49 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7d21c451e215a120a278d13b1402aff1",
       "title": "Wearing a headscarf has not been established as an ‘essential religious practice’ for women in Islam: Allahabad HC",
       "link": "https://www.thehindu.com/news/national/wearing-a-headscarf-has-not-been-established-as-an-essential-religious-practice-for-women-in-islam-allahabad-hc/article71388318.ece",
@@ -14636,6 +14727,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "822d3a2cf38de5e77b7e769a3b9f2c5d",
+      "title": "Why can’t America agree on what time it is?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
+      "summary": "Why can’t America agree on what time it is?",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 22:05:42 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -102919,6 +103023,19 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "48758c8cb521a692745d38e1c3a6dbcf",
+      "title": "'I don't support the rally': Zohran Mamdani opposes RSS chief Mohan Bhagwat's Madison Square event",
+      "link": "https://timesofindia.indiatimes.com/india/i-dont-support-the-rally-zohran-mamdani-opposes-rss-chief-mohan-bhagwats-madison-square-event/articleshow/133524946.cms",
+      "summary": "Bhagwat is scheduled to address around 5,000 members of the Indian diaspora at the iconic New York venue on August 29. His visit to the United States is part of the Rashtriya Swayamsevak Sangh's centenary-year global outreach programme. \"I don't support the rally, but I don't know if the city has any jurisdiction on cancelling a private event,” Mamdani said at a news conference on Tuesday.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-26T03:46:10+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
