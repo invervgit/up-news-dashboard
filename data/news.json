@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T18:31:18.369426+00:00",
+  "generated_at": "2026-08-25T19:25:49.186508+00:00",
   "stories": [
     {
       "id": "c85f6283843fd32f30e796380102e8c8",
@@ -7,11 +7,232 @@
       "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-26",
       "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
       "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 12:00:51 +0530",
+      "timestamp": "Wed, 26 Aug 2026 12:30:26 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2a962a0d5a8fded5a657612e7a599d84",
+      "title": "पढ़ें 26 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-26",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 12:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "9bd4ea40099968ab8e014da782514389",
+      "title": "Ayodhya News: राम मंदिर के 30 बैंक लॉकरों का फोरेंसिक सत्यापन तेज",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/forensic-verification-of-30-ram-mandir-bank-lockers-accelerated-ayodhya-news-c-97-1-ayo1002-157239-2026-08-26",
+      "summary": "राम मंदिर के 30 बैंक लॉकरों का फोरेंसिक सत्यापन तेज",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 12:08:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "c1aff5a13e4f93de4157cd8b4492140c",
+      "title": "Noida News: घर में घुसकर नकदी और सामान चोरी करने का आरोप",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/dfsg-grnoida-news-c-1-noi1095-4650296-2026-08-26",
+      "summary": "घर में घुसकर नकदी और सामान चोरी करने का आरोप",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 12:06:23 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
+      "id": "e5a38e56df9a7d04c609c12f0ce72d05",
+      "title": "Ayodhya News: जमीन के विवाद में बुजुर्ग की हत्या के दोषी को उम्रकैद",
+      "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/life-imprisonment-to-the-person-found-guilty-of-murdering-an-elderly-person-in-a-land-dispute-ayodhya-news-c-97-1-ayo1044-157265-2026-08-26",
+      "summary": "जमीन के विवाद में बुजुर्ग की हत्या के दोषी को उम्रकैद",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 12:04:07 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Ayodhya",
+      "lang": "en"
+    },
+    {
+      "id": "8174c3b3a22289917a8fae1a841a7414",
+      "title": "Weather Update: रिमझिम बारिश से गर्मी से मिली राहत, दो दिन तक ऐसा ही रहेगा मौसम",
+      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/weather-update-light-rain-brings-relief-from-heat-weather-to-remain-similar-for-two-days-2026-08-25",
+      "summary": "झारखंड में बने निम्न दबाव के असर से कानपुर परिक्षेत्र में मंगलवार को दिन भर रिमझिम बारिश होती रही। घने बादल छाए रहने की वजह से धूप नहीं निकली।",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 12:03:44 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8865419261d49081a3cca1301da7a86d",
+      "title": "NYC Mayor Mamdani opposes RSS chief Bhagwat's Madison Square event",
+      "link": "https://www.thehindu.com/news/national/nyc-mayor-mamdani-opposes-rss-chief-bhagwats-madison-square-event/article71390368.ece",
+      "summary": "Zohran Mamdani said the vision of India that his family taught him was that of \"a pluralistic society, of a secular republic that believed in the belonging of each and every person who was from India\"",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:48:34 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "77b5e0366dd45b0abd7a031145861199",
+      "title": "Several injured as police stop Bihar students’ protest march",
+      "link": "https://www.thehindu.com/news/national/bihar/students-in-bihar-break-through-barricades-in-bid-to-gherao-cm-residence-police-use-water-cannons/article71387958.ece",
+      "summary": "Protesting since August 18, the students have made several demands, including conducting a single Teacher Recruitment Examination",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:48:31 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f5c7b6c4c47b2a0158c30d4d87e90e3a",
+      "title": "Allahabad High Court orders relocation of Hathras victim’s family to Ghaziabad or Noida within three months",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/allahabad-high-court-orders-relocation-ofhathrasvictims-family-to-ghaziabad-or-noida-within-three-months/article71390348.ece",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:48:24 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3e0fefe279395c2d829dc124c7146377",
+      "title": "KPSC chairman suspended for second time by Governor",
+      "link": "https://www.thehindu.com/news/national/karnataka/kpsc-chairman-suspended-for-second-time-by-governor/article71389720.ece",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:45:38 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bba235beacfce6af6f73dcb073545a0c",
+      "title": "SIR in Karnataka: Chief Minister seeks more time for SIR claims, verification",
+      "link": "https://www.thehindu.com/news/national/karnataka/sir-in-karnataka-cm-dk-shivakumar-writes-to-cec-seeking-extension-of-deadline-for-filing-claims-and-objections/article71388648.ece",
+      "summary": "‘Mobility should not translate into disenfranchisement,’ Shivakumar said in his letter to the ECI",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:44:07 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "051f6a8f8254257c9d14d97c29390985",
+      "title": "BJP to take out a 10-day padayatra from Raichur to Ballari from September 1",
+      "link": "https://www.thehindu.com/news/national/karnataka/bjp-to-take-out-a-10-day-padayatra-from-raichur-to-ballari-from-september-1/article71389707.ece",
+      "summary": "A day after the Monsoon Session of the State legislature was adjourned abruptly, the Bharatiya Janata Party announced that it will launch a 10-day padayatra from Raichur to Ballari from September 1 to create awareness against the alleged failures of the Congress government",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:41:58 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "504405d5efc56b99ff7f7f6f580e2935",
+      "title": "Karnataka Food Safety Department gives food businesses 15 days to rectify violations",
+      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-food-safety-department-gives-food-businesses-15-days-to-rectify-violations/article71389749.ece",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:41:06 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0ce32b3ffd9b029dc4ee42be7b81e753",
+      "title": "U.S. country music legend Dolly Parton dies at 80: family",
+      "link": "https://www.thehindu.com/entertainment/music/us-country-music-legend-dolly-parton-dies-at-80-family/article71390340.ece",
+      "summary": "The multiple award-winning artist had “opened doors for generations of singers, songwriters, musicians, and dreamers from every walk of life, said Dolly Parton’s nephew",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:18:51 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "08e7a73a17362710370347aaef381da1",
+      "title": "Clandestine pan masala and tobacco unit in Medchal-Malkajgiri unearthed",
+      "link": "https://www.thehindu.com/news/national/telangana/clandestine-pan-masala-and-tobacco-unit-in-medchal-malkajgiri-unearthed/article71389621.ece",
+      "summary": "₹160 crore evasion detected",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:12:41 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "73395e4808d23b7c963b2a47f4d756a7",
+      "title": "NMDC launches 3-month campaign ahead of Vigilance Awareness Week",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/nmdc-launches-3-month-campaign-ahead-of-vigilance-awareness-week/article71389764.ece",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:12:07 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3ba3dc027c5530150ee3001dd3cf8ee0",
+      "title": "Pharmacy worker arrested for illegally supplying prescription drugs, ₹4.8 lakh worth of drugs seized",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/pharmacy-worker-arrested-for-illegally-supplying-prescription-drugs-48-lakh-worth-of-drugs-seized/article71389806.ece",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:11:24 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e5fa2e405638198bafb01e77d7962561",
+      "title": "Cyberabad civic body demolishes 17 unauthorised constructions across three zones",
+      "link": "https://www.thehindu.com/news/cities/Hyderabad/cyberabad-civic-body-demolishes-17-unauthorised-constructions-across-three-zones/article71389932.ece",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 00:09:47 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
       "lang": "en"
     },
     {
@@ -12625,6 +12846,19 @@
       "lang": "en"
     },
     {
+      "id": "e75a7c983a91c3a11834a5ce666b00aa",
+      "title": "Luxembourg firm iPC to invest ₹83,480 cr. in integrated green hydrogen, data centre project in Karnataka",
+      "link": "https://www.thehindu.com/news/national/karnataka/luxembourg-firm-ipc-to-invest-83480-cr-in-integrated-green-hydrogen-data-centre-project-in-karnataka/article71389590.ece",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 23:58:44 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "53be019a7876fd11abe1d047cf4ad218",
       "title": "Nagenthran calls for accountability as children fall ill after consuming contaminated food",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/nagenthran-calls-for-accountability-as-children-fall-ill-after-consuming-contaminated-food/article71387630.ece",
@@ -12677,14 +12911,27 @@
       "lang": "en"
     },
     {
-      "id": "77b5e0366dd45b0abd7a031145861199",
-      "title": "Students’ protest in Patna turns violent",
-      "link": "https://www.thehindu.com/news/national/bihar/students-in-bihar-break-through-barricades-in-bid-to-gherao-cm-residence-police-use-water-cannons/article71387958.ece",
-      "summary": "Protesting since August 18, the students have made several demands, including conducting a single Teacher Recruitment Examination",
+      "id": "d4f8b6f5c1f8d280ab38117de04844ea",
+      "title": "जिस वंदे भारत ट्रेन से यात्रा कर रही थीं UP की राज्यपाल आनंदीबेन पटेल, उस पर गुजरात में पथराव; पुलिस ने एक को दबोचा",
+      "link": "https://www.livehindustan.com/gujarat/man-held-near-surat-hurls-stones-at-vande-bharat-train-with-governor-anandiben-patel-on-board-201787680883513.html",
+      "summary": "उत्तर प्रदेश की राज्यपाल आनंदीबेन पटेल केंद्र शासित प्रदेश दमन के प्रशासन द्वारा दमन में आयोजित एक कार्यक्रम में शामिल होने के बाद वापी स्टेशन से ट्रेन में सवार हुई थीं।",
       "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 23:44:58 +0530",
+      "timestamp": "Tue, 25 Aug 2026 23:36:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "68753ea989d1f1487fff0bcb17c180ec",
+      "title": "The recruitment controversy in Andhra Pradesh",
+      "link": "https://www.thehindu.com/opinion/op-ed/the-recruitment-controversy-in-andhra-pradesh/article71390255.ece",
+      "summary": "The competitive accounting of examination scandals may not appeal to Gen Z",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 23:35:18 +0530",
       "section": "National",
-      "report_category": "National_Opposition",
+      "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -12716,6 +12963,32 @@
       "lang": "en"
     },
     {
+      "id": "7bccd4e2a774fb9508ca8da997929c78",
+      "title": "बेटे को बचाने के लिए मां ने दे दी अपनी जान, हमलावरों ने पीट-पीटकर मार डाला",
+      "link": "https://www.livehindustan.com/uttar-pradesh/mother-sacrifices-her-life-to-save-her-son-beaten-to-death-by-assailants-201787679775504.html",
+      "summary": "मनोज पुत्र जसपाल ने बताया कि सोमवार रात करीब साढ़े दस बजे उसके कुनबे के तीन भाई और भतीजा लाठी डंडे लेकर उसके घर में घुस आए और गाली गलौज करते मारपीट शुरू कर दी। जब हमलावर मनोज और उसके भाई विकास को पीट रहे थे, तब उनकी 55 वर्षीय मां सुनीता बीच-बचाव में आ गईं।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 23:21:26 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "92807ccaf3f83e86859dc99c4e348633",
+      "title": "कंगना रनौत के बयान पर भड़की सपा, रविदास मेहरोत्रा बोले- ‘कपड़ों पर टिप्पणी करना शर्मनाक’",
+      "link": "https://www.patrika.com/lucknow-news/raviedas-mehrotra-sp-akhilesh-cm-face-up-20860691",
+      "summary": "UP election 2027: लखनऊ में सपा नेता रविदास मेहरोत्रा ने कहा कि उत्तर प्रदेश में भाजपा का विकल्प सिर्फ समाजवादी पार्टी है। विधानसभा के चुनाव होने जा रहे हैं। जनता ने मन बना लिया है कि सपा की सरकार बनानी है और प्रदेश का सीएम अखिलेश यादव को बनाना है। समाजवादी पार्टी के कार्यकर्ता चाहते हैं कि इंडिया गठबंधन की अगुवाई अखिलेश यादव करें। उन्होंने कहा कि भाजपा जनता को मुख्य मुद्दों से भटकाना चाहती है। लेकिन, हम ऐसा नहीं होने देंगे, जनता से जुड़े मुद्दों को हम उठाएंगे।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 23:18:05 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
       "id": "36e6e3a9df23032960b18f38796098e8",
       "title": "Guntur police launch anti-drug awareness ad film",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/guntur-police-launch-anti-drug-awareness-ad-film/article71389263.ece",
@@ -12742,6 +13015,19 @@
       "lang": "en"
     },
     {
+      "id": "9a39d853cd8ba0d75677c052341c67a5",
+      "title": "यूपी में इन इंटर्न्स को अब हर महीने मिलेंगे 25 हजार, योगी सरकार ने बढ़ाया भत्ता",
+      "link": "https://www.livehindustan.com/uttar-pradesh/intern-doctors-in-up-will-now-receive-25000-rupees-per-month-yogi-government-has-increased-their-allowance-201787679074353.html",
+      "summary": "इंटर्न डाक्टरों को उत्तर प्रदेश में पहले 7,500 रुपये प्रतिमाह स्टाइपेंड मिलता था। साल- 2021 में सरकार ने इसे बढ़ा कर 12 हजार रुपये कर दिया था। अब सरकार ने एक बार फिर इसे बढ़ाया है। इसे 25 हजार रुपये प्रतिमाह कर दिया गया है। इस तरह मौजूदा स्टाइपेंड की तुलना में 108 प्रतिशत से अधिक की वृद्धि हुई है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 23:12:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "bd4154e55541ea90a43e8d4f23db9850",
       "title": "West Bengal SIR: Supreme Court demands data on appeals as municipal polls close in",
       "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-sir-supreme-court-demands-data-on-appeals-as-municipal-polls-close-in/article71390014.ece",
@@ -12752,6 +13038,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d096a6ae8abe869dfc1375add68a0a66",
+      "title": "‘इस बार यूपी में भाजपा की होगी विदाई’,कांग्रेस नेता सुप्रिया श्रीनेत का बड़ा दावा, जातिगत जनगणना और कंगना रनौत पर भी साधा निशाना",
+      "link": "https://www.patrika.com/lucknow-news/congress-supriya-shrinate-bjp-up-election-2027-20860679",
+      "summary": "उत्तर प्रदेश के आगामी चुनावी परिदृश्य पर बात करते हुए सुप्रिया श्रीनेत ने दावा किया कि इस बार मुकाबला सीधे प्रदेश की जनता और भाजपा के बीच है। उन्होंने विश्वास जताते हुए कहा कि जनता ने मन बना लिया है और इस बार उत्तर प्रदेश में भाजपा की विदाई तय है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 23:07:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -12817,6 +13116,32 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "41cd71b069197d79970320da2075fb4d",
+      "title": "यूपी में अब हर श्रमिक को देना होगा नियुक्ति पत्र, नियमावली-2026 पर योगी कैबिनेट की मुहर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/every-worker-in-up-must-now-be-issued-an-appointment-letter-yogi-cabinet-approves-the-2026-rules-201787677914326.html",
+      "summary": "यूपी में अब हर श्रमिक को नियुक्ति पत्र देना होगा। हर साल श्रमिकों का नि:शुल्क स्वास्थ्य परीक्षण भी कराया जाएगा। योगी कैबिनेट की बैठक में श्रम विभाग के प्रस्ताव को मंजूरी मिल गई।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 22:58:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "82e30c687278c9aa7472febf9cf7a9e6",
+      "title": "‘निजीकरण ही भाजपा का जुगाड़ है”, JPNIC को लीज पर देने के फैसले पर भड़के अखिलेश यादव",
+      "link": "https://www.patrika.com/lucknow-news/akhilesh-yadav-jpnic-privatization-yogi-government-20860647",
+      "summary": "Jai Prakash Narayan International Centre: मुख्यमंत्री योगी आदित्यनाथ की अध्यक्षता में मंगलवार को हुई कैबिनेट बैठक में गोमतीनगर स्थित जेपीएनआईसी को निजी कंपनियों को 30 साल की लीज पर सौंपने के प्रस्ताव को हरी झंडी दे दी गई। कैबिनेट के फैसले के अनुसार, जयप्रकाश नारायण इंटरनेशनल सेंटर अब रॉकवुड होटल्स एंड रिसॉर्ट्स प्राइवेट लिमिटेड और वृंदावन बॉटलर्स प्राइवेट लिमिटेड के अधीन 30 वर्षों के लिए संचालित होगा।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 22:58:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -12908,6 +13233,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c072875ba0c3e3c9c18677637510b893",
+      "title": "ध्वस्तीकरण होना ही है, लखनऊ में वकीलों के अवैध चैंबर वाली याचिका पर सुप्रीम कोर्ट सख्त",
+      "link": "https://www.livehindustan.com/uttar-pradesh/supreme-court-has-taken-a-stern-stance-regarding-the-petition-concerning-illegal-lawyers-chambers-in-lucknow-201787676595686.html",
+      "summary": "लखनऊ में वकीलों के अवैध चैंबर वाली याचिका पर सुप्रीम कोर्ट सख्त रुख अपनाया। न्यायमूर्ति विक्रम नाथ और न्यायमूर्ति संदीप मेहता की पीठ ने कहा कि ध्वस्तीकरण की कार्रवाई होनी ही है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 22:28:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -13106,6 +13444,19 @@
       "lang": "en"
     },
     {
+      "id": "3b4447fe4e2a08b1391919ccc00a7715",
+      "title": "पत्नी के प्रेमी को मारने के लिए पति ने बुलाए बदमाश, गोली चली तो...",
+      "link": "https://www.livehindustan.com/uttar-pradesh/kairana-husband-hired-goons-to-kill-his-wife-lover-another-young-man-died-after-being-shot-201787674840005.html",
+      "summary": "यूपी के कैराना में एक पति ने अपनी पत्नी के प्रेमी को मारने के लिए अपने साथी बदमाशों को बुलाया। गांव पहुंचे बदमाशों ने फायरिंग कर गांव के एक अन्य युवक की गोली मारकर हत्या कर दी।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 22:04:56 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "8e38f9dc4e554497056f1af7f4a49153",
       "title": "Kharge, Rahul Gandhi write to PM, seek fresh questionnaire for effective caste census",
       "link": "https://www.thehindu.com/news/national/rahul-gandhi-kharge-write-letter-to-pm-modi-asks-for-current-census-questionnaire-to-be-cancelled/article71387810.ece",
@@ -13129,6 +13480,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "11ea8dd58a43419fa4497ecc86b8a819",
+      "title": "‘अखिलेश का ड्रीम प्रोजेक्ट अब 30 साल की लीज पर!’ योगी सरकार का JPNIC को लेकर बड़ा फैसला",
+      "link": "https://www.patrika.com/lucknow-news/jpnic-project-lucknow-30-year-lease-private-companies-yogi-govt-20860486",
+      "summary": "Yogi Cabinet Decision JPNIC Private Companies: समाजवादी पार्टी के राष्ट्रीय अध्यक्ष और पूर्व मुख्यमंत्री अखिलेश यादव के ड्रीम प्रोजेक्ट जयप्रकाश नारायण इंटरनेशनल सेंटर (JPNIC) को लेकर योगी सरकार ने बड़ा फैसला लिया है। लखनऊ के गोमतीनगर स्थित इस सेंटर के संचालन को निजी कंपनियों के हाथों में देने के प्रस्ताव को कैबिनेट ने मंजूरी दे दी है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 22:02:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Patrika",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -13275,6 +13639,19 @@
       "lang": "en"
     },
     {
+      "id": "9fb8aa436829fac547538d15d1f5fb9b",
+      "title": "योगी सरकार ने 25 लाख Gen-Z को दी खुशखबरी, जल्द मिलेंगे टैबलेट; कैबिनेट से मंजूरी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/yogi-government-gives-good-news-to-25-lakh-gen-z-youth-will-get-tablets-soon-cabinet-approves-201787672738944.html",
+      "summary": "योगी सरकार ने जेन-जी को बड़ी खुशखबरी देते हुए 25 लाख टैबलेट खरीद के प्रस्ताव को हरी झंडी दिखा दी है। मंगलवार को हुई योगी कैबिनेट की बैठक में यह निर्णय लिया गया। टैबलेट्स की खरीद के लिए करंंट फाइनेंशियल ईयर में 2,374.60 करोड़ रुपये के बजट की व्यवस्था की गई है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 21:27:58 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "f0fbcee85b9e645aa3549ebe75433929",
       "title": "Villagers help trace two missing students in Vijayapura",
       "link": "https://www.thehindu.com/news/national/karnataka/villagers-help-trace-two-missing-students-in-vijayapura/article71389899.ece",
@@ -13337,6 +13714,19 @@
       "report_category": "National_Judicial",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "280b24a30fc165d2915d750386270607",
+      "title": "अब बस सरकार को ही ठेके पर बेचना बचा है; JPNIC को लीज पर देने के फैसले से भड़के अखिलेश",
+      "link": "https://www.livehindustan.com/uttar-pradesh/now-only-selling-the-government-itself-on-contract-remains-akhilesh-furious-over-the-decision-to-lease-out-jpnic-201787671661441.html",
+      "summary": "अखिलेश ने कहा कि यूपी की भाजपा सरकार ने लखनऊ के JPNIC (जय प्रकाश नारायण इंटरनेशनल सेंटर) को निजी हाथों में सौंपने का निर्णय कैबिनेट में ले लिया है। JPNIC को लीज पर देने के फैसले से भड़के अखिलेश् ने कहा कि अब बस सरकार को ही ठेके पर बेचना बचा है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 21:17:08 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -13405,6 +13795,19 @@
       "lang": "en"
     },
     {
+      "id": "aad65ad1898d2620b96df8884f325bed",
+      "title": "देखभाल नहीं करने वाले बच्चे को संपत्ति से बेदखल कर सकेंगे मां-बाप, योगी सरकार ने बदला कानून",
+      "link": "https://www.livehindustan.com/uttar-pradesh/yogi-cabinet-changes-law-granting-parents-greater-rights-against-neglected-children-201787670958967.html",
+      "summary": "अब बुढ़ापे में यदि संतान काम न आए तो मां-बाप उसे अपनी संपत्ति से बेदखल कर सकेंगे। मां-बाप अपने इस अधिकार का आसानी से इस्तेमाल कर सकें, योगी सरकार इसका भी इंतजाम कर रही है। योगी कैबिनेट बैठक में सरकार ने अधिनियम में संशोधन के साथ ही जल्द एक टोल नंबर जारी करने की भी बात कही है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 21:05:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "9e62471fc5969bef9937b6174bbe5458",
       "title": "Dates of lucky draws for 7,340 affordable flats in Hyderabad (CURE) locations announced",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/dates-of-lucky-draws-for-7340-affordable-flats-in-18-hyderabad-cure-locations-announced/article71389241.ece",
@@ -13439,19 +13842,6 @@
       "timestamp": "Tue, 25 Aug 2026 21:00:55 +0530",
       "section": "National",
       "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "73395e4808d23b7c963b2a47f4d756a7",
-      "title": "NMDC launches 3-month campaign ahead of Vigilance Awareness Week",
-      "link": "https://www.thehindu.com/news/cities/Hyderabad/nmdc-launches-3-month-campaign-ahead-of-vigilance-awareness-week/article71389764.ece",
-      "summary": "",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 20:59:57 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -13600,19 +13990,6 @@
       "lang": "en"
     },
     {
-      "id": "bba235beacfce6af6f73dcb073545a0c",
-      "title": "SIR in Karnataka: Chief Minister seeks more time for SIR claims, verification",
-      "link": "https://www.thehindu.com/news/national/karnataka/sir-in-karnataka-cm-dk-shivakumar-writes-to-cec-seeking-extension-of-deadline-for-filing-claims-and-objections/article71388648.ece",
-      "summary": "‘Mobility should not translate into disenfranchisement,’ Shivakumar said in his letter to the ECI",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 20:48:44 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "d00fd65f1acf67c1ef1a03b201189bab",
       "title": "Three sentenced to life imprisonment in POCSO case",
       "link": "https://www.thehindu.com/news/national/telangana/three-sentenced-to-life-imprisonment-in-pocso-case/article71389765.ece",
@@ -13634,19 +14011,6 @@
       "timestamp": "Tue, 25 Aug 2026 20:45:51 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "08e7a73a17362710370347aaef381da1",
-      "title": "Clandestine pan masala and tobacco unit in Medchal-Malkajgiri unearthed",
-      "link": "https://www.thehindu.com/news/national/telangana/clandestine-pan-masala-and-tobacco-unit-in-medchal-malkajgiri-unearthed/article71389621.ece",
-      "summary": "₹160 crore evasion detected",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 20:41:37 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -14562,6 +14926,19 @@
       "lang": "en"
     },
     {
+      "id": "40215979b4286dd9c8c5bbfe08f96230",
+      "title": "Kurdish-led forces in Syria dissolve after merging with the army",
+      "link": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
+      "summary": "SDF commander campaigns for Kurdish language preservation after decade fighting the Islamic State.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 19:13:52 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "9a5641837f80ff1a508ab6bee1be88fd",
       "title": "Monsoon Session of Karnataka legislature: When confrontation drowned out debate",
       "link": "https://www.thehindu.com/news/national/karnataka/monsoon-session-of-karnataka-legislature-when-confrontation-drowned-out-debate/article71388841.ece",
@@ -14688,6 +15065,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "376c2c38432f0992fcdac0c8273073be",
+      "title": "Israeli protesters block aid trucks from reaching Gaza",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
+      "summary": "Israeli protesters block aid trucks from reaching Gaza",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 19:02:18 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -14978,6 +15368,19 @@
       "lang": "en"
     },
     {
+      "id": "79e9b75968c52573aff6fd182aacf98c",
+      "title": "Syria’s economy poised for improvement after US sanctions removal",
+      "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
+      "summary": "Removal of US sanctions offers Syria a chance to fully rejoin the global financial system after years of isolation.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 18:43:42 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "64ea4578e688efbb0db5a546951e07ee",
       "title": "Air travel from Hyderabad to get cheaper from September 1 as RGIA cuts domestic UDF to ₹515",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/air-travel-from-hyderabad-to-get-cheaper-from-september-1-as-rgia-cuts-domestic-udf-to-515/article71388867.ece",
@@ -15238,6 +15641,19 @@
       "lang": "en"
     },
     {
+      "id": "8485dac474ed5bda7ee292e2b0c3e6dd",
+      "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+      "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+      "summary": "Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 18:13:37 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "293437f2d0349d32c7ac840cefc8374f",
       "title": "Governor extends Milad-un-Nabi greetings",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/governor-extends-milad-un-nabi-greetings/article71387547.ece",
@@ -15261,6 +15677,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "efc7f7c0b1add0cd6fbcb4a36b2e9a9c",
+      "title": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
+      "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
+      "summary": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 18:01:37 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -15811,7 +16240,7 @@
     },
     {
       "id": "12b43127c80f6d1ec67be498770f07b2",
-      "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
+      "title": "Sanctions or missiles? How Gulf will view Trump’s new Iran approach",
       "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
       "summary": "As Washington pressures Tehran, Gulf states weigh sanctions against the risk of escalation.",
       "date": "2026-08-25",
@@ -18878,19 +19307,6 @@
       "lang": "hi"
     },
     {
-      "id": "8174c3b3a22289917a8fae1a841a7414",
-      "title": "Weather Update: रिमझिम बारिश से गर्मी से मिली राहत, दो दिन तक ऐसा ही रहेगा मौसम",
-      "link": "https://www.amarujala.com/uttar-pradesh/kanpur/weather-update-light-rain-brings-relief-from-heat-weather-to-remain-similar-for-two-days-2026-08-25",
-      "summary": "झारखंड में बने निम्न दबाव के असर से कानपुर परिक्षेत्र में मंगलवार को दिन भर रिमझिम बारिश होती रही। घने बादल छाए रहने की वजह से धूप नहीं निकली।",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 11:29:19 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "f960e60a22d91b3b81530a2210aa1dce",
       "title": "NSS कॉन्फ्रेंस: शाह की दो-टूक- देश धर्मशाला नहीं, घुसपैठिए देश की सुरक्षा-अर्थतंत्र के लिए घातक; और क्या बोले?",
       "link": "https://www.amarujala.com/india-news/nss-conference-amit-shah-country-is-not-dharamshala-infiltrators-threat-to-national-security-and-economy-2026-08-25",
@@ -21130,7 +21546,7 @@
       "id": "5df410622804fb3951f68fc35f1bbe36",
       "title": "बांदा में दर्दनाक हादसा: नाला पार करते समय दो महिलाओं समेत तीन की मौत, एक की बची जान",
       "link": "https://www.amarujala.com/uttar-pradesh/kanpur/banda-three-people-including-two-women-die-while-crossing-a-drain-one-survives-2026-08-25",
-      "summary": "नाला पार करते समय दो महिलाओं समेत तीन की जान चली गई। हादसा मरका थाना क्षेत्र में हुआ। बताया जा रहा है कि सभी लोग दिन में नाले के उसपार काम करने गए थे।",
+      "summary": "मरका थाना क्षेत्र के गुजेनी गांव में मंगलवार को बारिश के बाद उफनाए बहा नाले को पार करते समय चार किसान तेज बहाव में बह गए। हादसे में चाची और भतीजे समेत तीन की डूबने से मौत हो गई।",
       "date": "2026-08-25",
       "timestamp": "Tue, 25 Aug 2026 08:09:06 +0530",
       "section": "UP_Focus",
@@ -101060,6 +101476,71 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ab17acb76bd4cac7aad4bb6a4c8e4aef",
+      "title": "India, China to work towards political settlement of boundary question in long-term interests; Beijing stresses package solution",
+      "link": "https://timesofindia.indiatimes.com/india/india-china-to-work-towards-political-settlement-of-boundary-question-in-long-term-interests-beijing-stresses-package-solution/articleshow/133523440.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-26T00:35:14+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cd20873987d0634a7655c3040936474a",
+      "title": "2 killed at NHAI construction sites in J&K",
+      "link": "https://timesofindia.indiatimes.com/india/2-killed-at-nhai-construction-sites-in-jk/articleshow/133522557.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-26T00:12:10+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b81a7e30ef62574d6353ddf30c579414",
+      "title": "Hydel project shutdown triggers power crisis in J&K",
+      "link": "https://timesofindia.indiatimes.com/india/hydel-project-shutdown-triggers-power-crisis-in-jk/articleshow/133522556.cms",
+      "summary": "The prolonged shutdown has widened the region’s power deficit. Jammu & Kashmir’s peak electricity demand stands at about 2,500MW in summer and 3,000MW in winter. With both Baglihar units largely unavailable for most of the past week, Jammu & Kashmir faced a shortfall of nearly 900MW. Built on the Chenab river, Baglihar stages I and II are among Jammu & Kashmir’s key power sources.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-26T00:07:37+05:30",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f60e2abcde2d80e7876ee00744745ed5",
+      "title": "8 terror suspects held in Kashmir; arms-ammo, posters seized",
+      "link": "https://timesofindia.indiatimes.com/india/8-terror-suspects-held-in-kashmir-arms-ammo-posters-seized/articleshow/133522555.cms",
+      "summary": "Six arrests were made in south Kashmir’s Shopian district and two in Pulwama, also in south Kashmir. A cache of arms and ammunition was recovered in north Kashmir’s Sopore district, J&K Police said Tuesday, claiming the action had dealt a major blow to terror networks operating in the Union Territory.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-26T00:03:46+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2f8a7ff5ba02e95aea7e658efd7620e6",
+      "title": "New Mexico has protected nearly 11,000 acres along the Mimbres River as a new wildlife area",
+      "link": "https://timesofindia.indiatimes.com/world/us/new-mexico-has-protected-nearly-11000-acres-along-the-mimbres-river-as-a-new-wildlife-area-safeguarding-historic-water-rights-rare-river-habitat-and-a-2-mile-stretch-of-the-desert-stream/articleshow/133520433.cms",
+      "summary": "In a significant conservation achievement, officials in New Mexico have successfully acquired nearly eleven thousand acres of lush land along the Mimbres River, now designated as a public preserve. This initiative not only safeguards essential water rights and desert habitats for indigenous wildlife but also enhances public access while fostering tourism and outdoor activities. The long-term impact of this effort will greatly benefit the environment and local communities.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T23:53:50+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
