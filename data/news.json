@@ -1,32 +1,6 @@
 {
-  "generated_at": "2026-08-25T19:25:49.186508+00:00",
+  "generated_at": "2026-08-25T20:21:13.717805+00:00",
   "stories": [
-    {
-      "id": "c85f6283843fd32f30e796380102e8c8",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 26 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-26",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 12:30:26 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "2a962a0d5a8fded5a657612e7a599d84",
-      "title": "पढ़ें 26 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-26",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 12:30:12 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
-    },
     {
       "id": "9bd4ea40099968ab8e014da782514389",
       "title": "Ayodhya News: राम मंदिर के 30 बैंक लॉकरों का फोरेंसिक सत्यापन तेज",
@@ -80,16 +54,94 @@
       "lang": "en"
     },
     {
+      "id": "50965e35624c971d1b21ecf435bca6bc",
+      "title": "Kochi wakes to Thiruvonam festivities",
+      "link": "https://www.thehindu.com/news/national/kerala/kochi-wakes-to-thiruvonam-festivities/article71389927.ece",
+      "summary": "Kochi embraces the festive spirit as Onam celebrations gather pace; Thrikkakara temple draws visitors as Onam rituals continue; traffic police deploy additional personnel as festive crowds take to roads",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:34:35 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "8865419261d49081a3cca1301da7a86d",
       "title": "NYC Mayor Mamdani opposes RSS chief Bhagwat's Madison Square event",
       "link": "https://www.thehindu.com/news/national/nyc-mayor-mamdani-opposes-rss-chief-bhagwats-madison-square-event/article71390368.ece",
       "summary": "Zohran Mamdani said the vision of India that his family taught him was that of \"a pluralistic society, of a secular republic that believed in the belonging of each and every person who was from India\"",
       "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 00:48:34 +0530",
+      "timestamp": "Wed, 26 Aug 2026 01:30:58 +0530",
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c85f6283843fd32f30e796380102e8c8",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 26 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-26",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:30:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2a962a0d5a8fded5a657612e7a599d84",
+      "title": "पढ़ें 26 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-26",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:30:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c1c24dd62bb07c3e3d1019a667ccef29",
+      "title": "Major fire engulfs godown at Angamaly",
+      "link": "https://www.thehindu.com/news/national/kerala/major-fire-engulfs-godown-at-angamaly/article71389539.ece",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:28:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6f65a2e7fd1ad617c2efe2b07a56dd62",
+      "title": "IAMC and allied faith organisations protest against Mohan Bhagwat’s event at Madison Square Garden",
+      "link": "https://www.thehindu.com/news/national/iamc-and-allied-faith-organisations-protest-against-mohan-bhagwats-event-at-madison-square-garden/article71390230.ece",
+      "summary": "Held under the banner “No Platform for Hate,” the protest brought together representatives of Muslim, Hindu, Sikh, Christian, Dalit and interfaith organisations",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:26:45 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "76d3f7a5a7272b1b5a6b0635a0671b2f",
+      "title": "यूपी मौसम: पूरा प्रदेश बरसात की चपेट में, आज इन 29 जिलों के लिए भारी बारिश का अलर्ट जारी; यहां बना रिकॉर्ड",
+      "link": "https://www.amarujala.com/lucknow/up-the-entire-state-is-in-the-grip-of-heavy-rain-with-a-heavy-rain-alert-issued-for-these-29-districts-on-we-2026-08-25",
+      "summary": "Weather in UP: यूपी के मौसम में मानसून का असर बना हुआ है।",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:00:27 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -12911,6 +12963,19 @@
       "lang": "en"
     },
     {
+      "id": "489fec2b0a7b7091f8424ce1f61a02fd",
+      "title": "Tamil Nadu can lead India on revenue reform",
+      "link": "https://www.thehindu.com/opinion/op-ed/tamil-nadu-can-lead-india-on-revenue-reform/article71390243.ece",
+      "summary": "A market loan or bond provides cash today while creating a financial liability. It is financing, but not revenue",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 23:43:18 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "d4f8b6f5c1f8d280ab38117de04844ea",
       "title": "जिस वंदे भारत ट्रेन से यात्रा कर रही थीं UP की राज्यपाल आनंदीबेन पटेल, उस पर गुजरात में पथराव; पुलिस ने एक को दबोचा",
       "link": "https://www.livehindustan.com/gujarat/man-held-near-surat-hurls-stones-at-vande-bharat-train-with-governor-anandiben-patel-on-board-201787680883513.html",
@@ -14289,6 +14354,19 @@
       "lang": "en"
     },
     {
+      "id": "ef632678a5999a8053ba95754cd054f8",
+      "title": "Dolly Parton, beloved US country music icon, dies at 80",
+      "link": "https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss",
+      "summary": "Parton won worldwide acclaim for her songwriting, colorful public persona, and reputation for warmth and generosity.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 20:14:21 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "587bf04a371c773f6c1f9ed796c107b2",
       "title": "Government intensifying efforts to resolve Gundrevula project woes, say Ministers",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/government-intensifying-efforts-to-resolve-gundrevula-project-woes-say-ministers/article71389343.ece",
@@ -14338,6 +14416,32 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "19fe9e3f5529a0f1b73b102a0ead861a",
+      "title": "What challenge do ‘cockroach’ protests pose for India’s PM Modi?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss",
+      "summary": "Youth-led movement plans more demonstrations for next month.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 20:08:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c096d2c1d3b863bfed2cee275a19b2a5",
+      "title": "Trump administration: Kennedy Center may be demolished if repairs not made",
+      "link": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
+      "summary": "Department of Justice lawyers told a federal judge the venue 'cannot survive' without the US president's help.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 20:08:33 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -14471,6 +14575,19 @@
       "lang": "en"
     },
     {
+      "id": "ccf1632a0e8ba4dad2748c8409b2269e",
+      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 19:50:57 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "891fa6ea2247f918ec61a59c78397871",
       "title": "Shivamogga: Mother and three children jump into Tunga river; locals rescue two, two others still missing",
       "link": "https://www.thehindu.com/news/national/karnataka/shivamogga-mother-and-three-children-jump-into-tunga-river-locals-rescue-two-two-others-still-missing/article71387290.ece",
@@ -14506,6 +14623,32 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d188a25187ffad6601cdd82f4ef7f80e",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 19:48:14 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1e75cab02a14a503ff7928259b7e127c",
+      "title": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss",
+      "summary": "Omani FM hopes the two countries will 'soon announce' a joint temporary transit corridor through the Strait of Hormuz.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 19:47:51 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -14640,6 +14783,19 @@
       "lang": "en"
     },
     {
+      "id": "8a9aa98c0266f1cef7b9f00a68c3ee6a",
+      "title": "More than 1,300 people arrested by ICE in Virginia and Maryland",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/more-than-1300-people-arrested-by-ice-in-virginia-and-maryland?traffic_source=rss",
+      "summary": "More than 1,300 people were arrested by Immigration and Customs Enforcement (ICE) officers in Virginia and Maryland.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 19:36:12 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "861d0d37b0429e715f4bc6ef22139f17",
       "title": "Supreme Court bars U.P. Police from taking coercive action against journalist who flagged Ram Temple misappropriations",
       "link": "https://www.thehindu.com/news/national/supreme-court-journalist-abhishek-upadhyay-case-coercive-action-investigative-reporting-ayodhyas-ram-temple-donations/article71387721.ece",
@@ -14692,6 +14848,19 @@
       "lang": "en"
     },
     {
+      "id": "34ad35a1c63c883b2b99f08519e056d4",
+      "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+      "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 19:30:37 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "c8787265b58ed4fe7187ef412e595a44",
       "title": "Haveri voters told to verify names in draft electoral rolls",
       "link": "https://www.thehindu.com/news/national/karnataka/haveri-voters-told-to-verify-names-in-draft-electoral-rolls/article71389266.ece",
@@ -14718,6 +14887,32 @@
       "lang": "en"
     },
     {
+      "id": "570a0a4d6164fbd81b20379cc3e4d505",
+      "title": "Two unvaccinated people die of measles in US state of Pennsylvania",
+      "link": "https://www.aljazeera.com/news/2026/8/25/two-unvaccinated-people-die-of-measles-in-us-state-of-pennsylvania?traffic_source=rss",
+      "summary": "Experts warn that declining vaccination rates have opened the door for resurgence of disease once largely eradicated.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 19:27:11 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cda4b44fa799739dbcde6dd669adbad7",
+      "title": "Israeli forces block Palestinian American Lou Ridi from walking on his land",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss",
+      "summary": "Israeli forces told Palestinian American Lou Ridi he cannot walk on his own land in Qusra, while settlers roam freely.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 19:27:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "3ec37a0bc22c890cc4f9cef4c02811ee",
       "title": "Construction of devotee queue complex at Srisailam to begin soon",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/construction-of-devotee-queue-complex-at-srisailam-to-begin-soon/article71389055.ece",
@@ -14727,6 +14922,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bd04b258bc2c27eaa13ee0fcc9af2fc8",
+      "title": "India police clash with protesters a month after Gen Z demonstrations",
+      "link": "https://www.aljazeera.com/news/2026/8/25/india-police-clash-with-protesters-a-month-after-gen-z-demonstrations?traffic_source=rss",
+      "summary": "Police used water cannons and batons as a few thousand protesters broke through security barricades in Bihar's capital.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 19:24:43 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -14927,9 +15135,9 @@
     },
     {
       "id": "40215979b4286dd9c8c5bbfe08f96230",
-      "title": "Kurdish-led forces in Syria dissolve after merging with the army",
+      "title": "Kurdish-led forces in Syria dissolve after merging with army",
       "link": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
-      "summary": "SDF commander campaigns for Kurdish language preservation after decade fighting the Islamic State.",
+      "summary": "Syrian Democratic Forces (SDF) commander campaigns for Kurdish language preservation after decade fighting ISIL.",
       "date": "2026-08-25",
       "timestamp": "Tue, 25 Aug 2026 19:13:52 +0000",
       "section": "International",
@@ -15719,19 +15927,6 @@
       "lang": "en"
     },
     {
-      "id": "ccf1632a0e8ba4dad2748c8409b2269e",
-      "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 17:54:03 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "fd26fcf40404bccb11026d91bd688955",
       "title": "CID conducts searches at KPSC office in Bengaluru",
       "link": "https://www.thehindu.com/news/national/karnataka/cid-conducts-searches-at-kpsc-office-in-bengaluru/article71388080.ece",
@@ -16096,19 +16291,6 @@
       "lang": "en"
     },
     {
-      "id": "d188a25187ffad6601cdd82f4ef7f80e",
-      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 16:56:20 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "ba485d037413cd4cdd17ca05d46594a5",
       "title": "Carlos Baleba joins Manchester United in transfer from Brighton",
       "link": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss",
@@ -16222,6 +16404,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d36fa716735427e577a8767f0d661a0b",
+      "title": "Nigeria's president orders manhunt after kidnappers upload victim video",
+      "link": "https://www.bbc.co.uk/news/articles/c0rewkerdpyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The footage shows dozens of men, women and children sitting in a forest.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:40:11 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -21410,19 +21605,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Noida",
-      "lang": "en"
-    },
-    {
-      "id": "76d3f7a5a7272b1b5a6b0635a0671b2f",
-      "title": "यूपी: पूरा प्रदेश बरसात की चपेट में, बुधवार को इन 29 जिलों के लिए भारी बारिश का अलर्ट जारी; यहां बना रिकॉर्ड",
-      "link": "https://www.amarujala.com/lucknow/up-the-entire-state-is-in-the-grip-of-heavy-rain-with-a-heavy-rain-alert-issued-for-these-29-districts-on-we-2026-08-25",
-      "summary": "Weather in UP: यूपी के मौसम में मानसून का असर बना हुआ है। मौसम विभाग के अनुसार बुधवार को पूर्वी और दक्षिणी यूपी के 29 जिलों में भारी बारिश का अलर्ट जारी किया गया है।",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 08:17:44 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -101476,6 +101658,71 @@
       "section": "International",
       "report_category": "International",
       "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d44c5d3a15add08130017668ecb74fc7",
+      "title": "'We got this wrong': Target says sorry for Halloween costume that looked like racist caricature, pulls it down from collection",
+      "link": "https://timesofindia.indiatimes.com/world/us/we-got-this-wrong-target-says-sorry-for-halloween-costume-that-looked-like-racist-caricature-pulls-it-down-from-collection/articleshow/133524131.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-26T01:34:21+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "dd490847827f59bad300ab5efcbde6f9",
+      "title": "In 1957, Georgia artist Eddie Owens Martin began transforming his inherited farmhouse and seven acres",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1957-georgia-artist-eddie-owens-martin-began-transforming-his-inherited-farmhouse-and-seven-acres-29-years-of-work-created-six-major-structures-and-900-feet-of-painted-walls-now-preserved-as-one-of-americas-most-significant-visionary-art-environments/articleshow/133523954.cms",
+      "summary": "Eddie Owens Martin, an innovative and unconventional artist, dedicated nearly three decades to transforming his land in Georgia into the vibrant, visionary art space known as Pasaquan. He intricately combined various cultural elements through his painted totems and impressive masonry. After years of exposure and deterioration, the Kohler Foundation intervened with a major restoration, breathing new life into this unique site.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-26T01:23:23+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "948532fe4af57fe791faa087a1b4cb18",
+      "title": "Foreign students must make an official request for authorization: ICE issues new memo as colleges pause CPT program; American students will also have to complete training",
+      "link": "https://timesofindia.indiatimes.com/world/us/foreign-students-must-make-an-official-request-for-authorization-ice-issues-new-memo-as-colleges-pause-cpt-program-us-students-will-also-have-to-complete-training/articleshow/133523905.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-26T01:11:06+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "04d1ce701fb87e2f3151c94ff65f10ce",
+      "title": "In 1903, rabbits were released on Hawaii’s Laysan Island as a food source; within a decade...",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1903-rabbits-were-released-on-hawaiis-laysan-island-as-a-food-source-within-a-decade-they-had-nearly-stripped-it-bare-and-three-of-its-five-landbird-species-eventually-went-extinct/articleshow/133523821.cms",
+      "summary": "German immigrant Max Schlemmer introduced rabbits to Laysan Island in 1903 for business and entertainment. These rabbits rapidly consumed vegetation, leading to the extinction of three unique landbird species. President Theodore Roosevelt established the Hawaiian Islands Bird Reservation to protect the remaining wildlife. Federal authorities later removed Schlemmer and eradicated the invasive rabbit population by 1923. Conservationists have since worked to restore the habitat and reintroduce species to the island.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-26T01:09:51+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0f9d91eb86390223a12b56bae111ea53",
+      "title": "Small island states can serve as labs for innovation and tech: Maldives prez",
+      "link": "https://timesofindia.indiatimes.com/india/small-island-states-can-serve-as-labs-for-innovation-and-tech-maldives-prez/articleshow/133523505.cms",
+      "summary": "Delivering a keynote statement at the opening ceremony of the Small Island Developing States Global Business Network (SIDS GBN) Forum 2026, Muizzu outlined an economic modernization plan aimed at turning geographic constraints into digital and strategic advantages. With the global dialogue surrounding small island nations focused on their acute climate risk, geographical isolation, and structural economic constraints, Muizzu stressed that vulnerability represents only half the story.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-26T00:47:16+05:30",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "TOI India",
       "district": "",
       "lang": "en"
     },
