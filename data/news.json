@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:24:52.005779+00:00",
+  "generated_at": "2026-08-25T11:21:18.060837+00:00",
   "stories": [
     {
       "id": "8bc7aa28a435e048a58863eac08f16a6",
@@ -12612,12 +12612,337 @@
       "lang": "en"
     },
     {
+      "id": "6ce04b9ff0cb70101abf902171297088",
+      "title": "Safire theatre in Chennai: Once a cinema landmark, now reduced to nothing",
+      "link": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-safire-theatre-once-a-cinema-landmark-in-chennai-now-reduced-to-nothing/article71369132.ece",
+      "summary": "The Safire Theatre Complex was one of the first multiplex cinema complexes in India",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:42:52 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "30e13fea4049e9e864111ea7d3cb828c",
+      "title": "Arippa land struggle beneficiaries in Keralam face bleak Onam",
+      "link": "https://www.thehindu.com/news/national/kerala/arippa-land-struggle-beneficiaries-in-keralam-face-bleak-onam/article71388372.ece",
+      "summary": "More than 200 landless families are caught in an administrative trap after receiving title deeds, reportedly without Forest dept. NOC; panchayat authorities refuse to issue basic documentation, leaving residents without possession certificates, house numbers, or power connections",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:42:43 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2ace3d469d576cbf76c04ee2535d6ec1",
+      "title": "Bournvita maker acts after notice as FSSAI steps up crackdown on misleading claims",
+      "link": "https://www.thehindu.com/sci-tech/health/bournvita-maker-acts-after-notice-as-fssai-steps-up-crackdown-on-misleading-claims/article71388314.ece",
+      "summary": "The Bournvita issue had drawn scrutiny in 2023 over its sugar content and nutritional claims, particularly its marketing to children",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:41:58 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ba94daa2abb03d99d0efb5f9cd9f0613",
+      "title": "Year after Israeli strikes killed journalists at hospital, no one has been held accountable",
+      "link": "https://www.thehindu.com/news/international/year-after-israeli-strikes-killed-journalists-at-hospital-no-one-has-been-held-accountable/article71388353.ece",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:41:48 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c50d77329ccf6296fc4d84fd6f38ffad",
+      "title": "सीएम योगी की सख्ती पर कानपुर में ऐक्शन, ठेकेदारों के रजिस्ट्रेशन की कमेटी रद्द; पेंमेंट पर तत्काल से रोक",
+      "link": "https://www.livehindustan.com/uttar-pradesh/cm-yogi-strict-action-in-kanpur-nagar-nigam-cancels-contractor-registration-committee-freezes-payments-201787655712401.html",
+      "summary": "सीएम योगी के सख्त आदेश के बाद कानपुर नगर निगम में ताबड़तोड़ ऐक्शन हो रहा है। नगर आयुक्त अर्पित उपाध्याय ने बताया कि जांच सघन स्तर पर हो रही है। फाइलों की पूरी पड़ताल हो रही है। जांच की विस्तृत रिपोर्ट तैयार की जाएगी। हॉट मिक्स प्लांट से हो रहे कार्यों पर सबसे ज्यादा नजर है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:41:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "941cd3760d3b58bfe8984552a056af83",
+      "title": "A hark back to ‘collection king’ Udhayam Theatre in Chennai",
+      "link": "https://www.thehindu.com/news/cities/chennai/a-hark-back-to-collection-king-udhayam-theatre-in-chennai/article71364005.ece",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:41:11 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c42a1e5396f896226f130cc98b1fbbc0",
+      "title": "NEET-UG protests case: Petitioners seek re-constitution of high-powered enquiry committee",
+      "link": "https://www.thehindu.com/news/national/neet-ug-protests-case-petitioners-seek-re-constitution-of-high-powered-enquiry-committee/article71387458.ece",
+      "summary": "They argue that HPEC may be ‘under-equipped’ to enquire into the ‘role of persons occupying the highest levels of the Union Executive, the Ministry of Home Affairs, Delhi Police and the Rapid Action Force’; Clarifies they are not questioning the personal integrity of the HPEC members",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:40:07 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "304f96064c3ff076a45ec6d99aa91392",
+      "title": "OBC creamy-layer criteria: Supreme Court to set up special Bench to hear Centre’s plea",
+      "link": "https://www.thehindu.com/news/national/obc-creamy-layer-judgment-centre-asks-for-cse-2025-2026-to-be-exempted-from-income-test-decision/article71387382.ece",
+      "summary": "The DoPT seeks directions to allow service allocation to 958 CSE-2025 candidates under the OBC creamy-layer criteria applicable before the March 11 verdict",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:40:05 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c998c9e8084abb864eb47c65d7ddd2d3",
+      "title": "Will not allow pilferage of offerings: Supreme Court on ‘siphoning’ of donations at Banke Bihari Temple",
+      "link": "https://www.thehindu.com/news/national/uttar-pradesh/will-not-allow-pilferage-of-offerings-supreme-court-on-siphoning-of-donations-at-banke-bihari-temple/article71388464.ece",
+      "summary": "“...we accordingly direct that every penny of donation must come to the donation boxes or online temple treasury and any impediment created by ‘sevayats’ or anyone else shall be viewed very seriously,” the Supreme Court said",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:38:01 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "77b5e0366dd45b0abd7a031145861199",
+      "title": "Stone-pelting, lathi-charge, water cannons mark students’ protest over BPSC exams",
+      "link": "https://www.thehindu.com/news/national/bihar/students-in-bihar-break-through-barricades-in-bid-to-gherao-cm-residence-police-use-water-cannons/article71387958.ece",
+      "summary": "The students, many of whom were carrying the tricolour in their hands, jostled with the police and broke through barricades at the Dak Bungalow crossing",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:36:53 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b6a9c634ff7150f6f6c96fcbe71d3152",
+      "title": "Farmers from Parandur meet Tamil Nadu CM Vijay, thank him for scrapping airport project",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/farmers-from-parandur-meet-tamil-nadu-cm-vijay-thank-him-for-scrapping-airport-project/article71387925.ece",
+      "summary": "As a gesture of gratitude, the villagers of Ekanapuram have decided to name a lane in their village as C. Joseph Vijay road",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:32:12 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "69edd9385718be341a6219cbeed053db",
+      "title": "Harish Rao cites NDSA affidavit, CWPRS report to lift Kaleshwaram water",
+      "link": "https://www.thehindu.com/news/national/telangana/harish-rao-cites-ndsa-affidavit-cwprs-report-to-lift-kaleshwaram-water/article71388209.ece",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:30:37 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "25e0669345e6e75692ff4569479dff2a",
+      "title": "Delhi HC asks FSSAI not to cancel ITC's licence over ‘100%’ claims",
+      "link": "https://www.thehindu.com/news/national/delhi-hc-asks-fssai-not-to-cancel-itcs-licence-over-100-claims/article71388350.ece",
+      "summary": "In May 2025, FSSAI issued an advisory to all food business operators, asking them to discontinue the usage of “100%” on food product labels, packaging, and promotional content",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:22:49 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9bcf7dcdf0d3b25788143a4e77a0a2c5",
+      "title": "Thaimaman Thanga Mothiram scheme in Tamil Nadu: Work orders issued to two jewellers for supply of gold rings",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/thaimaman-thanga-mothiram-scheme-work-orders-issued-to-joyalukkas-kalyan-jewellers-for-gold-ring-supply/article71375124.ece",
+      "summary": "Joyalukkas and Kalyan Jewellers are expected to supply a total of 1,28,499 one-gram gold rings for a four-month period beginning from June",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:21:32 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "f9a5929737ddcc40fe74f82d63ccf87c",
+      "title": "दान की पाई-पाई भगवान के खजाने में जाए, बांके बिहारी मंदिर के चढ़ावे पर सुप्रीम कोर्ट का अहम आदेश",
+      "link": "https://www.livehindustan.com/uttar-pradesh/supreme-court-issues-important-order-on-offerings-banke-bihari-temple-every-penny-of-donation-should-go-to-god-treasury-201787654249202.html",
+      "summary": "सुप्रीम कोर्ट ने मंदिर की प्रबंध समिति को चढ़ावा प्राप्त करने और उसका हिसाब के लिए एक पारदर्शी सिस्टम स्थापित करने का भी निर्देश दिया है ताकि अनियमितताओं को रोका जा सके और मंदिर को मिलने वाले चढ़ावे का ठीक ढंग से हिसाब रखा जा सके। कोर्ट ने कहा है कि मंदिर में दिया गया दान भगवान के लिए है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:20:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c3400b120a0135f8fc9e0277e62e477e",
+      "title": "वाराणसी में बारिश का कहर, बीएचयू अस्पताल समेत कई इलाकों में भरा पानी, 5 की जान भी गई",
+      "link": "https://www.livehindustan.com/uttar-pradesh/heavy-rain-in-varanasi-waterlogging-in-several-areas-including-bhu-hospital-5-people-lost-their-lives-201787652773993.html",
+      "summary": "उत्तर प्रदेश के कई जिलों में सोमवार रात से ही बारिश हो रही है। वहीं पूर्वांचल में भी बारिश का कहर जारी है। वाराणसी में भारी बारिश से बीएचयू समेत कई इलाकों में पानी भर गया है। वहीं बारिश से दो हादसों में पांच की जान चली गई है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:19:25 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2fef8229c925b82357bfe88a645d77a1",
+      "title": "Gold ring scheme for newborn babies in Tamil Nadu: Doctors’ body flags high security, logistics costs",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/thaimaman-thanga-mothiram-scheme-tn-doctors-body-flags-high-security-logistics-and-costs/article71385134.ece",
+      "summary": "In a district-level costing of the proposed hub-and-spoke model, the SDPGA said the hospital-based arrangement could cost roughly three times the State-wide administrative norm prescribed in the Government Order",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:13:41 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5e37e7244c5627e5a10aa53a85bf7ad0",
+      "title": "Keralam man arrested over uploading wife’s intimate videos online; POCSO charges added after child’s testimony",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-man-arrested-over-uploading-wifes-intimate-videos-online-pocso-charges-added-after-childs-testimony/article71387911.ece",
+      "summary": "In her complaint, woman stated that her husband engaged in domestic abuse when she confronted him after discovering that private recordings made during their time abroad were shared online without her consents",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:13:12 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "10e2a16cfe0bf1af9114d4e8208c6186",
+      "title": "SC declines to direct reopening of CBSE re-evaluation portal for Class 12 answer sheets",
+      "link": "https://www.thehindu.com/education/sc-declines-to-direct-reopening-of-cbse-re-evaluation-portal-for-class-12-answer-sheets/article71388159.ece",
+      "summary": "The bench said the portal was opened for all candidates for a specified period and reopening could trigger fresh claims",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:09:03 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "137e1c59e4a0cd05bab638e382fcaec6",
+      "title": "Education Minister meets officials to review ‘key priorities’ to strengthen CBSE",
+      "link": "https://www.thehindu.com/news/national/education-minister-meets-officials-to-review-key-priorities-to-strengthen-cbse/article71385240.ece",
+      "summary": "CBSE is facing public scrutiny, particularly surrounding its 2026 Class 12 examination evaluation process, issues concerning technological mismanagement and administrative failures, and a trust deficit among students",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:08:23 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9cc627cc6fdc71beee98e51f6fd789cf",
+      "title": "‘I had warned you they would cheat you,’ former Keralam Minister Jaleel tells P.V. Anvar",
+      "link": "https://www.thehindu.com/news/national/kerala/i-had-warned-you-they-would-cheat-you-former-keralam-minister-jaleel-tells-pv-anvar/article71387941.ece",
+      "summary": "Jaleel reminds the former Nilambur MLA that he had warned him against aligning with the United Democratic Front ahead of the Assembly election, saying he would be betrayed",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:03:52 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "132f55b240b5cdb16f80351bd39a616d",
+      "title": "Resignation of six AIADMK MLAs rock Tamil Nadu Assembly",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/resignation-of-6-aiadmk-mlas-rock-tamil-nadu-assembly/article71388316.ece",
+      "summary": "The issue was raised by DMK MLA S. Austin, who complained that the voice of the people in the six constituencies had been crippled and there was no one to represent their views.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:03:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7fed9ca4ace10e5a112e800869c40b54",
-      "title": "Maharashtra Cancels ‘oral’ appointments in Ministerial offices",
+      "title": "Maharashtra cancels ‘oral’ appointments in Ministerial offices",
       "link": "https://www.thehindu.com/news/national/maharashtra/maharashtra-cancels-oral-appointments-in-ministerial-offices/article71388188.ece",
       "summary": "In a circular, Chief Secretary Rajesh Aggarwal directed that all such officials and employees must be sent back to their parent offices by September 10",
       "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 15:39:00 +0530",
+      "timestamp": "Tue, 25 Aug 2026 16:01:24 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "49ec5e17fec9435b0f08074d12c079f7",
+      "title": "Keralam CM Satheesan extends Onam greetings, calls for ‘unity beyond caste and religion’",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-extends-onam-greetings-calls-for-unity-beyond-caste-and-religion/article71388115.ece",
+      "summary": "V.D. Satheesan said “every Onam celebration inspires resilience and self-confidence, reminding people that they are never alone, even during difficult times.”",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 16:00:03 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "900e37a6ae7d706727f1189f5c8cdce2",
+      "title": "Hanur shoot-out: Four cases of attacks on forest staff, anti-poaching camps transferred to CID",
+      "link": "https://www.thehindu.com/news/national/karnataka/hanur-shoot-out-four-cases-of-attacks-on-forest-staff-anti-poaching-camps-transferred-to-cid/article71387776.ece",
+      "summary": "According to reports, 11 anti-poaching camps, staff quarters and government vehicles in the Cauvery and adjoining Male Mahadeshwara wildlife sanctuaries were either allegedly vandalised or damaged, with some camps blown up using explosives.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 15:59:11 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "291aa372b7af20264c276dedc138f0b3",
+      "title": "Govt. approves transfer of DRDO developed missile tech to Indian defence industry",
+      "link": "https://www.thehindu.com/news/national/govt-approves-transfer-of-drdo-developed-missile-tech-to-indian-defence-industry/article71388248.ece",
+      "summary": "The Defence Ministry said the move is an \"important milestone\" in promoting greater participation of the domestic industries in the defence ecosystem",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 15:53:31 +0530",
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
@@ -12690,6 +13015,19 @@
       "lang": "en"
     },
     {
+      "id": "ffec84594170812bf3ec9286cf8617b6",
+      "title": "यूपी के इस शहर में घरों पर क्यों लगाए जा रहे टैग और क्यूआर कोड? जानें नगर निगम की तैयारी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/tags-and-qr-codes-will-be-placed-on-homes-in-bareilly-know-about-nagar-nigam-s-preparations-201787650715569.html",
+      "summary": "इस शहर के करीब सवा दो लाख घरों पर जल्द ही टैग और क्यू आर कोड लगाए जाएंगे। इससे किसी भवन से जुड़ी जानकारी जुटाने में कर्मचारियों को आसानी होगी और रिकॉर्ड अपडेट रखने में भी मदद मिलेगी। किसी संपत्ति से संबंधित शिकायत मिलने पर उसके रिकॉर्ड तक तेजी से पहुंच बनाई जा सकेगी।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 15:27:12 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "2f69ffb3bca3628f3d7785dff3ef729f",
       "title": "Supreme Court dismisses Tarun Tejpal’s plea, directs him to surrender within two weeks",
       "link": "https://www.thehindu.com/news/national/tarun-tejpal-directed-to-surrender-by-september-22-by-supreme-court/article71387965.ece",
@@ -12709,19 +13047,6 @@
       "summary": "The journalist’s appeal follows the State of Goa’s petition in the top court a few days ago for enhancement of his punishment to life imprisonment",
       "date": "2026-08-25",
       "timestamp": "Tue, 25 Aug 2026 15:24:33 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "10e2a16cfe0bf1af9114d4e8208c6186",
-      "title": "SC declines to direct reopening of CBSE re-evaluation portal for Class 12 answer sheets",
-      "link": "https://www.thehindu.com/education/sc-declines-to-direct-reopening-of-cbse-re-evaluation-portal-for-class-12-answer-sheets/article71388159.ece",
-      "summary": "The bench said the portal was opened for all candidates for a specified period and reopening could trigger fresh claims",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 15:15:22 +0530",
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
@@ -12781,32 +13106,6 @@
       "lang": "en"
     },
     {
-      "id": "b6a9c634ff7150f6f6c96fcbe71d3152",
-      "title": "Farmers from Parandur meet Tamil Nadu CM Vijay, thank him for scrapping airport project",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/farmers-from-parandur-meet-tamil-nadu-cm-vijay-thank-him-for-scrapping-airport-project/article71387925.ece",
-      "summary": "As a gesture of gratitude, the villagers of Ekanapuram have decided to name a lane in their village as C. Joseph Vijay road",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 15:13:51 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "49ec5e17fec9435b0f08074d12c079f7",
-      "title": "Keralam CM Satheesan extends Onam greetings, calls for ‘unity beyond caste and religion’",
-      "link": "https://www.thehindu.com/news/national/kerala/keralam-cm-satheesan-extends-onam-greetings-calls-for-unity-beyond-caste-and-religion/article71388115.ece",
-      "summary": "",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 15:13:45 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "360830c89e68e86de6d80c4e5984eba0",
       "title": "The bygone movie theatres of Chennai: a compilation",
       "link": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-the-bygone-movie-theatres-of-chennai-a-compilation/article71383652.ece",
@@ -12833,16 +13132,16 @@
       "lang": "en"
     },
     {
-      "id": "9bcf7dcdf0d3b25788143a4e77a0a2c5",
-      "title": "Thaimaman Thanga Mothiram scheme in Tamil Nadu: Work orders issued to two jewellers for supply of gold rings",
-      "link": "https://www.thehindu.com/news/national/tamil-nadu/thaimaman-thanga-mothiram-scheme-work-orders-issued-to-joyalukkas-kalyan-jewellers-for-gold-ring-supply/article71375124.ece",
-      "summary": "Joyalukkas and Kalyan Jewellers are expected to supply a total of 1,28,499 one-gram gold rings for a four-month period beginning from June",
+      "id": "6ff4feec262f52369bc575677a9ffd57",
+      "title": "Rain IMD Alert: यूपी-बिहार सावधान! अगले तीन दिन मूसलाधार बारिश का अनुमान; एक साथ 2-2 वेदर सिस्टम ऐक्टिव",
+      "link": "https://www.livehindustan.com/weather/heavy-rainfall-forecast-from-up-to-bihar-and-jharkhand-for-next-three-days-imd-rain-alert-two-weather-system-active-201787649908102.html",
+      "summary": "मौसम विभाग ने बताया कि पिछले 24 घंटे में पूर्वी उत्तर प्रदेश के कई जिलों में भारी बारिश हुई है, जबकि मंगलवार को पूर्वी उत्तर प्रदेश में कहीं-कहीं भारी से बहुत भारी बारिश और पश्चिमी उत्तर प्रदेश में कहीं-कहीं भारी बारिश की चेतावनी जारी की है।",
       "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 15:07:01 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
+      "timestamp": "Tue, 25 Aug 2026 15:05:18 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -12854,6 +13153,19 @@
       "timestamp": "Tue, 25 Aug 2026 15:02:24 +0530",
       "section": "National",
       "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c3aeaa6c4b6045ae5debdca1c60ac5d1",
+      "title": "Pakistan, Iran explore reopening Strait of Hormuz, easing West Asia tensions",
+      "link": "https://www.thehindu.com/news/international/pakistan-iran-explore-reopening-strait-of-hormuz-easing-west-asia-tensions/article71387519.ece",
+      "summary": "Army Chief Field Marshal Asim Munir was accompanied by Interior Minister Mohsin Naqvi, concluded a day-long visit to Iran as part of Islamabad’s diplomatic efforts to break the deadlock in the ongoing West Asia conflict",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 15:01:28 +0530",
+      "section": "International",
+      "report_category": "International",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -12882,6 +13194,32 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9335b8551bca6cbdaa8d76e7ea2e1f2a",
+      "title": "स्वाइन फ्लू को लेकर यूपी के इस जिले में बढ़ी सतर्कता, 2 अस्पतालों में 20-20 बेड रिजर्व",
+      "link": "https://www.livehindustan.com/uttar-pradesh/swine-flu-alert-heightened-in-kanpur-district-of-up-two-hospitals-reserve-20-beds-each-201787649410279.html",
+      "summary": "स्वास्थ्य विभाग ने डॉक्टरों और अन्य मेडिकल स्टाफ को संदिग्ध मरीजों की पहचान को लेकर विशेष सतर्कता बरतने को कहा है। निर्देश दिया गया है कि एच1एन1 के लक्षण वाले मरीज मिलने पर इसकी सूचना तत्काल उच्च अधिकारियों को दी जाए, जिससे समय रहते जांच और इलाज की व्यवस्था की जा सके।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 14:55:24 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ba15d1e7bf902da1bad9c7af76182568",
+      "title": "बाराबंकी में भीषण हादसा, डंपर में फंसकर 50 मीटर तक घिसटी कार; मां-बाप और उसके 2 बच्चों की मौत",
+      "link": "https://www.livehindustan.com/uttar-pradesh/horrific-accident-in-barabanki-car-trapped-in-dumper-and-dragged-for-50-meters-parents-and-their-two-children-dead-201787648869075.html",
+      "summary": "यूपी के बाराबंकी जिले में भीषण सड़क हादसा हो गया। तेज रफ्तार डंपर में फंसकर 50 मीटर तक कार घिसटी। हादसे में कार सवार पति-पत्नी और उनके दो बच्चों की मौत हो गई, जबकि सात वर्षीय बच्ची गंभीर रूप से घायल हो गई।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 14:55:14 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -12934,6 +13272,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5c8eb7a21df5adba16822b4f7bf133e2",
+      "title": "चीनी का रेट तत्काल कम करें नहीं तो..., रिटेल दुकानदारों पर इस जिले की डीएम ने कसी नकेल",
+      "link": "https://www.livehindustan.com/uttar-pradesh/lower-sugar-prices-immediately-or-else-dm-cracks-down-on-retail-shopkeepers-201787648135505.html",
+      "summary": "यूपी के बलरामपुर में रिटेल दुकानदारों को चीनी के दाम तत्काल घटाने के डीएम ने निर्देश दिए हैं। डीएम का कहना है कि थोक कीमत में 450 रुपये प्रति कुंतल तक की आई है। ऐसे में रिटेल में भी दाम कम करें। दाम कम न करने और जमाखोरी पर ऐक्शन की चेतावनी भी दी है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 14:44:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -13051,6 +13402,19 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c4fcd5de4a2cdf554a5192b882aa4195",
+      "title": "गुड न्यूज: गोरखपुर होते हुए गुजरात पहुंचाएगी अमृतभारत एक्सप्रेस, मिली मंजूरी",
+      "link": "https://www.livehindustan.com/uttar-pradesh/good-news-amrit-bharat-express-will-reach-gujarat-via-gorakhpur-railway-board-gave-approval-201787647256988.html",
+      "summary": "अभी गुजरात के लिए एकमात्र सीधी ट्रेन गोरखपुर से चलती है। गोरखपुर होते हुए गांधीधाम तक अमृतभारत ट्रेन में कुल 22 कोच लगाए जाएंगे। इसके पहले बोर्ड गोरखपुर से दिल्ली और मुम्बई (बांद्रा) के लिए अमृतभारत की मंजूरी दे चुका है। वहीं, बिहार से चलकर गोरखपुर के रास्ते 4 अमृत भारत ट्रेनों का संचालन हो रहा है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 14:22:49 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -13275,16 +13639,16 @@
       "lang": "en"
     },
     {
-      "id": "304f96064c3ff076a45ec6d99aa91392",
-      "title": "OBC creamy layer judgment: Centre seeks exemption for 2025 and 2026 civil service examination recruitments",
-      "link": "https://www.thehindu.com/news/national/obc-creamy-layer-judgment-centre-asks-for-cse-2025-2026-to-be-exempted-from-income-test-decision/article71387382.ece",
-      "summary": "The Union government has noted that the implementation of this judgment will lead to a cascade of litigation from previous years’ candidates of not just civil service examination but also all other aspects of government recruitment",
+      "id": "16ee051a3996092a59c2452908b9c719",
+      "title": "UP Rain: यूपी के इस इलाके में अगले 24 घंटे में बहुत भारी बारिश का अलर्ट, दो दिन जारी रहेगा ऐसा ही दौर",
+      "link": "https://www.livehindustan.com/uttar-pradesh/up-rain-alert-for-very-heavy-rainfall-in-east-over-next-24-hours-similar-conditions-to-persist-two-days-201787645867725.html",
+      "summary": "एक तरफ सोमवार शाम से ही यूपी में बारिश ने कई जिलों को बेहाल कर रखा है। दूसरी तरफ मौसम विभाग ने एक बार फिर अगले 24 घंटे में भारी से बहुत भारी बारिश का अलर्ट जारी किया है।",
       "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 14:08:10 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
+      "timestamp": "Tue, 25 Aug 2026 14:11:41 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -13309,19 +13673,6 @@
       "timestamp": "Tue, 25 Aug 2026 14:03:04 +0530",
       "section": "National",
       "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "77b5e0366dd45b0abd7a031145861199",
-      "title": "Students in Bihar break through barricades in bid to gherao CM residence, police use water cannons",
-      "link": "https://www.thehindu.com/news/national/bihar/students-in-bihar-break-through-barricades-in-bid-to-gherao-cm-residence-police-use-water-cannons/article71387958.ece",
-      "summary": "The students, many of whom were carrying the tricolour in their hands, jostled with the police and broke through barricades at the Dak Bungalow crossing",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 14:00:47 +0530",
-      "section": "National",
-      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -13847,19 +14198,6 @@
       "lang": "en"
     },
     {
-      "id": "c42a1e5396f896226f130cc98b1fbbc0",
-      "title": "NEET-UG protests case: Petitioners seek re-constitution of high-powered enquiry committee",
-      "link": "https://www.thehindu.com/news/national/neet-ug-protests-case-petitioners-seek-re-constitution-of-high-powered-enquiry-committee/article71387458.ece",
-      "summary": "They argue that HPEC may be ‘under-equipped’ to enquire into the ‘role of persons occupying the highest levels of the Union Executive, the Ministry of Home Affairs, Delhi Police and the Rapid Action Force’; Clarifies they are not questioning the personal integrity of the HPEC members",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 12:39:57 +0530",
-      "section": "National",
-      "report_category": "National_Opposition",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "82905f7023b5e779517fa92f6113e383",
       "title": "‘Thudakkam’ movie review: Vismaya Mohanlal’s martial arts skills inject life into a typical revenge thriller",
       "link": "https://www.thehindu.com/entertainment/movies/thudakkam-movie-review-mohanlal-vismaya-mohanlal-martial-arts-jude-anthany-joseph-malayalam-movie/article71317423.ece",
@@ -13974,19 +14312,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "c3aeaa6c4b6045ae5debdca1c60ac5d1",
-      "title": "Pakistan, Iran explore reopening Strait of Hormuz, easing West Asia tensions",
-      "link": "https://www.thehindu.com/news/international/pakistan-iran-explore-reopening-strait-of-hormuz-easing-west-asia-tensions/article71387519.ece",
-      "summary": "",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 12:34:48 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -14874,6 +15199,19 @@
       "lang": "en"
     },
     {
+      "id": "6d82e185d8e9c169e0855a2868e2bbdc",
+      "title": "7 firms face FIRs, 2 arrested after CM’s crackdown:₹100 crore tenders cancelled, kingpin Govind Sharma absconding; SIT formed to probe",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/kanpur-tender-scam-govind-sharma-absconding-sit-probe-138832925.html",
+      "summary": "Following Chief Minister Yogi Adityanath's directive, Kanpur's Municipal Commissioner took strong action and filed six separate FIRs against seven firms. Police have arrested two contractors involved in manipulating tenders, while the alleged kingpin, Govind Sharma, is absconding. His location has been traced to Rajasthan, and two teams are conducting raids to arrest him. Police Commissioner Raghuveer Lal provided information on Tuesday afternoon about the filing of the FIRs and the arrest of the two contractors. Municipal Commissioner Arpit Upadhyay said that tenders worth more than ₹100 crore had been cancelled following the registration of the FIRs. The Police Commissioner has formed an SIT to investigate corruption in the contracts. The mafias involved in the buying and selling of tenders will soon be arrested, and the entire syndicate will be exposed, the Commissioner said. Raghuveer Lal said that in the five FIRs registered at Swaroop Nagar police station, the Municipal Commissioner himself is the complainant, while the complainant in the FIR registered at Fazalganj police station is contractor Shani Singh. Police have arrested two contractors, Sandeep Jain and Rajjan Bajpai, in connection with the case and have begun an investigation. Shani Singh, who filed the report, said that mafia rule prevailed in the Kanpur Municipal Corporation, where tenders were withdrawn through intimidation and threats. An entire syndicate was operating in the municipal corporation. Only those favoured by the syndicate received tenders worth crores. The investigation so far has revealed that 427 firms are registered with the municipal corporation for various small and large projects. The responsibility for securing tenders for any firm lay with Agra-based contractor Govind Sharma. No one could get a contract without Govind's consent. Govind Sharma has also been named in the FIR. He fled the city after the Chief Minister took a tough stance. In view of corruption in the tender process, the Municipal Commissioner has cancelled tenders worth more than ₹100 crore.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 11:14:21 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "25d233c6951519d59800969b235cc6fe",
       "title": "मेरठ की रिया-लावण्या का जज्बा: पापा के कंधों पर सितारे देखे, तो आसमान छूने की ठानी; मिशन शक्तिसैट का हिस्सा",
       "link": "https://www.amarujala.com/delhi-ncr/noida/riya-and-lavanya-from-meerut-are-contributing-to-satellite-manufacturing-2026-08-25",
@@ -15017,6 +15355,19 @@
       "lang": "en"
     },
     {
+      "id": "1394814e626e3e52b0f16b41ea821954",
+      "title": "China warns it will safeguard its interests after US widens sanctions against Iran",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 10:56:03 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "e26b54c1842147bf3c28e5ed33a1cd32",
       "title": "हाथरस सड़क हादसा: कासगंज रोड पर अनियंत्रित टिर्री ने ऑटो में मारी टक्कर, इलाज के दौरान एक की मौत",
       "link": "https://www.amarujala.com/uttar-pradesh/hathras/uncontrolled-tirri-hits-auto-2026-08-25",
@@ -15026,6 +15377,19 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "3700be85e44b3bd9d21119b9ab9dff2a",
+      "title": "Mayawati announces BSP will contest Punjab polls alone:Says alliances cost votes and seats; people fed up with AAP, Congress and BJP",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/mayawati-bsp-contest-punjab-polls-alone-statement-138832755.html",
+      "summary": "Bahujan Samaj Party (BSP) chief Mayawati has made a major announcement regarding the Punjab Assembly elections. She said that the BSP will contest the elections in Punjab independently, without any alliance or arrangement. In the previous elections, the BSP had an alliance with the Shiromani Akali Dal. Mayawati said that alliances cause the party to suffer losses in both seats and vote share, and also affect the morale of party workers. On Tuesday, Mayawati held a lengthy meeting with Punjab party office-bearers at the BSP's central camp office in Lucknow to review the organisation and election preparations. 'Only hardworking and honest people will be given tickets' Mayawati said that preparations for the Assembly elections to be held next year in Uttar Pradesh and Uttarakhand, along with Punjab, would also be intensified. Hardworking and honest people will be given priority in the selection of candidates. She also reviewed the progress report on the earlier directives issued to strengthen the party organisation down to the booth level and expand its support base. She instructed that shortcomings identified at various levels be addressed within a set timeframe. Targeting AAP, Congress and BJP in Punjab The BSP chief also targeted the Congress and BJP, along with Punjab's ruling Aam Aadmi Party. She said that the attitude of these parties has left the people of the state distressed. Mayawati said that the BSP would present the people of Punjab with Ambedkarite policies and programmes based on the principles of \"welfare and happiness for all.\" The party claims that this would help free Punjab from poverty and unemployment and provide people with a path to live with self-respect. Show of strength on October 9, the death anniversary of Kanshi Ram Mayawati directed party workers to ensure the success of the programme to be held on October 9 to mark the death anniversary of party founder Kanshi Ram, with thorough preparations. She said that preparations for the programme in Punjab should be made according to the guidelines issued last year. Emphasis was also placed on strengthening the organisation through this event. Directive to observe 'Public Welfare Day' on January 15, 2027 Mayawati also set a target of improving the party's financial contributions on the occasion of Public Welfare Day on January 15, 2027, compared with last year. She said that increasing BSP's financial contributions is essential to advancing the Ambedkarite caravan and the BSP movement. 'Firmly confront opponents' tactics of conciliation, inducement, coercion and division' Mayawati told party workers that they would have to firmly confront the tactics of saam, daam, dand and bhed (conciliation, inducement, coercion and division) used by opposition parties during the elections. The party must remain active up to the booth level and continue preparing consistently for better electoral results. She clarified that, like in Uttar Pradesh and Uttarakhand, the BSP will contest the elections in Punjab on its own.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 10:53:39 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -15274,6 +15638,32 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "e5f1621bcfb795ecd8082a08c63d77c8",
+      "title": "Police stop saints’ meeting against Champat Rai:Allegedly evicted from ashram and locked out; angry saints raise ‘donation thief’ slogans",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/ayodhya-police-stop-saints-meeting-ashram-champat-rai-controversy-138832497.html",
+      "summary": "On Tuesday, near Kar Sevakpuram in Ayodhya, the police stopped a meeting of saints at Om Ashram regarding the theft of offerings made to the Ram Mandir and against Champat Rai. The saints alleged that the police arrived in the middle of the meeting, forced them out of the ashram, and locked it. Angered by this, the saints raised slogans of \"Chanda thieves, leave Ayodhya.\" However, the police said that the saints had left the ashram on their own before they could be stopped and had begun raising slogans. The saints said- Action has been taken against the minor accused in the donation theft, while the major accused are being protected. The district administration is supporting the accused. It does not want the accused to be arrested. That is why the saints' meeting is not being allowed to take place. Saints said: ‘The police did not explain why they stopped the meeting’ The meeting had been called by Prakashanand Giri, also known as Computer Baba. Mahant Janmejaya Sharan of Mahant Jankighat Bada Sthan, Mahamandaleshwar Parmanand Giri, Mahant Dilip Das, and eight-ten other saints had arrived. The saints said that when they asked the police why the meeting had been stopped, the police gave no reason. Some saints were not even allowed to attend the meeting. They were placed under house arrest. Computer Baba says a major movement will be launched to investigate the theft of offerings Computer Baba said that the saint community would launch a major movement demanding an impartial investigation into the theft of offerings and action against those responsible. If necessary, they will reach Ayodhya with one lakh saints and launch a movement. The saints will seek Lord Ramlala's darshan and ask Lord Shri Ram for forgiveness. Saints say they failed to stop the theft and seek forgiveness from Ramlala Mahant Mandaleshwar Parmanand Giri said, \"The saints could not prevent this theft, and we fold our hands before Ram Lalla and apologise. Strict action should be taken against the accused, and the NSA should be invoked against them. The investigation should also reach those who played a major role in the theft of offerings.\" People from across the country have donated to the Ram Temple. All the saints are united on this issue. We will hold a meeting soon. All the saints of Ayodhya have been invited to the meeting. After the meeting, a memorandum will be submitted to the Chief Minister demanding a CBI investigation into the matter. Champat Rai's name not included in SIT's final investigation report The SIT formed by the Uttar Pradesh government to investigate the theft of offerings at the Ram Temple in Ayodhya has submitted its final report. According to sources, it does not mention former trust general secretary Champat Rai or member Dr. Anil Mishra. The remaining eight accused are already in jail. The Uttar Pradesh Home Department submitted the report to Mahant Nritya Gopal Das, president of the Ram Temple Trust. It will be presented at the Ram Temple Trust meeting scheduled for September 2. The trust itself had requested the Uttar Pradesh government to conduct an SIT investigation into the theft of offerings. The UP government formed a three-member SIT on June 13 under the chairmanship of Lucknow Divisional Commissioner Vijay Vishwas Pant. IG Range Kiran S and Special Secretary in the Finance Department Neel Ratan Kumar were its members. The SIT submitted its preliminary report on 23 June. After this, the Supreme Court directed that the SIT investigation be handed over to an IPS officer and that a finance expert be included. A new SIT was formed on July 20, comprising Lucknow Range IG Kiran S, Ayodhya DIG Somen Verma, and Ayodhya SSP Gaurav Grover. This SIT is still investigating the theft of offerings. SIT submitted its preliminary report on June 23; 8 arrested two days later The case of theft first came to light on 7 June. The Uttar Pradesh government's SIT submitted its preliminary report to Additional Chief Secretary (Home) Sanjay Prasad on 23 June. An FIR was registered on June 25 based on a complaint by trust member Krishna Mohan. Ramshankar Yadav alias Tinnu and seven others were named in it. However, the names of senior officials, including Champat Rai and Dr. Anil Mishra, were not included. Within a few hours of the FIR being registered, the police arrested all eight accused, including Tinnu. Currently, they are all lodged in Faizabad jail. They have been accused of stealing currency notes and jewelry while counting offerings. Following the SIT's preliminary report, General Secretary Champat Rai and trustee Dr. Anil Mishra resigned, taking moral responsibility. The trust accepted both resignations and removed Gopal Nagarkatte from the list of special invitees. The Supreme Court had ordered the formation of a second SIT Four separate petitions related to the donation theft case have been filed in the Supreme Court. In addition to handing over the investigation to the CBI, the petitions seek the formation of an expert committee to review various issues related to the management of donations at the temple. The previous SIT was submitting reports at the state government level, whereas the new SIT will periodically submit status reports directly to the Supreme Court. The Supreme Court itself is monitoring the investigation into the entire matter. The Supreme Court had observed that police officers play a direct and more effective role in criminal investigations and the technical investigation of theft cases. Therefore, with the DIG and SSP included as members, the responsibility for the investigation has been assigned directly to officers of the police department.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 10:22:44 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "2a566d710c689057fba91e6ca373ab31",
+      "title": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
+      "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+      "summary": "Pakistan says progress was made in Tehran, but Iran’s security establishment remains wary of Washington.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 10:22:00 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -15576,6 +15966,19 @@
       "lang": "en"
     },
     {
+      "id": "832e8b2626333e646356a73325214e6b",
+      "title": "US firefighters say major blaze near Reno about a quarter contained",
+      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
+      "summary": "But officials fear that winds could fan the flames for two more days, as many locals remain under evacuation orders.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 09:49:02 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "22286ea327130a5edef847e3c2e4f919",
       "title": "What would justice look like if there were no Rohingya left in Myanmar?",
       "link": "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss",
@@ -15672,7 +16075,7 @@
       "link": "https://www.livehindustan.com/uttar-pradesh/car-driven-in-wrong-direction-when-constable-attempting-to-stop-it-beaten-and-uniform-torn-in-lucknow-201787626351641.html",
       "summary": "लखनऊ में गलत दिशा में कार दौड़ा रहे युवकों को रोकने पर गजब दबंगई देखने को मिली है। कार सवार युवकों ने सिपाही को जमकर पीटा और उसकी वर्दी भी फाड़ दी।",
       "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 09:37:12 +0530",
+      "timestamp": "Tue, 25 Aug 2026 09:37:11 +0530",
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
@@ -15784,6 +16187,19 @@
       "lang": "en"
     },
     {
+      "id": "96ad40e6482ccc158b53c996d045f684",
+      "title": "British man charged in Singapore two years after alleged theft at airport",
+      "link": "https://www.bbc.co.uk/news/articles/ckg024vrzxjo?at_medium=RSS&at_campaign=rss",
+      "summary": "The 26-year-old faces up to seven years in jail for allegedly stealing a denim jacket from an airport shop in 2024.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 09:01:35 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "60519b55afaaef0cdc625557f91fa8f7",
       "title": "From protest streets to the stage, Mumbai’s Gen Z voices speak out",
       "link": "https://www.thehindu.com/news/cities/mumbai/from-protest-streets-to-the-stage-mumbais-gen-z-voices-speak-out/article71385995.ece",
@@ -15820,6 +16236,19 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "3fa9bf04afc43fe4c572b27fa045c0f6",
+      "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+      "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+      "summary": "The south-western village of Pomas was hardest hit, with hundreds of homes damaged and fifteen people taken to hospital.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 08:52:17 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
+      "district": "",
       "lang": "en"
     },
     {
@@ -16928,6 +17357,71 @@
       "lang": "en"
     },
     {
+      "id": "f16cbe881c4699dfb3926eb31abb812d",
+      "title": "‘अब पहले जैसा काम नहीं कर सकता’: नितिन गडकरी के बयान से संन्यास की अटकलें, कार्यालय ने बताई पूरी बात",
+      "link": "https://www.amarujala.com/india-news/nitin-gadkari-new-generation-trust-responsibility-retirement-speculation-clarification-2026-08-25",
+      "summary": "‘अब पहले जैसा काम नहीं कर सकता’: नितिन गडकरी के बयान से संन्यास की अटकलें, कार्यालय ने बताई पूरी बात",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 04:49:36 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "8e5022d5a18bba231aa5bb15a7a3c9bf",
+      "title": "संभल मंदिर- जामा मस्जिद विवाद: सुप्रीम कोर्ट की रोक के चलते सुनवाई टली, अब 29 सितंबर को अगली तारीख",
+      "link": "https://www.amarujala.com/uttar-pradesh/moradabad/sambhal-temple-jama-masjid-dispute-hearing-adjourned-due-supreme-court-stay-next-date-set-for-september-29-2026-08-25",
+      "summary": "चंदौसी की अदालत में चल रहे श्री हरिहर मंदिर-शाही जामा मस्जिद विवाद में मंगलवार को सुनवाई नहीं हो सकी।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 04:48:54 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "8e6d13f64ad403d8a29c86855ab164ee",
+      "title": "वाराणसी में हादसा: वाटर कूलर से पानी भरते समय करंट लगने से व्यक्ति की मौत, परिवार में मची चीख- पुकार",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/man-dies-of-electric-shock-while-filling-water-from-water-cooler-in-varanasi-2026-08-25",
+      "summary": "करंट इतना तीव्र था कि त्रिलोकी प्रसाद मोदन की मौके पर ही मृत्यु हो गई।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 04:47:43 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "3322d912074de8b71c6b4e219df685c7",
+      "title": "शाहजहांपुर में बाढ़: गंगा-रामगंगा में उफान, जलालाबाद-शमसाबाद हाईवे डूबा, घरों में घुसा पानी, कटान से दहशत",
+      "link": "https://www.amarujala.com/uttar-pradesh/shahjahanpur/flood-in-shahjahanpur-due-to-rise-water-lever-of-ganga-and-ramganga-rivers-2026-08-25",
+      "summary": "कलान और जलालाबाद तहसील के करीब चार दर्जन तटीय गांवों में बाढ़ की स्थिति, फसलें जलमग्न होने से किसान चिंतित",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 04:46:13 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "1b9742f62febfbd8724d24d058ada007",
+      "title": "कांदा एक्सप्रेस कल आएगी दिल्ली: 800 टन प्याज की ₹35/किलो में होगी बिक्री, केंद्र ने और किन राज्यों को भेजा?",
+      "link": "https://www.amarujala.com/india-news/kanda-express-to-reach-delhi-on-26-august-with-800-ton-onion-government-sale-35-rupees-per-kg-2026-08-25",
+      "summary": "कांदा एक्सप्रेस कल आएगी दिल्ली: केंद्र ने मंगाया 800 टन प्याज, ₹35/किलो में होगी बिक्री; जानें कहां मिलेगा kanda-express-to-reach-delhi-on-26-august-with-800-ton-onion-government-sale-35-rupees-per-kg",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 04:42:07 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "ee2717b8685508ee963bc16230da7145",
       "title": "Syrian president thanks nation for getting off US state terror list",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
@@ -16954,6 +17448,19 @@
       "lang": "en"
     },
     {
+      "id": "79c4a15b2338168772b5ba5c36dbcc80",
+      "title": "Noida News: कॉलेज जीवन केवल डिग्री तक सीमित नहीं",
+      "link": "https://www.amarujala.com/delhi-ncr/noida/college-life-is-not-limited-to-just-a-degree-grnoida-news-c-23-1-lko1064-104132-2026-08-25",
+      "summary": "College life is not limited to just a degree.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 04:37:46 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
+      "lang": "en"
+    },
+    {
       "id": "61556dd3f1a034f63e9f29059f2e1672",
       "title": "Around 40 dead in gang attack near Haiti’s capital",
       "link": "https://www.thehindu.com/news/international/many-dead-in-gang-attack-near-haitis-capital/article71386361.ece",
@@ -16967,6 +17474,32 @@
       "lang": "en"
     },
     {
+      "id": "f1a5a22dd48f78b634c50a62eb49c9cf",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 25 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-25",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 04:30:33 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "b3ecf9f19e21cfc4854c538cb9422220",
+      "title": "साइबर ठगी: 860 म्यूल खातों में आठ राज्यों से आए 12 करोड़, 18 गिरफ्तारी, सरगना पकड़ से दूर",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/cyber-fraud-12-crore-from-eight-states-landed-in-860-mule-accounts-18-arrested-in-varanasi-2026-08-25",
+      "summary": "पुलिस गिरफ्तार आरोपियों के मोबाइल, बैंक खातों और डिजिटल लेनदेन की पड़ताल कर रही है।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 04:22:35 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "f32a073cce62189b8a99ab735cdefa14",
       "title": "Trump moves toward levying new tariff on China for flooding market with cheap goods",
       "link": "https://www.thehindu.com/news/international/trump-moves-toward-levying-new-tariff-on-china-for-flooding-market-with-cheap-goods/article71386345.ece",
@@ -16977,6 +17510,32 @@
       "report_category": "International",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "6d88558418be52a504a02bc003a08213",
+      "title": "महंगाई से बिगड़ा रसोई का बजट: पीलीभीत में त्योहारों से पहले चीनी 64 रुपये के पार, प्याज ने भी निकाले आंसू",
+      "link": "https://www.amarujala.com/uttar-pradesh/pilibhit/inflation-disrupts-kitchen-budgets-sugar-prices-cross-rs-64-in-pilibhit-ahead-of-the-festive-season-2026-08-25",
+      "summary": "महंगाई बढ़ने से बिगड़ा रसोई का बजट, आम आदमी से लेकर व्यापारी चिंतित, जमाखोरी रोकने के लिए टीमें गठित",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 04:16:00 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "4cd7ae79e9b9b8ebf695d3505cc5e814",
+      "title": "विदाई: तबादला होने पर अलीगढ़ से मुराबाद जाते हुए छलकीं कमिश्नर संगीता की आंखें, बोलीं- अच्छा, अब चलते हैं",
+      "link": "https://www.amarujala.com/uttar-pradesh/aligarh/farewell-ceremony-of-moradabad-commissioner-sangeeta-from-aligarh-2026-08-25",
+      "summary": "अलीगढ़ कमिश्नर संगीता सिंह को 25 अगस्त को भावभीनी विदाई दी गई। सभागार में सभी ने उन्हें विदाई दी। विदाई समारोह के बाद वह अपनी नवीन तैनाती वाले मुरादाबाद मंडल के लिए रवाना हो गईं।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 04:09:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -17019,6 +17578,19 @@
       "lang": "en"
     },
     {
+      "id": "788004c5e018e83bb5355fbd58d582de",
+      "title": "वाराणसी: प्राथमिक विद्यालय बंद होने की अफवाह फैलाने पर एक्स यूजर पर प्राथमिकी दर्ज, पढ़ें- पूरा मामला",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/fir-registered-against-x-user-for-spreading-rumors-about-closure-of-primary-school-varanasi-2026-08-25",
+      "summary": "प्रधानाध्यापक ने पुलिस को बताया कि @Mukesh Singh नामक एक्स हैंडल यूजर और उनके अज्ञात सहयोगियों ने वीडियो पोस्ट किया था।",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 03:58:15 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "57b05e2c19a1f0944cbdb5ea4d138757",
       "title": "Lucknow News: विस्तारित सीमा के 88 गांवों में एक भी कैटिल कॉलोनी नहीं",
       "link": "https://www.amarujala.com/lucknow/not-a-single-cattle-colony-in-the-88-villages-of-the-extended-area-lucknow-news-c-13-lko1070-1889829-2026-08-25",
@@ -17043,6 +17615,32 @@
       "source": "Al Jazeera",
       "district": "",
       "lang": "en"
+    },
+    {
+      "id": "693ee7d6e7b75dc9578cec0206d85b48",
+      "title": "केरलम में भारी बारिश का कहर: कई जगह सड़क बंद जैसी स्थिति, 11 जिलों में येलो अलर्ट; प्रशासन ने क्या चेतावनी दी?",
+      "link": "https://www.amarujala.com/india-news/keralam-heavy-rains-nh-road-closures-in-several-areas-yellow-alert-what-warnings-have-authorities-issued-2026-08-25",
+      "summary": "केरलम में भारी बारिश का कहर: कई जगह सड़क बंद जैसी स्थिति, 11 जिलों में येलो अलर्ट; प्रशासन ने क्या चेतावनी दी?",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 03:56:23 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "b27e6286efcb5748a71e41b0a2897e3e",
+      "title": "बंगाल: फुटपाथ पर बच्चे के लिए दूध गर्म करने वाली महिला पहुंची मुख्यमंत्री दरबार, CM शुभेंदु ने दिया यह आश्वासन",
+      "link": "https://www.amarujala.com/india-news/bengal-woman-who-warmed-milk-for-her-child-on-footpath-reached-cm-house-cm-suvendu-gave-this-assurance-2026-08-25",
+      "summary": "Bengal: Woman who warmed milk for her child on footpath reached CM house; CM Suvendu gave this assurance - बंगाल: फुटपाथ पर बच्चे के लिए दूध गर्म करने वाली महिला पहुंची मुख्यमंत्री दरबार, CM शुभेंदु ने दिया यह आश्वासन",
+      "date": "2026-08-25",
+      "timestamp": "Tue, 25 Aug 2026 03:51:38 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "21284211d19268f2ffe9fe8669bd08ea",
@@ -17162,19 +17760,6 @@
       "lang": "en"
     },
     {
-      "id": "f1a5a22dd48f78b634c50a62eb49c9cf",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 25 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-25",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 03:30:30 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "f6e3123ac955b415051a334dcd126692",
       "title": "UPI completes 10 years:10 साल में डिजिटल भुगतान में यूपीआई की धाक, वैश्विक मंच पर बढ़ा दबदबा!",
       "link": "https://www.amarujala.com/video/india-news/upi-completes-10-years-upi-has-established-its-dominance-in-digital-payments-over-the-last-decade-and-expande-2026-08-25",
@@ -17189,7 +17774,7 @@
     },
     {
       "id": "73c0f2a3b594b7c8ed5391be0d4d5b87",
-      "title": "रक्षा मंत्रालय का बड़ा फैसला: भारतीय कंपनियां करेंगी पारंपरिक मिसाइलों का उत्पादन, रक्षा मंत्री ने दी मंजूरी",
+      "title": "रक्षा मंत्रालय का बड़ा फैसला: भारतीय कंपनियां करेंगी पारंपरिक मिसाइलों का उत्पादन, राजनाथ सिंह ने दी मंजूरी",
       "link": "https://www.amarujala.com/india-news/defence-minister-rajnath-singh-approves-transfer-of-drdo-missile-technologies-to-indian-industries-2026-08-25",
       "summary": "रक्षा मंत्रालय का बड़ा फैसला: भारतीय कंपनियां करेंगी पारंपरिक मिसाइलों का उत्पादन, रक्षा मंत्री ने दी मंजूरी Defence Minister Rajnath Singh approves transfer of DRDO missile technologies to Indian industries",
       "date": "2026-08-25",
@@ -18320,7 +18905,7 @@
     },
     {
       "id": "a986218a2f832ba51706ee4253dc1ed2",
-      "title": "यूपी: अलीगढ़ में पकड़ा सेलखड़ी मिला 17.5 कुंतल नकली खोवा, बेड के अंदर छुपा कर बनाया जा रहा था, दो गिरफ्तार",
+      "title": "यूपी: अलीगढ़ में पकड़ा सेलखड़ी मिला 17.5 कुंतल नकली खोवा, बेड के अंदर छुपा कर बनाया जा रहा था, एक गिरफ्तार",
       "link": "https://www.amarujala.com/uttar-pradesh/aligarh/raid-on-khova-trader-in-vijaygarh-2026-08-25",
       "summary": "अलीगढ़ में खाद्य सुरक्षा एवं औषधि विभाग और पुलिस की संयुक्त टीम ने एक ऐसे अवैध कारखाने का पर्दाफाश किया है, जहां आम जनता की सेहत से खिलवाड़ करते हुए सेलखड़ी मिल्क पाउडर और वनस्पति घी मिलाकर बड़े पैमाने पर नकली खोवा (मावा) तैयार किया जा रहा था।",
       "date": "2026-08-25",
@@ -63663,19 +64248,6 @@
       "lang": "en"
     },
     {
-      "id": "6ce04b9ff0cb70101abf902171297088",
-      "title": "Safire theatre in Chennai: Once a cinema landmark, now reduced to nothing",
-      "link": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-safire-theatre-once-a-cinema-landmark-in-chennai-now-reduced-to-nothing/article71369132.ece",
-      "summary": "The Safire Theatre Complex was one of the first multiplex cinema complexes in India",
-      "date": "2026-08-22",
-      "timestamp": "Sat, 22 Aug 2026 08:50:54 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "cebeca7e1b8ca30ed570da7fe789d700",
       "title": "Noida News: इंस्पायर अवार्ड योजना में हर विद्यालय से 5 छात्रों का नामांकन अनिवार्य",
       "link": "https://www.amarujala.com/delhi-ncr/noida/nomination-of-5-students-from-every-school-is-mandatory-under-the-inspire-award-scheme-noida-news-c-23-1-lko1064-103833-2026-08-22",
@@ -69695,19 +70267,6 @@
       "lang": "en"
     },
     {
-      "id": "137e1c59e4a0cd05bab638e382fcaec6",
-      "title": "Education Minister meets officials to review ‘key priorities’ to strengthen CBSE",
-      "link": "https://www.thehindu.com/news/national/education-minister-meets-officials-to-review-key-priorities-to-strengthen-cbse/article71385240.ece",
-      "summary": "CBSE is facing public scrutiny, particularly surrounding its 2026 Class 12 examination evaluation process, issues concerning technological mismanagement and administrative failures, and a trust deficit among students",
-      "date": "2026-08-24",
-      "timestamp": "Mon, 24 Aug 2026 21:56:10 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "88224138c2f8d8c6df08082ddc23a0a2",
       "title": "Yemen’s Houthis claim attack on Saudi oil tanker in Red Sea",
       "link": "https://www.thehindu.com/news/international/yemens-houthis-claim-attack-on-saudi-oil-tanker-in-red-sea/article71385806.ece",
@@ -73400,19 +73959,6 @@
       "lang": "en"
     },
     {
-      "id": "941cd3760d3b58bfe8984552a056af83",
-      "title": "A hark back to ‘collection king’ Udhayam Theatre in Chennai",
-      "link": "https://www.thehindu.com/news/cities/chennai/a-hark-back-to-collection-king-udhayam-theatre-in-chennai/article71364005.ece",
-      "summary": "",
-      "date": "2026-08-24",
-      "timestamp": "Mon, 24 Aug 2026 14:43:17 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "2d91f4d4f8b4896af1b2345e5263d56e",
       "title": "ECI not to conduct bypolls to five constituencies in Tamil Nadu until disposal of election petitions, Madras High Court told",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/eci-not-to-conduct-bypolls-to-five-constituencies-in-tamil-nadu-until-disposal-of-election-petitions-madras-high-court-told/article71383646.ece",
@@ -75958,19 +76504,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Varanasi",
-      "lang": "en"
-    },
-    {
-      "id": "832e8b2626333e646356a73325214e6b",
-      "title": "Nearly 90,000 told to evacuate as wildfire approaches Reno, Nevada",
-      "link": "https://www.bbc.co.uk/news/articles/c4gqlp0yzyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The fire has burned around 10,500 acres and is completely uncontained, officials say.",
-      "date": "2026-08-24",
-      "timestamp": "Mon, 24 Aug 2026 10:08:40 GMT",
-      "section": "International",
-      "report_category": "International",
-      "source": "BBC World",
-      "district": "",
       "lang": "en"
     },
     {
@@ -94616,6 +95149,136 @@
       "lang": "en"
     },
     {
+      "id": "23e0cf393170e2a01625289a40f7daf6",
+      "title": "US diplomats heading back to Middle East as immediate Iran war risk recedes: Report",
+      "link": "https://timesofindia.indiatimes.com/world/us/us-diplomats-heading-back-to-middle-east-as-immediate-iran-war-risk-recedes-report/articleshow/133507374.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:41:03+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9c1c13e012f26a2ea6719de32392643d",
+      "title": "In 1972, Lyndon Johnson gave away Texas White House, but his wife continued living there until 2007",
+      "link": "https://timesofindia.indiatimes.com/world/us/in-1972-lyndon-and-lady-bird-johnson-gave-the-texas-white-house-and-about-600-acres-to-the-us-but-kept-lifetime-rights-she-continued-living-there-until-2007/articleshow/133503507.cms",
+      "summary": "Lyndon B. Johnson and Lady Bird Johnson donated their Texas ranch house and about 600 acres to the National Park Service in 1972, but retained lifetime rights to use the property. After Lyndon Johnson died in 1973, Lady Bird continued living at the ranch until her death in 2007. The property, known as the “Texas White House”, was then prepared for public tours.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:23:03+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d34a80d17aac7fb5cdd36511b634da65",
+      "title": "Scientists uncover huge underground reservoir beneath Yellowstone’s Old Faithful",
+      "link": "https://timesofindia.indiatimes.com/world/us/scientists-planted-133-portable-seismometers-around-yellowstones-old-faithful-for-two-weeks-tiny-ground-vibrations-revealed-an-underground-hot-water-reservoir-holding-about-79-million-gallons/articleshow/133504646.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:22:57+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "3873a2bac50fdd195ab6ea01be57768b",
+      "title": "1,000 people in Japan join forces to pull a 400-ton castle to its original position",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/1000-people-in-japan-join-forces-to-pull-a-400-ton-castle-keep-back-toward-its-original-position-after-it-was-moved-78-meters-for-repairs/articleshow/133506516.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:22:50+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "46913dfd814fdacf75760e6034177513",
+      "title": "Across Norway, one key opens hundreds of unstaffed cabins stocked with food",
+      "link": "https://timesofindia.indiatimes.com/world/europe/one-key-opens-hundreds-of-cabins-stocked-with-food-across-norway-where-no-roads-staff-or-reception-exist-only-trust/articleshow/133498861.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T16:10:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "7a55cd4996662f53e145fa336b7a4585",
+      "title": "Vande Mataram row: Is Congress taking a calculated gamble or walking into BJP's trap?",
+      "link": "https://timesofindia.indiatimes.com/india/vande-mataram-row-is-congress-taking-a-calculated-gamble-or-walking-into-bjps-trap/articleshow/133503760.cms",
+      "summary": "The Congress party's choice to sing two stanzas of Vande Mataram sparked intense backlash from the BJP, with Union ministers accusing them of engaging in appeasement politics and being responsible for the partition. Congress leaders defended their actions by invoking historical importance, while they criticized the BJP for politicizing the issue. This controversy underscores Congress's struggle to navigate its revival strategy amidst opposing pressures.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T15:57:32+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ecdea7e4f20c655568c7f6e1f02de8cd",
+      "title": "Colombian drug gangs recruiting children through social media to pilot explosive drones: Report",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/colombian-drug-gangs-recruiting-children-through-social-media-to-pilot-explosive-drones-report/articleshow/133505407.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T15:51:59+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e3c915406c6fae96a97dcfea9d0a5d83",
+      "title": "'Rahul Gandhi is the Chinese robot': BJP mocks Congress after MP's LAC warning",
+      "link": "https://timesofindia.indiatimes.com/india/rahul-gandhi-is-the-chinese-robot-bjp-mocks-congress-after-mps-lac-warning/articleshow/133505317.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T15:49:54+05:30",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "a80991437ef7efe4a68ddf9cbda669b9",
+      "title": "British man dies fighting for Russia in Ukraine, first UK national killed in war",
+      "link": "https://timesofindia.indiatimes.com/world/uk/british-man-dies-fighting-for-russia-in-ukraine-first-uk-national-killed-in-war/articleshow/133503625.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T15:32:14+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "aa457959c3a144c3e9a85ba7bcfbeb44",
+      "title": "In 2022, Hunga Tonga sent water vapour into the stratosphere, altering ozone and radiation",
+      "link": "https://timesofindia.indiatimes.com/science/in-2022-the-hunga-tonga-eruption-sent-huge-amounts-of-water-vapour-into-the-stratosphere-causing-changes-in-ozone-levels-and-radiation-effects/articleshow/133503669.cms",
+      "summary": "An eruption from an underwater volcano released a massive cloud of water vapor into the stratosphere, impacting global weather patterns for two years. This additional moisture led to an initial cooling effect on the stratosphere while also modifying circulation patterns. The presence of sulfate aerosols played a significant role in blocking sunlight, creating a stronger cooling influence.",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T15:30:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "5c741866dd4a0ea5e49a03e4227a6451",
       "title": "Vermont to expand Snake Mountain WMA and secure 949 acres of timber rights",
       "link": "https://timesofindia.indiatimes.com/world/us/in-1959-vermont-bought-snake-mountain-land-but-the-seller-kept-timber-rights-67-years-later-the-state-plans-to-secure-949-acres-of-those-rights-and-add-256-acres/articleshow/133503694.cms",
@@ -94690,6 +95353,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "88de17847faf45770fb289e8549368a8",
+      "title": "Iceland drillers hit 1,000°C magma by accident with 10 times more geothermal energy",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2009-iceland-drillers-hit-1000c-magma-by-accident-unlocking-a-geothermal-source-that-could-produce-nearly-10-times-more-power/articleshow/133500676.cms",
+      "summary": "",
+      "date": "2026-08-25",
+      "timestamp": "2026-08-25T14:40:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
