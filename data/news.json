@@ -1,15 +1,262 @@
 {
-  "generated_at": "2026-08-26T07:40:29.046405+00:00",
+  "generated_at": "2026-08-26T08:35:46.788387+00:00",
   "stories": [
+    {
+      "id": "f7ba6701de7d87ea03f787a77461a161",
+      "title": "At least eight killed in Nepal flash floods",
+      "link": "https://www.thehindu.com/news/international/nepal-flash-flood-washes-away-villages-project-sites-near-tibet-border/article71391731.ece",
+      "summary": "Villages were said to be washed away, damaging roads, bridges and ‌power projects in a region bordering Tibet",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:56:00 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0d454e9a37307fd8c93d50d0ae34519e",
+      "title": "China’s Xi to visit Kyrgyzstan, Egypt from Sunday: Foreign Ministry",
+      "link": "https://www.thehindu.com/news/international/chinas-xi-to-visit-kyrgyzstan-egypt-from-sunday-foreign-ministry/article71392060.ece",
+      "summary": "The tour, which lasts until September 3, will be Xi Jinping’s second overseas trip this year following a visit to North Korea in June.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:46:51 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "1b9278f46a8a111c4535041a899c8b3f",
+      "title": "Six bodies found in Vijayapura lake",
+      "link": "https://www.thehindu.com/news/national/karnataka/six-bodies-found-in-vijayapura-lake/article71391478.ece",
+      "summary": "While the exact cause of the deaths was not known, police suspect they must have slipped into the water body while visiting it.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:44:09 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8a7cdb0707bac7af1f409bb6c7b524c5",
+      "title": "Six killed, 12 injured as Hyderabad-Eluru electric bus rams into container truck near Suryapet",
+      "link": "https://www.thehindu.com/news/national/telangana/six-killed-12-injured-as-speeding-bus-crashes-into-lorry-in-telanganas-suryapet/article71391286.ece",
+      "summary": "The bus was carrying 42 passengers who were travelling from Hyderabad to Eluru via Vijayawada when the accident took place at about 4.55 a.m.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:43:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bbc76b6e9b6d1b207be34d0b1bfa9984",
+      "title": "NCB busts cross-border heroin cartel in Jammu; mastermind among 3 arrested with 5.16 kg heroin",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/ncb-busts-cross-border-heroin-cartel-in-jammu-mastermind-among-3-arrested-with-516-kg-heroin/article71392015.ece",
+      "summary": "The NCB team traced him to Leh district of Ladakh where he was arrested on Monday (August 24), within two days of the seizure",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:38:38 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "eb884f61251d9f6720c34945ded66356",
+      "title": "Trump's new economic squeeze on Iran has big challenge: China",
+      "link": "https://www.thehindu.com/news/international/trumps-new-economic-squeeze-on-iran-has-big-challenge-china/article71391233.ece",
+      "summary": "Trump’s economic pressure on Iran faces challenges from China’s strong trade ties, complicating U.S.-China relations ahead of a key summit",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:37:29 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8175a04f62c215b36daa9311338c1242",
+      "title": "A new right of way: What Andhra Pradesh’s Pedestrian Policy means for the public",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/a-new-right-of-way-what-andhra-pradesh-pedestrian-policy-means-for-the-public/article71391976.ece",
+      "summary": "For millions of people who walk to bus stops, schools, markets, workplaces and other public places every day, Andhra Pradesh’s new Pedestrian Safety and Universal Accessibility Policy could bring a fundamental change",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:36:19 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4145889c778285dad016b6c6f2bb4437",
+      "title": "Deletions in Karnataka’s draft SIR rolls alarming | Data",
+      "link": "https://www.thehindu.com/data/deletions-in-karnatakas-draft-sir-rolls-alarming-data/article71391961.ece",
+      "summary": "Five constituencies in core Bengaluru region see more than 50% of its electoral rolls getting deleted, unseen in other major States. Despite concerning levels of deletions, the office of Karnataka CEO has neither made the deletions lists easily accessible nor has it made public the gender-wise deletions in each constituency",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:35:38 +0530",
+      "section": "National",
+      "report_category": "National_Opposition",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "b9a614e4fa4355cf3bc22da14d04b209",
+      "title": "From vibrant pookkalams to traditional feasts, Keralites around the globe celebrate Thiruvonam",
+      "link": "https://www.thehindu.com/news/national/kerala/keralites-around-the-globe-celebrate-thiruvonam/article71391900.ece",
+      "summary": "President Droupadi Murmu, Vice President C.P. Radhakrishnan, Prime Minister Narendra Modi, and Keralam Chief Minister V.D. Satheesan have all extended Onam greetings to all citizens",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:32:31 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "222753c13164bc527f113cebd372142f",
+      "title": "H1N1 in India: A seasonal surge, not a new strain, says ICMR",
+      "link": "https://www.thehindu.com/sci-tech/health/h1n1-in-india-a-seasonal-surge-not-a-new-strain-says-icmr/article71391367.ece",
+      "summary": "Delhi has reported 1,777 H1N1 cases this year, while Karnataka had recorded 4,212 laboratory-confirmed influenza cases across 32 districts by August 22. Maharashtra, too, has reported a rise in H1N1 infections",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:32:17 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
     {
       "id": "19496a8085e7097509ddbfbb1f22b430",
       "title": "At least three Indian oil companies plan to avoid ships on Iran’s new blacklist: report",
       "link": "https://www.thehindu.com/business/at-least-three-indian-oil-companies-plan-to-avoid-ships-on-irans-new-blacklist-report/article71391896.ece",
       "summary": "Some of the tankers ‌Iran listed are owned or chartered by Saudi Aramco and Abu Dhabi National Oil Co (ADNOC)",
       "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 13:01:05 +0530",
+      "timestamp": "Wed, 26 Aug 2026 13:27:25 +0530",
       "section": "International",
       "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "8865419261d49081a3cca1301da7a86d",
+      "title": "Mamdani says he opposes RSS, does not support Mohan Bhagwat’s event at Madison Square Garden",
+      "link": "https://www.thehindu.com/news/national/nyc-mayor-mamdani-opposes-rss-chief-bhagwats-madison-square-event/article71390368.ece",
+      "summary": "The New York City Mayor also clarified that he is unsure if the city has any jurisdiction on cancelling a private event in the U.S.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:26:56 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "0627b7cc68e7ce52b71a55f549040247",
+      "title": "Murder accused shot in leg by police during arrest bid in Neyveli",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/murder-accused-shot-in-leg-by-police-during-arrest-bid-in-neyveli/article71391678.ece",
+      "summary": "When the history-sheeter who was in hiding was confronted, he allegedly attacked two police constables with a machete.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:23:14 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "be22f5b738de3bf3ef2f620a6fcd3f85",
+      "title": "Deloitte to pay $21.5 million to settle U.S. government probe over DEI",
+      "link": "https://www.thehindu.com/news/international/deloitte-to-pay-215-million-to-settle-us-government-probe-over-dei/article71391877.ece",
+      "summary": "U.S. President Donald Trump has cracked down on DEI during his second ​term; DOJ said Deloitte tracked ‘demographic goals’, impacted promotion decisions",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:22:49 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c3b8d6078a58d50ad91aaea22b7370f6",
+      "title": "U.S. pauses visa appointments worldwide amid Trump's immigration crackdown: report",
+      "link": "https://www.thehindu.com/news/international/us-pauses-visa-appointments-worldwide-amid-trumps-immigration-crackdown-report/article71391497.ece",
+      "summary": "Applicants with interviews already scheduled were emailed that their appointments had been cancelled and that they would be informed of a new date and time",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:22:33 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2143062d10cda0f5fb46869bb529fe98",
+      "title": "Rebel TMC MPs get notices from Lok Sabha Secretariat on disqualification pleas; Mahua Moitra alleges ‘cover up’",
+      "link": "https://www.thehindu.com/news/national/rebel-tmc-mps-get-notices-from-lok-sabha-secretariat-on-disqualification-pleas-asked-to-reply-within-7-days/article71391461.ece",
+      "summary": "The development comes a day after the Supreme Court agreed to hear Abhishek Banerjee's plea seeking an expeditious decision on the disqualification petitions",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:20:38 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "cd3cc6a1ed84ecb269e8b8cd0ff3c334",
+      "title": "Sonya Gill, AIDWA leader and women’s rights activist, dies at 70",
+      "link": "https://www.thehindu.com/news/national/maharashtra/sonya-gill-aidwa-leader-and-womens-rights-activist-dies-at-70/article71391923.ece",
+      "summary": "Co-founder of the People’s Archive of Rural India (PARI), Sonya was dedicated to uplifting women in marginalised communities",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:13:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "be326939d4578eeea195c000c623ee92",
+      "title": "Karnataka to bar political affiliations in student polls; first phase in PU, degree colleges",
+      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-bar-political-affiliations-in-student-polls-first-phase-in-pu-degree-colleges/article71389289.ece",
+      "summary": "All the provisions will be made clear once the government order is passed, in about 15 days: Minister",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:08:45 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "bc6e040989d486c73ee124f590a6c0cf",
+      "title": "When Chennai’s sea food edged out catch from rivers, estuaries in the city",
+      "link": "https://www.thehindu.com/news/cities/chennai/madras-day-2026-when-sea-food-edged-out-catch-from-rivers-estuaries-in-the-city/article71385832.ece",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:07:29 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ffb7a08d8fd889c4c9030e98e3672f82",
+      "title": "Seven low-pressure systems, but little rain relief for Andhra Pradesh",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/seven-low-pressure-systems-but-little-rain-relief-for-andhra-pradesh/article71388879.ece",
+      "summary": "State faces a 51.2% monsoon deficit as the systems bring only localised rainfall, raising concerns over the impact on farmers",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 13:05:10 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -47,19 +294,6 @@
       "summary": "Trump shared a map in which the lake’s name had been crossed out and replaced with “Lake America”, with an American flag",
       "date": "2026-08-26",
       "timestamp": "Wed, 26 Aug 2026 12:56:51 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "c3b8d6078a58d50ad91aaea22b7370f6",
-      "title": "U.S. pauses visa appointments worldwide amid Trump's immigration crackdown: report",
-      "link": "https://www.thehindu.com/news/international/us-pauses-visa-appointments-worldwide-amid-trumps-immigration-crackdown-report/article71391497.ece",
-      "summary": "Applicants with interviews already scheduled were emailed that their appointments had been cancelled and that they would be informed of a new date and time",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 12:55:06 +0530",
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
@@ -106,19 +340,6 @@
       "lang": "en"
     },
     {
-      "id": "be22f5b738de3bf3ef2f620a6fcd3f85",
-      "title": "Deloitte to pay $21.5 million to settle U.S. government probe over DEI",
-      "link": "https://www.thehindu.com/news/international/deloitte-to-pay-215-million-to-settle-us-government-probe-over-dei/article71391877.ece",
-      "summary": "U.S. President Donald Trump has cracked down on DEI during his second ​term; DOJ said Deloitte tracked ‘demographic goals’, impacted promotion decisions",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 12:50:21 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "2e46c7de02ee79a6ba2ba080547e1045",
       "title": "Youth vote and its electoral impact",
       "link": "https://www.thehindu.com/news/national/youth-vote-and-its-electoral-impact/article71390301.ece",
@@ -142,19 +363,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "f7ba6701de7d87ea03f787a77461a161",
-      "title": "Nepal flash flood washes away villages, damages roads, power projects",
-      "link": "https://www.thehindu.com/news/international/nepal-flash-flood-washes-away-villages-project-sites-near-tibet-border/article71391731.ece",
-      "summary": "We have reports ‌of ⁠villages and infrastructure project sites being washed away, District Administrator Narendra Pariyar said.",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 12:37:34 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -390,6 +598,19 @@
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "3f097a1853a24e097d824da174760f86",
+      "title": "एक्सप्लेनर: ईरान को छलनी करने के लिए किन देशों को निशाना बनाने की तैयारी में अमेरिका, क्या भारत भी आएगा जद में",
+      "link": "https://www.amarujala.com/world/us-operation-economic-outcast-iran-sanctions-impact-on-india-trade-explainer-2026-08-26",
+      "summary": "अमेरिका ने ईरान के खिलाफ 'ऑपरेशन इकोनॉमिक आउटकास्ट' शुरू किया है। जानिए ईरान के शीर्ष आयातक-निर्यातक देश, अमेरिकी द्वितीयक प्रतिबंध और चाबहार बंदरगाह से लेकर भारतीय व्यापार पर इसके गंभीर असर का पूरा विश्लेषण।",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 12:18:23 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "6ae434eca0d3333ad1e3d744ce688385",
@@ -678,19 +899,6 @@
       "lang": "en"
     },
     {
-      "id": "8865419261d49081a3cca1301da7a86d",
-      "title": "Mamdani says he opposes RSS, does not support Mohan Bhagwat’s event at Madison Square Garden",
-      "link": "https://www.thehindu.com/news/national/nyc-mayor-mamdani-opposes-rss-chief-bhagwats-madison-square-event/article71390368.ece",
-      "summary": "The New York City Mayor also clarified that he is unsure if the city has any jurisdiction on cancelling a private event in the U.S.",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 11:50:31 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "62064572282ae1cd1391fe06894fd9ae",
       "title": "आदमखोर तेंदुए का आतंक: तीन महिलाएं बनीं शिकार, पहले संतोष, फिर ब्रह्मो और अब सिपाही की मां मिथिलेश की जान ली",
       "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/moradabad/terror-of-the-man-eating-leopard-three-women-fall-victim-constable-mother-killed-2026-08-26",
@@ -753,19 +961,6 @@
       "report_category": "UP_Focus",
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "2143062d10cda0f5fb46869bb529fe98",
-      "title": "Rebel TMC MPs get notices from Lok Sabha Secretariat on disqualification pleas; Mahua Moitra alleges ‘cover up’",
-      "link": "https://www.thehindu.com/news/national/rebel-tmc-mps-get-notices-from-lok-sabha-secretariat-on-disqualification-pleas-asked-to-reply-within-7-days/article71391461.ece",
-      "summary": "The development comes a day after the Supreme Court agreed to hear Abhishek Banerjee's plea seeking an expeditious decision on the disqualification petitions",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 11:43:41 +0530",
-      "section": "National",
-      "report_category": "National_Judicial",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -1406,19 +1601,6 @@
       "lang": "en"
     },
     {
-      "id": "8a7cdb0707bac7af1f409bb6c7b524c5",
-      "title": "Six killed, 12 injured as Hyderabad-Eluru electric bus rams into container truck near Suryapet",
-      "link": "https://www.thehindu.com/news/national/telangana/six-killed-12-injured-as-speeding-bus-crashes-into-lorry-in-telanganas-suryapet/article71391286.ece",
-      "summary": "The bus was carrying 42 passengers who were travelling from Hyderabad to Eluru via Vijayawada when the accident took place at about 4.55 a.m.",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 09:49:06 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "84ef75f18b3b4d9b65e5bb964c2be905",
       "title": "Maharashtra: धर्मांतरण रोधी कानून से डरे पादरी, ले रहे सहमति पत्र; मुंबई में किस कानून के लागू होने से हड़कंप?",
       "link": "https://www.amarujala.com/india-news/maharashtra-pastors-fearful-of-anti-conversion-law-obtaining-consent-letters-law-implementation-caused-stir-2026-08-26",
@@ -1430,19 +1612,6 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
-    },
-    {
-      "id": "222753c13164bc527f113cebd372142f",
-      "title": "H1N1 in India: A seasonal surge, not a new strain, says ICMR",
-      "link": "https://www.thehindu.com/sci-tech/health/h1n1-in-india-a-seasonal-surge-not-a-new-strain-says-icmr/article71391367.ece",
-      "summary": "Delhi has reported 1,777 H1N1 cases this year, while Karnataka had recorded 4,212 laboratory-confirmed influenza cases across 32 districts by August 22. Maharashtra, too, has reported a rise in H1N1 infections",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 09:39:56 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
     },
     {
       "id": "fe47486d37e64cac08f7a8d37267bd02",
@@ -1653,6 +1822,32 @@
       "lang": "en"
     },
     {
+      "id": "2a4314e1a53b378213eb49ba13b40756",
+      "title": "Trump’s Korean gambit exposes a shifting East Asian order",
+      "link": "https://www.aljazeera.com/opinions/2026/8/26/trumps-korean-gambit-exposes-a-shifting-east-asian-order?traffic_source=rss",
+      "summary": "Growing doubts about the US security umbrella are forcing new strategic calculations across the region.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 08:18:55 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c9926e45b1ca8094a6485e19b59ce89b",
+      "title": "SIT reaches Kanpur Municipal Corporation, questions chief engineer and XEN:Files scrutinised, several discrepancies found",
+      "link": "https://www.bhaskarenglish.in/national/news/kanpur-municipal-corporation-sit-investigation-chief-engineer-files-138841475.html",
+      "summary": "Following the Chief Secretary’s directive, action against the Kanpur Municipal Corporation continued on Wednesday, with a police SIT team visiting the civic body to investigate alleged irregularities. The SIT, led by in-charge ADCP Dr Archana Singh, is examining records at the Chief Engineer’s office. The team is scrutinising files related to payments and firm registrations. During the investigation, discrepancies were found in documents linked to payments made to the Kaila Devi firm. SIT members are also taking photographs of documents they consider suspicious for further examination. Several Municipal Corporation officials are being questioned as part of the investigation, including Chief Engineer SFA Zaidi, XEN Diwakar Bhaskar and RK Singh. The investigation comes a day after six FIRs were registered against contractors associated with the Municipal Corporation. The civic body has also cancelled tenders worth ₹100 crore. The SIT’s investigation is continuing, with officials examining documents and seeking further details from Municipal Corporation personnel. The news is being updated.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 08:16:10 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "137b7629bb020b747b4770ceaac5d0d9",
       "title": "चार दवाओं पर सख्ती: बिना डॉक्टर की सलाह के उपयोग पर होगी पाबंदी, स्वास्थ्य मंत्रालय के प्रस्ताव में क्या?",
       "link": "https://www.amarujala.com/india-news/four-drugs-restriction-without-prescription-sale-ban-government-action-against-misuse-2026-08-26",
@@ -1664,6 +1859,19 @@
       "source": "Amar Ujala",
       "district": "",
       "lang": "hi"
+    },
+    {
+      "id": "01130480455fb1ab85ce7da7f1aeb95e",
+      "title": "Brighton & Hove Albion sign Algerian left-back Jaouen Hadjam",
+      "link": "https://www.aljazeera.com/sports/2026/8/26/brighton-hove-albion-sign-algerian-left-back-jaouen-hadjam?traffic_source=rss",
+      "summary": "The 23-year-old joins from Swiss champions Young Boys on a five-year deal, making him the third Algerian in the league.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 08:04:13 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
     },
     {
       "id": "3fe6992b5e704f42d88c3b4b0b709b60",
@@ -1731,6 +1939,19 @@
       "lang": "en"
     },
     {
+      "id": "d39e01aa7cc5db2734ebdd053920a725",
+      "title": "US Army Black Hawk helicopter crashes in Colorado",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/us-army-black-hawk-helicopter-crashes-in-colorado?traffic_source=rss",
+      "summary": "A US Army Black Hawk helicopter crashed after an unplanned landing in Colorado.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 07:47:42 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "7d64fa416f9c337fdee62a7814f26246",
       "title": "Prominent Sikh separatist says FBI has warned him of new threat on his life",
       "link": "https://www.thehindu.com/news/international/prominent-sikh-separatist-says-fbi-has-warned-him-of-new-threat-on-his-life/article71391255.ece",
@@ -1740,6 +1961,19 @@
       "section": "International",
       "report_category": "International",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "9c480706386e715ef983c9b857fe3e51",
+      "title": "UN rejects Israel’s threat to expel Gaza residents over kite-flying",
+      "link": "https://www.aljazeera.com/news/2026/8/26/un-rejects-israels-threat-to-expel-gaza-residents-over-kite-flying?traffic_source=rss",
+      "summary": "UN rights office spokesperson slams Israeli threat of forced evacuations from Gaza communities over kite flying.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 07:43:36 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -1783,6 +2017,19 @@
       "lang": "en"
     },
     {
+      "id": "a635fbe2cd115544448522faff34273f",
+      "title": "Palestinian boy shot during Israeli raid on UNRWA centre",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/palestinian-boy-shot-during-israeli-raid-on-unrwa-centre?traffic_source=rss",
+      "summary": "Video shows the moment a Palestinian boy was shot during an Israeli raid on a UN facility in occupied East Jerusalem.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 07:41:02 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4abc6059a1fe55729b7dfa6e9a2a064d",
       "title": "बारिश-तूफान की सटीक सूचना देंगे नए एंटिना, यूपी में तैयार हो रहे आधुनिक उपकरण",
       "link": "https://www.livehindustan.com/uttar-pradesh/up-gorakhpur-mmmut-preparing-advance-technology-antenna-radiosonde-for-better-weather-prediction-201787709186236.html",
@@ -1792,6 +2039,19 @@
       "section": "UP_Focus",
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "cbe17c1ab0e9bc3764b7360351f5ca8b",
+      "title": "Bike falls into 15-ft-deep pit in Agra:Road caves in at night, water supply disrupted; residents demand barricading",
+      "link": "https://www.bhaskarenglish.in/local/uttar-pradesh/news/agra-road-cave-in-bike-accident-pothole-incident-138841182.html",
+      "summary": "Motorcycle fell into a 15 foot deep, 12 foot wide pothole in Agra after a section of road suddenly caved in around 3 a.m. on Tuesday night. The massive crater was discovered in the middle of the road in the morning, with the motorcycle lying inside it. The incident took place in Dhobi Pada locality near Dhankot Fountain. After receiving information, the Ward 96 councillor reached the spot around 6 a.m. and informed the Municipal Corporation, Torrent Power and police. The water supply to the affected area was shut off to prevent further danger to commuters. Local residents have demanded an investigation into the cause of the road collapse and immediate barricading of the site. Bike parked at night found in the pit in the morning According to local residents, the bike was parked near the Torrent box at night. There was no pit there at the time. A loud noise was also heard early Wednesday, but no one came outside because it was nighttime. When the residents came out of their homes in the morning, they saw a deep pit in the middle of the road. On taking a closer look, they found the bike lying inside it. The pit was so large that people from the surrounding area began gathering at the spot. Residents fear that the weakened section of the road could cave in further. They have therefore asked the administration to make safety arrangements at the site as soon as possible. Councillor had the water supply shut off After receiving information about the incident, Councillor Aarti Sharma reached the spot around 6 a.m. She informed the Municipal Commissioner, Torrent Power and the police. The water supply to the affected area was subsequently shut off to prevent the situation from worsening in case an underground pipeline had been damaged. The councillor also asked officials to investigate the cause of the road collapse and determine why the section of road caved in. She demanded immediate barricading around the pit to prevent commuters and pedestrians from falling into it. Advocate takes a dig at ‘Space Technology’ Taking a sarcastic dig at the road collapse, advocate Apoorv Sharma called it an example of “space technology.” He said the condition of the road raises serious questions about the arrangements and maintenance by the Municipal Corporation.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 07:39:53 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
     },
@@ -1952,19 +2212,6 @@
       "lang": "hi"
     },
     {
-      "id": "eb884f61251d9f6720c34945ded66356",
-      "title": "Trump's new economic squeeze on Iran has big challenge: China",
-      "link": "https://www.thehindu.com/news/international/trumps-new-economic-squeeze-on-iran-has-big-challenge-china/article71391233.ece",
-      "summary": "Trump’s economic pressure on Iran faces challenges from China’s strong trade ties, complicating U.S.-China relations ahead of a key summit",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 07:11:56 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "90fd59e3fe6905861d2597209f01a5c3",
       "title": "अयोध्या: जन्मदिन से लेकर मठ-मंदिरों के उत्सव में चंपत राय की दस्तक, 2 सितंबर की बैठक के पहले बढ़ी सक्रियता",
       "link": "https://www.amarujala.com/uttar-pradesh/ayodhya/ayodhya-champat-rai-s-presence-at-events-ranging-from-birthdays-to-monastery-and-temple-festivals-2026-08-25",
@@ -2056,6 +2303,19 @@
       "lang": "en"
     },
     {
+      "id": "bcf1e234a403d833b304ba6ad1178d4f",
+      "title": "Sold potatoes to save money, studied from friend’s notes:Altaf set to become doctor, takes part in NEET counselling process",
+      "link": "https://www.bhaskarenglish.in/local/rajasthan/kota/news/altaf-hussain-bareilly-neet-success-story-doctor-struggle-138840751.html",
+      "summary": "After the declaration of the NEET results, the counseling process is now underway. Along with the results, many inspiring stories of students are also coming to light. One such story is that of Altaf Hussain, a resident of Nawabganj tehsil in Bareilly district of Uttar Pradesh, who has cracked NEET in his 8th attempt. He has scored 563 marks. With this, he has fulfilled his dream of becoming a doctor. After passing the 12th grade, Altaf started sitting at a roadside potato stall with his father. Life was going on in a normal routine, but one night, while bringing potatoes from the market, his elder brother met with a horrific accident. This incident shook Altaf to his core. He realized that life could not be kept limited in this way, and it was from this turning point that the motivation to become a doctor ignited in his mind. Studied from friends' notes, sold potatoes to go to Kota The financial situation was not such that he could directly pay the fees of any big coaching institute. Altaf took the NEET exam for the first time in 2019 without any coaching and scored 323 marks. After this, he continued his preparation consistently. He kept studying by taking study material and notes from students in the town who had returned after studying in Kota, and by watching online lectures. In the year 2022, he secured 516 marks, while in 2023 and 2024, the marks increased to 590. However, due to the high cutoff at that time, he could not get admission to a medical college. In 2025, he obtained 501 marks. He achieved 85 percent marks in both 10th and 12th grades from the UP Board. A 2-room house and a family of 12 members Altaf's family background is full of struggles. His father, Iqbal Hussain Ansari, has only studied up to the 9th grade, and his mother, Kubra, is illiterate. Until 2015, the family lived in a mud house. Later, 12 family members lived in a two-room concrete house. Due to the marriages of eight sisters and a limited income, his father could never save money, but he did not let his son's dream break. Altaf's father, Iqbal Hussain, said, ''We never thought our son would become a doctor. We make a living by selling potatoes. Altaf worked hard, and we supported him as much as we could.''",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 06:37:26 +0000",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Bhaskar English",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "93da2aaa1e558f52a74bfa4862624532",
       "title": "Serena Williams, Carlos Alcaraz fall in US Open mixed doubles quarterfinal",
       "link": "https://www.aljazeera.com/sports/2026/8/26/serena-williams-carlos-alcaraz-fall-in-us-open-mixed-doubles-quarterfinal?traffic_source=rss",
@@ -2135,7 +2395,7 @@
     },
     {
       "id": "0d86d1b987d717586238c185f26470f7",
-      "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
+      "title": "Iran, Oman agree on new temporary route in Hormuz",
       "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
       "summary": "Deputy foreign minster says the route's entry as well as part of the exit would run through Iranian territorial waters.",
       "date": "2026-08-26",
@@ -2330,9 +2590,9 @@
     },
     {
       "id": "f25c1a6cfa66baa8d5b7e6ec1842dfe0",
-      "title": "At least 14 newborn babies killed in Pakistan hospital nursery fire",
+      "title": "At least 14 babies killed in Pakistan hospital nursery fire",
       "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
-      "summary": "Prime minister orders investigation and promises 'strictest action' against those responsible for the blaze.",
+      "summary": "Only one infant rescued from the neonatal facility where the fire broke out, in Pakistan's capital.",
       "date": "2026-08-26",
       "timestamp": "Wed, 26 Aug 2026 04:27:15 +0000",
       "section": "International",
@@ -3616,6 +3876,32 @@
       "lang": "en"
     },
     {
+      "id": "4ab6686e13a5628a321dd97c0bb87028",
+      "title": "मेहंदीपुर बालाजी में प्रेमिका का कत्ल: दर्शन के बहाने ले गया प्रेमी, चेहरा पत्थर से कुचला, लाश यहां फेंकी",
+      "link": "https://www.amarujala.com/uttar-pradesh/bulandshahr/lover-murdered-girlfriend-after-taking-her-to-mehandipur-balaji-accused-lover-and-his-friend-arrested-2026-08-26",
+      "summary": "बुलंदशहर के डिबाई क्षेत्र के गांव निवासी प्रेमिका (22) को दर्शन के बहाने बालाजी मेहंदीपुर ले जाकर मार दिया।",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 02:05:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "c85f6283843fd32f30e796380102e8c8",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 26 अगस्त के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-26",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 02:00:32 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "863f6eb3ef15aab54aa3e6ea09a04ef7",
       "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
@@ -3626,6 +3912,32 @@
       "report_category": "International",
       "source": "Al Jazeera",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "44269437f723589ad0688929ff40730b",
+      "title": "गोरखपुर: हवालात से पेशाब कराने के बहाने भागा दुष्कर्म का आरोपी, 24 घंटे में दोबारा गिरफ्तार",
+      "link": "https://www.amarujala.com/gorakhpur/police-re-arrest-misdeed-accused-who-escaped-from-custody-2026-08-26",
+      "summary": "गोरखपुर के बड़हलगंज थाने की हवालात में बंद शादी का झांसा देकर शारीरिक शोषण के आरोप में गिरफ्तार प्रदीप साहनी पुलिस अभिरक्षा से फरार हो गया।",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:47:52 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Gorakhpur",
+      "lang": "en"
+    },
+    {
+      "id": "8e5048b7b1c119dc9f2c5485e88473dc",
+      "title": "अनुराग ठाकुर बोले- इंडस्ट्री के अनुसार हमें छात्रों को तैयार करना होगा",
+      "link": "https://www.amarujala.com/video/delhi-ncr/noida/video-anurag-thakur-said-that-we-need-to-prepare-students-according-to-the-industrys-needs-2026-08-26",
+      "summary": "अनुराग ठाकुर बोले- इंडस्ट्री के अनुसार हमें छात्रों को तैयार करना होगा",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:46:13 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Noida",
       "lang": "en"
     },
     {
@@ -3642,6 +3954,32 @@
       "lang": "en"
     },
     {
+      "id": "43d09a396afdd315fb2f876dfe01a617",
+      "title": "मानसून में ‘स्वाइन फ्लू’ की दस्तक: IMA ने एडवाइजरी जारी कर किया अलर्ट, दिल्ली में 1,770+ स्वाइन फ्लू केस",
+      "link": "https://www.amarujala.com/india-news/swine-flu-hits-this-monsoon-season-ima-issues-advisory-alert-delhi-reports-1-770-swine-flu-cases-2026-08-26",
+      "summary": "मानसून में ‘स्वाइन फ्लू’ की दस्तक: IMA ने एडवाइजरी जारी कर किया अलर्ट, दिल्ली में 1,770+ स्वाइन फ्लू केस- Swine flu hits this monsoon season IMA issues advisory alert Delhi reports 1,770+ swine flu cases",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:37:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "805e2e0dfc5cda478ccfc07220949376",
+      "title": "बदायूं बवाल प्रकरण: पथराव करने वालों पर बड़ी कार्रवाई, दो मामले दर्ज, 32 आरोपी नामजद, आठ गिरफ्तार",
+      "link": "https://www.amarujala.com/uttar-pradesh/budaun/major-action-against-stone-pelters-two-cases-registered-and-eight-accused-arrested-in-budaun-2026-08-26",
+      "summary": "गांव राजा की सीकरी में बिना अनुमति भीमराव आंबेडकर की प्रतिमा स्थापित करने को लेकर हुआ था बवाल, अफसरों पर किया गया था पथराव",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:36:11 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
       "id": "50965e35624c971d1b21ecf435bca6bc",
       "title": "Kochi wakes to Thiruvonam festivities",
       "link": "https://www.thehindu.com/news/national/kerala/kochi-wakes-to-thiruvonam-festivities/article71389927.ece",
@@ -3652,6 +3990,32 @@
       "report_category": "National_Opposition",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "2a962a0d5a8fded5a657612e7a599d84",
+      "title": "पढ़ें 26 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-26",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:30:13 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3716468c5e8df39af44dc7bdb1b46fd1",
+      "title": "बदायूं में बवाल: आठ दिन पहले बनी थी योजना, प्रदर्शन से सड़क जाम करने तक महिलाओं से पीछे रहे पुरुष; तस्वीरें",
+      "link": "https://www.amarujala.com/photo-gallery/uttar-pradesh/bareilly/badaun-violence-plan-to-install-statue-was-formulated-eight-days-ago-2026-08-26",
+      "summary": "बदायूं में हुए बवाल को लेकर नई जानकारी सामने आई है। करीब आठ दिन पहले बनी प्रतिमा को स्थापित करने के लिए ग्रामीणों के बीच घुसे शरारती तत्वों ने पहले से सुनियोजित तैयारी कर ली थी। इसकी जानकारी खुफिया तंत्र को भी नहीं लगी।",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:29:03 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
       "lang": "en"
     },
     {
@@ -3668,6 +4032,32 @@
       "lang": "en"
     },
     {
+      "id": "e5947479d88fac1feef2d3b7708e44c6",
+      "title": "परीक्षा में गड़बड़ी को लेकर विरोध कर रहे छात्रों के साथ धक्कामुक्की",
+      "link": "https://www.amarujala.com/video-shots/uttar-pradesh/varanasi/video-bhu-viral-video-of-thrashing-amidst-protests-by-students-in-varanasi-2026-08-26",
+      "summary": "परीक्षा में गड़बड़ी को लेकर विरोध कर रहे छात्रों के साथ धक्कामुक्की",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:28:48 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
+      "id": "706a289763e1be2af0a0038d2e18f88e",
+      "title": "वाराणसी: करंट से हुई मौतों ने खोली स्मार्ट सिटी के दावों की पोल, बिजली व्यवस्था पर अजय राय का सरकार पर हमला",
+      "link": "https://www.amarujala.com/uttar-pradesh/varanasi/ajay-rai-attacks-government-over-power-infrastructure-following-three-electrocution-deaths-in-varanasi-2026-08-26",
+      "summary": "चेतगंज थाना क्षेत्र के कालीमहल तिराहे पर त्रिलोकी मोदनवाल जी (50) की करंट से मृत्यु हुई। सिगरा थाना क्षेत्र के लल्लापुरा (काजीपुर खुर्द) में पिता-पुत्र की करंट से मृत्यु हो गई।",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:28:28 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Varanasi",
+      "lang": "en"
+    },
+    {
       "id": "c1c24dd62bb07c3e3d1019a667ccef29",
       "title": "Major fire engulfs godown at Angamaly",
       "link": "https://www.thehindu.com/news/national/kerala/major-fire-engulfs-godown-at-angamaly/article71389539.ece",
@@ -3678,6 +4068,32 @@
       "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e1d2066883ff6c9c72602af6f07f8980",
+      "title": "यूपी: जेपीएनआईसी को 30 साल की लीज पर देगी सरकार, अखिलेश का तंज, बोले- अब सरकार को ठेके पर देना बचा है",
+      "link": "https://www.amarujala.com/lucknow/up-government-to-lease-out-jpnic-for-30-years-2026-08-26",
+      "summary": "लंबे समय से राजनीति का केंद्र रहे जय प्रकाश नारायण अंतरराष्ट्रीय केंद्र (जेपीएनआईसी) को प्रदेश सरकार ने निजी क्षेत्र से संचालित कराने का निर्णय लिया है।",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:27:04 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
+      "lang": "en"
+    },
+    {
+      "id": "229c8102a44fa351495fdbd6e913c8d2",
+      "title": "चुनाव से पहले सपा का एलान: सरकार बनने पर महिलाओं के लिए शुरू होगी स्त्री सम्मान समृद्धि; सालाना मिलेंगे 40,000",
+      "link": "https://www.amarujala.com/lucknow/up-akhilesh-yadav-alleges-that-commission-seeking-is-at-its-peak-under-bjp-rule-2026-08-26",
+      "summary": "समाजवादी पार्टी के मुखिया अखिलेश यादव ने यूपी विधानसभा चुनाव से पहले महिला मतदाताओं के लिए बड़ा एलान किया है। समाजवादी पार्टी के अनुसार, यूपी में सत्ता में आने पर ‘स्त्री सम्मान समृद्धि योजना’ शुरू करेगी।",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:15:17 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Lucknow",
       "lang": "en"
     },
     {
@@ -3692,6 +4108,19 @@
       "source": "Bhaskar English",
       "district": "Uttar Pradesh",
       "lang": "en"
+    },
+    {
+      "id": "7185ac53e2fb29b1a24a7370eb704dd8",
+      "title": "कर्नाटक की भूतनाल झील बनी मौत का ठिकाना: छह शव मिलने से मचा हड़कंप, चार महिलाएं और दो बच्चे शामिल",
+      "link": "https://www.amarujala.com/india-news/six-bodies-found-in-karnataka-vijayapura-bhutnal-lake-deceased-include-four-women-and-two-children-2026-08-26",
+      "summary": "कर्नाटक की भूतनाल झील बनी मौत का ठिकाना: छह शव मिलने से मचा हड़कंप, चार महिलाएं और दो बच्चे शामिल- Six bodies found in Karnataka Vijayapura Bhutnal Lake deceased include four women and two children",
+      "date": "2026-08-26",
+      "timestamp": "Wed, 26 Aug 2026 01:10:40 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
     },
     {
       "id": "2f097ded8b5bddf769fbc56d9243d5d2",
@@ -3733,19 +4162,6 @@
       "lang": "en"
     },
     {
-      "id": "c85f6283843fd32f30e796380102e8c8",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 26 अगस्त के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-08-26",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 01:00:34 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
       "id": "76d3f7a5a7272b1b5a6b0635a0671b2f",
       "title": "यूपी मौसम: पूरा प्रदेश बरसात की चपेट में, आज इन 29 जिलों के लिए भारी बारिश का अलर्ट जारी; यहां बना रिकॉर्ड",
       "link": "https://www.amarujala.com/lucknow/up-the-entire-state-is-in-the-grip-of-heavy-rain-with-a-heavy-rain-alert-issued-for-these-29-districts-on-we-2026-08-25",
@@ -3757,19 +4173,6 @@
       "source": "Amar Ujala",
       "district": "Uttar Pradesh",
       "lang": "en"
-    },
-    {
-      "id": "2a962a0d5a8fded5a657612e7a599d84",
-      "title": "पढ़ें 26 अगस्त के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-08-26",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-08-26",
-      "timestamp": "Wed, 26 Aug 2026 01:00:17 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "0b8e368d90d1a6998192559b614c5034",
@@ -17578,19 +17981,6 @@
       "lang": "en"
     },
     {
-      "id": "be326939d4578eeea195c000c623ee92",
-      "title": "Karnataka to bar political affiliations in student polls; first phase in PU, degree colleges",
-      "link": "https://www.thehindu.com/news/national/karnataka/karnataka-to-bar-political-affiliations-in-student-polls-first-phase-in-pu-degree-colleges/article71389289.ece",
-      "summary": "All the provisions will be made clear once the government order is passed, in about 15 days: Minister",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 21:24:13 +0530",
-      "section": "National",
-      "report_category": "National_Govt",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
       "id": "3969c7d7e063d7886b43cc8e600364b1",
       "title": "State urges Centre to rationalise price of fertilizers for balanced use",
       "link": "https://www.thehindu.com/news/national/telangana/state-urges-centre-to-rationalise-price-of-fertilizers-for-balanced-use/article71389836.ece",
@@ -18303,19 +18693,6 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "ffb7a08d8fd889c4c9030e98e3672f82",
-      "title": "Seven low-pressure systems, but little rain relief for Andhra Pradesh",
-      "link": "https://www.thehindu.com/news/national/andhra-pradesh/seven-low-pressure-systems-but-little-rain-relief-for-andhra-pradesh/article71388879.ece",
-      "summary": "State faces a 51.2% monsoon deficit as the systems bring only localised rainfall, raising concerns over the impact on farmers",
-      "date": "2026-08-25",
-      "timestamp": "Tue, 25 Aug 2026 20:12:44 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "The Hindu",
-      "district": "",
       "lang": "en"
     },
     {
@@ -27784,7 +28161,7 @@
     },
     {
       "id": "8e6d13f64ad403d8a29c86855ab164ee",
-      "title": "वाराणसी में हादसा: वाटर कूलर से पानी भरते समय करंट लगने से व्यक्ति की मौत, परिवार में मची चीख- पुकार",
+      "title": "वाराणसी में हादसा: वाटर कूलर में करंट की जद में आने से जिम संचालक की मौत, परिवार में मची चीख- पुकार",
       "link": "https://www.amarujala.com/uttar-pradesh/varanasi/man-dies-of-electric-shock-while-filling-water-from-water-cooler-in-varanasi-2026-08-25",
       "summary": "करंट इतना तीव्र था कि त्रिलोकी प्रसाद मोदन की मौके पर ही मृत्यु हो गई।",
       "date": "2026-08-25",
@@ -92640,6 +93017,71 @@
       "lang": "en"
     },
     {
+      "id": "633946be65868782dbfac9c09836cdcd",
+      "title": "Columbia engineers develop pigment-free coating that kept surfaces 6°C cooler under Arizona sun",
+      "link": "https://timesofindia.indiatimes.com/science/columbia-engineers-built-a-pigment-free-polymer-coating-filled-with-microscopic-air-pores-under-arizona-desert-sun-the-coated-surface-stayed-about-6c-below-ambient-air/articleshow/133532403.cms",
+      "summary": "Columbia Engineering researchers developed a porous polymer coating that can cool surfaces below the surrounding air temperature without using electricity. The coating replaces conventional white pigments with nano-to-microscale air voids that reflect sunlight and release heat towards the sky. Tests showed the surface stayed about 6°C below ambient temperature in Arizona and 3°C below it in Bangladesh.",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T14:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ef9973ec65b86d0a55f9a81d28be3708",
+      "title": "Savannah audited 39,000 Flock searches and found 34 unjustified; 4 employees arrested",
+      "link": "https://timesofindia.indiatimes.com/world/us/savannah-audited-39000-flock-searches-and-found-34-unjustified-6-employees-were-fired-and-4-have-now-been-arrested/articleshow/133531276.cms",
+      "summary": "Four former Savannah Police Department employees have been arrested over alleged misuse of the Flock Safety license plate reader system. The arrests followed an internal audit of 39,000 searches, which flagged 127 for review and found 34 were unjustified. Six employees were fired, while the Georgia Bureau of Investigation continues to investigate the case.",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T14:00:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5773a7225480f4a7fee9c2dbd5590c6d",
+      "title": "Japanese engineer’s anime-inspired hair helped test a driver safety camera",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/japanese-engineers-anime-inspired-hair-was-meant-to-save-time-but-it-ended-up-testing-a-driver-safety-camera-and-now-holds-more-than-250-patents/articleshow/133530388.cms",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T13:45:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "98e77497acf3cdb7279d0657d5c6caa4",
+      "title": "How a family reunion in China ended in a 3-year prison term for artist Gao Zhen",
+      "link": "https://timesofindia.indiatimes.com/world/china/how-a-family-reunion-in-china-ended-in-a-3-year-prison-term-for-artist-gao-zhen/articleshow/133533651.cms",
+      "summary": "Chinese artist Gao Zhen received a three-year prison sentence for his satirical artwork. Authorities charged him with \"infringing upon the reputation of heroes\" for his art. Gao's wife expressed deep disappointment and sadness over the unexpected conviction. His supporters argue the artworks predate the law under which he was prosecuted. The sentence highlights China's narrowing space for artistic and political expression.",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T13:11:32+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "db474e3ccc779a7d1a4efd0cf8e4babc",
+      "title": "47-year-old California pastor makes college football roster 30 years after an injury ended his career",
+      "link": "https://timesofindia.indiatimes.com/world/us/47-year-old-california-pastor-makes-college-football-roster-30-years-after-an-injury-ended-his-career-inspired-by-a-video-of-a-60-year-old-player/articleshow/133533300.cms",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T13:00:25+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "99ab99d1de2d0ae692cc1395a03ef289",
       "title": "'Become capitalists, raise money': Singer's 'advice' to Zohran Mamdani amid Bhagwat US event row",
       "link": "https://timesofindia.indiatimes.com/india/become-capitalists-raise-money-singers-advice-to-zohran-mamdani-amid-bhagwat-us-event-row/articleshow/133533142.cms",
@@ -92649,6 +93091,19 @@
       "section": "National",
       "report_category": "National_General",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ac99b7f72a35c29842f158727cba509a",
+      "title": "Nimaya Williams earns $40,000 BigFuture scholarship as one of only two students nationwide",
+      "link": "https://timesofindia.indiatimes.com/world/us/meet-nimaya-williams-the-north-carolina-junior-who-completed-free-college-planning-steps-and-became-one-of-only-two-students-nationwide-to-receive-a-40000-bigfuture-scholarship/articleshow/133532181.cms",
+      "summary": "Nimaya Williams has achieved a remarkable milestone by securing a $40,000 scholarship from College Board's BigFuture. This accolade was awarded to her for completing various college and career planning tasks available on their platform. The financial support alleviates a significant burden for her family regarding higher education costs, showcasing how strategic planning can create unforeseen pathways to success.",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T12:55:51+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
@@ -92688,6 +93143,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c702bd664b3a4a3406111b81dc43d4e3",
+      "title": "6,500-year-old human tooth found in Serbian museum collection",
+      "link": "https://timesofindia.indiatimes.com/science/6500-years-ago-someone-drilled-a-human-tooth-and-wore-it-as-a-pendant-archaeologists-found-it-sitting-in-a-serbian-museum-collection/articleshow/133532914.cms",
+      "summary": "",
+      "date": "2026-08-26",
+      "timestamp": "2026-08-26T12:30:50+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
