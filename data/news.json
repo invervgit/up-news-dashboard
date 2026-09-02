@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T21:30:29.612456+00:00",
+  "generated_at": "2026-09-02T23:46:31.426378+00:00",
   "stories": [
     {
       "id": "ea406dd387354feab2ad1ce31c34d593",
@@ -10961,6 +10961,19 @@
       "lang": "en"
     },
     {
+      "id": "6a32e4ea0a9749ccf03ed2f194e201be",
+      "title": "I’ve watched Chennai grow and change through the years",
+      "link": "https://www.thehindu.com/sci-tech/health/ive-watched-chennai-grow-and-change-through-the-years/article71419495.ece",
+      "summary": "",
+      "date": "2026-09-02",
+      "timestamp": "Wed, 02 Sep 2026 23:45:58 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0ee7221b8c05e116e114e694e3451ca0",
       "title": "Priest arrested for stealing gold ornaments from temple",
       "link": "https://www.thehindu.com/news/national/andhra-pradesh/priest-arrested-for-stealing-gold-ornaments-from-temple/article71420893.ece",
@@ -11091,6 +11104,32 @@
       "lang": "en"
     },
     {
+      "id": "f82898712c8f95713b71d13d231185de",
+      "title": "Thousands protest in Spain as Ceuta’s migration crisis festers a month on",
+      "link": "https://www.aljazeera.com/news/2026/9/2/thousands-protest-in-spain-as-ceutas-migrant-crisis-festers-a-month-on?traffic_source=rss",
+      "summary": "Spain faces unrest as residents protest, while migrants and asylum seekers search for shelter and resources in Ceuta.",
+      "date": "2026-09-02",
+      "timestamp": "Wed, 02 Sep 2026 23:28:18 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5a7879e759a58db2eedfed4d9d99c827",
+      "title": "Did DOGE ruin America’s food safety system?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/aje-onl-nf_did-doge-ruin-americas-food-safety-system-020926?traffic_source=rss",
+      "summary": "Food safety scares raise questions over whether Trump’s cuts weakened US food safety monitoring.",
+      "date": "2026-09-02",
+      "timestamp": "Wed, 02 Sep 2026 23:25:49 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "0f1580434673c916d3fa4c90ee11e463",
       "title": "Straw-laden lorry catches fire in Ranipet",
       "link": "https://www.thehindu.com/news/national/tamil-nadu/straw-laden-lorry-catches-fire-in-ranipet/article71419879.ece",
@@ -11212,19 +11251,6 @@
       "title": "Nepal flash floods aftermath LIVE: Death toll near 1,250 as more than 4,000 still missing",
       "link": "https://www.thehindu.com/news/international/nepal-flash-floods-live-updates-rescue-operations-relief-death-toll-missing-persons-news-september-2-2026/article71417912.ece",
       "summary": "Among the missing people, 583 are foreigners, while the joint forces of security personnel, including the Nepal Army, have so far rescued 11,993 people using helicopters and land routes",
-      "date": "2026-09-02",
-      "timestamp": "Wed, 02 Sep 2026 22:59:14 +0530",
-      "section": "International",
-      "report_category": "International",
-      "source": "The Hindu",
-      "district": "",
-      "lang": "en"
-    },
-    {
-      "id": "5cd3f5da01d31fb972e1c695bf0f83f0",
-      "title": "West Asia conflict LIVE: Iran blacklists more ships trying to sail through Hormuz, govt. website shows",
-      "link": "https://www.thehindu.com/news/international/west-asia-war-us-attack-on-iran-live-updates-donald-trump-strait-of-hormuz-news-september-2-2026/article71418027.ece",
-      "summary": "Iran security chief says U.S. to face new war strategy; Bessent warns 'everyone' against backing Tehran",
       "date": "2026-09-02",
       "timestamp": "Wed, 02 Sep 2026 22:59:14 +0530",
       "section": "International",
@@ -11464,6 +11490,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e536813bac85dd2087b41d8d1fc5efa7",
+      "title": "OpenAI faces new lawsuits over Tumbler Ridge mass shooting tragedy",
+      "link": "https://www.aljazeera.com/economy/2026/9/2/openai-faces-new-lawsuits-over-tumbler-ridge-mass-shooting-tragedy?traffic_source=rss",
+      "summary": "Multiple new cases have been filed against OpenAI, alleging ChatGPT played a role in the Tumbler Ridge mass shooting.",
+      "date": "2026-09-02",
+      "timestamp": "Wed, 02 Sep 2026 22:15:32 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -11767,6 +11806,19 @@
       "lang": "en"
     },
     {
+      "id": "0926692fee43ab275baa4e97a3e7ee7b",
+      "title": "Republican senator calls on Trump to fire Secretary of Defence Hegseth",
+      "link": "https://www.aljazeera.com/news/2026/9/2/republican-senator-calls-on-trump-to-fire-secretary-of-defence-hegseth?traffic_source=rss",
+      "summary": "Senator Thom Tillis accuses Pentagon chief of 'inept mismanagement' as US military is strained by war on Iran.",
+      "date": "2026-09-02",
+      "timestamp": "Wed, 02 Sep 2026 21:37:41 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "a2a5122b426b0836d13806edca488733",
       "title": "EAGLE Force traces e-cigarette trail from minors to two alleged sellers in Hyderabad",
       "link": "https://www.thehindu.com/news/national/telangana/eagle-force-traces-e-cigarette-trail-from-minors-to-two-alleged-sellers-in-hyderabad/article71420119.ece",
@@ -11789,6 +11841,19 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "052d4e6d1150936c1bde62aee7812091",
+      "title": "Protests in Spain over government's handling of Ceuta migrant crisis",
+      "link": "https://www.bbc.co.uk/news/articles/c1mvn2yp9n2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Spanish opposition parties accuse Prime Minister Pedro Sánchez of abandoning the residents of Ceuta.",
+      "date": "2026-09-02",
+      "timestamp": "Wed, 02 Sep 2026 21:34:27 GMT",
+      "section": "International",
+      "report_category": "International",
+      "source": "BBC World",
       "district": "",
       "lang": "en"
     },
@@ -11910,6 +11975,19 @@
       "lang": "en"
     },
     {
+      "id": "3d965b3ee02c3dc29c029ede131119fa",
+      "title": "Israeli PM says Israel is working to overthrow Iran’s government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu said on Wednesday that his country is working to overthrow Iran’s government.",
+      "date": "2026-09-02",
+      "timestamp": "Wed, 02 Sep 2026 21:23:55 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "4ca6a85882e895579bfe03c9724edea5",
       "title": "सांसद जगदंबिका पाल ने सरकारी कार्यक्रम में अपनी जगह बेटे अभिषेक पाल को भेजा",
       "link": "https://www.livehindustan.com/uttar-pradesh/mp-jagdambika-pal-sent-his-son-abhishek-pal-in-his-place-for-a-government-function-201788363183431.html",
@@ -11945,6 +12023,19 @@
       "section": "National",
       "report_category": "National_Judicial",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4847f585af038f2f4b91224844ebfb66",
+      "title": "Children return to school in DR Congo amid growing concerns over Ebola",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/children-return-to-school-in-dr-congo-amid-growing-concerns-over-ebola?traffic_source=rss",
+      "summary": "Children return to school in DR Congo amid growing concerns over Ebola",
+      "date": "2026-09-02",
+      "timestamp": "Wed, 02 Sep 2026 21:21:36 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
       "district": "",
       "lang": "en"
     },
@@ -11998,6 +12089,19 @@
       "report_category": "UP_Focus",
       "source": "Live Hindustan",
       "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "e9618dc9241a29086e88aaa3b72deccb",
+      "title": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+      "link": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
+      "summary": "Israel Katz says 'there is no real solution for Gaza' without de-populating the territory.",
+      "date": "2026-09-02",
+      "timestamp": "Wed, 02 Sep 2026 21:19:32 +0000",
+      "section": "International",
+      "report_category": "International",
+      "source": "Al Jazeera",
+      "district": "",
       "lang": "en"
     },
     {
@@ -12197,7 +12301,7 @@
     },
     {
       "id": "ed613508f16442179746e0531832c962",
-      "title": "What you need to know: US launches coin featuring Trump’s face",
+      "title": "US launches $1 coin featuring Trump’s face: What to know",
       "link": "https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss",
       "summary": "The coin marks the first time in nearly 200 years that a living person has been featured on the country's currency.",
       "date": "2026-09-02",
@@ -43500,6 +43604,162 @@
       "lang": "en"
     },
     {
+      "id": "1042f225bb4a06c1690f7496f1f85760",
+      "title": "कृष्णा-गोदावरी बेसिन में समुद्र के नीचे खिसकी जमीन?: भारत ने शुरू की जांच, मिले बड़े सबूत",
+      "link": "https://www.amarujala.com/india-news/india-probes-underwater-land-shift-krishna-godavari-basin-sediment-movement-evidence-2026-09-03",
+      "summary": "कृष्णा-गोदावरी बेसिन में समुद्र के नीचे खिसकी जमीन?: भारत ने शुरू की जांच, मिले बड़े सबूत",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 05:10:35 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "6ac8f7a5abc459a956bd7cee6345f5fc",
+      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 3 सितम्बर के मुख्य और ताजा समाचार",
+      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-09-03",
+      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 05:00:36 +0530",
+      "section": "UP_Focus",
+      "report_category": "UP_Focus",
+      "source": "Amar Ujala",
+      "district": "Uttar Pradesh",
+      "lang": "en"
+    },
+    {
+      "id": "ed3e411cc924f7e5a14004ccff8e00b6",
+      "title": "पढ़ें 3 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
+      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-03",
+      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 05:00:23 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "06b1a2009f15383a946bbdb5d7e964ef",
+      "title": "Weather Today: दिल्ली-एनसीआर समेत देश के इन 18 राज्यों में IMD ने जारी किया भीषण बारिश का अलर्ट",
+      "link": "https://www.amarujala.com/video/india-news/weather-today-imd-issues-alert-for-heavy-rainfall-in-18-states-across-the-country-including-delhi-ncr-2026-09-03",
+      "summary": "Weather Today: दिल्ली-एनसीआर समेत देश के इन 18 राज्यों में IMD ने जारी किया भीषण बारिश का अलर्ट",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 05:00:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "c6dc7026c680e34357e40d1278bf5439",
+      "title": "सीवीसी की रिपोर्ट में खुलासा: सरकारी ऑफिस भ्रष्टाचार के गढ़, 70 हजार शिकायतें; बैंक-रेलवे सबसे आगे",
+      "link": "https://www.amarujala.com/india-news/cvc-report-2025-70584-corruption-complaints-banks-railways-top-2026-09-03",
+      "summary": "सीवीसी की रिपोर्ट में खुलासा: सरकारी ऑफिस भ्रष्टाचार के गढ़, 70 हजार शिकायतें; बैंक-रेलवे सबसे आगे cvc-report-2025-70584-corruption-complaints-banks-railways-top",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 04:58:07 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "195afdc78ea1cbd2792a7d7d43454785",
+      "title": "एनडीए की नई टीम की आहट: मंत्रालय फेंटे जाएंगे, शिक्षा मंत्रालय हॉट सीट; 70 पार वाले निशाने पर?",
+      "link": "https://www.amarujala.com/india-news/nda-new-team-september-6-7-cabinet-reshuffle-education-ministry-hot-seat-over-70-target-2026-09-03",
+      "summary": "एनडीए की नई टीम की आहट: मंत्रालय फेंटे जाएंगे, शिक्षा मंत्रालय हॉट सीट; 70 पार वाले निशाने पर?",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 04:09:12 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "3528da108f1538f044879e73601f86a1",
+      "title": "Plane carrying U.S. DHS chief lands after suffering engine failure",
+      "link": "https://www.thehindu.com/news/international/plane-carrying-us-dhs-chief-lands-after-suffering-engine-failure/article71421392.ece",
+      "summary": "The pilot declared ‌an emergency after ‌the ⁠right engine failed on a ⁠flight from Atlanta to the Washington, D.C., area and landed at Reagan, according ​to Mullin ‌and air traffic control audio.",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 03:57:47 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "5cd3f5da01d31fb972e1c695bf0f83f0",
+      "title": "West Asia conflict LIVE: Iran blacklists more ships trying to sail through Hormuz, govt. website shows",
+      "link": "https://www.thehindu.com/news/international/west-asia-war-us-attack-on-iran-live-updates-donald-trump-strait-of-hormuz-news-september-2-2026/article71418027.ece",
+      "summary": "Iran security chief says U.S. to face new war strategy; Bessent warns 'everyone' against backing Tehran",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 03:41:57 +0530",
+      "section": "International",
+      "report_category": "International",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "72bf44e19bac5689aa7629d48ea99315",
+      "title": "न्यूज डायरी: वंदे भारत में एग्जीक्यूटिव क्लास से हटेंगी 180 डिग्री घूमने वाली सीटें, रेलवे ने दिया प्रस्ताव",
+      "link": "https://www.amarujala.com/india-news/national-updates-north-east-west-south-news-proposal-to-remove-rotating-seats-in-vande-bharat-executive-class-2026-09-03",
+      "summary": "न्यूज डायरी: वंदे भारत में एग्जीक्यूटिव क्लास से हटेंगी 180 डिग्री घूमने वाली सीटें, रेलवे ने दिया प्रस्ताव",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 03:39:39 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "0992ccf3f0eae670c3cc63bfa4471a0c",
+      "title": "पहाड़ से मैदान तक आफत की बारिश: अगले 4 दिन और बरसेगा पानी, 12 से अधिक राज्यों में अलर्ट; भूस्खलन से रास्ते बंद",
+      "link": "https://www.amarujala.com/india-news/imd-weather-alert-heavy-rain-expected-over-next-4-days-more-than-12-states-landslide-2026-09-03",
+      "summary": "पहाड़ से मैदान तक आफत की बारिश: अगले 4 दिन और बरसेगा पानी, 12 से अधिक राज्यों में अलर्ट; भूस्खलन से रास्ते बंद imd-weather-alert-heavy-rain-expected-over-next-4-days-more-than-12-states-landslide",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 03:38:01 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "504363721cbffc01f79132875843e24a",
+      "title": "लगातार छठे दिन भी सोने- चांदी की कीमतों में भारी गिरावट, जानिए ताजा रेट!",
+      "link": "https://www.amarujala.com/video/india-news/sharp-drop-in-gold-and-silver-prices-for-the-sixth-consecutive-day-check-the-latest-rates-2026-09-03",
+      "summary": "लगातार छठे दिन भी सोने- चांदी की कीमतों में भारी गिरावट, जानिए ताजा रेट!",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 03:30:02 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
+      "id": "7476987cd40b09ce7f83b539480f873f",
+      "title": "'शिक्षा अधिकार है, विशेषाधिकार नहीं': जनजातीय छात्रों से मुलाकात कर बोले राहुल गांधी; क्या हैं उनकी मांगें?",
+      "link": "https://www.amarujala.com/india-news/rahul-gandhi-meets-delegation-of-tribal-students-in-nashik-says-education-is-right-not-privilege-2026-09-03",
+      "summary": "'शिक्षा अधिकार है, विशेषाधिकार नहीं': जनजातीय छात्रों से मुलाकात कर बोले राहुल गांधी; क्या हैं उनकी मांगें?",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 03:16:59 +0530",
+      "section": "National",
+      "report_category": "National_General",
+      "source": "Amar Ujala",
+      "district": "",
+      "lang": "hi"
+    },
+    {
       "id": "1c3a7156a318cf595c091999c01e221b",
       "title": "Gorakhpur News: वेदांश बने फीडे रेटेड शतरंज खिलाड़ी",
       "link": "https://www.amarujala.com/gorakhpur/vedansh-becomes-a-fide-rated-chess-player-gorakhpur-news-c-7-gkp1062-1438001-2026-09-03",
@@ -43641,32 +43901,6 @@
       "source": "Amar Ujala",
       "district": "Gorakhpur",
       "lang": "en"
-    },
-    {
-      "id": "6ac8f7a5abc459a956bd7cee6345f5fc",
-      "title": "UP News Today Live: उत्तर प्रदेश ब्रेकिंग न्यूज़, पढ़ें 3 सितम्बर के मुख्य और ताजा समाचार",
-      "link": "https://www.amarujala.com/live/uttar-pradesh/up-latest-and-breaking-news-today-in-hindi-live-up-ke-taaja-samachar-2026-09-03",
-      "summary": "UP Breaking News Today Live - Read Uttar Pradesh latest and breaking news today in hindi at Amarujala. यहां पढ़ें, उत्तर प्रदेश की ताजा खबरें, राजनीति, खेल, मनोरंजन, धर्म, क्राइम और शिक्षा की खबरों का लाइव अपडेशन.",
-      "date": "2026-09-03",
-      "timestamp": "Thu, 03 Sep 2026 02:30:26 +0530",
-      "section": "UP_Focus",
-      "report_category": "UP_Focus",
-      "source": "Amar Ujala",
-      "district": "Uttar Pradesh",
-      "lang": "en"
-    },
-    {
-      "id": "ed3e411cc924f7e5a14004ccff8e00b6",
-      "title": "पढ़ें 3 सितम्बर के मुख्य और ताजा समाचार - लाइव ब्रेकिंग न्यूज",
-      "link": "https://www.amarujala.com/live/india-news/latest-and-breaking-news-today-in-hindi-live-2026-09-03",
-      "summary": "Latest and Breaking News - Read today's latest and breaking news in hindi on Amarujala. यहां पढ़ें देश, दुनिया, खेल, मनोरंजन, धर्म, टेक्नोलॉजी, शिक्षा और आर्थिक जगत की खबरों का लाइव अपडेशन",
-      "date": "2026-09-03",
-      "timestamp": "Thu, 03 Sep 2026 02:30:13 +0530",
-      "section": "National",
-      "report_category": "National_General",
-      "source": "Amar Ujala",
-      "district": "",
-      "lang": "hi"
     },
     {
       "id": "4d686d9dcb393f74ef84b5f15765d6a8",
@@ -45047,6 +45281,19 @@
       "lang": "en"
     },
     {
+      "id": "d59adb096098583ac40be34a64fc7178",
+      "title": "Digital health, literacy should be taught in schools, say educators",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/digital-health-literacy-should-be-taught-in-schools-say-educators/article71420495.ece",
+      "summary": "",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 00:29:16 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "6d6342882b037441af8b707258f85aa3",
       "title": "Little Flower Degree College holds international seminar on climate change",
       "link": "https://www.thehindu.com/news/cities/Hyderabad/little-flower-degree-college-holds-international-seminar-on-climate-change/article71420932.ece",
@@ -45060,6 +45307,19 @@
       "lang": "en"
     },
     {
+      "id": "cef8b16b0fa8baf9889fa67c1dc08ecd",
+      "title": "CGPSC scam: Ex-Baghel aide’s name used by relative to influence candidates, says ED",
+      "link": "https://www.thehindu.com/news/national/chhattisgarh/cgpsc-scam-ex-baghel-aides-name-used-by-relative-to-influence-candidates-says-ed/article71420910.ece",
+      "summary": "According to central agencies, in exchange of money, question papers of the CGPSC examinations were leaked to the relatives of the accused persons and to selected candidates illegally.",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 00:22:01 +0530",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
       "id": "3f1ecf14eddb8d818907d4a9b03592e6",
       "title": "Counterfeit currency racket busted in Hyderabad, ₹2.91 lakh fake notes seized",
       "link": "https://www.thehindu.com/news/national/telangana/counterfeit-currency-racket-busted-in-hyderabad-291-lakh-fake-notes-seized/article71419588.ece",
@@ -45068,6 +45328,19 @@
       "timestamp": "Thu, 03 Sep 2026 00:15:22 +0530",
       "section": "National",
       "report_category": "National_General",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "c9a20e596b47034c33e67fc9e1d3d724",
+      "title": "IAF successfully conducts trial of Indigenous Long-Range Glide Bomb Khagantak-243",
+      "link": "https://www.thehindu.com/news/national/iaf-successfully-conducts-trial-of-indigenous-long-range-glide-bomb-khagantak-243/article71421045.ece",
+      "summary": "The successful trial of Khagantak-243 is expected to provide a major boost to the development of long-range air-to-ground precision weapons by Indian industry.",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 00:14:20 +0530",
+      "section": "National",
+      "report_category": "National_Govt",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -45094,6 +45367,19 @@
       "timestamp": "Thu, 03 Sep 2026 00:10:15 +0530",
       "section": "National",
       "report_category": "National_Govt",
+      "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e8cdcae62a10a436822573dd8a4c20ca",
+      "title": "West Bengal CM drives roller over 2 lakh cough syrup bottles in anti-drug drive",
+      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-drives-roller-over2-lakh-cough-syrupbottles-in-anti-drug-drive/article71419928.ece",
+      "summary": "Sends out message to bring the youth out of drug addiction; says drug smugglers will face severe action and will be imprisoned",
+      "date": "2026-09-03",
+      "timestamp": "Thu, 03 Sep 2026 00:09:03 +0530",
+      "section": "National",
+      "report_category": "National_General",
       "source": "The Hindu",
       "district": "",
       "lang": "en"
@@ -80585,6 +80871,58 @@
       "section": "National",
       "report_category": "National_Govt",
       "source": "The Hindu",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "ed645aeeb113e3a87616da63e94a9628",
+      "title": "After their brother died, two siblings inherited 20.66 acres beside Zion National Park",
+      "link": "https://timesofindia.indiatimes.com/world/us/after-their-brother-died-two-siblings-inherited-20-66-acres-beside-zion-national-park-they-gave-up-development-rights-so-it-can-never-be-built-on/articleshow/133691288.cms",
+      "summary": "In a heartfelt tribute to their late brother, two siblings have secured twenty-point-six-six acres of pristine land bordering Zion National Park through a conservation easement with the Virgin River Land Conservancy. This commitment ensures that the land remains untouched by commercial development, serving as a refuge for wildlife and offering breathtaking views of the iconic red sandstone formations, reinforcing their dedication to environmental stewardship.",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-03T03:55:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "d99b9c25c512b7a8f91ef505fa813ee0",
+      "title": "CBI probe necessary into Disha Salian's death: HC",
+      "link": "https://timesofindia.indiatimes.com/india/cbi-probe-necessary-into-disha-salians-death-hc/articleshow/133720165.cms",
+      "summary": "",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-03T03:16:00+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "e083d187e02b24efdef1cb9bc2b3e571",
+      "title": "'A case of no probe', says Supreme Court, junks 25-yr-old murder case",
+      "link": "https://timesofindia.indiatimes.com/india/a-case-of-no-probe-says-supreme-court-junks-25-yr-old-murder-case/articleshow/133719967.cms",
+      "summary": "",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-03T02:57:31+05:30",
+      "section": "National",
+      "report_category": "National_Judicial",
+      "source": "TOI India",
+      "district": "",
+      "lang": "en"
+    },
+    {
+      "id": "4f92c30121951028a018b8f23fbdaa38",
+      "title": "Scientists removed 285,000 fish from a Wisconsin lake to help walleye, but perch rose 788% instead",
+      "link": "https://timesofindia.indiatimes.com/science/in-2018-scientists-began-removing-about-285000-fish-from-wisconsins-mcdermott-lake-4-years-later-yellow-perch-were-up-788-but-walleye-recruitment-was-still-zero/articleshow/133706721.cms",
+      "summary": "Scientists removed about 285,000 centrarchid fish from Wisconsin’s McDermott Lake between 2018 and 2021 to see if reducing competition and predation could help walleye recover. The experiment sharply reduced several fish species and saw yellow perch numbers rise by about 788%. However, researchers found no detectable natural walleye recruitment, showing that removing centrarchids alone did not restore the lake’s walleye population.",
+      "date": "2026-09-02",
+      "timestamp": "2026-09-03T02:55:00+05:30",
+      "section": "International",
+      "report_category": "International",
+      "source": "TOI World",
       "district": "",
       "lang": "en"
     },
